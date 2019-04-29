@@ -1,0 +1,2676 @@
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record source="doyle.bibsys.author.xml">
+    <marc:leader>00384nam-a2200133z--4500</marc:leader>
+    <marc:controlfield tag="001">999920608779602201</marc:controlfield>
+    <marc:controlfield tag="008">170808u2005uuuuuuuuu-|-o----u|----|eng-d</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(CKB)3780000000449095</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(EXLCZ)993780000000449095</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Doyle, Arthur Conan</marc:subfield>
+      <marc:subfield code="1p">http://viaf.org/viaf/65283845</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="240" ind1="1" ind2="0">
+      <marc:subfield code="a">Through the Magic Door</marc:subfield>
+      <marc:subfield code="1w">http://viaf.org/viaf/310218668</marc:subfield>
+      <marc:subfield code="2">generated from 245</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Through the Magic Door</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="b">Project Gutenberg</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1="0" ind2="1">
+      <marc:subfield code="a">47BIBSYS_UBTO</marc:subfield>
+      <marc:subfield code="6">999920002474302205</marc:subfield>
+      <marc:subfield code="9">E</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+  
+  
+  <marc:record source="doyle.bibsys.author.xml">
+    <marc:leader>00552cam-a2200193z--4500</marc:leader>
+    <marc:controlfield tag="001">999919921856202201</marc:controlfield>
+    <marc:controlfield tag="005">20160614115404.0</marc:controlfield>
+    <marc:controlfield tag="008">121017u2000uuuuuuuuu-|-o----u|----|eng-d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">0-585-10400-X</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(CKB)111029787270724</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(EXLCZ)99111029787270724</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Doyle, Arthur Conan</marc:subfield>
+      <marc:subfield code="1p">http://viaf.org/viaf/65283845</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="210" ind1=" " ind2=" ">
+      <marc:subfield code="a">POISON BELT</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="240" ind1="1" ind2="0">
+      <marc:subfield code="a">The Poison Belt</marc:subfield>
+      <marc:subfield code="1w">http://www.wikidata.org/entity/Q2660166</marc:subfield>
+      <marc:subfield code="2">generated from 245</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1=" " ind2="4">
+      <marc:subfield code="a">The Poison Belt</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="b">Project Gutenberg ; NetLibrary</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="710" ind1="2" ind2=" ">
+      <marc:subfield code="a">NetLibrary, Inc.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1="0" ind2="1">
+      <marc:subfield code="a">47BIBSYS_UBB</marc:subfield>
+      <marc:subfield code="6">999919762091102207</marc:subfield>
+      <marc:subfield code="9">E</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1="0" ind2="1">
+      <marc:subfield code="a">47BIBSYS_NTNU_UB</marc:subfield>
+      <marc:subfield code="6">999919795345702203</marc:subfield>
+      <marc:subfield code="9">E</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+  <marc:record source="doyle.bibsys.author.xml">
+    <marc:leader>00664cam-a2200217z--4500</marc:leader>
+    <marc:controlfield tag="001">999919921684302201</marc:controlfield>
+    <marc:controlfield tag="005">20160727154517.0</marc:controlfield>
+    <marc:controlfield tag="008">121017u1998uuuuuuuuu-|-o----u|----|eng-d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">0-585-22227-4</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(CKB)111029787291004</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(EXLCZ)99111029787291004</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Doyle, Arthur Conan</marc:subfield>
+      <marc:subfield code="1p">http://viaf.org/viaf/65283845</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="210" ind1=" " ind2=" ">
+      <marc:subfield code="a">LOST WORLD</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="240" ind1="1" ind2="0">
+      <marc:subfield code="a">The Lost World</marc:subfield>
+      <marc:subfield code="1w">http://viaf.org/viaf/294145857904223021237</marc:subfield>
+      <marc:subfield code="2">generated from 245</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1=" " ind2=" ">
+      <marc:subfield code="a">Lost World</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="b">University of Virginia Library ; NetLibrary</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="710" ind1="2" ind2=" ">
+      <marc:subfield code="a">NetLibrary, Inc.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1="0" ind2="1">
+      <marc:subfield code="a">47BIBSYS_UBB</marc:subfield>
+      <marc:subfield code="6">999919761046002207</marc:subfield>
+      <marc:subfield code="9">E</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1="0" ind2="1">
+      <marc:subfield code="a">47BIBSYS_UBO</marc:subfield>
+      <marc:subfield code="6">999919771756102204</marc:subfield>
+      <marc:subfield code="9">E</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1="0" ind2="1">
+      <marc:subfield code="a">47BIBSYS_UBTO</marc:subfield>
+      <marc:subfield code="6">999919749573902205</marc:subfield>
+      <marc:subfield code="9">E</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1="0" ind2="1">
+      <marc:subfield code="a">47BIBSYS_NTNU_UB</marc:subfield>
+      <marc:subfield code="6">999919795773402203</marc:subfield>
+      <marc:subfield code="9">E</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+  <marc:record source="doyle.bibsys.author.xml">
+    <marc:leader>00374nam-a2200133z--4500</marc:leader>
+    <marc:controlfield tag="001">999920608219902201</marc:controlfield>
+    <marc:controlfield tag="008">170808u2005uuuuuuuuu-|-o----u|----|eng-d</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(CKB)3780000000446059</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(EXLCZ)993780000000446059</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Doyle, Arthur Conan</marc:subfield>
+      <marc:subfield code="1p">http://viaf.org/viaf/65283845</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="240" ind1="1" ind2="0">
+      <marc:subfield code="a">His last Bow</marc:subfield>
+      <marc:subfield code="1w">http://viaf.org/viaf/1390154501894339210002</marc:subfield>
+      <marc:subfield code="2">generated from 245</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">His Last Bow</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="b">Project Gutenberg</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1="0" ind2="1">
+      <marc:subfield code="a">47BIBSYS_UBTO</marc:subfield>
+      <marc:subfield code="6">999920002169202205</marc:subfield>
+      <marc:subfield code="9">E</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+  
+  
+  
+  <marc:record source="doyle.bibsys.author.xml">
+    <marc:leader>00570cam-a2200193z--4500</marc:leader>
+    <marc:controlfield tag="001">999919921489102201</marc:controlfield>
+    <marc:controlfield tag="005">20160614115401.0</marc:controlfield>
+    <marc:controlfield tag="008">121017u2000uuuuuuuuu-|-o----u|----|eng-d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">0-585-01270-9</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(CKB)111029787242538</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(EXLCZ)99111029787242538</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Doyle, Arthur Conan</marc:subfield>
+      <marc:subfield code="1p">http://viaf.org/viaf/65283845</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="210" ind1=" " ind2=" ">
+      <marc:subfield code="a">ADVENTURES OF GERARD</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="240" ind1="1" ind2="0"><marc:subfield code="a"/><marc:subfield code="1w">http://viaf.org/viaf/6035152865746704940001</marc:subfield><marc:subfield code="2">generated from 245</marc:subfield></marc:datafield><marc:datafield tag="245" ind1=" " ind2="4">
+      <marc:subfield code="a">The Adventures Of Gerard</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="b">Project Gutenberg ; NetLibrary</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="710" ind1="2" ind2=" ">
+      <marc:subfield code="a">NetLibrary, Inc.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1="0" ind2="1">
+      <marc:subfield code="a">47BIBSYS_UBB</marc:subfield>
+      <marc:subfield code="6">999919766875002207</marc:subfield>
+      <marc:subfield code="9">E</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1="0" ind2="1">
+      <marc:subfield code="a">47BIBSYS_NTNU_UB</marc:subfield>
+      <marc:subfield code="6">999919793720902203</marc:subfield>
+      <marc:subfield code="9">E</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+  <marc:record source="doyle.bibsys.author.xml">
+    <marc:leader>00390nam-a2200133z--4500</marc:leader>
+    <marc:controlfield tag="001">999920608180002201</marc:controlfield>
+    <marc:controlfield tag="008">170808u2004uuuuuuuuu-|-o----u|----|eng-d</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(CKB)3780000000443189</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(EXLCZ)993780000000443189</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Doyle, Arthur Conan</marc:subfield>
+      <marc:subfield code="1p">http://viaf.org/viaf/65283845</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="240" ind1="1" ind2="0">
+      <marc:subfield code="a">The Exploits of Brigadier
+					Gerard</marc:subfield>
+      <marc:subfield code="1w">http://www.wikidata.org/entity/Q19086389</marc:subfield>
+      <marc:subfield code="2">generated from 245</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Exploits Of Brigadier Gerard</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="b">Project Gutenberg</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1="0" ind2="1">
+      <marc:subfield code="a">47BIBSYS_UBTO</marc:subfield>
+      <marc:subfield code="6">999920001869502205</marc:subfield>
+      <marc:subfield code="9">E</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+  <marc:record source="doyle.bibsys.author.xml">
+    <marc:leader>00410nam-a2200145z--4500</marc:leader>
+    <marc:controlfield tag="001">999920557276602201</marc:controlfield>
+    <marc:controlfield tag="008">170724u2011uuuuuuuuu-|-o----u|----|eng-d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">0-14-043786-X</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(CKB)3780000000409883</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(EXLCZ)993780000000409883</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Doyle, Arthur Conan</marc:subfield>
+      <marc:subfield code="1p">http://viaf.org/viaf/65283845</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="240" ind1="1" ind2="0">
+      <marc:subfield code="a">The Hound of the Baskervilles</marc:subfield>
+      <marc:subfield code="1w">http://viaf.org/viaf/181625655</marc:subfield>
+      <marc:subfield code="2">generated from 245</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Hound of the Baskervilles (Penguin Classics)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="246" ind1=" " ind2=" ">
+      <marc:subfield code="a">Hound of the Baskervilles</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="b">Penguin</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+  <marc:record source="doyle.bibsys.author.xml">
+    <marc:leader>00384nam-a2200133z--4500</marc:leader>
+    <marc:controlfield tag="001">999920608653802201</marc:controlfield>
+    <marc:controlfield tag="008">170808u2004uuuuuuuuu-|-o----u|----|eng-d</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(CKB)3780000000449094</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(EXLCZ)993780000000449094</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Doyle, Arthur Conan</marc:subfield>
+      <marc:subfield code="1p">http://viaf.org/viaf/65283845</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="240" ind1="1" ind2="0">
+      <marc:subfield code="a">Through the Magic Door</marc:subfield>
+      <marc:subfield code="1w">http://viaf.org/viaf/310218668</marc:subfield>
+      <marc:subfield code="2">generated from 245</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Through the Magic Door</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="b">Project Gutenberg</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1="0" ind2="1">
+      <marc:subfield code="a">47BIBSYS_UBTO</marc:subfield>
+      <marc:subfield code="6">999920002474202205</marc:subfield>
+      <marc:subfield code="9">E</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+  <marc:record source="doyle.bibsys.author.xml">
+    <marc:leader>00685cam-a2200217z--4500</marc:leader>
+    <marc:controlfield tag="001">999919921597602201</marc:controlfield>
+    <marc:controlfield tag="005">20160614115406.0</marc:controlfield>
+    <marc:controlfield tag="008">121017u1999uuuuuuuuu-|-o----u|----|eng-d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">0-585-01770-0</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(CKB)111029787250408</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(EXLCZ)99111029787250408</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Doyle, Arthur Conan</marc:subfield>
+      <marc:subfield code="1p">http://viaf.org/viaf/65283845</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="210" ind1=" " ind2=" ">
+      <marc:subfield code="a">RETURN OF SHERLOCK HOLMES</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="240" ind1="1" ind2="0">
+      <marc:subfield code="a">The Return of Sherlock Holmes</marc:subfield>
+      <marc:subfield code="1w">http://www.wikidata.org/entity/Q725752</marc:subfield>
+      <marc:subfield code="2">generated from 245</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1=" " ind2="4">
+      <marc:subfield code="a">The Return Of Sherlock Holmes</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="b">Project Gutenberg ; NetLibrary</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="710" ind1="2" ind2=" ">
+      <marc:subfield code="a">NetLibrary, Inc.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1="0" ind2="1">
+      <marc:subfield code="a">47BIBSYS_UBB</marc:subfield>
+      <marc:subfield code="6">999919767822102207</marc:subfield>
+      <marc:subfield code="9">E</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1="0" ind2="1">
+      <marc:subfield code="a">47BIBSYS_UBO</marc:subfield>
+      <marc:subfield code="6">999919773433602204</marc:subfield>
+      <marc:subfield code="9">E</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1="0" ind2="1">
+      <marc:subfield code="a">47BIBSYS_UBTO</marc:subfield>
+      <marc:subfield code="6">999919757854802205</marc:subfield>
+      <marc:subfield code="9">E</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1="0" ind2="1">
+      <marc:subfield code="a">47BIBSYS_NTNU_UB</marc:subfield>
+      <marc:subfield code="6">999919795569502203</marc:subfield>
+      <marc:subfield code="9">E</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+  
+  
+  
+  
+  <marc:record source="doyle.bibsys.author.xml">
+    <marc:leader>00391nam-a2200133z--4500</marc:leader>
+    <marc:controlfield tag="001">999920608252602201</marc:controlfield>
+    <marc:controlfield tag="008">170808u2000uuuuuuuuu-|-o----u|----|eng-d</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(CKB)3780000000445412</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(EXLCZ)993780000000445412</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Doyle, Arthur Conan</marc:subfield>
+      <marc:subfield code="1p">http://viaf.org/viaf/65283845</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="240" ind1="1" ind2="0">
+      <marc:subfield code="a">The Adventure of the Devil's
+					Foot</marc:subfield>
+      <marc:subfield code="1w">http://www.wikidata.org/entity/Q2466799</marc:subfield>
+      <marc:subfield code="2">generated from 245</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Adventure of the Devil's Foot</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="b">Project Gutenberg</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1="0" ind2="1">
+      <marc:subfield code="a">47BIBSYS_UBTO</marc:subfield>
+      <marc:subfield code="6">999920002024902205</marc:subfield>
+      <marc:subfield code="9">E</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+  <marc:record source="doyle.bibsys.author.xml">
+    <marc:leader>00370nam-a2200133z--4500</marc:leader>
+    <marc:controlfield tag="001">999920608794402201</marc:controlfield>
+    <marc:controlfield tag="008">170808u2005uuuuuuuuu-|-o----u|----|eng-d</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(CKB)3780000000448959</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(EXLCZ)993780000000448959</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Doyle, Arthur Conan</marc:subfield>
+      <marc:subfield code="1p">http://viaf.org/viaf/65283845</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="240" ind1="1" ind2="0"><marc:subfield code="a">The Parasite</marc:subfield><marc:subfield code="1w">http://www.wikidata.org/entity/Q5295669</marc:subfield><marc:subfield code="2">generated from 245</marc:subfield></marc:datafield><marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Parasite</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="b">Project Gutenberg</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1="0" ind2="1">
+      <marc:subfield code="a">47BIBSYS_UBTO</marc:subfield>
+      <marc:subfield code="6">999920002305802205</marc:subfield>
+      <marc:subfield code="9">E</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+  <marc:record source="doyle.bibsys.author.xml">
+    <marc:leader>00374nam-a2200133z--4500</marc:leader>
+    <marc:controlfield tag="001">999920608774202201</marc:controlfield>
+    <marc:controlfield tag="008">170808u2004uuuuuuuuu-|-o----u|----|eng-d</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(CKB)3780000000449526</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(EXLCZ)993780000000449526</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Doyle, Arthur Conan</marc:subfield>
+      <marc:subfield code="1p">http://viaf.org/viaf/65283845</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="240" ind1="1" ind2="0">
+      <marc:subfield code="a">Rodney Stone</marc:subfield>
+      <marc:subfield code="1w">http://viaf.org/viaf/310211956</marc:subfield>
+      <marc:subfield code="2">generated from 245</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Rodney Stone</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="b">Project Gutenberg</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1="0" ind2="1">
+      <marc:subfield code="a">47BIBSYS_UBTO</marc:subfield>
+      <marc:subfield code="6">999920002446202205</marc:subfield>
+      <marc:subfield code="9">E</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+  
+  
+  <marc:record source="doyle.bibsys.author.xml">
+    <marc:leader>00370nam-a2200133z--4500</marc:leader>
+    <marc:controlfield tag="001">999920608038302201</marc:controlfield>
+    <marc:controlfield tag="008">170808u2007uuuuuuuuu-|-o----u|----|eng-d</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(CKB)3780000000443863</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(EXLCZ)993780000000443863</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Doyle, Arthur Conan</marc:subfield>
+      <marc:subfield code="1p">http://viaf.org/viaf/65283845</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="240" ind1="1" ind2="0"><marc:subfield code="a">The Parasite</marc:subfield><marc:subfield code="1w">http://www.wikidata.org/entity/Q5295669</marc:subfield><marc:subfield code="2">generated from 245</marc:subfield></marc:datafield><marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Parasite</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="b">Project Gutenberg</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1="0" ind2="1">
+      <marc:subfield code="a">47BIBSYS_UBTO</marc:subfield>
+      <marc:subfield code="6">999920001815002205</marc:subfield>
+      <marc:subfield code="9">E</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+  
+  
+  <marc:record source="doyle.bibsys.author.xml">
+    <marc:leader>00527cam-a2200181z--4500</marc:leader>
+    <marc:controlfield tag="001">999919921484702201</marc:controlfield>
+    <marc:controlfield tag="005">20160606164039.0</marc:controlfield>
+    <marc:controlfield tag="008">121017u2000uuuuuuuuu-|-o----u|----|eng-d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">0-585-01571-6</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(CKB)111029787248076</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(EXLCZ)99111029787248076</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Doyle, Arthur Conan</marc:subfield>
+      <marc:subfield code="1p">http://viaf.org/viaf/65283845</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="240" ind1="1" ind2="0">
+      <marc:subfield code="a">A Study in Scarlet</marc:subfield>
+      <marc:subfield code="1w">http://viaf.org/viaf/179061639</marc:subfield>
+      <marc:subfield code="2">generated from 245</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1=" " ind2="2">
+      <marc:subfield code="a">A Study In Scarlet</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="b">Project Gutenberg ; NetLibrary</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="710" ind1="2" ind2=" ">
+      <marc:subfield code="a">NetLibrary, Inc.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1="0" ind2="1">
+      <marc:subfield code="a">47BIBSYS_UBB</marc:subfield>
+      <marc:subfield code="6">999919768256202207</marc:subfield>
+      <marc:subfield code="9">E</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1="0" ind2="1">
+      <marc:subfield code="a">47BIBSYS_NTNU_UB</marc:subfield>
+      <marc:subfield code="6">999919794869402203</marc:subfield>
+      <marc:subfield code="9">E</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+  <marc:record source="doyle.bibsys.author.xml">
+    <marc:leader>00376nam-a2200133z--4500</marc:leader>
+    <marc:controlfield tag="001">999920608222402201</marc:controlfield>
+    <marc:controlfield tag="008">170808u2002uuuuuuuuu-|-o----u|----|eng-d</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(CKB)3780000000445996</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(EXLCZ)993780000000445996</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Doyle, Arthur Conan</marc:subfield>
+      <marc:subfield code="1p">http://viaf.org/viaf/65283845</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="240" ind1="1" ind2="0">
+      <marc:subfield code="a">The Valley of Fear</marc:subfield>
+      <marc:subfield code="1w">http://viaf.org/viaf/175571309</marc:subfield>
+      <marc:subfield code="2">generated from 245</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Valley of Fear</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="b">Project Gutenberg</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1="0" ind2="1">
+      <marc:subfield code="a">47BIBSYS_UBTO</marc:subfield>
+      <marc:subfield code="6">999920002176102205</marc:subfield>
+      <marc:subfield code="9">E</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+  <marc:record source="doyle.bibsys.author.xml">
+    <marc:leader>00401nam-a2200133z--4500</marc:leader>
+    <marc:controlfield tag="001">999920608355902201</marc:controlfield>
+    <marc:controlfield tag="008">170808u2000uuuuuuuuu-|-o----u|----|eng-d</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(CKB)3780000000445410</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(EXLCZ)993780000000445410</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Doyle, Arthur Conan</marc:subfield>
+      <marc:subfield code="1p">http://viaf.org/viaf/65283845</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="240" ind1="1" ind2="0">
+      <marc:subfield code="a">The Adventure of the Bruce-Partington
+					Plans</marc:subfield>
+      <marc:subfield code="1w">http://www.wikidata.org/entity/Q2446784</marc:subfield>
+      <marc:subfield code="2">generated from 245</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Adventure of the Bruce-Partington Plans</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="b">Project Gutenberg</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1="0" ind2="1">
+      <marc:subfield code="a">47BIBSYS_UBTO</marc:subfield>
+      <marc:subfield code="6">999920002024302205</marc:subfield>
+      <marc:subfield code="9">E</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+  
+  <marc:record source="doyle.bibsys.author.xml">
+    <marc:leader>00376nam-a2200133z--4500</marc:leader>
+    <marc:controlfield tag="001">999920608215902201</marc:controlfield>
+    <marc:controlfield tag="008">170808u2003uuuuuuuuu-|-o----u|----|eng-d</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(CKB)3780000000445997</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(EXLCZ)993780000000445997</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Doyle, Arthur Conan</marc:subfield>
+      <marc:subfield code="1p">http://viaf.org/viaf/65283845</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="240" ind1="1" ind2="0">
+      <marc:subfield code="a">The Valley of Fear</marc:subfield>
+      <marc:subfield code="1w">http://viaf.org/viaf/175571309</marc:subfield>
+      <marc:subfield code="2">generated from 245</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Valley of Fear</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="b">Project Gutenberg</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1="0" ind2="1">
+      <marc:subfield code="a">47BIBSYS_UBTO</marc:subfield>
+      <marc:subfield code="6">999920002176202205</marc:subfield>
+      <marc:subfield code="9">E</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+  
+  <marc:record source="doyle.bibsys.author.xml">
+    <marc:leader>00392nam-a2200133z--4500</marc:leader>
+    <marc:controlfield tag="001">999920608252402201</marc:controlfield>
+    <marc:controlfield tag="008">170808u2000uuuuuuuuu-|-o----u|----|eng-d</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(CKB)3780000000445411</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(EXLCZ)993780000000445411</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Doyle, Arthur Conan</marc:subfield>
+      <marc:subfield code="1p">http://viaf.org/viaf/65283845</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="240" ind1="1" ind2="0">
+      <marc:subfield code="a"/>
+      <marc:subfield code="1w">http://viaf.org/viaf/180817010</marc:subfield>
+      <marc:subfield code="2">generated from 245</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Adventure of the Cardboard Box</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="b">Project Gutenberg</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1="0" ind2="1">
+      <marc:subfield code="a">47BIBSYS_UBTO</marc:subfield>
+      <marc:subfield code="6">999920002024402205</marc:subfield>
+      <marc:subfield code="9">E</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+  <marc:record source="doyle.bibsys.author.xml">
+    <marc:leader>00518cam-a2200181z--4500</marc:leader>
+    <marc:controlfield tag="001">999919921726702201</marc:controlfield>
+    <marc:controlfield tag="005">20160727154502.0</marc:controlfield>
+    <marc:controlfield tag="008">121017u2000uuuuuuuuu-|-o----u|----|eng-d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">0-585-09945-6</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(CKB)111029787268424</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(EXLCZ)99111029787268424</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Doyle, Arthur Conan</marc:subfield>
+      <marc:subfield code="1p">http://viaf.org/viaf/65283845</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="240" ind1="1" ind2="0">
+      <marc:subfield code="a">The Sign of the Four</marc:subfield>
+      <marc:subfield code="1w">http://viaf.org/viaf/184892317</marc:subfield>
+      <marc:subfield code="2">generated from 245</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1=" " ind2=" ">
+      <marc:subfield code="a">Sign Of Four</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="b">Alex Catalogue ; NetLibrary</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="710" ind1="2" ind2=" ">
+      <marc:subfield code="a">NetLibrary, Inc.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1="0" ind2="1">
+      <marc:subfield code="a">47BIBSYS_UBB</marc:subfield>
+      <marc:subfield code="6">999919761360802207</marc:subfield>
+      <marc:subfield code="9">E</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1="0" ind2="1">
+      <marc:subfield code="a">47BIBSYS_NTNU_UB</marc:subfield>
+      <marc:subfield code="6">999919794949602203</marc:subfield>
+      <marc:subfield code="9">E</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+  <marc:record source="doyle.bibsys.author.xml">
+    <marc:leader>00389nam-a2200133z--4500</marc:leader>
+    <marc:controlfield tag="001">999920608765702201</marc:controlfield>
+    <marc:controlfield tag="008">170808u2005uuuuuuuuu-|-o----u|----|eng-d</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(CKB)3780000000449830</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(EXLCZ)993780000000449830</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Doyle, Arthur Conan</marc:subfield>
+      <marc:subfield code="1p">http://viaf.org/viaf/65283845</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="240" ind1="1" ind2="0">
+      <marc:subfield code="a">The Adventure of the Red
+					Circle</marc:subfield>
+      <marc:subfield code="1w">http://www.wikidata.org/entity/Q3041819</marc:subfield>
+      <marc:subfield code="2">generated from 245</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Adventure of the Red Circle</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="b">Project Gutenberg</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1="0" ind2="1">
+      <marc:subfield code="a">47BIBSYS_UBTO</marc:subfield>
+      <marc:subfield code="6">999920002405802205</marc:subfield>
+      <marc:subfield code="9">E</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+  <marc:record source="doyle.bibsys.author.xml">
+    <marc:leader>00372nam-a2200133z--4500</marc:leader>
+    <marc:controlfield tag="001">999920608670302201</marc:controlfield>
+    <marc:controlfield tag="008">170808u2005uuuuuuuuu-|-o----u|----|eng-d</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(CKB)3780000000449196</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(EXLCZ)993780000000449196</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Doyle, Arthur Conan</marc:subfield>
+      <marc:subfield code="1p">http://viaf.org/viaf/65283845</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="240" ind1="1" ind2="0">
+      <marc:subfield code="a">The Lost World</marc:subfield>
+      <marc:subfield code="1w">http://viaf.org/viaf/294145857904223021237</marc:subfield>
+      <marc:subfield code="2">generated from 245</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">lost world</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="b">Project Gutenberg</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1="0" ind2="1">
+      <marc:subfield code="a">47BIBSYS_UBTO</marc:subfield>
+      <marc:subfield code="6">999920002488002205</marc:subfield>
+      <marc:subfield code="9">E</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+  <marc:record source="doyle.bibsys.author.xml">
+    <marc:leader>00371nam-a2200133z--4500</marc:leader>
+    <marc:controlfield tag="001">999920608771502201</marc:controlfield>
+    <marc:controlfield tag="008">170808u2005uuuuuuuuu-|-o----u|----|eng-d</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(CKB)3780000000449560</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(EXLCZ)993780000000449560</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Doyle, Arthur Conan</marc:subfield>
+      <marc:subfield code="1p">http://viaf.org/viaf/65283845</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="240" ind1="1" ind2="0">
+      <marc:subfield code="a">Sir Nigel</marc:subfield>
+      <marc:subfield code="1w">http://www.wikidata.org/entity/Q1963997</marc:subfield>
+      <marc:subfield code="2">generated from 245</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Sir Nigel</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="b">Project Gutenberg</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1="0" ind2="1">
+      <marc:subfield code="a">47BIBSYS_UBTO</marc:subfield>
+      <marc:subfield code="6">999920002458002205</marc:subfield>
+      <marc:subfield code="9">E</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+  <marc:record source="doyle.bibsys.author.xml">
+    <marc:leader>00577cam-a2200193z--4500</marc:leader>
+    <marc:controlfield tag="001">999919921725602201</marc:controlfield>
+    <marc:controlfield tag="005">20160614115409.0</marc:controlfield>
+    <marc:controlfield tag="008">121017u2000uuuuuuuuu-|-o----u|----|eng-d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">0-585-09944-8</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(CKB)111029787268422</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(EXLCZ)99111029787268422</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Doyle, Arthur Conan</marc:subfield>
+      <marc:subfield code="1p">http://viaf.org/viaf/65283845</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="210" ind1=" " ind2=" ">
+      <marc:subfield code="a">HOUND OF THE BASKERVILLES</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="240" ind1="1" ind2="0">
+      <marc:subfield code="a">The Hound of the Baskervilles</marc:subfield>
+      <marc:subfield code="1w">http://viaf.org/viaf/181625655</marc:subfield>
+      <marc:subfield code="2">generated from 245</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1=" " ind2="4">
+      <marc:subfield code="a">The Hound Of The Baskervilles</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="b">Alex Catalogue ; NetLibrary</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="710" ind1="2" ind2=" ">
+      <marc:subfield code="a">NetLibrary, Inc.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1="0" ind2="1">
+      <marc:subfield code="a">47BIBSYS_UBB</marc:subfield>
+      <marc:subfield code="6">999919761360902207</marc:subfield>
+      <marc:subfield code="9">E</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1="0" ind2="1">
+      <marc:subfield code="a">47BIBSYS_NTNU_UB</marc:subfield>
+      <marc:subfield code="6">999919794949702203</marc:subfield>
+      <marc:subfield code="9">E</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+  
+  <marc:record source="doyle.bibsys.author.xml">
+    <marc:leader>00387nam-a2200133z--4500</marc:leader>
+    <marc:controlfield tag="001">999920608770802201</marc:controlfield>
+    <marc:controlfield tag="008">170808u2005uuuuuuuuu-|-o----u|----|eng-d</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(CKB)3780000000449327</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(EXLCZ)993780000000449327</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Doyle, Arthur Conan</marc:subfield>
+      <marc:subfield code="1p">http://viaf.org/viaf/65283845</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="240" ind1="1" ind2="0">
+      <marc:subfield code="a">The Hound of the Baskervilles</marc:subfield>
+      <marc:subfield code="1w">http://viaf.org/viaf/181625655</marc:subfield>
+      <marc:subfield code="2">generated from 245</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Hound of the Baskervilles</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="b">Project Gutenberg</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1="0" ind2="1">
+      <marc:subfield code="a">47BIBSYS_UBTO</marc:subfield>
+      <marc:subfield code="6">999920002440702205</marc:subfield>
+      <marc:subfield code="9">E</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+  <marc:record source="doyle.bibsys.author.xml">
+    <marc:leader>00378nam-a2200133z--4500</marc:leader>
+    <marc:controlfield tag="001">999920608645502201</marc:controlfield>
+    <marc:controlfield tag="008">170808u2005uuuuuuuuu-|-o----u|----|eng-d</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(CKB)3780000000449558</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(EXLCZ)993780000000449558</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Doyle, Arthur Conan</marc:subfield>
+      <marc:subfield code="1p">http://viaf.org/viaf/65283845</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="240" ind1="1" ind2="0">
+      <marc:subfield code="a">The Sign of the Four</marc:subfield>
+      <marc:subfield code="1w">http://viaf.org/viaf/184892317</marc:subfield>
+      <marc:subfield code="2">generated from 245</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Sign of the Four</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="b">Project Gutenberg</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1="0" ind2="1">
+      <marc:subfield code="a">47BIBSYS_UBTO</marc:subfield>
+      <marc:subfield code="6">999920002458602205</marc:subfield>
+      <marc:subfield code="9">E</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+  
+  <marc:record source="doyle.bibsys.author.xml">
+    <marc:leader>00520cam-a2200181z--4500</marc:leader>
+    <marc:controlfield tag="001">999919921726302201</marc:controlfield>
+    <marc:controlfield tag="005">20160727154502.0</marc:controlfield>
+    <marc:controlfield tag="008">121017u2000uuuuuuuuu-|-o----u|----|eng-d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">0-585-09947-2</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(CKB)111029787268428</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(EXLCZ)99111029787268428</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Doyle, Arthur Conan</marc:subfield>
+      <marc:subfield code="1p">http://viaf.org/viaf/65283845</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="240" ind1="1" ind2="0">
+      <marc:subfield code="a">The Valley of Fear</marc:subfield>
+      <marc:subfield code="1w">http://viaf.org/viaf/175571309</marc:subfield>
+      <marc:subfield code="2">generated from 245</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1=" " ind2=" ">
+      <marc:subfield code="a">Valley Of Fear</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="b">Alex Catalogue ; NetLibrary</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="710" ind1="2" ind2=" ">
+      <marc:subfield code="a">NetLibrary, Inc.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1="0" ind2="1">
+      <marc:subfield code="a">47BIBSYS_UBB</marc:subfield>
+      <marc:subfield code="6">999919761360402207</marc:subfield>
+      <marc:subfield code="9">E</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1="0" ind2="1">
+      <marc:subfield code="a">47BIBSYS_NTNU_UB</marc:subfield>
+      <marc:subfield code="6">999919794949402203</marc:subfield>
+      <marc:subfield code="9">E</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+  
+  
+  <marc:record source="doyle.bibsys.author.xml">
+    <marc:leader>00660cam-a2200217z--4500</marc:leader>
+    <marc:controlfield tag="001">999919921796502201</marc:controlfield>
+    <marc:controlfield tag="005">20160727154517.0</marc:controlfield>
+    <marc:controlfield tag="008">121017u1996uuuuuuuuu-|-o----u|----|eng-d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">0-585-21578-2</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(CKB)111029787287626</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(EXLCZ)99111029787287626</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Doyle, Arthur Conan</marc:subfield>
+      <marc:subfield code="1p">http://viaf.org/viaf/65283845</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="210" ind1=" " ind2=" ">
+      <marc:subfield code="a">PARASITE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="240" ind1="1" ind2="0"><marc:subfield code="a">The Parasite</marc:subfield><marc:subfield code="1w">http://www.wikidata.org/entity/Q5295669</marc:subfield><marc:subfield code="2">generated from 245</marc:subfield></marc:datafield><marc:datafield tag="245" ind1=" " ind2=" ">
+      <marc:subfield code="a">Parasite</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="b">University of Virginia Library ; NetLibrary</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="710" ind1="2" ind2=" ">
+      <marc:subfield code="a">NetLibrary, Inc.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1="0" ind2="1">
+      <marc:subfield code="a">47BIBSYS_UBB</marc:subfield>
+      <marc:subfield code="6">999919765932502207</marc:subfield>
+      <marc:subfield code="9">E</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1="0" ind2="1">
+      <marc:subfield code="a">47BIBSYS_UBO</marc:subfield>
+      <marc:subfield code="6">999919776319802204</marc:subfield>
+      <marc:subfield code="9">E</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1="0" ind2="1">
+      <marc:subfield code="a">47BIBSYS_UBTO</marc:subfield>
+      <marc:subfield code="6">999919752721502205</marc:subfield>
+      <marc:subfield code="9">E</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1="0" ind2="1">
+      <marc:subfield code="a">47BIBSYS_NTNU_UB</marc:subfield>
+      <marc:subfield code="6">999919794908202203</marc:subfield>
+      <marc:subfield code="9">E</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+  <marc:record source="doyle.bibsys.author.xml">
+    <marc:leader>00378nam-a2200133z--4500</marc:leader>
+    <marc:controlfield tag="001">999920608565702201</marc:controlfield>
+    <marc:controlfield tag="008">170808u1995uuuuuuuuu-|-o----u|----|eng-d</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(CKB)3780000000447017</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(EXLCZ)993780000000447017</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Doyle, Arthur Conan</marc:subfield>
+      <marc:subfield code="1p">http://viaf.org/viaf/65283845</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="240" ind1="1" ind2="0">
+      <marc:subfield code="a">A Study in Scarlet</marc:subfield>
+      <marc:subfield code="1w">http://viaf.org/viaf/179061639</marc:subfield>
+      <marc:subfield code="2">generated from 245</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Study In Scarlet</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="b">Project Gutenberg</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1="0" ind2="1">
+      <marc:subfield code="a">47BIBSYS_UBTO</marc:subfield>
+      <marc:subfield code="6">999920002291402205</marc:subfield>
+      <marc:subfield code="9">E</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+  
+  
+  <marc:record source="doyle.bibsys.author.xml">
+    <marc:leader>00398nam-a2200133z--4500</marc:leader>
+    <marc:controlfield tag="001">999920608104802201</marc:controlfield>
+    <marc:controlfield tag="008">170808u2000uuuuuuuuu-|-o----u|----|eng-d</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(CKB)3780000000444509</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(EXLCZ)993780000000444509</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Doyle, Arthur Conan</marc:subfield>
+      <marc:subfield code="1p">http://viaf.org/viaf/65283845</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="240" ind1="1" ind2="0">
+      <marc:subfield code="a">The Disappearance of Lady Frances
+					Carfax</marc:subfield>
+      <marc:subfield code="1w">http://www.wikidata.org/entity/Q3041826</marc:subfield>
+      <marc:subfield code="2">generated from 245</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Disappearance Of Lady Frances Carfax</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="b">Project Gutenberg</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1="0" ind2="1">
+      <marc:subfield code="a">47BIBSYS_UBTO</marc:subfield>
+      <marc:subfield code="6">999920001924902205</marc:subfield>
+      <marc:subfield code="9">E</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+  <marc:record source="doyle.bibsys.author.xml">
+    <marc:leader>00391nam-a2200133z--4500</marc:leader>
+    <marc:controlfield tag="001">999920608327202201</marc:controlfield>
+    <marc:controlfield tag="008">170808u2009uuuuuuuuu-|-o----u|----|eng-d</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(CKB)3780000000446155</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(EXLCZ)993780000000446155</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Doyle, Arthur Conan</marc:subfield>
+      <marc:subfield code="1p">http://viaf.org/viaf/65283845</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="240" ind1="1" ind2="0">
+      <marc:subfield code="a">The adventures of Sherlock Holmes</marc:subfield>
+      <marc:subfield code="1w">http://viaf.org/viaf/186734487</marc:subfield>
+      <marc:subfield code="2">generated from 245</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">adventures of Sherlock Holmes</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="b">Project Gutenberg</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1="0" ind2="1">
+      <marc:subfield code="a">47BIBSYS_UBTO</marc:subfield>
+      <marc:subfield code="6">999920002184002205</marc:subfield>
+      <marc:subfield code="9">E</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+  
+  
+  
+  <marc:record source="doyle.bibsys.author.xml">
+    <marc:leader>00518cam-a2200181z--4500</marc:leader>
+    <marc:controlfield tag="001">999919921726202201</marc:controlfield>
+    <marc:controlfield tag="005">20160727154502.0</marc:controlfield>
+    <marc:controlfield tag="008">121017u2000uuuuuuuuu-|-o----u|----|eng-d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">0-585-09948-0</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(CKB)111029787268430</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(EXLCZ)99111029787268430</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Doyle, Arthur Conan</marc:subfield>
+      <marc:subfield code="1p">http://viaf.org/viaf/65283845</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="240" ind1="1" ind2="0">
+      <marc:subfield code="a">His last Bow</marc:subfield>
+      <marc:subfield code="1w">http://viaf.org/viaf/1390154501894339210002</marc:subfield>
+      <marc:subfield code="2">generated from 245</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1=" " ind2=" ">
+      <marc:subfield code="a">His Last Bow</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="b">Alex Catalogue ; NetLibrary</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="710" ind1="2" ind2=" ">
+      <marc:subfield code="a">NetLibrary, Inc.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1="0" ind2="1">
+      <marc:subfield code="a">47BIBSYS_UBB</marc:subfield>
+      <marc:subfield code="6">999919761360302207</marc:subfield>
+      <marc:subfield code="9">E</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1="0" ind2="1">
+      <marc:subfield code="a">47BIBSYS_NTNU_UB</marc:subfield>
+      <marc:subfield code="6">999919794928902203</marc:subfield>
+      <marc:subfield code="9">E</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+  <marc:record source="doyle.bibsys.author.xml">
+    <marc:leader>00568cam-a2200193z--4500</marc:leader>
+    <marc:controlfield tag="001">999919921858302201</marc:controlfield>
+    <marc:controlfield tag="005">20160614115404.0</marc:controlfield>
+    <marc:controlfield tag="008">121017u2000uuuuuuuuu-|-o----u|----|eng-d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">0-585-10408-5</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(CKB)111029787270740</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(EXLCZ)99111029787270740</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Doyle, Arthur Conan</marc:subfield>
+      <marc:subfield code="1p">http://viaf.org/viaf/65283845</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="210" ind1=" " ind2=" ">
+      <marc:subfield code="a">STARK MUNRO LETTERS</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="240" ind1="1" ind2="0">
+      <marc:subfield code="a">The Stark Munro Letters</marc:subfield>
+      <marc:subfield code="1w">http://www.wikidata.org/entity/Q5295849</marc:subfield>
+      <marc:subfield code="2">generated from 245</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1=" " ind2="4">
+      <marc:subfield code="a">The Stark Munro Letters</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="b">Project Gutenberg ; NetLibrary</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="710" ind1="2" ind2=" ">
+      <marc:subfield code="a">NetLibrary, Inc.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1="0" ind2="1">
+      <marc:subfield code="a">47BIBSYS_UBB</marc:subfield>
+      <marc:subfield code="6">999919762090202207</marc:subfield>
+      <marc:subfield code="9">E</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1="0" ind2="1">
+      <marc:subfield code="a">47BIBSYS_NTNU_UB</marc:subfield>
+      <marc:subfield code="6">999919795345102203</marc:subfield>
+      <marc:subfield code="9">E</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+  
+  
+  <marc:record source="doyle.bibsys.author.xml">
+    <marc:leader>00378nam-a2200133z--4500</marc:leader>
+    <marc:controlfield tag="001">999920608635802201</marc:controlfield>
+    <marc:controlfield tag="008">170808u2005uuuuuuuuu-|-o----u|----|eng-d</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(CKB)3780000000449559</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(EXLCZ)993780000000449559</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Doyle, Arthur Conan</marc:subfield>
+      <marc:subfield code="1p">http://viaf.org/viaf/65283845</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="240" ind1="1" ind2="0">
+      <marc:subfield code="a">The Sign of the Four</marc:subfield>
+      <marc:subfield code="1w">http://viaf.org/viaf/184892317</marc:subfield>
+      <marc:subfield code="2">generated from 245</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Sign of the Four</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="b">Project Gutenberg</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1="0" ind2="1">
+      <marc:subfield code="a">47BIBSYS_UBTO</marc:subfield>
+      <marc:subfield code="6">999920002458702205</marc:subfield>
+      <marc:subfield code="9">E</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+  <marc:record source="doyle.bibsys.author.xml">
+    <marc:leader>00380nam-a2200133z--4500</marc:leader>
+    <marc:controlfield tag="001">999920605704302201</marc:controlfield>
+    <marc:controlfield tag="008">170808u2010uuuuuuuuu-|-o----u|----|eng-d</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(CKB)3780000000426254</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(EXLCZ)993780000000426254</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Doyle, Arthur Conan</marc:subfield>
+      <marc:subfield code="1p">http://viaf.org/viaf/65283845</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="240" ind1="1" ind2="0"><marc:subfield code="a">The Hound of the Baskervilles</marc:subfield><marc:subfield code="1w">http://viaf.org/viaf/181625655</marc:subfield><marc:subfield code="2">generated from 245</marc:subfield></marc:datafield><marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Baskervillen koira</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="b">Project Gutenberg</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1="0" ind2="1">
+      <marc:subfield code="a">47BIBSYS_UBTO</marc:subfield>
+      <marc:subfield code="6">999919999166802205</marc:subfield>
+      <marc:subfield code="9">E</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+  <marc:record source="doyle.bibsys.author.xml">
+    <marc:leader>00441nam-a2200133z--4500</marc:leader>
+    <marc:controlfield tag="001">999920606918902201</marc:controlfield>
+    <marc:controlfield tag="008">170808u2010uuuuuuuuu-|-o----u|----|eng-d</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(CKB)3780000000437749</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(EXLCZ)993780000000437749</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Doyle, Arthur Conan</marc:subfield>
+      <marc:subfield code="d">1859-1930</marc:subfield>
+      <marc:subfield code="1p">http://viaf.org/viaf/65283845</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Żmijewska, Eugenia</marc:subfield>
+      <marc:subfield code="1p">mijewskaeugenia</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="240" ind1="1" ind2="0"><marc:subfield code="a">The Hound of the Baskervilles</marc:subfield><marc:subfield code="1w">http://viaf.org/viaf/181625655</marc:subfield><marc:subfield code="2">generated from 245</marc:subfield></marc:datafield><marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Tajemnica Baskerville'ów dziwne przygody Sherlocka
+        Holmes</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="b">Project Gutenberg</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1="0" ind2="1">
+      <marc:subfield code="a">47BIBSYS_UBTO</marc:subfield>
+      <marc:subfield code="6">999920000392502205</marc:subfield>
+      <marc:subfield code="9">E</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+  
+  <marc:record source="doyle.bibsys.author.xml">
+    <marc:leader>00374nam-a2200133z--4500</marc:leader>
+    <marc:controlfield tag="001">999920608786702201</marc:controlfield>
+    <marc:controlfield tag="008">170808u2005uuuuuuuuu-|-o----u|----|eng-d</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(CKB)3780000000449204</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(EXLCZ)993780000000449204</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Doyle, Arthur Conan</marc:subfield>
+      <marc:subfield code="1p">http://viaf.org/viaf/65283845</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="240" ind1="1" ind2="0">
+      <marc:subfield code="a">His last Bow</marc:subfield>
+      <marc:subfield code="1w">http://viaf.org/viaf/1390154501894339210002</marc:subfield>
+      <marc:subfield code="2">generated from 245</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">His Last Bow</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="b">Project Gutenberg</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1="0" ind2="1">
+      <marc:subfield code="a">47BIBSYS_UBTO</marc:subfield>
+      <marc:subfield code="6">999920002487202205</marc:subfield>
+      <marc:subfield code="9">E</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+  <marc:record source="doyle.bibsys.author.xml">
+    <marc:leader>00578cam-a2200193z--4500</marc:leader>
+    <marc:controlfield tag="001">999919921515602201</marc:controlfield>
+    <marc:controlfield tag="005">20160727154429.0</marc:controlfield>
+    <marc:controlfield tag="008">121017u2000uuuuuuuuu-|-o----u|----|eng-d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">0-585-00794-2</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(CKB)111029787235680</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(EXLCZ)99111029787235680</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Doyle, Arthur Conan</marc:subfield>
+      <marc:subfield code="1p">http://viaf.org/viaf/65283845</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="210" ind1=" " ind2=" ">
+      <marc:subfield code="a">MEMOIRS OF SHERLOCK HOLMES</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="240" ind1="1" ind2="0">
+      <marc:subfield code="a">The Memoirs of Sherlock
+					Holmes</marc:subfield>
+      <marc:subfield code="1w">http://www.wikidata.org/entity/Q860831</marc:subfield>
+      <marc:subfield code="2">generated from 245</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1=" " ind2=" ">
+      <marc:subfield code="a">Memoirs Of Sherlock Holmes</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="b">Project Gutenberg ; NetLibrary</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="710" ind1="2" ind2=" ">
+      <marc:subfield code="a">NetLibrary, Inc.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1="0" ind2="1">
+      <marc:subfield code="a">47BIBSYS_UBB</marc:subfield>
+      <marc:subfield code="6">999919770618402207</marc:subfield>
+      <marc:subfield code="9">E</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1="0" ind2="1">
+      <marc:subfield code="a">47BIBSYS_NTNU_UB</marc:subfield>
+      <marc:subfield code="6">999919792389902203</marc:subfield>
+      <marc:subfield code="9">E</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+  <marc:record source="doyle.bibsys.author.xml">
+    <marc:leader>00387nam-a2200133z--4500</marc:leader>
+    <marc:controlfield tag="001">999920608634502201</marc:controlfield>
+    <marc:controlfield tag="008">170808u2005uuuuuuuuu-|-o----u|----|eng-d</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(CKB)3780000000449326</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(EXLCZ)993780000000449326</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Doyle, Arthur Conan</marc:subfield>
+      <marc:subfield code="1p">http://viaf.org/viaf/65283845</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="240" ind1="1" ind2="0">
+      <marc:subfield code="a">The Hound of the Baskervilles</marc:subfield>
+      <marc:subfield code="1w">http://viaf.org/viaf/181625655</marc:subfield>
+      <marc:subfield code="2">generated from 245</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Hound of the Baskervilles</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="b">Project Gutenberg</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1="0" ind2="1">
+      <marc:subfield code="a">47BIBSYS_UBTO</marc:subfield>
+      <marc:subfield code="6">999920002440602205</marc:subfield>
+      <marc:subfield code="9">E</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+  
+  <marc:record source="doyle.bibsys.author.xml">
+    <marc:leader>00374nam-a2200133z--4500</marc:leader>
+    <marc:controlfield tag="001">999920608576702201</marc:controlfield>
+    <marc:controlfield tag="008">170808u2011uuuuuuuuu-|-o----u|----|eng-d</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(CKB)3780000000446982</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(EXLCZ)993780000000446982</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Doyle, Arthur Conan</marc:subfield>
+      <marc:subfield code="1p">http://viaf.org/viaf/65283845</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="240" ind1="1" ind2="0">
+      <marc:subfield code="a">Rodney Stone</marc:subfield>
+      <marc:subfield code="1w">http://viaf.org/viaf/310211956</marc:subfield>
+      <marc:subfield code="2">generated from 245</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Rodney Stone</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="b">Project Gutenberg</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1="0" ind2="1">
+      <marc:subfield code="a">47BIBSYS_UBTO</marc:subfield>
+      <marc:subfield code="6">999920002295502205</marc:subfield>
+      <marc:subfield code="9">E</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+  
+  <marc:record source="doyle.bibsys.author.xml">
+    <marc:leader>00694cam-a2200217z--4500</marc:leader>
+    <marc:controlfield tag="001">999919921970702201</marc:controlfield>
+    <marc:controlfield tag="005">20160727154522.0</marc:controlfield>
+    <marc:controlfield tag="008">121017u1995uuuuuuuuu-|-o----u|----|eng-d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">0-585-23355-1</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(CKB)111029787293262</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(EXLCZ)99111029787293262</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Doyle, Arthur Conan</marc:subfield>
+      <marc:subfield code="1p">http://viaf.org/viaf/65283845</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="210" ind1=" " ind2=" ">
+      <marc:subfield code="a">ADVENTURE OF SILVER BLAZE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="240" ind1="1" ind2="0">
+      <marc:subfield code="a">The Adventure of Silver Blaze</marc:subfield>
+      <marc:subfield code="1w">http://www.wikidata.org/entity/Q1151761</marc:subfield>
+      <marc:subfield code="2">generated from 245</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1=" " ind2=" ">
+      <marc:subfield code="a">Adventure Of Silver Blaze</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="b">University of Virginia Library ; NetLibrary</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="710" ind1="2" ind2=" ">
+      <marc:subfield code="a">NetLibrary, Inc.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1="0" ind2="1">
+      <marc:subfield code="a">47BIBSYS_UBB</marc:subfield>
+      <marc:subfield code="6">999919761705402207</marc:subfield>
+      <marc:subfield code="9">E</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1="0" ind2="1">
+      <marc:subfield code="a">47BIBSYS_UBO</marc:subfield>
+      <marc:subfield code="6">999919772142002204</marc:subfield>
+      <marc:subfield code="9">E</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1="0" ind2="1">
+      <marc:subfield code="a">47BIBSYS_UBTO</marc:subfield>
+      <marc:subfield code="6">999919749635302205</marc:subfield>
+      <marc:subfield code="9">E</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1="0" ind2="1">
+      <marc:subfield code="a">47BIBSYS_NTNU_UB</marc:subfield>
+      <marc:subfield code="6">999919796183402203</marc:subfield>
+      <marc:subfield code="9">E</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+  <marc:record source="doyle.bibsys.author.xml">
+    <marc:leader>00382nam-a2200133z--4500</marc:leader>
+    <marc:controlfield tag="001">999920608114102201</marc:controlfield>
+    <marc:controlfield tag="008">170808u1999uuuuuuuuu-|-o----u|----|eng-d</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(CKB)3780000000444194</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(EXLCZ)993780000000444194</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Doyle, Arthur Conan</marc:subfield>
+      <marc:subfield code="1p">http://viaf.org/viaf/65283845</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="240" ind1="1" ind2="0">
+      <marc:subfield code="a"/>
+      <marc:subfield code="1w">http://viaf.org/viaf/6035152865746704940001</marc:subfield>
+      <marc:subfield code="2">generated from 245</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">adventures of Gerard</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="b">Project Gutenberg</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1="0" ind2="1">
+      <marc:subfield code="a">47BIBSYS_UBTO</marc:subfield>
+      <marc:subfield code="6">999920001950602205</marc:subfield>
+      <marc:subfield code="9">E</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+  <marc:record source="doyle.bibsys.author.xml">
+    <marc:leader>00583cam-a2200193z--4500</marc:leader>
+    <marc:controlfield tag="001">999919921868902201</marc:controlfield>
+    <marc:controlfield tag="005">20160614115401.0</marc:controlfield>
+    <marc:controlfield tag="008">121017u2000uuuuuuuuu-|-o----u|----|eng-d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">0-585-06533-0</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(CKB)111029787262782</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(EXLCZ)99111029787262782</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Doyle, Arthur Conan</marc:subfield>
+      <marc:subfield code="1p">http://viaf.org/viaf/65283845</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="210" ind1=" " ind2=" ">
+      <marc:subfield code="a">CASE BOOK OF SHERLOCK HOLMES</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="240" ind1="1" ind2="0">
+      <marc:subfield code="a">The Case-Book of Sherlock
+					Holmes</marc:subfield>
+      <marc:subfield code="1w">http://www.wikidata.org/entity/Q1129378</marc:subfield>
+      <marc:subfield code="2">generated from 245</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1=" " ind2="4">
+      <marc:subfield code="a">The Case Book Of Sherlock Holmes</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="b">Alex Catalogue ; NetLibrary</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="710" ind1="2" ind2=" ">
+      <marc:subfield code="a">NetLibrary, Inc.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1="0" ind2="1">
+      <marc:subfield code="a">47BIBSYS_UBB</marc:subfield>
+      <marc:subfield code="6">999919765827802207</marc:subfield>
+      <marc:subfield code="9">E</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1="0" ind2="1">
+      <marc:subfield code="a">47BIBSYS_NTNU_UB</marc:subfield>
+      <marc:subfield code="6">999919793892602203</marc:subfield>
+      <marc:subfield code="9">E</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+  <marc:record source="doyle.bibsys.author.xml">
+    <marc:leader>00380nam-a2200133z--4500</marc:leader>
+    <marc:controlfield tag="001">999920608537202201</marc:controlfield>
+    <marc:controlfield tag="008">170808u2011uuuuuuuuu-|-o----u|----|eng-d</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(CKB)3780000000448040</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(EXLCZ)993780000000448040</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Doyle, Arthur Conan</marc:subfield>
+      <marc:subfield code="1p">http://viaf.org/viaf/65283845</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="240" ind1="1" ind2="0">
+      <marc:subfield code="a">The Crime of the Congo</marc:subfield>
+      <marc:subfield code="1w">http://www.wikidata.org/entity/Q22090538</marc:subfield>
+      <marc:subfield code="2">generated from 245</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Crime of the Congo</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="b">Project Gutenberg</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1="0" ind2="1">
+      <marc:subfield code="a">47BIBSYS_UBTO</marc:subfield>
+      <marc:subfield code="6">999920002207302205</marc:subfield>
+      <marc:subfield code="9">E</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+  <marc:record source="doyle.bibsys.author.xml">
+    <marc:leader>00391nam-a2200133z--4500</marc:leader>
+    <marc:controlfield tag="001">999920608667302201</marc:controlfield>
+    <marc:controlfield tag="008">170808u2005uuuuuuuuu-|-o----u|----|eng-d</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(CKB)3780000000449242</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(EXLCZ)993780000000449242</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Doyle, Arthur Conan</marc:subfield>
+      <marc:subfield code="1p">http://viaf.org/viaf/65283845</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="240" ind1="1" ind2="0">
+      <marc:subfield code="a">The adventures of Sherlock Holmes</marc:subfield>
+      <marc:subfield code="1w">http://viaf.org/viaf/186734487</marc:subfield>
+      <marc:subfield code="2">generated from 245</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">adventures of Sherlock Holmes</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="b">Project Gutenberg</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1="0" ind2="1">
+      <marc:subfield code="a">47BIBSYS_UBTO</marc:subfield>
+      <marc:subfield code="6">999920002482602205</marc:subfield>
+      <marc:subfield code="9">E</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+  
+  <marc:record source="doyle.bibsys.author.xml">
+    <marc:leader>00467nam-a2200145z--4500</marc:leader>
+    <marc:controlfield tag="001">999920605580102201</marc:controlfield>
+    <marc:controlfield tag="008">170808u2007uuuuuuuuu-|-o----u|----|eng-d</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(CKB)3780000000422795</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(EXLCZ)993780000000422795</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Doyle, Arthur Conan</marc:subfield>
+      <marc:subfield code="d">1859-1930</marc:subfield>
+      <marc:subfield code="1p">http://viaf.org/viaf/65283845</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Paget, Sidney</marc:subfield>
+      <marc:subfield code="d">1860-1908</marc:subfield>
+      <marc:subfield code="1p">http://viaf.org/viaf/2555146</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="240" ind1="1" ind2="0">
+      <marc:subfield code="a">The Tragedy of the Korosko</marc:subfield>
+      <marc:subfield code="1w">http://viaf.org/viaf/179668970</marc:subfield>
+      <marc:subfield code="2">generated from 245</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Desert Drama: Being The Tragedy Of The ""Korosko"" </marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="246" ind1=" " ind2=" ">
+      <marc:subfield code="a">Desert Drama</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="b">Project Gutenberg</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1="0" ind2="1">
+      <marc:subfield code="a">47BIBSYS_UBTO</marc:subfield>
+      <marc:subfield code="6">999919998904302205</marc:subfield>
+      <marc:subfield code="9">E</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+  
+  
+  
+  
+  
+  <marc:record source="doyle.bibsys.author.xml">
+    <marc:leader>00389nam-a2200133z--4500</marc:leader>
+    <marc:controlfield tag="001">999920608351302201</marc:controlfield>
+    <marc:controlfield tag="008">170808u2000uuuuuuuuu-|-o----u|----|eng-d</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(CKB)3780000000445414</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(EXLCZ)993780000000445414</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Doyle, Arthur Conan</marc:subfield>
+      <marc:subfield code="1p">http://viaf.org/viaf/65283845</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="240" ind1="1" ind2="0">
+      <marc:subfield code="a">The Adventure of the Red
+					Circle</marc:subfield>
+      <marc:subfield code="1w">http://www.wikidata.org/entity/Q3041819</marc:subfield>
+      <marc:subfield code="2">generated from 245</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Adventure of the Red Circle</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="b">Project Gutenberg</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1="0" ind2="1">
+      <marc:subfield code="a">47BIBSYS_UBTO</marc:subfield>
+      <marc:subfield code="6">999920002024702205</marc:subfield>
+      <marc:subfield code="9">E</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+  <marc:record source="doyle.bibsys.author.xml">
+    <marc:leader>00388nam-a2200145z--4500</marc:leader>
+    <marc:controlfield tag="001">999920556110202201</marc:controlfield>
+    <marc:controlfield tag="008">170724u2011uuuuuuuuu-|-o----u|----|eng-d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">0-14-043771-1</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(CKB)3780000000409882</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(EXLCZ)993780000000409882</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Doyle, Arthur Conan</marc:subfield>
+      <marc:subfield code="1p">http://viaf.org/viaf/65283845</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="240" ind1="1" ind2="0"><marc:subfield code="a"/><marc:subfield code="1w">http://viaf.org/viaf/3283155226707084490002</marc:subfield><marc:subfield code="2">generated from 245</marc:subfield></marc:datafield><marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Noble Bachelor (Penguin Classics)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="246" ind1=" " ind2=" ">
+      <marc:subfield code="a">Noble Bachelor</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="b">Penguin</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+  
+  <marc:record source="doyle.bibsys.author.xml">
+    <marc:leader>00391nam-a2200133z--4500</marc:leader>
+    <marc:controlfield tag="001">999920608658002201</marc:controlfield>
+    <marc:controlfield tag="008">170808u2005uuuuuuuuu-|-o----u|----|eng-d</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(CKB)3780000000449241</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(EXLCZ)993780000000449241</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Doyle, Arthur Conan</marc:subfield>
+      <marc:subfield code="1p">http://viaf.org/viaf/65283845</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="240" ind1="1" ind2="0">
+      <marc:subfield code="a">The adventures of Sherlock Holmes</marc:subfield>
+      <marc:subfield code="1w">http://viaf.org/viaf/186734487</marc:subfield>
+      <marc:subfield code="2">generated from 245</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">adventures of Sherlock Holmes</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="b">Project Gutenberg</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1="0" ind2="1">
+      <marc:subfield code="a">47BIBSYS_UBTO</marc:subfield>
+      <marc:subfield code="6">999920002482902205</marc:subfield>
+      <marc:subfield code="9">E</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+  <marc:record source="doyle.bibsys.author.xml">
+    <marc:leader>00645cam-a2200205z--4500</marc:leader>
+    <marc:controlfield tag="001">999919921683802201</marc:controlfield>
+    <marc:controlfield tag="005">20160727154517.0</marc:controlfield>
+    <marc:controlfield tag="008">121017u1996uuuuuuuuu-|-o----u|----|eng-d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">0-585-22226-6</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(CKB)111029787291002</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(EXLCZ)99111029787291002</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Doyle, Arthur Conan</marc:subfield>
+      <marc:subfield code="1p">http://viaf.org/viaf/65283845</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="240" ind1="1" ind2="0">
+      <marc:subfield code="a">Round the Red Lamp</marc:subfield>
+      <marc:subfield code="1w">http://www.wikidata.org/entity/Q3492113</marc:subfield>
+      <marc:subfield code="2">generated from 245</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1=" " ind2=" ">
+      <marc:subfield code="a">Round The Red Lamp</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="b">University of Virginia Library ; NetLibrary</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="710" ind1="2" ind2=" ">
+      <marc:subfield code="a">NetLibrary, Inc.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1="0" ind2="1">
+      <marc:subfield code="a">47BIBSYS_UBB</marc:subfield>
+      <marc:subfield code="6">999919761046202207</marc:subfield>
+      <marc:subfield code="9">E</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1="0" ind2="1">
+      <marc:subfield code="a">47BIBSYS_UBO</marc:subfield>
+      <marc:subfield code="6">999919771756302204</marc:subfield>
+      <marc:subfield code="9">E</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1="0" ind2="1">
+      <marc:subfield code="a">47BIBSYS_UBTO</marc:subfield>
+      <marc:subfield code="6">999919749574102205</marc:subfield>
+      <marc:subfield code="9">E</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1="0" ind2="1">
+      <marc:subfield code="a">47BIBSYS_NTNU_UB</marc:subfield>
+      <marc:subfield code="6">999919795773502203</marc:subfield>
+      <marc:subfield code="9">E</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+  
+  <marc:record source="doyle.bibsys.author.xml">
+    <marc:leader>00642cam-a2200205z--4500</marc:leader>
+    <marc:controlfield tag="001">999919921796702201</marc:controlfield>
+    <marc:controlfield tag="005">20160727154517.0</marc:controlfield>
+    <marc:controlfield tag="008">121017u1996uuuuuuuuu-|-o----u|----|eng-d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">0-585-21576-6</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(CKB)111029787287624</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(EXLCZ)99111029787287624</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Doyle, Arthur Conan</marc:subfield>
+      <marc:subfield code="1p">http://viaf.org/viaf/65283845</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="240" ind1="1" ind2="0">
+      <marc:subfield code="a"/>
+      <marc:subfield code="1w">http://viaf.org/viaf/181810457</marc:subfield>
+      <marc:subfield code="2">generated from 245</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1=" " ind2=" ">
+      <marc:subfield code="a">Beyond The City</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="b">University of Virginia Library ; NetLibrary</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="710" ind1="2" ind2=" ">
+      <marc:subfield code="a">NetLibrary, Inc.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1="0" ind2="1">
+      <marc:subfield code="a">47BIBSYS_UBB</marc:subfield>
+      <marc:subfield code="6">999919765932702207</marc:subfield>
+      <marc:subfield code="9">E</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1="0" ind2="1">
+      <marc:subfield code="a">47BIBSYS_UBO</marc:subfield>
+      <marc:subfield code="6">999919776320502204</marc:subfield>
+      <marc:subfield code="9">E</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1="0" ind2="1">
+      <marc:subfield code="a">47BIBSYS_UBTO</marc:subfield>
+      <marc:subfield code="6">999919752721802205</marc:subfield>
+      <marc:subfield code="9">E</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1="0" ind2="1">
+      <marc:subfield code="a">47BIBSYS_NTNU_UB</marc:subfield>
+      <marc:subfield code="6">999919794908502203</marc:subfield>
+      <marc:subfield code="9">E</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+  
+  <marc:record source="doyle.bibsys.author.xml">
+    <marc:leader>00387nam-a2200133z--4500</marc:leader>
+    <marc:controlfield tag="001">999920608592802201</marc:controlfield>
+    <marc:controlfield tag="008">170808u2002uuuuuuuuu-|-o----u|----|eng-d</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(CKB)3780000000446718</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(EXLCZ)993780000000446718</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Doyle, Arthur Conan</marc:subfield>
+      <marc:subfield code="1p">http://viaf.org/viaf/65283845</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="240" ind1="1" ind2="0">
+      <marc:subfield code="a">The Hound of the Baskervilles</marc:subfield>
+      <marc:subfield code="1w">http://viaf.org/viaf/181625655</marc:subfield>
+      <marc:subfield code="2">generated from 245</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Hound of the Baskervilles</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="b">Project Gutenberg</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1="0" ind2="1">
+      <marc:subfield code="a">47BIBSYS_UBTO</marc:subfield>
+      <marc:subfield code="6">999920002119502205</marc:subfield>
+      <marc:subfield code="9">E</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+  <marc:record source="doyle.bibsys.author.xml">
+    <marc:leader>00382nam-a2200133z--4500</marc:leader>
+    <marc:controlfield tag="001">999920608668102201</marc:controlfield>
+    <marc:controlfield tag="008">170808u2005uuuuuuuuu-|-o----u|----|eng-d</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(CKB)3780000000449239</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(EXLCZ)993780000000449239</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Doyle, Arthur Conan</marc:subfield>
+      <marc:subfield code="1p">http://viaf.org/viaf/65283845</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="240" ind1="1" ind2="0">
+      <marc:subfield code="a"/>
+      <marc:subfield code="1w">http://viaf.org/viaf/6035152865746704940001</marc:subfield>
+      <marc:subfield code="2">generated from 245</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">adventures of Gerard</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="b">Project Gutenberg</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1="0" ind2="1">
+      <marc:subfield code="a">47BIBSYS_UBTO</marc:subfield>
+      <marc:subfield code="6">999920002483902205</marc:subfield>
+      <marc:subfield code="9">E</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+  <marc:record source="doyle.bibsys.author.xml">
+    <marc:leader>00387nam-a2200133z--4500</marc:leader>
+    <marc:controlfield tag="001">999920608096302201</marc:controlfield>
+    <marc:controlfield tag="008">170808u2007uuuuuuuuu-|-o----u|----|eng-d</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(CKB)3780000000444740</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(EXLCZ)993780000000444740</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Doyle, Arthur Conan</marc:subfield>
+      <marc:subfield code="1p">http://viaf.org/viaf/65283845</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="240" ind1="1" ind2="0">
+      <marc:subfield code="a">The Hound of the Baskervilles</marc:subfield>
+      <marc:subfield code="1w">http://viaf.org/viaf/181625655</marc:subfield>
+      <marc:subfield code="2">generated from 245</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Hound of the Baskervilles</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="b">Project Gutenberg</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1="0" ind2="1">
+      <marc:subfield code="a">47BIBSYS_UBTO</marc:subfield>
+      <marc:subfield code="6">999920001914502205</marc:subfield>
+      <marc:subfield code="9">E</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+  <marc:record source="doyle.bibsys.author.xml">
+    <marc:leader>00392nam-a2200133z--4500</marc:leader>
+    <marc:controlfield tag="001">999920608618002201</marc:controlfield>
+    <marc:controlfield tag="008">170808u2005uuuuuuuuu-|-o----u|----|eng-d</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(CKB)3780000000449827</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(EXLCZ)993780000000449827</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Doyle, Arthur Conan</marc:subfield>
+      <marc:subfield code="1p">http://viaf.org/viaf/65283845</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="240" ind1="1" ind2="0">
+      <marc:subfield code="a"/>
+      <marc:subfield code="1w">http://viaf.org/viaf/180817010</marc:subfield>
+      <marc:subfield code="2">generated from 245</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Adventure of the Cardboard Box</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="b">Project Gutenberg</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1="0" ind2="1">
+      <marc:subfield code="a">47BIBSYS_UBTO</marc:subfield>
+      <marc:subfield code="6">999920002405502205</marc:subfield>
+      <marc:subfield code="9">E</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+  <marc:record source="doyle.bibsys.author.xml">
+    <marc:leader>00397nam-a2200133z--4500</marc:leader>
+    <marc:controlfield tag="001">999920608155302201</marc:controlfield>
+    <marc:controlfield tag="008">170808u2004uuuuuuuuu-|-o----u|----|eng-d</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(CKB)3780000000443795</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(EXLCZ)993780000000443795</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Doyle, Arthur Conan</marc:subfield>
+      <marc:subfield code="1p">http://viaf.org/viaf/65283845</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="240" ind1="1" ind2="0"><marc:subfield code="a">Uncle Bernac</marc:subfield><marc:subfield code="1w">http://viaf.org/viaf/206144898662550290126</marc:subfield><marc:subfield code="2">generated from 245</marc:subfield></marc:datafield><marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Uncle Bernac A Memory of the Empire</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="b">Project Gutenberg</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1="0" ind2="1">
+      <marc:subfield code="a">47BIBSYS_UBTO</marc:subfield>
+      <marc:subfield code="6">999920001821002205</marc:subfield>
+      <marc:subfield code="9">E</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+  <marc:record source="doyle.bibsys.author.xml">
+    <marc:leader>00588cam-a2200193z--4500</marc:leader>
+    <marc:controlfield tag="001">999919921491902201</marc:controlfield>
+    <marc:controlfield tag="005">20160614115402.0</marc:controlfield>
+    <marc:controlfield tag="008">121017u2000uuuuuuuuu-|-o----u|----|eng-d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">0-585-01304-7</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(CKB)111029787243598</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(EXLCZ)99111029787243598</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Doyle, Arthur Conan</marc:subfield>
+      <marc:subfield code="1p">http://viaf.org/viaf/65283845</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="210" ind1=" " ind2=" ">
+      <marc:subfield code="a">ADVENTURES OF SHERLOCK HOLMES</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="240" ind1="1" ind2="0">
+      <marc:subfield code="a">The adventures of Sherlock Holmes</marc:subfield>
+      <marc:subfield code="1w">http://viaf.org/viaf/186734487</marc:subfield>
+      <marc:subfield code="2">generated from 245</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1=" " ind2="4">
+      <marc:subfield code="a">The Adventures Of Sherlock Holmes</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="b">Project Gutenberg ; NetLibrary</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="710" ind1="2" ind2=" ">
+      <marc:subfield code="a">NetLibrary, Inc.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1="0" ind2="1">
+      <marc:subfield code="a">47BIBSYS_UBB</marc:subfield>
+      <marc:subfield code="6">999919766869902207</marc:subfield>
+      <marc:subfield code="9">E</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1="0" ind2="1">
+      <marc:subfield code="a">47BIBSYS_NTNU_UB</marc:subfield>
+      <marc:subfield code="6">999919793713202203</marc:subfield>
+      <marc:subfield code="9">E</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+  <marc:record source="doyle.bibsys.author.xml">
+    <marc:leader>00384nam-a2200133z--4500</marc:leader>
+    <marc:controlfield tag="001">999920608165702201</marc:controlfield>
+    <marc:controlfield tag="008">170808u2004uuuuuuuuu-|-o----u|----|eng-d</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(CKB)3780000000443533</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(EXLCZ)993780000000443533</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Doyle, Arthur Conan</marc:subfield>
+      <marc:subfield code="1p">http://viaf.org/viaf/65283845</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="240" ind1="1" ind2="0">
+      <marc:subfield code="a">The Tragedy of the Korosko</marc:subfield>
+      <marc:subfield code="1w">http://viaf.org/viaf/179668970</marc:subfield>
+      <marc:subfield code="2">generated from 245</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Tragedy of The Korosko</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="b">Project Gutenberg</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1="0" ind2="1">
+      <marc:subfield code="a">47BIBSYS_UBTO</marc:subfield>
+      <marc:subfield code="6">999920001860702205</marc:subfield>
+      <marc:subfield code="9">E</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+  <marc:record source="doyle.bibsys.author.xml">
+    <marc:leader>00670cam-a2200217z--4500</marc:leader>
+    <marc:controlfield tag="001">999919921797102201</marc:controlfield>
+    <marc:controlfield tag="005">20160727154517.0</marc:controlfield>
+    <marc:controlfield tag="008">121017u1996uuuuuuuuu-|-o----u|----|eng-d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">0-585-21579-0</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(CKB)111029787287628</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(EXLCZ)99111029787287628</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Doyle, Arthur Conan</marc:subfield>
+      <marc:subfield code="1p">http://viaf.org/viaf/65283845</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="210" ind1=" " ind2=" ">
+      <marc:subfield code="a">WHITE COMPANY</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="240" ind1="1" ind2="0">
+      <marc:subfield code="a">The White Company</marc:subfield>
+      <marc:subfield code="1w">http://viaf.org/viaf/3904151051822033530005</marc:subfield>
+      <marc:subfield code="2">generated from 245</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1=" " ind2=" ">
+      <marc:subfield code="a">White Company</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="b">University of Virginia Library ; NetLibrary</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="710" ind1="2" ind2=" ">
+      <marc:subfield code="a">NetLibrary, Inc.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1="0" ind2="1">
+      <marc:subfield code="a">47BIBSYS_UBB</marc:subfield>
+      <marc:subfield code="6">999919765932302207</marc:subfield>
+      <marc:subfield code="9">E</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1="0" ind2="1">
+      <marc:subfield code="a">47BIBSYS_UBO</marc:subfield>
+      <marc:subfield code="6">999919776319202204</marc:subfield>
+      <marc:subfield code="9">E</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1="0" ind2="1">
+      <marc:subfield code="a">47BIBSYS_UBTO</marc:subfield>
+      <marc:subfield code="6">999919752721102205</marc:subfield>
+      <marc:subfield code="9">E</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1="0" ind2="1">
+      <marc:subfield code="a">47BIBSYS_NTNU_UB</marc:subfield>
+      <marc:subfield code="6">999919794907702203</marc:subfield>
+      <marc:subfield code="9">E</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+  <marc:record source="doyle.bibsys.author.xml">
+    <marc:leader>00388nam-a2200133z--4500</marc:leader>
+    <marc:controlfield tag="001">999920608794802201</marc:controlfield>
+    <marc:controlfield tag="008">170808u1997uuuuuuuuu-|-o----u|----|eng-d</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(CKB)3780000000448945</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(EXLCZ)993780000000448945</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Doyle, Arthur Conan</marc:subfield>
+      <marc:subfield code="1p">http://viaf.org/viaf/65283845</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="240" ind1="1" ind2="0">
+      <marc:subfield code="a">The Memoirs of Sherlock
+					Holmes</marc:subfield>
+      <marc:subfield code="1w">http://www.wikidata.org/entity/Q860831</marc:subfield>
+      <marc:subfield code="2">generated from 245</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Memoirs of Sherlock Holmes</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="b">Project Gutenberg</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1="0" ind2="1">
+      <marc:subfield code="a">47BIBSYS_UBTO</marc:subfield>
+      <marc:subfield code="6">999920002306402205</marc:subfield>
+      <marc:subfield code="9">E</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+  
+  <marc:record source="doyle.bibsys.author.xml">
+    <marc:leader>00401nam-a2200133z--4500</marc:leader>
+    <marc:controlfield tag="001">999920608617802201</marc:controlfield>
+    <marc:controlfield tag="008">170808u2005uuuuuuuuu-|-o----u|----|eng-d</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(CKB)3780000000449826</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(EXLCZ)993780000000449826</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Doyle, Arthur Conan</marc:subfield>
+      <marc:subfield code="1p">http://viaf.org/viaf/65283845</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="240" ind1="1" ind2="0">
+      <marc:subfield code="a">The Adventure of the Bruce-Partington
+					Plans</marc:subfield>
+      <marc:subfield code="1w">http://www.wikidata.org/entity/Q2446784</marc:subfield>
+      <marc:subfield code="2">generated from 245</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Adventure of the Bruce-Partington Plans</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="b">Project Gutenberg</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1="0" ind2="1">
+      <marc:subfield code="a">47BIBSYS_UBTO</marc:subfield>
+      <marc:subfield code="6">999920002405402205</marc:subfield>
+      <marc:subfield code="9">E</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+  
+  
+  
+  <marc:record source="doyle.bibsys.author.xml">
+    <marc:leader>00371nam-a2200133z--4500</marc:leader>
+    <marc:controlfield tag="001">999920608469302201</marc:controlfield>
+    <marc:controlfield tag="008">170808u2001uuuuuuuuu-|-o----u|----|eng-d</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(CKB)3780000000447003</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(EXLCZ)993780000000447003</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Doyle, Arthur Conan</marc:subfield>
+      <marc:subfield code="1p">http://viaf.org/viaf/65283845</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="240" ind1="1" ind2="0">
+      <marc:subfield code="a">Sir Nigel</marc:subfield>
+      <marc:subfield code="1w">http://www.wikidata.org/entity/Q1963997</marc:subfield>
+      <marc:subfield code="2">generated from 245</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Sir Nigel</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="b">Project Gutenberg</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1="0" ind2="1">
+      <marc:subfield code="a">47BIBSYS_UBTO</marc:subfield>
+      <marc:subfield code="6">999920002292802205</marc:subfield>
+      <marc:subfield code="9">E</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+  
+  <marc:record source="doyle.bibsys.author.xml">
+    <marc:leader>00378nam-a2200133z--4500</marc:leader>
+    <marc:controlfield tag="001">999920608263302201</marc:controlfield>
+    <marc:controlfield tag="008">170808u2007uuuuuuuuu-|-o----u|----|eng-d</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(CKB)3780000000445143</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(EXLCZ)993780000000445143</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Doyle, Arthur Conan</marc:subfield>
+      <marc:subfield code="1p">http://viaf.org/viaf/65283845</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="240" ind1="1" ind2="0">
+      <marc:subfield code="a">The Sign of the Four</marc:subfield>
+      <marc:subfield code="1w">http://viaf.org/viaf/184892317</marc:subfield>
+      <marc:subfield code="2">generated from 245</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Sign of the Four</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="b">Project Gutenberg</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1="0" ind2="1">
+      <marc:subfield code="a">47BIBSYS_UBTO</marc:subfield>
+      <marc:subfield code="6">999920002074402205</marc:subfield>
+      <marc:subfield code="9">E</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+  <marc:record source="doyle.bibsys.author.xml">
+    <marc:leader>00375nam-a2200133z--4500</marc:leader>
+    <marc:controlfield tag="001">999920608679802201</marc:controlfield>
+    <marc:controlfield tag="008">170808u1997uuuuuuuuu-|-o----u|----|eng-d</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(CKB)3780000000448922</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(EXLCZ)993780000000448922</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Doyle, Arthur Conan</marc:subfield>
+      <marc:subfield code="1p">http://viaf.org/viaf/65283845</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="240" ind1="1" ind2="0">
+      <marc:subfield code="a">The White Company</marc:subfield>
+      <marc:subfield code="1w">http://viaf.org/viaf/3904151051822033530005</marc:subfield>
+      <marc:subfield code="2">generated from 245</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">White Company</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="b">Project Gutenberg</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1="0" ind2="1">
+      <marc:subfield code="a">47BIBSYS_UBTO</marc:subfield>
+      <marc:subfield code="6">999920002308502205</marc:subfield>
+      <marc:subfield code="9">E</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+  <marc:record source="doyle.bibsys.author.xml">
+    <marc:leader>00398nam-a2200133z--4500</marc:leader>
+    <marc:controlfield tag="001">999920608646602201</marc:controlfield>
+    <marc:controlfield tag="008">170808u2005uuuuuuuuu-|-o----u|----|eng-d</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(CKB)3780000000449287</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(EXLCZ)993780000000449287</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Doyle, Arthur Conan</marc:subfield>
+      <marc:subfield code="1p">http://viaf.org/viaf/65283845</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="240" ind1="1" ind2="0">
+      <marc:subfield code="a">The Disappearance of Lady Frances
+					Carfax</marc:subfield>
+      <marc:subfield code="1w">http://www.wikidata.org/entity/Q3041826</marc:subfield>
+      <marc:subfield code="2">generated from 245</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Disappearance Of Lady Frances Carfax</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="b">Project Gutenberg</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1="0" ind2="1">
+      <marc:subfield code="a">47BIBSYS_UBTO</marc:subfield>
+      <marc:subfield code="6">999920002444702205</marc:subfield>
+      <marc:subfield code="9">E</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+  <marc:record source="doyle.bibsys.author.xml">
+    <marc:leader>00380nam-a2200133z--4500</marc:leader>
+    <marc:controlfield tag="001">999920608690202201</marc:controlfield>
+    <marc:controlfield tag="008">170808u2005uuuuuuuuu-|-o----u|----|eng-d</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(CKB)3780000000448929</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(EXLCZ)993780000000448929</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Doyle, Arthur Conan</marc:subfield>
+      <marc:subfield code="1p">http://viaf.org/viaf/65283845</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="240" ind1="1" ind2="0">
+      <marc:subfield code="a">Round the Red Lamp</marc:subfield>
+      <marc:subfield code="1w">http://www.wikidata.org/entity/Q3492113</marc:subfield>
+      <marc:subfield code="2">generated from 245</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Round the Red Lamp</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="b">Project Gutenberg</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1="0" ind2="1">
+      <marc:subfield code="a">47BIBSYS_UBTO</marc:subfield>
+      <marc:subfield code="6">999920002308002205</marc:subfield>
+      <marc:subfield code="9">E</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+  <marc:record source="doyle.bibsys.author.xml">
+    <marc:leader>00391nam-a2200133z--4500</marc:leader>
+    <marc:controlfield tag="001">999920608626402201</marc:controlfield>
+    <marc:controlfield tag="008">170808u2005uuuuuuuuu-|-o----u|----|eng-d</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(CKB)3780000000449828</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(EXLCZ)993780000000449828</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Doyle, Arthur Conan</marc:subfield>
+      <marc:subfield code="1p">http://viaf.org/viaf/65283845</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="240" ind1="1" ind2="0">
+      <marc:subfield code="a">The Adventure of the Devil's
+					Foot</marc:subfield>
+      <marc:subfield code="1w">http://www.wikidata.org/entity/Q2466799</marc:subfield>
+      <marc:subfield code="2">generated from 245</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Adventure of the Devil's Foot</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="b">Project Gutenberg</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1="0" ind2="1">
+      <marc:subfield code="a">47BIBSYS_UBTO</marc:subfield>
+      <marc:subfield code="6">999920002406002205</marc:subfield>
+      <marc:subfield code="9">E</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+  <marc:record source="doyle.bibsys.author.xml">
+    <marc:leader>00732cam a22002297c 4500</marc:leader>
+    <marc:controlfield tag="001">991427867644702201</marc:controlfield>
+    <marc:controlfield tag="005">20181022142013.0</marc:controlfield>
+    <marc:controlfield tag="007">ta</marc:controlfield>
+    <marc:controlfield tag="008">141218nuuuuuuuuxx#|||||||||||000|u|nob|</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">142786764-47bibsys_network</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(NO-TrBIB)142786764</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="a">NO-OsNB</marc:subfield>
+      <marc:subfield code="b">nob</marc:subfield>
+      <marc:subfield code="e">katreg</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Doyle, Arthur Conan</marc:subfield>
+      <marc:subfield code="d">1859-1930</marc:subfield>
+      <marc:subfield code="0">(NO-TrBIB)90059591</marc:subfield>
+      <marc:subfield code="1p">http://viaf.org/viaf/65283845</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="240" ind1="1" ind2="0">
+      <marc:subfield code="a">Sherlock Holmes</marc:subfield>
+      <marc:subfield code="1w">http://viaf.org/viaf/174141344</marc:subfield>
+      <marc:subfield code="2">generated from 245</marc:subfield>
+    <marc:subfield code="l">nob</marc:subfield></marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Sherlock Holmes :</marc:subfield>
+      <marc:subfield code="b">komedie i 2 akter</marc:subfield>
+      <marc:subfield code="c">av Sir Arthur Conan Doyle og William Gillette ; oversatt av Nils
+        Nordberg </marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="b">[s.n.]</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">171 bl.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Teatermanus</marc:subfield>
+      <marc:subfield code="2">norvok</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Gillette, William Hooker</marc:subfield>
+      <marc:subfield code="0">(NO-TrBIB)90088207</marc:subfield>
+      <marc:subfield code="1p">gillettewilliamhooker</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1="0" ind2="1">
+      <marc:subfield code="a">47BIBSYS_NB</marc:subfield>
+      <marc:subfield code="6">991427867644702202</marc:subfield>
+      <marc:subfield code="9">P</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+  <marc:record source="doyle.bibsys.author.xml">
+    <marc:leader>00378nam-a2200133z--4500</marc:leader>
+    <marc:controlfield tag="001">999920608263202201</marc:controlfield>
+    <marc:controlfield tag="008">170808u2000uuuuuuuuu-|-o----u|----|eng-d</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(CKB)3780000000445142</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(EXLCZ)993780000000445142</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Doyle, Arthur Conan</marc:subfield>
+      <marc:subfield code="1p">http://viaf.org/viaf/65283845</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="240" ind1="1" ind2="0">
+      <marc:subfield code="a">The Sign of the Four</marc:subfield>
+      <marc:subfield code="1w">http://viaf.org/viaf/184892317</marc:subfield>
+      <marc:subfield code="2">generated from 245</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Sign of the Four</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="b">Project Gutenberg</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1="0" ind2="1">
+      <marc:subfield code="a">47BIBSYS_UBTO</marc:subfield>
+      <marc:subfield code="6">999920002074302205</marc:subfield>
+      <marc:subfield code="9">E</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+  <marc:record source="doyle.bibsys.author.xml">
+    <marc:leader>00391nam-a2200133z--4500</marc:leader>
+    <marc:controlfield tag="001">999920607999002201</marc:controlfield>
+    <marc:controlfield tag="008">170808u1999uuuuuuuuu-|-o----u|----|eng-d</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(CKB)3780000000444199</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(EXLCZ)993780000000444199</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Doyle, Arthur Conan</marc:subfield>
+      <marc:subfield code="1p">http://viaf.org/viaf/65283845</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="240" ind1="1" ind2="0">
+      <marc:subfield code="a">The adventures of Sherlock Holmes</marc:subfield>
+      <marc:subfield code="1w">http://viaf.org/viaf/186734487</marc:subfield>
+      <marc:subfield code="2">generated from 245</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">adventures of Sherlock Holmes</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="b">Project Gutenberg</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1="0" ind2="1">
+      <marc:subfield code="a">47BIBSYS_UBTO</marc:subfield>
+      <marc:subfield code="6">999920001951102205</marc:subfield>
+      <marc:subfield code="9">E</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+  <marc:record source="doyle.bibsys.author.xml">
+    <marc:leader>00384nam-a2200145z--4500</marc:leader>
+    <marc:controlfield tag="001">999920557276702201</marc:controlfield>
+    <marc:controlfield tag="008">170724u2011uuuuuuuuu-|-o----u|----|eng-d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">0-14-043907-2</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(CKB)3780000000409884</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(EXLCZ)993780000000409884</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Doyle, Arthur Conan</marc:subfield>
+      <marc:subfield code="1p">http://viaf.org/viaf/65283845</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="240" ind1="1" ind2="0">
+      <marc:subfield code="a">The Sign of the Four</marc:subfield>
+      <marc:subfield code="1w">http://viaf.org/viaf/184892317</marc:subfield>
+      <marc:subfield code="2">generated from 245</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Sign of Four (Penguin Classics)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="246" ind1=" " ind2=" ">
+      <marc:subfield code="a">Sign of Four</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="b">Penquin</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+  
+  <marc:record source="doyle.bibsys.author.xml">
+    <marc:leader>00516cam a22001817c 4500</marc:leader>
+    <marc:controlfield tag="001">999422486004702201</marc:controlfield>
+    <marc:controlfield tag="005">20010928183037.0</marc:controlfield>
+    <marc:controlfield tag="007">ta</marc:controlfield>
+    <marc:controlfield tag="008">010928nuuuuuuuuxx#|||||||||||000|u|eng|d</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">942248600-47bibsys_network</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(NO-TrBIB)942248600</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="a">NO-TrBIB</marc:subfield>
+      <marc:subfield code="b">nob</marc:subfield>
+      <marc:subfield code="e">katreg</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Doyle, Arthur Conan</marc:subfield>
+      <marc:subfield code="d">1859-1930</marc:subfield>
+      <marc:subfield code="0">(NO-TrBIB)90059591</marc:subfield>
+      <marc:subfield code="1p">http://viaf.org/viaf/65283845</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="240" ind1="1" ind2="0">
+      <marc:subfield code="a">Through the Magic Door</marc:subfield>
+      <marc:subfield code="1w">http://viaf.org/viaf/310218668</marc:subfield>
+      <marc:subfield code="2">generated from 245</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Through the magic door</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">London</marc:subfield>
+      <marc:subfield code="b">Thomas Nelson &lt;s.a.&gt;</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">253 s.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1="0" ind2="1">
+      <marc:subfield code="a">47BIBSYS_UBO</marc:subfield>
+      <marc:subfield code="6">999422486004702204</marc:subfield>
+      <marc:subfield code="9">P</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+  <marc:record source="doyle.bibsys.author.xml">
+    <marc:leader>00528cam-a2200181z--4500</marc:leader>
+    <marc:controlfield tag="001">999919921726502201</marc:controlfield>
+    <marc:controlfield tag="005">20160727154502.0</marc:controlfield>
+    <marc:controlfield tag="008">121017u2000uuuuuuuuu-|-o----u|----|eng-d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">0-585-09946-4</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(CKB)111029787268426</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(EXLCZ)99111029787268426</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Doyle, Arthur Conan</marc:subfield>
+      <marc:subfield code="1p">http://viaf.org/viaf/65283845</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="240" ind1="1" ind2="0">
+      <marc:subfield code="a">Through the Magic Door</marc:subfield>
+      <marc:subfield code="1w">http://viaf.org/viaf/310218668</marc:subfield>
+      <marc:subfield code="2">generated from 245</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1=" " ind2=" ">
+      <marc:subfield code="a">Through The Magic Door</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="b">Alex Catalogue ; NetLibrary</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="710" ind1="2" ind2=" ">
+      <marc:subfield code="a">NetLibrary, Inc.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1="0" ind2="1">
+      <marc:subfield code="a">47BIBSYS_UBB</marc:subfield>
+      <marc:subfield code="6">999919761360602207</marc:subfield>
+      <marc:subfield code="9">E</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1="0" ind2="1">
+      <marc:subfield code="a">47BIBSYS_NTNU_UB</marc:subfield>
+      <marc:subfield code="6">999919794949502203</marc:subfield>
+      <marc:subfield code="9">E</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+  
+  
+  <marc:record source="doyle.bibsys.author.xml">
+    <marc:leader>00383nam-a2200133z--4500</marc:leader>
+    <marc:controlfield tag="001">999920608207302201</marc:controlfield>
+    <marc:controlfield tag="008">170808u2005uuuuuuuuu-|-o----u|----|eng-d</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(CKB)3780000000446458</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(EXLCZ)993780000000446458</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Doyle, Arthur Conan</marc:subfield>
+      <marc:subfield code="1p">http://viaf.org/viaf/65283845</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="240" ind1="1" ind2="0">
+      <marc:subfield code="a">The Doings of Raffles Haw</marc:subfield>
+      <marc:subfield code="1w">http://viaf.org/viaf/309272292</marc:subfield>
+      <marc:subfield code="2">generated from 245</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Doings Of Raffles Haw</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="b">Project Gutenberg</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1="0" ind2="1">
+      <marc:subfield code="a">47BIBSYS_UBTO</marc:subfield>
+      <marc:subfield code="6">999920002139102205</marc:subfield>
+      <marc:subfield code="9">E</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+  
+  
+  
+  
+</marc:collection>

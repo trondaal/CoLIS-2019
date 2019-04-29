@@ -42,10 +42,10 @@
    <bibframe:Work rdf:about="http://viaf.org/viaf/analyttid">
       <w:P10002>http://viaf.org/viaf/analyttid</w:P10002>
       <w:P10088>Dette er tittel til en analytt</w:P10088>
-      <bibframe:translation rdf:resource="http://viaf.org/viaf/analyttid/eng"/>
+      <bibframe:translation rdf:resource="http://viaf.org/viaf/analyttid/spa/eng"/>
    </bibframe:Work>
-   <bibframe:Work rdf:about="http://viaf.org/viaf/analyttid/eng">
-      <w:P10002>http://viaf.org/viaf/analyttid</w:P10002>
+   <bibframe:Work rdf:about="http://viaf.org/viaf/analyttid/spa/eng">
+      <w:P10002>http://viaf.org/viaf/analyttid/spa</w:P10002>
       <e:P20006>spa</e:P20006>
       <w:P10088>Dette er tittel til en analytt</w:P10088>
       <bibframe:partOf rdf:resource="http://viaf.org/viaf/helhet/eng"/>
@@ -62,8 +62,9 @@
       <w:P10002>http://viaf.org/viaf/helhet</w:P10002>
       <w:P10088>Dette er tittel på helheten</w:P10088>
       <w:P10088>Dette er tittelen som står på boka</w:P10088>
+      <w:P30117>Camilo José Cela ; translated by Patricia Haugaard</w:P30117>
       <bibframe:hasInstance rdf:resource="urn:isbn:0704370492"/>
-      <bibframe:hasPart rdf:resource="http://viaf.org/viaf/analyttid/eng"/>
+      <bibframe:hasPart rdf:resource="http://viaf.org/viaf/analyttid/spa/eng"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/personhoved"/>
       <w:P10065 rdf:resource="patriciahaugaard"/>
       <w:P10256 rdf:resource="http://viaf.org/viaf/emneverk"/>

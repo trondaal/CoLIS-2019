@@ -13,7 +13,7 @@
    <c:C10001 rdf:about="http://oslomet.workid.no/wg/01">
       <w:P10002>http://oslomet.workid.no/wg/01</w:P10002>
       <w:P10088>An Egyptian Journal</w:P10088>
-      <w:P10088>&#x98;An&#x9c; Egyptian journal</w:P10088>
+      <w:P10088>An Egyptian journal</w:P10088>
       <w:P10061 rdf:resource="http://viaf.org/viaf/89500102"/>
       <w:P10078 rdf:resource="http://oslomet.workid.no/wg/01/eng/text"/>
       <w:P10078 rdf:resource="http://oslomet.workid.no/wg/01/spa/"/>
@@ -39,7 +39,6 @@
       <w:P10088>The Double Tongue</w:P10088>
       <w:P10088>Double tongue</w:P10088>
       <w:P10088>The double tongue</w:P10088>
-      <w:P10088>&#x98;The&#x9c; double tongue</w:P10088>
       <w:P10061 rdf:resource="http://viaf.org/viaf/89500102"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/1180145424574586830081/eng/text"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/1180145424574586830081/spa/text"/>
@@ -51,7 +50,6 @@
       <w:P10002>http://viaf.org/viaf/119144648592107423604</w:P10002>
       <w:P10088>Lord of the Flies</w:P10088>
       <w:P10088>Lord of the flies</w:P10088>
-      <w:P10088>Lord of flies</w:P10088>
       <w:P10061 rdf:resource="http://viaf.org/viaf/89500102"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/119144648592107423604/eng/text"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/119144648592107423604/spa/text"/>
@@ -92,10 +90,9 @@
    </c:C10001>
    <c:C10001 rdf:about="http://viaf.org/viaf/178994871">
       <w:P10002>http://viaf.org/viaf/178994871</w:P10002>
-      <w:P10088>Spire</w:P10088>
       <w:P10088>The Spire</w:P10088>
+      <w:P10088>Spire</w:P10088>
       <w:P10088>The spire</w:P10088>
-      <w:P10088>&#x98;The&#x9c; spire</w:P10088>
       <w:P10061 rdf:resource="http://viaf.org/viaf/89500102"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/178994871/ger/text"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/178994871/eng/text"/>
@@ -155,8 +152,6 @@
       <w:P10088>Inheritors</w:P10088>
       <w:P10088>The inheritors</w:P10088>
       <w:P10088>Inheritors, The</w:P10088>
-      <w:P10088>&#x98;The&#x9c; Inheritors</w:P10088>
-      <w:P10088>&#x98;The&#x9c; inheritors</w:P10088>
       <w:P10061 rdf:resource="http://viaf.org/viaf/89500102"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/217036112/eng/text"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/217036112/spa/text"/>
@@ -187,8 +182,6 @@
    <c:C10001 rdf:about="http://viaf.org/viaf/309268108">
       <w:P10002>http://viaf.org/viaf/309268108</w:P10002>
       <w:P10088>The Pyramid</w:P10088>
-      <w:P10088>&#x98;The&#x9c; pyramid</w:P10088>
-      <w:P10088>The pyramid</w:P10088>
       <w:P10061 rdf:resource="http://viaf.org/viaf/89500102"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/309268108/eng/text"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/309268108/spa/"/>
@@ -206,10 +199,6 @@
       <w:P10061 rdf:resource="http://viaf.org/viaf/89500102"/>
       <w:P10078 rdf:resource="http://www.wikidata.org/entity/q4658399http://viaf.org/viaf/307973201/eng/text"/>
    </c:C10001>
-   <c:C10004 rdf:about="alnajmalaa">
-      <a:P50094>alnajmalaa</a:P50094>
-      <a:P50111>Alnajm, Alaa</a:P50111>
-   </c:C10004>
    <c:C10004 rdf:about="amlieaxel">
       <a:P50094>amlieaxel</a:P50094>
       <a:P50111>Amlie, Axel</a:P50111>
@@ -217,10 +206,6 @@
       <a:P50145 rdf:resource="http://viaf.org/viaf/174553895/nob/"/>
       <a:P50145 rdf:resource="http://viaf.org/viaf/176165653/nob/"/>
       <a:P50145 rdf:resource="http://viaf.org/viaf/187146251/nob/"/>
-   </c:C10004>
-   <c:C10004 rdf:about="andrechternsth">
-      <a:P50094>andrechternsth</a:P50094>
-      <a:P50111>Andrecht, Ernst H</a:P50111>
    </c:C10004>
    <c:C10004 rdf:about="apollo">
       <a:P50094>apollo</a:P50094>
@@ -232,130 +217,19 @@
       <a:P50111>Aurstad, Oddvar</a:P50111>
       <a:P50145 rdf:resource="http://viaf.org/viaf/211743501/nob/"/>
    </c:C10004>
-   <c:C10004 rdf:about="babbhowardselden">
-      <a:P50094>babbhowardselden</a:P50094>
-      <a:P50111>BABB, Howard Selden</a:P50111>
-   </c:C10004>
    <c:C10004 rdf:about="baerengeljennifer">
       <a:P50094>baerengeljennifer</a:P50094>
       <a:P50111>Baer-Engel, Jennifer</a:P50111>
-   </c:C10004>
-   <c:C10004 rdf:about="baileydavid">
-      <a:P50094>baileydavid</a:P50094>
-      <a:P50111>Bailey, David</a:P50111>
-      <a:P50107>1938-</a:P50107>
-   </c:C10004>
-   <c:C10004 rdf:about="bakerjamesrupert">
-      <a:P50094>bakerjamesrupert</a:P50094>
-      <a:P50111>Baker, James Rupert</a:P50111>
    </c:C10004>
    <c:C10004 rdf:about="ballantynerobertm">
       <a:P50094>ballantynerobertm</a:P50094>
       <a:P50111>Ballantyne, Robert M</a:P50111>
       <a:P50107>1825-1894</a:P50107>
    </c:C10004>
-   <c:C10004 rdf:about="bayerniklas">
-      <a:P50094>bayerniklas</a:P50094>
-      <a:P50111>Bayer, Niklas</a:P50111>
-   </c:C10004>
-   <c:C10004 rdf:about="beesontrevor">
-      <a:P50094>beesontrevor</a:P50094>
-      <a:P50111>Beeson, Trevor</a:P50111>
-   </c:C10004>
-   <c:C10004 rdf:about="bilesjacki">
-      <a:P50094>bilesjacki</a:P50094>
-      <a:P50111>Biles, Jack I</a:P50111>
-      <a:P50107>1920-</a:P50107>
-   </c:C10004>
-   <c:C10004 rdf:about="boydstephen">
-      <a:P50094>boydstephen</a:P50094>
-      <a:P50111>Boyd, Stephen</a:P50111>
-      <a:P50107>1957-</a:P50107>
-   </c:C10004>
-   <c:C10004 rdf:about="broesarthurt">
-      <a:P50094>broesarthurt</a:P50094>
-      <a:P50111>BROES, Arthur T</a:P50111>
-   </c:C10004>
-   <c:C10004 rdf:about="buddebergsarah">
-      <a:P50094>buddebergsarah</a:P50094>
-      <a:P50111>Buddeberg, Sarah</a:P50111>
-   </c:C10004>
    <c:C10004 rdf:about="bunnellws">
       <a:P50094>bunnellws</a:P50094>
       <a:P50111>Bunnell, W. S</a:P50111>
       <a:P50107>1925-</a:P50107>
-   </c:C10004>
-   <c:C10004 rdf:about="carlsonchristophern">
-      <a:P50094>carlsonchristophern</a:P50094>
-      <a:P50111>Carlson, Christopher N</a:P50111>
-   </c:C10004>
-   <c:C10004 rdf:about="ciraklimustafazeki">
-      <a:P50094>ciraklimustafazeki</a:P50094>
-      <a:P50111>ÇIRAKLI, MUSTAFA ZEKİ</a:P50111>
-   </c:C10004>
-   <c:C10004 rdf:about="clevegunnel">
-      <a:P50094>clevegunnel</a:P50094>
-      <a:P50111>Cleve, Gunnel</a:P50111>
-   </c:C10004>
-   <c:C10004 rdf:about="corstenrenate">
-      <a:P50094>corstenrenate</a:P50094>
-      <a:P50111>Corsten, Renate</a:P50111>
-   </c:C10004>
-   <c:C10004 rdf:about="cromptondon">
-      <a:P50094>cromptondon</a:P50094>
-      <a:P50111>Crompton, Don</a:P50111>
-      <a:P50107>-1983</a:P50107>
-   </c:C10004>
-   <c:C10004 rdf:about="dickenfullernicolac">
-      <a:P50094>dickenfullernicolac</a:P50094>
-      <a:P50111>Dicken-Fuller, Nicola C</a:P50111>
-   </c:C10004>
-   <c:C10004 rdf:about="fernkornmaria">
-      <a:P50094>fernkornmaria</a:P50094>
-      <a:P50111>Fernkorn, Maria</a:P50111>
-   </c:C10004>
-   <c:C10004 rdf:about="gernmarchenrik">
-      <a:P50094>gernmarchenrik</a:P50094>
-      <a:P50111>Gern, Marc Henrik</a:P50111>
-      <a:P50107>1970-</a:P50107>
-   </c:C10004>
-   <c:C10004 rdf:about="gieselerdetlef">
-      <a:P50094>gieselerdetlef</a:P50094>
-      <a:P50111>Gieseler, Detlef</a:P50111>
-      <a:P50107>1962-</a:P50107>
-   </c:C10004>
-   <c:C10004 rdf:about="gindinjames">
-      <a:P50094>gindinjames</a:P50094>
-      <a:P50111>Gindin, James</a:P50111>
-      <a:P50107>1926-</a:P50107>
-   </c:C10004>
-   <c:C10004 rdf:about="goebelsdennisalexander">
-      <a:P50094>goebelsdennisalexander</a:P50094>
-      <a:P50111>Goebels, Dennis Alexander</a:P50111>
-   </c:C10004>
-   <c:C10004 rdf:about="goldingedwardwilliam">
-      <a:P50094>goldingedwardwilliam</a:P50094>
-      <a:P50111>Golding, Edward William</a:P50111>
-      <a:P50111>GOLDING, Edward William</a:P50111>
-   </c:C10004>
-   <c:C10004 rdf:about="goldingernest">
-      <a:P50094>goldingernest</a:P50094>
-      <a:P50111>GOLDING, Ernest</a:P50111>
-   </c:C10004>
-   <c:C10004 rdf:about="goldingew">
-      <a:P50094>goldingew</a:P50094>
-      <a:P50111>Golding, E. W</a:P50111>
-      <a:P50107>1902-1965</a:P50107>
-      <a:P50107>1909-</a:P50107>
-   </c:C10004>
-   <c:C10004 rdf:about="haferkampbrigitte">
-      <a:P50094>haferkampbrigitte</a:P50094>
-      <a:P50111>Haferkamp, Brigitte</a:P50111>
-   </c:C10004>
-   <c:C10004 rdf:about="hageruphilde">
-      <a:P50094>hageruphilde</a:P50094>
-      <a:P50111>Hagerup, Hilde</a:P50111>
-      <a:P50107>1976-</a:P50107>
    </c:C10004>
    <c:C10004 rdf:about="hagerupinger">
       <a:P50094>hagerupinger</a:P50094>
@@ -373,19 +247,10 @@
       <a:P50111>Handley, Graham</a:P50111>
       <a:P50107>1926-</a:P50107>
    </c:C10004>
-   <c:C10004 rdf:about="hanscombegilliane">
-      <a:P50094>hanscombegilliane</a:P50094>
-      <a:P50111>Hanscombe, Gillian E</a:P50111>
-      <a:P50107>1945-</a:P50107>
-   </c:C10004>
-   <c:C10004 rdf:about="hasenbachsabine">
-      <a:P50094>hasenbachsabine</a:P50094>
-      <a:P50111>Hasenbach, Sabine</a:P50111>
-   </c:C10004>
-   <c:C10004 rdf:about="http://viaf.org/viaf/54146854">
-      <a:P50094>http://viaf.org/viaf/54146854</a:P50094>
-      <a:P50111>Dienes, Zoltan P</a:P50111>
-      <a:P50107>1916-2014</a:P50107>
+   <c:C10004 rdf:about="heldwolfgang">
+      <a:P50094>heldwolfgang</a:P50094>
+      <a:P50111>Held, Wolfgang</a:P50111>
+      <a:P50145 rdf:resource="http://viaf.org/viaf/1180145424574586830081/ger/text"/>
    </c:C10004>
    <c:C10004 rdf:about="http://viaf.org/viaf/86744222">
       <a:P50094>http://viaf.org/viaf/86744222</a:P50094>
@@ -396,7 +261,6 @@
       <a:P50094>http://viaf.org/viaf/89500102</a:P50094>
       <a:P50111>Golding, William</a:P50111>
       <a:P50107>1911-1993</a:P50107>
-      <a:P50195 rdf:resource="http://viaf.org/viaf/178994871"/>
       <a:P50195 rdf:resource="http://viaf.org/viaf/119144648592107423604"/>
       <a:P50195 rdf:resource="http://viaf.org/viaf/218116512"/>
       <a:P50195 rdf:resource="http://oslomet.workid.no/wg/06"/>
@@ -404,6 +268,7 @@
       <a:P50195 rdf:resource="http://viaf.org/viaf/1180145424574586830081"/>
       <a:P50195 rdf:resource="http://oslomet.workid.no/wg/05"/>
       <a:P50195 rdf:resource="http://viaf.org/viaf/188302088"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/178994871"/>
       <a:P50195 rdf:resource="http://www.wikidata.org/entity/q4394863"/>
       <a:P50195 rdf:resource="http://viaf.org/viaf/308018847"/>
       <a:P50195 rdf:resource="http://viaf.org/viaf/217036112"/>
@@ -418,35 +283,13 @@
       <a:P50249 rdf:resource="http://oslomet.workid.no/wg/01"/>
       <a:P50249 rdf:resource="http://viaf.org/viaf/119144648592107423604"/>
    </c:C10004>
-   <c:C10004 rdf:about="humbergmarieluise">
-      <a:P50094>humbergmarieluise</a:P50094>
-      <a:P50111>Humberg, Marie-Luise</a:P50111>
-      <a:P50107>1934-</a:P50107>
-   </c:C10004>
-   <c:C10004 rdf:about="jaentschkarin">
-      <a:P50094>jaentschkarin</a:P50094>
-      <a:P50111>Jaentsch, Karin</a:P50111>
-   </c:C10004>
    <c:C10004 rdf:about="jahnkehansotto">
       <a:P50094>jahnkehansotto</a:P50094>
       <a:P50111>Jahnke, Hans-Otto</a:P50111>
    </c:C10004>
-   <c:C10004 rdf:about="johnstonarnold">
-      <a:P50094>johnstonarnold</a:P50094>
-      <a:P50111>Johnston, Arnold</a:P50111>
-   </c:C10004>
    <c:C10004 rdf:about="kaisergerd">
       <a:P50094>kaisergerd</a:P50094>
       <a:P50111>Kaiser, Gerd</a:P50111>
-   </c:C10004>
-   <c:C10004 rdf:about="kaiserkirsten">
-      <a:P50094>kaiserkirsten</a:P50094>
-      <a:P50111>Kaiser, Kirsten</a:P50111>
-   </c:C10004>
-   <c:C10004 rdf:about="kedarhadas">
-      <a:P50094>kedarhadas</a:P50094>
-      <a:P50111>Kedar, Hadas</a:P50111>
-      <a:P50107>1963-</a:P50107>
    </c:C10004>
    <c:C10004 rdf:about="kellerrolfheinrich">
       <a:P50094>kellerrolfheinrich</a:P50094>
@@ -455,15 +298,6 @@
    <c:C10004 rdf:about="kingmartin">
       <a:P50094>kingmartin</a:P50094>
       <a:P50111>King, Martin</a:P50111>
-   </c:C10004>
-   <c:C10004 rdf:about="kinkeadweekesmark">
-      <a:P50094>kinkeadweekesmark</a:P50094>
-      <a:P50111>Kinkead-Weekes, Mark</a:P50111>
-   </c:C10004>
-   <c:C10004 rdf:about="koppenhoferwernerwolfgang">
-      <a:P50094>koppenhoferwernerwolfgang</a:P50094>
-      <a:P50111>Koppenhöfer, Werner Wolfgang</a:P50111>
-      <a:P50107>1964-</a:P50107>
    </c:C10004>
    <c:C10004 rdf:about="lausundolav">
       <a:P50094>lausundolav</a:P50094>
@@ -479,15 +313,6 @@
       <a:P50111>Mahoney, John</a:P50111>
       <a:P50107>1940 February 23-</a:P50107>
    </c:C10004>
-   <c:C10004 rdf:about="martngutirrezflix">
-      <a:P50094>martngutirrezflix</a:P50094>
-      <a:P50111>Martín Gutiérrez, Félix</a:P50111>
-   </c:C10004>
-   <c:C10004 rdf:about="medcalfstephen">
-      <a:P50094>medcalfstephen</a:P50094>
-      <a:P50111>Medcalf, Stephen</a:P50111>
-      <a:P50107>1936-2007</a:P50107>
-   </c:C10004>
    <c:C10004 rdf:about="meitckew">
       <a:P50094>meitckew</a:P50094>
       <a:P50111>Meitcke, W</a:P50111>
@@ -500,19 +325,6 @@
       <a:P50094>nivenalastair</a:P50094>
       <a:P50111>Niven, Alastair</a:P50111>
    </c:C10004>
-   <c:C10004 rdf:about="oldseybernardstanley">
-      <a:P50094>oldseybernardstanley</a:P50094>
-      <a:P50111>OLDSEY, Bernard Stanley</a:P50111>
-   </c:C10004>
-   <c:C10004 rdf:about="ovid">
-      <a:P50094>ovid</a:P50094>
-      <a:P50111>Ovid</a:P50111>
-      <a:P50107>43 B.C.-17 A.D. or 18 A.D</a:P50107>
-   </c:C10004>
-   <c:C10004 rdf:about="pakdelfarhad">
-      <a:P50094>pakdelfarhad</a:P50094>
-      <a:P50111>Pakdel, Farhad</a:P50111>
-   </c:C10004>
    <c:C10004 rdf:about="peabentezpatricia">
       <a:P50094>peabentezpatricia</a:P50094>
       <a:P50111>Peña Benítez, Patricia</a:P50111>
@@ -522,32 +334,10 @@
       <a:P50111>Poppe, Reiner</a:P50111>
       <a:P50107>1939-</a:P50107>
    </c:C10004>
-   <c:C10004 rdf:about="redpathphilip">
-      <a:P50094>redpathphilip</a:P50094>
-      <a:P50111>Redpath, Philip</a:P50111>
-   </c:C10004>
-   <c:C10004 rdf:about="resnickseymour">
-      <a:P50094>resnickseymour</a:P50094>
-      <a:P50111>Resnick, Seymour</a:P50111>
-   </c:C10004>
    <c:C10004 rdf:about="ryumnils">
       <a:P50094>ryumnils</a:P50094>
       <a:P50111>Ryum, Nils</a:P50111>
       <a:P50145 rdf:resource="http://viaf.org/viaf/217036112/nob/"/>
-   </c:C10004>
-   <c:C10004 rdf:about="schadyalex">
-      <a:P50094>schadyalex</a:P50094>
-      <a:P50111>Schady, Alex</a:P50111>
-      <a:P50107>1974-</a:P50107>
-   </c:C10004>
-   <c:C10004 rdf:about="shakespearewilliam">
-      <a:P50094>shakespearewilliam</a:P50094>
-      <a:P50111>Shakespeare, William</a:P50111>
-      <a:P50107>1564-1616</a:P50107>
-   </c:C10004>
-   <c:C10004 rdf:about="snchezfernndezeduardo">
-      <a:P50094>snchezfernndezeduardo</a:P50094>
-      <a:P50111>Sánchez Fernández, Eduardo</a:P50111>
    </c:C10004>
    <c:C10004 rdf:about="spearhildad">
       <a:P50094>spearhildad</a:P50094>
@@ -562,54 +352,20 @@
       <a:P50094>stannatastrid</a:P50094>
       <a:P50111>Stannat, Astrid</a:P50111>
    </c:C10004>
-   <c:C10004 rdf:about="stewartnick">
-      <a:P50094>stewartnick</a:P50094>
-      <a:P50111>Stewart, Nick</a:P50111>
-   </c:C10004>
    <c:C10004 rdf:about="stiehlhermann">
       <a:P50094>stiehlhermann</a:P50094>
       <a:P50111>Stiehl, Hermann</a:P50111>
       <a:P50145 rdf:resource="http://viaf.org/viaf/119144648592107423604/ger/text"/>
    </c:C10004>
-   <c:C10004 rdf:about="subbaraovv">
-      <a:P50094>subbaraovv</a:P50094>
-      <a:P50111>Subbarao, V. V</a:P50111>
-      <a:P50107>1938-</a:P50107>
-   </c:C10004>
-   <c:C10004 rdf:about="sugimurayasunori">
-      <a:P50094>sugimurayasunori</a:P50094>
-      <a:P50111>Sugimura, Yasunori</a:P50111>
-   </c:C10004>
    <c:C10004 rdf:about="sumnerrosemary">
       <a:P50094>sumnerrosemary</a:P50094>
       <a:P50111>Sumner, Rosemary</a:P50111>
-   </c:C10004>
-   <c:C10004 rdf:about="tigervirginia">
-      <a:P50094>tigervirginia</a:P50094>
-      <a:P50111>Tiger, Virginia</a:P50111>
    </c:C10004>
    <c:C10004 rdf:about="torbergpeter">
       <a:P50094>torbergpeter</a:P50094>
       <a:P50111>Torberg, Peter</a:P50111>
       <a:P50107>1958-</a:P50107>
       <a:P50145 rdf:resource="http://viaf.org/viaf/119144648592107423604/ger/text"/>
-   </c:C10004>
-   <c:C10004 rdf:about="tugluutku">
-      <a:P50094>tugluutku</a:P50094>
-      <a:P50111>Tuğlu, Utku</a:P50111>
-   </c:C10004>
-   <c:C10004 rdf:about="turcksusanne">
-      <a:P50094>turcksusanne</a:P50094>
-      <a:P50111>Turck, Susanne</a:P50111>
-   </c:C10004>
-   <c:C10004 rdf:about="williamsandrew">
-      <a:P50094>williamsandrew</a:P50094>
-      <a:P50111>Williams, Andrew</a:P50111>
-   </c:C10004>
-   <c:C10004 rdf:about="williamsnigel">
-      <a:P50094>williamsnigel</a:P50094>
-      <a:P50111>Williams, Nigel</a:P50111>
-      <a:P50107>1948-</a:P50107>
    </c:C10004>
    <c:C10004 rdf:about="wilsonraymond">
       <a:P50094>wilsonraymond</a:P50094>
@@ -627,8 +383,6 @@
    <c:C10006 rdf:about="http://oslomet.workid.no/wg/01/ger/text">
       <e:P20006>ger</e:P20006>
       <e:P20001>Text</e:P20001>
-      <e:P20312>dt.</e:P20312>
-      <e:P20312>&#x98;An&#x9c; Egyptian journal</e:P20312>
       <e:P20059 rdf:resource="urn:isbn:9783471776483"/>
       <e:P20231 rdf:resource="http://oslomet.workid.no/wg/01"/>
    </c:C10006>
@@ -676,8 +430,7 @@
       <e:P20006>German</e:P20006>
       <e:P20001>text</e:P20001>
       <e:P20001>Text</e:P20001>
-      <e:P20312>dt.</e:P20312>
-      <e:P20312>&#x98;The&#x9c; double tongue</e:P20312>
+      <e:P20037 rdf:resource="heldwolfgang"/>
       <e:P20059 rdf:resource="urn:isbn:3458168893"/>
       <e:P20059 rdf:resource="urn:isbn:9783458168898"/>
       <e:P20231 rdf:resource="http://viaf.org/viaf/1180145424574586830081"/>
@@ -699,6 +452,7 @@
       <e:P20006>eng</e:P20006>
       <e:P20001>text</e:P20001>
       <e:P20001>Text</e:P20001>
+      <e:P20312>Lord of the Flies</e:P20312>
       <e:P20059 rdf:resource="urn:isbn:0850467071"/>
       <e:P20059 rdf:resource="urn:isbn:0571056865"/>
       <e:P20059 rdf:resource="urn:isbn:9780571295715"/>
@@ -733,10 +487,6 @@
       <e:P20006>German</e:P20006>
       <e:P20001>text</e:P20001>
       <e:P20001>Text</e:P20001>
-      <e:P20312>dt.</e:P20312>
-      <e:P20312>Lord of the flies</e:P20312>
-      <e:P20312>Lord of the Flies</e:P20312>
-      <e:P20312>Lord of flies</e:P20312>
       <e:P20037 rdf:resource="stiehlhermann"/>
       <e:P20037 rdf:resource="torbergpeter"/>
       <e:P20059 rdf:resource="urn:isbn:3596214629"/>
@@ -797,7 +547,6 @@
    </c:C10006>
    <c:C10006 rdf:about="http://viaf.org/viaf/119144648592107423604/spa/">
       <e:P20006>spa</e:P20006>
-      <e:P20006>eng</e:P20006>
       <e:P20006>Español</e:P20006>
       <e:P20312>Lord of the flies</e:P20312>
       <e:P20059 rdf:resource="urn:isbn:8420613819"/>
@@ -839,8 +588,13 @@
    <c:C10006 rdf:about="http://viaf.org/viaf/174553895/eng/text">
       <e:P20006>eng</e:P20006>
       <e:P20001>text</e:P20001>
+      <e:P20312>Fire down below.</e:P20312>
+      <e:P20059 rdf:resource="urn:isbn:0571223214"/>
       <e:P20059 rdf:resource="urn:isbn:0571152031"/>
+      <e:P20059 rdf:resource="urn:isbn:0571164064"/>
+      <e:P20059 rdf:resource="urn:isbn:0571225411"/>
       <e:P20059 rdf:resource="urn:isbn:0571154875"/>
+      <e:P20059 rdf:resource="urn:isbn:0571166989"/>
       <e:P20059 rdf:resource="urn:isbn:9780571267446"/>
       <e:P20059 rdf:resource="urn:isbn:9780571298556"/>
       <e:P20231 rdf:resource="http://viaf.org/viaf/174553895"/>
@@ -861,9 +615,15 @@
    <c:C10006 rdf:about="http://viaf.org/viaf/176165653/eng/text">
       <e:P20006>eng</e:P20006>
       <e:P20001>text</e:P20001>
+      <e:P20312>Rites of passage.</e:P20312>
+      <e:P20059 rdf:resource="urn:isbn:0571223214"/>
       <e:P20059 rdf:resource="urn:isbn:0374250863"/>
+      <e:P20059 rdf:resource="urn:isbn:0571133681"/>
+      <e:P20059 rdf:resource="urn:isbn:0571164064"/>
+      <e:P20059 rdf:resource="urn:isbn:0571225411"/>
       <e:P20059 rdf:resource="urn:isbn:0571117880"/>
       <e:P20059 rdf:resource="urn:isbn:0571116396"/>
+      <e:P20059 rdf:resource="urn:isbn:0571166989"/>
       <e:P20059 rdf:resource="urn:isbn:9780571297245"/>
       <e:P20059 rdf:resource="urn:isbn:9780571298549"/>
       <e:P20231 rdf:resource="http://viaf.org/viaf/176165653"/>
@@ -871,8 +631,6 @@
    <c:C10006 rdf:about="http://viaf.org/viaf/176165653/ger/text">
       <e:P20006>ger</e:P20006>
       <e:P20001>Text</e:P20001>
-      <e:P20312>dt.</e:P20312>
-      <e:P20312>Rites of passage</e:P20312>
       <e:P20059 rdf:resource="http://example.org/850274044"/>
       <e:P20059 rdf:resource="urn:isbn:9783570004531"/>
       <e:P20059 rdf:resource="urn:isbn:9783442068326"/>
@@ -896,6 +654,7 @@
       <e:P20006>eng</e:P20006>
       <e:P20001>text</e:P20001>
       <e:P20312>Envoy extraordinary.</e:P20312>
+      <e:P20059 rdf:resource="urn:isbn:0745171044"/>
       <e:P20059 rdf:resource="urn:isbn:9780571298495"/>
       <e:P20231 rdf:resource="http://viaf.org/viaf/177762289"/>
    </c:C10006>
@@ -910,7 +669,6 @@
    <c:C10006 rdf:about="http://viaf.org/viaf/177762289/spa/text">
       <e:P20006>spa</e:P20006>
       <e:P20001>text</e:P20001>
-      <e:P20006>Spanish.</e:P20006>
       <e:P20312>Envoy extraordinary.</e:P20312>
       <e:P20059 rdf:resource="urn:isbn:8420655686"/>
       <e:P20231 rdf:resource="http://viaf.org/viaf/177762289"/>
@@ -918,9 +676,11 @@
    <c:C10006 rdf:about="http://viaf.org/viaf/178994871/eng/text">
       <e:P20006>eng</e:P20006>
       <e:P20001>text</e:P20001>
+      <e:P20312>Spire.</e:P20312>
       <e:P20059 rdf:resource="urn:isbn:9780571267477"/>
       <e:P20059 rdf:resource="urn:isbn:0850468507"/>
       <e:P20059 rdf:resource="urn:isbn:0571225462"/>
+      <e:P20059 rdf:resource="urn:isbn:0417217609"/>
       <e:P20059 rdf:resource="http://example.org/004055561"/>
       <e:P20059 rdf:resource="http://example.org/001452478"/>
       <e:P20059 rdf:resource="urn:isbn:0571093299"/>
@@ -931,11 +691,8 @@
    </c:C10006>
    <c:C10006 rdf:about="http://viaf.org/viaf/178994871/ger/text">
       <e:P20006>ger</e:P20006>
-      <e:P20006>German</e:P20006>
       <e:P20001>text</e:P20001>
       <e:P20001>Text</e:P20001>
-      <e:P20312>dt.</e:P20312>
-      <e:P20312>&#x98;The&#x9c; spire</e:P20312>
       <e:P20059 rdf:resource="http://example.org/014884342"/>
       <e:P20059 rdf:resource="urn:isbn:9783100268044"/>
       <e:P20059 rdf:resource="http://example.org/456781056"/>
@@ -963,13 +720,13 @@
       <e:P20006>eng</e:P20006>
       <e:P20001>text</e:P20001>
       <e:P20312>Clonk clonk.</e:P20312>
+      <e:P20059 rdf:resource="urn:isbn:0745171044"/>
       <e:P20059 rdf:resource="urn:isbn:9780571298495"/>
       <e:P20231 rdf:resource="http://viaf.org/viaf/180585027"/>
    </c:C10006>
    <c:C10006 rdf:about="http://viaf.org/viaf/180585027/spa/text">
       <e:P20006>spa</e:P20006>
       <e:P20001>text</e:P20001>
-      <e:P20006>Spanish.</e:P20006>
       <e:P20312>Clonk clonk.</e:P20312>
       <e:P20059 rdf:resource="urn:isbn:8420655686"/>
       <e:P20231 rdf:resource="http://viaf.org/viaf/180585027"/>
@@ -977,17 +734,17 @@
    <c:C10006 rdf:about="http://viaf.org/viaf/184334172/eng/text">
       <e:P20006>eng</e:P20006>
       <e:P20001>text</e:P20001>
+      <e:P20312>Pincher Martin.</e:P20312>
       <e:P20059 rdf:resource="http://example.org/014141172"/>
       <e:P20059 rdf:resource="urn:isbn:9780571309191"/>
       <e:P20059 rdf:resource="urn:isbn:0571225454"/>
       <e:P20059 rdf:resource="urn:isbn:9780571298501"/>
+      <e:P20059 rdf:resource="urn:isbn:0571133681"/>
       <e:P20231 rdf:resource="http://viaf.org/viaf/184334172"/>
    </c:C10006>
    <c:C10006 rdf:about="http://viaf.org/viaf/184334172/ger/text">
       <e:P20006>ger</e:P20006>
       <e:P20001>Text</e:P20001>
-      <e:P20312>dt.</e:P20312>
-      <e:P20312>Pincher Martin</e:P20312>
       <e:P20059 rdf:resource="http://example.org/451602714"/>
       <e:P20059 rdf:resource="urn:isbn:9783596250431"/>
       <e:P20059 rdf:resource="http://example.org/810281783"/>
@@ -1010,7 +767,12 @@
    <c:C10006 rdf:about="http://viaf.org/viaf/187146251/eng/text">
       <e:P20006>eng</e:P20006>
       <e:P20001>text</e:P20001>
+      <e:P20312>Close quarters.</e:P20312>
+      <e:P20059 rdf:resource="urn:isbn:0571223214"/>
       <e:P20059 rdf:resource="urn:isbn:0571151671"/>
+      <e:P20059 rdf:resource="urn:isbn:0571164064"/>
+      <e:P20059 rdf:resource="urn:isbn:0571225411"/>
+      <e:P20059 rdf:resource="urn:isbn:0571166989"/>
       <e:P20059 rdf:resource="urn:isbn:9780571267439"/>
       <e:P20059 rdf:resource="urn:isbn:9780571298563"/>
       <e:P20059 rdf:resource="urn:isbn:0571147798"/>
@@ -1019,8 +781,6 @@
    <c:C10006 rdf:about="http://viaf.org/viaf/187146251/ger/text">
       <e:P20006>ger</e:P20006>
       <e:P20001>Text</e:P20001>
-      <e:P20312>dt.</e:P20312>
-      <e:P20312>Close quarters</e:P20312>
       <e:P20059 rdf:resource="urn:isbn:9783813572087"/>
       <e:P20231 rdf:resource="http://viaf.org/viaf/187146251"/>
    </c:C10006>
@@ -1049,8 +809,6 @@
    <c:C10006 rdf:about="http://viaf.org/viaf/188302088/ger/text">
       <e:P20006>ger</e:P20006>
       <e:P20001>Text</e:P20001>
-      <e:P20312>dt.</e:P20312>
-      <e:P20312>&#x98;The&#x9c; paper men</e:P20312>
       <e:P20059 rdf:resource="urn:isbn:9783570017470"/>
       <e:P20059 rdf:resource="urn:isbn:9783442068975"/>
       <e:P20059 rdf:resource="http://example.org/861066677"/>
@@ -1087,8 +845,6 @@
    <c:C10006 rdf:about="http://viaf.org/viaf/211743501/ger/text">
       <e:P20006>ger</e:P20006>
       <e:P20001>Text</e:P20001>
-      <e:P20312>dt.</e:P20312>
-      <e:P20312>Darkness visible</e:P20312>
       <e:P20059 rdf:resource="http://example.org/871115859"/>
       <e:P20059 rdf:resource="urn:isbn:9783442092550"/>
       <e:P20059 rdf:resource="urn:isbn:9783820502107"/>
@@ -1126,9 +882,6 @@
    <c:C10006 rdf:about="http://viaf.org/viaf/217036112/ger/text">
       <e:P20006>ger</e:P20006>
       <e:P20001>Text</e:P20001>
-      <e:P20312>dt.</e:P20312>
-      <e:P20312>&#x98;The&#x9c; Inheritors</e:P20312>
-      <e:P20312>&#x98;The&#x9c; inheritors</e:P20312>
       <e:P20059 rdf:resource="http://example.org/451602676"/>
       <e:P20059 rdf:resource="urn:isbn:9783890645278"/>
       <e:P20059 rdf:resource="urn:isbn:9783596258253"/>
@@ -1165,9 +918,6 @@
    <c:C10006 rdf:about="http://viaf.org/viaf/218116512/ger/text">
       <e:P20006>ger</e:P20006>
       <e:P20001>Text</e:P20001>
-      <e:P20312>dt.</e:P20312>
-      <e:P20312>Free fall</e:P20312>
-      <e:P20312>Free Fall</e:P20312>
       <e:P20059 rdf:resource="urn:isbn:9783596250462"/>
       <e:P20059 rdf:resource="http://example.org/451602668"/>
       <e:P20231 rdf:resource="http://viaf.org/viaf/218116512"/>
@@ -1180,6 +930,7 @@
    <c:C10006 rdf:about="http://viaf.org/viaf/308018847/eng/text">
       <e:P20006>eng</e:P20006>
       <e:P20001>text</e:P20001>
+      <e:P20312>The Scorpion God</e:P20312>
       <e:P20312>Scorpion god.</e:P20312>
       <e:P20059 rdf:resource="urn:isbn:9780571305018"/>
       <e:P20059 rdf:resource="urn:isbn:0745171044"/>
@@ -1191,6 +942,7 @@
    <c:C10006 rdf:about="http://viaf.org/viaf/308018847/ger/text">
       <e:P20006>ger</e:P20006>
       <e:P20001>Text</e:P20001>
+      <e:P20312>The Scorpion God</e:P20312>
       <e:P20059 rdf:resource="urn:isbn:9783442066940"/>
       <e:P20059 rdf:resource="urn:isbn:9783546432955"/>
       <e:P20231 rdf:resource="http://viaf.org/viaf/308018847"/>
@@ -1206,7 +958,6 @@
    <c:C10006 rdf:about="http://viaf.org/viaf/308018847/spa/text">
       <e:P20006>spa</e:P20006>
       <e:P20001>text</e:P20001>
-      <e:P20006>Spanish.</e:P20006>
       <e:P20312>Scorpion god.</e:P20312>
       <e:P20059 rdf:resource="urn:isbn:8420655686"/>
       <e:P20231 rdf:resource="http://viaf.org/viaf/308018847"/>
@@ -1231,10 +982,6 @@
    <c:C10006 rdf:about="http://viaf.org/viaf/309268108/ger/text">
       <e:P20006>ger</e:P20006>
       <e:P20001>Text</e:P20001>
-      <e:P20312>dt.</e:P20312>
-      <e:P20312>&#x98;The&#x9c; pyramid</e:P20312>
-      <e:P20312>Dt.</e:P20312>
-      <e:P20312>The pyramid.</e:P20312>
       <e:P20059 rdf:resource="urn:isbn:9783442066957"/>
       <e:P20059 rdf:resource="urn:isbn:9783442033157"/>
       <e:P20059 rdf:resource="urn:isbn:9783546432948"/>
@@ -1266,85 +1013,6 @@
       <e:P20059 rdf:resource="urn:isbn:0571118224"/>
       <e:P20231 rdf:resource="http://www.wikidata.org/entity/q4658399http://viaf.org/viaf/307973201"/>
    </c:C10006>
-   <c:C10007 rdf:about="http://example.org/000160251">
-      <marc:M001>000160251</marc:M001>
-      <m:P30156>The novels of William Golding</m:P30156>
-      <m:P30088>[Columbus]</m:P30088>
-      <m:P30083>Ohio State University Press</m:P30083>
-      <m:P30011>[1970]</m:P30011>
-      <m:P30182>210 p. ;</m:P30182>
-      <m:P30169>21 cm.</m:P30169>
-      <m:P30001>unmediated</m:P30001>
-      <m:P30002>volume</m:P30002>
-   </c:C10007>
-   <c:C10007 rdf:about="http://example.org/001452193">
-      <marc:M001>001452193</marc:M001>
-      <m:P30156>The Electrification of Agriculture and Rural Districts</m:P30156>
-      <m:P30088>London</m:P30088>
-      <m:P30083>English Universities Press</m:P30083>
-      <m:P30011>1937</m:P30011>
-      <m:P30182>xii, 244 p. ;</m:P30182>
-      <m:P30169>8º.</m:P30169>
-      <m:P30001>unmediated</m:P30001>
-      <m:P30002>volume</m:P30002>
-   </c:C10007>
-   <c:C10007 rdf:about="http://example.org/001452194">
-      <marc:M001>001452194</marc:M001>
-      <m:P30156>The Generation of Electricity by Wind Power. [With plates.]</m:P30156>
-      <m:P30088>London</m:P30088>
-      <m:P30083>E. &amp; F. N. Spon</m:P30083>
-      <m:P30011>1955</m:P30011>
-      <m:P30182>xvi, 318 p. ;</m:P30182>
-      <m:P30169>8º.</m:P30169>
-      <m:P30001>unmediated</m:P30001>
-      <m:P30002>volume</m:P30002>
-      <m:P30106>[Spon's Electrical Engineering Series.]</m:P30106>
-   </c:C10007>
-   <c:C10007 rdf:about="http://example.org/001452197">
-      <marc:M001>001452197</marc:M001>
-      <m:P30156>The Use of Electricity to increase Soil Temperature</m:P30156>
-      <m:P30088>Leatherhead</m:P30088>
-      <m:P30011>1953</m:P30011>
-      <m:P30182>11 p. ;</m:P30182>
-      <m:P30169>4º.</m:P30169>
-      <m:P30001>unmediated</m:P30001>
-      <m:P30002>volume</m:P30002>
-      <m:P30106>[British Electrical and Allied Industries Research Association. Technical Report. no. W/T 26.]</m:P30106>
-   </c:C10007>
-   <c:C10007 rdf:about="http://example.org/001452201">
-      <marc:M001>001452201</marc:M001>
-      <m:P30156>The Selection and Characteristics of Wind-Power Sites. [With illustrations and maps.]</m:P30156>
-      <m:P30088>Leatherhead</m:P30088>
-      <m:P30011>1952</m:P30011>
-      <m:P30182>32 p. ;</m:P30182>
-      <m:P30169>4º.</m:P30169>
-      <m:P30001>unmediated</m:P30001>
-      <m:P30002>volume</m:P30002>
-      <m:P30106>[British Electrical and Allied Industries Research Association. Technical Report. no. C/T 108.]</m:P30106>
-   </c:C10007>
-   <c:C10007 rdf:about="http://example.org/001452202">
-      <marc:M001>001452202</marc:M001>
-      <m:P30156>The Use of Wind Power in Denmark</m:P30156>
-      <m:P30088>Leatherhead</m:P30088>
-      <m:P30011>1954</m:P30011>
-      <m:P30182>16 p. ;</m:P30182>
-      <m:P30169>4º.</m:P30169>
-      <m:P30001>unmediated</m:P30001>
-      <m:P30002>volume</m:P30002>
-      <m:P30106>[British Electrical and Allied Industries Research Association. Technical Report. no. C/T 112.]</m:P30106>
-   </c:C10007>
-   <c:C10007 rdf:about="http://example.org/001452205">
-      <marc:M001>001452205</marc:M001>
-      <m:P30156>The Country Book ... Edited by F. W. Frohawk ... and A. K. Jackson</m:P30156>
-      <m:P30088>London ;</m:P30088>
-      <m:P30088>Melbourne</m:P30088>
-      <m:P30083>Ward, Lock &amp; Co</m:P30083>
-      <m:P30011>1937</m:P30011>
-      <m:P30182>192 p. ;</m:P30182>
-      <m:P30169>8º.</m:P30169>
-      <m:P30001>unmediated</m:P30001>
-      <m:P30002>volume</m:P30002>
-   </c:C10007>
    <c:C10007 rdf:about="http://example.org/001452439">
       <marc:M001>001452439</marc:M001>
       <m:P30156>The Brass Butterfly. A play in three acts</m:P30156>
@@ -1404,17 +1072,6 @@
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
       <m:P30139 rdf:resource="http://viaf.org/viaf/217036112/eng/text"/>
-   </c:C10007>
-   <c:C10007 rdf:about="http://example.org/001452451">
-      <marc:M001>001452451</marc:M001>
-      <m:P30156>The Inheritors. A novel ... With an introduction and notes by Ian Gregor and Mark Kinkead-Weekes, etc</m:P30156>
-      <m:P30088>London</m:P30088>
-      <m:P30083>Faber &amp; Faber</m:P30083>
-      <m:P30011>1964</m:P30011>
-      <m:P30182>282 p. ;</m:P30182>
-      <m:P30169>8º.</m:P30169>
-      <m:P30001>unmediated</m:P30001>
-      <m:P30002>volume</m:P30002>
    </c:C10007>
    <c:C10007 rdf:about="http://example.org/001452471">
       <marc:M001>001452471</marc:M001>
@@ -1482,47 +1139,6 @@
       <m:P30002>volume</m:P30002>
       <m:P30139 rdf:resource="http://viaf.org/viaf/178994871/eng/text"/>
    </c:C10007>
-   <c:C10007 rdf:about="http://example.org/002702926">
-      <marc:M001>002702926</marc:M001>
-      <m:P30156>The art of William Golding</m:P30156>
-      <m:P30088>New York</m:P30088>
-      <m:P30083>Harcourt, Brace &amp; World</m:P30083>
-      <m:P30011>[1965]</m:P30011>
-      <m:P30182>178 p. ;</m:P30182>
-      <m:P30169>21 cm.</m:P30169>
-      <m:P30001>unmediated</m:P30001>
-      <m:P30002>volume</m:P30002>
-   </c:C10007>
-   <c:C10007 rdf:about="http://example.org/002735194">
-      <marc:M001>002735194</marc:M001>
-      <m:P30156>Shakespeare's Ovid. Being Arthur Golding's translation of the Metamorphoses, edited by W. H. D. Rouse</m:P30156>
-      <m:P30088>London</m:P30088>
-      <m:P30083>De La More Press</m:P30083>
-      <m:P30011>1904</m:P30011>
-      <m:P30182>vi, 321 p. ;</m:P30182>
-      <m:P30169>31 cm.</m:P30169>
-      <m:P30001>unmediated</m:P30001>
-      <m:P30002>volume</m:P30002>
-      <m:P30106>(The King's Library. De La More Press folios. no. 3.)</m:P30106>
-   </c:C10007>
-   <c:C10007 rdf:about="http://example.org/002735200">
-      <marc:M001>002735200</marc:M001>
-      <m:P30156>Shakespeare's Ovid. Being Arthur Golding's translation of the Metamorphoses. Edited by W. H. D. Rouse. [A reduced photographic reprint of the edition of 1904.]</m:P30156>
-      <m:P30088>London; printed in Belgium</m:P30088>
-      <m:P30083>Centaur Press</m:P30083>
-      <m:P30011>1961</m:P30011>
-      <m:P30182>vi, 321 p. ;</m:P30182>
-      <m:P30169>4º.</m:P30169>
-      <m:P30001>unmediated</m:P30001>
-      <m:P30002>volume</m:P30002>
-   </c:C10007>
-   <c:C10007 rdf:about="http://example.org/004040027">
-      <marc:M001>004040027</marc:M001>
-      <m:P30156>The two worlds of William Golding</m:P30156>
-      <m:P30001>unmediated</m:P30001>
-      <m:P30002>volume</m:P30002>
-      <m:P30106>(Carnegie series in English. no. 7.)</m:P30106>
-   </c:C10007>
    <c:C10007 rdf:about="http://example.org/004055561">
       <marc:M001>004055561</marc:M001>
       <m:P30156>The spire</m:P30156>
@@ -1534,14 +1150,6 @@
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
       <m:P30139 rdf:resource="http://viaf.org/viaf/178994871/eng/text"/>
-   </c:C10007>
-   <c:C10007 rdf:about="http://example.org/004096465">
-      <marc:M001>004096465</marc:M001>
-      <m:P30156>William Golding. A critical study</m:P30156>
-      <m:P30088>New York: St. Martin's Press, c1965</m:P30088>
-      <m:P30182>xix,106p; 22cm.</m:P30182>
-      <m:P30001>unmediated</m:P30001>
-      <m:P30002>volume</m:P30002>
    </c:C10007>
    <c:C10007 rdf:about="http://example.org/004097294">
       <marc:M001>004097294</marc:M001>
@@ -1561,13 +1169,6 @@
       <m:P30002>volume</m:P30002>
       <m:P30139 rdf:resource="http://viaf.org/viaf/217036112/eng/text"/>
    </c:C10007>
-   <c:C10007 rdf:about="http://example.org/004141472">
-      <marc:M001>004141472</marc:M001>
-      <m:P30156>Geometry through transformations</m:P30156>
-      <m:P30088>[London:] ESA in association with Hutchinson Educational, [1967]</m:P30088>
-      <m:P30001>unmediated</m:P30001>
-      <m:P30002>volume</m:P30002>
-   </c:C10007>
    <c:C10007 rdf:about="http://example.org/004146915">
       <marc:M001>004146915</marc:M001>
       <m:P30156>Lord of the flies</m:P30156>
@@ -1576,66 +1177,6 @@
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
       <m:P30139 rdf:resource="http://viaf.org/viaf/119144648592107423604/eng/text"/>
-   </c:C10007>
-   <c:C10007 rdf:about="http://example.org/005346806">
-      <marc:M001>005346806</marc:M001>
-      <m:P30156>Electrical measurements and measuring instruments : a textbook covering the syllabuses of the B.Sc. Engineering, City and Guilds (Final), and A.M.I.E.E. examinations in this subject</m:P30156>
-      <m:P30088>London</m:P30088>
-      <m:P30083>Sir Isaac Pitmans &amp; Sons, Ltd</m:P30083>
-      <m:P30011>1933</m:P30011>
-      <m:P30182>x,794p. ;</m:P30182>
-      <m:P30169>8vo.</m:P30169>
-      <m:P30001>unmediated</m:P30001>
-      <m:P30002>volume</m:P30002>
-   </c:C10007>
-   <c:C10007 rdf:about="http://example.org/005348579">
-      <marc:M001>005348579</marc:M001>
-      <m:P30156>The electrification of agriculture and rural districts</m:P30156>
-      <m:P30088>London</m:P30088>
-      <m:P30083>[s.n.]</m:P30083>
-      <m:P30011>[1937]</m:P30011>
-      <m:P30182>256p. ;</m:P30182>
-      <m:P30169>8vo.</m:P30169>
-      <m:P30001>unmediated</m:P30001>
-      <m:P30002>volume</m:P30002>
-   </c:C10007>
-   <c:C10007 rdf:about="http://example.org/005349647">
-      <marc:M001>005349647</marc:M001>
-      <m:P30156>Electrical measurements and measuring instruments : a textbook covering the syllabuses of the B. Sc. engineering, City and Guilds (final) and I.E.E. examinations in ths subject</m:P30156>
-      <m:P30107>3rd ed.</m:P30107>
-      <m:P30088>London</m:P30088>
-      <m:P30083>Sir Isaac Pitman and Sons, Ltd</m:P30083>
-      <m:P30011>1940</m:P30011>
-      <m:P30182>xii,828p. ;</m:P30182>
-      <m:P30169>23cm.</m:P30169>
-      <m:P30001>unmediated</m:P30001>
-      <m:P30002>volume</m:P30002>
-      <m:P30106>Engineering degree series</m:P30106>
-   </c:C10007>
-   <c:C10007 rdf:about="http://example.org/005356323">
-      <marc:M001>005356323</marc:M001>
-      <m:P30156>Electrical measurements and measuring instruments</m:P30156>
-      <m:P30107>4th ed.</m:P30107>
-      <m:P30088>London</m:P30088>
-      <m:P30083>Pitman</m:P30083>
-      <m:P30011>1955</m:P30011>
-      <m:P30182>926p. ;</m:P30182>
-      <m:P30169>23cm.</m:P30169>
-      <m:P30001>unmediated</m:P30001>
-      <m:P30002>volume</m:P30002>
-      <m:P30106>Engineering degree series</m:P30106>
-   </c:C10007>
-   <c:C10007 rdf:about="http://example.org/005356349">
-      <marc:M001>005356349</marc:M001>
-      <m:P30156>The generation of electricity by wind power</m:P30156>
-      <m:P30088>London</m:P30088>
-      <m:P30083>Spon</m:P30083>
-      <m:P30011>1955</m:P30011>
-      <m:P30182>334p. ;</m:P30182>
-      <m:P30169>23cm.</m:P30169>
-      <m:P30001>unmediated</m:P30001>
-      <m:P30002>volume</m:P30002>
-      <m:P30106>Spon's electrical engineering series</m:P30106>
    </c:C10007>
    <c:C10007 rdf:about="http://example.org/009255092">
       <marc:M001>009255092</marc:M001>
@@ -1650,38 +1191,6 @@
       <m:P30002>volume</m:P30002>
       <m:P30139 rdf:resource="http://www.wikidata.org/entity/q4658399http://viaf.org/viaf/307973201/eng/text"/>
    </c:C10007>
-   <c:C10007 rdf:about="http://example.org/010010561">
-      <marc:M001>010010561</marc:M001>
-      <m:P30156>Nobel lecture : 7 December 1983</m:P30156>
-      <m:P30117>William Golding</m:P30117>
-      <m:P30088>Leamington Spa</m:P30088>
-      <m:P30083>Sixth Chamber</m:P30083>
-      <m:P30011>1984</m:P30011>
-      <m:P30182>[14]p.</m:P30182>
-      <m:P30001>unmediated</m:P30001>
-      <m:P30002>volume</m:P30002>
-   </c:C10007>
-   <c:C10007 rdf:about="http://example.org/010014108">
-      <marc:M001>010014108</marc:M001>
-      <m:P30156>William Golding</m:P30156>
-      <m:P30117>edited by Satyanarain Singh, Adapa Ramkrishna Rao, Taqi Ali Mirza</m:P30117>
-      <m:P30088>New Delhi</m:P30088>
-      <m:P30083>Arnold-Heinemann</m:P30083>
-      <m:P30011>1987</m:P30011>
-      <m:P30182>147p.</m:P30182>
-      <m:P30001>unmediated</m:P30001>
-      <m:P30002>volume</m:P30002>
-   </c:C10007>
-   <c:C10007 rdf:about="http://example.org/010645938">
-      <marc:M001>010645938</marc:M001>
-      <m:P30156>The ladder and the tree</m:P30156>
-      <m:P30088>[Marlborough]</m:P30088>
-      <m:P30083>The Marlborough College Press</m:P30083>
-      <m:P30011>1961</m:P30011>
-      <m:P30182>16p. :</m:P30182>
-      <m:P30001>unmediated</m:P30001>
-      <m:P30002>volume</m:P30002>
-   </c:C10007>
    <c:C10007 rdf:about="http://example.org/011241784">
       <marc:M001>011241784</marc:M001>
       <m:P30156>The philosophy of William Golding : with special reference to 'Free Fall'</m:P30156>
@@ -1693,77 +1202,6 @@
       <m:P30169>21 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
-   </c:C10007>
-   <c:C10007 rdf:about="http://example.org/011242118">
-      <marc:M001>011242118</marc:M001>
-      <m:P30156>Venus &amp; Adonis</m:P30156>
-      <m:P30117>by William Shakespeare ; together with sources for the poem in Ovid's 'Metamorphoses', translated by Arthur Golding</m:P30117>
-      <m:P30088>San Francisco</m:P30088>
-      <m:P30083>Arion Press</m:P30083>
-      <m:P30011>1975</m:P30011>
-      <m:P30182>93, [1] p. :</m:P30182>
-      <m:P30169>31cm.</m:P30169>
-      <m:P30001>unmediated</m:P30001>
-      <m:P30002>volume</m:P30002>
-   </c:C10007>
-   <c:C10007 rdf:about="http://example.org/011508019">
-      <marc:M001>011508019</marc:M001>
-      <m:P30156>Electrical measurements and measuring instruments : a textbook covering the syllabuses of the B.Sc. Engineering, City and Guilds (final), and I.E.E. examinations in this subject</m:P30156>
-      <m:P30117>Edward William Golding</m:P30117>
-      <m:P30107>3rd ed.</m:P30107>
-      <m:P30088>Lond</m:P30088>
-      <m:P30083>[s.n.]</m:P30083>
-      <m:P30011>1949</m:P30011>
-      <m:P30001>unmediated</m:P30001>
-      <m:P30002>volume</m:P30002>
-   </c:C10007>
-   <c:C10007 rdf:about="http://example.org/011508020">
-      <marc:M001>011508020</marc:M001>
-      <m:P30156>The electrification of agriculture and rural districts</m:P30156>
-      <m:P30117>Edward William Golding</m:P30117>
-      <m:P30088>[S.l.]</m:P30088>
-      <m:P30083>English Universities Press</m:P30083>
-      <m:P30011>1937</m:P30011>
-      <m:P30001>unmediated</m:P30001>
-      <m:P30002>volume</m:P30002>
-   </c:C10007>
-   <c:C10007 rdf:about="http://example.org/011508056">
-      <marc:M001>011508056</marc:M001>
-      <m:P30156>Windmills for water lifting and the generation of electricity on the farm</m:P30156>
-      <m:P30117>E. W. Golding</m:P30117>
-      <m:P30088>[Rome?]</m:P30088>
-      <m:P30083>Food &amp; Agriculture Organisation of the United Nations, Agricultural Engineering Branch, Land &amp; Water Development Division</m:P30083>
-      <m:P30011>[1961?]</m:P30011>
-      <m:P30182>72 p. in various pagings, [30] leaves of plates :</m:P30182>
-      <m:P30169>28 cm.</m:P30169>
-      <m:P30001>unmediated</m:P30001>
-      <m:P30002>volume</m:P30002>
-      <m:P30106>Informal working bulletin (Food and Agriculture Organization of the United Nations, Land and Water Development Division) ;</m:P30106>
-      <m:P30165>17</m:P30165>
-   </c:C10007>
-   <c:C10007 rdf:about="http://example.org/012756202">
-      <marc:M001>012756202</marc:M001>
-      <m:P30156>Electrical measurements and measuring instruments</m:P30156>
-      <m:P30107>5th ed. /</m:P30107>
-      <m:P30088>London</m:P30088>
-      <m:P30083>Pitman</m:P30083>
-      <m:P30011>1963</m:P30011>
-      <m:P30182>967p. ;</m:P30182>
-      <m:P30169>23cm.</m:P30169>
-      <m:P30001>unmediated</m:P30001>
-      <m:P30002>volume</m:P30002>
-      <m:P30106>Engineering degree series</m:P30106>
-   </c:C10007>
-   <c:C10007 rdf:about="http://example.org/012782994">
-      <marc:M001>012782994</marc:M001>
-      <m:P30156>"The Spire" : [Sermon preached at 11 a.m. on 27th Nov. 1966]</m:P30156>
-      <m:P30117>By William Golding</m:P30117>
-      <m:P30088>Cambridge</m:P30088>
-      <m:P30083>Great St. Mary's</m:P30083>
-      <m:P30011>[1966]</m:P30011>
-      <m:P30001>unmediated</m:P30001>
-      <m:P30002>volume</m:P30002>
-      <m:P30106>Series title: Does God Speak Here?</m:P30106>
    </c:C10007>
    <c:C10007 rdf:about="http://example.org/014141167">
       <marc:M001>014141167</marc:M001>
@@ -1909,16 +1347,6 @@
       <m:P30165>333</m:P30165>
       <m:P30139 rdf:resource="http://viaf.org/viaf/184334172/ger/text"/>
    </c:C10007>
-   <c:C10007 rdf:about="http://example.org/456454470">
-      <marc:M001>456454470</marc:M001>
-      <m:P30156>Methodik der modernen Mathematik : Grundlagen f. Lernen in Zyklen</m:P30156>
-      <m:P30117>Z. P. Dienes ; E. W. Golding. [Aus d. Engl. Dt. von Peter Herfort u. Peter Sorger]</m:P30117>
-      <m:P30182>181 S.</m:P30182>
-      <m:P30169>8</m:P30169>
-      <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
-      <m:P30002>Band</m:P30002>
-      <m:P30106>Programm Moderne Mathematik</m:P30106>
-   </c:C10007>
    <c:C10007 rdf:about="http://example.org/456781048">
       <marc:M001>456781048</marc:M001>
       <m:P30156>Lord of the flies</m:P30156>
@@ -1940,16 +1368,6 @@
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
       <m:P30139 rdf:resource="http://viaf.org/viaf/178994871/ger/text"/>
-   </c:C10007>
-   <c:C10007 rdf:about="http://example.org/458450138">
-      <marc:M001>458450138</marc:M001>
-      <m:P30156>&#x98;An&#x9c; interpretation of William Golding's Lord of the flies</m:P30156>
-      <m:P30117>Susanne Turck</m:P30117>
-      <m:P30182>68 S.</m:P30182>
-      <m:P30169>kl. 8</m:P30169>
-      <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
-      <m:P30002>Band</m:P30002>
-      <m:P30106>Diesterwegs neusprachliche Bibliothek : Englische Abteilung</m:P30106>
    </c:C10007>
    <c:C10007 rdf:about="http://example.org/573507562">
       <marc:M001>573507562</marc:M001>
@@ -1986,41 +1404,6 @@
       <m:P30002>Band</m:P30002>
       <m:P30106>Diesterwegs neusprachliche Bibliothek : Englische Abteilung</m:P30106>
       <m:P30139 rdf:resource="http://viaf.org/viaf/119144648592107423604/ger/text"/>
-   </c:C10007>
-   <c:C10007 rdf:about="http://example.org/577527479">
-      <marc:M001>577527479</marc:M001>
-      <m:P30156>An Interpretation of William Golding's Lord of the Flies</m:P30156>
-      <m:P30117>Susanne Turck</m:P30117>
-      <m:P30107>2. Aufl.</m:P30107>
-      <m:P30182>68 S.</m:P30182>
-      <m:P30169>kl. 8</m:P30169>
-      <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
-      <m:P30002>Band</m:P30002>
-      <m:P30106>Diesterwegs neusprachliche Bibliothek</m:P30106>
-   </c:C10007>
-   <c:C10007 rdf:about="http://example.org/730091961">
-      <marc:M001>730091961</marc:M001>
-      <m:P30156>Methodik der modernen Mathematik : Grundlagen f. Lernen in Zyklen</m:P30156>
-      <m:P30117>Z. P. Dienes; E. W. Golding. [Dt. von Peter Herfort u. Peter Sorger]</m:P30117>
-      <m:P30107>2. Aufl.</m:P30107>
-      <m:P30182>181 S.</m:P30182>
-      <m:P30169>21 cm</m:P30169>
-      <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
-      <m:P30002>Band</m:P30002>
-      <m:P30106>Programm moderne Mathematik</m:P30106>
-   </c:C10007>
-   <c:C10007 rdf:about="http://example.org/740249630">
-      <marc:M001>740249630</marc:M001>
-      <m:P30156>Menge, Zahl, Potenz</m:P30156>
-      <m:P30117>Z. P. Dienes; E. W. Golding</m:P30117>
-      <m:P30107>4. Aufl.</m:P30107>
-      <m:P30182>93, 64 S.</m:P30182>
-      <m:P30169>21 cm</m:P30169>
-      <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
-      <m:P30002>Band</m:P30002>
-      <m:P30106>Mathematik-Unterricht / Zoltan Paul Dienes ; Edmond W. Golding</m:P30106>
-      <m:P30165>2</m:P30165>
-      <m:P30106>Programm Moderne Mathematik</m:P30106>
    </c:C10007>
    <c:C10007 rdf:about="http://example.org/810281783">
       <marc:M001>810281783</marc:M001>
@@ -2070,14 +1453,6 @@
       <m:P30002>Band</m:P30002>
       <m:P30139 rdf:resource="http://viaf.org/viaf/119144648592107423604/ger/text"/>
    </c:C10007>
-   <c:C10007 rdf:about="http://example.org/860374351">
-      <marc:M001>860374351</marc:M001>
-      <m:P30156>&#x98;Die&#x9c; Finsternis des Herzens: Phänomenologie und Funktion der Irrationalität im Romanwerk von William Golding</m:P30156>
-      <m:P30182>V, 266 S.</m:P30182>
-      <m:P30169>21 cm</m:P30169>
-      <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
-      <m:P30002>Band</m:P30002>
-   </c:C10007>
    <c:C10007 rdf:about="http://example.org/861066677">
       <marc:M001>861066677</marc:M001>
       <m:P30156>Papier-Männer : Roman</m:P30156>
@@ -2122,17 +1497,6 @@
       <m:P30002>Band</m:P30002>
       <m:P30139 rdf:resource="http://viaf.org/viaf/119144648592107423604/ger/text"/>
    </c:C10007>
-   <c:C10007 rdf:about="http://example.org/891657533">
-      <marc:M001>891657533</marc:M001>
-      <m:P30156>&#x98;Die&#x9c; Insel des Fliegengottes : für Zuschauer ab 11 Jahren</m:P30156>
-      <m:P30117>[Hrsg.: Bad. Landesbühne e.V.]. Herbert Friedman nach William Golding</m:P30117>
-      <m:P30182>[36] S.</m:P30182>
-      <m:P30169>30 cm</m:P30169>
-      <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
-      <m:P30002>Band</m:P30002>
-      <m:P30106>Boing &amp; Co. : [...], Begleitheft</m:P30106>
-      <m:P30165>7</m:P30165>
-   </c:C10007>
    <c:C10007 rdf:about="http://example.org/900643382">
       <marc:M001>900643382</marc:M001>
       <m:P30156>Herr der Fliegen : Roman</m:P30156>
@@ -2175,24 +1539,6 @@
       <m:P30020 rdf:resource="http://example.org/de101948326433"/>
       <m:P30139 rdf:resource="http://viaf.org/viaf/119144648592107423604/ger/text"/>
    </c:C10007>
-   <c:C10007 rdf:about="http://example.org/950637394">
-      <marc:M001>950637394</marc:M001>
-      <m:P30156>William Golding und die Postmoderne : Erzählkonventionen und der Bruch mit tradierten Repräsentationsformen</m:P30156>
-      <m:P30117>von Detlef Gieseler</m:P30117>
-      <m:P30182>249 S.</m:P30182>
-      <m:P30169>21 cm</m:P30169>
-      <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
-      <m:P30002>Band</m:P30002>
-   </c:C10007>
-   <c:C10007 rdf:about="http://example.org/961550872">
-      <marc:M001>961550872</marc:M001>
-      <m:P30156>Identität, Individualität und Alterität in William Goldings Romanen</m:P30156>
-      <m:P30117>von Marc Henrik Gern</m:P30117>
-      <m:P30182>181 S.</m:P30182>
-      <m:P30169>21 cm</m:P30169>
-      <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
-      <m:P30002>Band</m:P30002>
-   </c:C10007>
    <c:C10007 rdf:about="http://example.org/961860596">
       <marc:M001>961860596</marc:M001>
       <m:P30156>&#x98;Der&#x9c; Turm der Kathedrale : Nobelpreis 1983 England</m:P30156>
@@ -2204,25 +1550,6 @@
       <m:P30106>Nobelpreis für Literatur</m:P30106>
       <m:P30165>1983/1985</m:P30165>
       <m:P30139 rdf:resource="http://viaf.org/viaf/178994871/ger/text"/>
-   </c:C10007>
-   <c:C10007 rdf:about="http://example.org/991024144164702201">
-      <marc:M001>991024144164702201</marc:M001>
-      <m:P30156>Fluenes herre</m:P30156>
-      <m:P30117>av William Golding ; dramatisert av Nigel Williams ; oversatt av Hilde Hagerup</m:P30117>
-      <m:P30088>Oslo</m:P30088>
-      <m:P30083>Nationaltheatret</m:P30083>
-      <m:P30011>2010</m:P30011>
-      <m:P30182>134 s.</m:P30182>
-      <m:P30169>30 cm</m:P30169>
-   </c:C10007>
-   <c:C10007 rdf:about="http://example.org/992624312">
-      <marc:M001>992624312</marc:M001>
-      <m:P30156>Imagine : a book for Band Aid by David Bailey</m:P30156>
-      <m:P30117>pref. by William Golding</m:P30117>
-      <m:P30182>[40] Bl.</m:P30182>
-      <m:P30169>30 cm</m:P30169>
-      <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
-      <m:P30002>Band</m:P30002>
    </c:C10007>
    <c:C10007 rdf:about="http://example.org/999101165474702201">
       <marc:M001>999101165474702201</marc:M001>
@@ -2259,47 +1586,6 @@
       <m:P30106>Filmoteca FNAC</m:P30106>
       <m:P30165>102</m:P30165>
    </c:C10007>
-   <c:C10007 rdf:about="http://example.org/bimo0000264619">
-      <marc:M001>bimo0000264619</marc:M001>
-      <m:P30156>Protocolo de la sesión académica extraordinaria a celebrar por la Univesidad de Oviedo, con motivo de la solemne investidura como doctor "honoris causa" del Excmo. Sr. D. William Golding</m:P30156>
-      <m:P30088>Oviedo</m:P30088>
-      <m:P30083>Universidad</m:P30083>
-      <m:P30011>D.L. 1992</m:P30011>
-      <m:P30182>[24] p.</m:P30182>
-      <m:P30169>34 cm</m:P30169>
-   </c:C10007>
-   <c:C10007 rdf:about="http://example.org/bimo0000405559">
-      <marc:M001>bimo0000405559</marc:M001>
-      <m:P30156>Acto de investidura como doctor honoris causa al excelentisimo señor don William Golding : 3 de junio 1992</m:P30156>
-      <m:P30088>Oviedo</m:P30088>
-      <m:P30083>Universidad</m:P30083>
-      <m:P30011>D.L. 1993</m:P30011>
-      <m:P30182>45 p.</m:P30182>
-      <m:P30169>28 cm</m:P30169>
-   </c:C10007>
-   <c:C10007 rdf:about="http://example.org/bimo0000543551">
-      <marc:M001>bimo0000543551</marc:M001>
-      <m:P30156>Sentido y originalidad de la novelística de William Golding</m:P30156>
-      <m:P30117>Félix Martín Gutierrez ; Departamento de Lengua y Literatura Inglesa y Norteamericana, Facultad de Filología, Universidad Complutense de Madrid</m:P30117>
-      <m:P30088>Madrid</m:P30088>
-      <m:P30083>Editorial de la Universidad Complutense</m:P30083>
-      <m:P30011>1983</m:P30011>
-      <m:P30182>530 p.</m:P30182>
-      <m:P30169>21 cm</m:P30169>
-      <m:P30106>Colección Tesis doctorales</m:P30106>
-      <m:P30165>n. 205/83</m:P30165>
-   </c:C10007>
-   <c:C10007 rdf:about="http://example.org/bimo0000923015">
-      <marc:M001>bimo0000923015</marc:M001>
-      <m:P30156>Electrical Measurements and Measuring Instruments : A. textbook</m:P30156>
-      <m:P30117>by Edward William Golding</m:P30117>
-      <m:P30088>London</m:P30088>
-      <m:P30083>Isaac Pitman Sons Ltd</m:P30083>
-      <m:P30011>1933</m:P30011>
-      <m:P30175>[Bath-Pitman Press]</m:P30175>
-      <m:P30182>X, 794 p., 1 cuadr., 3 lám. pleg.</m:P30182>
-      <m:P30169>8º mllª (22 cm)</m:P30169>
-   </c:C10007>
    <c:C10007 rdf:about="http://example.org/bimo0000923021">
       <marc:M001>bimo0000923021</marc:M001>
       <m:P30156>El dios escorpión : tres novelas cortas</m:P30156>
@@ -2326,17 +1612,6 @@
       <m:P30165>v. 64</m:P30165>
       <m:P30139 rdf:resource="http://viaf.org/viaf/184334172/spa/"/>
    </c:C10007>
-   <c:C10007 rdf:about="http://example.org/bimo0000923023">
-      <marc:M001>bimo0000923023</marc:M001>
-      <m:P30156>Novelas</m:P30156>
-      <m:P30117>Traduccion del ingles por Maria Luisa Giner de los Rios, Enrique Lopez Martin y Juan Martin Ruiz-Werner. Prologo de Juan Martin Ruiz-Werner</m:P30117>
-      <m:P30088>[Madrid]</m:P30088>
-      <m:P30083>Aguilar</m:P30083>
-      <m:P30011>[1909]</m:P30011>
-      <m:P30182>1002 p.</m:P30182>
-      <m:P30169>19 cm</m:P30169>
-      <m:P30106>Biblioteca de Autores Modernos</m:P30106>
-   </c:C10007>
    <c:C10007 rdf:about="http://example.org/bimo0000923025">
       <marc:M001>bimo0000923025</marc:M001>
       <m:P30156>El señor de las moscas</m:P30156>
@@ -2362,17 +1637,6 @@
       <m:P30106>Palabra en el Tiempo</m:P30106>
       <m:P30165>v. 57</m:P30165>
       <m:P30139 rdf:resource="http://viaf.org/viaf/309268108/spa/"/>
-   </c:C10007>
-   <c:C10007 rdf:about="http://example.org/bimo0000930312">
-      <marc:M001>bimo0000930312</marc:M001>
-      <m:P30156>Electrical measurements and measuring instruments</m:P30156>
-      <m:P30117>by E.W. Golding... and F.C. Widdis</m:P30117>
-      <m:P30107>5ª ed.</m:P30107>
-      <m:P30088>London</m:P30088>
-      <m:P30083>Sir Isaac Pitman &amp; Sons</m:P30083>
-      <m:P30011>[1963]</m:P30011>
-      <m:P30182>XV, 952 p.</m:P30182>
-      <m:P30169>22 cm</m:P30169>
    </c:C10007>
    <c:C10007 rdf:about="http://example.org/bimo0001895148">
       <marc:M001>bimo0001895148</marc:M001>
@@ -2430,69 +1694,9 @@
       <m:P30033 rdf:resource="http://example.org/948326581"/>
       <m:P30033 rdf:resource="http://example.org/94832659x"/>
    </c:C10007>
-   <c:C10007 rdf:about="http://example.org/de101959010483">
-      <m:P30004>(DE-101)959010483</m:P30004>
-      <m:P30033 rdf:resource="urn:isbn:9783894494339"/>
-   </c:C10007>
    <c:C10007 rdf:about="http://example.org/demnbsb6197499">
       <m:P30004>(DE-MnBSB)6197499</m:P30004>
       <m:P30033 rdf:resource="http://example.org/014884342"/>
-   </c:C10007>
-   <c:C10007 rdf:about="urn:isbn:0030593565">
-      <marc:M001>009385600</marc:M001>
-      <m:P30004>urn:isbn:0030593565</m:P30004>
-      <m:P30156>En breve : a concise review of Spanish grammar</m:P30156>
-      <m:P30117>Seymour Resnick and William Giuliano with the collaboration of Phyllis M. Golding</m:P30117>
-      <m:P30088>New York ;</m:P30088>
-      <m:P30088>London</m:P30088>
-      <m:P30083>Holt, Rinehart and Winston</m:P30083>
-      <m:P30011>c1982</m:P30011>
-      <m:P30182>viii,290p. :</m:P30182>
-      <m:P30169>24cm.</m:P30169>
-      <m:P30001>unmediated</m:P30001>
-      <m:P30002>volume</m:P30002>
-   </c:C10007>
-   <c:C10007 rdf:about="urn:isbn:0140770461">
-      <marc:M001>011933966</marc:M001>
-      <m:P30004>urn:isbn:0140770461</m:P30004>
-      <m:P30156>William Golding, Lord of the flies</m:P30156>
-      <m:P30117>G. Hanscombe ; advisory editor Stephen Coote</m:P30117>
-      <m:P30088>Harmondsworth</m:P30088>
-      <m:P30083>Penguin</m:P30083>
-      <m:P30011>1986</m:P30011>
-      <m:P30182>76p. ;</m:P30182>
-      <m:P30169>20cm.</m:P30169>
-      <m:P30001>unmediated</m:P30001>
-      <m:P30002>volume</m:P30002>
-      <m:P30106>Penguin passnotes</m:P30106>
-   </c:C10007>
-   <c:C10007 rdf:about="urn:isbn:0151879869">
-      <marc:M001>009617211</marc:M001>
-      <m:P30004>urn:isbn:0151879869</m:P30004>
-      <m:P30156>Talk: conversations with William Golding</m:P30156>
-      <m:P30117>[by] Jack I. Biles. Foreword by William Golding</m:P30117>
-      <m:P30107>[1st ed.]</m:P30107>
-      <m:P30088>New York</m:P30088>
-      <m:P30083>Harcourt Brace Jovanovich</m:P30083>
-      <m:P30011>[1970]</m:P30011>
-      <m:P30182>xii, 112 p. ;</m:P30182>
-      <m:P30169>21 cm.</m:P30169>
-      <m:P30001>unmediated</m:P30001>
-      <m:P30002>volume</m:P30002>
-   </c:C10007>
-   <c:C10007 rdf:about="urn:isbn:0312019572">
-      <marc:M001>007397224</marc:M001>
-      <m:P30004>urn:isbn:0312019572</m:P30004>
-      <m:P30004>urn:isbn:0710809484</m:P30004>
-      <m:P30156>The novels of William Golding</m:P30156>
-      <m:P30117>S.J. Boyd</m:P30117>
-      <m:P30088>Brighton</m:P30088>
-      <m:P30083>Harvester</m:P30083>
-      <m:P30011>1988</m:P30011>
-      <m:P30182>xi,215p. ;</m:P30182>
-      <m:P30169>23cm.</m:P30169>
-      <m:P30001>unmediated</m:P30001>
-      <m:P30002>volume</m:P30002>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:0330502956">
       <marc:M001>010047798</marc:M001>
@@ -2507,20 +1711,6 @@
       <m:P30169>20cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
-   </c:C10007>
-   <c:C10007 rdf:about="urn:isbn:0333376617">
-      <marc:M001>010054054</marc:M001>
-      <m:P30004>urn:isbn:0333376617</m:P30004>
-      <m:P30004>urn:isbn:0333376609</m:P30004>
-      <m:P30156>William Golding novels, 1954-67 : a casebook</m:P30156>
-      <m:P30117>edited by Norman Page</m:P30117>
-      <m:P30088>Basingstoke</m:P30088>
-      <m:P30083>Macmillan</m:P30083>
-      <m:P30011>1985</m:P30011>
-      <m:P30182>[224]p.</m:P30182>
-      <m:P30001>unmediated</m:P30001>
-      <m:P30002>volume</m:P30002>
-      <m:P30106>Casebook series</m:P30106>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:0333397754">
       <marc:M001>010054853</marc:M001>
@@ -2552,21 +1742,6 @@
       <m:P30002>volume</m:P30002>
       <m:P30106>Macmillan master guides</m:P30106>
    </c:C10007>
-   <c:C10007 rdf:about="urn:isbn:0333406826">
-      <marc:M001>010055107</marc:M001>
-      <m:P30004>urn:isbn:0333406826</m:P30004>
-      <m:P30004>urn:isbn:0333406818</m:P30004>
-      <m:P30156>William Golding</m:P30156>
-      <m:P30117>James Gindin</m:P30117>
-      <m:P30088>Basingstoke</m:P30088>
-      <m:P30083>Macmillan</m:P30083>
-      <m:P30011>1988</m:P30011>
-      <m:P30182>ix,124p. ;</m:P30182>
-      <m:P30169>23cm.</m:P30169>
-      <m:P30001>unmediated</m:P30001>
-      <m:P30002>volume</m:P30002>
-      <m:P30106>Macmillan modern novelists</m:P30106>
-   </c:C10007>
    <c:C10007 rdf:about="urn:isbn:0374135029">
       <marc:M001>011950590</marc:M001>
       <m:P30004>urn:isbn:0374135029</m:P30004>
@@ -2594,21 +1769,6 @@
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
       <m:P30139 rdf:resource="http://viaf.org/viaf/176165653/eng/text"/>
-   </c:C10007>
-   <c:C10007 rdf:about="urn:isbn:0389206474">
-      <marc:M001>009455458</marc:M001>
-      <m:P30004>urn:isbn:0389206474</m:P30004>
-      <m:P30004>urn:isbn:0854781463</m:P30004>
-      <m:P30156>William Golding : a structural reading of his fiction</m:P30156>
-      <m:P30117>by Philip Redpath</m:P30117>
-      <m:P30088>London</m:P30088>
-      <m:P30083>Vision</m:P30083>
-      <m:P30011>1986</m:P30011>
-      <m:P30182>222p. :</m:P30182>
-      <m:P30169>23cm.</m:P30169>
-      <m:P30001>unmediated</m:P30001>
-      <m:P30002>volume</m:P30002>
-      <m:P30106>Critical studies series</m:P30106>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:0399300023">
       <marc:M001>014141168</marc:M001>
@@ -2656,19 +1816,7 @@
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
       <m:P30106>Methuen notes</m:P30106>
-   </c:C10007>
-   <c:C10007 rdf:about="urn:isbn:0470149868">
-      <marc:M001>006765093</marc:M001>
-      <m:P30004>urn:isbn:0470149868</m:P30004>
-      <m:P30156>The generation of electricity by wind power</m:P30156>
-      <m:P30117>the late E.W.Golding</m:P30117>
-      <m:P30088>London</m:P30088>
-      <m:P30083>Spon</m:P30083>
-      <m:P30011>1955, 1976 printing</m:P30011>
-      <m:P30182>xviii, 332p. ;</m:P30182>
-      <m:P30169>23cm.</m:P30169>
-      <m:P30001>unmediated</m:P30001>
-      <m:P30002>volume</m:P30002>
+      <m:P30139 rdf:resource="http://viaf.org/viaf/178994871/eng/text"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:0571056865">
       <marc:M001>012266498</marc:M001>
@@ -2850,20 +1998,6 @@
       <m:P30002>volume</m:P30002>
       <m:P30139 rdf:resource="http://viaf.org/viaf/188302088/eng/text"/>
    </c:C10007>
-   <c:C10007 rdf:about="urn:isbn:0571132596">
-      <marc:M001>010068857</marc:M001>
-      <m:P30004>urn:isbn:0571132596</m:P30004>
-      <m:P30156>William Golding : a critical study</m:P30156>
-      <m:P30117>Mark Kinkead-Weekes and Ian Gregor</m:P30117>
-      <m:P30107>Rev. ed.</m:P30107>
-      <m:P30088>London</m:P30088>
-      <m:P30083>Faber</m:P30083>
-      <m:P30011>1984</m:P30011>
-      <m:P30182>292p. ;</m:P30182>
-      <m:P30169>20cm.</m:P30169>
-      <m:P30001>unmediated</m:P30001>
-      <m:P30002>volume</m:P30002>
-   </c:C10007>
    <c:C10007 rdf:about="urn:isbn:0571133592">
       <marc:M001>006729344</marc:M001>
       <m:P30004>urn:isbn:0571133592</m:P30004>
@@ -2907,6 +2041,8 @@
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
       <m:P30139 rdf:resource="http://viaf.org/viaf/119144648592107423604/eng/text"/>
+      <m:P30139 rdf:resource="http://viaf.org/viaf/184334172/eng/text"/>
+      <m:P30139 rdf:resource="http://viaf.org/viaf/176165653/eng/text"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:0571134475">
       <marc:M001>010068971</marc:M001>
@@ -2935,19 +2071,6 @@
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
       <m:P30139 rdf:resource="http://oslomet.workid.no/wg/01/eng/text"/>
-   </c:C10007>
-   <c:C10007 rdf:about="urn:isbn:0571139019">
-      <marc:M001>010069229</marc:M001>
-      <m:P30004>urn:isbn:0571139019</m:P30004>
-      <m:P30156>William Golding : the man and his books : a tribute on his 75th birthday</m:P30156>
-      <m:P30117>edited by John Carey</m:P30117>
-      <m:P30088>London</m:P30088>
-      <m:P30083>Faber</m:P30083>
-      <m:P30011>1986</m:P30011>
-      <m:P30182>191p. ;</m:P30182>
-      <m:P30169>23cm.</m:P30169>
-      <m:P30001>unmediated</m:P30001>
-      <m:P30002>volume</m:P30002>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:057113937">
       <marc:M001>010069055</marc:M001>
@@ -3036,6 +2159,9 @@
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
       <m:P30139 rdf:resource="http://www.wikidata.org/entity/q4394863/eng/text"/>
+      <m:P30139 rdf:resource="http://viaf.org/viaf/176165653/eng/text"/>
+      <m:P30139 rdf:resource="http://viaf.org/viaf/187146251/eng/text"/>
+      <m:P30139 rdf:resource="http://viaf.org/viaf/174553895/eng/text"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:0571166547">
       <marc:M001>010070603</marc:M001>
@@ -3059,6 +2185,9 @@
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
       <m:P30139 rdf:resource="http://www.wikidata.org/entity/q4394863/eng/text"/>
+      <m:P30139 rdf:resource="http://viaf.org/viaf/176165653/eng/text"/>
+      <m:P30139 rdf:resource="http://viaf.org/viaf/187146251/eng/text"/>
+      <m:P30139 rdf:resource="http://viaf.org/viaf/174553895/eng/text"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:0571175260">
       <marc:M001>010071028</marc:M001>
@@ -3133,6 +2262,9 @@
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
       <m:P30139 rdf:resource="http://www.wikidata.org/entity/q4394863/eng/text"/>
+      <m:P30139 rdf:resource="http://viaf.org/viaf/176165653/eng/text"/>
+      <m:P30139 rdf:resource="http://viaf.org/viaf/187146251/eng/text"/>
+      <m:P30139 rdf:resource="http://viaf.org/viaf/174553895/eng/text"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:0571224520">
       <marc:M001>012937431</marc:M001>
@@ -3161,6 +2293,9 @@
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
       <m:P30139 rdf:resource="http://www.wikidata.org/entity/q4394863/eng/text"/>
+      <m:P30139 rdf:resource="http://viaf.org/viaf/176165653/eng/text"/>
+      <m:P30139 rdf:resource="http://viaf.org/viaf/187146251/eng/text"/>
+      <m:P30139 rdf:resource="http://viaf.org/viaf/174553895/eng/text"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:0571225454">
       <marc:M001>013187376</marc:M001>
@@ -3207,21 +2342,6 @@
       <m:P30002>volume</m:P30002>
       <m:P30139 rdf:resource="http://viaf.org/viaf/217036112/eng/text"/>
    </c:C10007>
-   <c:C10007 rdf:about="urn:isbn:0582012457">
-      <marc:M001>010080172</marc:M001>
-      <m:P30004>urn:isbn:0582012457</m:P30004>
-      <m:P30156>William Golding</m:P30156>
-      <m:P30117>by Stephen Medcalf ; edited by Ian Scott-Kilvert</m:P30117>
-      <m:P30088>Harlow</m:P30088>
-      <m:P30083>Longman for the British Council</m:P30083>
-      <m:P30011>1975</m:P30011>
-      <m:P30182>[1],43p.,plate :</m:P30182>
-      <m:P30169>22cm.</m:P30169>
-      <m:P30001>unmediated</m:P30001>
-      <m:P30002>volume</m:P30002>
-      <m:P30106>Writers and their work ;</m:P30106>
-      <m:P30165>no.243</m:P30165>
-   </c:C10007>
    <c:C10007 rdf:about="urn:isbn:0582781000">
       <marc:M001>010702770</marc:M001>
       <m:P30004>urn:isbn:0582781000</m:P30004>
@@ -3266,63 +2386,6 @@
       <m:P30002>volume</m:P30002>
       <m:P30106>York notes</m:P30106>
    </c:C10007>
-   <c:C10007 rdf:about="urn:isbn:0631138269">
-      <marc:M001>011336820</marc:M001>
-      <m:P30004>urn:isbn:0631138269</m:P30004>
-      <m:P30156>A view from the spire : William Golding's later novels</m:P30156>
-      <m:P30117>Don Crompton ; edited and completed by Julia Briggs</m:P30117>
-      <m:P30088>Oxford</m:P30088>
-      <m:P30083>Blackwell</m:P30083>
-      <m:P30011>1985</m:P30011>
-      <m:P30182>vi,199p. :</m:P30182>
-      <m:P30169>23cm.</m:P30169>
-      <m:P30001>unmediated</m:P30001>
-      <m:P30002>volume</m:P30002>
-   </c:C10007>
-   <c:C10007 rdf:about="urn:isbn:0631228314">
-      <marc:M001>012954678</marc:M001>
-      <m:P30004>urn:isbn:0631228314</m:P30004>
-      <m:P30004>urn:isbn:0631228322</m:P30004>
-      <m:P30156>The Blackwell guide to the philosophy of law and legal theory</m:P30156>
-      <m:P30117>edited by Martin P. Golding and William A. Edmundson</m:P30117>
-      <m:P30088>Malden, [Mass.] ;</m:P30088>
-      <m:P30088>London</m:P30088>
-      <m:P30083>Blackwell</m:P30083>
-      <m:P30011>2005</m:P30011>
-      <m:P30182>ix, 355 p. ;</m:P30182>
-      <m:P30169>25 cm.</m:P30169>
-      <m:P30001>unmediated</m:P30001>
-      <m:P30002>volume</m:P30002>
-      <m:P30106>Blackwell philosophy guides ;</m:P30106>
-      <m:P30165>18</m:P30165>
-   </c:C10007>
-   <c:C10007 rdf:about="urn:isbn:0714510122">
-      <marc:M001>010325345</marc:M001>
-      <m:P30004>urn:isbn:0714510122</m:P30004>
-      <m:P30156>William Golding : the dark fields of discovery</m:P30156>
-      <m:P30117>by Virginia Tiger</m:P30117>
-      <m:P30088>London</m:P30088>
-      <m:P30083>Calder and Boyars</m:P30083>
-      <m:P30011>1974</m:P30011>
-      <m:P30182>244p. ;</m:P30182>
-      <m:P30169>22cm.</m:P30169>
-      <m:P30001>unmediated</m:P30001>
-      <m:P30002>volume</m:P30002>
-   </c:C10007>
-   <c:C10007 rdf:about="urn:isbn:0745007805">
-      <marc:M001>009443397</marc:M001>
-      <m:P30004>urn:isbn:0745007805</m:P30004>
-      <m:P30004>urn:isbn:0745008259</m:P30004>
-      <m:P30156>The novels of William Golding</m:P30156>
-      <m:P30117>S. J. Boyd</m:P30117>
-      <m:P30107>2nd ed.</m:P30107>
-      <m:P30088>London</m:P30088>
-      <m:P30083>Harvester Wheatsheaf</m:P30083>
-      <m:P30011>1990</m:P30011>
-      <m:P30182>xi,230p.</m:P30182>
-      <m:P30001>unmediated</m:P30001>
-      <m:P30002>volume</m:P30002>
-   </c:C10007>
    <c:C10007 rdf:about="urn:isbn:0745171044">
       <marc:M001>006734812</marc:M001>
       <m:P30004>urn:isbn:0745171044</m:P30004>
@@ -3336,47 +2399,9 @@
       <m:P30001>unmediated</m:P30001>
       <m:P30002>sheet</m:P30002>
       <m:P30106>A New Portway large print book</m:P30106>
+      <m:P30139 rdf:resource="http://viaf.org/viaf/180585027/eng/text"/>
+      <m:P30139 rdf:resource="http://viaf.org/viaf/177762289/eng/text"/>
       <m:P30139 rdf:resource="http://viaf.org/viaf/308018847/eng/text"/>
-   </c:C10007>
-   <c:C10007 rdf:about="urn:isbn:0746501005">
-      <marc:M001>010082795</marc:M001>
-      <m:P30004>urn:isbn:0746501005</m:P30004>
-      <m:P30156>William Golding : a study</m:P30156>
-      <m:P30117>V.V. Subbarao</m:P30117>
-      <m:P30088>London</m:P30088>
-      <m:P30083>Oriental University Press</m:P30083>
-      <m:P30011>1987</m:P30011>
-      <m:P30182>156p. ;</m:P30182>
-      <m:P30169>23cm.</m:P30169>
-      <m:P30001>unmediated</m:P30001>
-      <m:P30002>volume</m:P30002>
-   </c:C10007>
-   <c:C10007 rdf:about="urn:isbn:0813113628">
-      <marc:M001>012664088</marc:M001>
-      <m:P30004>urn:isbn:0813113628</m:P30004>
-      <m:P30156>William Golding : some critical considerations</m:P30156>
-      <m:P30117>edited by Jack 1. Biles &amp; Robert O. Evans</m:P30117>
-      <m:P30088>Lexington</m:P30088>
-      <m:P30083>University Press of Kentucky</m:P30083>
-      <m:P30011>[1978]</m:P30011>
-      <m:P30182>xi,283p. ;</m:P30182>
-      <m:P30169>23cm.</m:P30169>
-      <m:P30001>unmediated</m:P30001>
-      <m:P30002>volume</m:P30002>
-   </c:C10007>
-   <c:C10007 rdf:about="urn:isbn:0826202926">
-      <marc:M001>008100041</marc:M001>
-      <m:P30004>urn:isbn:0826202926</m:P30004>
-      <m:P30156>Of earth and darkness : the novels of William Golding</m:P30156>
-      <m:P30117>Arnold Johnston</m:P30117>
-      <m:P30088>Columbia [Mo.] ;</m:P30088>
-      <m:P30088>London</m:P30088>
-      <m:P30083>University of Missouri Press</m:P30083>
-      <m:P30011>1980</m:P30011>
-      <m:P30182>x, 132 p. ;</m:P30182>
-      <m:P30169>23 cm.</m:P30169>
-      <m:P30001>unmediated</m:P30001>
-      <m:P30002>volume</m:P30002>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:0850467071">
       <marc:M001>008113386</marc:M001>
@@ -3423,19 +2448,6 @@
       <m:P30106>Guide to literature</m:P30106>
       <m:P30106>Letts study aids</m:P30106>
    </c:C10007>
-   <c:C10007 rdf:about="urn:isbn:0863324533">
-      <marc:M001>010747581</marc:M001>
-      <m:P30004>urn:isbn:0863324533</m:P30004>
-      <m:P30156>William Golding's use of symbolism</m:P30156>
-      <m:P30117>Nicola C. Dicken-Fuller</m:P30117>
-      <m:P30088>Lewes</m:P30088>
-      <m:P30083>Book Guild</m:P30083>
-      <m:P30011>1990</m:P30011>
-      <m:P30182>[60]p. ;</m:P30182>
-      <m:P30169>23cm.</m:P30169>
-      <m:P30001>unmediated</m:P30001>
-      <m:P30002>volume</m:P30002>
-   </c:C10007>
    <c:C10007 rdf:about="urn:isbn:0904916391">
       <marc:M001>012684122</marc:M001>
       <m:P30004>urn:isbn:0904916391</m:P30004>
@@ -3449,24 +2461,6 @@
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
       <m:P30106>Helicon student guides</m:P30106>
-   </c:C10007>
-   <c:C10007 rdf:about="urn:isbn:1851801472">
-      <marc:M001>011402594</marc:M001>
-      <marc:M001>005970625</marc:M001>
-      <m:P30004>urn:isbn:1851801472</m:P30004>
-      <m:P30156>William Golding : an Indian response : a collection of critical essays on the fiction of William Golding</m:P30156>
-      <m:P30117>edited by Satyanarain Singh, Adapa Ramakrishna Rao, Taqi Ali Mirza</m:P30117>
-      <m:P30156>William Golding : an Indian response : a collection of critical essays on the fiction of William Golding : National seminar on Golding : Papers</m:P30156>
-      <m:P30088>Liverpool</m:P30088>
-      <m:P30083>Lucas</m:P30083>
-      <m:P30011>1988, c1987</m:P30011>
-      <m:P30088>New Delhi</m:P30088>
-      <m:P30083>Arnold Heinemann</m:P30083>
-      <m:P30011>1987</m:P30011>
-      <m:P30182>viii,148p. ;</m:P30182>
-      <m:P30169>23cm.</m:P30169>
-      <m:P30001>unmediated</m:P30001>
-      <m:P30002>volume</m:P30002>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:185234055">
       <marc:M001>011407728</marc:M001>
@@ -3488,22 +2482,6 @@
       <m:P30182>7p.</m:P30182>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
-   </c:C10007>
-   <c:C10007 rdf:about="urn:isbn:286272064">
-      <marc:M001>006380998</marc:M001>
-      <marc:M001>947453237</marc:M001>
-      <m:P30004>urn:isbn:286272064</m:P30004>
-      <m:P30156>Fingering netsukes</m:P30156>
-      <m:P30156>Fingering netsukes : selected papers from the First International William Golding Conference</m:P30156>
-      <m:P30117>ed. by Frédéric Regard. Pref. by Norman Page</m:P30117>
-      <m:P30083>Université de Saint-Étienne</m:P30083>
-      <m:P30011>1995</m:P30011>
-      <m:P30182>218 S.</m:P30182>
-      <m:P30169>24 cm</m:P30169>
-      <m:P30001>unmediated</m:P30001>
-      <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
-      <m:P30002>volume</m:P30002>
-      <m:P30002>Band</m:P30002>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:343601883">
       <marc:M001>012057559</marc:M001>
@@ -3649,17 +2627,6 @@
       <m:P30182>231 s.</m:P30182>
       <m:P30139 rdf:resource="http://viaf.org/viaf/119144648592107423604/nob/"/>
    </c:C10007>
-   <c:C10007 rdf:about="urn:isbn:8207016507">
-      <marc:M001>999915419954702201</marc:M001>
-      <m:P30004>urn:isbn:8207016507</m:P30004>
-      <m:P30156>Gloser og arbeidsoppgaver til Arnold Wesker: Roots</m:P30156>
-      <m:P30088>Oslo</m:P30088>
-      <m:P30083>Fabritius</m:P30083>
-      <m:P30011>1973</m:P30011>
-      <m:P30182>19 s.</m:P30182>
-      <m:P30106>Gloseserien</m:P30106>
-      <m:P30165>1</m:P30165>
-   </c:C10007>
    <c:C10007 rdf:about="urn:isbn:8242110654">
       <marc:M001>990117822344702201</marc:M001>
       <m:P30004>urn:isbn:8242110654</m:P30004>
@@ -3705,18 +2672,6 @@
       <m:P30011>1997</m:P30011>
       <m:P30182>211 s.</m:P30182>
       <m:P30139 rdf:resource="http://viaf.org/viaf/119144648592107423604/nob/"/>
-   </c:C10007>
-   <c:C10007 rdf:about="urn:isbn:8403561148">
-      <marc:M001>bimo0000023969</marc:M001>
-      <m:P30004>urn:isbn:8403561148</m:P30004>
-      <m:P30156>Novelas</m:P30156>
-      <m:P30117>William Golding ; traducción del inglés por María Luisa Giner de los Ríos, Enrique López Martín y Juan Martín Ruiz-Werner ; prólogo de Juan Martín Ruiz-Werner</m:P30117>
-      <m:P30107>[2ª ed., 1ª reimp.]</m:P30107>
-      <m:P30088>Madrid</m:P30088>
-      <m:P30083>Aguilar</m:P30083>
-      <m:P30011>1986</m:P30011>
-      <m:P30182>997 p.</m:P30182>
-      <m:P30169>19 cm</m:P30169>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:8420613819">
       <marc:M001>bimo0000247574</marc:M001>
@@ -4231,18 +3186,6 @@
       <m:P30169>21 cm</m:P30169>
       <m:P30139 rdf:resource="http://oslomet.workid.no/wg/01/spa/"/>
    </c:C10007>
-   <c:C10007 rdf:about="urn:isbn:8478008071">
-      <marc:M001>bimo0001807667</marc:M001>
-      <m:P30004>urn:isbn:8478008071</m:P30004>
-      <m:P30156>Origen y manifestaciones del mal en la obra de William Golding</m:P30156>
-      <m:P30117>Eduardo Sánchez Fernández</m:P30117>
-      <m:P30107>1ª ed.</m:P30107>
-      <m:P30088>Salamanca</m:P30088>
-      <m:P30083>Ediciones Universidad de Salamanca</m:P30083>
-      <m:P30011>2002</m:P30011>
-      <m:P30182>1 disco (CD-ROM)</m:P30182>
-      <m:P30169>12 cm</m:P30169>
-   </c:C10007>
    <c:C10007 rdf:about="urn:isbn:8481302066">
       <marc:M001>Mimo0001482115</marc:M001>
       <marc:M001>Mimo0001658983</marc:M001>
@@ -4263,31 +3206,6 @@
       <m:P30169>22 cm</m:P30169>
       <m:P30139 rdf:resource="http://viaf.org/viaf/119144648592107423604/spa/"/>
    </c:C10007>
-   <c:C10007 rdf:about="urn:isbn:9516428940">
-      <marc:M001>007510669</marc:M001>
-      <m:P30004>urn:isbn:9516428940</m:P30004>
-      <m:P30156>Elements of mysticism in three of William Golding's novels</m:P30156>
-      <m:P30117>Gunnel Cleve</m:P30117>
-      <m:P30088>Turku</m:P30088>
-      <m:P30083>Turun yliopisto</m:P30083>
-      <m:P30011>1986</m:P30011>
-      <m:P30182>iv,388p.</m:P30182>
-      <m:P30001>unmediated</m:P30001>
-      <m:P30002>volume</m:P30002>
-      <m:P30106>Turun yliopiston julkaisuja. Sar.B ;</m:P30106>
-      <m:P30165>osa 175</m:P30165>
-   </c:C10007>
-   <c:C10007 rdf:about="urn:isbn:9632083679">
-      <marc:M001>1066843376</marc:M001>
-      <m:P30004>urn:isbn:9632083679</m:P30004>
-      <m:P30004>urn:unknown:018954</m:P30004>
-      <m:P30156>Kígónyelv</m:P30156>
-      <m:P30117>William Golding. [Ford.: Béresi Csilla]</m:P30117>
-      <m:P30182>177 S.</m:P30182>
-      <m:P30169>21 cm</m:P30169>
-      <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
-      <m:P30002>Band</m:P30002>
-   </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9780292918">
       <marc:M001>015563449</marc:M001>
       <m:P30004>urn:isbn:9780292918</m:P30004>
@@ -4302,32 +3220,6 @@
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
       <m:P30139 rdf:resource="http://viaf.org/viaf/119144648592107423604/eng/text"/>
-   </c:C10007>
-   <c:C10007 rdf:about="urn:isbn:9780333404096">
-      <marc:M001>1126180440</marc:M001>
-      <m:P30004>urn:isbn:9780333404096</m:P30004>
-      <m:P30004>urn:isbn:0333404092</m:P30004>
-      <m:P30004>urn:ian:9780333404096</m:P30004>
-      <m:P30156>Lord of the Flies by William Golding</m:P30156>
-      <m:P30117>Raymond Wilson</m:P30117>
-      <m:P30107>1986. Auflage</m:P30107>
-      <m:P30182>VIII, 96 Seiten in 1 Teil</m:P30182>
-      <m:P30169>21.6 cm x 14 cm, 140 g</m:P30169>
-      <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
-      <m:P30002>Band</m:P30002>
-      <m:P30106>Palgrave Master Guides</m:P30106>
-   </c:C10007>
-   <c:C10007 rdf:about="urn:isbn:9780571139019">
-      <marc:M001>1001421787</marc:M001>
-      <m:P30004>urn:isbn:9780571139019</m:P30004>
-      <m:P30004>urn:isbn:0571139019</m:P30004>
-      <m:P30004>urn:unknown:202029</m:P30004>
-      <m:P30156>William Golding : the man and his books ; a tribute on his 75th birthday</m:P30156>
-      <m:P30117>ed. by John Carey</m:P30117>
-      <m:P30182>191 S.</m:P30182>
-      <m:P30169>23 cm.</m:P30169>
-      <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
-      <m:P30002>Band</m:P30002>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9780571265473">
       <marc:M001>018259932</marc:M001>
@@ -4783,28 +3675,6 @@
       <m:P30002>volume</m:P30002>
       <m:P30139 rdf:resource="http://viaf.org/viaf/1180145424574586830081/eng/text"/>
    </c:C10007>
-   <c:C10007 rdf:about="urn:isbn:9781907208188">
-      <marc:M001>016164502</marc:M001>
-      <m:P30004>urn:isbn:9781907208188</m:P30004>
-      <m:P30156>Alex Schady &amp; Hadas Kedar</m:P30156>
-      <m:P30182>5 unnumbered pages :</m:P30182>
-      <m:P30169>22 cm.</m:P30169>
-      <m:P30001>unmediated</m:P30001>
-      <m:P30002>volume</m:P30002>
-      <m:P30106>File note ;</m:P30106>
-      <m:P30165>#61</m:P30165>
-   </c:C10007>
-   <c:C10007 rdf:about="urn:isbn:9783039115280">
-      <marc:M001>989220249</marc:M001>
-      <m:P30004>urn:isbn:9783039115280</m:P30004>
-      <m:P30004>urn:ian:9783039115280</m:P30004>
-      <m:P30156>&#x98;The&#x9c; void and the metaphors : a new reading of William Golding's Fiction</m:P30156>
-      <m:P30117>Yasunori Sugimura</m:P30117>
-      <m:P30182>249 S.</m:P30182>
-      <m:P30169>23 cm</m:P30169>
-      <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
-      <m:P30002>Band</m:P30002>
-   </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9783100268037">
       <marc:M001>840169086</marc:M001>
       <m:P30004>urn:isbn:9783100268037</m:P30004>
@@ -4897,18 +3767,12 @@
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9783129222225">
       <marc:M001>943983258</marc:M001>
-      <marc:M001>900445696</marc:M001>
-      <marc:M001>911236775</marc:M001>
-      <marc:M001>870161636</marc:M001>
       <marc:M001>930476336</marc:M001>
       <m:P30004>urn:isbn:9783129222225</m:P30004>
       <m:P30004>urn:isbn:3129222227</m:P30004>
       <m:P30156>Lektürehilfen William Golding, "Lord of the flies"</m:P30156>
       <m:P30117>[Verf. dieses Bd.: W. Meitcke]</m:P30117>
       <m:P30107>5. Aufl.</m:P30107>
-      <m:P30107>2. Aufl.</m:P30107>
-      <m:P30107>3. Aufl.</m:P30107>
-      <m:P30107>1. Aufl.</m:P30107>
       <m:P30107>4. Aufl.</m:P30107>
       <m:P30182>99 S.</m:P30182>
       <m:P30169>20 cm</m:P30169>
@@ -4957,20 +3821,6 @@
       <m:P30165>Nr. 9236 : Fremdsprachentexte</m:P30165>
       <m:P30139 rdf:resource="http://viaf.org/viaf/119144648592107423604/ger/text"/>
    </c:C10007>
-   <c:C10007 rdf:about="urn:isbn:9783150154793">
-      <marc:M001>1131728696</marc:M001>
-      <m:P30004>urn:isbn:9783150154793</m:P30004>
-      <m:P30004>urn:isbn:3150154790</m:P30004>
-      <m:P30004>urn:ian:9783150154793</m:P30004>
-      <m:P30156>Williams, Andrew: Lektüreschlüssel XL. William Golding: Lord of the Flies</m:P30156>
-      <m:P30117>Andrew Williams</m:P30117>
-      <m:P30182>120 Seiten</m:P30182>
-      <m:P30169>17 cm x 11.4 cm</m:P30169>
-      <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
-      <m:P30002>Band</m:P30002>
-      <m:P30106>Reclam Lektüreschlüssel XL</m:P30106>
-      <m:P30165>15479</m:P30165>
-   </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9783150197769">
       <marc:M001>998415464</marc:M001>
       <m:P30004>urn:isbn:9783150197769</m:P30004>
@@ -4984,18 +3834,6 @@
       <m:P30106>Reclams Universal-Bibliothek</m:P30106>
       <m:P30165>Nr. 19776 : Fremdsprachentexte</m:P30165>
       <m:P30139 rdf:resource="http://viaf.org/viaf/119144648592107423604/eng/text"/>
-   </c:C10007>
-   <c:C10007 rdf:about="urn:isbn:9783159617862">
-      <marc:M001>1142232654</marc:M001>
-      <m:P30004>urn:isbn:9783159617862</m:P30004>
-      <m:P30004>urn:ian:9783159617862</m:P30004>
-      <m:P30004>urn:unknown:101120171025589</m:P30004>
-      <m:P30156>Lord of the Flies von William Golding: Lektüreschlüssel mit Inhaltsangabe, Interpretation, Prüfungsaufgaben mit Lösungen, Lernglossar. (Reclam Lektüreschlüssel XL)</m:P30156>
-      <m:P30117>Andrew Williams</m:P30117>
-      <m:P30182>Online-Ressourcen, 120 Seiten</m:P30182>
-      <m:P30001>Computermedien</m:P30001>
-      <m:P30002>Online-Ressource</m:P30002>
-      <m:P30106>Reclam Lektüreschlüssel XL</m:P30106>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9783190529261">
       <marc:M001>972858032</marc:M001>
@@ -5041,25 +3879,14 @@
       <m:P30139 rdf:resource="http://viaf.org/viaf/184334172/ger/text"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9783402028438">
-      <marc:M001>860444627</marc:M001>
-      <marc:M001>840708300</marc:M001>
-      <marc:M001>910102414</marc:M001>
-      <marc:M001>820471410</marc:M001>
       <marc:M001>930560256</marc:M001>
       <m:P30004>urn:isbn:9783402028438</m:P30004>
       <m:P30004>urn:isbn:3402028433</m:P30004>
       <m:P30156>William Golding, Lord of the flies</m:P30156>
       <m:P30117>erl. von Hans-Otto Jahnke</m:P30117>
-      <m:P30107>Verb. Aufl., 11. - 14. Tsd.</m:P30107>
-      <m:P30107>2./3. Aufl.</m:P30107>
-      <m:P30107>14./15., verb. Aufl., 27. - 30. Tsd.</m:P30107>
       <m:P30107>16./17., verb. Aufl., 31. - 34. Tsd.</m:P30107>
-      <m:P30182>137 S.</m:P30182>
-      <m:P30169>18 cm</m:P30169>
-      <m:P30182>IX, 137 S.</m:P30182>
-      <m:P30182>XII, 132 S.</m:P30182>
-      <m:P30169>17 cm</m:P30169>
       <m:P30182>XIV, 130 S.</m:P30182>
+      <m:P30169>18 cm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
       <m:P30106>Aschendorffs Vokabularien zu fremdsprachigen Taschenbüchern</m:P30106>
@@ -5078,23 +3905,6 @@
       <m:P30106>dtv</m:P30106>
       <m:P30165>10153</m:P30165>
       <m:P30139 rdf:resource="http://viaf.org/viaf/211743501/ger/text"/>
-   </c:C10007>
-   <c:C10007 rdf:about="urn:isbn:9783425004167">
-      <marc:M001>830531432</marc:M001>
-      <marc:M001>760394911</marc:M001>
-      <m:P30004>urn:isbn:9783425004167</m:P30004>
-      <m:P30004>urn:isbn:3425004166</m:P30004>
-      <m:P30156>&#x98;An&#x9c; interpretation of William Golding's Lord of the flies</m:P30156>
-      <m:P30117>by Susanne Turck</m:P30117>
-      <m:P30107>4. Aufl.</m:P30107>
-      <m:P30107>3. Aufl.</m:P30107>
-      <m:P30182>60 S.</m:P30182>
-      <m:P30169>18 cm</m:P30169>
-      <m:P30182>68 S.</m:P30182>
-      <m:P30169>17 cm</m:P30169>
-      <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
-      <m:P30002>Band</m:P30002>
-      <m:P30106>Diesterwegs neusprachliche Bibliothek : Engl. Abt</m:P30106>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9783425041360">
       <marc:M001>830218912</marc:M001>
@@ -5190,7 +4000,7 @@
       <marc:M001>840047894</marc:M001>
       <m:P30004>urn:isbn:9783442066940</m:P30004>
       <m:P30004>urn:isbn:3442066948</m:P30004>
-      <m:P30156>&#x98;Der&#x9c; Sonderbotschafter : Romane</m:P30156>
+      <m:P30156>Der Sonderbotschafter : Romane</m:P30156>
       <m:P30117>William Golding. Dt. von Ulla H. de Herrera</m:P30117>
       <m:P30107>1. Aufl., 1. - 15. Tsd.</m:P30107>
       <m:P30182>255 S.</m:P30182>
@@ -5199,8 +4009,8 @@
       <m:P30002>Band</m:P30002>
       <m:P30106>[Ein Goldmann-Taschenbuch]</m:P30106>
       <m:P30165>6694</m:P30165>
-      <m:P30139 rdf:resource="http://viaf.org/viaf/308018847/ger/text"/>
       <m:P30139 rdf:resource="http://viaf.org/viaf/177762289/ger/text"/>
+      <m:P30139 rdf:resource="http://viaf.org/viaf/308018847/ger/text"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9783442066957">
       <marc:M001>840178859</marc:M001>
@@ -5261,36 +4071,6 @@
       <m:P30106>Goldmann</m:P30106>
       <m:P30165>9255</m:P30165>
       <m:P30139 rdf:resource="http://viaf.org/viaf/211743501/ger/text"/>
-   </c:C10007>
-   <c:C10007 rdf:about="urn:isbn:9783451144851">
-      <marc:M001>740236210</marc:M001>
-      <m:P30004>urn:isbn:9783451144851</m:P30004>
-      <m:P30004>urn:isbn:3451144859</m:P30004>
-      <m:P30156>Mathematisches Denken und logische Spiele : Erlernen d. Logik im Spiel</m:P30156>
-      <m:P30117>Z. P. Dienes; E. W. Golding</m:P30117>
-      <m:P30107>8. Aufl.</m:P30107>
-      <m:P30182>32 S.</m:P30182>
-      <m:P30169>21 cm</m:P30169>
-      <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
-      <m:P30002>Band</m:P30002>
-      <m:P30106>Mathematik-Unterricht / Zoltan Paul Dienes ; Edmond W. Golding</m:P30106>
-      <m:P30165>1</m:P30165>
-      <m:P30106>Programm Moderne Mathematik</m:P30106>
-   </c:C10007>
-   <c:C10007 rdf:about="urn:isbn:9783451149702">
-      <marc:M001>750249692</marc:M001>
-      <marc:M001>740150448</marc:M001>
-      <m:P30004>urn:isbn:9783451149702</m:P30004>
-      <m:P30004>urn:isbn:3451149702</m:P30004>
-      <m:P30156>Methodik der modernen Mathematik : Grundlagen f. Lernen in Zyklen</m:P30156>
-      <m:P30117>Z. P. Dienes; E. W. Golding. [Dt. von Peter Herfort u. Peter Sorger]</m:P30117>
-      <m:P30107>4. Aufl.</m:P30107>
-      <m:P30107>3. Aufl.</m:P30107>
-      <m:P30182>181 S.</m:P30182>
-      <m:P30169>21 cm</m:P30169>
-      <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
-      <m:P30002>Band</m:P30002>
-      <m:P30106>Dienes-Konzepte</m:P30106>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9783458168898">
       <marc:M001>953370755</marc:M001>
@@ -5627,158 +4407,6 @@
       <m:P30165>90667. Fischer Klassik</m:P30165>
       <m:P30139 rdf:resource="http://viaf.org/viaf/119144648592107423604/ger/text"/>
    </c:C10007>
-   <c:C10007 rdf:about="urn:isbn:9783631467305">
-      <marc:M001>931764629</marc:M001>
-      <m:P30004>urn:isbn:9783631467305</m:P30004>
-      <m:P30004>urn:isbn:3631467303</m:P30004>
-      <m:P30156>&#x98;Das&#x9c; Böse in den späten Romanen William Goldings</m:P30156>
-      <m:P30117>Karin Jaentsch</m:P30117>
-      <m:P30182>288 S.</m:P30182>
-      <m:P30169>21 cm</m:P30169>
-      <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
-      <m:P30002>Band</m:P30002>
-      <m:P30106>Europäische Hochschulschriften : Reihe 14, Angelsächsische Sprache und Literatur</m:P30106>
-      <m:P30165>Bd. 274</m:P30165>
-   </c:C10007>
-   <c:C10007 rdf:about="urn:isbn:9783631519585">
-      <marc:M001>969673884</marc:M001>
-      <m:P30004>urn:isbn:9783631519585</m:P30004>
-      <m:P30004>urn:isbn:3631519583</m:P30004>
-      <m:P30004>urn:isbn:9780820465449</m:P30004>
-      <m:P30004>urn:isbn:0820465445</m:P30004>
-      <m:P30004>urn:ian:9783631519585</m:P30004>
-      <m:P30156>Aspects of suffering : classical themes in literature in English</m:P30156>
-      <m:P30117>Liliana Sikorska (ed.)</m:P30117>
-      <m:P30182>234 S.</m:P30182>
-      <m:P30169>21 cm</m:P30169>
-      <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
-      <m:P30002>Band</m:P30002>
-      <m:P30106>Polish studies in English language and literature</m:P30106>
-      <m:P30165>Vol. 10</m:P30165>
-   </c:C10007>
-   <c:C10007 rdf:about="urn:isbn:9783631608975">
-      <marc:M001>1006690387</marc:M001>
-      <m:P30004>urn:isbn:9783631608975</m:P30004>
-      <m:P30004>urn:ian:9783631608975</m:P30004>
-      <m:P30156>&#x98;Das&#x9c; Sozialverhalten in den Romanen William Goldings : Lord of the Flies, The Inheritors, The Spire, To the Ends of the Earth: a Sea Trilogy</m:P30156>
-      <m:P30117>Marie-Luise Humberg</m:P30117>
-      <m:P30182>210 S.</m:P30182>
-      <m:P30169>21 cm</m:P30169>
-      <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
-      <m:P30002>Band</m:P30002>
-      <m:P30106>Europäische Hochschulschriften : Reihe 14, Angelsächsische Sprache und Literatur</m:P30106>
-      <m:P30165>Bd. 460</m:P30165>
-   </c:C10007>
-   <c:C10007 rdf:about="urn:isbn:9783638351171">
-      <marc:M001>1065986033</marc:M001>
-      <m:P30004>urn:isbn:9783638351171</m:P30004>
-      <m:P30004>urn:unknown:10112015013050022</m:P30004>
-      <m:P30156>&#x98;Die&#x9c; Natur des Menschen: William Golding und Jean-Jacques Rousseau</m:P30156>
-      <m:P30117>Sarah Buddeberg</m:P30117>
-      <m:P30182>Online-Ressource</m:P30182>
-      <m:P30001>Computermedien</m:P30001>
-      <m:P30002>Online-Ressource</m:P30002>
-   </c:C10007>
-   <c:C10007 rdf:about="urn:isbn:9783638985628">
-      <marc:M001>1074573870</marc:M001>
-      <m:P30004>urn:isbn:9783638985628</m:P30004>
-      <m:P30004>urn:unknown:10112015072955863</m:P30004>
-      <m:P30156>Über "Herr der Fliegen" von William Golding</m:P30156>
-      <m:P30117>Kirsten Kaiser</m:P30117>
-      <m:P30182>Online-Ressource</m:P30182>
-      <m:P30001>Computermedien</m:P30001>
-      <m:P30002>Online-Ressource</m:P30002>
-   </c:C10007>
-   <c:C10007 rdf:about="urn:isbn:9783639195200">
-      <marc:M001>1006465812</marc:M001>
-      <m:P30004>urn:isbn:9783639195200</m:P30004>
-      <m:P30004>urn:unknown:10112010090210841</m:P30004>
-      <m:P30156>Narrative Strategies and Meaning : A Narratological Approach to William Golding''s Fiction</m:P30156>
-      <m:P30117>MUSTAFA ZEKİ ÇIRAKLI</m:P30117>
-      <m:P30182>Online-Ressource</m:P30182>
-      <m:P30001>Computermedien</m:P30001>
-      <m:P30002>Online-Ressource</m:P30002>
-   </c:C10007>
-   <c:C10007 rdf:about="urn:isbn:9783640525140">
-      <marc:M001>1006854401</marc:M001>
-      <m:P30004>urn:isbn:9783640525140</m:P30004>
-      <m:P30004>urn:unknown:1011201009142341</m:P30004>
-      <m:P30156>The suitability of William Golding's "Lord of the Flies" for the EFL-classroom and possible ways of teaching it</m:P30156>
-      <m:P30117>Dennis Alexander Goebels</m:P30117>
-      <m:P30182>Online-Ressource</m:P30182>
-      <m:P30001>Computermedien</m:P30001>
-      <m:P30002>Online-Ressource</m:P30002>
-   </c:C10007>
-   <c:C10007 rdf:about="urn:isbn:9783653004311">
-      <marc:M001>1042405905</marc:M001>
-      <m:P30004>urn:isbn:9783653004311</m:P30004>
-      <m:P30004>urn:ian:9783653004311</m:P30004>
-      <m:P30004>urn:unknown:10112013093013686</m:P30004>
-      <m:P30156>&#x98;Das&#x9c; Sozialverhalten in den Romanen William Goldings : Lord of the Flies, The Inheritors, The Spire, To the Ends of the Earth: A Sea Trilogy</m:P30156>
-      <m:P30117>Marie-Luise Humberg</m:P30117>
-      <m:P30182>Online-Ressource</m:P30182>
-      <m:P30001>Computermedien</m:P30001>
-      <m:P30002>Online-Ressource</m:P30002>
-      <m:P30106>Europäische Hochschulschriften / European University Studies / Publications Universitaires Européennes</m:P30106>
-      <m:P30165>460</m:P30165>
-   </c:C10007>
-   <c:C10007 rdf:about="urn:isbn:9783656021636">
-      <marc:M001>1015926231</marc:M001>
-      <m:P30004>urn:isbn:9783656021636</m:P30004>
-      <m:P30004>urn:unknown:101120111010834</m:P30004>
-      <m:P30156>Vergleich der Medien Buch und Film anhand des Beispiels "Herr der Fliegen" von William Golding</m:P30156>
-      <m:P30117>Niklas Bayer</m:P30117>
-      <m:P30182>Online-Ressource</m:P30182>
-      <m:P30001>Computermedien</m:P30001>
-      <m:P30002>Online-Ressource</m:P30002>
-   </c:C10007>
-   <c:C10007 rdf:about="urn:isbn:9783656059707">
-      <marc:M001>1017234035</marc:M001>
-      <m:P30004>urn:isbn:9783656059707</m:P30004>
-      <m:P30004>urn:unknown:101120111121651</m:P30004>
-      <m:P30156>&#x98;The&#x9c; Importance of Setting in William Golding's 'Lord of the Flies'</m:P30156>
-      <m:P30117>Maria Fernkorn</m:P30117>
-      <m:P30182>Online-Ressource</m:P30182>
-      <m:P30001>Computermedien</m:P30001>
-      <m:P30002>Online-Ressource</m:P30002>
-   </c:C10007>
-   <c:C10007 rdf:about="urn:isbn:9783659215438">
-      <marc:M001>1025417526</marc:M001>
-      <m:P30004>urn:isbn:9783659215438</m:P30004>
-      <m:P30004>urn:unknown:1011201208254522</m:P30004>
-      <m:P30156>Evil in William Golding's Novels : Darkness and the Route to Leave Darkness Behind</m:P30156>
-      <m:P30117>Farhad Pakdel</m:P30117>
-      <m:P30107>neue Ausg.</m:P30107>
-      <m:P30182>Online-Ressource</m:P30182>
-      <m:P30001>Computermedien</m:P30001>
-      <m:P30002>Online-Ressource</m:P30002>
-   </c:C10007>
-   <c:C10007 rdf:about="urn:isbn:9783659358722">
-      <marc:M001>103204683X</marc:M001>
-      <m:P30004>urn:isbn:9783659358722</m:P30004>
-      <m:P30004>urn:isbn:365935872</m:P30004>
-      <m:P30004>urn:ian:9783659358722</m:P30004>
-      <m:P30004>urn:unknown:1011201303085186</m:P30004>
-      <m:P30156>A Bakhtinian Analysis of William Golding's Rites of Passage : Heteroglossia, Polyphony and the Carnivalesque in the Novel</m:P30156>
-      <m:P30117>Utku Tuğlu</m:P30117>
-      <m:P30107>1. Aufl.</m:P30107>
-      <m:P30182>Online-Ressource</m:P30182>
-      <m:P30001>Computermedien</m:P30001>
-      <m:P30002>Online-Ressource</m:P30002>
-   </c:C10007>
-   <c:C10007 rdf:about="urn:isbn:9783659748899">
-      <marc:M001>1077178026</marc:M001>
-      <m:P30004>urn:isbn:9783659748899</m:P30004>
-      <m:P30004>urn:isbn:3659748897</m:P30004>
-      <m:P30004>urn:ian:9783659748899</m:P30004>
-      <m:P30004>urn:unknown:1011201510052682</m:P30004>
-      <m:P30156>William Golding's Lord of the Flies: A critical study Project</m:P30156>
-      <m:P30117>Alaa Alnajm</m:P30117>
-      <m:P30107>1. Aufl.</m:P30107>
-      <m:P30182>Online-Ressource</m:P30182>
-      <m:P30001>Computermedien</m:P30001>
-      <m:P30002>Online-Ressource</m:P30002>
-   </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9783763237173">
       <marc:M001>901059242</marc:M001>
       <m:P30004>urn:isbn:9783763237173</m:P30004>
@@ -5790,22 +4418,6 @@
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
       <m:P30139 rdf:resource="http://viaf.org/viaf/119144648592107423604/ger/text"/>
-   </c:C10007>
-   <c:C10007 rdf:about="urn:isbn:9783804402270">
-      <marc:M001>945456352</marc:M001>
-      <marc:M001>800346661</marc:M001>
-      <m:P30004>urn:isbn:9783804402270</m:P30004>
-      <m:P30004>urn:isbn:3804402275</m:P30004>
-      <m:P30156>Erläuterungen zu William Golding, Literatur-Nobelpreisträger 1983, Herr der Fliegen (Lord of the flies)</m:P30156>
-      <m:P30117>von Edgar Neis</m:P30117>
-      <m:P30156>Erläuterungen zu William Golding, Herr der Fliegen, Lord of the flies</m:P30156>
-      <m:P30107>6. Aufl.</m:P30107>
-      <m:P30182>79 S.</m:P30182>
-      <m:P30169>16 cm</m:P30169>
-      <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
-      <m:P30002>Band</m:P30002>
-      <m:P30106>Königs Erläuterungen und Materialien</m:P30106>
-      <m:P30165>Bd. 332</m:P30165>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9783804404205">
       <marc:M001>952199246</marc:M001>
@@ -5822,37 +4434,19 @@
       <m:P30165>Bd. 332</m:P30165>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9783804417106">
-      <marc:M001>101094763X</marc:M001>
       <marc:M001>966458419</marc:M001>
       <marc:M001>988550636</marc:M001>
       <m:P30004>urn:isbn:9783804417106</m:P30004>
       <m:P30004>urn:isbn:3804417108</m:P30004>
       <m:P30156>Erläuterungen zu William Golding, Herr der Fliegen (Lord of the flies)</m:P30156>
       <m:P30117>von Reiner Poppe</m:P30117>
-      <m:P30107>4. Aufl.</m:P30107>
       <m:P30107>1. Aufl.</m:P30107>
       <m:P30107>3. Aufl.</m:P30107>
-      <m:P30182>94 S.</m:P30182>
-      <m:P30169>16 cm</m:P30169>
       <m:P30182>95 S.</m:P30182>
+      <m:P30169>16 cm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
       <m:P30106>Königs Erläuterungen und Materialien</m:P30106>
-      <m:P30165>Bd. 332</m:P30165>
-   </c:C10007>
-   <c:C10007 rdf:about="urn:isbn:9783804420106">
-      <marc:M001>1047857324</marc:M001>
-      <m:P30004>urn:isbn:9783804420106</m:P30004>
-      <m:P30004>urn:isbn:3804420109</m:P30004>
-      <m:P30004>urn:ian:9783804420106</m:P30004>
-      <m:P30156>Textanalyse und Interpretation zu William Golding, Lord of the flies : alle erforderlichen Infos für Abitur, Matura, Klausur und Referat ; plus Musteraufgaben mit Lösungsansätzen</m:P30156>
-      <m:P30117>Sabine Hasenbach</m:P30117>
-      <m:P30107>1. Aufl.</m:P30107>
-      <m:P30182>132 S.</m:P30182>
-      <m:P30169>18 cm</m:P30169>
-      <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
-      <m:P30002>Band</m:P30002>
-      <m:P30106>Königs Erläuterungen</m:P30106>
       <m:P30165>Bd. 332</m:P30165>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9783804457102">
@@ -5869,20 +4463,6 @@
       <m:P30106>Königs Erläuterungen und Materialien</m:P30106>
       <m:P30165>332</m:P30165>
       <m:P30139 rdf:resource="http://viaf.org/viaf/119144648592107423604/ger/text"/>
-   </c:C10007>
-   <c:C10007 rdf:about="urn:isbn:9783804470101">
-      <marc:M001>1058823205</marc:M001>
-      <m:P30004>urn:isbn:9783804470101</m:P30004>
-      <m:P30004>urn:ian:9783804470101</m:P30004>
-      <m:P30004>urn:unknown:101120140929513</m:P30004>
-      <m:P30156>Lord of the Flies (Herr der Fliegen) von William Golding : Textanalyse und Interpretation mit ausführlicher Inhaltsangabe und Abituraufgaben mit Lösungen</m:P30156>
-      <m:P30117>Sabine Hasenbach</m:P30117>
-      <m:P30107>1., Aufl.</m:P30107>
-      <m:P30182>Online-Ressource</m:P30182>
-      <m:P30001>Computermedien</m:P30001>
-      <m:P30002>Online-Ressource</m:P30002>
-      <m:P30106>Königs Erläuterungen</m:P30106>
-      <m:P30165>332</m:P30165>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9783813572087">
       <marc:M001>880622091</marc:M001>
@@ -5919,57 +4499,6 @@
       <m:P30169>31 cm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
-   </c:C10007>
-   <c:C10007 rdf:about="urn:isbn:9783866107526">
-      <marc:M001>994240767</marc:M001>
-      <m:P30004>urn:isbn:9783866107526</m:P30004>
-      <m:P30004>urn:ian:9783866107526</m:P30004>
-      <m:P30156>Andreas Fröhlich liest William Golding, Herr der Fliegen : ab 12 Jahren</m:P30156>
-      <m:P30117>aus dem Engl. von Hermann Stiehl. Regie: Thomas Krüger</m:P30117>
-      <m:P30107>Autoris. Lesefassung</m:P30107>
-      <m:P30182>6 CDs</m:P30182>
-      <m:P30169>12 cm, in Behältnis 13 x 15 x 3 cm</m:P30169>
-      <m:P30001>audio</m:P30001>
-      <m:P30002>Audiodisk</m:P30002>
-      <m:P30106>Argon-Hörbuch</m:P30106>
-   </c:C10007>
-   <c:C10007 rdf:about="urn:isbn:9783866108981">
-      <marc:M001>994241534</marc:M001>
-      <m:P30004>urn:isbn:9783866108981</m:P30004>
-      <m:P30004>urn:ian:9783866108981</m:P30004>
-      <m:P30156>Andreas Fröhlich liest William Golding, Herr der Fliegen : ab 12 Jahren ; MP3-CD mit Daisy-Navigation</m:P30156>
-      <m:P30117>aus dem Engl. von Hermann Stiehl. Regie: Thomas Krüger</m:P30117>
-      <m:P30107>Autoris. Lesefassung</m:P30107>
-      <m:P30182>1 CD (MP3)</m:P30182>
-      <m:P30169>12 cm, in Behältnis 20 x 14 x 2 cm</m:P30169>
-      <m:P30001>audio</m:P30001>
-      <m:P30002>Audiodisk</m:P30002>
-      <m:P30106>Argon-Hörbuch</m:P30106>
-      <m:P30106>Argon-Daisy-Edition</m:P30106>
-   </c:C10007>
-   <c:C10007 rdf:about="urn:isbn:9783867175623">
-      <marc:M001>1011269961</marc:M001>
-      <m:P30004>urn:isbn:9783867175623</m:P30004>
-      <m:P30004>urn:ian:9783867175623</m:P30004>
-      <m:P30156>Herr der Fliegen : das Hörspiel ; ab 12 Jahren</m:P30156>
-      <m:P30117>William Golding. Hörspielbearb.: Gisela Pankratz. Regie: Joachim Staritz. Mit Axel Wandtke, Ulrich Wildgruber, Christoph Zapatka u.v.a. Aus dem Engl. von Hermann Stiehl. mdr Figaro</m:P30117>
-      <m:P30182>1 CD (ca. 57 Min.)</m:P30182>
-      <m:P30169>12 cm</m:P30169>
-      <m:P30001>audio</m:P30001>
-      <m:P30002>Audiodisk</m:P30002>
-   </c:C10007>
-   <c:C10007 rdf:about="urn:isbn:9783868215373">
-      <marc:M001>1051105722</marc:M001>
-      <m:P30004>urn:isbn:9783868215373</m:P30004>
-      <m:P30004>urn:ian:9783868215373</m:P30004>
-      <m:P30156>Gefallensein, Erkennen, Verdrängen : drei zentrale Themen und ihre Darstellung in William Goldings Romanwerk</m:P30156>
-      <m:P30117>Werner Wolfgang Koppenhöfer</m:P30117>
-      <m:P30182>237 S.</m:P30182>
-      <m:P30169>21 cm</m:P30169>
-      <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
-      <m:P30002>Band</m:P30002>
-      <m:P30106>Mainz University studies in English</m:P30106>
-      <m:P30165>Bd. 19</m:P30165>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9783883451381">
       <marc:M001>840571682</marc:M001>
@@ -6047,18 +4576,6 @@
       <m:P30106>Blickpunkt</m:P30106>
       <m:P30165>505</m:P30165>
    </c:C10007>
-   <c:C10007 rdf:about="urn:isbn:9783889329035">
-      <marc:M001>940894610</marc:M001>
-      <m:P30004>urn:isbn:9783889329035</m:P30004>
-      <m:P30004>urn:isbn:3889329039</m:P30004>
-      <m:P30156>Herr der Fliegen : die Verfilmung des Romans von William Golding ; Begleitheft</m:P30156>
-      <m:P30117>[Ms.: Renate Corsten]</m:P30117>
-      <m:P30182>26 S.</m:P30182>
-      <m:P30169>21 cm</m:P30169>
-      <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
-      <m:P30002>Band</m:P30002>
-      <m:P30106>Atlas-Forum</m:P30106>
-   </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9783890645278">
       <marc:M001>97514278X</marc:M001>
       <m:P30004>urn:isbn:9783890645278</m:P30004>
@@ -6070,61 +4587,6 @@
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
       <m:P30139 rdf:resource="http://viaf.org/viaf/217036112/ger/text"/>
-   </c:C10007>
-   <c:C10007 rdf:about="urn:isbn:9783894494339">
-      <marc:M001>1011049473</marc:M001>
-      <marc:M001>959010718</marc:M001>
-      <m:P30004>urn:isbn:9783894494339</m:P30004>
-      <m:P30004>urn:isbn:3894494336</m:P30004>
-      <m:P30156>William Golding, Lord of the flies</m:P30156>
-      <m:P30117>interpretiert von Ernst H. Andrecht</m:P30117>
-      <m:P30156>Interpretationshilfe Englisch</m:P30156>
-      <m:P30107>1. Aufl., [veränd. Nachdr.]</m:P30107>
-      <m:P30182>64 S.</m:P30182>
-      <m:P30169>19 cm</m:P30169>
-      <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
-      <m:P30002>Band</m:P30002>
-      <m:P30106>Interpretationen Englisch</m:P30106>
-      <m:P30020 rdf:resource="http://example.org/de101959010483"/>
-   </c:C10007>
-   <c:C10007 rdf:about="urn:isbn:9783895849206">
-      <marc:M001>96641098X</marc:M001>
-      <m:P30004>urn:isbn:9783895849206</m:P30004>
-      <m:P30004>urn:isbn:3895849200</m:P30004>
-      <m:P30156>Herr der Fliegen : Hörspiel</m:P30156>
-      <m:P30117>William Golding. Sprecher: Axel Wandtke, Ulrich Wildgruber, Christoph Zapatka u.v.a. Aus dem Engl. von Hermann Stiehl. Hörspielbearb.: Gisela Pankratz. Regie: Joachim Staritz</m:P30117>
-      <m:P30182>1 CD</m:P30182>
-      <m:P30169>12 cm</m:P30169>
-      <m:P30001>audio</m:P30001>
-      <m:P30002>Audiodisk</m:P30002>
-      <m:P30106>Literatur</m:P30106>
-   </c:C10007>
-   <c:C10007 rdf:about="urn:isbn:9783921104965">
-      <marc:M001>850813182</marc:M001>
-      <m:P30004>urn:isbn:9783921104965</m:P30004>
-      <m:P30004>urn:isbn:3921104963</m:P30004>
-      <m:P30156>&#x98;Das&#x9c; Kind in der anglo-amerikanischen Literatur : von Bret Harte zu William Golding</m:P30156>
-      <m:P30117>Brigitte Haferkamp</m:P30117>
-      <m:P30107>1. Aufl.</m:P30107>
-      <m:P30182>224 S.</m:P30182>
-      <m:P30169>24 cm</m:P30169>
-      <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
-      <m:P30002>Band</m:P30002>
-      <m:P30106>Duisburger Studien</m:P30106>
-      <m:P30165>Bd. 11</m:P30165>
-   </c:C10007>
-   <c:C10007 rdf:about="urn:isbn:9783921202685">
-      <marc:M001>810148218</marc:M001>
-      <m:P30004>urn:isbn:9783921202685</m:P30004>
-      <m:P30004>urn:isbn:392120268</m:P30004>
-      <m:P30156>George Orwell, Aldous Huxley, "Animal farm", "Brave new world", "Nineteen eighty-four" : Vision u. Wirklichkeit in d. literar. Utopie ; Aspekte u. Ansätze e. Unterrichtssequenz in vergleichender Betrachtung mit "The iron heel" (Jack London) u. "Lord of the flies" (William Golding)</m:P30156>
-      <m:P30117>Reiner Poppe</m:P30117>
-      <m:P30182>160 S.</m:P30182>
-      <m:P30169>18 cm</m:P30169>
-      <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
-      <m:P30002>Band</m:P30002>
-      <m:P30106>Analysen und Reflexionen</m:P30106>
-      <m:P30165>Bd. 40 : Interpretation</m:P30165>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9783942656306">
       <marc:M001>1013580931</marc:M001>

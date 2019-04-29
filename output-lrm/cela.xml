@@ -39,7 +39,6 @@
       <w:P10088>&#x98;La&#x9c; Familia de Pascual Duarte</w:P10088>
       <w:P10088>&#x98;La&#x9c; familia de Pascual Duarte</w:P10088>
       <w:P10088>Familia de Pascual Duarte</w:P10088>
-      <w:P10088>&#x98;La&#x9c; familia Duarte</w:P10088>
       <w:P10061 rdf:resource="http://viaf.org/viaf/14767431"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/177039865/spa/text"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/177039865/eng/text"/>
@@ -118,7 +117,6 @@
    <c:C10001 rdf:about="http://viaf.org/viaf/184746026">
       <w:P10002>http://viaf.org/viaf/184746026</w:P10002>
       <w:P10088>Santa Balbina, 37, gas en cada piso</w:P10088>
-      <w:P10061 rdf:resource="http://viaf.org/viaf/14767431"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/184746026/spa/"/>
    </c:C10001>
    <c:C10001 rdf:about="http://viaf.org/viaf/185952526">
@@ -196,9 +194,11 @@
    <c:C10001 rdf:about="http://viaf.org/viaf/380145857926123020025">
       <w:P10002>http://viaf.org/viaf/380145857926123020025</w:P10002>
       <w:P10088>Toreo de salón. Farsa con acompañamiento de clamor y murga</w:P10088>
+      <w:P10088>Toreo de salón</w:P10088>
       <w:P10061 rdf:resource="http://viaf.org/viaf/14767431"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/380145857926123020025/spa/text"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/380145857926123020025/spa/"/>
+      <w:P10078 rdf:resource="http://viaf.org/viaf/380145857926123020025/spa/texto(visual)"/>
    </c:C10001>
    <c:C10001 rdf:about="http://workid.oslomet.no/cjc/06">
       <w:P10002>http://workid.oslomet.no/cjc/06</w:P10002>
@@ -494,6 +494,7 @@
    <c:C10001 rdf:about="http://workid.oslomet.no/cjc/55">
       <w:P10002>http://workid.oslomet.no/cjc/55</w:P10002>
       <w:P10088>Madrid. Calidoscopio callejero, marítimo y campestre de Camilo José Cela para el Reino y Ultramar</w:P10088>
+      <w:P10088>Madrid</w:P10088>
       <w:P10061 rdf:resource="http://viaf.org/viaf/14767431"/>
       <w:P10078 rdf:resource="http://workid.oslomet.no/cjc/55/spa/"/>
       <w:P10078 rdf:resource="http://workid.oslomet.no/cjc/55/eng/"/>
@@ -518,6 +519,7 @@
       <w:P10061 rdf:resource="http://viaf.org/viaf/14767431"/>
       <w:P10078 rdf:resource="http://workid.oslomet.no/cjc/59/spa/text"/>
       <w:P10078 rdf:resource="http://workid.oslomet.no/cjc/59/spa/"/>
+      <w:P10078 rdf:resource="http://workid.oslomet.no/cjc/59/spa/texto(visual)"/>
    </c:C10001>
    <c:C10001 rdf:about="http://workid.oslomet.no/cjc/60">
       <w:P10002>http://workid.oslomet.no/cjc/60</w:P10002>
@@ -1026,7 +1028,6 @@
       <a:P50195 rdf:resource="http://workid.oslomet.no/cjc/27"/>
       <a:P50195 rdf:resource="http://workid.oslomet.no/cjc/40"/>
       <a:P50195 rdf:resource="http://workid.oslomet.no/cjc/17"/>
-      <a:P50195 rdf:resource="http://workid.oslomet.no/cjc/53"/>
       <a:P50195 rdf:resource="http://workid.oslomet.no/cjc/93"/>
       <a:P50195 rdf:resource="http://workid.oslomet.no/cjc/63"/>
       <a:P50195 rdf:resource="http://workid.oslomet.no/cjc/60"/>
@@ -1037,10 +1038,10 @@
       <a:P50195 rdf:resource="http://workid.oslomet.no/cjc/49"/>
       <a:P50195 rdf:resource="http://viaf.org/viaf/173831690"/>
       <a:P50195 rdf:resource="http://www.wikidata.org/entity/q20548166"/>
-      <a:P50195 rdf:resource="http://viaf.org/viaf/184746026"/>
       <a:P50195 rdf:resource="http://workid.oslomet.no/cjc/06"/>
       <a:P50195 rdf:resource="http://viaf.org/viaf/175431030"/>
       <a:P50195 rdf:resource="http://workid.oslomet.no/cjc/90"/>
+      <a:P50195 rdf:resource="http://workid.oslomet.no/cjc/53"/>
       <a:P50195 rdf:resource="http://workid.oslomet.no/cjc/16"/>
       <a:P50195 rdf:resource="http://workid.oslomet.no/cjc/42"/>
       <a:P50195 rdf:resource="http://workid.oslomet.no/cjc/28"/>
@@ -1292,6 +1293,7 @@
    </c:C10006>
    <c:C10006 rdf:about="http://viaf.org/viaf/175431030/spa/">
       <e:P20006>spa</e:P20006>
+      <e:P20059 rdf:resource="urn:isbn:8403602626"/>
       <e:P20059 rdf:resource="urn:isbn:8402063152"/>
       <e:P20059 rdf:resource="http://example.org/bimo0000655235"/>
       <e:P20231 rdf:resource="http://viaf.org/viaf/175431030"/>
@@ -1362,10 +1364,6 @@
    <c:C10006 rdf:about="http://viaf.org/viaf/177039865/ger/text">
       <e:P20006>ger</e:P20006>
       <e:P20001>Text</e:P20001>
-      <e:P20312>dt.</e:P20312>
-      <e:P20312>&#x98;La&#x9c; familia de Pascual Duarte</e:P20312>
-      <e:P20312>&#x98;La&#x9c; Familia de Pascual Duarte</e:P20312>
-      <e:P20312>&#x98;La&#x9c; familia Duarte</e:P20312>
       <e:P20037 rdf:resource="leisewitzgeorg"/>
       <e:P20037 rdf:resource="enzenbergcarinavon"/>
       <e:P20037 rdf:resource="moralhildegard"/>
@@ -1494,8 +1492,6 @@
    <c:C10006 rdf:about="http://viaf.org/viaf/178631752/ger/text">
       <e:P20006>ger</e:P20006>
       <e:P20001>Text</e:P20001>
-      <e:P20312>dt.</e:P20312>
-      <e:P20312>&#x98;La&#x9c; colmena</e:P20312>
       <e:P20037 rdf:resource="theilebruhnsgerda"/>
       <e:P20059 rdf:resource="urn:isbn:9783492550284"/>
       <e:P20059 rdf:resource="urn:isbn:9783492107822"/>
@@ -1538,7 +1534,6 @@
       <e:P20059 rdf:resource="urn:isbn:8423974219"/>
       <e:P20059 rdf:resource="urn:isbn:8432222496"/>
       <e:P20059 rdf:resource="urn:isbn:8427908911"/>
-      <e:P20059 rdf:resource="urn:isbn:8439514972"/>
       <e:P20059 rdf:resource="http://example.org/a4833923"/>
       <e:P20059 rdf:resource="urn:isbn:8447307301"/>
       <e:P20059 rdf:resource="urn:isbn:9788497402156"/>
@@ -1560,7 +1555,6 @@
       <e:P20059 rdf:resource="http://example.org/bimo0000655255"/>
       <e:P20059 rdf:resource="http://example.org/bimo0000655265"/>
       <e:P20059 rdf:resource="http://example.org/bimo0000655266"/>
-      <e:P20059 rdf:resource="http://example.org/bimo0001759067"/>
       <e:P20059 rdf:resource="urn:isbn:8481093742"/>
       <e:P20059 rdf:resource="urn:isbn:8484507947"/>
       <e:P20059 rdf:resource="urn:isbn:8447326012"/>
@@ -1738,8 +1732,6 @@
    <c:C10006 rdf:about="http://viaf.org/viaf/181460365/ger/text">
       <e:P20006>ger</e:P20006>
       <e:P20001>Text</e:P20001>
-      <e:P20312>dt.</e:P20312>
-      <e:P20312>Mazurca para dos muertos</e:P20312>
       <e:P20037 rdf:resource="enzenbergcarinavon"/>
       <e:P20037 rdf:resource="zahnhartmut"/>
       <e:P20059 rdf:resource="urn:isbn:9783492550260"/>
@@ -1758,6 +1750,7 @@
       <e:P20059 rdf:resource="urn:isbn:8432223212"/>
       <e:P20059 rdf:resource="urn:isbn:8440719825"/>
       <e:P20059 rdf:resource="urn:isbn:8447301346"/>
+      <e:P20059 rdf:resource="http://example.org/bimo0001759067"/>
       <e:P20059 rdf:resource="urn:isbn:8422693720"/>
       <e:P20059 rdf:resource="urn:isbn:8439583486"/>
       <e:P20059 rdf:resource="urn:isbn:8432221511"/>
@@ -1792,8 +1785,6 @@
    <c:C10006 rdf:about="http://viaf.org/viaf/185952526/ger/text">
       <e:P20006>ger</e:P20006>
       <e:P20001>Text</e:P20001>
-      <e:P20312>dt.</e:P20312>
-      <e:P20312>Mrs Caldwell habla con su hijo</e:P20312>
       <e:P20037 rdf:resource="theilebruhnsgerda"/>
       <e:P20059 rdf:resource="http://example.org/450761649"/>
       <e:P20059 rdf:resource="urn:isbn:9783492550246"/>
@@ -1910,8 +1901,6 @@
       <e:P20006>ger</e:P20006>
       <e:P20001>Text</e:P20001>
       <e:P20001>unbewegtes Bild</e:P20001>
-      <e:P20312>dt.</e:P20312>
-      <e:P20312>Gavilla de fábulas sin amor</e:P20312>
       <e:P20037 rdf:resource="spechtrainer"/>
       <e:P20059 rdf:resource="urn:isbn:9783549066898"/>
       <e:P20059 rdf:resource="urn:isbn:9783492550253"/>
@@ -1999,6 +1988,12 @@
       <e:P20006>spa</e:P20006>
       <e:P20001>text</e:P20001>
       <e:P20059 rdf:resource="urn:isbn:8426429971"/>
+      <e:P20231 rdf:resource="http://viaf.org/viaf/380145857926123020025"/>
+   </c:C10006>
+   <c:C10006 rdf:about="http://viaf.org/viaf/380145857926123020025/spa/texto(visual)">
+      <e:P20006>spa</e:P20006>
+      <e:P20001>Texto (visual)</e:P20001>
+      <e:P20059 rdf:resource="urn:isbn:9788493512996"/>
       <e:P20231 rdf:resource="http://viaf.org/viaf/380145857926123020025"/>
    </c:C10006>
    <c:C10006 rdf:about="http://workid.oslomet.no/cjc/06/spa/">
@@ -2535,6 +2530,12 @@
       <e:P20059 rdf:resource="urn:isbn:8427960255"/>
       <e:P20231 rdf:resource="http://workid.oslomet.no/cjc/59"/>
    </c:C10006>
+   <c:C10006 rdf:about="http://workid.oslomet.no/cjc/59/spa/texto(visual)">
+      <e:P20006>spa</e:P20006>
+      <e:P20001>Texto (visual)</e:P20001>
+      <e:P20059 rdf:resource="urn:isbn:9788493512989"/>
+      <e:P20231 rdf:resource="http://workid.oslomet.no/cjc/59"/>
+   </c:C10006>
    <c:C10006 rdf:about="http://workid.oslomet.no/cjc/60/spa/">
       <e:P20006>spa</e:P20006>
       <e:P20059 rdf:resource="urn:isbn:8420445150"/>
@@ -2859,6 +2860,7 @@
       <e:P20059 rdf:resource="urn:isbn:8408013491"/>
       <e:P20059 rdf:resource="urn:isbn:8422665301"/>
       <e:P20059 rdf:resource="urn:isbn:8408460595"/>
+      <e:P20059 rdf:resource="urn:isbn:8408460655"/>
       <e:P20059 rdf:resource="urn:isbn:8408360337"/>
       <e:P20231 rdf:resource="http://www.wikidata.org/entity/q24543140"/>
    </c:C10006>
@@ -5814,7 +5816,7 @@
       <m:P30182>510 p.</m:P30182>
       <m:P30169>22 cm</m:P30169>
       <m:P30106>Premios Nobel de literatura</m:P30106>
-      <m:P30139 rdf:resource="http://viaf.org/viaf/178631752/spa/"/>
+      <m:P30139 rdf:resource="http://viaf.org/viaf/181460365/spa/"/>
    </c:C10007>
    <c:C10007 rdf:about="http://example.org/bimo0001821219">
       <marc:M001>bimo0001821219</marc:M001>
@@ -7028,6 +7030,7 @@
       <m:P30011>D.L. 1994</m:P30011>
       <m:P30182>79 p.</m:P30182>
       <m:P30169>20 cm</m:P30169>
+      <m:P30139 rdf:resource="http://viaf.org/viaf/175431030/spa/"/>
       <m:P30139 rdf:resource="http://viaf.org/viaf/184746026/spa/"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:8403870051">
@@ -7164,6 +7167,7 @@
       <m:P30011>1994</m:P30011>
       <m:P30182>X, 619 p.</m:P30182>
       <m:P30169>19 cm</m:P30169>
+      <m:P30139 rdf:resource="http://www.wikidata.org/entity/q24543140/spa/"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:8408460897">
       <marc:M001>bimo0000471849</marc:M001>
@@ -9660,8 +9664,8 @@
       <m:P30169>20 cm</m:P30169>
       <m:P30106>Obras completas / Camilo José Cela</m:P30106>
       <m:P30165>3</m:P30165>
-      <m:P30139 rdf:resource="http://viaf.org/viaf/181108754/spa/"/>
       <m:P30139 rdf:resource="http://www.wikidata.org/entity/q20548166/spa/"/>
+      <m:P30139 rdf:resource="http://viaf.org/viaf/181108754/spa/"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:8439514964">
       <marc:M001>bimo0002036963</marc:M001>
@@ -9689,7 +9693,6 @@
       <m:P30169>20 cm</m:P30169>
       <m:P30106>Obras completas / Camilo José Cela</m:P30106>
       <m:P30165>5</m:P30165>
-      <m:P30139 rdf:resource="http://viaf.org/viaf/178631752/spa/"/>
       <m:P30139 rdf:resource="http://viaf.org/viaf/185952526/spa/"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:8439514980">
@@ -9760,8 +9763,8 @@
       <m:P30169>20 cm</m:P30169>
       <m:P30106>Obras completas / Camilo José Cela</m:P30106>
       <m:P30165>11</m:P30165>
-      <m:P30139 rdf:resource="http://workid.oslomet.no/cjc/36/spa/"/>
       <m:P30139 rdf:resource="http://workid.oslomet.no/cjc/51/spa/"/>
+      <m:P30139 rdf:resource="http://workid.oslomet.no/cjc/36/spa/"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:8439515049">
       <marc:M001>bimo0002036983</marc:M001>
@@ -9846,8 +9849,8 @@
       <m:P30169>20 cm</m:P30169>
       <m:P30106>Obras completas / Camilo José Cela</m:P30106>
       <m:P30165>17</m:P30165>
-      <m:P30139 rdf:resource="http://viaf.org/viaf/176439895/spa/"/>
       <m:P30139 rdf:resource="http://viaf.org/viaf/180681984/spa/"/>
+      <m:P30139 rdf:resource="http://viaf.org/viaf/176439895/spa/"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:8439515103">
       <marc:M001>bimo0002036557</marc:M001>
@@ -9889,8 +9892,8 @@
       <m:P30169>20 cm</m:P30169>
       <m:P30106>Obras completas / Camilo José Cela</m:P30106>
       <m:P30165>21</m:P30165>
-      <m:P30139 rdf:resource="http://workid.oslomet.no/cjc/53/spa/"/>
       <m:P30139 rdf:resource="http://workid.oslomet.no/cjc/59/spa/"/>
+      <m:P30139 rdf:resource="http://workid.oslomet.no/cjc/53/spa/"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:8439515146">
       <marc:M001>bimo0002035747</marc:M001>
@@ -10002,8 +10005,8 @@
       <m:P30169>20 cm</m:P30169>
       <m:P30106>Obras completas / Camilo José Cela</m:P30106>
       <m:P30165>35</m:P30165>
-      <m:P30139 rdf:resource="http://workid.oslomet.no/cjc/76/spa/"/>
       <m:P30139 rdf:resource="http://workid.oslomet.no/cjc/84/spa/"/>
+      <m:P30139 rdf:resource="http://workid.oslomet.no/cjc/76/spa/"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:8439515294">
       <marc:M001>bimo0002036154</marc:M001>
@@ -10017,8 +10020,8 @@
       <m:P30169>20 cm</m:P30169>
       <m:P30106>Obras completas / Camilo José Cela</m:P30106>
       <m:P30165>37</m:P30165>
-      <m:P30139 rdf:resource="http://viaf.org/viaf/181460365/spa/"/>
       <m:P30139 rdf:resource="http://www.wikidata.org/entity/q5791732/spa/"/>
+      <m:P30139 rdf:resource="http://viaf.org/viaf/181460365/spa/"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:8439544782">
       <marc:M001>bimo0000480872</marc:M001>
@@ -12575,6 +12578,7 @@
       <m:P30001>electrónico</m:P30001>
       <m:P30106>A xoubiña voadora</m:P30106>
       <m:P30165>n. 19</m:P30165>
+      <m:P30139 rdf:resource="http://workid.oslomet.no/cjc/59/spa/texto(visual)"/>
       <m:P30139 rdf:resource="http://workid.oslomet.no/cjc/55/spa/texto(visual)"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9788493512996">
@@ -12590,6 +12594,7 @@
       <m:P30001>electrónico</m:P30001>
       <m:P30106>A xoubiña voadora</m:P30106>
       <m:P30165>n. 20</m:P30165>
+      <m:P30139 rdf:resource="http://viaf.org/viaf/380145857926123020025/spa/texto(visual)"/>
       <m:P30139 rdf:resource="http://workid.oslomet.no/cjc/52/spa/texto(visual)"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9788493680312">

@@ -1,0 +1,835 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:frbrizer="http://idi.ntnu.no/frbrizer/"
+         xmlns:xs="http://www.w3.org/2001/XMLSchema"
+         xmlns:bibframe="http://id.loc.gov/ontologies/bibframe/"
+         xmlns:marc="http://marc21rdf.info/elements/marc/"
+         xmlns:m="http://rdaregistry.info/Elements/m/"
+         xmlns:a="http://rdaregistry.info/Elements/a/"
+         xmlns:e="http://rdaregistry.info/Elements/e/"
+         xmlns:w="http://rdaregistry.info/Elements/w/"
+         xml:base="http://example.org/rda/">
+   <bibframe:Instance rdf:about="http://example.org/991427867644702201">
+      <marc:M001>991427867644702201</marc:M001>
+      <m:P30156>Sherlock Holmes : komedie i 2 akter</m:P30156>
+      <m:P30156>komedie i 2 akter</m:P30156>
+      <m:P30117>av Sir Arthur Conan Doyle og William Gillette ; oversatt av Nils Nordberg</m:P30117>
+      <m:P30083>[s.n.]</m:P30083>
+      <m:P30182>171 bl.</m:P30182>
+      <bibframe:instanceOf rdf:resource="http://viaf.org/viaf/174141344/nob/nob"/>
+   </bibframe:Instance>
+   <bibframe:Instance rdf:about="http://example.org/999422486004702201">
+      <marc:M001>999422486004702201</marc:M001>
+      <m:P30156>Through the magic door</m:P30156>
+      <m:P30088>London</m:P30088>
+      <m:P30083>Thomas Nelson &lt;s.a.&gt;</m:P30083>
+      <m:P30182>253 s.</m:P30182>
+      <bibframe:instanceOf rdf:resource="http://viaf.org/viaf/310218668/eng"/>
+   </bibframe:Instance>
+   <bibframe:Instance rdf:about="http://example.org/999920605580102201">
+      <marc:M001>999920605580102201</marc:M001>
+      <m:P30156>Desert Drama: Being The Tragedy Of The ""Korosko""</m:P30156>
+      <m:P30083>Project Gutenberg</m:P30083>
+      <bibframe:instanceOf rdf:resource="http://viaf.org/viaf/179668970/eng"/>
+   </bibframe:Instance>
+   <bibframe:Instance rdf:about="http://example.org/999920605704302201">
+      <marc:M001>999920605704302201</marc:M001>
+      <m:P30156>Baskervillen koira</m:P30156>
+      <m:P30083>Project Gutenberg</m:P30083>
+      <bibframe:instanceOf rdf:resource="http://viaf.org/viaf/181625655/eng"/>
+   </bibframe:Instance>
+   <bibframe:Instance rdf:about="http://example.org/999920606918902201">
+      <marc:M001>999920606918902201</marc:M001>
+      <m:P30156>Tajemnica Baskerville'ów dziwne przygody Sherlocka Holmes</m:P30156>
+      <m:P30083>Project Gutenberg</m:P30083>
+      <bibframe:instanceOf rdf:resource="http://viaf.org/viaf/181625655/eng"/>
+   </bibframe:Instance>
+   <bibframe:Instance rdf:about="http://example.org/999920607999002201">
+      <marc:M001>999920607999002201</marc:M001>
+      <m:P30156>adventures of Sherlock Holmes</m:P30156>
+      <m:P30083>Project Gutenberg</m:P30083>
+      <bibframe:instanceOf rdf:resource="http://viaf.org/viaf/186734487/eng"/>
+   </bibframe:Instance>
+   <bibframe:Instance rdf:about="http://example.org/999920608038302201">
+      <marc:M001>999920608038302201</marc:M001>
+      <m:P30156>Parasite</m:P30156>
+      <m:P30083>Project Gutenberg</m:P30083>
+      <bibframe:instanceOf rdf:resource="http://www.wikidata.org/entity/q5295669/eng"/>
+   </bibframe:Instance>
+   <bibframe:Instance rdf:about="http://example.org/999920608096302201">
+      <marc:M001>999920608096302201</marc:M001>
+      <m:P30156>Hound of the Baskervilles</m:P30156>
+      <m:P30083>Project Gutenberg</m:P30083>
+      <bibframe:instanceOf rdf:resource="http://viaf.org/viaf/181625655/eng"/>
+   </bibframe:Instance>
+   <bibframe:Instance rdf:about="http://example.org/999920608104802201">
+      <marc:M001>999920608104802201</marc:M001>
+      <m:P30156>Disappearance Of Lady Frances Carfax</m:P30156>
+      <m:P30083>Project Gutenberg</m:P30083>
+      <bibframe:instanceOf rdf:resource="http://www.wikidata.org/entity/q3041826/eng"/>
+   </bibframe:Instance>
+   <bibframe:Instance rdf:about="http://example.org/999920608114102201">
+      <marc:M001>999920608114102201</marc:M001>
+      <m:P30156>adventures of Gerard</m:P30156>
+      <m:P30083>Project Gutenberg</m:P30083>
+      <bibframe:instanceOf rdf:resource="http://viaf.org/viaf/6035152865746704940001/eng"/>
+   </bibframe:Instance>
+   <bibframe:Instance rdf:about="http://example.org/999920608155302201">
+      <marc:M001>999920608155302201</marc:M001>
+      <m:P30156>Uncle Bernac A Memory of the Empire</m:P30156>
+      <m:P30083>Project Gutenberg</m:P30083>
+      <bibframe:instanceOf rdf:resource="http://viaf.org/viaf/206144898662550290126/eng"/>
+   </bibframe:Instance>
+   <bibframe:Instance rdf:about="http://example.org/999920608165702201">
+      <marc:M001>999920608165702201</marc:M001>
+      <m:P30156>Tragedy of The Korosko</m:P30156>
+      <m:P30083>Project Gutenberg</m:P30083>
+      <bibframe:instanceOf rdf:resource="http://viaf.org/viaf/179668970/eng"/>
+   </bibframe:Instance>
+   <bibframe:Instance rdf:about="http://example.org/999920608180002201">
+      <marc:M001>999920608180002201</marc:M001>
+      <m:P30156>Exploits Of Brigadier Gerard</m:P30156>
+      <m:P30083>Project Gutenberg</m:P30083>
+      <bibframe:instanceOf rdf:resource="http://www.wikidata.org/entity/q19086389/eng"/>
+   </bibframe:Instance>
+   <bibframe:Instance rdf:about="http://example.org/999920608207302201">
+      <marc:M001>999920608207302201</marc:M001>
+      <m:P30156>Doings Of Raffles Haw</m:P30156>
+      <m:P30083>Project Gutenberg</m:P30083>
+      <bibframe:instanceOf rdf:resource="http://viaf.org/viaf/309272292/eng"/>
+   </bibframe:Instance>
+   <bibframe:Instance rdf:about="http://example.org/999920608215902201">
+      <marc:M001>999920608215902201</marc:M001>
+      <m:P30156>Valley of Fear</m:P30156>
+      <m:P30083>Project Gutenberg</m:P30083>
+      <bibframe:instanceOf rdf:resource="http://viaf.org/viaf/175571309/eng"/>
+   </bibframe:Instance>
+   <bibframe:Instance rdf:about="http://example.org/999920608219902201">
+      <marc:M001>999920608219902201</marc:M001>
+      <m:P30156>His Last Bow</m:P30156>
+      <m:P30083>Project Gutenberg</m:P30083>
+      <bibframe:instanceOf rdf:resource="http://viaf.org/viaf/1390154501894339210002/eng"/>
+   </bibframe:Instance>
+   <bibframe:Instance rdf:about="http://example.org/999920608222402201">
+      <marc:M001>999920608222402201</marc:M001>
+      <m:P30156>Valley of Fear</m:P30156>
+      <m:P30083>Project Gutenberg</m:P30083>
+      <bibframe:instanceOf rdf:resource="http://viaf.org/viaf/175571309/eng"/>
+   </bibframe:Instance>
+   <bibframe:Instance rdf:about="http://example.org/999920608252402201">
+      <marc:M001>999920608252402201</marc:M001>
+      <m:P30156>Adventure of the Cardboard Box</m:P30156>
+      <m:P30083>Project Gutenberg</m:P30083>
+      <bibframe:instanceOf rdf:resource="http://viaf.org/viaf/180817010/eng"/>
+   </bibframe:Instance>
+   <bibframe:Instance rdf:about="http://example.org/999920608252602201">
+      <marc:M001>999920608252602201</marc:M001>
+      <m:P30156>Adventure of the Devil's Foot</m:P30156>
+      <m:P30083>Project Gutenberg</m:P30083>
+      <bibframe:instanceOf rdf:resource="http://www.wikidata.org/entity/q2466799/eng"/>
+   </bibframe:Instance>
+   <bibframe:Instance rdf:about="http://example.org/999920608263202201">
+      <marc:M001>999920608263202201</marc:M001>
+      <m:P30156>Sign of the Four</m:P30156>
+      <m:P30083>Project Gutenberg</m:P30083>
+      <bibframe:instanceOf rdf:resource="http://viaf.org/viaf/184892317/eng"/>
+   </bibframe:Instance>
+   <bibframe:Instance rdf:about="http://example.org/999920608263302201">
+      <marc:M001>999920608263302201</marc:M001>
+      <m:P30156>Sign of the Four</m:P30156>
+      <m:P30083>Project Gutenberg</m:P30083>
+      <bibframe:instanceOf rdf:resource="http://viaf.org/viaf/184892317/eng"/>
+   </bibframe:Instance>
+   <bibframe:Instance rdf:about="http://example.org/999920608327202201">
+      <marc:M001>999920608327202201</marc:M001>
+      <m:P30156>adventures of Sherlock Holmes</m:P30156>
+      <m:P30083>Project Gutenberg</m:P30083>
+      <bibframe:instanceOf rdf:resource="http://viaf.org/viaf/186734487/eng"/>
+   </bibframe:Instance>
+   <bibframe:Instance rdf:about="http://example.org/999920608351302201">
+      <marc:M001>999920608351302201</marc:M001>
+      <m:P30156>Adventure of the Red Circle</m:P30156>
+      <m:P30083>Project Gutenberg</m:P30083>
+      <bibframe:instanceOf rdf:resource="http://www.wikidata.org/entity/q3041819/eng"/>
+   </bibframe:Instance>
+   <bibframe:Instance rdf:about="http://example.org/999920608355902201">
+      <marc:M001>999920608355902201</marc:M001>
+      <m:P30156>Adventure of the Bruce-Partington Plans</m:P30156>
+      <m:P30083>Project Gutenberg</m:P30083>
+      <bibframe:instanceOf rdf:resource="http://www.wikidata.org/entity/q2446784/eng"/>
+   </bibframe:Instance>
+   <bibframe:Instance rdf:about="http://example.org/999920608469302201">
+      <marc:M001>999920608469302201</marc:M001>
+      <m:P30156>Sir Nigel</m:P30156>
+      <m:P30083>Project Gutenberg</m:P30083>
+      <bibframe:instanceOf rdf:resource="http://www.wikidata.org/entity/q1963997/eng"/>
+   </bibframe:Instance>
+   <bibframe:Instance rdf:about="http://example.org/999920608537202201">
+      <marc:M001>999920608537202201</marc:M001>
+      <m:P30156>Crime of the Congo</m:P30156>
+      <m:P30083>Project Gutenberg</m:P30083>
+      <bibframe:instanceOf rdf:resource="http://www.wikidata.org/entity/q22090538/eng"/>
+   </bibframe:Instance>
+   <bibframe:Instance rdf:about="http://example.org/999920608565702201">
+      <marc:M001>999920608565702201</marc:M001>
+      <m:P30156>Study In Scarlet</m:P30156>
+      <m:P30083>Project Gutenberg</m:P30083>
+      <bibframe:instanceOf rdf:resource="http://viaf.org/viaf/179061639/eng"/>
+   </bibframe:Instance>
+   <bibframe:Instance rdf:about="http://example.org/999920608576702201">
+      <marc:M001>999920608576702201</marc:M001>
+      <m:P30156>Rodney Stone</m:P30156>
+      <m:P30083>Project Gutenberg</m:P30083>
+      <bibframe:instanceOf rdf:resource="http://viaf.org/viaf/310211956/eng"/>
+   </bibframe:Instance>
+   <bibframe:Instance rdf:about="http://example.org/999920608592802201">
+      <marc:M001>999920608592802201</marc:M001>
+      <m:P30156>Hound of the Baskervilles</m:P30156>
+      <m:P30083>Project Gutenberg</m:P30083>
+      <bibframe:instanceOf rdf:resource="http://viaf.org/viaf/181625655/eng"/>
+   </bibframe:Instance>
+   <bibframe:Instance rdf:about="http://example.org/999920608617802201">
+      <marc:M001>999920608617802201</marc:M001>
+      <m:P30156>Adventure of the Bruce-Partington Plans</m:P30156>
+      <m:P30083>Project Gutenberg</m:P30083>
+      <bibframe:instanceOf rdf:resource="http://www.wikidata.org/entity/q2446784/eng"/>
+   </bibframe:Instance>
+   <bibframe:Instance rdf:about="http://example.org/999920608618002201">
+      <marc:M001>999920608618002201</marc:M001>
+      <m:P30156>Adventure of the Cardboard Box</m:P30156>
+      <m:P30083>Project Gutenberg</m:P30083>
+      <bibframe:instanceOf rdf:resource="http://viaf.org/viaf/180817010/eng"/>
+   </bibframe:Instance>
+   <bibframe:Instance rdf:about="http://example.org/999920608626402201">
+      <marc:M001>999920608626402201</marc:M001>
+      <m:P30156>Adventure of the Devil's Foot</m:P30156>
+      <m:P30083>Project Gutenberg</m:P30083>
+      <bibframe:instanceOf rdf:resource="http://www.wikidata.org/entity/q2466799/eng"/>
+   </bibframe:Instance>
+   <bibframe:Instance rdf:about="http://example.org/999920608634502201">
+      <marc:M001>999920608634502201</marc:M001>
+      <m:P30156>Hound of the Baskervilles</m:P30156>
+      <m:P30083>Project Gutenberg</m:P30083>
+      <bibframe:instanceOf rdf:resource="http://viaf.org/viaf/181625655/eng"/>
+   </bibframe:Instance>
+   <bibframe:Instance rdf:about="http://example.org/999920608635802201">
+      <marc:M001>999920608635802201</marc:M001>
+      <m:P30156>Sign of the Four</m:P30156>
+      <m:P30083>Project Gutenberg</m:P30083>
+      <bibframe:instanceOf rdf:resource="http://viaf.org/viaf/184892317/eng"/>
+   </bibframe:Instance>
+   <bibframe:Instance rdf:about="http://example.org/999920608645502201">
+      <marc:M001>999920608645502201</marc:M001>
+      <m:P30156>Sign of the Four</m:P30156>
+      <m:P30083>Project Gutenberg</m:P30083>
+      <bibframe:instanceOf rdf:resource="http://viaf.org/viaf/184892317/eng"/>
+   </bibframe:Instance>
+   <bibframe:Instance rdf:about="http://example.org/999920608646602201">
+      <marc:M001>999920608646602201</marc:M001>
+      <m:P30156>Disappearance Of Lady Frances Carfax</m:P30156>
+      <m:P30083>Project Gutenberg</m:P30083>
+      <bibframe:instanceOf rdf:resource="http://www.wikidata.org/entity/q3041826/eng"/>
+   </bibframe:Instance>
+   <bibframe:Instance rdf:about="http://example.org/999920608653802201">
+      <marc:M001>999920608653802201</marc:M001>
+      <m:P30156>Through the Magic Door</m:P30156>
+      <m:P30083>Project Gutenberg</m:P30083>
+      <bibframe:instanceOf rdf:resource="http://viaf.org/viaf/310218668/eng"/>
+   </bibframe:Instance>
+   <bibframe:Instance rdf:about="http://example.org/999920608658002201">
+      <marc:M001>999920608658002201</marc:M001>
+      <m:P30156>adventures of Sherlock Holmes</m:P30156>
+      <m:P30083>Project Gutenberg</m:P30083>
+      <bibframe:instanceOf rdf:resource="http://viaf.org/viaf/186734487/eng"/>
+   </bibframe:Instance>
+   <bibframe:Instance rdf:about="http://example.org/999920608667302201">
+      <marc:M001>999920608667302201</marc:M001>
+      <m:P30156>adventures of Sherlock Holmes</m:P30156>
+      <m:P30083>Project Gutenberg</m:P30083>
+      <bibframe:instanceOf rdf:resource="http://viaf.org/viaf/186734487/eng"/>
+   </bibframe:Instance>
+   <bibframe:Instance rdf:about="http://example.org/999920608668102201">
+      <marc:M001>999920608668102201</marc:M001>
+      <m:P30156>adventures of Gerard</m:P30156>
+      <m:P30083>Project Gutenberg</m:P30083>
+      <bibframe:instanceOf rdf:resource="http://viaf.org/viaf/6035152865746704940001/eng"/>
+   </bibframe:Instance>
+   <bibframe:Instance rdf:about="http://example.org/999920608670302201">
+      <marc:M001>999920608670302201</marc:M001>
+      <m:P30156>lost world</m:P30156>
+      <m:P30083>Project Gutenberg</m:P30083>
+      <bibframe:instanceOf rdf:resource="http://viaf.org/viaf/294145857904223021237/eng"/>
+   </bibframe:Instance>
+   <bibframe:Instance rdf:about="http://example.org/999920608679802201">
+      <marc:M001>999920608679802201</marc:M001>
+      <m:P30156>White Company</m:P30156>
+      <m:P30083>Project Gutenberg</m:P30083>
+      <bibframe:instanceOf rdf:resource="http://viaf.org/viaf/3904151051822033530005/eng"/>
+   </bibframe:Instance>
+   <bibframe:Instance rdf:about="http://example.org/999920608690202201">
+      <marc:M001>999920608690202201</marc:M001>
+      <m:P30156>Round the Red Lamp</m:P30156>
+      <m:P30083>Project Gutenberg</m:P30083>
+      <bibframe:instanceOf rdf:resource="http://www.wikidata.org/entity/q3492113/eng"/>
+   </bibframe:Instance>
+   <bibframe:Instance rdf:about="http://example.org/999920608765702201">
+      <marc:M001>999920608765702201</marc:M001>
+      <m:P30156>Adventure of the Red Circle</m:P30156>
+      <m:P30083>Project Gutenberg</m:P30083>
+      <bibframe:instanceOf rdf:resource="http://www.wikidata.org/entity/q3041819/eng"/>
+   </bibframe:Instance>
+   <bibframe:Instance rdf:about="http://example.org/999920608770802201">
+      <marc:M001>999920608770802201</marc:M001>
+      <m:P30156>Hound of the Baskervilles</m:P30156>
+      <m:P30083>Project Gutenberg</m:P30083>
+      <bibframe:instanceOf rdf:resource="http://viaf.org/viaf/181625655/eng"/>
+   </bibframe:Instance>
+   <bibframe:Instance rdf:about="http://example.org/999920608771502201">
+      <marc:M001>999920608771502201</marc:M001>
+      <m:P30156>Sir Nigel</m:P30156>
+      <m:P30083>Project Gutenberg</m:P30083>
+      <bibframe:instanceOf rdf:resource="http://www.wikidata.org/entity/q1963997/eng"/>
+   </bibframe:Instance>
+   <bibframe:Instance rdf:about="http://example.org/999920608774202201">
+      <marc:M001>999920608774202201</marc:M001>
+      <m:P30156>Rodney Stone</m:P30156>
+      <m:P30083>Project Gutenberg</m:P30083>
+      <bibframe:instanceOf rdf:resource="http://viaf.org/viaf/310211956/eng"/>
+   </bibframe:Instance>
+   <bibframe:Instance rdf:about="http://example.org/999920608779602201">
+      <marc:M001>999920608779602201</marc:M001>
+      <m:P30156>Through the Magic Door</m:P30156>
+      <m:P30083>Project Gutenberg</m:P30083>
+      <bibframe:instanceOf rdf:resource="http://viaf.org/viaf/310218668/eng"/>
+   </bibframe:Instance>
+   <bibframe:Instance rdf:about="http://example.org/999920608786702201">
+      <marc:M001>999920608786702201</marc:M001>
+      <m:P30156>His Last Bow</m:P30156>
+      <m:P30083>Project Gutenberg</m:P30083>
+      <bibframe:instanceOf rdf:resource="http://viaf.org/viaf/1390154501894339210002/eng"/>
+   </bibframe:Instance>
+   <bibframe:Instance rdf:about="http://example.org/999920608794402201">
+      <marc:M001>999920608794402201</marc:M001>
+      <m:P30156>Parasite</m:P30156>
+      <m:P30083>Project Gutenberg</m:P30083>
+      <bibframe:instanceOf rdf:resource="http://www.wikidata.org/entity/q5295669/eng"/>
+   </bibframe:Instance>
+   <bibframe:Instance rdf:about="http://example.org/999920608794802201">
+      <marc:M001>999920608794802201</marc:M001>
+      <m:P30156>Memoirs of Sherlock Holmes</m:P30156>
+      <m:P30083>Project Gutenberg</m:P30083>
+      <bibframe:instanceOf rdf:resource="http://www.wikidata.org/entity/q860831/eng"/>
+   </bibframe:Instance>
+   <bibframe:Instance rdf:about="urn:isbn:0140437711">
+      <marc:M001>999920556110202201</marc:M001>
+      <m:P30004>urn:isbn:0140437711</m:P30004>
+      <m:P30156>Noble Bachelor (Penguin Classics)</m:P30156>
+      <m:P30083>Penguin</m:P30083>
+      <bibframe:instanceOf rdf:resource="http://viaf.org/viaf/3283155226707084490002/eng"/>
+   </bibframe:Instance>
+   <bibframe:Instance rdf:about="urn:isbn:014043786">
+      <marc:M001>999920557276602201</marc:M001>
+      <m:P30004>urn:isbn:014043786</m:P30004>
+      <m:P30156>Hound of the Baskervilles (Penguin Classics)</m:P30156>
+      <m:P30083>Penguin</m:P30083>
+      <bibframe:instanceOf rdf:resource="http://viaf.org/viaf/181625655/eng"/>
+   </bibframe:Instance>
+   <bibframe:Instance rdf:about="urn:isbn:0140439072">
+      <marc:M001>999920557276702201</marc:M001>
+      <m:P30004>urn:isbn:0140439072</m:P30004>
+      <m:P30156>Sign of Four (Penguin Classics)</m:P30156>
+      <m:P30083>Penquin</m:P30083>
+      <bibframe:instanceOf rdf:resource="http://viaf.org/viaf/184892317/eng"/>
+   </bibframe:Instance>
+   <bibframe:Instance rdf:about="urn:isbn:0585007942">
+      <marc:M001>999919921515602201</marc:M001>
+      <m:P30004>urn:isbn:0585007942</m:P30004>
+      <m:P30156>Memoirs Of Sherlock Holmes</m:P30156>
+      <m:P30083>Project Gutenberg ; NetLibrary</m:P30083>
+      <bibframe:instanceOf rdf:resource="http://www.wikidata.org/entity/q860831/eng"/>
+   </bibframe:Instance>
+   <bibframe:Instance rdf:about="urn:isbn:0585012709">
+      <marc:M001>999919921489102201</marc:M001>
+      <m:P30004>urn:isbn:0585012709</m:P30004>
+      <m:P30156>The Adventures Of Gerard</m:P30156>
+      <m:P30083>Project Gutenberg ; NetLibrary</m:P30083>
+      <bibframe:instanceOf rdf:resource="http://viaf.org/viaf/6035152865746704940001/eng"/>
+   </bibframe:Instance>
+   <bibframe:Instance rdf:about="urn:isbn:0585013047">
+      <marc:M001>999919921491902201</marc:M001>
+      <m:P30004>urn:isbn:0585013047</m:P30004>
+      <m:P30156>The Adventures Of Sherlock Holmes</m:P30156>
+      <m:P30083>Project Gutenberg ; NetLibrary</m:P30083>
+      <bibframe:instanceOf rdf:resource="http://viaf.org/viaf/186734487/eng"/>
+   </bibframe:Instance>
+   <bibframe:Instance rdf:about="urn:isbn:0585015716">
+      <marc:M001>999919921484702201</marc:M001>
+      <m:P30004>urn:isbn:0585015716</m:P30004>
+      <m:P30156>A Study In Scarlet</m:P30156>
+      <m:P30083>Project Gutenberg ; NetLibrary</m:P30083>
+      <bibframe:instanceOf rdf:resource="http://viaf.org/viaf/179061639/eng"/>
+   </bibframe:Instance>
+   <bibframe:Instance rdf:about="urn:isbn:0585017700">
+      <marc:M001>999919921597602201</marc:M001>
+      <m:P30004>urn:isbn:0585017700</m:P30004>
+      <m:P30156>The Return Of Sherlock Holmes</m:P30156>
+      <m:P30083>Project Gutenberg ; NetLibrary</m:P30083>
+      <bibframe:instanceOf rdf:resource="http://www.wikidata.org/entity/q725752/eng"/>
+   </bibframe:Instance>
+   <bibframe:Instance rdf:about="urn:isbn:0585065330">
+      <marc:M001>999919921868902201</marc:M001>
+      <m:P30004>urn:isbn:0585065330</m:P30004>
+      <m:P30156>The Case Book Of Sherlock Holmes</m:P30156>
+      <m:P30083>Alex Catalogue ; NetLibrary</m:P30083>
+      <bibframe:instanceOf rdf:resource="http://www.wikidata.org/entity/q1129378/eng"/>
+   </bibframe:Instance>
+   <bibframe:Instance rdf:about="urn:isbn:0585099448">
+      <marc:M001>999919921725602201</marc:M001>
+      <m:P30004>urn:isbn:0585099448</m:P30004>
+      <m:P30156>The Hound Of The Baskervilles</m:P30156>
+      <m:P30083>Alex Catalogue ; NetLibrary</m:P30083>
+      <bibframe:instanceOf rdf:resource="http://viaf.org/viaf/181625655/eng"/>
+   </bibframe:Instance>
+   <bibframe:Instance rdf:about="urn:isbn:0585099456">
+      <marc:M001>999919921726702201</marc:M001>
+      <m:P30004>urn:isbn:0585099456</m:P30004>
+      <m:P30156>Sign Of Four</m:P30156>
+      <m:P30083>Alex Catalogue ; NetLibrary</m:P30083>
+      <bibframe:instanceOf rdf:resource="http://viaf.org/viaf/184892317/eng"/>
+   </bibframe:Instance>
+   <bibframe:Instance rdf:about="urn:isbn:0585099464">
+      <marc:M001>999919921726502201</marc:M001>
+      <m:P30004>urn:isbn:0585099464</m:P30004>
+      <m:P30156>Through The Magic Door</m:P30156>
+      <m:P30083>Alex Catalogue ; NetLibrary</m:P30083>
+      <bibframe:instanceOf rdf:resource="http://viaf.org/viaf/310218668/eng"/>
+   </bibframe:Instance>
+   <bibframe:Instance rdf:about="urn:isbn:0585099472">
+      <marc:M001>999919921726302201</marc:M001>
+      <m:P30004>urn:isbn:0585099472</m:P30004>
+      <m:P30156>Valley Of Fear</m:P30156>
+      <m:P30083>Alex Catalogue ; NetLibrary</m:P30083>
+      <bibframe:instanceOf rdf:resource="http://viaf.org/viaf/175571309/eng"/>
+   </bibframe:Instance>
+   <bibframe:Instance rdf:about="urn:isbn:0585099480">
+      <marc:M001>999919921726202201</marc:M001>
+      <m:P30004>urn:isbn:0585099480</m:P30004>
+      <m:P30156>His Last Bow</m:P30156>
+      <m:P30083>Alex Catalogue ; NetLibrary</m:P30083>
+      <bibframe:instanceOf rdf:resource="http://viaf.org/viaf/1390154501894339210002/eng"/>
+   </bibframe:Instance>
+   <bibframe:Instance rdf:about="urn:isbn:058510400">
+      <marc:M001>999919921856202201</marc:M001>
+      <m:P30004>urn:isbn:058510400</m:P30004>
+      <m:P30156>The Poison Belt</m:P30156>
+      <m:P30083>Project Gutenberg ; NetLibrary</m:P30083>
+      <bibframe:instanceOf rdf:resource="http://www.wikidata.org/entity/q2660166/eng"/>
+   </bibframe:Instance>
+   <bibframe:Instance rdf:about="urn:isbn:0585104085">
+      <marc:M001>999919921858302201</marc:M001>
+      <m:P30004>urn:isbn:0585104085</m:P30004>
+      <m:P30156>The Stark Munro Letters</m:P30156>
+      <m:P30083>Project Gutenberg ; NetLibrary</m:P30083>
+      <bibframe:instanceOf rdf:resource="http://www.wikidata.org/entity/q5295849/eng"/>
+   </bibframe:Instance>
+   <bibframe:Instance rdf:about="urn:isbn:0585215766">
+      <marc:M001>999919921796702201</marc:M001>
+      <m:P30004>urn:isbn:0585215766</m:P30004>
+      <m:P30156>Beyond The City</m:P30156>
+      <m:P30083>University of Virginia Library ; NetLibrary</m:P30083>
+      <bibframe:instanceOf rdf:resource="http://viaf.org/viaf/181810457/eng"/>
+   </bibframe:Instance>
+   <bibframe:Instance rdf:about="urn:isbn:0585215782">
+      <marc:M001>999919921796502201</marc:M001>
+      <m:P30004>urn:isbn:0585215782</m:P30004>
+      <m:P30156>Parasite</m:P30156>
+      <m:P30083>University of Virginia Library ; NetLibrary</m:P30083>
+      <bibframe:instanceOf rdf:resource="http://www.wikidata.org/entity/q5295669/eng"/>
+   </bibframe:Instance>
+   <bibframe:Instance rdf:about="urn:isbn:0585215790">
+      <marc:M001>999919921797102201</marc:M001>
+      <m:P30004>urn:isbn:0585215790</m:P30004>
+      <m:P30156>White Company</m:P30156>
+      <m:P30083>University of Virginia Library ; NetLibrary</m:P30083>
+      <bibframe:instanceOf rdf:resource="http://viaf.org/viaf/3904151051822033530005/eng"/>
+   </bibframe:Instance>
+   <bibframe:Instance rdf:about="urn:isbn:0585222266">
+      <marc:M001>999919921683802201</marc:M001>
+      <m:P30004>urn:isbn:0585222266</m:P30004>
+      <m:P30156>Round The Red Lamp</m:P30156>
+      <m:P30083>University of Virginia Library ; NetLibrary</m:P30083>
+      <bibframe:instanceOf rdf:resource="http://www.wikidata.org/entity/q3492113/eng"/>
+   </bibframe:Instance>
+   <bibframe:Instance rdf:about="urn:isbn:0585222274">
+      <marc:M001>999919921684302201</marc:M001>
+      <m:P30004>urn:isbn:0585222274</m:P30004>
+      <m:P30156>Lost World</m:P30156>
+      <m:P30083>University of Virginia Library ; NetLibrary</m:P30083>
+      <bibframe:instanceOf rdf:resource="http://viaf.org/viaf/294145857904223021237/eng"/>
+   </bibframe:Instance>
+   <bibframe:Instance rdf:about="urn:isbn:0585233551">
+      <marc:M001>999919921970702201</marc:M001>
+      <m:P30004>urn:isbn:0585233551</m:P30004>
+      <m:P30156>Adventure Of Silver Blaze</m:P30156>
+      <m:P30083>University of Virginia Library ; NetLibrary</m:P30083>
+      <bibframe:instanceOf rdf:resource="http://www.wikidata.org/entity/q1151761/eng"/>
+   </bibframe:Instance>
+   <bibframe:Person rdf:about="http://viaf.org/viaf/65283845">
+      <a:P50094>http://viaf.org/viaf/65283845</a:P50094>
+      <a:P50111>Doyle, Arthur Conan</a:P50111>
+      <a:P50107>1859-1930</a:P50107>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/310218668/eng"/>
+      <a:P50195 rdf:resource="http://www.wikidata.org/entity/q2660166/eng"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/294145857904223021237/eng"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/1390154501894339210002/eng"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/6035152865746704940001/eng"/>
+      <a:P50195 rdf:resource="http://www.wikidata.org/entity/q19086389/eng"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/181625655/eng"/>
+      <a:P50195 rdf:resource="http://www.wikidata.org/entity/q725752/eng"/>
+      <a:P50195 rdf:resource="http://www.wikidata.org/entity/q2466799/eng"/>
+      <a:P50195 rdf:resource="http://www.wikidata.org/entity/q5295669/eng"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/310211956/eng"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/179061639/eng"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/175571309/eng"/>
+      <a:P50195 rdf:resource="http://www.wikidata.org/entity/q2446784/eng"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/180817010/eng"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/184892317/eng"/>
+      <a:P50195 rdf:resource="http://www.wikidata.org/entity/q3041819/eng"/>
+      <a:P50195 rdf:resource="http://www.wikidata.org/entity/q1963997/eng"/>
+      <a:P50195 rdf:resource="http://www.wikidata.org/entity/q3041826/eng"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/186734487/eng"/>
+      <a:P50195 rdf:resource="http://www.wikidata.org/entity/q5295849/eng"/>
+      <a:P50195 rdf:resource="http://www.wikidata.org/entity/q860831/eng"/>
+      <a:P50195 rdf:resource="http://www.wikidata.org/entity/q1151761/eng"/>
+      <a:P50195 rdf:resource="http://www.wikidata.org/entity/q1129378/eng"/>
+      <a:P50195 rdf:resource="http://www.wikidata.org/entity/q22090538/eng"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/179668970/eng"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/3283155226707084490002/eng"/>
+      <a:P50195 rdf:resource="http://www.wikidata.org/entity/q3492113/eng"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/181810457/eng"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/206144898662550290126/eng"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/3904151051822033530005/eng"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/174141344"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/174141344/nob/nob"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/309272292/eng"/>
+   </bibframe:Person>
+   <bibframe:Work rdf:about="http://viaf.org/viaf/1390154501894339210002/eng">
+      <e:P20006>eng</e:P20006>
+      <w:P10002>http://viaf.org/viaf/1390154501894339210002</w:P10002>
+      <w:P10088>His last Bow</w:P10088>
+      <w:P10088>His Last Bow</w:P10088>
+      <bibframe:hasInstance rdf:resource="http://example.org/999920608219902201"/>
+      <bibframe:hasInstance rdf:resource="urn:isbn:0585099480"/>
+      <bibframe:hasInstance rdf:resource="http://example.org/999920608786702201"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
+   </bibframe:Work>
+   <bibframe:Work rdf:about="http://viaf.org/viaf/174141344">
+      <w:P10002>http://viaf.org/viaf/174141344</w:P10002>
+      <w:P10088>Sherlock Holmes</w:P10088>
+      <bibframe:translation rdf:resource="http://viaf.org/viaf/174141344/nob/nob"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
+   </bibframe:Work>
+   <bibframe:Work rdf:about="http://viaf.org/viaf/174141344/nob/nob">
+      <e:P20006>nob</e:P20006>
+      <w:P10002>http://viaf.org/viaf/174141344/nob</w:P10002>
+      <w:P10088>Sherlock Holmes</w:P10088>
+      <w:P10088>komedie i 2 akter</w:P10088>
+      <w:P30117>av Sir Arthur Conan Doyle og William Gillette ; oversatt av Nils Nordberg</w:P30117>
+      <bibframe:hasInstance rdf:resource="http://example.org/991427867644702201"/>
+      <bibframe:translationOf rdf:resource="http://viaf.org/viaf/174141344"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
+   </bibframe:Work>
+   <bibframe:Work rdf:about="http://viaf.org/viaf/175571309/eng">
+      <e:P20006>eng</e:P20006>
+      <w:P10002>http://viaf.org/viaf/175571309</w:P10002>
+      <w:P10088>The Valley of Fear</w:P10088>
+      <w:P10088>Valley of Fear</w:P10088>
+      <w:P10088>Valley Of Fear</w:P10088>
+      <bibframe:hasInstance rdf:resource="http://example.org/999920608222402201"/>
+      <bibframe:hasInstance rdf:resource="http://example.org/999920608215902201"/>
+      <bibframe:hasInstance rdf:resource="urn:isbn:0585099472"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
+   </bibframe:Work>
+   <bibframe:Work rdf:about="http://viaf.org/viaf/179061639/eng">
+      <e:P20006>eng</e:P20006>
+      <w:P10002>http://viaf.org/viaf/179061639</w:P10002>
+      <w:P10088>A Study in Scarlet</w:P10088>
+      <w:P10088>A Study In Scarlet</w:P10088>
+      <w:P10088>Study In Scarlet</w:P10088>
+      <bibframe:hasInstance rdf:resource="urn:isbn:0585015716"/>
+      <bibframe:hasInstance rdf:resource="http://example.org/999920608565702201"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
+   </bibframe:Work>
+   <bibframe:Work rdf:about="http://viaf.org/viaf/179668970/eng">
+      <e:P20006>eng</e:P20006>
+      <w:P10002>http://viaf.org/viaf/179668970</w:P10002>
+      <w:P10088>The Tragedy of the Korosko</w:P10088>
+      <w:P10088>Desert Drama: Being The Tragedy Of The ""Korosko""</w:P10088>
+      <w:P10088>Tragedy of The Korosko</w:P10088>
+      <bibframe:hasInstance rdf:resource="http://example.org/999920605580102201"/>
+      <bibframe:hasInstance rdf:resource="http://example.org/999920608165702201"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
+   </bibframe:Work>
+   <bibframe:Work rdf:about="http://viaf.org/viaf/180817010/eng">
+      <e:P20006>eng</e:P20006>
+      <w:P10002>http://viaf.org/viaf/180817010</w:P10002>
+      <w:P10088>Adventure of the Cardboard Box</w:P10088>
+      <bibframe:hasInstance rdf:resource="http://example.org/999920608252402201"/>
+      <bibframe:hasInstance rdf:resource="http://example.org/999920608618002201"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
+   </bibframe:Work>
+   <bibframe:Work rdf:about="http://viaf.org/viaf/181625655/eng">
+      <e:P20006>eng</e:P20006>
+      <w:P10002>http://viaf.org/viaf/181625655</w:P10002>
+      <w:P10088>The Hound of the Baskervilles</w:P10088>
+      <w:P10088>Hound of the Baskervilles (Penguin Classics)</w:P10088>
+      <w:P10088>The Hound Of The Baskervilles</w:P10088>
+      <w:P10088>Hound of the Baskervilles</w:P10088>
+      <w:P10088>Baskervillen koira</w:P10088>
+      <w:P10088>Tajemnica Baskerville'ów dziwne przygody Sherlocka Holmes</w:P10088>
+      <bibframe:hasInstance rdf:resource="urn:isbn:014043786"/>
+      <bibframe:hasInstance rdf:resource="urn:isbn:0585099448"/>
+      <bibframe:hasInstance rdf:resource="http://example.org/999920608770802201"/>
+      <bibframe:hasInstance rdf:resource="http://example.org/999920605704302201"/>
+      <bibframe:hasInstance rdf:resource="http://example.org/999920606918902201"/>
+      <bibframe:hasInstance rdf:resource="http://example.org/999920608634502201"/>
+      <bibframe:hasInstance rdf:resource="http://example.org/999920608592802201"/>
+      <bibframe:hasInstance rdf:resource="http://example.org/999920608096302201"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
+   </bibframe:Work>
+   <bibframe:Work rdf:about="http://viaf.org/viaf/181810457/eng">
+      <e:P20006>eng</e:P20006>
+      <w:P10002>http://viaf.org/viaf/181810457</w:P10002>
+      <w:P10088>Beyond The City</w:P10088>
+      <bibframe:hasInstance rdf:resource="urn:isbn:0585215766"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
+   </bibframe:Work>
+   <bibframe:Work rdf:about="http://viaf.org/viaf/184892317/eng">
+      <e:P20006>eng</e:P20006>
+      <w:P10002>http://viaf.org/viaf/184892317</w:P10002>
+      <w:P10088>The Sign of the Four</w:P10088>
+      <w:P10088>Sign Of Four</w:P10088>
+      <w:P10088>Sign of the Four</w:P10088>
+      <w:P10088>Sign of Four (Penguin Classics)</w:P10088>
+      <bibframe:hasInstance rdf:resource="urn:isbn:0585099456"/>
+      <bibframe:hasInstance rdf:resource="http://example.org/999920608645502201"/>
+      <bibframe:hasInstance rdf:resource="http://example.org/999920608635802201"/>
+      <bibframe:hasInstance rdf:resource="http://example.org/999920608263302201"/>
+      <bibframe:hasInstance rdf:resource="http://example.org/999920608263202201"/>
+      <bibframe:hasInstance rdf:resource="urn:isbn:0140439072"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
+   </bibframe:Work>
+   <bibframe:Work rdf:about="http://viaf.org/viaf/186734487/eng">
+      <e:P20006>eng</e:P20006>
+      <w:P10002>http://viaf.org/viaf/186734487</w:P10002>
+      <w:P10088>The adventures of Sherlock Holmes</w:P10088>
+      <w:P10088>adventures of Sherlock Holmes</w:P10088>
+      <w:P10088>The Adventures Of Sherlock Holmes</w:P10088>
+      <bibframe:hasInstance rdf:resource="http://example.org/999920608327202201"/>
+      <bibframe:hasInstance rdf:resource="http://example.org/999920608667302201"/>
+      <bibframe:hasInstance rdf:resource="http://example.org/999920608658002201"/>
+      <bibframe:hasInstance rdf:resource="urn:isbn:0585013047"/>
+      <bibframe:hasInstance rdf:resource="http://example.org/999920607999002201"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
+   </bibframe:Work>
+   <bibframe:Work rdf:about="http://viaf.org/viaf/206144898662550290126/eng">
+      <e:P20006>eng</e:P20006>
+      <w:P10002>http://viaf.org/viaf/206144898662550290126</w:P10002>
+      <w:P10088>Uncle Bernac</w:P10088>
+      <w:P10088>Uncle Bernac A Memory of the Empire</w:P10088>
+      <bibframe:hasInstance rdf:resource="http://example.org/999920608155302201"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
+   </bibframe:Work>
+   <bibframe:Work rdf:about="http://viaf.org/viaf/294145857904223021237/eng">
+      <e:P20006>eng</e:P20006>
+      <w:P10002>http://viaf.org/viaf/294145857904223021237</w:P10002>
+      <w:P10088>The Lost World</w:P10088>
+      <w:P10088>Lost World</w:P10088>
+      <w:P10088>lost world</w:P10088>
+      <bibframe:hasInstance rdf:resource="urn:isbn:0585222274"/>
+      <bibframe:hasInstance rdf:resource="http://example.org/999920608670302201"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
+   </bibframe:Work>
+   <bibframe:Work rdf:about="http://viaf.org/viaf/309272292/eng">
+      <e:P20006>eng</e:P20006>
+      <w:P10002>http://viaf.org/viaf/309272292</w:P10002>
+      <w:P10088>The Doings of Raffles Haw</w:P10088>
+      <w:P10088>Doings Of Raffles Haw</w:P10088>
+      <bibframe:hasInstance rdf:resource="http://example.org/999920608207302201"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
+   </bibframe:Work>
+   <bibframe:Work rdf:about="http://viaf.org/viaf/310211956/eng">
+      <e:P20006>eng</e:P20006>
+      <w:P10002>http://viaf.org/viaf/310211956</w:P10002>
+      <w:P10088>Rodney Stone</w:P10088>
+      <bibframe:hasInstance rdf:resource="http://example.org/999920608774202201"/>
+      <bibframe:hasInstance rdf:resource="http://example.org/999920608576702201"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
+   </bibframe:Work>
+   <bibframe:Work rdf:about="http://viaf.org/viaf/310218668/eng">
+      <e:P20006>eng</e:P20006>
+      <w:P10002>http://viaf.org/viaf/310218668</w:P10002>
+      <w:P10088>Through the Magic Door</w:P10088>
+      <w:P10088>Through the magic door</w:P10088>
+      <w:P10088>Through The Magic Door</w:P10088>
+      <bibframe:hasInstance rdf:resource="http://example.org/999920608779602201"/>
+      <bibframe:hasInstance rdf:resource="http://example.org/999920608653802201"/>
+      <bibframe:hasInstance rdf:resource="http://example.org/999422486004702201"/>
+      <bibframe:hasInstance rdf:resource="urn:isbn:0585099464"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
+   </bibframe:Work>
+   <bibframe:Work rdf:about="http://viaf.org/viaf/3283155226707084490002/eng">
+      <e:P20006>eng</e:P20006>
+      <w:P10002>http://viaf.org/viaf/3283155226707084490002</w:P10002>
+      <w:P10088>Noble Bachelor (Penguin Classics)</w:P10088>
+      <bibframe:hasInstance rdf:resource="urn:isbn:0140437711"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
+   </bibframe:Work>
+   <bibframe:Work rdf:about="http://viaf.org/viaf/3904151051822033530005/eng">
+      <e:P20006>eng</e:P20006>
+      <w:P10002>http://viaf.org/viaf/3904151051822033530005</w:P10002>
+      <w:P10088>The White Company</w:P10088>
+      <w:P10088>White Company</w:P10088>
+      <bibframe:hasInstance rdf:resource="urn:isbn:0585215790"/>
+      <bibframe:hasInstance rdf:resource="http://example.org/999920608679802201"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
+   </bibframe:Work>
+   <bibframe:Work rdf:about="http://viaf.org/viaf/6035152865746704940001/eng">
+      <e:P20006>eng</e:P20006>
+      <w:P10002>http://viaf.org/viaf/6035152865746704940001</w:P10002>
+      <w:P10088>The Adventures Of Gerard</w:P10088>
+      <w:P10088>adventures of Gerard</w:P10088>
+      <bibframe:hasInstance rdf:resource="urn:isbn:0585012709"/>
+      <bibframe:hasInstance rdf:resource="http://example.org/999920608114102201"/>
+      <bibframe:hasInstance rdf:resource="http://example.org/999920608668102201"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
+   </bibframe:Work>
+   <bibframe:Work rdf:about="http://www.wikidata.org/entity/q1129378/eng">
+      <e:P20006>eng</e:P20006>
+      <w:P10002>http://www.wikidata.org/entity/Q1129378</w:P10002>
+      <w:P10088>The Case-Book of Sherlock Holmes</w:P10088>
+      <w:P10088>The Case Book Of Sherlock Holmes</w:P10088>
+      <bibframe:hasInstance rdf:resource="urn:isbn:0585065330"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
+   </bibframe:Work>
+   <bibframe:Work rdf:about="http://www.wikidata.org/entity/q1151761/eng">
+      <e:P20006>eng</e:P20006>
+      <w:P10002>http://www.wikidata.org/entity/Q1151761</w:P10002>
+      <w:P10088>The Adventure of Silver Blaze</w:P10088>
+      <w:P10088>Adventure Of Silver Blaze</w:P10088>
+      <bibframe:hasInstance rdf:resource="urn:isbn:0585233551"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
+   </bibframe:Work>
+   <bibframe:Work rdf:about="http://www.wikidata.org/entity/q19086389/eng">
+      <e:P20006>eng</e:P20006>
+      <w:P10002>http://www.wikidata.org/entity/Q19086389</w:P10002>
+      <w:P10088>The Exploits of Brigadier Gerard</w:P10088>
+      <w:P10088>Exploits Of Brigadier Gerard</w:P10088>
+      <bibframe:hasInstance rdf:resource="http://example.org/999920608180002201"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
+   </bibframe:Work>
+   <bibframe:Work rdf:about="http://www.wikidata.org/entity/q1963997/eng">
+      <e:P20006>eng</e:P20006>
+      <w:P10002>http://www.wikidata.org/entity/Q1963997</w:P10002>
+      <w:P10088>Sir Nigel</w:P10088>
+      <bibframe:hasInstance rdf:resource="http://example.org/999920608771502201"/>
+      <bibframe:hasInstance rdf:resource="http://example.org/999920608469302201"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
+   </bibframe:Work>
+   <bibframe:Work rdf:about="http://www.wikidata.org/entity/q22090538/eng">
+      <e:P20006>eng</e:P20006>
+      <w:P10002>http://www.wikidata.org/entity/Q22090538</w:P10002>
+      <w:P10088>The Crime of the Congo</w:P10088>
+      <w:P10088>Crime of the Congo</w:P10088>
+      <bibframe:hasInstance rdf:resource="http://example.org/999920608537202201"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
+   </bibframe:Work>
+   <bibframe:Work rdf:about="http://www.wikidata.org/entity/q2446784/eng">
+      <e:P20006>eng</e:P20006>
+      <w:P10002>http://www.wikidata.org/entity/Q2446784</w:P10002>
+      <w:P10088>The Adventure of the Bruce-Partington Plans</w:P10088>
+      <w:P10088>Adventure of the Bruce-Partington Plans</w:P10088>
+      <bibframe:hasInstance rdf:resource="http://example.org/999920608355902201"/>
+      <bibframe:hasInstance rdf:resource="http://example.org/999920608617802201"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
+   </bibframe:Work>
+   <bibframe:Work rdf:about="http://www.wikidata.org/entity/q2466799/eng">
+      <e:P20006>eng</e:P20006>
+      <w:P10002>http://www.wikidata.org/entity/Q2466799</w:P10002>
+      <w:P10088>The Adventure of the Devil's Foot</w:P10088>
+      <w:P10088>Adventure of the Devil's Foot</w:P10088>
+      <bibframe:hasInstance rdf:resource="http://example.org/999920608252602201"/>
+      <bibframe:hasInstance rdf:resource="http://example.org/999920608626402201"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
+   </bibframe:Work>
+   <bibframe:Work rdf:about="http://www.wikidata.org/entity/q2660166/eng">
+      <e:P20006>eng</e:P20006>
+      <w:P10002>http://www.wikidata.org/entity/Q2660166</w:P10002>
+      <w:P10088>The Poison Belt</w:P10088>
+      <bibframe:hasInstance rdf:resource="urn:isbn:058510400"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
+   </bibframe:Work>
+   <bibframe:Work rdf:about="http://www.wikidata.org/entity/q3041819/eng">
+      <e:P20006>eng</e:P20006>
+      <w:P10002>http://www.wikidata.org/entity/Q3041819</w:P10002>
+      <w:P10088>The Adventure of the Red Circle</w:P10088>
+      <w:P10088>Adventure of the Red Circle</w:P10088>
+      <bibframe:hasInstance rdf:resource="http://example.org/999920608765702201"/>
+      <bibframe:hasInstance rdf:resource="http://example.org/999920608351302201"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
+   </bibframe:Work>
+   <bibframe:Work rdf:about="http://www.wikidata.org/entity/q3041826/eng">
+      <e:P20006>eng</e:P20006>
+      <w:P10002>http://www.wikidata.org/entity/Q3041826</w:P10002>
+      <w:P10088>The Disappearance of Lady Frances Carfax</w:P10088>
+      <w:P10088>Disappearance Of Lady Frances Carfax</w:P10088>
+      <bibframe:hasInstance rdf:resource="http://example.org/999920608104802201"/>
+      <bibframe:hasInstance rdf:resource="http://example.org/999920608646602201"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
+   </bibframe:Work>
+   <bibframe:Work rdf:about="http://www.wikidata.org/entity/q3492113/eng">
+      <e:P20006>eng</e:P20006>
+      <w:P10002>http://www.wikidata.org/entity/Q3492113</w:P10002>
+      <w:P10088>Round the Red Lamp</w:P10088>
+      <w:P10088>Round The Red Lamp</w:P10088>
+      <bibframe:hasInstance rdf:resource="urn:isbn:0585222266"/>
+      <bibframe:hasInstance rdf:resource="http://example.org/999920608690202201"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
+   </bibframe:Work>
+   <bibframe:Work rdf:about="http://www.wikidata.org/entity/q5295669/eng">
+      <e:P20006>eng</e:P20006>
+      <w:P10002>http://www.wikidata.org/entity/Q5295669</w:P10002>
+      <w:P10088>The Parasite</w:P10088>
+      <w:P10088>Parasite</w:P10088>
+      <bibframe:hasInstance rdf:resource="http://example.org/999920608794402201"/>
+      <bibframe:hasInstance rdf:resource="http://example.org/999920608038302201"/>
+      <bibframe:hasInstance rdf:resource="urn:isbn:0585215782"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
+   </bibframe:Work>
+   <bibframe:Work rdf:about="http://www.wikidata.org/entity/q5295849/eng">
+      <e:P20006>eng</e:P20006>
+      <w:P10002>http://www.wikidata.org/entity/Q5295849</w:P10002>
+      <w:P10088>The Stark Munro Letters</w:P10088>
+      <bibframe:hasInstance rdf:resource="urn:isbn:0585104085"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
+   </bibframe:Work>
+   <bibframe:Work rdf:about="http://www.wikidata.org/entity/q725752/eng">
+      <e:P20006>eng</e:P20006>
+      <w:P10002>http://www.wikidata.org/entity/Q725752</w:P10002>
+      <w:P10088>The Return of Sherlock Holmes</w:P10088>
+      <w:P10088>The Return Of Sherlock Holmes</w:P10088>
+      <bibframe:hasInstance rdf:resource="urn:isbn:0585017700"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
+   </bibframe:Work>
+   <bibframe:Work rdf:about="http://www.wikidata.org/entity/q860831/eng">
+      <e:P20006>eng</e:P20006>
+      <w:P10002>http://www.wikidata.org/entity/Q860831</w:P10002>
+      <w:P10088>The Memoirs of Sherlock Holmes</w:P10088>
+      <w:P10088>Memoirs Of Sherlock Holmes</w:P10088>
+      <w:P10088>Memoirs of Sherlock Holmes</w:P10088>
+      <bibframe:hasInstance rdf:resource="urn:isbn:0585007942"/>
+      <bibframe:hasInstance rdf:resource="http://example.org/999920608794802201"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
+   </bibframe:Work>
+</rdf:RDF>

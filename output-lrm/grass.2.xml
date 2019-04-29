@@ -42,6 +42,7 @@
       <w:P10061 rdf:resource="http://viaf.org/viaf/102319859"/>
       <w:P10078 rdf:resource="http://oslomet.workid.no/gg/06/ger/text"/>
       <w:P10078 rdf:resource="http://oslomet.workid.no/gg/06/ger/gesprocheneswort"/>
+      <w:P10078 rdf:resource="http://oslomet.workid.no/gg/06/eng/text"/>
    </c:C10001>
    <c:C10001 rdf:about="http://oslomet.workid.no/gg/07">
       <w:P10002>http://oslomet.workid.no/gg/07</w:P10002>
@@ -53,9 +54,10 @@
       <w:P10002>http://oslomet.workid.no/gg/08</w:P10002>
       <w:P10088>Aus dem Tagebuch einer Schnecke</w:P10088>
       <w:P10061 rdf:resource="http://viaf.org/viaf/102319859"/>
+      <w:P10078 rdf:resource="http://oslomet.workid.no/gg/08/eng/text"/>
       <w:P10078 rdf:resource="http://oslomet.workid.no/gg/08/ger/text"/>
       <w:P10078 rdf:resource="http://oslomet.workid.no/gg/08/spa/text"/>
-      <w:P10078 rdf:resource="http://oslomet.workid.no/gg/08/eng/text"/>
+      <w:P10078 rdf:resource="http://oslomet.workid.no/gg/08/nor/text"/>
       <w:P10078 rdf:resource="http://oslomet.workid.no/gg/08/nob/"/>
    </c:C10001>
    <c:C10001 rdf:about="http://oslomet.workid.no/gg/10">
@@ -65,8 +67,8 @@
       <w:P10088>Kopfgeburten</w:P10088>
       <w:P10061 rdf:resource="http://viaf.org/viaf/102319859"/>
       <w:P10078 rdf:resource="http://oslomet.workid.no/gg/10/ger/text"/>
-      <w:P10078 rdf:resource="http://oslomet.workid.no/gg/10/spa/text"/>
       <w:P10078 rdf:resource="http://oslomet.workid.no/gg/10/eng/text"/>
+      <w:P10078 rdf:resource="http://oslomet.workid.no/gg/10/spa/text"/>
    </c:C10001>
    <c:C10001 rdf:about="http://oslomet.workid.no/gg/1001">
       <w:P10002>http://oslomet.workid.no/gg/1001</w:P10002>
@@ -131,9 +133,10 @@
    </c:C10001>
    <c:C10001 rdf:about="http://oslomet.workid.no/gg/23">
       <w:P10002>http://oslomet.workid.no/gg/23</w:P10002>
+      <w:P10088>Über das Selbstverständliche</w:P10088>
       <w:P10088>Über das Selbstverständliche. Reden – Aufsätze – Offene Briefe – Kommentare</w:P10088>
-      <w:P10088>Über das Selbstverständliche</w:P10088>
       <w:P10061 rdf:resource="http://viaf.org/viaf/102319859"/>
+      <w:P10078 rdf:resource="http://oslomet.workid.no/gg/23/eng/text"/>
       <w:P10078 rdf:resource="http://oslomet.workid.no/gg/23/ger/text"/>
    </c:C10001>
    <c:C10001 rdf:about="http://oslomet.workid.no/gg/24">
@@ -202,7 +205,11 @@
       <w:P10061 rdf:resource="http://viaf.org/viaf/114089092"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/213148121/ger/text"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/213148121/ger/gesprocheneswort"/>
+      <w:P10078 rdf:resource="http://viaf.org/viaf/213148121/eng/text"/>
+      <w:P10078 rdf:resource="http://viaf.org/viaf/213148121/fre/text"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/213148121/spa/text"/>
+      <w:P10078 rdf:resource="http://viaf.org/viaf/213148121/nor/text"/>
+      <w:P10078 rdf:resource="http://viaf.org/viaf/213148121/ng/text"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/213148121/nob/"/>
    </c:C10001>
    <c:C10001 rdf:about="http://viaf.org/viaf/307985080">
@@ -222,7 +229,7 @@
       <w:P10002>http://viaf.org/viaf/312508045</w:P10002>
       <w:P10088>Davor</w:P10088>
       <w:P10061 rdf:resource="http://viaf.org/viaf/102319859"/>
-      <w:P10078 rdf:resource="http://viaf.org/viaf/312508045/ger/text"/>
+      <w:P10078 rdf:resource="http://viaf.org/viaf/312508045/eng/text"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/312508045/nob/"/>
    </c:C10001>
    <c:C10001 rdf:about="http://viaf.org/viaf/315591424">
@@ -287,6 +294,8 @@
       <w:P10078 rdf:resource="http://www.wikidata.org/entity/q1736859/ger/text"/>
       <w:P10078 rdf:resource="http://www.wikidata.org/entity/q1736859/ger/gesprocheneswort"/>
       <w:P10078 rdf:resource="http://www.wikidata.org/entity/q1736859/spa/text"/>
+      <w:P10078 rdf:resource="http://www.wikidata.org/entity/q1736859/eng/text"/>
+      <w:P10078 rdf:resource="http://www.wikidata.org/entity/q1736859/fre/text"/>
       <w:P10078 rdf:resource="http://www.wikidata.org/entity/q1736859/nob/"/>
    </c:C10001>
    <c:C10001 rdf:about="http://www.wikidata.org/entity/q18336311">
@@ -303,7 +312,9 @@
       <w:P10088>&#x98;Das&#x9c; Treffen in Telgte</w:P10088>
       <w:P10061 rdf:resource="http://viaf.org/viaf/102319859"/>
       <w:P10078 rdf:resource="http://www.wikidata.org/entity/q320933/ger/text"/>
+      <w:P10078 rdf:resource="http://www.wikidata.org/entity/q320933/spa/text"/>
       <w:P10078 rdf:resource="http://www.wikidata.org/entity/q320933/ger/gesprocheneswort"/>
+      <w:P10078 rdf:resource="http://www.wikidata.org/entity/q320933/eng/text"/>
       <w:P10078 rdf:resource="http://www.wikidata.org/entity/q320933/nob/"/>
    </c:C10001>
    <c:C10001 rdf:about="http://www.wikidata.org/entity/q499564">
@@ -312,10 +323,10 @@
       <w:P10088>Hundertjahre</w:P10088>
       <w:P10019 rdf:resource="http://www.wikidata.org/entity/q989760"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/102319859"/>
-      <w:P10078 rdf:resource="http://www.wikidata.org/entity/q499564/ger/text"/>
       <w:P10078 rdf:resource="http://www.wikidata.org/entity/q499564/spa/text"/>
-      <w:P10078 rdf:resource="http://www.wikidata.org/entity/q499564/ger/gesprocheneswort"/>
+      <w:P10078 rdf:resource="http://www.wikidata.org/entity/q499564/ger/text"/>
       <w:P10078 rdf:resource="http://www.wikidata.org/entity/q499564/eng/text"/>
+      <w:P10078 rdf:resource="http://www.wikidata.org/entity/q499564/ger/gesprocheneswort"/>
       <w:P10078 rdf:resource="http://www.wikidata.org/entity/q499564/nob/"/>
    </c:C10001>
    <c:C10001 rdf:about="http://www.wikidata.org/entity/q6663949">
@@ -323,8 +334,10 @@
       <w:P10088>Örtlich betäubt</w:P10088>
       <w:P10088>Örtlich betäubt</w:P10088>
       <w:P10061 rdf:resource="http://viaf.org/viaf/102319859"/>
+      <w:P10078 rdf:resource="http://www.wikidata.org/entity/q6663949/eng/text"/>
       <w:P10078 rdf:resource="http://www.wikidata.org/entity/q6663949/ger/text"/>
       <w:P10078 rdf:resource="http://www.wikidata.org/entity/q6663949/spa/text"/>
+      <w:P10078 rdf:resource="http://www.wikidata.org/entity/q6663949/dan/text"/>
       <w:P10078 rdf:resource="http://www.wikidata.org/entity/q6663949/nob/"/>
    </c:C10001>
    <c:C10001 rdf:about="http://www.wikidata.org/entity/q765047">
@@ -334,6 +347,9 @@
       <w:P10061 rdf:resource="http://viaf.org/viaf/102319859"/>
       <w:P10078 rdf:resource="http://www.wikidata.org/entity/q765047/ger/text"/>
       <w:P10078 rdf:resource="http://www.wikidata.org/entity/q765047/spa/text"/>
+      <w:P10078 rdf:resource="http://www.wikidata.org/entity/q765047/fre/text"/>
+      <w:P10078 rdf:resource="http://www.wikidata.org/entity/q765047/eng/text"/>
+      <w:P10078 rdf:resource="http://www.wikidata.org/entity/q765047/nor/text"/>
       <w:P10078 rdf:resource="http://www.wikidata.org/entity/q765047/nob/"/>
       <w:P10257 rdf:resource="http://www.wikidata.org/entity/q765047"/>
       <w:P10261 rdf:resource="http://viaf.org/viaf/102319859"/>
@@ -370,7 +386,10 @@
       <w:P10061 rdf:resource="http://viaf.org/viaf/102319859"/>
       <w:P10078 rdf:resource="http://www.wikidata.org/entity/q899334/ger/text"/>
       <w:P10078 rdf:resource="http://www.wikidata.org/entity/q899334/spa/text"/>
+      <w:P10078 rdf:resource="http://www.wikidata.org/entity/q899334/nor/text"/>
+      <w:P10078 rdf:resource="http://www.wikidata.org/entity/q899334/fre/text"/>
       <w:P10078 rdf:resource="http://www.wikidata.org/entity/q899334/eng/text"/>
+      <w:P10078 rdf:resource="http://www.wikidata.org/entity/q899334/dan/text"/>
       <w:P10078 rdf:resource="http://www.wikidata.org/entity/q899334/ger/gesprocheneswort"/>
       <w:P10078 rdf:resource="http://www.wikidata.org/entity/q899334/ger/taktilertext"/>
       <w:P10078 rdf:resource="http://www.wikidata.org/entity/q899334/nob/"/>
@@ -387,12 +406,13 @@
    <c:C10004 rdf:about="amslerjean">
       <a:P50094>amslerjean</a:P50094>
       <a:P50111>Amsler, Jean</a:P50111>
-      <a:P50145 rdf:resource="http://viaf.org/viaf/213148121/ger/text"/>
+      <a:P50145 rdf:resource="http://viaf.org/viaf/213148121/fre/text"/>
+      <a:P50145 rdf:resource="http://www.wikidata.org/entity/q1736859/fre/text"/>
    </c:C10004>
    <c:C10004 rdf:about="antonandresangel">
       <a:P50094>antonandresangel</a:P50094>
       <a:P50111>Antón Andrés, Ángel</a:P50111>
-      <a:P50145 rdf:resource="http://oslomet.workid.no/gg/08/ger/text"/>
+      <a:P50145 rdf:resource="http://oslomet.workid.no/gg/08/spa/text"/>
    </c:C10004>
    <c:C10004 rdf:about="arkerdieter">
       <a:P50094>arkerdieter</a:P50094>
@@ -433,7 +453,7 @@
       <a:P50094>boisenmogens</a:P50094>
       <a:P50111>Boisen, Mogens</a:P50111>
       <a:P50107>1910-1987</a:P50107>
-      <a:P50145 rdf:resource="http://www.wikidata.org/entity/q6663949/ger/text"/>
+      <a:P50145 rdf:resource="http://www.wikidata.org/entity/q6663949/dan/text"/>
    </c:C10004>
    <c:C10004 rdf:about="bollheinrich">
       <a:P50094>bollheinrich</a:P50094>
@@ -530,7 +550,7 @@
    <c:C10004 rdf:about="gregormariah">
       <a:P50094>gregormariah</a:P50094>
       <a:P50111>Gregor, María H</a:P50111>
-      <a:P50145 rdf:resource="http://www.wikidata.org/entity/q320933/ger/text"/>
+      <a:P50145 rdf:resource="http://www.wikidata.org/entity/q320933/spa/text"/>
    </c:C10004>
    <c:C10004 rdf:about="greifftrygve">
       <a:P50094>greifftrygve</a:P50094>
@@ -686,11 +706,11 @@
       <a:P50094>http://viaf.org/viaf/30910939</a:P50094>
       <a:P50111>Gerhard, Carlos</a:P50111>
       <a:P50107>1899-1976</a:P50107>
-      <a:P50145 rdf:resource="http://www.wikidata.org/entity/q499564/ger/text"/>
-      <a:P50145 rdf:resource="http://www.wikidata.org/entity/q6663949/spa/text"/>
       <a:P50145 rdf:resource="http://www.wikidata.org/entity/q499564/spa/text"/>
-      <a:P50145 rdf:resource="http://www.wikidata.org/entity/q6663949/ger/text"/>
+      <a:P50145 rdf:resource="http://www.wikidata.org/entity/q6663949/spa/text"/>
+      <a:P50145 rdf:resource="http://www.wikidata.org/entity/q6663949/eng/text"/>
       <a:P50145 rdf:resource="http://www.wikidata.org/entity/q1736859/spa/text"/>
+      <a:P50145 rdf:resource="http://www.wikidata.org/entity/q899334/spa/text"/>
    </c:C10004>
    <c:C10004 rdf:about="http://viaf.org/viaf/54151065">
       <a:P50094>http://viaf.org/viaf/54151065</a:P50094>
@@ -705,7 +725,7 @@
    <c:C10004 rdf:about="http://viaf.org/viaf/66142208">
       <a:P50094>http://viaf.org/viaf/66142208</a:P50094>
       <a:P50111>Risvik, Kjell</a:P50111>
-      <a:P50145 rdf:resource="http://www.wikidata.org/entity/q765047/ger/text"/>
+      <a:P50145 rdf:resource="http://www.wikidata.org/entity/q765047/nor/text"/>
       <a:P50145 rdf:resource="http://www.wikidata.org/entity/q765047/nob/"/>
       <a:P50145 rdf:resource="http://www.wikidata.org/entity/q320933/nob/"/>
       <a:P50145 rdf:resource="http://www.wikidata.org/entity/q1460598/nob/"/>
@@ -719,14 +739,13 @@
       <a:P50094>http://viaf.org/viaf/9864901</a:P50094>
       <a:P50111>Manheim, Ralph</a:P50111>
       <a:P50107>1907-1992</a:P50107>
-      <a:P50145 rdf:resource="http://viaf.org/viaf/213148121/ger/text"/>
-      <a:P50145 rdf:resource="http://oslomet.workid.no/gg/10/ger/text"/>
-      <a:P50145 rdf:resource="http://www.wikidata.org/entity/q765047/ger/text"/>
-      <a:P50145 rdf:resource="http://www.wikidata.org/entity/q499564/ger/text"/>
-      <a:P50145 rdf:resource="http://www.wikidata.org/entity/q1736859/ger/text"/>
-      <a:P50145 rdf:resource="http://oslomet.workid.no/gg/23/ger/text"/>
-      <a:P50145 rdf:resource="http://www.wikidata.org/entity/q899334/ger/text"/>
+      <a:P50145 rdf:resource="http://viaf.org/viaf/213148121/eng/text"/>
       <a:P50145 rdf:resource="http://oslomet.workid.no/gg/10/eng/text"/>
+      <a:P50145 rdf:resource="http://www.wikidata.org/entity/q765047/eng/text"/>
+      <a:P50145 rdf:resource="http://www.wikidata.org/entity/q499564/eng/text"/>
+      <a:P50145 rdf:resource="http://www.wikidata.org/entity/q1736859/eng/text"/>
+      <a:P50145 rdf:resource="http://oslomet.workid.no/gg/23/ger/text"/>
+      <a:P50145 rdf:resource="http://www.wikidata.org/entity/q899334/eng/text"/>
    </c:C10004>
    <c:C10004 rdf:about="ingardenroman">
       <a:P50094>ingardenroman</a:P50094>
@@ -905,9 +924,8 @@
       <a:P50145 rdf:resource="http://www.wikidata.org/entity/q765047/spa/text"/>
       <a:P50145 rdf:resource="http://www.wikidata.org/entity/q814761/spa/texto(visual)"/>
       <a:P50145 rdf:resource="http://www.wikidata.org/entity/q1669964/spa/texto(visual)"/>
-      <a:P50145 rdf:resource="http://viaf.org/viaf/213148121/ger/text"/>
-      <a:P50145 rdf:resource="http://viaf.org/viaf/307985080/spa/text"/>
       <a:P50145 rdf:resource="http://viaf.org/viaf/213148121/spa/text"/>
+      <a:P50145 rdf:resource="http://viaf.org/viaf/307985080/spa/text"/>
    </c:C10004>
    <c:C10004 rdf:about="salimmohammadharis">
       <a:P50094>salimmohammadharis</a:P50094>
@@ -1082,6 +1100,13 @@
       <e:P20059 rdf:resource="http://example.org/451644476"/>
       <e:P20231 rdf:resource="http://oslomet.workid.no/gg/05"/>
    </c:C10006>
+   <c:C10006 rdf:about="http://oslomet.workid.no/gg/06/eng/text">
+      <e:P20006>eng</e:P20006>
+      <e:P20006>ger</e:P20006>
+      <e:P20001>Text</e:P20001>
+      <e:P20059 rdf:resource="http://example.org/578548399"/>
+      <e:P20231 rdf:resource="http://oslomet.workid.no/gg/06"/>
+   </c:C10006>
    <c:C10006 rdf:about="http://oslomet.workid.no/gg/06/ger/gesprocheneswort">
       <e:P20006>ger</e:P20006>
       <e:P20001>gesprochenes Wort</e:P20001>
@@ -1095,7 +1120,6 @@
       <e:P20312>&#x98;Die&#x9c; Plebejer proben den Aufstand</e:P20312>
       <e:P20312>schwed.</e:P20312>
       <e:P20312>franz.</e:P20312>
-      <e:P20312>engl.</e:P20312>
       <e:P20059 rdf:resource="urn:isbn:9783351017859"/>
       <e:P20059 rdf:resource="urn:isbn:9783472612506"/>
       <e:P20059 rdf:resource="urn:isbn:9783882439342"/>
@@ -1103,7 +1127,6 @@
       <e:P20059 rdf:resource="http://example.org/577731513"/>
       <e:P20059 rdf:resource="http://example.org/577731505"/>
       <e:P20059 rdf:resource="urn:isbn:9783436009014"/>
-      <e:P20059 rdf:resource="http://example.org/578548399"/>
       <e:P20231 rdf:resource="http://oslomet.workid.no/gg/06"/>
    </c:C10006>
    <c:C10006 rdf:about="http://oslomet.workid.no/gg/07/ger/text">
@@ -1120,31 +1143,24 @@
    </c:C10006>
    <c:C10006 rdf:about="http://oslomet.workid.no/gg/08/eng/text">
       <e:P20006>eng</e:P20006>
+      <e:P20006>ger</e:P20006>
       <e:P20001>Text</e:P20001>
-      <e:P20312>engl.</e:P20312>
-      <e:P20312>Aus dem Tagebuch einer Schnecke</e:P20312>
+      <e:P20059 rdf:resource="urn:isbn:0436187892"/>
       <e:P20059 rdf:resource="urn:isbn:0749394552"/>
+      <e:P20059 rdf:resource="urn:isbn:0156339501"/>
       <e:P20231 rdf:resource="http://oslomet.workid.no/gg/08"/>
    </c:C10006>
    <c:C10006 rdf:about="http://oslomet.workid.no/gg/08/ger/text">
       <e:P20006>ger</e:P20006>
       <e:P20001>Text</e:P20001>
-      <e:P20312>engl.</e:P20312>
-      <e:P20312>Aus dem Tagebuch einer Schnecke</e:P20312>
       <e:P20312>schwed.</e:P20312>
+      <e:P20312>Aus dem Tagebuch einer Schnecke</e:P20312>
       <e:P20312>dän.</e:P20312>
-      <e:P20312>norweg.</e:P20312>
-      <e:P20312>span.</e:P20312>
-      <e:P20037 rdf:resource="antonandresangel"/>
-      <e:P20059 rdf:resource="urn:isbn:0436187892"/>
       <e:P20059 rdf:resource="http://example.org/750952466"/>
       <e:P20059 rdf:resource="http://example.org/57773153x"/>
       <e:P20059 rdf:resource="http://example.org/577731521"/>
       <e:P20059 rdf:resource="urn:isbn:9783499117510"/>
       <e:P20059 rdf:resource="urn:isbn:9783472613107"/>
-      <e:P20059 rdf:resource="urn:isbn:0156339501"/>
-      <e:P20059 rdf:resource="http://example.org/578550903"/>
-      <e:P20059 rdf:resource="http://example.org/1029797072"/>
       <e:P20231 rdf:resource="http://oslomet.workid.no/gg/08"/>
    </c:C10006>
    <c:C10006 rdf:about="http://oslomet.workid.no/gg/08/nob/">
@@ -1153,40 +1169,48 @@
       <e:P20059 rdf:resource="urn:isbn:8205060886"/>
       <e:P20231 rdf:resource="http://oslomet.workid.no/gg/08"/>
    </c:C10006>
+   <c:C10006 rdf:about="http://oslomet.workid.no/gg/08/nor/text">
+      <e:P20006>nor</e:P20006>
+      <e:P20006>ger</e:P20006>
+      <e:P20001>Text</e:P20001>
+      <e:P20059 rdf:resource="http://example.org/578550903"/>
+      <e:P20231 rdf:resource="http://oslomet.workid.no/gg/08"/>
+   </c:C10006>
    <c:C10006 rdf:about="http://oslomet.workid.no/gg/08/spa/text">
       <e:P20006>spa</e:P20006>
+      <e:P20006>ger</e:P20006>
       <e:P20001>Text</e:P20001>
       <e:P20312>span.</e:P20312>
       <e:P20312>Aus dem Tagebuch einer Schnecke</e:P20312>
+      <e:P20037 rdf:resource="antonandresangel"/>
       <e:P20059 rdf:resource="urn:isbn:8420442747"/>
+      <e:P20059 rdf:resource="http://example.org/1029797072"/>
       <e:P20231 rdf:resource="http://oslomet.workid.no/gg/08"/>
    </c:C10006>
    <c:C10006 rdf:about="http://oslomet.workid.no/gg/10/eng/text">
       <e:P20006>eng</e:P20006>
+      <e:P20006>ger</e:P20006>
       <e:P20001>Text</e:P20001>
-      <e:P20312>engl.</e:P20312>
-      <e:P20312>Kopfgeburten oder die Deutschen sterben aus</e:P20312>
       <e:P20037 rdf:resource="http://viaf.org/viaf/9864901"/>
+      <e:P20059 rdf:resource="urn:isbn:0151396000"/>
       <e:P20059 rdf:resource="urn:isbn:0140064982195"/>
+      <e:P20059 rdf:resource="urn:isbn:0436187779"/>
       <e:P20231 rdf:resource="http://oslomet.workid.no/gg/10"/>
    </c:C10006>
    <c:C10006 rdf:about="http://oslomet.workid.no/gg/10/ger/text">
       <e:P20006>ger</e:P20006>
       <e:P20001>Text</e:P20001>
-      <e:P20312>engl.</e:P20312>
-      <e:P20312>Kopfgeburten</e:P20312>
       <e:P20312>finn.</e:P20312>
       <e:P20312>Kopfgeburten oder die Deutschen sterben aus</e:P20312>
       <e:P20312>span.</e:P20312>
       <e:P20312>serbokroat.</e:P20312>
+      <e:P20312>Kopfgeburten</e:P20312>
       <e:P20312>franz.</e:P20312>
       <e:P20312>schwed.</e:P20312>
       <e:P20312>niederländ.</e:P20312>
-      <e:P20037 rdf:resource="http://viaf.org/viaf/9864901"/>
       <e:P20059 rdf:resource="urn:isbn:9783472613565"/>
       <e:P20059 rdf:resource="http://example.org/840205538"/>
       <e:P20059 rdf:resource="urn:isbn:9783423125949"/>
-      <e:P20059 rdf:resource="urn:isbn:0151396000"/>
       <e:P20059 rdf:resource="urn:isbn:9783472865209"/>
       <e:P20059 rdf:resource="urn:isbn:9783455400250"/>
       <e:P20059 rdf:resource="http://example.org/1030236046"/>
@@ -1195,7 +1219,6 @@
       <e:P20059 rdf:resource="http://example.org/368945286"/>
       <e:P20059 rdf:resource="http://example.org/1030213453"/>
       <e:P20059 rdf:resource="urn:isbn:2020064057"/>
-      <e:P20059 rdf:resource="urn:isbn:0436187779"/>
       <e:P20059 rdf:resource="urn:isbn:9100451967"/>
       <e:P20059 rdf:resource="urn:isbn:9029012544"/>
       <e:P20231 rdf:resource="http://oslomet.workid.no/gg/10"/>
@@ -1301,18 +1324,20 @@
    <c:C10006 rdf:about="http://oslomet.workid.no/gg/21/spa/text">
       <e:P20006>spa</e:P20006>
       <e:P20001>Text</e:P20001>
-      <e:P20312>span.</e:P20312>
-      <e:P20312>Unterwegs von Deutschland nach Deutschland</e:P20312>
       <e:P20059 rdf:resource="urn:isbn:9788420407371"/>
       <e:P20231 rdf:resource="http://oslomet.workid.no/gg/21"/>
+   </c:C10006>
+   <c:C10006 rdf:about="http://oslomet.workid.no/gg/23/eng/text">
+      <e:P20006>eng</e:P20006>
+      <e:P20006>ger</e:P20006>
+      <e:P20001>Text</e:P20001>
+      <e:P20059 rdf:resource="http://example.org/578552728"/>
+      <e:P20231 rdf:resource="http://oslomet.workid.no/gg/23"/>
    </c:C10006>
    <c:C10006 rdf:about="http://oslomet.workid.no/gg/23/ger/text">
       <e:P20006>ger</e:P20006>
       <e:P20001>Text</e:P20001>
-      <e:P20312>engl.</e:P20312>
-      <e:P20312>Über das Selbstverständliche</e:P20312>
       <e:P20037 rdf:resource="http://viaf.org/viaf/9864901"/>
-      <e:P20059 rdf:resource="http://example.org/578552728"/>
       <e:P20059 rdf:resource="http://example.org/100782056x"/>
       <e:P20231 rdf:resource="http://oslomet.workid.no/gg/23"/>
    </c:C10006>
@@ -1382,8 +1407,6 @@
    <c:C10006 rdf:about="http://viaf.org/viaf/198560112/eng/text">
       <e:P20006>eng</e:P20006>
       <e:P20001>Text</e:P20001>
-      <e:P20312>engl.</e:P20312>
-      <e:P20312>Unkenrufe</e:P20312>
       <e:P20059 rdf:resource="urn:isbn:0151257434"/>
       <e:P20059 rdf:resource="urn:isbn:0436200643"/>
       <e:P20231 rdf:resource="http://viaf.org/viaf/198560112"/>
@@ -1401,8 +1424,6 @@
    <c:C10006 rdf:about="http://viaf.org/viaf/198560112/spa/text">
       <e:P20006>spa</e:P20006>
       <e:P20001>Text</e:P20001>
-      <e:P20312>span.</e:P20312>
-      <e:P20312>Unkenrufe</e:P20312>
       <e:P20059 rdf:resource="urn:isbn:8420426970"/>
       <e:P20059 rdf:resource="urn:isbn:9788466333368"/>
       <e:P20231 rdf:resource="http://viaf.org/viaf/198560112"/>
@@ -1422,6 +1443,27 @@
       <e:P20059 rdf:resource="urn:isbn:9783882434019"/>
       <e:P20231 rdf:resource="http://viaf.org/viaf/2078151433029956420003"/>
    </c:C10006>
+   <c:C10006 rdf:about="http://viaf.org/viaf/213148121/eng/text">
+      <e:P20006>eng</e:P20006>
+      <e:P20006>ger</e:P20006>
+      <e:P20001>Text</e:P20001>
+      <e:P20037 rdf:resource="http://viaf.org/viaf/9864901"/>
+      <e:P20059 rdf:resource="http://example.org/1008358274"/>
+      <e:P20059 rdf:resource="urn:isbn:0140049207"/>
+      <e:P20059 rdf:resource="urn:isbn:0151314861"/>
+      <e:P20231 rdf:resource="http://viaf.org/viaf/213148121"/>
+   </c:C10006>
+   <c:C10006 rdf:about="http://viaf.org/viaf/213148121/fre/text">
+      <e:P20006>fre</e:P20006>
+      <e:P20006>ger</e:P20006>
+      <e:P20001>Text</e:P20001>
+      <e:P20037 rdf:resource="amslerjean"/>
+      <e:P20059 rdf:resource="http://example.org/1007515872"/>
+      <e:P20059 rdf:resource="urn:isbn:202005132"/>
+      <e:P20059 rdf:resource="urn:isbn:2245011856"/>
+      <e:P20059 rdf:resource="urn:isbn:2020057360"/>
+      <e:P20231 rdf:resource="http://viaf.org/viaf/213148121"/>
+   </c:C10006>
    <c:C10006 rdf:about="http://viaf.org/viaf/213148121/ger/gesprocheneswort">
       <e:P20006>ger</e:P20006>
       <e:P20001>gesprochenes Wort</e:P20001>
@@ -1431,38 +1473,20 @@
    <c:C10006 rdf:about="http://viaf.org/viaf/213148121/ger/text">
       <e:P20006>ger</e:P20006>
       <e:P20001>Text</e:P20001>
-      <e:P20312>engl.</e:P20312>
-      <e:P20312>&#x98;Der&#x9c; Butt</e:P20312>
-      <e:P20312>franz.</e:P20312>
       <e:P20312>schwed.</e:P20312>
-      <e:P20312>span.</e:P20312>
+      <e:P20312>&#x98;Der&#x9c; Butt</e:P20312>
       <e:P20312>ital.</e:P20312>
-      <e:P20312>norweg.</e:P20312>
       <e:P20312>finn.</e:P20312>
       <e:P20312>serbokroat.</e:P20312>
       <e:P20312>niederländ.</e:P20312>
-      <e:P20037 rdf:resource="http://viaf.org/viaf/9864901"/>
-      <e:P20037 rdf:resource="amslerjean"/>
-      <e:P20037 rdf:resource="saenzmiguel"/>
       <e:P20059 rdf:resource="urn:isbn:9783882433449"/>
-      <e:P20059 rdf:resource="http://example.org/1008358274"/>
-      <e:P20059 rdf:resource="http://example.org/1007515872"/>
-      <e:P20059 rdf:resource="urn:isbn:0140049207"/>
       <e:P20059 rdf:resource="urn:isbn:9100437123"/>
-      <e:P20059 rdf:resource="http://example.org/36894509x"/>
-      <e:P20059 rdf:resource="urn:isbn:202005132"/>
       <e:P20059 rdf:resource="http://example.org/102980091x"/>
-      <e:P20059 rdf:resource="urn:isbn:2245011856"/>
-      <e:P20059 rdf:resource="urn:isbn:8205112347"/>
-      <e:P20059 rdf:resource="urn:isbn:2020057360"/>
-      <e:P20059 rdf:resource="urn:isbn:0436187868"/>
       <e:P20059 rdf:resource="urn:isbn:9783472616504"/>
       <e:P20059 rdf:resource="urn:isbn:9783472864301"/>
       <e:P20059 rdf:resource="urn:isbn:951304288"/>
-      <e:P20059 rdf:resource="urn:isbn:0151314861"/>
       <e:P20059 rdf:resource="urn:isbn:9783958290600"/>
       <e:P20059 rdf:resource="http://example.org/861116178"/>
-      <e:P20059 rdf:resource="urn:isbn:8420425079"/>
       <e:P20059 rdf:resource="urn:isbn:8701595113"/>
       <e:P20059 rdf:resource="urn:isbn:9783596221813"/>
       <e:P20059 rdf:resource="urn:isbn:9783630830063"/>
@@ -1473,20 +1497,35 @@
       <e:P20059 rdf:resource="http://example.org/790540304"/>
       <e:P20231 rdf:resource="http://viaf.org/viaf/213148121"/>
    </c:C10006>
+   <c:C10006 rdf:about="http://viaf.org/viaf/213148121/ng/text">
+      <e:P20006>ng</e:P20006>
+      <e:P20006>ger</e:P20006>
+      <e:P20001>Text</e:P20001>
+      <e:P20059 rdf:resource="urn:isbn:0436187868"/>
+      <e:P20231 rdf:resource="http://viaf.org/viaf/213148121"/>
+   </c:C10006>
    <c:C10006 rdf:about="http://viaf.org/viaf/213148121/nob/">
       <e:P20006>nob</e:P20006>
       <e:P20037 rdf:resource="http://viaf.org/viaf/66142208"/>
       <e:P20059 rdf:resource="urn:isbn:8205112347"/>
       <e:P20231 rdf:resource="http://viaf.org/viaf/213148121"/>
    </c:C10006>
+   <c:C10006 rdf:about="http://viaf.org/viaf/213148121/nor/text">
+      <e:P20006>nor</e:P20006>
+      <e:P20006>ger</e:P20006>
+      <e:P20001>Text</e:P20001>
+      <e:P20059 rdf:resource="urn:isbn:8205112347"/>
+      <e:P20231 rdf:resource="http://viaf.org/viaf/213148121"/>
+   </c:C10006>
    <c:C10006 rdf:about="http://viaf.org/viaf/213148121/spa/text">
       <e:P20006>spa</e:P20006>
+      <e:P20006>ger</e:P20006>
       <e:P20312>Español</e:P20312>
       <e:P20001>Text</e:P20001>
-      <e:P20312>span.</e:P20312>
-      <e:P20312>&#x98;Der&#x9c; Butt</e:P20312>
       <e:P20037 rdf:resource="saenzmiguel"/>
+      <e:P20059 rdf:resource="http://example.org/36894509x"/>
       <e:P20059 rdf:resource="urn:isbn:8466316396"/>
+      <e:P20059 rdf:resource="urn:isbn:8420425079"/>
       <e:P20059 rdf:resource="urn:isbn:9788420423838"/>
       <e:P20059 rdf:resource="urn:isbn:8420441864"/>
       <e:P20059 rdf:resource="urn:isbn:9788466330930"/>
@@ -1503,8 +1542,6 @@
    <c:C10006 rdf:about="http://viaf.org/viaf/309497759/eng/text">
       <e:P20006>eng</e:P20006>
       <e:P20001>Text</e:P20001>
-      <e:P20312>engl.</e:P20312>
-      <e:P20312>Deutscher Lastenausgleich</e:P20312>
       <e:P20059 rdf:resource="urn:isbn:0156920603"/>
       <e:P20231 rdf:resource="http://viaf.org/viaf/309497759"/>
    </c:C10006>
@@ -1514,11 +1551,10 @@
       <e:P20059 rdf:resource="urn:isbn:9783351017682"/>
       <e:P20231 rdf:resource="http://viaf.org/viaf/309497759"/>
    </c:C10006>
-   <c:C10006 rdf:about="http://viaf.org/viaf/312508045/ger/text">
+   <c:C10006 rdf:about="http://viaf.org/viaf/312508045/eng/text">
+      <e:P20006>eng</e:P20006>
       <e:P20006>ger</e:P20006>
       <e:P20001>Text</e:P20001>
-      <e:P20312>engl.</e:P20312>
-      <e:P20312>Davor</e:P20312>
       <e:P20059 rdf:resource="http://example.org/578551969"/>
       <e:P20231 rdf:resource="http://viaf.org/viaf/312508045"/>
    </c:C10006>
@@ -1554,8 +1590,6 @@
    <c:C10006 rdf:about="http://www.wikidata.org/entity/q1254354/eng/text">
       <e:P20006>eng</e:P20006>
       <e:P20001>Text</e:P20001>
-      <e:P20312>engl.</e:P20312>
-      <e:P20312>&#x98;Ein&#x9c; weites Feld</e:P20312>
       <e:P20059 rdf:resource="urn:isbn:0571206646"/>
       <e:P20231 rdf:resource="http://www.wikidata.org/entity/q1254354"/>
    </c:C10006>
@@ -1586,8 +1620,6 @@
    <c:C10006 rdf:about="http://www.wikidata.org/entity/q1254354/spa/text">
       <e:P20006>spa</e:P20006>
       <e:P20001>Text</e:P20001>
-      <e:P20312>span.</e:P20312>
-      <e:P20312>&#x98;Ein&#x9c; weites Feld</e:P20312>
       <e:P20059 rdf:resource="urn:isbn:9788420419732"/>
       <e:P20059 rdf:resource="urn:isbn:8420428388"/>
       <e:P20231 rdf:resource="http://www.wikidata.org/entity/q1254354"/>
@@ -1595,8 +1627,6 @@
    <c:C10006 rdf:about="http://www.wikidata.org/entity/q1460598/eng/text">
       <e:P20006>eng</e:P20006>
       <e:P20001>Text</e:P20001>
-      <e:P20312>engl.</e:P20312>
-      <e:P20312>Im Krebsgang</e:P20312>
       <e:P20059 rdf:resource="urn:isbn:0571216501"/>
       <e:P20059 rdf:resource="urn:isbn:0151007640"/>
       <e:P20231 rdf:resource="http://www.wikidata.org/entity/q1460598"/>
@@ -1628,8 +1658,6 @@
    <c:C10006 rdf:about="http://www.wikidata.org/entity/q1669964/eng/text">
       <e:P20006>eng</e:P20006>
       <e:P20001>Text</e:P20001>
-      <e:P20312>engl.</e:P20312>
-      <e:P20312>Mein Jahrhundert</e:P20312>
       <e:P20059 rdf:resource="urn:isbn:0571203124"/>
       <e:P20059 rdf:resource="urn:isbn:015100496"/>
       <e:P20231 rdf:resource="http://www.wikidata.org/entity/q1669964"/>
@@ -1670,8 +1698,6 @@
    <c:C10006 rdf:about="http://www.wikidata.org/entity/q1669964/spa/text">
       <e:P20006>spa</e:P20006>
       <e:P20001>Text</e:P20001>
-      <e:P20312>span.</e:P20312>
-      <e:P20312>Mein Jahrhundert</e:P20312>
       <e:P20059 rdf:resource="urn:isbn:8420441627"/>
       <e:P20059 rdf:resource="urn:isbn:8420442038"/>
       <e:P20231 rdf:resource="http://www.wikidata.org/entity/q1669964"/>
@@ -1685,6 +1711,29 @@
       <e:P20059 rdf:resource="urn:isbn:9788466330886"/>
       <e:P20231 rdf:resource="http://www.wikidata.org/entity/q1669964"/>
    </c:C10006>
+   <c:C10006 rdf:about="http://www.wikidata.org/entity/q1736859/eng/text">
+      <e:P20006>eng</e:P20006>
+      <e:P20006>ger</e:P20006>
+      <e:P20001>Text</e:P20001>
+      <e:P20037 rdf:resource="http://viaf.org/viaf/9864901"/>
+      <e:P20059 rdf:resource="urn:isbn:0436187809"/>
+      <e:P20059 rdf:resource="http://example.org/1008108235"/>
+      <e:P20059 rdf:resource="http://example.org/577731378"/>
+      <e:P20059 rdf:resource="http://example.org/57773136x"/>
+      <e:P20059 rdf:resource="http://example.org/577731351"/>
+      <e:P20059 rdf:resource="http://example.org/365918997"/>
+      <e:P20231 rdf:resource="http://www.wikidata.org/entity/q1736859"/>
+   </c:C10006>
+   <c:C10006 rdf:about="http://www.wikidata.org/entity/q1736859/fre/text">
+      <e:P20006>fre</e:P20006>
+      <e:P20006>ger</e:P20006>
+      <e:P20001>Text</e:P20001>
+      <e:P20037 rdf:resource="amslerjean"/>
+      <e:P20059 rdf:resource="urn:isbn:2020067714"/>
+      <e:P20059 rdf:resource="http://example.org/365919004"/>
+      <e:P20059 rdf:resource="http://example.org/577731394"/>
+      <e:P20231 rdf:resource="http://www.wikidata.org/entity/q1736859"/>
+   </c:C10006>
    <c:C10006 rdf:about="http://www.wikidata.org/entity/q1736859/ger/gesprocheneswort">
       <e:P20006>ger</e:P20006>
       <e:P20001>gesprochenes Wort</e:P20001>
@@ -1696,10 +1745,8 @@
       <e:P20006>ger</e:P20006>
       <e:P20001>Text</e:P20001>
       <e:P20001>unbewegtes Bild</e:P20001>
-      <e:P20312>engl.</e:P20312>
-      <e:P20312>Katz und Maus</e:P20312>
       <e:P20312>dän.</e:P20312>
-      <e:P20312>franz.</e:P20312>
+      <e:P20312>Katz und Maus</e:P20312>
       <e:P20312>finn.</e:P20312>
       <e:P20312>katalan.</e:P20312>
       <e:P20312>griech.</e:P20312>
@@ -1712,7 +1759,6 @@
       <e:P20312>tschech.</e:P20312>
       <e:P20312>span.</e:P20312>
       <e:P20312>bulg.</e:P20312>
-      <e:P20037 rdf:resource="http://viaf.org/viaf/9864901"/>
       <e:P20059 rdf:resource="urn:isbn:9783423253079"/>
       <e:P20059 rdf:resource="urn:isbn:9783123588006"/>
       <e:P20059 rdf:resource="urn:isbn:9783472611486"/>
@@ -1730,10 +1776,8 @@
       <e:P20059 rdf:resource="http://example.org/456795596"/>
       <e:P20059 rdf:resource="http://example.org/840747071"/>
       <e:P20059 rdf:resource="http://example.org/960940863"/>
-      <e:P20059 rdf:resource="urn:isbn:0436187809"/>
       <e:P20059 rdf:resource="urn:isbn:8701717413"/>
       <e:P20059 rdf:resource="urn:isbn:9783464121436"/>
-      <e:P20059 rdf:resource="urn:isbn:2020067714"/>
       <e:P20059 rdf:resource="urn:isbn:9783518223321"/>
       <e:P20059 rdf:resource="urn:isbn:9511056581"/>
       <e:P20059 rdf:resource="urn:isbn:9783630611488"/>
@@ -1747,7 +1791,6 @@
       <e:P20059 rdf:resource="http://example.org/578548380"/>
       <e:P20059 rdf:resource="urn:isbn:9783869307183"/>
       <e:P20059 rdf:resource="urn:isbn:9783763221431"/>
-      <e:P20059 rdf:resource="http://example.org/1008108235"/>
       <e:P20059 rdf:resource="http://example.org/365919047"/>
       <e:P20059 rdf:resource="http://example.org/365919063"/>
       <e:P20059 rdf:resource="http://example.org/365919055"/>
@@ -1755,22 +1798,16 @@
       <e:P20059 rdf:resource="http://example.org/365919039"/>
       <e:P20059 rdf:resource="http://example.org/870962167"/>
       <e:P20059 rdf:resource="http://example.org/456795626"/>
-      <e:P20059 rdf:resource="http://example.org/365919004"/>
       <e:P20059 rdf:resource="http://example.org/365919020"/>
       <e:P20059 rdf:resource="http://example.org/456795618"/>
       <e:P20059 rdf:resource="http://example.org/365919012"/>
       <e:P20059 rdf:resource="http://example.org/456795634"/>
       <e:P20059 rdf:resource="http://example.org/368944808"/>
-      <e:P20059 rdf:resource="http://example.org/577731394"/>
       <e:P20059 rdf:resource="urn:isbn:9783423620499"/>
-      <e:P20059 rdf:resource="http://example.org/577731378"/>
-      <e:P20059 rdf:resource="http://example.org/57773136x"/>
       <e:P20059 rdf:resource="http://example.org/577731386"/>
       <e:P20059 rdf:resource="urn:isbn:9783464121429"/>
-      <e:P20059 rdf:resource="http://example.org/577731351"/>
       <e:P20059 rdf:resource="http://example.org/577731343"/>
       <e:P20059 rdf:resource="urn:isbn:9783869302379"/>
-      <e:P20059 rdf:resource="http://example.org/365918997"/>
       <e:P20059 rdf:resource="urn:isbn:0435383701"/>
       <e:P20059 rdf:resource="http://example.org/365918989"/>
       <e:P20231 rdf:resource="http://www.wikidata.org/entity/q1736859"/>
@@ -1807,6 +1844,13 @@
       <e:P20059 rdf:resource="urn:isbn:8481095591"/>
       <e:P20231 rdf:resource="http://www.wikidata.org/entity/q18336311"/>
    </c:C10006>
+   <c:C10006 rdf:about="http://www.wikidata.org/entity/q320933/eng/text">
+      <e:P20006>eng</e:P20006>
+      <e:P20006>ger</e:P20006>
+      <e:P20001>Text</e:P20001>
+      <e:P20059 rdf:resource="http://example.org/1008574791"/>
+      <e:P20231 rdf:resource="http://www.wikidata.org/entity/q320933"/>
+   </c:C10006>
    <c:C10006 rdf:about="http://www.wikidata.org/entity/q320933/ger/gesprocheneswort">
       <e:P20006>ger</e:P20006>
       <e:P20001>gesprochenes Wort</e:P20001>
@@ -1818,17 +1862,12 @@
       <e:P20001>Text</e:P20001>
       <e:P20312>niederländ.</e:P20312>
       <e:P20312>&#x98;Das&#x9c; Treffen in Telgte</e:P20312>
-      <e:P20312>span.</e:P20312>
-      <e:P20312>engl.</e:P20312>
-      <e:P20037 rdf:resource="gregormariah"/>
       <e:P20059 rdf:resource="urn:isbn:9783472615583"/>
       <e:P20059 rdf:resource="urn:isbn:9783958294301"/>
       <e:P20059 rdf:resource="urn:isbn:9783472864806"/>
       <e:P20059 rdf:resource="urn:isbn:9783763224678"/>
       <e:P20059 rdf:resource="http://example.org/840900384"/>
       <e:P20059 rdf:resource="urn:isbn:9029011904"/>
-      <e:P20059 rdf:resource="http://example.org/983065632"/>
-      <e:P20059 rdf:resource="http://example.org/1008574791"/>
       <e:P20059 rdf:resource="urn:isbn:9783877630020"/>
       <e:P20059 rdf:resource="http://example.org/830079378"/>
       <e:P20231 rdf:resource="http://www.wikidata.org/entity/q320933"/>
@@ -1840,12 +1879,25 @@
       <e:P20059 rdf:resource="urn:isbn:8205123195"/>
       <e:P20231 rdf:resource="http://www.wikidata.org/entity/q320933"/>
    </c:C10006>
+   <c:C10006 rdf:about="http://www.wikidata.org/entity/q320933/spa/text">
+      <e:P20006>spa</e:P20006>
+      <e:P20006>ger</e:P20006>
+      <e:P20001>Text</e:P20001>
+      <e:P20037 rdf:resource="gregormariah"/>
+      <e:P20059 rdf:resource="http://example.org/983065632"/>
+      <e:P20231 rdf:resource="http://www.wikidata.org/entity/q320933"/>
+   </c:C10006>
    <c:C10006 rdf:about="http://www.wikidata.org/entity/q499564/eng/text">
       <e:P20006>eng</e:P20006>
+      <e:P20006>ger</e:P20006>
       <e:P20001>Text</e:P20001>
-      <e:P20312>engl.</e:P20312>
-      <e:P20312>Hundejahre</e:P20312>
+      <e:P20037 rdf:resource="http://viaf.org/viaf/9864901"/>
+      <e:P20059 rdf:resource="http://example.org/57855271x"/>
+      <e:P20059 rdf:resource="http://example.org/1029803307"/>
       <e:P20059 rdf:resource="urn:isbn:0749394501"/>
+      <e:P20059 rdf:resource="http://example.org/578551497"/>
+      <e:P20059 rdf:resource="http://example.org/365918938"/>
+      <e:P20059 rdf:resource="urn:isbn:0140028382"/>
       <e:P20231 rdf:resource="http://www.wikidata.org/entity/q499564"/>
    </c:C10006>
    <c:C10006 rdf:about="http://www.wikidata.org/entity/q499564/ger/gesprocheneswort">
@@ -1857,10 +1909,8 @@
    <c:C10006 rdf:about="http://www.wikidata.org/entity/q499564/ger/text">
       <e:P20006>ger</e:P20006>
       <e:P20001>Text</e:P20001>
-      <e:P20312>span.</e:P20312>
-      <e:P20312>Hundejahre</e:P20312>
-      <e:P20312>engl.</e:P20312>
       <e:P20312>finn.</e:P20312>
+      <e:P20312>Hundejahre</e:P20312>
       <e:P20312>ital.</e:P20312>
       <e:P20312>franz.</e:P20312>
       <e:P20312>dän.</e:P20312>
@@ -1869,23 +1919,18 @@
       <e:P20312>niederländ.</e:P20312>
       <e:P20312>Hundertjahre</e:P20312>
       <e:P20312>portug.</e:P20312>
-      <e:P20037 rdf:resource="http://viaf.org/viaf/30910939"/>
-      <e:P20037 rdf:resource="http://viaf.org/viaf/9864901"/>
-      <e:P20059 rdf:resource="http://example.org/1029804443"/>
       <e:P20059 rdf:resource="urn:isbn:9783869306667"/>
       <e:P20059 rdf:resource="urn:isbn:9783472611493"/>
       <e:P20059 rdf:resource="http://example.org/456795499"/>
       <e:P20059 rdf:resource="urn:isbn:9783423118231"/>
       <e:P20059 rdf:resource="urn:isbn:9783499110108"/>
       <e:P20059 rdf:resource="http://example.org/456795537"/>
-      <e:P20059 rdf:resource="http://example.org/57855271x"/>
       <e:P20059 rdf:resource="http://example.org/720271762"/>
       <e:P20059 rdf:resource="http://example.org/451644522"/>
       <e:P20059 rdf:resource="http://example.org/451644514"/>
       <e:P20059 rdf:resource="urn:isbn:9783882432817"/>
       <e:P20059 rdf:resource="http://example.org/1029803765"/>
       <e:P20059 rdf:resource="http://example.org/456795502"/>
-      <e:P20059 rdf:resource="http://example.org/1029803307"/>
       <e:P20059 rdf:resource="http://example.org/456795529"/>
       <e:P20059 rdf:resource="http://example.org/456795510"/>
       <e:P20059 rdf:resource="http://example.org/1030211760"/>
@@ -1894,22 +1939,17 @@
       <e:P20059 rdf:resource="http://example.org/577731262"/>
       <e:P20059 rdf:resource="http://example.org/451644506"/>
       <e:P20059 rdf:resource="urn:isbn:2020059371"/>
-      <e:P20059 rdf:resource="urn:isbn:8420425095"/>
       <e:P20059 rdf:resource="http://example.org/368945146"/>
       <e:P20059 rdf:resource="urn:isbn:9783869307190"/>
       <e:P20059 rdf:resource="http://example.org/577731297"/>
       <e:P20059 rdf:resource="http://example.org/577731335"/>
       <e:P20059 rdf:resource="http://example.org/577731319"/>
       <e:P20059 rdf:resource="http://example.org/577731327"/>
-      <e:P20059 rdf:resource="http://example.org/365918970"/>
       <e:P20059 rdf:resource="http://example.org/577731300"/>
       <e:P20059 rdf:resource="urn:isbn:9783630611495"/>
       <e:P20059 rdf:resource="http://example.org/365918954"/>
       <e:P20059 rdf:resource="http://example.org/365918962"/>
-      <e:P20059 rdf:resource="http://example.org/578551497"/>
-      <e:P20059 rdf:resource="http://example.org/365918938"/>
       <e:P20059 rdf:resource="http://example.org/365918946"/>
-      <e:P20059 rdf:resource="urn:isbn:0140028382"/>
       <e:P20231 rdf:resource="http://www.wikidata.org/entity/q499564"/>
    </c:C10006>
    <c:C10006 rdf:about="http://www.wikidata.org/entity/q499564/nob/">
@@ -1921,39 +1961,50 @@
    </c:C10006>
    <c:C10006 rdf:about="http://www.wikidata.org/entity/q499564/spa/text">
       <e:P20006>spa</e:P20006>
+      <e:P20006>ger</e:P20006>
       <e:P20001>Text</e:P20001>
-      <e:P20312>span.</e:P20312>
-      <e:P20312>Hundejahre</e:P20312>
       <e:P20037 rdf:resource="http://viaf.org/viaf/30910939"/>
+      <e:P20059 rdf:resource="http://example.org/1029804443"/>
       <e:P20059 rdf:resource="urn:isbn:9788466330855"/>
       <e:P20059 rdf:resource="urn:isbn:8447300900"/>
+      <e:P20059 rdf:resource="urn:isbn:8420425095"/>
+      <e:P20059 rdf:resource="http://example.org/365918970"/>
       <e:P20231 rdf:resource="http://www.wikidata.org/entity/q499564"/>
+   </c:C10006>
+   <c:C10006 rdf:about="http://www.wikidata.org/entity/q6663949/dan/text">
+      <e:P20006>dan</e:P20006>
+      <e:P20006>ger</e:P20006>
+      <e:P20001>Text</e:P20001>
+      <e:P20037 rdf:resource="boisenmogens"/>
+      <e:P20059 rdf:resource="http://example.org/1030213852"/>
+      <e:P20231 rdf:resource="http://www.wikidata.org/entity/q6663949"/>
+   </c:C10006>
+   <c:C10006 rdf:about="http://www.wikidata.org/entity/q6663949/eng/text">
+      <e:P20006>eng</e:P20006>
+      <e:P20006>ger</e:P20006>
+      <e:P20001>Text</e:P20001>
+      <e:P20037 rdf:resource="http://viaf.org/viaf/30910939"/>
+      <e:P20059 rdf:resource="http://example.org/578549816"/>
+      <e:P20059 rdf:resource="http://example.org/578698420"/>
+      <e:P20059 rdf:resource="http://example.org/1030231788"/>
+      <e:P20231 rdf:resource="http://www.wikidata.org/entity/q6663949"/>
    </c:C10006>
    <c:C10006 rdf:about="http://www.wikidata.org/entity/q6663949/ger/text">
       <e:P20006>ger</e:P20006>
       <e:P20001>Text</e:P20001>
-      <e:P20312>engl.</e:P20312>
-      <e:P20312>Örtlich betäubt</e:P20312>
       <e:P20312>niederländ.</e:P20312>
-      <e:P20312>span.</e:P20312>
+      <e:P20312>Örtlich betäubt</e:P20312>
       <e:P20312>serbokroat.</e:P20312>
-      <e:P20312>dän.</e:P20312>
-      <e:P20037 rdf:resource="http://viaf.org/viaf/30910939"/>
-      <e:P20037 rdf:resource="boisenmogens"/>
-      <e:P20059 rdf:resource="http://example.org/578549816"/>
       <e:P20059 rdf:resource="http://example.org/720228891"/>
-      <e:P20059 rdf:resource="http://example.org/578698420"/>
       <e:P20059 rdf:resource="http://example.org/1030214514"/>
       <e:P20059 rdf:resource="urn:isbn:9783472611950"/>
       <e:P20059 rdf:resource="urn:isbn:9783882432824"/>
       <e:P20059 rdf:resource="urn:isbn:9783436015046"/>
       <e:P20059 rdf:resource="urn:isbn:9783763214921"/>
-      <e:P20059 rdf:resource="http://example.org/1030231788"/>
       <e:P20059 rdf:resource="http://example.org/578550008"/>
       <e:P20059 rdf:resource="http://example.org/456795685"/>
       <e:P20059 rdf:resource="http://example.org/456795677"/>
       <e:P20059 rdf:resource="http://example.org/720286999"/>
-      <e:P20059 rdf:resource="http://example.org/1030213852"/>
       <e:P20231 rdf:resource="http://www.wikidata.org/entity/q6663949"/>
    </c:C10006>
    <c:C10006 rdf:about="http://www.wikidata.org/entity/q6663949/nob/">
@@ -1966,38 +2017,44 @@
    <c:C10006 rdf:about="http://www.wikidata.org/entity/q6663949/spa/text">
       <e:P20006>spa</e:P20006>
       <e:P20001>Text</e:P20001>
-      <e:P20312>Örtlich betäubt</e:P20312>
       <e:P20037 rdf:resource="http://viaf.org/viaf/30910939"/>
       <e:P20059 rdf:resource="urn:isbn:9788493982713"/>
       <e:P20231 rdf:resource="http://www.wikidata.org/entity/q6663949"/>
+   </c:C10006>
+   <c:C10006 rdf:about="http://www.wikidata.org/entity/q765047/eng/text">
+      <e:P20006>eng</e:P20006>
+      <e:P20006>ger</e:P20006>
+      <e:P20001>Text</e:P20001>
+      <e:P20037 rdf:resource="http://viaf.org/viaf/9864901"/>
+      <e:P20059 rdf:resource="urn:isbn:0436187728"/>
+      <e:P20059 rdf:resource="urn:isbn:0151759200"/>
+      <e:P20231 rdf:resource="http://www.wikidata.org/entity/q765047"/>
+   </c:C10006>
+   <c:C10006 rdf:about="http://www.wikidata.org/entity/q765047/fre/text">
+      <e:P20006>fre</e:P20006>
+      <e:P20006>ger</e:P20006>
+      <e:P20001>Text</e:P20001>
+      <e:P20059 rdf:resource="http://example.org/1007469021"/>
+      <e:P20231 rdf:resource="http://www.wikidata.org/entity/q765047"/>
    </c:C10006>
    <c:C10006 rdf:about="http://www.wikidata.org/entity/q765047/ger/text">
       <e:P20006>ger</e:P20006>
       <e:P20001>Text</e:P20001>
       <e:P20312>ungar.</e:P20312>
       <e:P20312>&#x98;Die&#x9c; Rättin</e:P20312>
-      <e:P20312>franz.</e:P20312>
-      <e:P20312>engl.</e:P20312>
-      <e:P20312>norweg.</e:P20312>
-      <e:P20037 rdf:resource="http://viaf.org/viaf/9864901"/>
-      <e:P20037 rdf:resource="http://viaf.org/viaf/66142208"/>
       <e:P20059 rdf:resource="http://example.org/961769556"/>
       <e:P20059 rdf:resource="http://example.org/983065519"/>
       <e:P20059 rdf:resource="urn:isbn:9783499122002"/>
-      <e:P20059 rdf:resource="http://example.org/1007469021"/>
       <e:P20059 rdf:resource="http://example.org/870043943"/>
       <e:P20059 rdf:resource="urn:isbn:9783423125284"/>
-      <e:P20059 rdf:resource="urn:isbn:0436187728"/>
       <e:P20059 rdf:resource="urn:isbn:9783763233458"/>
       <e:P20059 rdf:resource="http://example.org/871410699"/>
       <e:P20059 rdf:resource="urn:isbn:9783491757127"/>
-      <e:P20059 rdf:resource="http://example.org/983065314"/>
       <e:P20059 rdf:resource="urn:isbn:9783423144810"/>
       <e:P20059 rdf:resource="urn:isbn:9783882432879"/>
       <e:P20059 rdf:resource="http://example.org/880310693"/>
       <e:P20059 rdf:resource="urn:isbn:9783958290792"/>
       <e:P20059 rdf:resource="http://example.org/952288605"/>
-      <e:P20059 rdf:resource="urn:isbn:0151759200"/>
       <e:P20231 rdf:resource="http://www.wikidata.org/entity/q765047"/>
    </c:C10006>
    <c:C10006 rdf:about="http://www.wikidata.org/entity/q765047/nob/">
@@ -2007,11 +2064,17 @@
       <e:P20059 rdf:resource="urn:isbn:8205172706"/>
       <e:P20231 rdf:resource="http://www.wikidata.org/entity/q765047"/>
    </c:C10006>
+   <c:C10006 rdf:about="http://www.wikidata.org/entity/q765047/nor/text">
+      <e:P20006>nor</e:P20006>
+      <e:P20006>ger</e:P20006>
+      <e:P20001>Text</e:P20001>
+      <e:P20037 rdf:resource="http://viaf.org/viaf/66142208"/>
+      <e:P20059 rdf:resource="http://example.org/983065314"/>
+      <e:P20231 rdf:resource="http://www.wikidata.org/entity/q765047"/>
+   </c:C10006>
    <c:C10006 rdf:about="http://www.wikidata.org/entity/q765047/spa/text">
       <e:P20006>spa</e:P20006>
       <e:P20001>Text</e:P20001>
-      <e:P20312>span.</e:P20312>
-      <e:P20312>&#x98;Die&#x9c; Rättin</e:P20312>
       <e:P20037 rdf:resource="saenzmiguel"/>
       <e:P20059 rdf:resource="urn:isbn:9788466330893"/>
       <e:P20059 rdf:resource="urn:isbn:9682926637"/>
@@ -2077,8 +2140,6 @@
    <c:C10006 rdf:about="http://www.wikidata.org/entity/q814761/spa/text">
       <e:P20006>spa</e:P20006>
       <e:P20001>Text</e:P20001>
-      <e:P20312>span.</e:P20312>
-      <e:P20312>Beim Häuten der Zwiebel</e:P20312>
       <e:P20059 rdf:resource="urn:isbn:9788466321204"/>
       <e:P20231 rdf:resource="http://www.wikidata.org/entity/q814761"/>
    </c:C10006>
@@ -2091,15 +2152,34 @@
       <e:P20059 rdf:resource="urn:isbn:9788420412245"/>
       <e:P20231 rdf:resource="http://www.wikidata.org/entity/q814761"/>
    </c:C10006>
+   <c:C10006 rdf:about="http://www.wikidata.org/entity/q899334/dan/text">
+      <e:P20006>dan</e:P20006>
+      <e:P20006>ger</e:P20006>
+      <e:P20001>Text</e:P20001>
+      <e:P20059 rdf:resource="http://example.org/577731106"/>
+      <e:P20231 rdf:resource="http://www.wikidata.org/entity/q899334"/>
+   </c:C10006>
    <c:C10006 rdf:about="http://www.wikidata.org/entity/q899334/eng/text">
       <e:P20006>eng</e:P20006>
+      <e:P20006>ger</e:P20006>
       <e:P20001>Text</e:P20001>
-      <e:P20312>engl.</e:P20312>
-      <e:P20312>&#x98;Die&#x9c; Blechtrommel</e:P20312>
+      <e:P20037 rdf:resource="http://viaf.org/viaf/9864901"/>
+      <e:P20059 rdf:resource="http://example.org/577731130"/>
+      <e:P20059 rdf:resource="http://example.org/577731114"/>
+      <e:P20059 rdf:resource="http://example.org/577731122"/>
       <e:P20059 rdf:resource="urn:isbn:0749394757"/>
+      <e:P20059 rdf:resource="http://example.org/1008573310"/>
       <e:P20059 rdf:resource="urn:isbn:185715147"/>
+      <e:P20059 rdf:resource="http://example.org/1007784911"/>
       <e:P20059 rdf:resource="urn:isbn:009946604"/>
       <e:P20059 rdf:resource="urn:isbn:067972575"/>
+      <e:P20231 rdf:resource="http://www.wikidata.org/entity/q899334"/>
+   </c:C10006>
+   <c:C10006 rdf:about="http://www.wikidata.org/entity/q899334/fre/text">
+      <e:P20006>fre</e:P20006>
+      <e:P20006>ger</e:P20006>
+      <e:P20001>Text</e:P20001>
+      <e:P20059 rdf:resource="http://example.org/577731157"/>
       <e:P20231 rdf:resource="http://www.wikidata.org/entity/q899334"/>
    </c:C10006>
    <c:C10006 rdf:about="http://www.wikidata.org/entity/q899334/ger/gesprocheneswort">
@@ -2123,44 +2203,30 @@
       <e:P20001>Text</e:P20001>
       <e:P20312>poln.</e:P20312>
       <e:P20312>&#x98;Die&#x9c; Blechtrommel</e:P20312>
-      <e:P20312>norweg.</e:P20312>
-      <e:P20312>span.</e:P20312>
       <e:P20312>schwed.</e:P20312>
-      <e:P20312>franz.</e:P20312>
       <e:P20312>ital.</e:P20312>
-      <e:P20312>engl.</e:P20312>
       <e:P20312>finn.</e:P20312>
-      <e:P20312>dän.</e:P20312>
+      <e:P20312>franz.</e:P20312>
       <e:P20312>niederländ.</e:P20312>
       <e:P20312>portug.</e:P20312>
       <e:P20312>tschech.</e:P20312>
-      <e:P20037 rdf:resource="http://viaf.org/viaf/9864901"/>
       <e:P20059 rdf:resource="urn:isbn:9783472611479"/>
       <e:P20059 rdf:resource="urn:isbn:9783423118217"/>
       <e:P20059 rdf:resource="urn:isbn:8306009045"/>
-      <e:P20059 rdf:resource="urn:isbn:8252510418"/>
-      <e:P20059 rdf:resource="urn:isbn:8420425087"/>
       <e:P20059 rdf:resource="urn:isbn:9174582186"/>
-      <e:P20059 rdf:resource="http://example.org/577731157"/>
       <e:P20059 rdf:resource="http://example.org/960640509"/>
       <e:P20059 rdf:resource="http://example.org/577731165"/>
-      <e:P20059 rdf:resource="http://example.org/577731130"/>
       <e:P20059 rdf:resource="http://example.org/577731149"/>
-      <e:P20059 rdf:resource="http://example.org/577731114"/>
       <e:P20059 rdf:resource="urn:isbn:9789634052043"/>
-      <e:P20059 rdf:resource="http://example.org/577731122"/>
-      <e:P20059 rdf:resource="http://example.org/577731106"/>
       <e:P20059 rdf:resource="urn:isbn:9783353002389"/>
       <e:P20059 rdf:resource="http://example.org/870833677"/>
       <e:P20059 rdf:resource="urn:isbn:9783472820505"/>
       <e:P20059 rdf:resource="urn:isbn:9783882432794"/>
       <e:P20059 rdf:resource="urn:isbn:9783353007063"/>
-      <e:P20059 rdf:resource="http://example.org/1008573310"/>
       <e:P20059 rdf:resource="urn:isbn:9783865219701"/>
       <e:P20059 rdf:resource="urn:isbn:9783423138192"/>
       <e:P20059 rdf:resource="http://example.org/102979829x"/>
       <e:P20059 rdf:resource="http://example.org/1007468726"/>
-      <e:P20059 rdf:resource="http://example.org/57773119x"/>
       <e:P20059 rdf:resource="http://example.org/577731173"/>
       <e:P20059 rdf:resource="http://example.org/1029798222"/>
       <e:P20059 rdf:resource="http://example.org/577731181"/>
@@ -2168,7 +2234,6 @@
       <e:P20059 rdf:resource="urn:isbn:9783458066781"/>
       <e:P20059 rdf:resource="http://example.org/577731238"/>
       <e:P20059 rdf:resource="http://example.org/57773122x"/>
-      <e:P20059 rdf:resource="http://example.org/577731246"/>
       <e:P20059 rdf:resource="http://example.org/577731211"/>
       <e:P20059 rdf:resource="http://example.org/1029799180"/>
       <e:P20059 rdf:resource="http://example.org/577731203"/>
@@ -2179,7 +2244,6 @@
       <e:P20059 rdf:resource="urn:isbn:9783869307176"/>
       <e:P20059 rdf:resource="http://example.org/987032445"/>
       <e:P20059 rdf:resource="http://example.org/958210020"/>
-      <e:P20059 rdf:resource="http://example.org/1007784911"/>
       <e:P20059 rdf:resource="urn:isbn:9783630611471"/>
       <e:P20059 rdf:resource="http://example.org/1001055780"/>
       <e:P20059 rdf:resource="http://example.org/1008573035"/>
@@ -2200,16 +2264,26 @@
       <e:P20059 rdf:resource="urn:isbn:8205167702"/>
       <e:P20231 rdf:resource="http://www.wikidata.org/entity/q899334"/>
    </c:C10006>
+   <c:C10006 rdf:about="http://www.wikidata.org/entity/q899334/nor/text">
+      <e:P20006>nor</e:P20006>
+      <e:P20006>ger</e:P20006>
+      <e:P20001>Text</e:P20001>
+      <e:P20059 rdf:resource="urn:isbn:8252510418"/>
+      <e:P20059 rdf:resource="http://example.org/57773119x"/>
+      <e:P20231 rdf:resource="http://www.wikidata.org/entity/q899334"/>
+   </c:C10006>
    <c:C10006 rdf:about="http://www.wikidata.org/entity/q899334/spa/text">
       <e:P20006>spa</e:P20006>
+      <e:P20006>ger</e:P20006>
       <e:P20001>Text</e:P20001>
-      <e:P20312>span.</e:P20312>
-      <e:P20312>&#x98;Die&#x9c; Blechtrommel</e:P20312>
+      <e:P20037 rdf:resource="http://viaf.org/viaf/30910939"/>
       <e:P20059 rdf:resource="urn:isbn:9788466324922"/>
       <e:P20059 rdf:resource="urn:isbn:842042773"/>
+      <e:P20059 rdf:resource="urn:isbn:8420425087"/>
       <e:P20059 rdf:resource="urn:isbn:8495501368"/>
       <e:P20059 rdf:resource="urn:isbn:9788466330725"/>
       <e:P20059 rdf:resource="urn:isbn:9789877381405"/>
+      <e:P20059 rdf:resource="http://example.org/577731246"/>
       <e:P20059 rdf:resource="urn:isbn:8447300218"/>
       <e:P20231 rdf:resource="http://www.wikidata.org/entity/q899334"/>
    </c:C10006>
@@ -2254,7 +2328,7 @@
       <m:P30002>Band</m:P30002>
       <m:P30106>Points. Roman</m:P30106>
       <m:P30165>355</m:P30165>
-      <m:P30139 rdf:resource="http://www.wikidata.org/entity/q765047/ger/text"/>
+      <m:P30139 rdf:resource="http://www.wikidata.org/entity/q765047/fre/text"/>
    </c:C10007>
    <c:C10007 rdf:about="http://example.org/1007515872">
       <marc:M001>1007515872</marc:M001>
@@ -2264,7 +2338,7 @@
       <m:P30169>21 cm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
-      <m:P30139 rdf:resource="http://viaf.org/viaf/213148121/ger/text"/>
+      <m:P30139 rdf:resource="http://viaf.org/viaf/213148121/fre/text"/>
    </c:C10007>
    <c:C10007 rdf:about="http://example.org/1007784911">
       <marc:M001>1007784911</marc:M001>
@@ -2276,7 +2350,7 @@
       <m:P30002>Band</m:P30002>
       <m:P30106>Penguin Books</m:P30106>
       <m:P30165>2359</m:P30165>
-      <m:P30139 rdf:resource="http://www.wikidata.org/entity/q899334/ger/text"/>
+      <m:P30139 rdf:resource="http://www.wikidata.org/entity/q899334/eng/text"/>
    </c:C10007>
    <c:C10007 rdf:about="http://example.org/100782056x">
       <marc:M001>100782056X</marc:M001>
@@ -2296,7 +2370,7 @@
       <m:P30169>8</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
-      <m:P30139 rdf:resource="http://www.wikidata.org/entity/q1736859/ger/text"/>
+      <m:P30139 rdf:resource="http://www.wikidata.org/entity/q1736859/eng/text"/>
    </c:C10007>
    <c:C10007 rdf:about="http://example.org/1008358274">
       <marc:M001>1008358274</marc:M001>
@@ -2306,7 +2380,7 @@
       <m:P30169>27x28 cm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
-      <m:P30139 rdf:resource="http://viaf.org/viaf/213148121/ger/text"/>
+      <m:P30139 rdf:resource="http://viaf.org/viaf/213148121/eng/text"/>
    </c:C10007>
    <c:C10007 rdf:about="http://example.org/1008573035">
       <marc:M001>1008573035</marc:M001>
@@ -2326,7 +2400,7 @@
       <m:P30169>21 cm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
-      <m:P30139 rdf:resource="http://www.wikidata.org/entity/q899334/ger/text"/>
+      <m:P30139 rdf:resource="http://www.wikidata.org/entity/q899334/eng/text"/>
    </c:C10007>
    <c:C10007 rdf:about="http://example.org/1008574791">
       <marc:M001>1008574791</marc:M001>
@@ -2335,7 +2409,7 @@
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
       <m:P30106>A Helen and Kurt Wolff book</m:P30106>
-      <m:P30139 rdf:resource="http://www.wikidata.org/entity/q320933/ger/text"/>
+      <m:P30139 rdf:resource="http://www.wikidata.org/entity/q320933/eng/text"/>
    </c:C10007>
    <c:C10007 rdf:about="http://example.org/1029797072">
       <marc:M001>1029797072</marc:M001>
@@ -2346,7 +2420,7 @@
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
       <m:P30106>Colección B. B. de literaturas</m:P30106>
-      <m:P30139 rdf:resource="http://oslomet.workid.no/gg/08/ger/text"/>
+      <m:P30139 rdf:resource="http://oslomet.workid.no/gg/08/spa/text"/>
    </c:C10007>
    <c:C10007 rdf:about="http://example.org/1029798222">
       <marc:M001>1029798222</marc:M001>
@@ -2423,7 +2497,7 @@
       <m:P30169>22,5 cm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
-      <m:P30139 rdf:resource="http://www.wikidata.org/entity/q499564/ger/text"/>
+      <m:P30139 rdf:resource="http://www.wikidata.org/entity/q499564/eng/text"/>
    </c:C10007>
    <c:C10007 rdf:about="http://example.org/1029803765">
       <marc:M001>1029803765</marc:M001>
@@ -2446,7 +2520,7 @@
       <m:P30169>8</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
-      <m:P30139 rdf:resource="http://www.wikidata.org/entity/q499564/ger/text"/>
+      <m:P30139 rdf:resource="http://www.wikidata.org/entity/q499564/spa/text"/>
    </c:C10007>
    <c:C10007 rdf:about="http://example.org/1030211760">
       <marc:M001>1030211760</marc:M001>
@@ -2479,7 +2553,7 @@
       <m:P30182>255 S.</m:P30182>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
-      <m:P30139 rdf:resource="http://www.wikidata.org/entity/q6663949/ger/text"/>
+      <m:P30139 rdf:resource="http://www.wikidata.org/entity/q6663949/dan/text"/>
    </c:C10007>
    <c:C10007 rdf:about="http://example.org/1030214514">
       <marc:M001>1030214514</marc:M001>
@@ -2502,7 +2576,7 @@
       <m:P30002>Band</m:P30002>
       <m:P30106>Ediciones de bolsillo</m:P30106>
       <m:P30165>284</m:P30165>
-      <m:P30139 rdf:resource="http://www.wikidata.org/entity/q6663949/ger/text"/>
+      <m:P30139 rdf:resource="http://www.wikidata.org/entity/q6663949/eng/text"/>
    </c:C10007>
    <c:C10007 rdf:about="http://example.org/1030235856">
       <marc:M001>1030235856</marc:M001>
@@ -2553,7 +2627,7 @@
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
       <m:P30106>A Helen and Kurt Wolff Book</m:P30106>
-      <m:P30139 rdf:resource="http://www.wikidata.org/entity/q499564/ger/text"/>
+      <m:P30139 rdf:resource="http://www.wikidata.org/entity/q499564/eng/text"/>
    </c:C10007>
    <c:C10007 rdf:about="http://example.org/365918946">
       <marc:M001>365918946</marc:M001>
@@ -2601,7 +2675,7 @@
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
       <m:P30106>Novelistas contemporáneos</m:P30106>
-      <m:P30139 rdf:resource="http://www.wikidata.org/entity/q499564/ger/text"/>
+      <m:P30139 rdf:resource="http://www.wikidata.org/entity/q499564/spa/text"/>
    </c:C10007>
    <c:C10007 rdf:about="http://example.org/365918989">
       <marc:M001>365918989</marc:M001>
@@ -2626,7 +2700,7 @@
       <m:P30002>Band</m:P30002>
       <m:P30106>A Signet Book</m:P30106>
       <m:P30165>P 2479</m:P30165>
-      <m:P30139 rdf:resource="http://www.wikidata.org/entity/q1736859/ger/text"/>
+      <m:P30139 rdf:resource="http://www.wikidata.org/entity/q1736859/eng/text"/>
    </c:C10007>
    <c:C10007 rdf:about="http://example.org/365919004">
       <marc:M001>365919004</marc:M001>
@@ -2638,7 +2712,7 @@
       <m:P30002>Band</m:P30002>
       <m:P30106>Le livre de poche</m:P30106>
       <m:P30165>3342</m:P30165>
-      <m:P30139 rdf:resource="http://www.wikidata.org/entity/q1736859/ger/text"/>
+      <m:P30139 rdf:resource="http://www.wikidata.org/entity/q1736859/fre/text"/>
    </c:C10007>
    <c:C10007 rdf:about="http://example.org/365919012">
       <marc:M001>365919012</marc:M001>
@@ -2729,7 +2803,7 @@
       <m:P30169>22 cm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
-      <m:P30139 rdf:resource="http://viaf.org/viaf/213148121/ger/text"/>
+      <m:P30139 rdf:resource="http://viaf.org/viaf/213148121/spa/text"/>
    </c:C10007>
    <c:C10007 rdf:about="http://example.org/368945146">
       <marc:M001>368945146</marc:M001>
@@ -3210,7 +3284,7 @@
       <m:P30169>8</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
-      <m:P30139 rdf:resource="http://www.wikidata.org/entity/q899334/ger/text"/>
+      <m:P30139 rdf:resource="http://www.wikidata.org/entity/q899334/dan/text"/>
    </c:C10007>
    <c:C10007 rdf:about="http://example.org/577731114">
       <marc:M001>577731114</marc:M001>
@@ -3220,7 +3294,7 @@
       <m:P30169>8</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
-      <m:P30139 rdf:resource="http://www.wikidata.org/entity/q899334/ger/text"/>
+      <m:P30139 rdf:resource="http://www.wikidata.org/entity/q899334/eng/text"/>
    </c:C10007>
    <c:C10007 rdf:about="http://example.org/577731122">
       <marc:M001>577731122</marc:M001>
@@ -3233,7 +3307,7 @@
       <m:P30002>Band</m:P30002>
       <m:P30106>Crest book</m:P30106>
       <m:P30165>m 691</m:P30165>
-      <m:P30139 rdf:resource="http://www.wikidata.org/entity/q899334/ger/text"/>
+      <m:P30139 rdf:resource="http://www.wikidata.org/entity/q899334/eng/text"/>
    </c:C10007>
    <c:C10007 rdf:about="http://example.org/577731130">
       <marc:M001>577731130</marc:M001>
@@ -3244,7 +3318,7 @@
       <m:P30169>8</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
-      <m:P30139 rdf:resource="http://www.wikidata.org/entity/q899334/ger/text"/>
+      <m:P30139 rdf:resource="http://www.wikidata.org/entity/q899334/eng/text"/>
    </c:C10007>
    <c:C10007 rdf:about="http://example.org/577731149">
       <marc:M001>577731149</marc:M001>
@@ -3265,7 +3339,7 @@
       <m:P30169>8</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
-      <m:P30139 rdf:resource="http://www.wikidata.org/entity/q899334/ger/text"/>
+      <m:P30139 rdf:resource="http://www.wikidata.org/entity/q899334/fre/text"/>
    </c:C10007>
    <c:C10007 rdf:about="http://example.org/577731165">
       <marc:M001>577731165</marc:M001>
@@ -3313,7 +3387,7 @@
       <m:P30169>gr. 8</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
-      <m:P30139 rdf:resource="http://www.wikidata.org/entity/q899334/ger/text"/>
+      <m:P30139 rdf:resource="http://www.wikidata.org/entity/q899334/nor/text"/>
    </c:C10007>
    <c:C10007 rdf:about="http://example.org/577731203">
       <marc:M001>577731203</marc:M001>
@@ -3369,7 +3443,7 @@
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
       <m:P30106>Novelistas sontemporáneos</m:P30106>
-      <m:P30139 rdf:resource="http://www.wikidata.org/entity/q899334/ger/text"/>
+      <m:P30139 rdf:resource="http://www.wikidata.org/entity/q899334/spa/text"/>
    </c:C10007>
    <c:C10007 rdf:about="http://example.org/577731262">
       <marc:M001>577731262</marc:M001>
@@ -3475,7 +3549,7 @@
       <m:P30169>8</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
-      <m:P30139 rdf:resource="http://www.wikidata.org/entity/q1736859/ger/text"/>
+      <m:P30139 rdf:resource="http://www.wikidata.org/entity/q1736859/eng/text"/>
    </c:C10007>
    <c:C10007 rdf:about="http://example.org/57773136x">
       <marc:M001>57773136X</marc:M001>
@@ -3486,7 +3560,7 @@
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
       <m:P30106>A Helen and Kurt Wolff Book</m:P30106>
-      <m:P30139 rdf:resource="http://www.wikidata.org/entity/q1736859/ger/text"/>
+      <m:P30139 rdf:resource="http://www.wikidata.org/entity/q1736859/eng/text"/>
    </c:C10007>
    <c:C10007 rdf:about="http://example.org/577731378">
       <marc:M001>577731378</marc:M001>
@@ -3499,7 +3573,7 @@
       <m:P30002>Band</m:P30002>
       <m:P30106>Penguin Books</m:P30106>
       <m:P30165>2542</m:P30165>
-      <m:P30139 rdf:resource="http://www.wikidata.org/entity/q1736859/ger/text"/>
+      <m:P30139 rdf:resource="http://www.wikidata.org/entity/q1736859/eng/text"/>
    </c:C10007>
    <c:C10007 rdf:about="http://example.org/577731386">
       <marc:M001>577731386</marc:M001>
@@ -3520,7 +3594,7 @@
       <m:P30169>8</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
-      <m:P30139 rdf:resource="http://www.wikidata.org/entity/q1736859/ger/text"/>
+      <m:P30139 rdf:resource="http://www.wikidata.org/entity/q1736859/fre/text"/>
    </c:C10007>
    <c:C10007 rdf:about="http://example.org/577731505">
       <marc:M001>577731505</marc:M001>
@@ -3583,7 +3657,7 @@
       <m:P30169>8</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
-      <m:P30139 rdf:resource="http://oslomet.workid.no/gg/06/ger/text"/>
+      <m:P30139 rdf:resource="http://oslomet.workid.no/gg/06/eng/text"/>
    </c:C10007>
    <c:C10007 rdf:about="http://example.org/578549069">
       <marc:M001>578549069</marc:M001>
@@ -3604,7 +3678,7 @@
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
       <m:P30106>A Helen and Kurt Wolff Book</m:P30106>
-      <m:P30139 rdf:resource="http://www.wikidata.org/entity/q6663949/ger/text"/>
+      <m:P30139 rdf:resource="http://www.wikidata.org/entity/q6663949/eng/text"/>
    </c:C10007>
    <c:C10007 rdf:about="http://example.org/578550008">
       <marc:M001>578550008</marc:M001>
@@ -3638,7 +3712,7 @@
       <m:P30169>8</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
-      <m:P30139 rdf:resource="http://oslomet.workid.no/gg/08/ger/text"/>
+      <m:P30139 rdf:resource="http://oslomet.workid.no/gg/08/nor/text"/>
    </c:C10007>
    <c:C10007 rdf:about="http://example.org/578551497">
       <marc:M001>578551497</marc:M001>
@@ -3650,7 +3724,7 @@
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
       <m:P30106>Penguin Books</m:P30106>
-      <m:P30139 rdf:resource="http://www.wikidata.org/entity/q499564/ger/text"/>
+      <m:P30139 rdf:resource="http://www.wikidata.org/entity/q499564/eng/text"/>
    </c:C10007>
    <c:C10007 rdf:about="http://example.org/578551969">
       <marc:M001>578551969</marc:M001>
@@ -3663,7 +3737,7 @@
       <m:P30106>A Harvest book</m:P30106>
       <m:P30165>HB 221</m:P30165>
       <m:P30106>A Helen and Kurt Wolff Book</m:P30106>
-      <m:P30139 rdf:resource="http://viaf.org/viaf/312508045/ger/text"/>
+      <m:P30139 rdf:resource="http://viaf.org/viaf/312508045/eng/text"/>
    </c:C10007>
    <c:C10007 rdf:about="http://example.org/57855271x">
       <marc:M001>57855271X</marc:M001>
@@ -3675,7 +3749,7 @@
       <m:P30002>Band</m:P30002>
       <m:P30106>A Fawcett premier book</m:P30106>
       <m:P30165>Q 537</m:P30165>
-      <m:P30139 rdf:resource="http://www.wikidata.org/entity/q499564/ger/text"/>
+      <m:P30139 rdf:resource="http://www.wikidata.org/entity/q499564/eng/text"/>
    </c:C10007>
    <c:C10007 rdf:about="http://example.org/578552728">
       <marc:M001>578552728</marc:M001>
@@ -3686,7 +3760,7 @@
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
       <m:P30106>A Helen and Kurt Wolff Book</m:P30106>
-      <m:P30139 rdf:resource="http://oslomet.workid.no/gg/23/ger/text"/>
+      <m:P30139 rdf:resource="http://oslomet.workid.no/gg/23/eng/text"/>
    </c:C10007>
    <c:C10007 rdf:about="http://example.org/578553554">
       <marc:M001>578553554</marc:M001>
@@ -3721,7 +3795,7 @@
       <m:P30169>8</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
-      <m:P30139 rdf:resource="http://www.wikidata.org/entity/q6663949/ger/text"/>
+      <m:P30139 rdf:resource="http://www.wikidata.org/entity/q6663949/eng/text"/>
    </c:C10007>
    <c:C10007 rdf:about="http://example.org/720228891">
       <marc:M001>720228891</marc:M001>
@@ -4141,7 +4215,7 @@
       <m:P30169>22 cm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
-      <m:P30139 rdf:resource="http://www.wikidata.org/entity/q765047/ger/text"/>
+      <m:P30139 rdf:resource="http://www.wikidata.org/entity/q765047/nor/text"/>
    </c:C10007>
    <c:C10007 rdf:about="http://example.org/983065519">
       <marc:M001>983065519</marc:M001>
@@ -4162,7 +4236,7 @@
       <m:P30169>8</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
-      <m:P30139 rdf:resource="http://www.wikidata.org/entity/q320933/ger/text"/>
+      <m:P30139 rdf:resource="http://www.wikidata.org/entity/q320933/spa/text"/>
    </c:C10007>
    <c:C10007 rdf:about="http://example.org/983083088">
       <marc:M001>983083088</marc:M001>
@@ -4304,7 +4378,7 @@
       <m:P30169>18 cm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
-      <m:P30139 rdf:resource="http://www.wikidata.org/entity/q499564/ger/text"/>
+      <m:P30139 rdf:resource="http://www.wikidata.org/entity/q499564/eng/text"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:0140049207">
       <marc:M001>1007785187</marc:M001>
@@ -4315,7 +4389,7 @@
       <m:P30169>20 cm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
-      <m:P30139 rdf:resource="http://viaf.org/viaf/213148121/ger/text"/>
+      <m:P30139 rdf:resource="http://viaf.org/viaf/213148121/eng/text"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:0140064982195">
       <marc:M001>978752724</marc:M001>
@@ -4376,7 +4450,7 @@
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
       <m:P30106>A Helen and Kurt Wolff book</m:P30106>
-      <m:P30139 rdf:resource="http://viaf.org/viaf/213148121/ger/text"/>
+      <m:P30139 rdf:resource="http://viaf.org/viaf/213148121/eng/text"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:0151396000">
       <marc:M001>1007787783</marc:M001>
@@ -4387,7 +4461,7 @@
       <m:P30169>22 cm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
-      <m:P30139 rdf:resource="http://oslomet.workid.no/gg/10/ger/text"/>
+      <m:P30139 rdf:resource="http://oslomet.workid.no/gg/10/eng/text"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:0151759200">
       <marc:M001>1008574554</marc:M001>
@@ -4397,7 +4471,7 @@
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
       <m:P30106>A Helen and Kurt Wolff book</m:P30106>
-      <m:P30139 rdf:resource="http://www.wikidata.org/entity/q765047/ger/text"/>
+      <m:P30139 rdf:resource="http://www.wikidata.org/entity/q765047/eng/text"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:0156339501">
       <marc:M001>1008572896</marc:M001>
@@ -4409,7 +4483,7 @@
       <m:P30002>Band</m:P30002>
       <m:P30106>A Harvest book</m:P30106>
       <m:P30165>HB 330</m:P30165>
-      <m:P30139 rdf:resource="http://oslomet.workid.no/gg/08/ger/text"/>
+      <m:P30139 rdf:resource="http://oslomet.workid.no/gg/08/eng/text"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:0156920603">
       <marc:M001>940808986</marc:M001>
@@ -4445,7 +4519,7 @@
       <m:P30169>24 cm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
-      <m:P30139 rdf:resource="http://www.wikidata.org/entity/q765047/ger/text"/>
+      <m:P30139 rdf:resource="http://www.wikidata.org/entity/q765047/eng/text"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:0436187779">
       <marc:M001>368945243</marc:M001>
@@ -4456,7 +4530,7 @@
       <m:P30169>22 cm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
-      <m:P30139 rdf:resource="http://oslomet.workid.no/gg/10/ger/text"/>
+      <m:P30139 rdf:resource="http://oslomet.workid.no/gg/10/eng/text"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:0436187809">
       <marc:M001>368945170</marc:M001>
@@ -4468,7 +4542,7 @@
       <m:P30169>21 cm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
-      <m:P30139 rdf:resource="http://www.wikidata.org/entity/q1736859/ger/text"/>
+      <m:P30139 rdf:resource="http://www.wikidata.org/entity/q1736859/eng/text"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:0436187868">
       <marc:M001>368945014</marc:M001>
@@ -4479,7 +4553,7 @@
       <m:P30169>23 cm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
-      <m:P30139 rdf:resource="http://viaf.org/viaf/213148121/ger/text"/>
+      <m:P30139 rdf:resource="http://viaf.org/viaf/213148121/ng/text"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:0436187892">
       <marc:M001>100857273X</marc:M001>
@@ -4490,7 +4564,7 @@
       <m:P30169>23 cm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
-      <m:P30139 rdf:resource="http://oslomet.workid.no/gg/08/ger/text"/>
+      <m:P30139 rdf:resource="http://oslomet.workid.no/gg/08/eng/text"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:0436200643">
       <marc:M001>942226836</marc:M001>
@@ -4632,7 +4706,7 @@
       <m:P30169>21 cm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
-      <m:P30139 rdf:resource="http://viaf.org/viaf/213148121/ger/text"/>
+      <m:P30139 rdf:resource="http://viaf.org/viaf/213148121/fre/text"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:2020057360">
       <marc:M001>368945065</marc:M001>
@@ -4645,7 +4719,7 @@
       <m:P30002>Band</m:P30002>
       <m:P30106>Points : [...], Série Roman</m:P30106>
       <m:P30165>R 27</m:P30165>
-      <m:P30139 rdf:resource="http://viaf.org/viaf/213148121/ger/text"/>
+      <m:P30139 rdf:resource="http://viaf.org/viaf/213148121/fre/text"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:2020059371">
       <marc:M001>368945138</marc:M001>
@@ -4682,7 +4756,7 @@
       <m:P30002>Band</m:P30002>
       <m:P30106>Points : [...], Série Roman</m:P30106>
       <m:P30165>R 143</m:P30165>
-      <m:P30139 rdf:resource="http://www.wikidata.org/entity/q1736859/ger/text"/>
+      <m:P30139 rdf:resource="http://www.wikidata.org/entity/q1736859/fre/text"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:2245011856">
       <marc:M001>368945049</marc:M001>
@@ -4693,7 +4767,7 @@
       <m:P30169>21 cm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
-      <m:P30139 rdf:resource="http://viaf.org/viaf/213148121/ger/text"/>
+      <m:P30139 rdf:resource="http://viaf.org/viaf/213148121/fre/text"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:8202141184">
       <marc:M001>999404050674702201</marc:M001>
@@ -4736,7 +4810,7 @@
       <m:P30182>501 s.</m:P30182>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
-      <m:P30139 rdf:resource="http://viaf.org/viaf/213148121/ger/text"/>
+      <m:P30139 rdf:resource="http://viaf.org/viaf/213148121/nor/text"/>
       <m:P30139 rdf:resource="http://viaf.org/viaf/213148121/nob/"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:8205115710">
@@ -4889,7 +4963,7 @@
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
       <m:P30106>Den norske bokklubben</m:P30106>
-      <m:P30139 rdf:resource="http://www.wikidata.org/entity/q899334/ger/text"/>
+      <m:P30139 rdf:resource="http://www.wikidata.org/entity/q899334/nor/text"/>
       <m:P30139 rdf:resource="http://www.wikidata.org/entity/q899334/nob/"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:8252538258">
@@ -4978,7 +5052,7 @@
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
       <m:P30106>Colección Literatura Alfaguara</m:P30106>
-      <m:P30139 rdf:resource="http://viaf.org/viaf/213148121/ger/text"/>
+      <m:P30139 rdf:resource="http://viaf.org/viaf/213148121/spa/text"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:8420425087">
       <marc:M001>368944980</marc:M001>
@@ -4992,7 +5066,7 @@
       <m:P30002>Band</m:P30002>
       <m:P30106>Literatura Alfaguara</m:P30106>
       <m:P30165>19</m:P30165>
-      <m:P30139 rdf:resource="http://www.wikidata.org/entity/q899334/ger/text"/>
+      <m:P30139 rdf:resource="http://www.wikidata.org/entity/q899334/spa/text"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:8420425095">
       <marc:M001>368945154</marc:M001>
@@ -5005,7 +5079,7 @@
       <m:P30002>Band</m:P30002>
       <m:P30106>Literatura Alfaguara</m:P30106>
       <m:P30165>29</m:P30165>
-      <m:P30139 rdf:resource="http://www.wikidata.org/entity/q499564/ger/text"/>
+      <m:P30139 rdf:resource="http://www.wikidata.org/entity/q499564/spa/text"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:8420426970">
       <marc:M001>952007444</marc:M001>
