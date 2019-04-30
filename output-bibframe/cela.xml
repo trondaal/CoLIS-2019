@@ -373,7 +373,7 @@
       <m:P30002>Band</m:P30002>
       <m:P30106>Nobelpreis für Literatur</m:P30106>
       <m:P30165>84 = 1989</m:P30165>
-      <bibframe:instanceOf rdf:resource="/einvagabundimdienstespaniensnobelpreis1989spanien/ger"/>
+      <bibframe:instanceOf rdf:resource="http://viaf.org/viaf/14767431/einvagabundimdienstespaniensnobelpreis1989spanien/ger"/>
    </bibframe:Instance>
    <bibframe:Instance rdf:about="http://example.org/961866748">
       <marc:M001>961866748</marc:M001>
@@ -386,7 +386,7 @@
       <m:P30002>Band</m:P30002>
       <m:P30106>Nobelpreis für Literatur</m:P30106>
       <m:P30165>1989/1991</m:P30165>
-      <bibframe:instanceOf rdf:resource="/einvagabundimdienstespaniensnobelpreis1989spanien/ger"/>
+      <bibframe:instanceOf rdf:resource="http://viaf.org/viaf/14767431/einvagabundimdienstespaniensnobelpreis1989spanien/ger"/>
    </bibframe:Instance>
    <bibframe:Instance rdf:about="http://example.org/992951216">
       <marc:M001>992951216</marc:M001>
@@ -475,7 +475,7 @@
       <m:P30182>1 DVD-Vídeo (ca. 107 min)</m:P30182>
       <m:P30106>El cine español año a año, 1978-2007</m:P30106>
       <m:P30165>5</m:P30165>
-      <bibframe:instanceOf rdf:resource="/lacolmena/spa"/>
+      <bibframe:instanceOf rdf:resource="https://www.imdb.com/title/tt0083743//spa"/>
    </bibframe:Instance>
    <bibframe:Instance rdf:about="http://example.org/a5387241">
       <marc:M001>a5387241</marc:M001>
@@ -548,7 +548,7 @@
       <m:P30182>37 p., [27] h. de lám.</m:P30182>
       <m:P30169>21 cm</m:P30169>
       <m:P30001>sin mediación</m:P30001>
-      <bibframe:instanceOf rdf:resource="/camilojoscelayeugeniofernndezcartujocartastarjetasdedicatoriaslacolmenacebreros/spa"/>
+      <bibframe:instanceOf rdf:resource="http://viaf.org/viaf/14767431/camilojoscelayeugeniofernndezcartujocartastarjetasdedicatoriaslacolmenacebreros/spa"/>
    </bibframe:Instance>
    <bibframe:Instance rdf:about="http://example.org/a5955997">
       <marc:M001>a5955997</marc:M001>
@@ -2911,7 +2911,7 @@
       <m:P30011>1977]</m:P30011>
       <m:P30182>7 h.</m:P30182>
       <m:P30169>23 cm</m:P30169>
-      <bibframe:instanceOf rdf:resource="/elsignificadodelofemeninoenlafamiliadepascualduarte/spa"/>
+      <bibframe:instanceOf rdf:resource="timmjohn/elsignificadodelofemeninoenlafamiliadepascualduarte/spa"/>
    </bibframe:Instance>
    <bibframe:Instance rdf:about="http://example.org/bimo0001522277">
       <marc:M001>bimo0001522277</marc:M001>
@@ -3145,7 +3145,7 @@
       <m:P30083>editado por Gran Vía Musical de Ediciones</m:P30083>
       <m:P30011>D.L. 2003</m:P30011>
       <m:P30182>1 DVD-Vídeo (ca. 107 min)</m:P30182>
-      <bibframe:instanceOf rdf:resource="/lacolmena/spa"/>
+      <bibframe:instanceOf rdf:resource="https://www.imdb.com/title/tt0083743//spa"/>
    </bibframe:Instance>
    <bibframe:Instance rdf:about="http://example.org/bivi0000010987">
       <marc:M001>bivi0000010987</marc:M001>
@@ -3155,7 +3155,7 @@
       <m:P30083>CB Films</m:P30083>
       <m:P30011>D.L. 1983</m:P30011>
       <m:P30182>1 videocasete (Beta) (107 min)</m:P30182>
-      <bibframe:instanceOf rdf:resource="/lacolmena/spa"/>
+      <bibframe:instanceOf rdf:resource="https://www.imdb.com/title/tt0083743//spa"/>
    </bibframe:Instance>
    <bibframe:Instance rdf:about="http://example.org/bivi0000023321">
       <marc:M001>bivi0000023321</marc:M001>
@@ -3207,7 +3207,7 @@
       <m:P30011>D.L. 2007</m:P30011>
       <m:P30182>1 DVD-Vídeo (ca. 107 min)</m:P30182>
       <m:P30106>El Cine de TVE</m:P30106>
-      <bibframe:instanceOf rdf:resource="/lacolmena/spa"/>
+      <bibframe:instanceOf rdf:resource="https://www.imdb.com/title/tt0083743//spa"/>
    </bibframe:Instance>
    <bibframe:Instance rdf:about="http://example.org/mimo0000655403">
       <marc:M001>Mimo0000655403</marc:M001>
@@ -6307,7 +6307,7 @@
       <m:P30011>1982</m:P30011>
       <m:P30182>191 p., 2 h.</m:P30182>
       <m:P30169>23 cm</m:P30169>
-      <bibframe:instanceOf rdf:resource="/buscandoacelaenlaalcarria/spa"/>
+      <bibframe:instanceOf rdf:resource="barrasantiago/buscandoacelaenlaalcarria/spa"/>
    </bibframe:Instance>
    <bibframe:Instance rdf:about="urn:isbn:8430086870">
       <marc:M001>bimo0000511039</marc:M001>
@@ -8961,7 +8961,7 @@
       <m:P30169>21 cm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
-      <bibframe:instanceOf rdf:resource="/einvagabundimdienstespaniens/ger"/>
+      <bibframe:instanceOf rdf:resource="http://viaf.org/viaf/14767431/einvagabundimdienstespaniens/ger"/>
    </bibframe:Instance>
    <bibframe:Instance rdf:about="urn:isbn:9783492034227">
       <marc:M001>901337757</marc:M001>
@@ -9185,7 +9185,7 @@
       <m:P30002>Band</m:P30002>
       <m:P30106>Hispanistische Studien</m:P30106>
       <m:P30165>Bd. 25</m:P30165>
-      <bibframe:instanceOf rdf:resource="/literaturundfilmlacolmenavoncamilojoscela/ger"/>
+      <bibframe:instanceOf rdf:resource="palmesgisela/literaturundfilmlacolmenavoncamilojoscela/ger"/>
    </bibframe:Instance>
    <bibframe:Instance rdf:about="urn:isbn:9783716019016">
       <marc:M001>900310987</marc:M001>
@@ -9222,7 +9222,7 @@
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
       <bibframe:instanceOf rdf:resource="/camilojoscelalafamiliadepascualduarteeinwerkimkontextderspanischennachkriegszeit/ger"/>
-      <bibframe:instanceOf rdf:resource="/camilojoscelaslafamiliadepascualduarteeinwerkimkontextderspanischennachkriegszeit/ger"/>
+      <bibframe:instanceOf rdf:resource="radeckdavina/camilojoscelaslafamiliadepascualduarteeinwerkimkontextderspanischennachkriegszeit/ger"/>
    </bibframe:Instance>
    <bibframe:Instance rdf:about="urn:isbn:9783883792736">
       <marc:M001>811015335</marc:M001>
@@ -9302,7 +9302,7 @@
       <m:P30182>1 CD-ROM (42 p.)</m:P30182>
       <m:P30169>12 cm</m:P30169>
       <m:P30001>electrónico</m:P30001>
-      <bibframe:instanceOf rdf:resource="/lainfluenciadegutirrezsolanaenlosapuntescarpetovetnicosdecamilojoscela/spa"/>
+      <bibframe:instanceOf rdf:resource="garcamartnanamara/lainfluenciadegutirrezsolanaenlosapuntescarpetovetnicosdecamilojoscela/spa"/>
    </bibframe:Instance>
    <bibframe:Instance rdf:about="urn:isbn:9788420420684">
       <marc:M001>017958897</marc:M001>
@@ -9659,7 +9659,7 @@
       <m:P30182>194 p.</m:P30182>
       <m:P30169>23 cm</m:P30169>
       <m:P30001>sin mediación</m:P30001>
-      <bibframe:instanceOf rdf:resource="/buscandoacelaenlaalcarria/spa"/>
+      <bibframe:instanceOf rdf:resource="toquerocortssalvador/buscandoacelaenlaalcarria/spa"/>
    </bibframe:Instance>
    <bibframe:Instance rdf:about="urn:isbn:9788461221295">
       <marc:M001>a4297772</marc:M001>
@@ -9731,7 +9731,7 @@
       <m:P30182>158 p.</m:P30182>
       <m:P30169>20 cm</m:P30169>
       <m:P30001>sin mediación</m:P30001>
-      <bibframe:instanceOf rdf:resource="/significadoyestructuradelafamiliadepascualduarte/spa"/>
+      <bibframe:instanceOf rdf:resource="villanuevadaro/significadoyestructuradelafamiliadepascualduarte/spa"/>
    </bibframe:Instance>
    <bibframe:Instance rdf:about="urn:isbn:9788491042785">
       <marc:M001>a5760980</marc:M001>
@@ -9938,7 +9938,7 @@
       <m:P30001>sin mediación</m:P30001>
       <m:P30106>Literatura y sociedad</m:P30106>
       <m:P30165>89</m:P30165>
-      <bibframe:instanceOf rdf:resource="/historiaypolticaenlafamiliadepascualduarte/spa"/>
+      <bibframe:instanceOf rdf:resource="garridoardilajuanantonio/historiaypolticaenlafamiliadepascualduarte/spa"/>
    </bibframe:Instance>
    <bibframe:Instance rdf:about="urn:isbn:9788498676068">
       <marc:M001>a4599160</marc:M001>
@@ -10002,7 +10002,7 @@
       <m:P30182>1 Blu-Ray (ca. 107 min)</m:P30182>
       <m:P30001>vídeo</m:P30001>
       <m:P30106>Filmoteca Fnacional</m:P30106>
-      <bibframe:instanceOf rdf:resource="/lacolmena/spa"/>
+      <bibframe:instanceOf rdf:resource="https://www.imdb.com/title/tt0083743//spa"/>
    </bibframe:Instance>
    <bibframe:Person rdf:about="abadcontreraspedro">
       <a:P50111>Abad Contreras, Pedro</a:P50111>
@@ -10011,8 +10011,7 @@
    <bibframe:Person rdf:about="abrilvictoria">
       <a:P50111>Abril, Victoria</a:P50111>
       <a:P50107>1959-</a:P50107>
-      <a:P50071 rdf:resource="/lacolmena/spa"/>
-      <a:P50161 rdf:resource="/lacolmena/spa"/>
+      <a:P50071 rdf:resource="https://www.imdb.com/title/tt0083743//spa"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="aleumarc">
       <a:P50111>Aleu, Marc</a:P50111>
@@ -10042,8 +10041,7 @@
    <bibframe:Person rdf:about="anabeln">
       <a:P50111>Ana Belén</a:P50111>
       <a:P50107>1951-</a:P50107>
-      <a:P50071 rdf:resource="/lacolmena/spa"/>
-      <a:P50161 rdf:resource="/lacolmena/spa"/>
+      <a:P50071 rdf:resource="https://www.imdb.com/title/tt0083743//spa"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="apariciorafaela">
       <a:P50111>Aparicio, Rafaela</a:P50111>
@@ -10053,7 +10051,7 @@
    <bibframe:Person rdf:about="ariasimanol">
       <a:P50111>Arias, Imanol</a:P50111>
       <a:P50107>1956-</a:P50107>
-      <a:P50071 rdf:resource="/lacolmena/spa"/>
+      <a:P50071 rdf:resource="https://www.imdb.com/title/tt0083743//spa"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="arranzbravoeduardo">
       <a:P50111>Arranz-Bravo, Eduardo</a:P50111>
@@ -10098,17 +10096,17 @@
    </bibframe:Person>
    <bibframe:Person rdf:about="barraluis">
       <a:P50111>Barra, Luis</a:P50111>
-      <a:P50207 rdf:resource="/buscandoacelaenlaalcarria/spa"/>
+      <a:P50207 rdf:resource="toquerocortssalvador/buscandoacelaenlaalcarria/spa"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="barrasantiago">
       <a:P50111>Barra, Santiago</a:P50111>
-      <a:P50161 rdf:resource="/buscandoacelaenlaalcarria/spa"/>
+      <a:P50195 rdf:resource="barrasantiago/buscandoacelaenlaalcarria/spa"/>
+      <a:P50195 rdf:resource="toquerocortssalvador/buscandoacelaenlaalcarria/spa"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="bdalojos">
       <a:P50111>Bódalo, José</a:P50111>
       <a:P50107>1916-1985</a:P50107>
-      <a:P50071 rdf:resource="/lacolmena/spa"/>
-      <a:P50161 rdf:resource="/lacolmena/spa"/>
+      <a:P50071 rdf:resource="https://www.imdb.com/title/tt0083743//spa"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="beliznantonio">
       <a:P50111>Belizón, Antonio</a:P50111>
@@ -10134,7 +10132,6 @@
    </bibframe:Person>
    <bibframe:Person rdf:about="boudreauharoldl">
       <a:P50111>Boudreau, Harold L</a:P50111>
-      <a:P50161 rdf:resource="http://viaf.org/viaf/177039865/eng/eng"/>
       <a:P50189 rdf:resource="http://viaf.org/viaf/177039865/spa"/>
       <a:P50189 rdf:resource="http://viaf.org/viaf/177039865/eng/eng"/>
    </bibframe:Person>
@@ -10150,8 +10147,7 @@
    <bibframe:Person rdf:about="burmanhans">
       <a:P50111>Burman, Hans</a:P50111>
       <a:P50107>1937-</a:P50107>
-      <a:P50048 rdf:resource="/lacolmena/spa"/>
-      <a:P50161 rdf:resource="/lacolmena/spa"/>
+      <a:P50048 rdf:resource="https://www.imdb.com/title/tt0083743//spa"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="busettecedric">
       <a:P50111>Busette, Cedric</a:P50111>
@@ -10166,8 +10162,7 @@
    <bibframe:Person rdf:about="camusmario">
       <a:P50111>Camus, Mario</a:P50111>
       <a:P50107>1935-</a:P50107>
-      <a:P50048 rdf:resource="/lacolmena/spa"/>
-      <a:P50161 rdf:resource="/lacolmena/spa"/>
+      <a:P50048 rdf:resource="https://www.imdb.com/title/tt0083743//spa"/>
       <a:P50195 rdf:resource="camusmario/colmena"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="canalesalfonso">
@@ -10192,7 +10187,7 @@
    <bibframe:Person rdf:about="carrillomary">
       <a:P50111>Carrillo, Mary</a:P50111>
       <a:P50107>1919-2009</a:P50107>
-      <a:P50071 rdf:resource="/lacolmena/spa"/>
+      <a:P50071 rdf:resource="https://www.imdb.com/title/tt0083743//spa"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="castaomarina">
       <a:P50111>Castaño, Marina</a:P50111>
@@ -10215,8 +10210,8 @@
    <bibframe:Person rdf:about="cigsluis">
       <a:P50111>Cigés, Luis</a:P50111>
       <a:P50107>1921-2002</a:P50107>
-      <a:P50071 rdf:resource="/lacolmena/spa"/>
-      <a:P50161 rdf:resource="/lainslitaygloriosahazaadelcipotedearchidona/spa"/>
+      <a:P50071 rdf:resource="/lainslitaygloriosahazaadelcipotedearchidona/spa"/>
+      <a:P50071 rdf:resource="https://www.imdb.com/title/tt0083743//spa"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="cohenjm">
       <a:P50111>Cohen, J. M</a:P50111>
@@ -10235,7 +10230,7 @@
    <bibframe:Person rdf:about="cuadradoluis">
       <a:P50111>Cuadrado, Luis</a:P50111>
       <a:P50107>1934-1980</a:P50107>
-      <a:P50161 rdf:resource="/pascualduarte/spa"/>
+      <a:P50048 rdf:resource="/pascualduarte/spa"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="delibesmiguel">
       <a:P50111>Delibes, Miguel</a:P50111>
@@ -10250,9 +10245,8 @@
    <bibframe:Person rdf:about="dibildosjosluis">
       <a:P50111>Dibildos, José Luis</a:P50111>
       <a:P50107>1929-2002</a:P50107>
-      <a:P50161 rdf:resource="/lacolmena/spa"/>
-      <a:P50213 rdf:resource="/lacolmena/spa"/>
-      <a:P50223 rdf:resource="/lacolmena/spa"/>
+      <a:P50213 rdf:resource="https://www.imdb.com/title/tt0083743//spa"/>
+      <a:P50223 rdf:resource="https://www.imdb.com/title/tt0083743//spa"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="diegodelarosafernandode">
       <a:P50111>Diego de la Rosa, Fernando de</a:P50111>
@@ -10282,7 +10276,7 @@
    <bibframe:Person rdf:about="escobarluis">
       <a:P50111>Escobar, Luis</a:P50111>
       <a:P50107>1908-1991</a:P50107>
-      <a:P50071 rdf:resource="/lacolmena/spa"/>
+      <a:P50071 rdf:resource="https://www.imdb.com/title/tt0083743//spa"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="esplandiujuan">
       <a:P50111>Esplandiu, Juan</a:P50111>
@@ -10293,8 +10287,7 @@
    <bibframe:Person rdf:about="faltoyanofiorella">
       <a:P50111>Faltoyano, Fiorella</a:P50111>
       <a:P50107>1950-</a:P50107>
-      <a:P50071 rdf:resource="/lacolmena/spa"/>
-      <a:P50161 rdf:resource="/lacolmena/spa"/>
+      <a:P50071 rdf:resource="https://www.imdb.com/title/tt0083743//spa"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="fernndezariasirmaisabel">
       <a:P50111>Fernández Arias, Irma Isabel</a:P50111>
@@ -10315,7 +10308,7 @@
    <bibframe:Person rdf:about="francoricardo">
       <a:P50111>Franco, Ricardo</a:P50111>
       <a:P50107>1949-1998</a:P50107>
-      <a:P50161 rdf:resource="/pascualduarte/spa"/>
+      <a:P50048 rdf:resource="/pascualduarte/spa"/>
       <a:P50223 rdf:resource="/pascualduarte/spa"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="fustergarcafrancisco">
@@ -10336,8 +10329,7 @@
    <bibframe:Person rdf:about="garcaabrilantn">
       <a:P50111>García Abril, Antón</a:P50111>
       <a:P50107>1933-</a:P50107>
-      <a:P50161 rdf:resource="/lacolmena/spa"/>
-      <a:P50187 rdf:resource="/lacolmena/spa"/>
+      <a:P50187 rdf:resource="https://www.imdb.com/title/tt0083743//spa"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="garcagrgolesjess">
       <a:P50111>García Gárgoles, Jesús</a:P50111>
@@ -10351,6 +10343,7 @@
    <bibframe:Person rdf:about="garcamartnanamara">
       <ex:relatorcode>aut</ex:relatorcode>
       <a:P50111>García Martín, Ana María</a:P50111>
+      <a:P50195 rdf:resource="garcamartnanamara/lainfluenciadegutirrezsolanaenlosapuntescarpetovetnicosdecamilojoscela/spa"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="garcaseguragregorio">
       <a:P50111>García Segura, Gregorio</a:P50111>
@@ -10360,6 +10353,7 @@
    <bibframe:Person rdf:about="garridoardilajuanantonio">
       <ex:relatorcode>aut</ex:relatorcode>
       <a:P50111>Garrido Ardila, Juan Antonio</a:P50111>
+      <a:P50195 rdf:resource="garridoardilajuanantonio/historiaypolticaenlafamiliadepascualduarte/spa"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="gatagntino">
       <a:P50111>Gatagán, Tino</a:P50111>
@@ -10381,7 +10375,6 @@
       <a:P50111>Gómez, José Luis</a:P50111>
       <a:P50107>1940-</a:P50107>
       <a:P50071 rdf:resource="/pascualduarte/spa"/>
-      <a:P50161 rdf:resource="/pascualduarte/spa"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="gmezramiro">
       <a:P50111>Gómez, Ramiro</a:P50111>
@@ -10391,12 +10384,11 @@
    <bibframe:Person rdf:about="goilorenzo">
       <a:P50111>Goñi, Lorenzo</a:P50111>
       <a:P50107>1911-1992</a:P50107>
-      <a:P50161 rdf:resource="http://workid.oslomet.no/cjc/32/spa"/>
-      <a:P50161 rdf:resource="http://workid.oslomet.no/cjc/49/spa"/>
-      <a:P50161 rdf:resource="http://workid.oslomet.no/cjc/71/spa"/>
-      <a:P50161 rdf:resource="http://workid.oslomet.no/cjc/52/spa"/>
-      <a:P50161 rdf:resource="http://viaf.org/viaf/178631752/spa"/>
       <a:P50469 rdf:resource="http://workid.oslomet.no/cjc/52/spa"/>
+      <a:P50469 rdf:resource="http://workid.oslomet.no/cjc/32/spa"/>
+      <a:P50469 rdf:resource="http://workid.oslomet.no/cjc/49/spa"/>
+      <a:P50469 rdf:resource="http://workid.oslomet.no/cjc/71/spa"/>
+      <a:P50469 rdf:resource="http://viaf.org/viaf/178631752/spa"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="gonilorenzo">
       <a:P50111>Goñi, Lorenzo</a:P50111>
@@ -10406,7 +10398,7 @@
    <bibframe:Person rdf:about="gonzlezagustn">
       <a:P50111>González, Agustín</a:P50111>
       <a:P50107>1930-2005</a:P50107>
-      <a:P50071 rdf:resource="/lacolmena/spa"/>
+      <a:P50071 rdf:resource="https://www.imdb.com/title/tt0083743//spa"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="gonzlezdelvallemarajess">
       <a:P50111>González del Valle, María Jesús</a:P50111>
@@ -10434,7 +10426,7 @@
    <bibframe:Person rdf:about="gutirrezcabaemilio">
       <a:P50111>Gutiérrez Caba, Emilio</a:P50111>
       <a:P50107>1942-</a:P50107>
-      <a:P50071 rdf:resource="/lacolmena/spa"/>
+      <a:P50071 rdf:resource="https://www.imdb.com/title/tt0083743//spa"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="gutirrezdomingo">
       <a:P50111>Gutiérrez, Domingo</a:P50111>
@@ -10445,7 +10437,7 @@
       <a:P50111>Gutiérrez Solana, José</a:P50111>
       <a:P50107>1886-1945</a:P50107>
       <x:P00014 rdf:resource="http://workid.oslomet.no/cjc/27/spa"/>
-      <x:P00014 rdf:resource="/lainfluenciadegutirrezsolanaenlosapuntescarpetovetnicosdecamilojoscela/spa"/>
+      <x:P00014 rdf:resource="garcamartnanamara/lainfluenciadegutirrezsolanaenlosapuntescarpetovetnicosdecamilojoscela/spa"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="haaseugen">
       <a:P50111>Haas, Eugen</a:P50111>
@@ -10480,23 +10472,34 @@
       <a:P50107>1916-2002</a:P50107>
       <ex:relatorcode>aut</ex:relatorcode>
       <a:P50161 rdf:resource="http://viaf.org/viaf/177039865/spa"/>
-      <a:P50161 rdf:resource="/lacolmenamrscaldwellhablaconsuhijo/spa"/>
-      <a:P50161 rdf:resource="/lacolmenamazurcaparadosmuertos/spa"/>
       <a:P50195 rdf:resource="http://viaf.org/viaf/177039865"/>
       <a:P50195 rdf:resource="http://viaf.org/viaf/178631752"/>
       <a:P50195 rdf:resource="http://workid.oslomet.no/cjc/21"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/177039865/spa"/>
       <a:P50195 rdf:resource="http://viaf.org/viaf/204615683"/>
       <a:P50195 rdf:resource="http://viaf.org/viaf/180681984"/>
       <a:P50195 rdf:resource="http://viaf.org/viaf/181460365"/>
       <a:P50195 rdf:resource="http://workid.oslomet.no/cjc/09"/>
       <a:P50195 rdf:resource="http://viaf.org/viaf/181108754"/>
       <a:P50195 rdf:resource="http://viaf.org/viaf/176439895"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/14767431/camilojoscelayeugeniofernndezcartujocartastarjetasdedicatoriaslacolmenacebreros/spa"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/178631752/spa"/>
       <a:P50195 rdf:resource="http://viaf.org/viaf/310298640"/>
       <a:P50195 rdf:resource="http://viaf.org/viaf/175431030"/>
+      <a:P50195 rdf:resource="http://workid.oslomet.no/cjc/30/spa"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/181460365/spa"/>
       <a:P50195 rdf:resource="http://viaf.org/viaf/180275603"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/178631752/ger/ger"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/177039865/ger/ger"/>
       <a:P50195 rdf:resource="http://viaf.org/viaf/310217157"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/310217157/ger/ger"/>
       <a:P50195 rdf:resource="http://viaf.org/viaf/309337537"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/309337537/ger/ger"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/14767431/einvagabundimdienstespaniensnobelpreis1989spanien/ger"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/181460365/ger/ger"/>
       <a:P50195 rdf:resource="http://viaf.org/viaf/185952526"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/185952526/ger/ger"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/14767431/einvagabundimdienstespaniens/ger"/>
       <a:P50204 rdf:resource="http://workid.oslomet.no/cjc/47/spa"/>
       <a:P50204 rdf:resource="http://viaf.org/viaf/380145857926123020025/spa"/>
       <a:P50204 rdf:resource="http://workid.oslomet.no/cjc/14/spa"/>
@@ -10644,16 +10647,15 @@
       <a:P50204 rdf:resource="http://viaf.org/viaf/178631752/nob/nob"/>
       <x:P00014 rdf:resource="http://workid.oslomet.no/cjc/95/spa"/>
       <x:P00014 rdf:resource="http://workid.oslomet.no/cjc/34/spa"/>
-      <x:P00014 rdf:resource="/camilojoscelayeugeniofernndezcartujocartastarjetasdedicatoriaslacolmenacebreros/spa"/>
+      <x:P00014 rdf:resource="http://viaf.org/viaf/14767431/camilojoscelayeugeniofernndezcartujocartastarjetasdedicatoriaslacolmenacebreros/spa"/>
       <x:P00014 rdf:resource="/loscuentosdeelbonitocrimendelcarabinerodecamilojoscelarecuentodelcincuentenario19471997/spa"/>
       <x:P00014 rdf:resource="/literaturundfilmlacolmenavoncamilojoscela/ger"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="http://viaf.org/viaf/56299308">
       <a:P50111>Algora, Francisco</a:P50111>
       <a:P50107>1948-2016</a:P50107>
-      <a:P50071 rdf:resource="/lacolmena/spa"/>
-      <a:P50161 rdf:resource="/lacolmena/spa"/>
-      <a:P50161 rdf:resource="/lainslitaygloriosahazaadelcipotedearchidona/spa"/>
+      <a:P50071 rdf:resource="https://www.imdb.com/title/tt0083743//spa"/>
+      <a:P50071 rdf:resource="/lainslitaygloriosahazaadelcipotedearchidona/spa"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="http://viaf.org/viaf/66142208">
       <a:P50111>Risvik, Kjell</a:P50111>
@@ -10665,7 +10667,6 @@
       <a:P50111>Alterio, Héctor</a:P50111>
       <a:P50107>1929-</a:P50107>
       <a:P50071 rdf:resource="/pascualduarte/spa"/>
-      <a:P50161 rdf:resource="/pascualduarte/spa"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="huartemortonfernando">
       <a:P50111>Huarte Morton, Fernando</a:P50111>
@@ -10698,7 +10699,6 @@
    <bibframe:Person rdf:about="kronikjohnw">
       <a:P50111>Kronik, John W</a:P50111>
       <a:P50107>1931-2006</a:P50107>
-      <a:P50161 rdf:resource="http://viaf.org/viaf/177039865/eng/eng"/>
       <a:P50189 rdf:resource="http://viaf.org/viaf/177039865/spa"/>
       <a:P50189 rdf:resource="http://viaf.org/viaf/177039865/eng/eng"/>
    </bibframe:Person>
@@ -10740,13 +10740,12 @@
    <bibframe:Person rdf:about="lpezcharo">
       <a:P50111>López, Charo</a:P50111>
       <a:P50107>1943-</a:P50107>
-      <a:P50071 rdf:resource="/lacolmena/spa"/>
-      <a:P50161 rdf:resource="/lacolmena/spa"/>
+      <a:P50071 rdf:resource="https://www.imdb.com/title/tt0083743//spa"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="lpezvzquezjosluis">
       <a:P50111>López Vázquez, José Luis</a:P50111>
       <a:P50107>1922-2009</a:P50107>
-      <a:P50071 rdf:resource="/lacolmena/spa"/>
+      <a:P50071 rdf:resource="https://www.imdb.com/title/tt0083743//spa"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="luqueisabel">
       <a:P50111>Luque, Isabel</a:P50111>
@@ -10783,7 +10782,6 @@
    <bibframe:Person rdf:about="martnezlzaroemilio">
       <a:P50111>Martínez Lázaro, Emilio</a:P50111>
       <a:P50107>1945-</a:P50107>
-      <a:P50161 rdf:resource="/pascualduarte/spa"/>
       <a:P50223 rdf:resource="/pascualduarte/spa"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="medinaantonio">
@@ -10824,12 +10822,11 @@
    </bibframe:Person>
    <bibframe:Person rdf:about="navasvillalbalucianojos">
       <a:P50111>Navas Villalba, Luciano José</a:P50111>
-      <a:P50189 rdf:resource="/camilojoscelayeugeniofernndezcartujocartastarjetasdedicatoriaslacolmenacebreros/spa"/>
+      <a:P50189 rdf:resource="http://viaf.org/viaf/14767431/camilojoscelayeugeniofernndezcartujocartastarjetasdedicatoriaslacolmenacebreros/spa"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="ojeapaca">
       <a:P50111>Ojea, Paca</a:P50111>
       <a:P50071 rdf:resource="/pascualduarte/spa"/>
-      <a:P50161 rdf:resource="/pascualduarte/spa"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="ojedapaca">
       <a:P50111>Ojeda, Paca</a:P50111>
@@ -10846,7 +10843,6 @@
    <bibframe:Person rdf:about="pabloluisde">
       <a:P50111>Pablo, Luis de</a:P50111>
       <a:P50107>1930-</a:P50107>
-      <a:P50161 rdf:resource="/pascualduarte/spa"/>
       <a:P50187 rdf:resource="/pascualduarte/spa"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="palazueloenrique">
@@ -10858,17 +10854,17 @@
       <a:P50111>Palmes, Gisela</a:P50111>
       <a:P50107>1955-</a:P50107>
       <ex:relatorcode>aut</ex:relatorcode>
+      <a:P50195 rdf:resource="palmesgisela/literaturundfilmlacolmenavoncamilojoscela/ger"/>
       <a:P50204 rdf:resource="/literaturundfilmlacolmenavoncamilojoscela/ger"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="pardomario">
       <a:P50111>Pardo, Mario</a:P50111>
       <a:P50107>1944-</a:P50107>
-      <a:P50071 rdf:resource="/lacolmena/spa"/>
-      <a:P50161 rdf:resource="/lacolmena/spa"/>
+      <a:P50071 rdf:resource="https://www.imdb.com/title/tt0083743//spa"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="parrajulio">
       <a:P50111>Parra, Julio</a:P50111>
-      <a:P50161 rdf:resource="/lacolmena/spa"/>
+      <a:P50161 rdf:resource="https://www.imdb.com/title/tt0083743//spa"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="pastordearozenabrbara">
       <a:P50111>Pastor de Arozena, Bárbara</a:P50111>
@@ -10883,8 +10879,7 @@
    <bibframe:Person rdf:about="picassopablo">
       <a:P50111>Picasso, Pablo</a:P50111>
       <a:P50107>1881-1973</a:P50107>
-      <a:P50161 rdf:resource="http://viaf.org/viaf/309337537/spa"/>
-      <a:P50161 rdf:resource="http://viaf.org/viaf/309337537/ger/ger"/>
+      <a:P50469 rdf:resource="http://viaf.org/viaf/309337537/spa"/>
       <a:P50469 rdf:resource="http://viaf.org/viaf/309337537/ger/ger"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="plajaume">
@@ -10900,7 +10895,6 @@
    </bibframe:Person>
    <bibframe:Person rdf:about="polackphilip">
       <a:P50111>Polack, Philip</a:P50111>
-      <a:P50161 rdf:resource="http://viaf.org/viaf/181108754/eng/eng"/>
       <a:P50189 rdf:resource="http://viaf.org/viaf/181108754/eng/eng"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="poltjohnhr">
@@ -10910,7 +10904,7 @@
    <bibframe:Person rdf:about="pontemaraluisa">
       <a:P50111>Ponte, María Luisa</a:P50111>
       <a:P50107>1918-1996</a:P50107>
-      <a:P50071 rdf:resource="/lacolmena/spa"/>
+      <a:P50071 rdf:resource="https://www.imdb.com/title/tt0083743//spa"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="pozueloyvancosjosmara">
       <a:P50111>Pozuelo Yvancos, José María</a:P50111>
@@ -10927,7 +10921,6 @@
    <bibframe:Person rdf:about="querejetaelas">
       <a:P50111>Querejeta, Elías</a:P50111>
       <a:P50107>1934-2013</a:P50107>
-      <a:P50161 rdf:resource="/pascualduarte/spa"/>
       <a:P50213 rdf:resource="/pascualduarte/spa"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="querejetafranciscoj">
@@ -10937,17 +10930,17 @@
    <bibframe:Person rdf:about="quintillelvira">
       <a:P50111>Quintillá, Elvira</a:P50111>
       <a:P50107>1928-2013</a:P50107>
-      <a:P50071 rdf:resource="/lacolmena/spa"/>
+      <a:P50071 rdf:resource="https://www.imdb.com/title/tt0083743//spa"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="rabalfrancisco">
       <a:P50111>Rabal, Francisco</a:P50111>
       <a:P50107>1926-2001</a:P50107>
-      <a:P50071 rdf:resource="/lacolmena/spa"/>
-      <a:P50161 rdf:resource="/lacolmena/spa"/>
+      <a:P50071 rdf:resource="https://www.imdb.com/title/tt0083743//spa"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="radeckdavina">
       <a:P50111>Radeck, Davina</a:P50111>
       <ex:relatorcode>aut</ex:relatorcode>
+      <a:P50195 rdf:resource="radeckdavina/camilojoscelaslafamiliadepascualduarteeinwerkimkontextderspanischennachkriegszeit/ger"/>
       <a:P50204 rdf:resource="/camilojoscelalafamiliadepascualduarteeinwerkimkontextderspanischennachkriegszeit/ger"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="redondelaagustn">
@@ -10959,7 +10952,7 @@
    <bibframe:Person rdf:about="resinesantonio">
       <a:P50111>Resines, Antonio</a:P50111>
       <a:P50107>1949-</a:P50107>
-      <a:P50071 rdf:resource="/lacolmena/spa"/>
+      <a:P50071 rdf:resource="https://www.imdb.com/title/tt0083743//spa"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="revueltalen">
       <a:P50111>Revuelta, León</a:P50111>
@@ -10985,7 +10978,7 @@
    <bibframe:Person rdf:about="rodrguezlpezvzquezalfredo">
       <a:P50111>Rodríguez López-Vázquez, Alfredo</a:P50111>
       <a:P50107>1932-</a:P50107>
-      <a:P50204 rdf:resource="/elsignificadodelofemeninoenlafamiliadepascualduarte/spa"/>
+      <a:P50204 rdf:resource="timmjohn/elsignificadodelofemeninoenlafamiliadepascualduarte/spa"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="rojojosantonio">
       <a:P50111>Rojo, José Antonio</a:P50111>
@@ -11010,7 +11003,7 @@
    <bibframe:Person rdf:about="sacristnjos">
       <a:P50111>Sacristán, José</a:P50111>
       <a:P50107>1937-</a:P50107>
-      <a:P50071 rdf:resource="/lacolmena/spa"/>
+      <a:P50071 rdf:resource="https://www.imdb.com/title/tt0083743//spa"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="sagarfacimatilde">
       <a:P50111>Sagaró Faci, Matilde</a:P50111>
@@ -11044,7 +11037,7 @@
    <bibframe:Person rdf:about="sazatorniljos">
       <a:P50111>Sazatornil, José</a:P50111>
       <a:P50107>1926-2015</a:P50107>
-      <a:P50071 rdf:resource="/lacolmena/spa"/>
+      <a:P50071 rdf:resource="https://www.imdb.com/title/tt0083743//spa"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="serrallimonajosep">
       <a:P50111>Serra Llimona, Josep</a:P50111>
@@ -11072,6 +11065,8 @@
       <a:P50111>Sobejano, Gonzalo</a:P50111>
       <a:P50107>1928-</a:P50107>
       <a:P50161 rdf:resource="http://viaf.org/viaf/178631752/spa"/>
+      <a:P50189 rdf:resource="http://viaf.org/viaf/178631752/spa"/>
+      <a:P50528 rdf:resource="http://viaf.org/viaf/178631752/spa"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="sokolinskymartin">
       <a:P50111>Sokolinsky, Martin</a:P50111>
@@ -11100,11 +11095,11 @@
    <bibframe:Person rdf:about="spechtrainer">
       <a:P50111>Specht, Rainer</a:P50111>
       <a:P50145 rdf:resource="http://viaf.org/viaf/309337537/ger/ger"/>
-      <a:P50161 rdf:resource="http://viaf.org/viaf/309337537/ger/ger"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="theilebruhnsgerda">
       <a:P50111>Theile-Bruhns, Gerda</a:P50111>
       <a:P50145 rdf:resource="http://viaf.org/viaf/178631752/ger/ger"/>
+      <a:P50145 rdf:resource="http://viaf.org/viaf/177039865/ger/ger"/>
       <a:P50145 rdf:resource="http://viaf.org/viaf/185952526/ger/ger"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="theilebrunhsgerda">
@@ -11113,6 +11108,7 @@
    </bibframe:Person>
    <bibframe:Person rdf:about="timmjohn">
       <a:P50111>Timm, John</a:P50111>
+      <a:P50195 rdf:resource="timmjohn/elsignificadodelofemeninoenlafamiliadepascualduarte/spa"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="tolentinojavier">
       <a:P50111>Tolentino, Javier</a:P50111>
@@ -11122,7 +11118,8 @@
       <a:P50111>Toquero Cortés, Salvador</a:P50111>
       <a:P50107>1926-2007</a:P50107>
       <ex:relatorcode>aut</ex:relatorcode>
-      <a:P50204 rdf:resource="/buscandoacelaenlaalcarria/spa"/>
+      <a:P50195 rdf:resource="toquerocortssalvador/buscandoacelaenlaalcarria/spa"/>
+      <a:P50204 rdf:resource="barrasantiago/buscandoacelaenlaalcarria/spa"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="ubiajulio">
       <a:P50111>Ubiña, Julio</a:P50111>
@@ -11140,10 +11137,10 @@
    <bibframe:Person rdf:about="urrutiajorge">
       <a:P50111>Urrutia, Jorge</a:P50111>
       <a:P50107>1945-</a:P50107>
-      <a:P50161 rdf:resource="http://viaf.org/viaf/177039865/spa"/>
-      <a:P50161 rdf:resource="http://viaf.org/viaf/178631752/spa"/>
       <a:P50189 rdf:resource="http://viaf.org/viaf/178631752/spa"/>
+      <a:P50189 rdf:resource="http://viaf.org/viaf/177039865/spa"/>
       <a:P50204 rdf:resource="/celalafamiliadepascualduarteloscontextosyeltexto/spa"/>
+      <a:P50528 rdf:resource="http://viaf.org/viaf/177039865/spa"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="vaqueirovtor">
       <a:P50111>Vaqueiro, Vítor</a:P50111>
@@ -11157,7 +11154,7 @@
    <bibframe:Person rdf:about="velascoconcha">
       <a:P50111>Velasco, Concha</a:P50111>
       <a:P50107>1939-</a:P50107>
-      <a:P50071 rdf:resource="/lacolmena/spa"/>
+      <a:P50071 rdf:resource="https://www.imdb.com/title/tt0083743//spa"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="vicenteeduardo">
       <a:P50111>Vicente, Eduardo</a:P50111>
@@ -11179,9 +11176,10 @@
       <ex:relatorcode>aut</ex:relatorcode>
       <a:P50111>Villanueva, Darío</a:P50111>
       <a:P50107>1950-</a:P50107>
-      <a:P50161 rdf:resource="http://viaf.org/viaf/178631752/spa"/>
-      <a:P50161 rdf:resource="http://workid.oslomet.no/cjc/90/spa"/>
+      <a:P50189 rdf:resource="http://viaf.org/viaf/178631752/spa"/>
+      <a:P50189 rdf:resource="http://workid.oslomet.no/cjc/90/spa"/>
       <a:P50189 rdf:resource="http://viaf.org/viaf/177039865/spa"/>
+      <a:P50195 rdf:resource="villanuevadaro/significadoyestructuradelafamiliadepascualduarte/spa"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="vintesfernando">
       <a:P50111>Vintes, Fernando</a:P50111>
@@ -11268,18 +11266,6 @@
       <w:P10065 rdf:resource="huartemortonfernando"/>
       <w:P10256 rdf:resource="http://viaf.org/viaf/181108754"/>
    </bibframe:Work>
-   <bibframe:Work rdf:about="/buscandoacelaenlaalcarria/spa">
-      <e:P20006>spa</e:P20006>
-      <w:P10088>Buscando a Cela en la Alcarria</w:P10088>
-      <w:P30117>Salvador Toquero, Santiago Barra</w:P30117>
-      <w:P30117>Salvador Toquero, Santiago Barra ; [fotografías, Luis Barra]</w:P30117>
-      <bibframe:hasInstance rdf:resource="urn:isbn:8430073167"/>
-      <bibframe:hasInstance rdf:resource="urn:isbn:9788460877608"/>
-      <e:P20053 rdf:resource="barrasantiago"/>
-      <w:P10065 rdf:resource="toquerocortssalvador"/>
-      <w:P10068 rdf:resource="barraluis"/>
-      <w:P10256 rdf:resource="http://viaf.org/viaf/181108754"/>
-   </bibframe:Work>
    <bibframe:Work rdf:about="/camilojoscelalafamiliadepascualduarteeinwerkimkontextderspanischennachkriegszeit/ger">
       <e:P20006>ger</e:P20006>
       <w:P10088>Camilo José Cela "La familia de Pascual Duarte"</w:P10088>
@@ -11289,14 +11275,6 @@
       <w:P10065 rdf:resource="radeckdavina"/>
       <w:P10256 rdf:resource="http://viaf.org/viaf/177039865"/>
    </bibframe:Work>
-   <bibframe:Work rdf:about="/camilojoscelaslafamiliadepascualduarteeinwerkimkontextderspanischennachkriegszeit/ger">
-      <e:P20006>ger</e:P20006>
-      <w:P10088>Camilo José Celas La familia de Pascual Duarte</w:P10088>
-      <w:P10088>ein Werk im Kontext der spanischen Nachkriegszeit</w:P10088>
-      <w:P30117>Davina Radeck</w:P30117>
-      <bibframe:hasInstance rdf:resource="urn:isbn:9783828825697"/>
-      <w:P10256 rdf:resource="http://viaf.org/viaf/177039865"/>
-   </bibframe:Work>
    <bibframe:Work rdf:about="/camilojoscelayellenguajepopularvenezolano/spa">
       <e:P20006>spa</e:P20006>
       <w:P10088>Camilo José Cela y el lenguaje popular venezolano</w:P10088>
@@ -11304,16 +11282,6 @@
       <bibframe:hasInstance rdf:resource="urn:isbn:8430095764"/>
       <w:P10065 rdf:resource="hernandocuadradoluisalberto"/>
       <w:P10256 rdf:resource="http://workid.oslomet.no/cjc/21"/>
-   </bibframe:Work>
-   <bibframe:Work rdf:about="/camilojoscelayeugeniofernndezcartujocartastarjetasdedicatoriaslacolmenacebreros/spa">
-      <e:P20006>spa</e:P20006>
-      <w:P10088>Camilo José Cela y Eugenio Fernández "Cartujo"</w:P10088>
-      <w:P10088>cartas, tarjetas, dedicatorias : ("La Colmena", Cebreros)</w:P10088>
-      <w:P30117>Luciano José Navas Villalba</w:P30117>
-      <bibframe:hasInstance rdf:resource="http://example.org/a5952380"/>
-      <w:P10055 rdf:resource="navasvillalbalucianojos"/>
-      <w:P10256 rdf:resource="http://viaf.org/viaf/178631752"/>
-      <w:P10256 rdf:resource="http://viaf.org/viaf/14767431"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="/caprichos">
       <w:P10088>Caprichos</w:P10088>
@@ -11389,22 +11357,6 @@
       <w:P10256 rdf:resource="http://workid.oslomet.no/cjc/21"/>
       <w:P10256 rdf:resource="gallegosrmulo/doabrbara"/>
    </bibframe:Work>
-   <bibframe:Work rdf:about="/einvagabundimdienstespaniens/ger">
-      <e:P20006>ger</e:P20006>
-      <w:P10088>&#x98;Ein&#x9c; Vagabund im Dienste Spaniens</w:P10088>
-      <w:P30117>Camilo José Cela. Hrsg., ausgew. u. mit e. Nachbemerkung von Ricardo Bada. Aus d. Span. von Hildegard Moral</w:P30117>
-      <bibframe:hasInstance rdf:resource="urn:isbn:9783492032933"/>
-      <bibframe:hasPart rdf:resource="http://viaf.org/viaf/181108754/ger/ger"/>
-   </bibframe:Work>
-   <bibframe:Work rdf:about="/einvagabundimdienstespaniensnobelpreis1989spanien/ger">
-      <e:P20006>ger</e:P20006>
-      <w:P10088>&#x98;Ein&#x9c; Vagabund im Dienste Spaniens</w:P10088>
-      <w:P10088>Nobelpreis 1989 Spanien</w:P10088>
-      <w:P30117>Camilo José Cela. [Aus dem Span. von Hildegard Moral]</w:P30117>
-      <bibframe:hasInstance rdf:resource="http://example.org/961866748"/>
-      <bibframe:hasInstance rdf:resource="http://example.org/910576173"/>
-      <bibframe:hasPart rdf:resource="http://viaf.org/viaf/181108754/ger/ger"/>
-   </bibframe:Work>
    <bibframe:Work rdf:about="/elnuevolazarillodecamilojcelapolticayculturaensupalimpsestoeloyemerino/spa">
       <e:P20006>spa</e:P20006>
       <w:P10088>El nuevo "Lazarillo" de Camilo J. Cela-- política y cultura en su palimpsesto</w:P10088>
@@ -11412,14 +11364,6 @@
       <bibframe:hasInstance rdf:resource="http://example.org/bimo0001945053"/>
       <w:P10065 rdf:resource="merinoeloye"/>
       <w:P10256 rdf:resource="http://viaf.org/viaf/204615683"/>
-   </bibframe:Work>
-   <bibframe:Work rdf:about="/elsignificadodelofemeninoenlafamiliadepascualduarte/spa">
-      <e:P20006>spa</e:P20006>
-      <w:P10088>El significado de lo femenino en "La familia de Pascual Duarte"</w:P10088>
-      <w:P30117>[por] Alfred Rodríguez y John Timm</w:P30117>
-      <bibframe:hasInstance rdf:resource="http://example.org/bimo0001384926"/>
-      <w:P10065 rdf:resource="rodrguezlpezvzquezalfredo"/>
-      <w:P10256 rdf:resource="http://viaf.org/viaf/177039865"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="/estructuranarrativadelacolmenadecjcela/spa">
       <e:P20006>spa</e:P20006>
@@ -11458,13 +11402,6 @@
       <w:P10065 rdf:resource="echaveangelines"/>
       <w:P10256 rdf:resource="http://viaf.org/viaf/176439895"/>
    </bibframe:Work>
-   <bibframe:Work rdf:about="/historiaypolticaenlafamiliadepascualduarte/spa">
-      <e:P20006>spa</e:P20006>
-      <w:P10088>Historia y política en La familia de Pascual Duarte</w:P10088>
-      <w:P30117>Juan Antonio Garrido Ardila</w:P30117>
-      <bibframe:hasInstance rdf:resource="urn:isbn:9788497407113"/>
-      <w:P10256 rdf:resource="http://viaf.org/viaf/177039865"/>
-   </bibframe:Work>
    <bibframe:Work rdf:about="/industriasyandanzasdealfanhu/spa">
       <w:P10088>Industrias y andanzas de Alfanhuí</w:P10088>
       <bibframe:partOf rdf:resource="/pascualduarteyalfanhudosactitudesdeposguerra/spa"/>
@@ -11488,64 +11425,15 @@
    </bibframe:Work>
    <bibframe:Work rdf:about="/lacolmena/spa">
       <e:P20006>spa</e:P20006>
-      <w:P10088>La colmena</w:P10088>
-      <w:P30117>director, Mario Camus ; guión y producción, José Luis Dibildos ; música, Antón García Abril ; dirctor de fotografía, Hans Burmann</w:P30117>
-      <w:P30117>dirección, Mario Camus ; productor, José Luis Dibildos ; guión, José Luis Dibildos ; director de fotografía, Hans Burmann ; música, Antón García Abril</w:P30117>
-      <w:P30117>dirección, Mario Camus ; producida por y guión de José Luis Dibildos ; director de fotografía, Hans Burmann ; música, Antón García Abril ; director de producción, Julio Parra</w:P30117>
       <w:P10088>La Colmena</w:P10088>
       <w:P30117>C.J. Cela</w:P30117>
+      <w:P10088>La colmena</w:P10088>
       <w:P30117>Camilo José cela ; edición de Maryse Bertrand de Muñoz</w:P30117>
-      <bibframe:hasInstance rdf:resource="http://example.org/bivi0000010987"/>
-      <bibframe:hasInstance rdf:resource="http://example.org/bivi0000010986"/>
-      <bibframe:hasInstance rdf:resource="http://example.org/a5087389"/>
       <bibframe:hasInstance rdf:resource="urn:isbn:843992688"/>
-      <bibframe:hasInstance rdf:resource="http://example.org/ff3359644"/>
       <bibframe:hasInstance rdf:resource="urn:isbn:8477721238"/>
-      <bibframe:hasInstance rdf:resource="urn:unknown:8421394407213"/>
-      <e:P20012 rdf:resource="abrilvictoria"/>
-      <e:P20012 rdf:resource="http://viaf.org/viaf/56299308"/>
-      <e:P20012 rdf:resource="rabalfrancisco"/>
-      <e:P20012 rdf:resource="pardomario"/>
-      <e:P20012 rdf:resource="faltoyanofiorella"/>
-      <e:P20012 rdf:resource="bdalojos"/>
-      <e:P20012 rdf:resource="lpezcharo"/>
-      <e:P20012 rdf:resource="sacristnjos"/>
-      <e:P20012 rdf:resource="escobarluis"/>
-      <e:P20012 rdf:resource="anabeln"/>
-      <e:P20012 rdf:resource="lpezvzquezjosluis"/>
-      <e:P20012 rdf:resource="velascoconcha"/>
-      <e:P20012 rdf:resource="sazatorniljos"/>
-      <e:P20012 rdf:resource="resinesantonio"/>
-      <e:P20012 rdf:resource="carrillomary"/>
-      <e:P20012 rdf:resource="gutirrezcabaemilio"/>
-      <e:P20012 rdf:resource="quintillelvira"/>
-      <e:P20012 rdf:resource="cigsluis"/>
-      <e:P20012 rdf:resource="ariasimanol"/>
-      <e:P20012 rdf:resource="gonzlezagustn"/>
-      <e:P20012 rdf:resource="pontemaraluisa"/>
-      <e:P20053 rdf:resource="camusmario"/>
-      <e:P20053 rdf:resource="dibildosjosluis"/>
-      <e:P20053 rdf:resource="burmanhans"/>
-      <e:P20053 rdf:resource="garcaabrilantn"/>
-      <e:P20053 rdf:resource="abrilvictoria"/>
-      <e:P20053 rdf:resource="anabeln"/>
-      <e:P20053 rdf:resource="http://viaf.org/viaf/56299308"/>
-      <e:P20053 rdf:resource="rabalfrancisco"/>
-      <e:P20053 rdf:resource="pardomario"/>
-      <e:P20053 rdf:resource="faltoyanofiorella"/>
-      <e:P20053 rdf:resource="bdalojos"/>
-      <e:P20053 rdf:resource="lpezcharo"/>
-      <e:P20053 rdf:resource="parrajulio"/>
-      <w:P10013 rdf:resource="camusmario"/>
-      <w:P10013 rdf:resource="burmanhans"/>
-      <w:P10053 rdf:resource="garcaabrilantn"/>
-      <w:P10064 rdf:resource="dibildosjosluis"/>
       <w:P10065 rdf:resource="henndavid"/>
       <w:P10065 rdf:resource="bertranddemuozmaryse"/>
-      <w:P10203 rdf:resource="dibildosjosluis"/>
       <w:P10256 rdf:resource="http://viaf.org/viaf/178631752"/>
-      <w:critiqueOfWork.en rdf:resource="http://viaf.org/viaf/178631752"/>
-      <w:motionPictureAdaptationOfWork.en rdf:resource="http://viaf.org/viaf/178631752"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="/lacolmenacamilojcela/spa">
       <e:P20006>spa</e:P20006>
@@ -11590,7 +11478,7 @@
       <w:P30117>Camilo José Cela</w:P30117>
       <bibframe:hasInstance rdf:resource="http://example.org/bimo0001759067"/>
       <bibframe:hasPart rdf:resource="http://viaf.org/viaf/181460365/spa"/>
-      <e:P20053 rdf:resource="http://viaf.org/viaf/14767431"/>
+      <bibframe:hasPart rdf:resource="http://viaf.org/viaf/178631752/spa"/>
       <w:P10065 rdf:resource="http://viaf.org/viaf/14767431"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="/lacolmenamrscaldwellhablaconsuhijo/spa">
@@ -11600,7 +11488,7 @@
       <w:P30117>[Camilo José Cela]</w:P30117>
       <bibframe:hasInstance rdf:resource="urn:isbn:8439514972"/>
       <bibframe:hasPart rdf:resource="http://viaf.org/viaf/185952526/spa"/>
-      <e:P20053 rdf:resource="http://viaf.org/viaf/14767431"/>
+      <bibframe:hasPart rdf:resource="http://viaf.org/viaf/178631752/spa"/>
       <w:P10065 rdf:resource="http://viaf.org/viaf/14767431"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="/lafamiliadepascualduarteandeltnelcorrespondencesanddivergenciesintheexerciseofcraft/eng">
@@ -11645,20 +11533,14 @@
       <w:P10065 rdf:resource="huartemortonfernando"/>
       <w:P10256 rdf:resource="http://viaf.org/viaf/177039865"/>
    </bibframe:Work>
-   <bibframe:Work rdf:about="/lainfluenciadegutirrezsolanaenlosapuntescarpetovetnicosdecamilojoscela/spa">
-      <e:P20006>spa</e:P20006>
-      <w:P10088>La influencia de Gutiérrez Solana en los Apuntes Carpetovetónicos de Camilo José Cela</w:P10088>
-      <w:P30117>Ana María García Martín</w:P30117>
-      <bibframe:hasInstance rdf:resource="urn:isbn:9788416911318"/>
-      <w:P10256 rdf:resource="http://workid.oslomet.no/cjc/09"/>
-      <w:P10256 rdf:resource="gutirrezsolanajos"/>
-   </bibframe:Work>
    <bibframe:Work rdf:about="/lainslitaygloriosahazaadelcipotedearchidona/spa">
       <e:P20006>spa</e:P20006>
       <w:P10088>La insólita y gloriosa hazaña del cipote de Archidona</w:P10088>
       <w:P30117>director, Ramón Fernández ; música, Gregorio García Segura ; jefe de producción, Jesús G. Gárgoles ; director de fotografía, Fernando Arribas ; guión, Manuel Vidal</w:P30117>
       <bibframe:hasInstance rdf:resource="http://example.org/a4282137"/>
       <bibframe:hasInstance rdf:resource="http://example.org/bivi0000023586"/>
+      <e:P20012 rdf:resource="http://viaf.org/viaf/56299308"/>
+      <e:P20012 rdf:resource="cigsluis"/>
       <e:P20053 rdf:resource="fernndezramn"/>
       <e:P20053 rdf:resource="garcaseguragregorio"/>
       <e:P20053 rdf:resource="rojojosantonio"/>
@@ -11667,7 +11549,6 @@
       <e:P20053 rdf:resource="gmezramiro"/>
       <e:P20053 rdf:resource="vidalmanuel"/>
       <e:P20053 rdf:resource="romnjosele"/>
-      <e:P20053 rdf:resource="http://viaf.org/viaf/56299308"/>
       <e:P20053 rdf:resource="gameroantonio"/>
       <e:P20053 rdf:resource="luqueisabel"/>
       <e:P20053 rdf:resource="medinaantonio"/>
@@ -11679,7 +11560,6 @@
       <e:P20053 rdf:resource="soldevilalaly"/>
       <e:P20053 rdf:resource="guitinmanuel"/>
       <e:P20053 rdf:resource="morasara"/>
-      <e:P20053 rdf:resource="cigsluis"/>
       <e:P20053 rdf:resource="barberoluis"/>
       <e:P20053 rdf:resource="mendizbalsergio"/>
       <e:P20053 rdf:resource="emilio"/>
@@ -11710,9 +11590,7 @@
       <w:P10088>La Colmena von Camilo José Cela</w:P10088>
       <w:P10088>Literatur und Film: "La Colmena" von Camilo José Cela</w:P10088>
       <w:P30117>Gisela Palmes</w:P30117>
-      <w:P10088>La colmena von Camilo José Cela</w:P10088>
       <bibframe:hasInstance rdf:resource="urn:isbn:3631474016"/>
-      <bibframe:hasInstance rdf:resource="urn:isbn:9783631474013"/>
       <w:P10065 rdf:resource="palmesgisela"/>
       <w:P10256 rdf:resource="http://viaf.org/viaf/178631752"/>
       <w:P10256 rdf:resource="camusmario/colmena"/>
@@ -11808,14 +11686,6 @@
       <e:P20012 rdf:resource="gmezjosluis"/>
       <e:P20012 rdf:resource="ojeapaca"/>
       <e:P20012 rdf:resource="http://viaf.org/viaf/70031002"/>
-      <e:P20053 rdf:resource="francoricardo"/>
-      <e:P20053 rdf:resource="querejetaelas"/>
-      <e:P20053 rdf:resource="martnezlzaroemilio"/>
-      <e:P20053 rdf:resource="cuadradoluis"/>
-      <e:P20053 rdf:resource="pabloluisde"/>
-      <e:P20053 rdf:resource="gmezjosluis"/>
-      <e:P20053 rdf:resource="ojeapaca"/>
-      <e:P20053 rdf:resource="http://viaf.org/viaf/70031002"/>
       <e:P20053 rdf:resource="querejetafranciscoj"/>
       <e:P20053 rdf:resource="marnmaiki"/>
       <e:P20053 rdf:resource="amopablogdel"/>
@@ -11826,6 +11696,8 @@
       <e:P20053 rdf:resource="calvoeduardo"/>
       <e:P20053 rdf:resource="hinojosajoaqun"/>
       <e:P20053 rdf:resource="ojedapaca"/>
+      <w:P10013 rdf:resource="francoricardo"/>
+      <w:P10013 rdf:resource="cuadradoluis"/>
       <w:P10053 rdf:resource="pabloluisde"/>
       <w:P10064 rdf:resource="querejetaelas"/>
       <w:P10203 rdf:resource="martnezlzaroemilio"/>
@@ -11906,13 +11778,6 @@
       <w:P10088>Siete puntos carpetovetónicos</w:P10088>
       <bibframe:partOf rdf:resource="/nuevasandanzasydesventurasdelazarillodetormesysietepuntoscarpetovetnicos/spa"/>
       <w:P10065 rdf:resource="http://viaf.org/viaf/14767431"/>
-   </bibframe:Work>
-   <bibframe:Work rdf:about="/significadoyestructuradelafamiliadepascualduarte/spa">
-      <e:P20006>spa</e:P20006>
-      <w:P10088>Significado y estructura de "La familia de Pascual Duarte"</w:P10088>
-      <w:P30117>Darío Villanueva</w:P30117>
-      <bibframe:hasInstance rdf:resource="urn:isbn:9788468227238"/>
-      <w:P10256 rdf:resource="http://viaf.org/viaf/177039865"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="/theironicstructureandstructuresofcamilojoscelasnuevasandanzasydesventurasdelazarillodetormes/eng">
       <e:P20006>eng</e:P20006>
@@ -11996,6 +11861,15 @@
       <bibframe:hasPart rdf:resource="http://workid.oslomet.no/cjc/76/spa"/>
       <w:P10065 rdf:resource="http://viaf.org/viaf/14767431"/>
    </bibframe:Work>
+   <bibframe:Work rdf:about="barrasantiago/buscandoacelaenlaalcarria/spa">
+      <e:P20006>spa</e:P20006>
+      <w:P10088>Buscando a Cela en la Alcarria</w:P10088>
+      <w:P30117>Salvador Toquero, Santiago Barra</w:P30117>
+      <bibframe:hasInstance rdf:resource="urn:isbn:8430073167"/>
+      <w:P10061 rdf:resource="barrasantiago"/>
+      <w:P10065 rdf:resource="toquerocortssalvador"/>
+      <w:P10256 rdf:resource="http://viaf.org/viaf/181108754"/>
+   </bibframe:Work>
    <bibframe:Work rdf:about="camusmario/colmena">
       <w:P10088>Colmena</w:P10088>
       <w:P10061 rdf:resource="camusmario"/>
@@ -12011,6 +11885,23 @@
       <w:P10061 rdf:resource="gallegosrmulo"/>
       <x:P00014 rdf:resource="/doabarbaraylacatiradosnovelassobreelllanodevenezuela/spa"/>
    </bibframe:Work>
+   <bibframe:Work rdf:about="garcamartnanamara/lainfluenciadegutirrezsolanaenlosapuntescarpetovetnicosdecamilojoscela/spa">
+      <e:P20006>spa</e:P20006>
+      <w:P10088>La influencia de Gutiérrez Solana en los Apuntes Carpetovetónicos de Camilo José Cela</w:P10088>
+      <w:P30117>Ana María García Martín</w:P30117>
+      <bibframe:hasInstance rdf:resource="urn:isbn:9788416911318"/>
+      <w:P10061 rdf:resource="garcamartnanamara"/>
+      <w:P10256 rdf:resource="http://workid.oslomet.no/cjc/09"/>
+      <w:P10256 rdf:resource="gutirrezsolanajos"/>
+   </bibframe:Work>
+   <bibframe:Work rdf:about="garridoardilajuanantonio/historiaypolticaenlafamiliadepascualduarte/spa">
+      <e:P20006>spa</e:P20006>
+      <w:P10088>Historia y política en La familia de Pascual Duarte</w:P10088>
+      <w:P30117>Juan Antonio Garrido Ardila</w:P30117>
+      <bibframe:hasInstance rdf:resource="urn:isbn:9788497407113"/>
+      <w:P10061 rdf:resource="garridoardilajuanantonio"/>
+      <w:P10256 rdf:resource="http://viaf.org/viaf/177039865"/>
+   </bibframe:Work>
    <bibframe:Work rdf:about="goyafrancisco/caprichos">
       <w:P10088>Caprichos</w:P10088>
       <w:P10061 rdf:resource="goyafrancisco"/>
@@ -12020,6 +11911,35 @@
       <w:P10088>Los caprichos</w:P10088>
       <w:P10061 rdf:resource="goyafranciscode"/>
       <x:P00014 rdf:resource="http://workid.oslomet.no/cjc/85/spa"/>
+   </bibframe:Work>
+   <bibframe:Work rdf:about="http://viaf.org/viaf/14767431/camilojoscelayeugeniofernndezcartujocartastarjetasdedicatoriaslacolmenacebreros/spa">
+      <e:P20006>spa</e:P20006>
+      <w:P10088>Camilo José Cela y Eugenio Fernández "Cartujo"</w:P10088>
+      <w:P10088>cartas, tarjetas, dedicatorias : ("La Colmena", Cebreros)</w:P10088>
+      <w:P30117>Luciano José Navas Villalba</w:P30117>
+      <bibframe:hasInstance rdf:resource="http://example.org/a5952380"/>
+      <w:P10055 rdf:resource="navasvillalbalucianojos"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/14767431"/>
+      <w:P10256 rdf:resource="http://viaf.org/viaf/178631752"/>
+      <w:P10256 rdf:resource="http://viaf.org/viaf/14767431"/>
+   </bibframe:Work>
+   <bibframe:Work rdf:about="http://viaf.org/viaf/14767431/einvagabundimdienstespaniens/ger">
+      <e:P20006>ger</e:P20006>
+      <w:P10088>&#x98;Ein&#x9c; Vagabund im Dienste Spaniens</w:P10088>
+      <w:P30117>Camilo José Cela. Hrsg., ausgew. u. mit e. Nachbemerkung von Ricardo Bada. Aus d. Span. von Hildegard Moral</w:P30117>
+      <bibframe:hasInstance rdf:resource="urn:isbn:9783492032933"/>
+      <bibframe:hasPart rdf:resource="http://viaf.org/viaf/181108754/ger/ger"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/14767431"/>
+   </bibframe:Work>
+   <bibframe:Work rdf:about="http://viaf.org/viaf/14767431/einvagabundimdienstespaniensnobelpreis1989spanien/ger">
+      <e:P20006>ger</e:P20006>
+      <w:P10088>&#x98;Ein&#x9c; Vagabund im Dienste Spaniens</w:P10088>
+      <w:P10088>Nobelpreis 1989 Spanien</w:P10088>
+      <w:P30117>Camilo José Cela. [Aus dem Span. von Hildegard Moral]</w:P30117>
+      <bibframe:hasInstance rdf:resource="http://example.org/961866748"/>
+      <bibframe:hasInstance rdf:resource="http://example.org/910576173"/>
+      <bibframe:hasPart rdf:resource="http://viaf.org/viaf/181108754/ger/ger"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/14767431"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://viaf.org/viaf/173831690/spa">
       <e:P20006>spa</e:P20006>
@@ -12118,23 +12038,23 @@
       <x:P00014 rdf:resource="/celalafamiliadepascualduarteloscontextosyeltexto/spa"/>
       <x:P00014 rdf:resource="/pascualduarteyalfanhudosactitudesdeposguerra/spa"/>
       <x:P00014 rdf:resource="/lafamiliadepascualduarteatravsdesuimaginera/spa"/>
-      <x:P00014 rdf:resource="/elsignificadodelofemeninoenlafamiliadepascualduarte/spa"/>
+      <x:P00014 rdf:resource="timmjohn/elsignificadodelofemeninoenlafamiliadepascualduarte/spa"/>
       <x:P00014 rdf:resource="/lafamiliadepascualduarteandtheprominenceoffate/eng"/>
       <x:P00014 rdf:resource="/aproximacinestructuralsociohistricapsicocrticaalafamiliadepascualduartedecjcela/spa"/>
       <x:P00014 rdf:resource="http://viaf.org/viaf/177039865/spa"/>
       <x:P00014 rdf:resource="/clavesdelafamiliadepascualduartecamilojoscela/spa"/>
-      <x:P00014 rdf:resource="/significadoyestructuradelafamiliadepascualduarte/spa"/>
+      <x:P00014 rdf:resource="villanuevadaro/significadoyestructuradelafamiliadepascualduarte/spa"/>
       <x:P00014 rdf:resource="/novelintofilmthecaseoflafamiliadepascualduarteandlossantosinocentes/eng"/>
       <x:P00014 rdf:resource="/50aosdelafamiliadepascualduartedecamilojoscelaexposicin/spa"/>
       <x:P00014 rdf:resource="/celalafamiliadepascualduarte/eng"/>
       <x:P00014 rdf:resource="/lafamiliadepascualduartedecamilojoscelarecuentodelcincuentenario19421992yalgunaspapeletasms/spa"/>
-      <x:P00014 rdf:resource="/historiaypolticaenlafamiliadepascualduarte/spa"/>
+      <x:P00014 rdf:resource="garridoardilajuanantonio/historiaypolticaenlafamiliadepascualduarte/spa"/>
       <x:P00014 rdf:resource="/lafamiliadepascualduartecamilojcela/spa"/>
       <x:P00014 rdf:resource="/lafamiliadepascualduarteandeltnelcorrespondencesanddivergenciesintheexerciseofcraft/eng"/>
       <x:P00014 rdf:resource="/camilojoscelalafamiliadepascualduarteeinwerkimkontextderspanischennachkriegszeit/ger"/>
       <x:P00014 rdf:resource="/unacomparacindetrestraduccionesalinglsdelafamiliadepascualduartedecamilojoscelaacomparisonofthreeenglishtranslationsofcamilojoscelaslafamiliadepascualduarte/spa"/>
       <x:P00014 rdf:resource="/recuentodeedicionesdelafamiliadepascualduartedecamilojoscela/spa"/>
-      <x:P00014 rdf:resource="/camilojoscelaslafamiliadepascualduarteeinwerkimkontextderspanischennachkriegszeit/ger"/>
+      <x:P00014 rdf:resource="radeckdavina/camilojoscelaslafamiliadepascualduarteeinwerkimkontextderspanischennachkriegszeit/ger"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://viaf.org/viaf/177039865/alemán/ger">
       <e:P20006>ger</e:P20006>
@@ -12164,8 +12084,6 @@
       <bibframe:hasInstance rdf:resource="http://example.org/bimo0000655512"/>
       <bibframe:translationOf rdf:resource="http://viaf.org/viaf/177039865"/>
       <e:P20037 rdf:resource="kerrigana"/>
-      <e:P20053 rdf:resource="boudreauharoldl"/>
-      <e:P20053 rdf:resource="kronikjohnw"/>
       <w:P10055 rdf:resource="boudreauharoldl"/>
       <w:P10055 rdf:resource="kronikjohnw"/>
       <w:P10065 rdf:resource="http://viaf.org/viaf/14767431"/>
@@ -12194,8 +12112,10 @@
       <bibframe:hasInstance rdf:resource="urn:isbn:9783492110563"/>
       <bibframe:translationOf rdf:resource="http://viaf.org/viaf/177039865"/>
       <e:P20037 rdf:resource="leisewitzgeorg"/>
+      <e:P20037 rdf:resource="theilebruhnsgerda"/>
       <e:P20037 rdf:resource="enzenbergcarinavon"/>
       <e:P20037 rdf:resource="moralhildegard"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/14767431"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://viaf.org/viaf/177039865/inglés/eng">
       <e:P20006>eng</e:P20006>
@@ -12315,17 +12235,19 @@
       <e:P20053 rdf:resource="sauraantonio"/>
       <e:P20053 rdf:resource="plajaume"/>
       <e:P20053 rdf:resource="redondelaagustn"/>
-      <e:P20053 rdf:resource="urrutiajorge"/>
       <e:P20053 rdf:resource="sotelovzquezadolfo"/>
       <e:P20053 rdf:resource="cerradacarreteroantonio"/>
       <e:P20053 rdf:resource="buckleyramn"/>
       <e:P20053 rdf:resource="pastordearozenabrbara"/>
       <e:P20053 rdf:resource="diegodelarosafernandode"/>
       <m:P30321 rdf:resource="serranojavier"/>
+      <m:P30327 rdf:resource="urrutiajorge"/>
       <w:P10055 rdf:resource="boudreauharoldl"/>
       <w:P10055 rdf:resource="kronikjohnw"/>
       <w:P10055 rdf:resource="mrquezgemma"/>
+      <w:P10055 rdf:resource="urrutiajorge"/>
       <w:P10055 rdf:resource="villanuevadaro"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/14767431"/>
       <w:P10065 rdf:resource="http://viaf.org/viaf/14767431"/>
       <w:P10256 rdf:resource="http://viaf.org/viaf/177039865"/>
    </bibframe:Work>
@@ -12347,11 +12269,12 @@
       <x:P00014 rdf:resource="/lacolmenacamilojoscela/spa"/>
       <x:P00014 rdf:resource="/lacolmenaexistencial/spa"/>
       <x:P00014 rdf:resource="/clavesdelacolmenacamilojoscela/spa"/>
-      <x:P00014 rdf:resource="/camilojoscelayeugeniofernndezcartujocartastarjetasdedicatoriaslacolmenacebreros/spa"/>
+      <x:P00014 rdf:resource="http://viaf.org/viaf/14767431/camilojoscelayeugeniofernndezcartujocartastarjetasdedicatoriaslacolmenacebreros/spa"/>
       <x:P00014 rdf:resource="/actodepresentacindeladonacindeunmanuscritoinditodelacolmenadecamilojoscela/spa"/>
       <x:P00014 rdf:resource="/estructuranarrativadelacolmenadecjcela/spa"/>
       <x:P00014 rdf:resource="/lacolmenacamilojcela/spa"/>
       <x:P00014 rdf:resource="/cjcelalacolmena/eng"/>
+      <x:P00014 rdf:resource="palmesgisela/literaturundfilmlacolmenavoncamilojoscela/ger"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://viaf.org/viaf/178631752/alemán/ger">
       <e:P20006>ger</e:P20006>
@@ -12400,6 +12323,7 @@
       <bibframe:hasInstance rdf:resource="http://example.org/456261125"/>
       <bibframe:translationOf rdf:resource="http://viaf.org/viaf/178631752"/>
       <e:P20037 rdf:resource="theilebruhnsgerda"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/14767431"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://viaf.org/viaf/178631752/inglés/eng">
       <e:P20006>eng</e:P20006>
@@ -12522,22 +12446,26 @@
       <bibframe:hasInstance rdf:resource="http://example.org/a4303063"/>
       <bibframe:hasInstance rdf:resource="urn:isbn:8480570008"/>
       <bibframe:hasInstance rdf:resource="urn:isbn:8431638222"/>
+      <bibframe:partOf rdf:resource="/lacolmenamrscaldwellhablaconsuhijo/spa"/>
+      <bibframe:partOf rdf:resource="/lacolmenamazurcaparadosmuertos/spa"/>
       <e:P20053 rdf:resource="asnraquel"/>
       <e:P20053 rdf:resource="juradomoralesjos"/>
-      <e:P20053 rdf:resource="urrutiajorge"/>
       <e:P20053 rdf:resource="moreiroprietojulin"/>
-      <e:P20053 rdf:resource="villanuevadaro"/>
       <e:P20053 rdf:resource="sotelovzquezadolfo"/>
       <e:P20053 rdf:resource="vicenteeduardo"/>
       <e:P20053 rdf:resource="sobejanogonzalo"/>
-      <e:P20053 rdf:resource="goilorenzo"/>
       <e:P20053 rdf:resource="alonsoeduardo"/>
       <e:P20053 rdf:resource="rodrguezfontelamaradelosngeles"/>
       <e:P20053 rdf:resource="gatagntino"/>
       <m:P30321 rdf:resource="asnraquel"/>
+      <m:P30321 rdf:resource="goilorenzo"/>
+      <m:P30327 rdf:resource="sobejanogonzalo"/>
       <w:P10055 rdf:resource="urrutiajorge"/>
       <w:P10055 rdf:resource="sotelovzquezadolfo"/>
       <w:P10055 rdf:resource="asnraquel"/>
+      <w:P10055 rdf:resource="sobejanogonzalo"/>
+      <w:P10055 rdf:resource="villanuevadaro"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/14767431"/>
       <w:P10065 rdf:resource="http://viaf.org/viaf/14767431"/>
       <w:P10256 rdf:resource="http://viaf.org/viaf/178631752"/>
    </bibframe:Work>
@@ -12604,7 +12532,8 @@
       <x:P00014 rdf:resource="/viajealaalcarriadecamilojoscelarecuentodelcincuentenario19481998/spa"/>
       <x:P00014 rdf:resource="/bibliografadeviajealaalcarriadecamilojoscela/spa"/>
       <x:P00014 rdf:resource="http://viaf.org/viaf/181108754/spa"/>
-      <x:P00014 rdf:resource="/buscandoacelaenlaalcarria/spa"/>
+      <x:P00014 rdf:resource="barrasantiago/buscandoacelaenlaalcarria/spa"/>
+      <x:P00014 rdf:resource="toquerocortssalvador/buscandoacelaenlaalcarria/spa"/>
       <x:P00014 rdf:resource="/guadelviajealaalcarria/spa"/>
       <x:P00014 rdf:resource="/lacmaradebernaltraslahuelladecelaenlaalcarria1972/spa"/>
    </bibframe:Work>
@@ -12624,7 +12553,6 @@
       <bibframe:hasInstance rdf:resource="http://example.org/bimo0000655514"/>
       <bibframe:hasInstance rdf:resource="urn:isbn:0245528016"/>
       <bibframe:translationOf rdf:resource="http://viaf.org/viaf/181108754"/>
-      <e:P20053 rdf:resource="polackphilip"/>
       <w:P10055 rdf:resource="polackphilip"/>
       <w:P10065 rdf:resource="http://viaf.org/viaf/14767431"/>
    </bibframe:Work>
@@ -12641,8 +12569,8 @@
    <bibframe:Work rdf:about="http://viaf.org/viaf/181108754/ger/ger">
       <e:P20006>ger</e:P20006>
       <w:P10088>Viaje a la Alcarria</w:P10088>
-      <bibframe:partOf rdf:resource="/einvagabundimdienstespaniensnobelpreis1989spanien/ger"/>
-      <bibframe:partOf rdf:resource="/einvagabundimdienstespaniens/ger"/>
+      <bibframe:partOf rdf:resource="http://viaf.org/viaf/14767431/einvagabundimdienstespaniensnobelpreis1989spanien/ger"/>
+      <bibframe:partOf rdf:resource="http://viaf.org/viaf/14767431/einvagabundimdienstespaniens/ger"/>
       <bibframe:translationOf rdf:resource="http://viaf.org/viaf/181108754"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://viaf.org/viaf/181108754/inglés/eng">
@@ -12761,6 +12689,7 @@
       <bibframe:translationOf rdf:resource="http://viaf.org/viaf/181460365"/>
       <e:P20037 rdf:resource="enzenbergcarinavon"/>
       <e:P20037 rdf:resource="zahnhartmut"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/14767431"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://viaf.org/viaf/181460365/spa">
       <e:P20006>spa</e:P20006>
@@ -12788,6 +12717,7 @@
       <bibframe:partOf rdf:resource="/mazurcaparadosmuertoscristoversusarizona/spa"/>
       <bibframe:partOf rdf:resource="/lacolmenamazurcaparadosmuertos/spa"/>
       <e:P20053 rdf:resource="umbralfrancisco"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/14767431"/>
       <w:P10065 rdf:resource="http://viaf.org/viaf/14767431"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://viaf.org/viaf/184746026/spa">
@@ -12816,6 +12746,7 @@
       <bibframe:hasInstance rdf:resource="urn:isbn:9783492983945"/>
       <bibframe:translationOf rdf:resource="http://viaf.org/viaf/185952526"/>
       <e:P20037 rdf:resource="theilebruhnsgerda"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/14767431"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://viaf.org/viaf/185952526/inglés/eng">
       <e:P20006>eng</e:P20006>
@@ -12964,9 +12895,8 @@
       <bibframe:hasInstance rdf:resource="urn:unknown:080049"/>
       <bibframe:translationOf rdf:resource="http://viaf.org/viaf/309337537"/>
       <e:P20037 rdf:resource="spechtrainer"/>
-      <e:P20053 rdf:resource="spechtrainer"/>
-      <e:P20053 rdf:resource="picassopablo"/>
       <m:P30321 rdf:resource="picassopablo"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/14767431"/>
       <w:P10065 rdf:resource="http://viaf.org/viaf/14767431"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://viaf.org/viaf/309337537/spa">
@@ -12986,7 +12916,7 @@
       <bibframe:hasInstance rdf:resource="http://example.org/bimo0000655348"/>
       <bibframe:hasInstance rdf:resource="urn:isbn:8429710517"/>
       <bibframe:hasInstance rdf:resource="urn:isbn:8423952975"/>
-      <e:P20053 rdf:resource="picassopablo"/>
+      <m:P30321 rdf:resource="picassopablo"/>
       <w:P10065 rdf:resource="http://viaf.org/viaf/14767431"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://viaf.org/viaf/310217157">
@@ -13020,6 +12950,7 @@
       <bibframe:hasInstance rdf:resource="http://example.org/57283148x"/>
       <bibframe:translationOf rdf:resource="http://viaf.org/viaf/310217157"/>
       <e:P20053 rdf:resource="wuttingjuliane"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/14767431"/>
       <w:P10065 rdf:resource="http://viaf.org/viaf/14767431"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://viaf.org/viaf/310217157/spa">
@@ -13098,7 +13029,7 @@
    <bibframe:Work rdf:about="http://workid.oslomet.no/cjc/09">
       <w:P10088>El gallego y su cuadrilla y otros apuntes carpetovetónicos</w:P10088>
       <w:P10061 rdf:resource="http://viaf.org/viaf/14767431"/>
-      <x:P00014 rdf:resource="/lainfluenciadegutirrezsolanaenlosapuntescarpetovetnicosdecamilojoscela/spa"/>
+      <x:P00014 rdf:resource="garcamartnanamara/lainfluenciadegutirrezsolanaenlosapuntescarpetovetnicosdecamilojoscela/spa"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://workid.oslomet.no/cjc/09/spa">
       <e:P20006>spa</e:P20006>
@@ -13385,6 +13316,7 @@
       <w:P30117>Camilo José Cela ; edición, introducción y notas de Francisco Fuster</w:P30117>
       <bibframe:hasInstance rdf:resource="urn:isbn:9788416247523"/>
       <w:P10055 rdf:resource="fustergarcafrancisco"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/14767431"/>
       <w:P10065 rdf:resource="http://viaf.org/viaf/14767431"/>
       <w:P10256 rdf:resource="barojapio"/>
       <w:P10256 rdf:resource="barojapo"/>
@@ -13403,8 +13335,8 @@
       <bibframe:hasInstance rdf:resource="http://example.org/bimo0000655351"/>
       <bibframe:hasInstance rdf:resource="http://example.org/bimo0000655352"/>
       <bibframe:hasInstance rdf:resource="http://example.org/bimo0000818081"/>
-      <e:P20053 rdf:resource="goilorenzo"/>
       <e:P20053 rdf:resource="mampasomanuel"/>
+      <m:P30321 rdf:resource="goilorenzo"/>
       <w:P10065 rdf:resource="http://viaf.org/viaf/14767431"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://workid.oslomet.no/cjc/33/spa">
@@ -13563,7 +13495,7 @@
       <w:P30117>Ilustraciones de Lorenzo Goñi</w:P30117>
       <bibframe:hasInstance rdf:resource="urn:isbn:842262317"/>
       <bibframe:hasInstance rdf:resource="http://example.org/bimo0000655259"/>
-      <e:P20053 rdf:resource="goilorenzo"/>
+      <m:P30321 rdf:resource="goilorenzo"/>
       <w:P10065 rdf:resource="http://viaf.org/viaf/14767431"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://workid.oslomet.no/cjc/50/spa">
@@ -13622,7 +13554,6 @@
       <bibframe:hasInstance rdf:resource="http://example.org/bimo0000655486"/>
       <bibframe:hasInstance rdf:resource="urn:isbn:8422623196"/>
       <bibframe:partOf rdf:resource="/viajeausatoreodesalnedicionesfacsimilaresdelosmanuscritos/spa"/>
-      <e:P20053 rdf:resource="goilorenzo"/>
       <m:P30321 rdf:resource="gonilorenzo"/>
       <m:P30321 rdf:resource="goilorenzo"/>
       <w:P10065 rdf:resource="http://viaf.org/viaf/14767431"/>
@@ -13765,8 +13696,8 @@
       <bibframe:hasInstance rdf:resource="urn:isbn:8473850181"/>
       <bibframe:hasInstance rdf:resource="urn:isbn:8472233014"/>
       <e:P20053 rdf:resource="canalesalfonso"/>
-      <e:P20053 rdf:resource="goilorenzo"/>
       <m:P30321 rdf:resource="gonilorenzo"/>
+      <m:P30321 rdf:resource="goilorenzo"/>
       <w:P10065 rdf:resource="http://viaf.org/viaf/14767431"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://workid.oslomet.no/cjc/72/spa">
@@ -13917,7 +13848,7 @@
       <w:P10088>Páginas escogidas</w:P10088>
       <w:P30117>Camilo José Cela ; edición Darío Villanueva</w:P30117>
       <bibframe:hasInstance rdf:resource="urn:isbn:8423972291"/>
-      <e:P20053 rdf:resource="villanuevadaro"/>
+      <w:P10055 rdf:resource="villanuevadaro"/>
       <w:P10065 rdf:resource="http://viaf.org/viaf/14767431"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://workid.oslomet.no/cjc/91/spa">
@@ -14074,6 +14005,66 @@
       <e:P20053 rdf:resource="arranzbravoeduardo"/>
       <w:P10065 rdf:resource="http://viaf.org/viaf/14767431"/>
    </bibframe:Work>
+   <bibframe:Work rdf:about="https://www.imdb.com/title/tt0083743//spa">
+      <e:P20006>spa</e:P20006>
+      <w:P10088>La Colmena</w:P10088>
+      <w:P10088>La colmena</w:P10088>
+      <w:P30117>director, Mario Camus ; guión y producción, José Luis Dibildos ; música, Antón García Abril ; dirctor de fotografía, Hans Burmann</w:P30117>
+      <w:P30117>dirección, Mario Camus ; productor, José Luis Dibildos ; guión, José Luis Dibildos ; director de fotografía, Hans Burmann ; música, Antón García Abril</w:P30117>
+      <w:P30117>dirección, Mario Camus ; producida por y guión de José Luis Dibildos ; director de fotografía, Hans Burmann ; música, Antón García Abril ; director de producción, Julio Parra</w:P30117>
+      <bibframe:hasInstance rdf:resource="http://example.org/bivi0000010987"/>
+      <bibframe:hasInstance rdf:resource="http://example.org/bivi0000010986"/>
+      <bibframe:hasInstance rdf:resource="http://example.org/a5087389"/>
+      <bibframe:hasInstance rdf:resource="http://example.org/ff3359644"/>
+      <bibframe:hasInstance rdf:resource="urn:unknown:8421394407213"/>
+      <e:P20012 rdf:resource="abrilvictoria"/>
+      <e:P20012 rdf:resource="http://viaf.org/viaf/56299308"/>
+      <e:P20012 rdf:resource="rabalfrancisco"/>
+      <e:P20012 rdf:resource="pardomario"/>
+      <e:P20012 rdf:resource="faltoyanofiorella"/>
+      <e:P20012 rdf:resource="bdalojos"/>
+      <e:P20012 rdf:resource="lpezcharo"/>
+      <e:P20012 rdf:resource="anabeln"/>
+      <e:P20012 rdf:resource="sacristnjos"/>
+      <e:P20012 rdf:resource="escobarluis"/>
+      <e:P20012 rdf:resource="lpezvzquezjosluis"/>
+      <e:P20012 rdf:resource="velascoconcha"/>
+      <e:P20012 rdf:resource="sazatorniljos"/>
+      <e:P20012 rdf:resource="resinesantonio"/>
+      <e:P20012 rdf:resource="carrillomary"/>
+      <e:P20012 rdf:resource="gutirrezcabaemilio"/>
+      <e:P20012 rdf:resource="quintillelvira"/>
+      <e:P20012 rdf:resource="cigsluis"/>
+      <e:P20012 rdf:resource="ariasimanol"/>
+      <e:P20012 rdf:resource="gonzlezagustn"/>
+      <e:P20012 rdf:resource="pontemaraluisa"/>
+      <e:P20053 rdf:resource="parrajulio"/>
+      <w:P10013 rdf:resource="camusmario"/>
+      <w:P10013 rdf:resource="burmanhans"/>
+      <w:P10053 rdf:resource="garcaabrilantn"/>
+      <w:P10064 rdf:resource="dibildosjosluis"/>
+      <w:P10203 rdf:resource="dibildosjosluis"/>
+      <w:critiqueOfWork.en rdf:resource="http://viaf.org/viaf/178631752"/>
+      <w:motionPictureAdaptationOfWork.en rdf:resource="http://viaf.org/viaf/178631752"/>
+   </bibframe:Work>
+   <bibframe:Work rdf:about="palmesgisela/literaturundfilmlacolmenavoncamilojoscela/ger">
+      <e:P20006>ger</e:P20006>
+      <w:P10088>Literatur und Film</w:P10088>
+      <w:P10088>La colmena von Camilo José Cela</w:P10088>
+      <w:P30117>Gisela Palmes</w:P30117>
+      <bibframe:hasInstance rdf:resource="urn:isbn:9783631474013"/>
+      <w:P10061 rdf:resource="palmesgisela"/>
+      <w:P10256 rdf:resource="http://viaf.org/viaf/178631752"/>
+   </bibframe:Work>
+   <bibframe:Work rdf:about="radeckdavina/camilojoscelaslafamiliadepascualduarteeinwerkimkontextderspanischennachkriegszeit/ger">
+      <e:P20006>ger</e:P20006>
+      <w:P10088>Camilo José Celas La familia de Pascual Duarte</w:P10088>
+      <w:P10088>ein Werk im Kontext der spanischen Nachkriegszeit</w:P10088>
+      <w:P30117>Davina Radeck</w:P30117>
+      <bibframe:hasInstance rdf:resource="urn:isbn:9783828825697"/>
+      <w:P10061 rdf:resource="radeckdavina"/>
+      <w:P10256 rdf:resource="http://viaf.org/viaf/177039865"/>
+   </bibframe:Work>
    <bibframe:Work rdf:about="sabatoernesto/eltnel">
       <w:P10088>El túnel</w:P10088>
       <w:P10061 rdf:resource="sabatoernesto"/>
@@ -14088,5 +14079,32 @@
       <w:P10088>Industrias y andanzas de Alfanhuí</w:P10088>
       <w:P10061 rdf:resource="snchezferlosiorafael"/>
       <x:P00014 rdf:resource="/pascualduarteyalfanhudosactitudesdeposguerra/spa"/>
+   </bibframe:Work>
+   <bibframe:Work rdf:about="timmjohn/elsignificadodelofemeninoenlafamiliadepascualduarte/spa">
+      <e:P20006>spa</e:P20006>
+      <w:P10088>El significado de lo femenino en "La familia de Pascual Duarte"</w:P10088>
+      <w:P30117>[por] Alfred Rodríguez y John Timm</w:P30117>
+      <bibframe:hasInstance rdf:resource="http://example.org/bimo0001384926"/>
+      <w:P10061 rdf:resource="timmjohn"/>
+      <w:P10065 rdf:resource="rodrguezlpezvzquezalfredo"/>
+      <w:P10256 rdf:resource="http://viaf.org/viaf/177039865"/>
+   </bibframe:Work>
+   <bibframe:Work rdf:about="toquerocortssalvador/buscandoacelaenlaalcarria/spa">
+      <e:P20006>spa</e:P20006>
+      <w:P10088>Buscando a Cela en la Alcarria</w:P10088>
+      <w:P30117>Salvador Toquero, Santiago Barra ; [fotografías, Luis Barra]</w:P30117>
+      <bibframe:hasInstance rdf:resource="urn:isbn:9788460877608"/>
+      <w:P10061 rdf:resource="toquerocortssalvador"/>
+      <w:P10061 rdf:resource="barrasantiago"/>
+      <w:P10068 rdf:resource="barraluis"/>
+      <w:P10256 rdf:resource="http://viaf.org/viaf/181108754"/>
+   </bibframe:Work>
+   <bibframe:Work rdf:about="villanuevadaro/significadoyestructuradelafamiliadepascualduarte/spa">
+      <e:P20006>spa</e:P20006>
+      <w:P10088>Significado y estructura de "La familia de Pascual Duarte"</w:P10088>
+      <w:P30117>Darío Villanueva</w:P30117>
+      <bibframe:hasInstance rdf:resource="urn:isbn:9788468227238"/>
+      <w:P10061 rdf:resource="villanuevadaro"/>
+      <w:P10256 rdf:resource="http://viaf.org/viaf/177039865"/>
    </bibframe:Work>
 </rdf:RDF>

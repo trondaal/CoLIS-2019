@@ -61,12 +61,11 @@
       <w:P10088>&#x98;La&#x9c; Familia de Pascual Duarte</w:P10088>
       <w:P10088>&#x98;La&#x9c; familia de Pascual Duarte</w:P10088>
       <w:P10088>Familia de Pascual Duarte</w:P10088>
-      <w:P10055 rdf:resource="boudreauharoldl"/>
-      <w:P10055 rdf:resource="kronikjohnw"/>
-      <w:P10055 rdf:resource="mrquezgemma"/>
-      <w:P10055 rdf:resource="villanuevadaro"/>
+      <w:P10013 rdf:resource="francoricardo"/>
+      <w:P10013 rdf:resource="cuadradoluis"/>
+      <w:P10053 rdf:resource="pabloluisde"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/14767431"/>
-      <w:P10061 rdf:resource="urrutiajorge"/>
+      <w:P10064 rdf:resource="querejetaelas"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/177039865/spa/text"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/177039865/eng/text"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/177039865/spa/"/>
@@ -76,6 +75,7 @@
       <w:P10078 rdf:resource="http://viaf.org/viaf/177039865/ger/"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/177039865/ger/text"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/177039865/nob/"/>
+      <w:P10203 rdf:resource="martnezlzaroemilio"/>
       <w:P10257 rdf:resource="http://viaf.org/viaf/177039865"/>
       <w:P10264 rdf:resource="bachecortesyolanda/familiadepascualduarte"/>
       <w:P10264 rdf:resource="fernandezariasirmaisabel/industriasyandanzasdealfanhu"/>
@@ -87,11 +87,8 @@
       <w:P10004>Selección</w:P10004>
       <w:P10088>&#x98;La&#x9c; colmena</w:P10088>
       <w:P10088>Colmena</w:P10088>
-      <w:P10055 rdf:resource="urrutiajorge"/>
-      <w:P10055 rdf:resource="sotelovzquezadolfo"/>
-      <w:P10055 rdf:resource="asnraquel"/>
+      <w:P10025 rdf:resource="https://www.imdb.com/title/tt0083743/"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/14767431"/>
-      <w:P10061 rdf:resource="sobejanogonzalo"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/178631752/eng/text"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/178631752/spa/text"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/178631752/spa/"/>
@@ -100,6 +97,7 @@
       <w:P10078 rdf:resource="http://viaf.org/viaf/178631752/ger/"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/178631752/ger/text"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/178631752/nob/"/>
+      <w:P10115 rdf:resource="https://www.imdb.com/title/tt0083743/"/>
       <w:P10257 rdf:resource="http://viaf.org/viaf/178631752"/>
       <w:P10264 rdf:resource="http://viaf.org/viaf/178631752"/>
    </c:C10001>
@@ -124,7 +122,6 @@
       <w:P10088>Viaje e la Alcarria</w:P10088>
       <w:P10088>Viaje a la Alcarria</w:P10088>
       <w:P10004>Selección</w:P10004>
-      <w:P10055 rdf:resource="polackphilip"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/14767431"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/181108754/eng/text"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/181108754/spa/text"/>
@@ -391,7 +388,6 @@
    <c:C10001 rdf:about="http://workid.oslomet.no/cjc/30">
       <w:P10002>http://workid.oslomet.no/cjc/30</w:P10002>
       <w:P10088>Recuerdo de don Pío Baroja</w:P10088>
-      <w:P10055 rdf:resource="fustergarcafrancisco"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/14767431"/>
       <w:P10078 rdf:resource="http://workid.oslomet.no/cjc/30/spa/text"/>
       <w:P10078 rdf:resource="http://workid.oslomet.no/cjc/30/spa/texto(visual)"/>
@@ -783,6 +779,19 @@
       <w:P10078 rdf:resource="http://www.wikidata.org/entity/q5791732/spa/"/>
       <w:P10078 rdf:resource="http://www.wikidata.org/entity/q5791732/spa/texto(visual)"/>
    </c:C10001>
+   <c:C10001 rdf:about="https://www.imdb.com/title/tt0083743/">
+      <w:P10002>https://www.imdb.com/title/tt0083743/</w:P10002>
+      <w:P10088>La Colmena</w:P10088>
+      <w:P10013 rdf:resource="camusmario"/>
+      <w:P10013 rdf:resource="burmanhans"/>
+      <w:P10053 rdf:resource="garcaabrilantn"/>
+      <w:P10064 rdf:resource="dibildosjosluis"/>
+      <w:P10078 rdf:resource="https://www.imdb.com/title/tt0083743//spa/"/>
+      <w:P10078 rdf:resource="https://www.imdb.com/title/tt0083743//spa/imagen(enmovimiento;bidimensional)"/>
+      <w:P10129 rdf:resource="http://viaf.org/viaf/178631752"/>
+      <w:P10182 rdf:resource="http://viaf.org/viaf/178631752"/>
+      <w:P10203 rdf:resource="dibildosjosluis"/>
+   </c:C10001>
    <c:C10001 rdf:about="vargasllosamario/litumaenlosandes">
       <w:P10088>Lituma en los Andes</w:P10088>
       <w:P10061 rdf:resource="vargasllosamario"/>
@@ -797,6 +806,8 @@
       <a:P50094>abrilvictoria</a:P50094>
       <a:P50111>Abril, Victoria</a:P50111>
       <a:P50107>1959-</a:P50107>
+      <a:P50071 rdf:resource="https://www.imdb.com/title/tt0083743//spa/"/>
+      <a:P50071 rdf:resource="https://www.imdb.com/title/tt0083743//spa/imagen(enmovimiento;bidimensional)"/>
    </c:C10004>
    <c:C10004 rdf:about="aleumarc">
       <a:P50094>aleumarc</a:P50094>
@@ -830,6 +841,8 @@
       <a:P50094>anabeln</a:P50094>
       <a:P50111>Ana Belén</a:P50111>
       <a:P50107>1951-</a:P50107>
+      <a:P50071 rdf:resource="https://www.imdb.com/title/tt0083743//spa/"/>
+      <a:P50071 rdf:resource="https://www.imdb.com/title/tt0083743//spa/imagen(enmovimiento;bidimensional)"/>
    </c:C10004>
    <c:C10004 rdf:about="apariciorafaela">
       <a:P50094>apariciorafaela</a:P50094>
@@ -840,6 +853,7 @@
       <a:P50094>ariasimanol</a:P50094>
       <a:P50111>Arias, Imanol</a:P50111>
       <a:P50107>1956-</a:P50107>
+      <a:P50071 rdf:resource="https://www.imdb.com/title/tt0083743//spa/imagen(enmovimiento;bidimensional)"/>
    </c:C10004>
    <c:C10004 rdf:about="arranzbravoeduardo">
       <a:P50094>arranzbravoeduardo</a:P50094>
@@ -856,7 +870,7 @@
       <a:P50094>asnraquel</a:P50094>
       <a:P50111>Asún, Raquel</a:P50111>
       <a:P50161 rdf:resource="http://viaf.org/viaf/178631752/spa/"/>
-      <a:P50189 rdf:resource="http://viaf.org/viaf/178631752"/>
+      <a:P50189 rdf:resource="urn:isbn:8470394363"/>
       <a:P50469 rdf:resource="urn:isbn:8470394363"/>
    </c:C10004>
    <c:C10004 rdf:about="bachecortesyolanda">
@@ -903,6 +917,7 @@
       <a:P50094>bdalojos</a:P50094>
       <a:P50111>Bódalo, José</a:P50111>
       <a:P50107>1916-1985</a:P50107>
+      <a:P50071 rdf:resource="https://www.imdb.com/title/tt0083743//spa/"/>
    </c:C10004>
    <c:C10004 rdf:about="beliznantonio">
       <a:P50094>beliznantonio</a:P50094>
@@ -930,8 +945,9 @@
    <c:C10004 rdf:about="boudreauharoldl">
       <a:P50094>boudreauharoldl</a:P50094>
       <a:P50111>Boudreau, Harold L</a:P50111>
-      <a:P50161 rdf:resource="http://viaf.org/viaf/177039865/eng/"/>
-      <a:P50189 rdf:resource="http://viaf.org/viaf/177039865"/>
+      <a:P50189 rdf:resource="urn:isbn:0135283078"/>
+      <a:P50189 rdf:resource="urn:isbn:0390181080"/>
+      <a:P50189 rdf:resource="http://example.org/bimo0000655512"/>
    </c:C10004>
    <c:C10004 rdf:about="breinersanderskarene">
       <a:P50094>breinersanderskarene</a:P50094>
@@ -947,6 +963,7 @@
       <a:P50094>burmanhans</a:P50094>
       <a:P50111>Burman, Hans</a:P50111>
       <a:P50107>1937-</a:P50107>
+      <a:P50048 rdf:resource="https://www.imdb.com/title/tt0083743/"/>
    </c:C10004>
    <c:C10004 rdf:about="busettecedric">
       <a:P50094>busettecedric</a:P50094>
@@ -961,6 +978,7 @@
       <a:P50094>camusmario</a:P50094>
       <a:P50111>Camus, Mario</a:P50111>
       <a:P50107>1935-</a:P50107>
+      <a:P50048 rdf:resource="https://www.imdb.com/title/tt0083743/"/>
    </c:C10004>
    <c:C10004 rdf:about="canalesalfonso">
       <a:P50094>canalesalfonso</a:P50094>
@@ -987,6 +1005,7 @@
       <a:P50094>carrillomary</a:P50094>
       <a:P50111>Carrillo, Mary</a:P50111>
       <a:P50107>1919-2009</a:P50107>
+      <a:P50071 rdf:resource="https://www.imdb.com/title/tt0083743//spa/imagen(enmovimiento;bidimensional)"/>
    </c:C10004>
    <c:C10004 rdf:about="castaomarina">
       <a:P50094>castaomarina</a:P50094>
@@ -1013,6 +1032,7 @@
       <a:P50094>cigsluis</a:P50094>
       <a:P50111>Cigés, Luis</a:P50111>
       <a:P50107>1921-2002</a:P50107>
+      <a:P50071 rdf:resource="https://www.imdb.com/title/tt0083743//spa/imagen(enmovimiento;bidimensional)"/>
    </c:C10004>
    <c:C10004 rdf:about="cohenjm">
       <a:P50094>cohenjm</a:P50094>
@@ -1035,6 +1055,7 @@
       <a:P50094>cuadradoluis</a:P50094>
       <a:P50111>Cuadrado, Luis</a:P50111>
       <a:P50107>1934-1980</a:P50107>
+      <a:P50048 rdf:resource="http://viaf.org/viaf/177039865"/>
    </c:C10004>
    <c:C10004 rdf:about="delibesmiguel">
       <a:P50094>delibesmiguel</a:P50094>
@@ -1051,6 +1072,8 @@
       <a:P50094>dibildosjosluis</a:P50094>
       <a:P50111>Dibildos, José Luis</a:P50111>
       <a:P50107>1929-2002</a:P50107>
+      <a:P50213 rdf:resource="https://www.imdb.com/title/tt0083743/"/>
+      <a:P50223 rdf:resource="https://www.imdb.com/title/tt0083743/"/>
    </c:C10004>
    <c:C10004 rdf:about="diegodelarosafernandode">
       <a:P50094>diegodelarosafernandode</a:P50094>
@@ -1084,6 +1107,7 @@
       <a:P50094>escobarluis</a:P50094>
       <a:P50111>Escobar, Luis</a:P50111>
       <a:P50107>1908-1991</a:P50107>
+      <a:P50071 rdf:resource="https://www.imdb.com/title/tt0083743//spa/imagen(enmovimiento;bidimensional)"/>
    </c:C10004>
    <c:C10004 rdf:about="esplandiujuan">
       <a:P50094>esplandiujuan</a:P50094>
@@ -1096,6 +1120,8 @@
       <a:P50094>faltoyanofiorella</a:P50094>
       <a:P50111>Faltoyano, Fiorella</a:P50111>
       <a:P50107>1950-</a:P50107>
+      <a:P50071 rdf:resource="https://www.imdb.com/title/tt0083743//spa/"/>
+      <a:P50071 rdf:resource="https://www.imdb.com/title/tt0083743//spa/imagen(enmovimiento;bidimensional)"/>
    </c:C10004>
    <c:C10004 rdf:about="fernandezariasirmaisabel">
       <a:P50094>fernandezariasirmaisabel</a:P50094>
@@ -1124,12 +1150,13 @@
       <a:P50094>francoricardo</a:P50094>
       <a:P50111>Franco, Ricardo</a:P50111>
       <a:P50107>1949-1998</a:P50107>
+      <a:P50048 rdf:resource="http://viaf.org/viaf/177039865"/>
    </c:C10004>
    <c:C10004 rdf:about="fustergarcafrancisco">
       <a:P50094>fustergarcafrancisco</a:P50094>
       <a:P50111>Fuster García, Francisco</a:P50111>
       <a:P50107>1984-</a:P50107>
-      <a:P50189 rdf:resource="http://workid.oslomet.no/cjc/30"/>
+      <a:P50189 rdf:resource="urn:isbn:9788416247523"/>
    </c:C10004>
    <c:C10004 rdf:about="gallegosrmulo">
       <a:P50094>gallegosrmulo</a:P50094>
@@ -1145,6 +1172,7 @@
       <a:P50094>garcaabrilantn</a:P50094>
       <a:P50111>García Abril, Antón</a:P50111>
       <a:P50107>1933-</a:P50107>
+      <a:P50187 rdf:resource="https://www.imdb.com/title/tt0083743/"/>
    </c:C10004>
    <c:C10004 rdf:about="garcagrgolesjess">
       <a:P50094>garcagrgolesjess</a:P50094>
@@ -1189,6 +1217,7 @@
       <a:P50094>gmezjosluis</a:P50094>
       <a:P50111>Gómez, José Luis</a:P50111>
       <a:P50107>1940-</a:P50107>
+      <a:P50071 rdf:resource="http://viaf.org/viaf/177039865/spa/"/>
    </c:C10004>
    <c:C10004 rdf:about="gmezramiro">
       <a:P50094>gmezramiro</a:P50094>
@@ -1199,13 +1228,14 @@
       <a:P50094>goilorenzo</a:P50094>
       <a:P50111>Goñi, Lorenzo</a:P50111>
       <a:P50107>1911-1992</a:P50107>
-      <a:P50161 rdf:resource="http://workid.oslomet.no/cjc/32/spa/"/>
-      <a:P50161 rdf:resource="http://workid.oslomet.no/cjc/49/spa/"/>
-      <a:P50161 rdf:resource="http://workid.oslomet.no/cjc/71/spa/"/>
-      <a:P50161 rdf:resource="http://workid.oslomet.no/cjc/52/spa/"/>
-      <a:P50161 rdf:resource="http://viaf.org/viaf/178631752/spa/"/>
-      <a:P50161 rdf:resource="http://viaf.org/viaf/178631752/spa/texto(visual)"/>
       <a:P50469 rdf:resource="urn:isbn:842262317"/>
+      <a:P50469 rdf:resource="urn:isbn:8422623161"/>
+      <a:P50469 rdf:resource="http://example.org/bimo0000655352"/>
+      <a:P50469 rdf:resource="urn:isbn:8473850181"/>
+      <a:P50469 rdf:resource="http://example.org/bimo0000655486"/>
+      <a:P50469 rdf:resource="urn:isbn:8481093742"/>
+      <a:P50469 rdf:resource="http://example.org/a4303063"/>
+      <a:P50469 rdf:resource="urn:isbn:8422627841"/>
    </c:C10004>
    <c:C10004 rdf:about="gonilorenzo">
       <a:P50094>gonilorenzo</a:P50094>
@@ -1217,6 +1247,7 @@
       <a:P50094>gonzlezagustn</a:P50094>
       <a:P50111>González, Agustín</a:P50111>
       <a:P50107>1930-2005</a:P50107>
+      <a:P50071 rdf:resource="https://www.imdb.com/title/tt0083743//spa/imagen(enmovimiento;bidimensional)"/>
    </c:C10004>
    <c:C10004 rdf:about="gonzlezdelvallemarajess">
       <a:P50094>gonzlezdelvallemarajess</a:P50094>
@@ -1246,6 +1277,7 @@
       <a:P50094>gutirrezcabaemilio</a:P50094>
       <a:P50111>Gutiérrez Caba, Emilio</a:P50111>
       <a:P50107>1942-</a:P50107>
+      <a:P50071 rdf:resource="https://www.imdb.com/title/tt0083743//spa/imagen(enmovimiento;bidimensional)"/>
    </c:C10004>
    <c:C10004 rdf:about="gutirrezdomingo">
       <a:P50094>gutirrezdomingo</a:P50094>
@@ -1397,6 +1429,8 @@
       <a:P50094>http://viaf.org/viaf/56299308</a:P50094>
       <a:P50111>Algora, Francisco</a:P50111>
       <a:P50107>1948-2016</a:P50107>
+      <a:P50071 rdf:resource="https://www.imdb.com/title/tt0083743//spa/"/>
+      <a:P50071 rdf:resource="https://www.imdb.com/title/tt0083743//spa/imagen(enmovimiento;bidimensional)"/>
    </c:C10004>
    <c:C10004 rdf:about="http://viaf.org/viaf/66142208">
       <a:P50094>http://viaf.org/viaf/66142208</a:P50094>
@@ -1409,6 +1443,7 @@
       <a:P50094>http://viaf.org/viaf/70031002</a:P50094>
       <a:P50111>Alterio, Héctor</a:P50111>
       <a:P50107>1929-</a:P50107>
+      <a:P50071 rdf:resource="http://viaf.org/viaf/177039865/spa/"/>
    </c:C10004>
    <c:C10004 rdf:about="huartemortonfernando">
       <a:P50094>huartemortonfernando</a:P50094>
@@ -1440,8 +1475,9 @@
       <a:P50094>kronikjohnw</a:P50094>
       <a:P50111>Kronik, John W</a:P50111>
       <a:P50107>1931-2006</a:P50107>
-      <a:P50161 rdf:resource="http://viaf.org/viaf/177039865/eng/"/>
-      <a:P50189 rdf:resource="http://viaf.org/viaf/177039865"/>
+      <a:P50189 rdf:resource="urn:isbn:0135283078"/>
+      <a:P50189 rdf:resource="urn:isbn:0390181080"/>
+      <a:P50189 rdf:resource="http://example.org/bimo0000655512"/>
    </c:C10004>
    <c:C10004 rdf:about="laxeiro">
       <a:P50094>laxeiro</a:P50094>
@@ -1488,11 +1524,14 @@
       <a:P50094>lpezcharo</a:P50094>
       <a:P50111>López, Charo</a:P50111>
       <a:P50107>1943-</a:P50107>
+      <a:P50071 rdf:resource="https://www.imdb.com/title/tt0083743//spa/"/>
+      <a:P50071 rdf:resource="https://www.imdb.com/title/tt0083743//spa/imagen(enmovimiento;bidimensional)"/>
    </c:C10004>
    <c:C10004 rdf:about="lpezvzquezjosluis">
       <a:P50094>lpezvzquezjosluis</a:P50094>
       <a:P50111>López Vázquez, José Luis</a:P50111>
       <a:P50107>1922-2009</a:P50107>
+      <a:P50071 rdf:resource="https://www.imdb.com/title/tt0083743//spa/imagen(enmovimiento;bidimensional)"/>
    </c:C10004>
    <c:C10004 rdf:about="luqueisabel">
       <a:P50094>luqueisabel</a:P50094>
@@ -1534,6 +1573,7 @@
       <a:P50094>martnezlzaroemilio</a:P50094>
       <a:P50111>Martínez Lázaro, Emilio</a:P50111>
       <a:P50107>1945-</a:P50107>
+      <a:P50223 rdf:resource="http://viaf.org/viaf/177039865"/>
    </c:C10004>
    <c:C10004 rdf:about="medinaantonio">
       <a:P50094>medinaantonio</a:P50094>
@@ -1572,15 +1612,17 @@
    <c:C10004 rdf:about="mrquezgemma">
       <a:P50094>mrquezgemma</a:P50094>
       <a:P50111>Márquez, Gemma</a:P50111>
-      <a:P50189 rdf:resource="http://viaf.org/viaf/177039865"/>
+      <a:P50189 rdf:resource="urn:isbn:9788423351473"/>
    </c:C10004>
    <c:C10004 rdf:about="navasvillalbalucianojos">
       <a:P50094>navasvillalbalucianojos</a:P50094>
       <a:P50111>Navas Villalba, Luciano José</a:P50111>
+      <a:P50189 rdf:resource="http://example.org/a5952380"/>
    </c:C10004>
    <c:C10004 rdf:about="ojeapaca">
       <a:P50094>ojeapaca</a:P50094>
       <a:P50111>Ojea, Paca</a:P50111>
+      <a:P50071 rdf:resource="http://viaf.org/viaf/177039865/spa/"/>
    </c:C10004>
    <c:C10004 rdf:about="ojedapaca">
       <a:P50094>ojedapaca</a:P50094>
@@ -1598,6 +1640,7 @@
       <a:P50094>pabloluisde</a:P50094>
       <a:P50111>Pablo, Luis de</a:P50111>
       <a:P50107>1930-</a:P50107>
+      <a:P50187 rdf:resource="http://viaf.org/viaf/177039865"/>
    </c:C10004>
    <c:C10004 rdf:about="palazueloenrique">
       <a:P50094>palazueloenrique</a:P50094>
@@ -1614,10 +1657,12 @@
       <a:P50094>pardomario</a:P50094>
       <a:P50111>Pardo, Mario</a:P50111>
       <a:P50107>1944-</a:P50107>
+      <a:P50071 rdf:resource="https://www.imdb.com/title/tt0083743//spa/"/>
    </c:C10004>
    <c:C10004 rdf:about="parrajulio">
       <a:P50094>parrajulio</a:P50094>
       <a:P50111>Parra, Julio</a:P50111>
+      <a:P50161 rdf:resource="https://www.imdb.com/title/tt0083743//spa/"/>
    </c:C10004>
    <c:C10004 rdf:about="pastordearozenabrbara">
       <a:P50094>pastordearozenabrbara</a:P50094>
@@ -1635,10 +1680,15 @@
       <a:P50094>picassopablo</a:P50094>
       <a:P50111>Picasso, Pablo</a:P50111>
       <a:P50107>1881-1973</a:P50107>
-      <a:P50161 rdf:resource="http://viaf.org/viaf/309337537/spa/"/>
-      <a:P50161 rdf:resource="http://viaf.org/viaf/309337537/ger/"/>
+      <a:P50469 rdf:resource="urn:isbn:8402061478"/>
+      <a:P50469 rdf:resource="http://example.org/bimo0000655347"/>
+      <a:P50469 rdf:resource="http://example.org/bimo0000655348"/>
+      <a:P50469 rdf:resource="urn:isbn:8429710517"/>
+      <a:P50469 rdf:resource="urn:isbn:8423952975"/>
+      <a:P50469 rdf:resource="http://example.org/bimo0000655519"/>
       <a:P50469 rdf:resource="urn:isbn:9783883792736"/>
       <a:P50469 rdf:resource="http://example.org/992951216"/>
+      <a:P50469 rdf:resource="urn:unknown:080049"/>
    </c:C10004>
    <c:C10004 rdf:about="plajaume">
       <a:P50094>plajaume</a:P50094>
@@ -1656,8 +1706,9 @@
    <c:C10004 rdf:about="polackphilip">
       <a:P50094>polackphilip</a:P50094>
       <a:P50111>Polack, Philip</a:P50111>
-      <a:P50161 rdf:resource="http://viaf.org/viaf/181108754/eng/"/>
-      <a:P50189 rdf:resource="http://viaf.org/viaf/181108754"/>
+      <a:P50189 rdf:resource="http://example.org/014027015"/>
+      <a:P50189 rdf:resource="http://example.org/bimo0000655514"/>
+      <a:P50189 rdf:resource="urn:isbn:0245528016"/>
    </c:C10004>
    <c:C10004 rdf:about="poltjohnhr">
       <a:P50094>poltjohnhr</a:P50094>
@@ -1668,6 +1719,7 @@
       <a:P50094>pontemaraluisa</a:P50094>
       <a:P50111>Ponte, María Luisa</a:P50111>
       <a:P50107>1918-1996</a:P50107>
+      <a:P50071 rdf:resource="https://www.imdb.com/title/tt0083743//spa/imagen(enmovimiento;bidimensional)"/>
    </c:C10004>
    <c:C10004 rdf:about="pozueloyvancosjosmara">
       <a:P50094>pozueloyvancosjosmara</a:P50094>
@@ -1686,6 +1738,7 @@
       <a:P50094>querejetaelas</a:P50094>
       <a:P50111>Querejeta, Elías</a:P50111>
       <a:P50107>1934-2013</a:P50107>
+      <a:P50213 rdf:resource="http://viaf.org/viaf/177039865"/>
    </c:C10004>
    <c:C10004 rdf:about="querejetafranciscoj">
       <a:P50094>querejetafranciscoj</a:P50094>
@@ -1695,11 +1748,14 @@
       <a:P50094>quintillelvira</a:P50094>
       <a:P50111>Quintillá, Elvira</a:P50111>
       <a:P50107>1928-2013</a:P50107>
+      <a:P50071 rdf:resource="https://www.imdb.com/title/tt0083743//spa/imagen(enmovimiento;bidimensional)"/>
    </c:C10004>
    <c:C10004 rdf:about="rabalfrancisco">
       <a:P50094>rabalfrancisco</a:P50094>
       <a:P50111>Rabal, Francisco</a:P50111>
       <a:P50107>1926-2001</a:P50107>
+      <a:P50071 rdf:resource="https://www.imdb.com/title/tt0083743//spa/"/>
+      <a:P50071 rdf:resource="https://www.imdb.com/title/tt0083743//spa/imagen(enmovimiento;bidimensional)"/>
    </c:C10004>
    <c:C10004 rdf:about="radeckdavina">
       <a:P50094>radeckdavina</a:P50094>
@@ -1716,6 +1772,7 @@
       <a:P50094>resinesantonio</a:P50094>
       <a:P50111>Resines, Antonio</a:P50111>
       <a:P50107>1949-</a:P50107>
+      <a:P50071 rdf:resource="https://www.imdb.com/title/tt0083743//spa/imagen(enmovimiento;bidimensional)"/>
    </c:C10004>
    <c:C10004 rdf:about="revueltalen">
       <a:P50094>revueltalen</a:P50094>
@@ -1770,6 +1827,7 @@
       <a:P50094>sacristnjos</a:P50094>
       <a:P50111>Sacristán, José</a:P50111>
       <a:P50107>1937-</a:P50107>
+      <a:P50071 rdf:resource="https://www.imdb.com/title/tt0083743//spa/imagen(enmovimiento;bidimensional)"/>
    </c:C10004>
    <c:C10004 rdf:about="sagarfacimatilde">
       <a:P50094>sagarfacimatilde</a:P50094>
@@ -1807,6 +1865,7 @@
       <a:P50094>sazatorniljos</a:P50094>
       <a:P50111>Sazatornil, José</a:P50111>
       <a:P50107>1926-2015</a:P50107>
+      <a:P50071 rdf:resource="https://www.imdb.com/title/tt0083743//spa/imagen(enmovimiento;bidimensional)"/>
    </c:C10004>
    <c:C10004 rdf:about="serrallimonajosep">
       <a:P50094>serrallimonajosep</a:P50094>
@@ -1837,7 +1896,8 @@
       <a:P50111>Sobejano, Gonzalo</a:P50111>
       <a:P50107>1928-</a:P50107>
       <a:P50161 rdf:resource="http://viaf.org/viaf/178631752/spa/"/>
-      <a:P50195 rdf:resource="http://viaf.org/viaf/178631752"/>
+      <a:P50189 rdf:resource="urn:isbn:9788491042785"/>
+      <a:P50528 rdf:resource="urn:isbn:9788491042785"/>
    </c:C10004>
    <c:C10004 rdf:about="sokolinskymartin">
       <a:P50094>sokolinskymartin</a:P50094>
@@ -1860,7 +1920,7 @@
       <a:P50107>1953-</a:P50107>
       <a:P50161 rdf:resource="http://viaf.org/viaf/177039865/spa/"/>
       <a:P50161 rdf:resource="http://viaf.org/viaf/178631752/spa/"/>
-      <a:P50189 rdf:resource="http://viaf.org/viaf/178631752"/>
+      <a:P50189 rdf:resource="urn:isbn:8470394363"/>
    </c:C10004>
    <c:C10004 rdf:about="sotoamparo">
       <a:P50094>sotoamparo</a:P50094>
@@ -1869,13 +1929,14 @@
    <c:C10004 rdf:about="spechtrainer">
       <a:P50094>spechtrainer</a:P50094>
       <a:P50111>Specht, Rainer</a:P50111>
+      <a:P50145 rdf:resource="http://viaf.org/viaf/309337537/ger/"/>
       <a:P50145 rdf:resource="http://viaf.org/viaf/309337537/ger/text"/>
-      <a:P50161 rdf:resource="http://viaf.org/viaf/309337537/ger/"/>
    </c:C10004>
    <c:C10004 rdf:about="theilebruhnsgerda">
       <a:P50094>theilebruhnsgerda</a:P50094>
       <a:P50111>Theile-Bruhns, Gerda</a:P50111>
       <a:P50145 rdf:resource="http://viaf.org/viaf/178631752/ger/text"/>
+      <a:P50145 rdf:resource="http://viaf.org/viaf/177039865/ger/text"/>
       <a:P50145 rdf:resource="http://viaf.org/viaf/185952526/ger/text"/>
    </c:C10004>
    <c:C10004 rdf:about="theilebrunhsgerda">
@@ -1917,10 +1978,10 @@
       <a:P50094>urrutiajorge</a:P50094>
       <a:P50111>Urrutia, Jorge</a:P50111>
       <a:P50107>1945-</a:P50107>
-      <a:P50161 rdf:resource="http://viaf.org/viaf/177039865/spa/"/>
-      <a:P50161 rdf:resource="http://viaf.org/viaf/178631752/spa/"/>
-      <a:P50189 rdf:resource="http://viaf.org/viaf/178631752"/>
-      <a:P50195 rdf:resource="http://viaf.org/viaf/177039865"/>
+      <a:P50189 rdf:resource="urn:isbn:9788437637891"/>
+      <a:P50189 rdf:resource="urn:isbn:8437607949"/>
+      <a:P50189 rdf:resource="urn:isbn:8432040053"/>
+      <a:P50528 rdf:resource="urn:isbn:8432040053"/>
    </c:C10004>
    <c:C10004 rdf:about="vaqueirovtor">
       <a:P50094>vaqueirovtor</a:P50094>
@@ -1942,6 +2003,7 @@
       <a:P50094>velascoconcha</a:P50094>
       <a:P50111>Velasco, Concha</a:P50111>
       <a:P50107>1939-</a:P50107>
+      <a:P50071 rdf:resource="https://www.imdb.com/title/tt0083743//spa/imagen(enmovimiento;bidimensional)"/>
    </c:C10004>
    <c:C10004 rdf:about="vicenteeduardo">
       <a:P50094>vicenteeduardo</a:P50094>
@@ -1965,9 +2027,10 @@
       <a:P50094>villanuevadaro</a:P50094>
       <a:P50111>Villanueva, Darío</a:P50111>
       <a:P50107>1950-</a:P50107>
-      <a:P50161 rdf:resource="http://viaf.org/viaf/178631752/spa/"/>
-      <a:P50161 rdf:resource="http://workid.oslomet.no/cjc/90/spa/"/>
-      <a:P50189 rdf:resource="http://viaf.org/viaf/177039865"/>
+      <a:P50189 rdf:resource="urn:isbn:8427908911"/>
+      <a:P50189 rdf:resource="urn:isbn:8423972291"/>
+      <a:P50189 rdf:resource="urn:isbn:9788468213491"/>
+      <a:P50189 rdf:resource="urn:isbn:8431638222"/>
    </c:C10004>
    <c:C10004 rdf:about="vintesfernando">
       <a:P50094>vintesfernando</a:P50094>
@@ -2080,8 +2143,6 @@
       <e:P20006>eng</e:P20006>
       <e:P20006>Inglés</e:P20006>
       <e:P20037 rdf:resource="kerrigananthony"/>
-      <e:P20053 rdf:resource="boudreauharoldl"/>
-      <e:P20053 rdf:resource="kronikjohnw"/>
       <e:P20059 rdf:resource="http://example.org/bimo0001975782"/>
       <e:P20059 rdf:resource="http://example.org/bimo0000655512"/>
       <e:P20231 rdf:resource="http://viaf.org/viaf/177039865"/>
@@ -2106,6 +2167,7 @@
       <e:P20006>ger</e:P20006>
       <e:P20001>Text</e:P20001>
       <e:P20037 rdf:resource="leisewitzgeorg"/>
+      <e:P20037 rdf:resource="theilebruhnsgerda"/>
       <e:P20037 rdf:resource="enzenbergcarinavon"/>
       <e:P20037 rdf:resource="moralhildegard"/>
       <e:P20059 rdf:resource="urn:isbn:9783492550185"/>
@@ -2129,10 +2191,12 @@
       <e:P20006>spa</e:P20006>
       <e:P20006>lat</e:P20006>
       <e:P20312>La familia de Pascual Duarte</e:P20312>
+      <e:P20012 rdf:resource="gmezjosluis"/>
+      <e:P20012 rdf:resource="ojeapaca"/>
+      <e:P20012 rdf:resource="http://viaf.org/viaf/70031002"/>
       <e:P20053 rdf:resource="sauraantonio"/>
       <e:P20053 rdf:resource="plajaume"/>
       <e:P20053 rdf:resource="redondelaagustn"/>
-      <e:P20053 rdf:resource="urrutiajorge"/>
       <e:P20053 rdf:resource="http://viaf.org/viaf/14767431"/>
       <e:P20053 rdf:resource="sotelovzquezadolfo"/>
       <e:P20053 rdf:resource="cerradacarreteroantonio"/>
@@ -2267,13 +2331,10 @@
       <e:P20006>spa</e:P20006>
       <e:P20053 rdf:resource="asnraquel"/>
       <e:P20053 rdf:resource="juradomoralesjos"/>
-      <e:P20053 rdf:resource="urrutiajorge"/>
       <e:P20053 rdf:resource="moreiroprietojulin"/>
-      <e:P20053 rdf:resource="villanuevadaro"/>
       <e:P20053 rdf:resource="sotelovzquezadolfo"/>
       <e:P20053 rdf:resource="vicenteeduardo"/>
       <e:P20053 rdf:resource="sobejanogonzalo"/>
-      <e:P20053 rdf:resource="goilorenzo"/>
       <e:P20053 rdf:resource="alonsoeduardo"/>
       <e:P20053 rdf:resource="rodrguezfontelamaradelosngeles"/>
       <e:P20053 rdf:resource="gatagntino"/>
@@ -2349,7 +2410,6 @@
    <c:C10006 rdf:about="http://viaf.org/viaf/178631752/spa/texto(visual)">
       <e:P20006>spa</e:P20006>
       <e:P20001>Texto (visual)</e:P20001>
-      <e:P20053 rdf:resource="goilorenzo"/>
       <e:P20059 rdf:resource="http://example.org/a5387241"/>
       <e:P20059 rdf:resource="urn:isbn:9788423345397"/>
       <e:P20059 rdf:resource="urn:isbn:9788491042785"/>
@@ -2411,7 +2471,6 @@
    <c:C10006 rdf:about="http://viaf.org/viaf/181108754/eng/">
       <e:P20006>eng</e:P20006>
       <e:P20006>Inglés</e:P20006>
-      <e:P20053 rdf:resource="polackphilip"/>
       <e:P20053 rdf:resource="iliepaul"/>
       <e:P20059 rdf:resource="http://example.org/bimo0000655514"/>
       <e:P20059 rdf:resource="urn:isbn:0245528016"/>
@@ -2676,8 +2735,7 @@
    </c:C10006>
    <c:C10006 rdf:about="http://viaf.org/viaf/309337537/ger/">
       <e:P20006>ger</e:P20006>
-      <e:P20053 rdf:resource="spechtrainer"/>
-      <e:P20053 rdf:resource="picassopablo"/>
+      <e:P20037 rdf:resource="spechtrainer"/>
       <e:P20059 rdf:resource="http://example.org/bimo0000655519"/>
       <e:P20231 rdf:resource="http://viaf.org/viaf/309337537"/>
    </c:C10006>
@@ -2696,7 +2754,6 @@
    </c:C10006>
    <c:C10006 rdf:about="http://viaf.org/viaf/309337537/spa/">
       <e:P20006>spa</e:P20006>
-      <e:P20053 rdf:resource="picassopablo"/>
       <e:P20059 rdf:resource="urn:isbn:8402061478"/>
       <e:P20059 rdf:resource="urn:isbn:8439515162"/>
       <e:P20059 rdf:resource="http://example.org/bimo0000655347"/>
@@ -3066,7 +3123,6 @@
    </c:C10006>
    <c:C10006 rdf:about="http://workid.oslomet.no/cjc/32/spa/">
       <e:P20006>spa</e:P20006>
-      <e:P20053 rdf:resource="goilorenzo"/>
       <e:P20053 rdf:resource="mampasomanuel"/>
       <e:P20059 rdf:resource="urn:isbn:8422623161"/>
       <e:P20059 rdf:resource="http://example.org/bimo0000655351"/>
@@ -3220,7 +3276,6 @@
    </c:C10006>
    <c:C10006 rdf:about="http://workid.oslomet.no/cjc/49/spa/">
       <e:P20006>spa</e:P20006>
-      <e:P20053 rdf:resource="goilorenzo"/>
       <e:P20059 rdf:resource="urn:isbn:842262317"/>
       <e:P20059 rdf:resource="http://example.org/bimo0000655259"/>
       <e:P20231 rdf:resource="http://workid.oslomet.no/cjc/49"/>
@@ -3249,7 +3304,6 @@
    </c:C10006>
    <c:C10006 rdf:about="http://workid.oslomet.no/cjc/52/spa/">
       <e:P20006>spa</e:P20006>
-      <e:P20053 rdf:resource="goilorenzo"/>
       <e:P20059 rdf:resource="urn:isbn:842262317"/>
       <e:P20059 rdf:resource="http://example.org/bimo0000655486"/>
       <e:P20059 rdf:resource="urn:isbn:8422623196"/>
@@ -3372,7 +3426,6 @@
    <c:C10006 rdf:about="http://workid.oslomet.no/cjc/71/spa/">
       <e:P20006>spa</e:P20006>
       <e:P20053 rdf:resource="canalesalfonso"/>
-      <e:P20053 rdf:resource="goilorenzo"/>
       <e:P20059 rdf:resource="urn:isbn:8473850181"/>
       <e:P20059 rdf:resource="urn:isbn:8472233014"/>
       <e:P20231 rdf:resource="http://workid.oslomet.no/cjc/71"/>
@@ -3560,7 +3613,6 @@
    </c:C10006>
    <c:C10006 rdf:about="http://workid.oslomet.no/cjc/90/spa/">
       <e:P20006>spa</e:P20006>
-      <e:P20053 rdf:resource="villanuevadaro"/>
       <e:P20059 rdf:resource="urn:isbn:8423972291"/>
       <e:P20231 rdf:resource="http://workid.oslomet.no/cjc/90"/>
    </c:C10006>
@@ -3732,6 +3784,48 @@
       <e:P20001>Texto (visual)</e:P20001>
       <e:P20059 rdf:resource="urn:isbn:8493512907"/>
       <e:P20231 rdf:resource="http://www.wikidata.org/entity/q5791732"/>
+   </c:C10006>
+   <c:C10006 rdf:about="https://www.imdb.com/title/tt0083743//spa/">
+      <e:P20006>spa</e:P20006>
+      <e:P20012 rdf:resource="abrilvictoria"/>
+      <e:P20012 rdf:resource="http://viaf.org/viaf/56299308"/>
+      <e:P20012 rdf:resource="rabalfrancisco"/>
+      <e:P20012 rdf:resource="pardomario"/>
+      <e:P20012 rdf:resource="faltoyanofiorella"/>
+      <e:P20012 rdf:resource="bdalojos"/>
+      <e:P20012 rdf:resource="lpezcharo"/>
+      <e:P20012 rdf:resource="anabeln"/>
+      <e:P20053 rdf:resource="parrajulio"/>
+      <e:P20059 rdf:resource="http://example.org/bivi0000010987"/>
+      <e:P20059 rdf:resource="http://example.org/bivi0000010986"/>
+      <e:P20059 rdf:resource="http://example.org/a5087389"/>
+      <e:P20059 rdf:resource="http://example.org/ff3359644"/>
+      <e:P20231 rdf:resource="https://www.imdb.com/title/tt0083743/"/>
+   </c:C10006>
+   <c:C10006 rdf:about="https://www.imdb.com/title/tt0083743//spa/imagen(enmovimiento;bidimensional)">
+      <e:P20006>spa</e:P20006>
+      <e:P20001>Imagen (en movimiento ; bidimensional)</e:P20001>
+      <e:P20012 rdf:resource="sacristnjos"/>
+      <e:P20012 rdf:resource="abrilvictoria"/>
+      <e:P20012 rdf:resource="escobarluis"/>
+      <e:P20012 rdf:resource="lpezcharo"/>
+      <e:P20012 rdf:resource="anabeln"/>
+      <e:P20012 rdf:resource="faltoyanofiorella"/>
+      <e:P20012 rdf:resource="lpezvzquezjosluis"/>
+      <e:P20012 rdf:resource="velascoconcha"/>
+      <e:P20012 rdf:resource="rabalfrancisco"/>
+      <e:P20012 rdf:resource="sazatorniljos"/>
+      <e:P20012 rdf:resource="resinesantonio"/>
+      <e:P20012 rdf:resource="http://viaf.org/viaf/56299308"/>
+      <e:P20012 rdf:resource="carrillomary"/>
+      <e:P20012 rdf:resource="gutirrezcabaemilio"/>
+      <e:P20012 rdf:resource="quintillelvira"/>
+      <e:P20012 rdf:resource="cigsluis"/>
+      <e:P20012 rdf:resource="ariasimanol"/>
+      <e:P20012 rdf:resource="gonzlezagustn"/>
+      <e:P20012 rdf:resource="pontemaraluisa"/>
+      <e:P20059 rdf:resource="urn:unknown:8421394407213"/>
+      <e:P20231 rdf:resource="https://www.imdb.com/title/tt0083743/"/>
    </c:C10006>
    <c:C10006 rdf:about="vargasllosamario/litumaenlosandes/spa/">
       <e:P20006>spa</e:P20006>
@@ -3974,6 +4068,7 @@
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
       <m:P30139 rdf:resource="http://viaf.org/viaf/181108754/eng/text"/>
+      <w:P10055 rdf:resource="polackphilip"/>
    </c:C10007>
    <c:C10007 rdf:about="http://example.org/014208320">
       <marc:M001>014208320</marc:M001>
@@ -4153,6 +4248,7 @@
       <m:P30106>El espejo y la pluma</m:P30106>
       <m:P30106>Caminos inciertos</m:P30106>
       <m:P30139 rdf:resource="http://viaf.org/viaf/178631752/spa/texto(visual)"/>
+      <m:P30321 rdf:resource="goilorenzo"/>
    </c:C10007>
    <c:C10007 rdf:about="http://example.org/a4559649">
       <marc:M001>a4559649</marc:M001>
@@ -4201,6 +4297,7 @@
       <marc:M30000b>son., col.</marc:M30000b>
       <m:P30106>El cine español año a año, 1978-2007</m:P30106>
       <m:P30165>5</m:P30165>
+      <m:P30139 rdf:resource="https://www.imdb.com/title/tt0083743//spa/"/>
    </c:C10007>
    <c:C10007 rdf:about="http://example.org/a5387241">
       <marc:M001>a5387241</marc:M001>
@@ -4274,6 +4371,7 @@
       <m:P30182>37 p., [27] h. de lám.</m:P30182>
       <m:P30169>21 cm</m:P30169>
       <m:P30001>sin mediación</m:P30001>
+      <w:P10055 rdf:resource="navasvillalbalucianojos"/>
    </c:C10007>
    <c:C10007 rdf:about="http://example.org/a5955997">
       <marc:M001>a5955997</marc:M001>
@@ -5240,6 +5338,7 @@
       <m:P30106>Colección "Príncipe Don Juan Manuel de Obras de C.J.C."</m:P30106>
       <m:P30165>v. II</m:P30165>
       <m:P30139 rdf:resource="http://viaf.org/viaf/309337537/spa/"/>
+      <m:P30321 rdf:resource="picassopablo"/>
    </c:C10007>
    <c:C10007 rdf:about="http://example.org/bimo0000655348">
       <marc:M001>bimo0000655348</marc:M001>
@@ -5253,6 +5352,7 @@
       <m:P30169>24 cm</m:P30169>
       <m:P30106>Museo Secreto</m:P30106>
       <m:P30139 rdf:resource="http://viaf.org/viaf/309337537/spa/"/>
+      <m:P30321 rdf:resource="picassopablo"/>
    </c:C10007>
    <c:C10007 rdf:about="http://example.org/bimo0000655351">
       <marc:M001>bimo0000655351</marc:M001>
@@ -5280,6 +5380,7 @@
       <m:P30106>A la Pata de Palo</m:P30106>
       <m:P30165>v. I</m:P30165>
       <m:P30139 rdf:resource="http://workid.oslomet.no/cjc/32/spa/"/>
+      <m:P30321 rdf:resource="goilorenzo"/>
    </c:C10007>
    <c:C10007 rdf:about="http://example.org/bimo0000655353">
       <marc:M001>bimo0000655353</marc:M001>
@@ -6216,6 +6317,7 @@
       <m:P30106>A La Pata De Palo</m:P30106>
       <m:P30165>v. IV</m:P30165>
       <m:P30139 rdf:resource="http://workid.oslomet.no/cjc/52/spa/"/>
+      <m:P30321 rdf:resource="goilorenzo"/>
    </c:C10007>
    <c:C10007 rdf:about="http://example.org/bimo0000655487">
       <marc:M001>bimo0000655487</marc:M001>
@@ -6357,6 +6459,8 @@
       <m:P30182>XXIX, 175 p.</m:P30182>
       <m:P30169>21 cm</m:P30169>
       <m:P30139 rdf:resource="http://viaf.org/viaf/177039865/eng/"/>
+      <w:P10055 rdf:resource="boudreauharoldl"/>
+      <w:P10055 rdf:resource="kronikjohnw"/>
    </c:C10007>
    <c:C10007 rdf:about="http://example.org/bimo0000655513">
       <marc:M001>bimo0000655513</marc:M001>
@@ -6383,6 +6487,7 @@
       <m:P30182>272 p.</m:P30182>
       <m:P30169>19 cm</m:P30169>
       <m:P30139 rdf:resource="http://viaf.org/viaf/181108754/eng/"/>
+      <w:P10055 rdf:resource="polackphilip"/>
    </c:C10007>
    <c:C10007 rdf:about="http://example.org/bimo0000655516">
       <marc:M001>bimo0000655516</marc:M001>
@@ -6432,6 +6537,7 @@
       <marc:M30000b>grab. col.</marc:M30000b>
       <m:P30169>36 cm</m:P30169>
       <m:P30139 rdf:resource="http://viaf.org/viaf/309337537/ger/"/>
+      <m:P30321 rdf:resource="picassopablo"/>
    </c:C10007>
    <c:C10007 rdf:about="http://example.org/bimo0000672534">
       <marc:M001>bimo0000672534</marc:M001>
@@ -6837,6 +6943,7 @@
       <m:P30182>1 DVD-Vídeo (ca. 107 min)</m:P30182>
       <marc:M30000b>son., col.</marc:M30000b>
       <marc:M30000e>1 folleto ([3] p.)</marc:M30000e>
+      <m:P30139 rdf:resource="https://www.imdb.com/title/tt0083743//spa/"/>
    </c:C10007>
    <c:C10007 rdf:about="http://example.org/bivi0000010987">
       <marc:M001>bivi0000010987</marc:M001>
@@ -6847,6 +6954,7 @@
       <m:P30011>D.L. 1983</m:P30011>
       <m:P30182>1 videocasete (Beta) (107 min)</m:P30182>
       <marc:M30000b>son., col.</marc:M30000b>
+      <m:P30139 rdf:resource="https://www.imdb.com/title/tt0083743//spa/"/>
    </c:C10007>
    <c:C10007 rdf:about="http://example.org/bivi0000023321">
       <marc:M001>bivi0000023321</marc:M001>
@@ -6902,6 +7010,7 @@
       <marc:M30000b>son., col.</marc:M30000b>
       <marc:M30000e>1 folleto (27 p.) + 1 DVD</marc:M30000e>
       <m:P30106>El Cine de TVE</m:P30106>
+      <m:P30139 rdf:resource="https://www.imdb.com/title/tt0083743//spa/"/>
    </c:C10007>
    <c:C10007 rdf:about="http://example.org/mimo0000655403">
       <marc:M001>Mimo0000655403</marc:M001>
@@ -6970,6 +7079,8 @@
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
       <m:P30139 rdf:resource="http://viaf.org/viaf/177039865/spa/text"/>
+      <w:P10055 rdf:resource="boudreauharoldl"/>
+      <w:P10055 rdf:resource="kronikjohnw"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:0140140220">
       <marc:M001>011308524</marc:M001>
@@ -7002,6 +7113,7 @@
       <m:P30169>19 cm</m:P30169>
       <m:P30106>Modern Worrld Literature Series</m:P30106>
       <m:P30139 rdf:resource="http://viaf.org/viaf/181108754/eng/"/>
+      <w:P10055 rdf:resource="polackphilip"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:0299032507">
       <marc:M001>014027007</marc:M001>
@@ -7057,6 +7169,8 @@
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
       <m:P30139 rdf:resource="http://viaf.org/viaf/177039865/eng/text"/>
+      <w:P10055 rdf:resource="boudreauharoldl"/>
+      <w:P10055 rdf:resource="kronikjohnw"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:0575048107">
       <marc:M001>010078490</marc:M001>
@@ -7801,6 +7915,7 @@
       <m:P30106>Libro amigo ;</m:P30106>
       <m:P30165>636</m:P30165>
       <m:P30139 rdf:resource="http://viaf.org/viaf/309337537/spa/"/>
+      <m:P30321 rdf:resource="picassopablo"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:8402063152">
       <marc:M001>bimo0000655237</marc:M001>
@@ -8329,6 +8444,7 @@
       <m:P30106>A la pata de palo</m:P30106>
       <m:P30165>1</m:P30165>
       <m:P30139 rdf:resource="http://workid.oslomet.no/cjc/32/spa/"/>
+      <m:P30321 rdf:resource="goilorenzo"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:842262317">
       <marc:M001>bimo0000030155</marc:M001>
@@ -8425,6 +8541,7 @@
       <m:P30182>349 p.</m:P30182>
       <m:P30169>24 cm</m:P30169>
       <m:P30139 rdf:resource="http://viaf.org/viaf/178631752/spa/"/>
+      <m:P30321 rdf:resource="goilorenzo"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:8422629054">
       <marc:M001>bimo0000115815</marc:M001>
@@ -9275,6 +9392,7 @@
       <m:P30169>20 cm</m:P30169>
       <m:P30106>Acanto</m:P30106>
       <m:P30139 rdf:resource="http://viaf.org/viaf/309337537/spa/"/>
+      <m:P30321 rdf:resource="picassopablo"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:842395434">
       <marc:M001>bimo0000373148</marc:M001>
@@ -9337,6 +9455,7 @@
       <m:P30182>288 p.</m:P30182>
       <m:P30169>18 cm</m:P30169>
       <m:P30139 rdf:resource="http://workid.oslomet.no/cjc/90/spa/"/>
+      <w:P10055 rdf:resource="villanuevadaro"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:8423972909">
       <marc:M001>012522828</marc:M001>
@@ -9879,6 +9998,7 @@
       <m:P30182>399 p.</m:P30182>
       <m:P30169>18 cm</m:P30169>
       <m:P30139 rdf:resource="http://viaf.org/viaf/178631752/spa/"/>
+      <w:P10055 rdf:resource="villanuevadaro"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:8427911580">
       <marc:M001>bimo0000655421</marc:M001>
@@ -9999,6 +10119,7 @@
       <marc:M30000b>grab. col.</marc:M30000b>
       <m:P30169>28 cm</m:P30169>
       <m:P30139 rdf:resource="http://viaf.org/viaf/309337537/spa/"/>
+      <m:P30321 rdf:resource="picassopablo"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:8429710525">
       <marc:M001>bimo0000655449</marc:M001>
@@ -10078,6 +10199,7 @@
       <m:P30106>Clásicos hispánicos</m:P30106>
       <m:P30165>13</m:P30165>
       <m:P30139 rdf:resource="http://viaf.org/viaf/178631752/spa/"/>
+      <w:P10055 rdf:resource="villanuevadaro"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:8432029106">
       <marc:M001>bimo0000655390</marc:M001>
@@ -10115,6 +10237,8 @@
       <m:P30106>Colecciones Universitarias Planeta</m:P30106>
       <m:P30139 rdf:resource="http://viaf.org/viaf/177039865/spa/text"/>
       <m:P30139 rdf:resource="http://viaf.org/viaf/177039865/spa/"/>
+      <m:P30327 rdf:resource="urrutiajorge"/>
+      <w:P10055 rdf:resource="urrutiajorge"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:843207053">
       <marc:M001>bimo0000119464</marc:M001>
@@ -10565,6 +10689,7 @@
       <m:P30165>300</m:P30165>
       <m:P30139 rdf:resource="http://viaf.org/viaf/178631752/spa/text"/>
       <m:P30139 rdf:resource="http://viaf.org/viaf/178631752/spa/"/>
+      <w:P10055 rdf:resource="urrutiajorge"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:843951493">
       <marc:M001>bimo0002035734</marc:M001>
@@ -11574,6 +11699,8 @@
       <m:P30165>140</m:P30165>
       <m:P30139 rdf:resource="http://viaf.org/viaf/178631752/spa/"/>
       <m:P30321 rdf:resource="asnraquel"/>
+      <w:P10055 rdf:resource="sotelovzquezadolfo"/>
+      <w:P10055 rdf:resource="asnraquel"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:8470805584">
       <marc:M001>bimo0000655287</marc:M001>
@@ -11691,6 +11818,7 @@
       <m:P30139 rdf:resource="http://workid.oslomet.no/cjc/71/spa/text"/>
       <m:P30139 rdf:resource="http://workid.oslomet.no/cjc/71/spa/"/>
       <m:P30321 rdf:resource="gonilorenzo"/>
+      <m:P30321 rdf:resource="goilorenzo"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:8474441722">
       <marc:M001>010807015</marc:M001>
@@ -12047,6 +12175,7 @@
       <marc:M30000b>il.</marc:M30000b>
       <m:P30169>25 cm</m:P30169>
       <m:P30139 rdf:resource="http://viaf.org/viaf/178631752/spa/"/>
+      <m:P30321 rdf:resource="goilorenzo"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:8481301248">
       <marc:M001>bimo0001506076</marc:M001>
@@ -13017,6 +13146,7 @@
       <m:P30165>18</m:P30165>
       <m:P30139 rdf:resource="http://workid.oslomet.no/cjc/30/spa/text"/>
       <m:P30139 rdf:resource="http://workid.oslomet.no/cjc/30/spa/texto(visual)"/>
+      <w:P10055 rdf:resource="fustergarcafrancisco"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9788416911318">
       <marc:M001>a6027532</marc:M001>
@@ -13334,6 +13464,7 @@
       <m:P30106>Austral educación</m:P30106>
       <m:P30165>18</m:P30165>
       <m:P30139 rdf:resource="http://viaf.org/viaf/177039865/spa/texto(visual)"/>
+      <w:P10055 rdf:resource="mrquezgemma"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9788433962744">
       <marc:M001>a4298048</marc:M001>
@@ -13363,6 +13494,7 @@
       <m:P30106>Letras hispánicas ;</m:P30106>
       <m:P30165>798</m:P30165>
       <m:P30139 rdf:resource="http://viaf.org/viaf/178631752/spa/text"/>
+      <w:P10055 rdf:resource="urrutiajorge"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9788440717276">
       <marc:M001>a3302572</marc:M001>
@@ -13449,6 +13581,7 @@
       <m:P30165>33</m:P30165>
       <m:P30139 rdf:resource="http://viaf.org/viaf/177039865/spa/texto(visual)"/>
       <m:P30321 rdf:resource="serranojavier"/>
+      <w:P10055 rdf:resource="villanuevadaro"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9788468227238">
       <marc:M001>a5606445</marc:M001>
@@ -13478,6 +13611,8 @@
       <m:P30106>El libro de bolsillo. Literatura</m:P30106>
       <m:P30165>L138</m:P30165>
       <m:P30139 rdf:resource="http://viaf.org/viaf/178631752/spa/texto(visual)"/>
+      <m:P30327 rdf:resource="sobejanogonzalo"/>
+      <w:P10055 rdf:resource="sobejanogonzalo"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9788493512903">
       <marc:M001>a5413212</marc:M001>
@@ -13726,6 +13861,7 @@
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
       <m:P30139 rdf:resource="http://viaf.org/viaf/309337537/ger/text"/>
+      <m:P30321 rdf:resource="picassopablo"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:unknown:8421394407213">
       <marc:M001>a5963310</marc:M001>
@@ -13739,5 +13875,6 @@
       <m:P30182>1 Blu-Ray (ca. 107 min)</m:P30182>
       <m:P30001>vídeo</m:P30001>
       <m:P30106>Filmoteca Fnacional</m:P30106>
+      <m:P30139 rdf:resource="https://www.imdb.com/title/tt0083743//spa/imagen(enmovimiento;bidimensional)"/>
    </c:C10007>
 </rdf:RDF>

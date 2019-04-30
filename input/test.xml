@@ -1,58 +1,76 @@
 <marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
-    <marc:record source="doyle.bl.library.author.xml">
-        <marc:leader>00923pam a2200289 a 4500</marc:leader>
-        <marc:controlfield tag="001">012947022</marc:controlfield>
-        <marc:controlfield tag="003">Uk</marc:controlfield>
-        <marc:controlfield tag="005">20170720144246.0</marc:controlfield>
-        <marc:controlfield tag="008">040628s2004    enk    e      000 1 eng  </marc:controlfield>
+    <marc:record>
+        <marc:leader>01253cam a2200349 c 4500</marc:leader>
+        <marc:controlfield tag="005">20160622163226.0</marc:controlfield>
+        <marc:controlfield tag="007">ta</marc:controlfield>
+        <marc:controlfield tag="007">cr||||||||||||</marc:controlfield>
+        <marc:controlfield tag="008">150710s1972    no#||||| |||||000|1|nob|d</marc:controlfield>
+        <marc:controlfield tag="001">999311376164702201</marc:controlfield>
         <marc:datafield tag="020" ind1=" " ind2=" ">
-            <marc:subfield code="a">1904633722 :</marc:subfield>
-            <marc:subfield code="c">£5.99</marc:subfield>
+            <marc:subfield code="a">8252501427</marc:subfield>
+            <marc:subfield code="q">ib.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="041" ind1="1" ind2=" ">
+            <marc:subfield code="a">nob</marc:subfield>
+            <marc:subfield code="9">created from marc:controlfield</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="082" ind1="7" ind2="4">
+            <marc:subfield code="a"> 839.93</marc:subfield>
+            <marc:subfield code="q">NO-OsNB</marc:subfield>
+            <marc:subfield code="2">3/nor</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="100" ind1="1" ind2=" ">
-            <marc:subfield code="a">Doyle, Arthur Conan</marc:subfield>
-            <marc:subfield code="d">1859-1930.</marc:subfield>
-            <marc:subfield code="1p">http://viaf.org/viaf/65283845</marc:subfield>
+            <marc:subfield code="a">Hamsun, Knut</marc:subfield>
+            <marc:subfield code="d">1859-1952</marc:subfield>
+            <marc:subfield code="1">http://viaf.org/viaf/59083692</marc:subfield>
+            <marc:subfield code="4">aut</marc:subfield>
+            <marc:subfield code="1p">http://viaf.org/viaf/59083692</marc:subfield>
         </marc:datafield>
-        <marc:datafield tag="240" ind1="1" ind2=" ">
-            <marc:subfield code="a">The Hound of the Baskervilles</marc:subfield>
-            <marc:subfield code="1w">http://viaf.org/viaf/181625655</marc:subfield>
-            <marc:subfield code="2">generated from 245</marc:subfield>
+        <marc:datafield tag="240" ind1="" ind2="">
+            <marc:subfield code="a">Markens grøde</marc:subfield>
+            <marc:subfield code="k">Novel</marc:subfield>
+            <marc:subfield code="9">from title proper</marc:subfield>
+            <marc:subfield code="1w">http://viaf.org/viaf/294124367</marc:subfield>
         </marc:datafield>
-        <marc:datafield tag="245" ind1="1" ind2="4">
-            <marc:subfield code="a">The hound of the Baskervilles ;</marc:subfield>
-            <marc:subfield code="b">&amp; The valley of fear /</marc:subfield>
-            <marc:subfield code="c">Sir Arthur Conan Doyle.</marc:subfield>
+        <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Markens grøde</marc:subfield>
+            <marc:subfield code="c">Knut Hamsun ; illustrert av Karl Erik Harr</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="260" ind1=" " ind2=" ">
-            <marc:subfield code="a">London :</marc:subfield>
-            <marc:subfield code="b">Collector's Library,</marc:subfield>
-            <marc:subfield code="c">2004.</marc:subfield>
+            <marc:subfield code="a">[Oslo]</marc:subfield>
+            <marc:subfield code="b">Bokklubben</marc:subfield>
+            <marc:subfield code="c">1972</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="300" ind1=" " ind2=" ">
-            <marc:subfield code="a">424 p. ;</marc:subfield>
-            <marc:subfield code="c">15 cm.</marc:subfield>
+            <marc:subfield code="a">267 s.</marc:subfield>
         </marc:datafield>
-        <marc:datafield tag="336" ind1=" " ind2=" ">
-            <marc:subfield code="a">text</marc:subfield>
-            <marc:subfield code="2">rdacontent</marc:subfield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">1. utg. Kristiania ; København : Gyldendalske Boghandel,
+                1917</marc:subfield>
         </marc:datafield>
-        <marc:datafield tag="337" ind1=" " ind2=" ">
-            <marc:subfield code="a">unmediated</marc:subfield>
-            <marc:subfield code="2">rdamedia</marc:subfield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Opplagshistorikk: [Nytt oppl.] 1977 (Nkr 37.00)</marc:subfield>
         </marc:datafield>
-        <marc:datafield tag="338" ind1=" " ind2=" ">
-            <marc:subfield code="a">volume</marc:subfield>
-            <marc:subfield code="2">rdacarrier</marc:subfield>
+        <marc:datafield tag="506" ind1="0" ind2=" ">
+            <marc:subfield code="f">Åpen tilgang</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="533" ind1=" " ind2=" ">
+            <marc:subfield code="a">Elektronisk reproduksjon</marc:subfield>
+            <marc:subfield code="b">[Norge]</marc:subfield>
+            <marc:subfield code="c">Nasjonalbiblioteket Digital</marc:subfield>
+            <marc:subfield code="d">2013-03-16</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
-            <marc:subfield code="a">Elton John</marc:subfield>
-            <marc:subfield code="1p">http://viaf.org/viaf/testidpersonemne</marc:subfield>
+            <marc:subfield code="a">Harr, Karl Erik</marc:subfield>
+            <marc:subfield code="d">1940-</marc:subfield>
             <marc:subfield code="4">ill</marc:subfield>
+            <marc:subfield code="1p">http://viaf.org/viaf/14863655</marc:subfield>
         </marc:datafield>
-        <marc:datafield tag="700" ind1="1" ind2=" ">
-            <marc:subfield code="a">Son of Elton John</marc:subfield>
-            <marc:subfield code="1p">http://viaf.org/viaf/testidpersonemne2</marc:subfield>
+        <marc:datafield tag="856" ind1="4" ind2="0">
+            <marc:subfield code="u">http://urn.nb.no/URN:NBN:no-nb_digibok_2013010408146</marc:subfield>
+            <marc:subfield code="y">NB digitalisert</marc:subfield>
+            <marc:subfield code="z">Elektronisk reproduksjon. Gratis. For norske IP-adresser</marc:subfield>
+            <marc:subfield code="3">Fulltekst</marc:subfield>
         </marc:datafield>
     </marc:record>
 </marc:collection>

@@ -10,37 +10,76 @@
          xmlns:marc="http://marc21rdf.info/elements/marc/"
          xmlns:m="http://rdaregistry.info/Elements/m/"
          xml:base="http://example.org/rda/">
-   <c:C10001 rdf:about="/noidentifier">
-      <w:P10088>The abbey grange</w:P10088>
-      <w:P10088>The second stain</w:P10088>
-      <w:P10088>The hound of the Baskervilles (Película cinematográfica : 1959)</w:P10088>
-      <w:P10088>The sign of four</w:P10088>
-      <w:P10088>Wisteria lodge</w:P10088>
-      <w:P10088>The adventures of Sherlock Holmes</w:P10088>
+   <c:C10001 rdf:about="/silverblaze">
       <w:P10088>Silver blaze</w:P10088>
-      <w:P10088>The hound of the Baskervilles</w:P10088>
-      <w:P10013 rdf:resource="hammondpeter"/>
-      <w:P10013 rdf:resource="brucejohn"/>
-      <w:P10013 rdf:resource="hickoxdouglas"/>
       <w:P10053 rdf:resource="gowerspatrick"/>
-      <w:P10053 rdf:resource="bernardjames"/>
-      <w:P10053 rdf:resource="lewismichaelj"/>
+      <w:P10064 rdf:resource="millsbrian"/>
       <w:P10064 rdf:resource="wyndhamdaviesjune"/>
+      <w:P10078 rdf:resource="/silverblaze/spa/"/>
+      <w:P10129 rdf:resource="http://www.wikidata.org/entity/q1151761"/>
+      <w:P10203 rdf:resource="hawkesworthjohn"/>
+   </c:C10001>
+   <c:C10001 rdf:about="/theabbeygrange">
+      <w:P10088>The abbey grange</w:P10088>
+      <w:P10013 rdf:resource="hammondpeter"/>
+      <w:P10053 rdf:resource="gowerspatrick"/>
+      <w:P10064 rdf:resource="wyndhamdaviesjune"/>
+      <w:P10078 rdf:resource="/theabbeygrange/spa/"/>
+      <w:P10129 rdf:resource="http://www.wikidata.org/entity/q725752"/>
+      <w:P10203 rdf:resource="bowentr"/>
+   </c:C10001>
+   <c:C10001 rdf:about="/theadventuresofsherlockholmes">
+      <w:P10088>The adventures of Sherlock Holmes</w:P10088>
+      <w:P10078 rdf:resource="/theadventuresofsherlockholmes/spa/texto(visual)"/>
+      <w:P10142 rdf:resource="http://viaf.org/viaf/186734487"/>
+   </c:C10001>
+   <c:C10001 rdf:about="/thehoundofthebaskervilles">
+      <w:P10088>The hound of the Baskervilles</w:P10088>
+      <w:P10078 rdf:resource="/thehoundofthebaskervilles/spa/"/>
+      <w:P10129 rdf:resource="http://viaf.org/viaf/181625655"/>
+   </c:C10001>
+   <c:C10001 rdf:about="/thehoundofthebaskervillespelculacinematogrfica1959">
+      <w:P10088>The hound of the Baskervilles (Película cinematográfica : 1959)</w:P10088>
+      <w:P10013 rdf:resource="hammondpeter"/>
+      <w:P10013 rdf:resource="hickoxdouglas"/>
+      <w:P10053 rdf:resource="bernardjames"/>
+      <w:P10053 rdf:resource="gowerspatrick"/>
+      <w:P10053 rdf:resource="lewismichaelj"/>
       <w:P10064 rdf:resource="hindsanthony"/>
       <w:P10064 rdf:resource="millsbrian"/>
       <w:P10064 rdf:resource="plaschkesotto"/>
-      <w:P10078 rdf:resource="/noidentifier/spa/"/>
-      <w:P10078 rdf:resource="/noidentifier/spa/imagen(enmovimiento;bidimensional)"/>
-      <w:P10078 rdf:resource="/noidentifier/spa/texto(visual)"/>
-      <w:P10129 rdf:resource="http://www.wikidata.org/entity/q725752"/>
+      <w:P10078 rdf:resource="/thehoundofthebaskervillespelculacinematogrfica1959/spa/imagen(enmovimiento;bidimensional)"/>
+      <w:P10078 rdf:resource="/thehoundofthebaskervillespelculacinematogrfica1959/spa/"/>
       <w:P10129 rdf:resource="http://viaf.org/viaf/181625655"/>
-      <w:P10129 rdf:resource="http://viaf.org/viaf/184892317"/>
-      <w:P10129 rdf:resource="http://www.wikidata.org/entity/q1151761"/>
-      <w:P10142 rdf:resource="http://www.wikidata.org/entity/q725752"/>
-      <w:P10142 rdf:resource="http://viaf.org/viaf/186734487"/>
+      <w:P10203 rdf:resource="bryanpeter"/>
       <w:P10203 rdf:resource="bowentr"/>
       <w:P10203 rdf:resource="hawkesworthjohn"/>
-      <w:P10203 rdf:resource="bryanpeter"/>
+   </c:C10001>
+   <c:C10001 rdf:about="/thesecondstain">
+      <w:P10088>The second stain</w:P10088>
+      <w:P10013 rdf:resource="brucejohn"/>
+      <w:P10053 rdf:resource="gowerspatrick"/>
+      <w:P10064 rdf:resource="wyndhamdaviesjune"/>
+      <w:P10078 rdf:resource="/thesecondstain/spa/"/>
+      <w:P10129 rdf:resource="http://www.wikidata.org/entity/q725752"/>
+      <w:P10203 rdf:resource="hawkesworthjohn"/>
+   </c:C10001>
+   <c:C10001 rdf:about="/thesignoffour">
+      <w:P10088>The sign of four</w:P10088>
+      <w:P10013 rdf:resource="hammondpeter"/>
+      <w:P10053 rdf:resource="gowerspatrick"/>
+      <w:P10064 rdf:resource="wyndhamdaviesjune"/>
+      <w:P10078 rdf:resource="/thesignoffour/spa/"/>
+      <w:P10129 rdf:resource="http://viaf.org/viaf/184892317"/>
+      <w:P10203 rdf:resource="hawkesworthjohn"/>
+   </c:C10001>
+   <c:C10001 rdf:about="/wisterialodge">
+      <w:P10088>Wisteria lodge</w:P10088>
+      <w:P10013 rdf:resource="hammondpeter"/>
+      <w:P10053 rdf:resource="gowerspatrick"/>
+      <w:P10064 rdf:resource="wyndhamdaviesjune"/>
+      <w:P10078 rdf:resource="/wisterialodge/spa/"/>
+      <w:P10142 rdf:resource="http://www.wikidata.org/entity/q725752"/>
    </c:C10001>
    <c:C10001 rdf:about="bayardpierre/laffaireduchiendesbaskerville">
       <w:P10088>L'affaire du chien des Baskerville</w:P10088>
@@ -84,8 +123,6 @@
    <c:C10001 rdf:about="http://viaf.org/viaf/1390154501894339210002">
       <w:P10002>http://viaf.org/viaf/1390154501894339210002</w:P10002>
       <w:P10088>His last bow</w:P10088>
-      <w:P10055 rdf:resource="ingbergpablo"/>
-      <w:P10055 rdf:resource="molinafoixjuanantonio"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10061 rdf:resource="clemenginadb"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/1390154501894339210002/spa/"/>
@@ -118,7 +155,6 @@
       <w:P10088>A study in scarlet</w:P10088>
       <w:P10088>A Study in Scarlet</w:P10088>
       <w:P10088>Estudio en escarlata</w:P10088>
-      <w:P10055 rdf:resource="sanchidrincidconsuelo"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10061 rdf:resource="escribcarmela"/>
       <w:P10061 rdf:resource="prezgaldsbenito"/>
@@ -139,12 +175,11 @@
       <w:P10002>http://viaf.org/viaf/181625655</w:P10002>
       <w:P10088>The hound of the Baskervilles</w:P10088>
       <w:P10088>The Hound of the Baskervilles</w:P10088>
-      <w:P10025 rdf:resource="/noidentifier"/>
-      <w:P10055 rdf:resource="dezjulin"/>
-      <w:P10055 rdf:resource="cardonacastrofranciscoluis"/>
+      <w:P10025 rdf:resource="/thehoundofthebaskervillespelculacinematogrfica1959"/>
+      <w:P10025 rdf:resource="/thehoundofthebaskervilles"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
-      <w:P10061 rdf:resource="bremnclara"/>
       <w:P10061 rdf:resource="snchezsanzramiro"/>
+      <w:P10061 rdf:resource="bremnclara"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/181625655/spa/"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/181625655/eng/texto(visual)"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/181625655/spa/texto(visual)"/>
@@ -155,6 +190,7 @@
    </c:C10001>
    <c:C10001 rdf:about="http://viaf.org/viaf/181810457">
       <w:P10002>http://viaf.org/viaf/181810457</w:P10002>
+      <w:P10088>Beyond the City</w:P10088>
       <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/181810457/spa/texto(visual)"/>
    </c:C10001>
@@ -170,8 +206,7 @@
       <w:P10088>The Sign of the Four</w:P10088>
       <w:P10088>El signo de los cuatro</w:P10088>
       <e:P20327 rdf:resource="kirnelaine"/>
-      <w:P10025 rdf:resource="/noidentifier"/>
-      <w:P10055 rdf:resource="martnrebeca"/>
+      <w:P10025 rdf:resource="/thesignoffour"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/184892317/spa/"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/184892317/spa/texto(visual)"/>
@@ -184,7 +219,6 @@
       <w:P10088>The adventures of Sherlock Holmes</w:P10088>
       <w:P10004>Selección</w:P10004>
       <w:P10004>Adaptación</w:P10004>
-      <w:P10055 rdf:resource="cardonacastrofranciscoluis"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10061 rdf:resource="prezgaldsbenito"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/186734487/spa/"/>
@@ -193,13 +227,12 @@
       <w:P10078 rdf:resource="http://viaf.org/viaf/186734487/spa/texto(visual)"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/186734487/spa/texto"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/186734487/spa/palabrahablada"/>
-      <w:P10155 rdf:resource="/noidentifier"/>
+      <w:P10155 rdf:resource="/theadventuresofsherlockholmes"/>
    </c:C10001>
    <c:C10001 rdf:about="http://viaf.org/viaf/294145857904223021237">
       <w:P10002>http://viaf.org/viaf/294145857904223021237</w:P10002>
       <w:P10088>The lost world</w:P10088>
       <w:P10088>The Lost World</w:P10088>
-      <w:P10055 rdf:resource="cardonacastrofranciscoluis"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/294145857904223021237/spa/"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/294145857904223021237/spa/texto(visual)"/>
@@ -298,7 +331,6 @@
       <w:P10088>The case book of Sherlock Holmes</w:P10088>
       <w:P10004>Selección</w:P10004>
       <w:P10088>The Case-Book of Sherlock Holmes</w:P10088>
-      <w:P10055 rdf:resource="ingbergpablo"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10078 rdf:resource="http://www.wikidata.org/entity/q1129378/spa/texto(visual)"/>
       <w:P10078 rdf:resource="http://www.wikidata.org/entity/q1129378/spa/"/>
@@ -316,7 +348,6 @@
       <w:P10002>http://www.wikidata.org/entity/Q1150069</w:P10002>
       <w:P10088>The Adventure of the Musgrave Ritual</w:P10088>
       <w:P10088>The Musgrave ritual</w:P10088>
-      <w:P10055 rdf:resource="martnrebeca"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10078 rdf:resource="http://www.wikidata.org/entity/q1150069/spa/texto(visual)"/>
    </c:C10001>
@@ -330,7 +361,7 @@
       <w:P10002>http://www.wikidata.org/entity/Q1151761</w:P10002>
       <w:P10088>The Adventure of Silver Blaze</w:P10088>
       <w:P10088>Silver blaze</w:P10088>
-      <w:P10025 rdf:resource="/noidentifier"/>
+      <w:P10025 rdf:resource="/silverblaze"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10078 rdf:resource="http://www.wikidata.org/entity/q1151761/spa/texto(visual)"/>
       <w:P10078 rdf:resource="http://www.wikidata.org/entity/q1151761/spa/"/>
@@ -339,6 +370,12 @@
       <w:P10002>http://www.wikidata.org/entity/Q1192541</w:P10002>
       <w:P10088>The Boscombe valley mystery</w:P10088>
       <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
+   </c:C10001>
+   <c:C10001 rdf:about="http://www.wikidata.org/entity/q18546597">
+      <w:P10002>http://www.wikidata.org/entity/Q18546597</w:P10002>
+      <w:P10088>The case of Lady Sannox</w:P10088>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
+      <w:P10078 rdf:resource="http://www.wikidata.org/entity/q18546597/eng/texto(visual)"/>
    </c:C10001>
    <c:C10001 rdf:about="http://www.wikidata.org/entity/q19086389">
       <w:P10002>http://www.wikidata.org/entity/Q19086389</w:P10002>
@@ -431,14 +468,15 @@
       <w:P10088>The return of Sherlock Holmes</w:P10088>
       <w:P10004>Selección</w:P10004>
       <w:P10088>The Return of Sherlock Holmes</w:P10088>
-      <w:P10025 rdf:resource="/noidentifier"/>
+      <w:P10025 rdf:resource="/theabbeygrange"/>
+      <w:P10025 rdf:resource="/thesecondstain"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10078 rdf:resource="http://www.wikidata.org/entity/q725752/spa/"/>
       <w:P10078 rdf:resource="http://www.wikidata.org/entity/q725752/spa/texto(visual)"/>
       <w:P10078 rdf:resource="http://www.wikidata.org/entity/q725752/eng/texto(visual)"/>
       <w:P10078 rdf:resource="http://www.wikidata.org/entity/q725752/eng/"/>
       <w:P10078 rdf:resource="http://www.wikidata.org/entity/q725752/spa/texto"/>
-      <w:P10155 rdf:resource="/noidentifier"/>
+      <w:P10155 rdf:resource="/wisterialodge"/>
    </c:C10001>
    <c:C10001 rdf:about="http://www.wikidata.org/entity/q860831">
       <w:P10002>http://www.wikidata.org/entity/Q860831</w:P10002>
@@ -483,9 +521,10 @@
       <w:P10088>Frankenstein</w:P10088>
       <w:P10061 rdf:resource="shelleymarywollstonecraft"/>
    </c:C10001>
-   <c:C10001 rdf:about="stevensonrobertlouis/noidentifier">
+   <c:C10001 rdf:about="stevensonrobertlouis/olalla">
+      <w:P10088>Olalla</w:P10088>
       <w:P10061 rdf:resource="stevensonrobertlouis"/>
-      <w:P10078 rdf:resource="stevensonrobertlouis/noidentifier/spa/"/>
+      <w:P10078 rdf:resource="stevensonrobertlouis/olalla/spa/"/>
    </c:C10001>
    <c:C10001 rdf:about="unglikrichard/lechiendesbaskerville">
       <w:P10088>Le chien des Baskerville</w:P10088>
@@ -546,7 +585,7 @@
       <a:P50111>Appeceix, Silvana</a:P50111>
       <a:P50145 rdf:resource="http://viaf.org/viaf/181625655/spa/texto(visual)"/>
       <a:P50145 rdf:resource="http://viaf.org/viaf/179061639/spa/texto(visual)"/>
-      <a:P50161 rdf:resource="http://viaf.org/viaf/174141344/spa/"/>
+      <a:P50145 rdf:resource="http://viaf.org/viaf/174141344/spa/"/>
    </c:C10004>
    <c:C10004 rdf:about="arsenallen">
       <a:P50094>arsenallen</a:P50094>
@@ -574,7 +613,7 @@
       <a:P50094>barkworthpeter</a:P50094>
       <a:P50111>Barkworth, Peter</a:P50111>
       <a:P50107>1929-2006</a:P50107>
-      <a:P50161 rdf:resource="/noidentifier/spa/"/>
+      <a:P50161 rdf:resource="/silverblaze/spa/"/>
    </c:C10004>
    <c:C10004 rdf:about="barrenetxeaiban">
       <a:P50094>barrenetxeaiban</a:P50094>
@@ -610,7 +649,7 @@
       <a:P50094>bernardjames</a:P50094>
       <a:P50111>Bernard, James</a:P50111>
       <a:P50107>1925-2001</a:P50107>
-      <a:P50187 rdf:resource="/noidentifier"/>
+      <a:P50187 rdf:resource="/thehoundofthebaskervillespelculacinematogrfica1959"/>
    </c:C10004>
    <c:C10004 rdf:about="blanchteresa">
       <a:P50094>blanchteresa</a:P50094>
@@ -626,7 +665,7 @@
       <a:P50094>borreguerosanchidrinsandramara</a:P50094>
       <a:P50111>Borreguero Sanchidrián, Sandra María</a:P50111>
       <a:P50145 rdf:resource="http://viaf.org/viaf/179061639/spa/texto(visual)"/>
-      <a:P50161 rdf:resource="http://viaf.org/viaf/179061639/spa/"/>
+      <a:P50145 rdf:resource="http://viaf.org/viaf/179061639/spa/"/>
    </c:C10004>
    <c:C10004 rdf:about="bourdonmathilde">
       <a:P50094>bourdonmathilde</a:P50094>
@@ -637,7 +676,8 @@
       <a:P50094>bowentr</a:P50094>
       <a:P50111>Bowen, T.R</a:P50111>
       <a:P50107>1942-</a:P50107>
-      <a:P50223 rdf:resource="/noidentifier"/>
+      <a:P50223 rdf:resource="/theabbeygrange"/>
+      <a:P50223 rdf:resource="/thehoundofthebaskervillespelculacinematogrfica1959"/>
    </c:C10004>
    <c:C10004 rdf:about="bremnclara">
       <a:P50094>bremnclara</a:P50094>
@@ -648,17 +688,22 @@
       <a:P50094>brettjeremy</a:P50094>
       <a:P50111>Brett, Jeremy</a:P50111>
       <a:P50107>1933-1995</a:P50107>
-      <a:P50071 rdf:resource="/noidentifier/spa/"/>
+      <a:P50071 rdf:resource="/theabbeygrange/spa/"/>
+      <a:P50071 rdf:resource="/thesecondstain/spa/"/>
+      <a:P50071 rdf:resource="/thehoundofthebaskervillespelculacinematogrfica1959/spa/"/>
+      <a:P50071 rdf:resource="/thesignoffour/spa/"/>
+      <a:P50071 rdf:resource="/wisterialodge/spa/"/>
+      <a:P50071 rdf:resource="/silverblaze/spa/"/>
    </c:C10004>
    <c:C10004 rdf:about="brucejohn">
       <a:P50094>brucejohn</a:P50094>
       <a:P50111>Bruce, John</a:P50111>
-      <a:P50048 rdf:resource="/noidentifier"/>
+      <a:P50048 rdf:resource="/thesecondstain"/>
    </c:C10004>
    <c:C10004 rdf:about="bryanpeter">
       <a:P50094>bryanpeter</a:P50094>
       <a:P50111>Bryan, Peter</a:P50111>
-      <a:P50223 rdf:resource="/noidentifier"/>
+      <a:P50223 rdf:resource="/thehoundofthebaskervillespelculacinematogrfica1959"/>
    </c:C10004>
    <c:C10004 rdf:about="burgosfunesjorgelen">
       <a:P50094>burgosfunesjorgelen</a:P50094>
@@ -670,9 +715,8 @@
    <c:C10004 rdf:about="busquetsnstor">
       <a:P50094>busquetsnstor</a:P50094>
       <a:P50111>Busquets, Néstor</a:P50111>
+      <a:P50145 rdf:resource="http://viaf.org/viaf/179061639/spa/"/>
       <a:P50145 rdf:resource="http://viaf.org/viaf/179061639/spa/texto(visual)"/>
-      <a:P50161 rdf:resource="http://viaf.org/viaf/179061639/spa/"/>
-      <a:P50161 rdf:resource="http://viaf.org/viaf/179061639/spa/texto(visual)"/>
    </c:C10004>
    <c:C10004 rdf:about="cabraljorge">
       <a:P50094>cabraljorge</a:P50094>
@@ -696,13 +740,13 @@
       <a:P50111>Campbell, Enrique</a:P50111>
       <a:P50145 rdf:resource="http://viaf.org/viaf/179061639/spa/texto(visual)"/>
       <a:P50145 rdf:resource="http://viaf.org/viaf/184892317/spa/texto(visual)"/>
+      <a:P50145 rdf:resource="http://viaf.org/viaf/181625655/spa/"/>
+      <a:P50145 rdf:resource="http://viaf.org/viaf/186734487/spa/"/>
+      <a:P50145 rdf:resource="http://viaf.org/viaf/174141344/spa/"/>
+      <a:P50145 rdf:resource="http://viaf.org/viaf/179061639/spa/"/>
       <a:P50145 rdf:resource="http://viaf.org/viaf/186734487/spa/texto(visual)"/>
       <a:P50145 rdf:resource="http://viaf.org/viaf/181625655/spa/texto(visual)"/>
-      <a:P50161 rdf:resource="http://viaf.org/viaf/181625655/spa/"/>
-      <a:P50161 rdf:resource="http://viaf.org/viaf/186734487/spa/"/>
-      <a:P50161 rdf:resource="http://viaf.org/viaf/174141344/spa/"/>
-      <a:P50161 rdf:resource="http://viaf.org/viaf/179061639/spa/"/>
-      <a:P50161 rdf:resource="http://viaf.org/viaf/184892317/spa/"/>
+      <a:P50145 rdf:resource="http://viaf.org/viaf/184892317/spa/"/>
    </c:C10004>
    <c:C10004 rdf:about="campuzanomara">
       <a:P50094>campuzanomara</a:P50094>
@@ -730,9 +774,10 @@
       <a:P50094>cardonacastrofranciscoluis</a:P50094>
       <a:P50111>Cardona Castro, Francisco Luis</a:P50111>
       <a:P50107>1940-</a:P50107>
-      <a:P50189 rdf:resource="http://viaf.org/viaf/294145857904223021237"/>
-      <a:P50189 rdf:resource="http://viaf.org/viaf/186734487"/>
-      <a:P50189 rdf:resource="http://viaf.org/viaf/181625655"/>
+      <a:P50189 rdf:resource="urn:isbn:9788415605171"/>
+      <a:P50189 rdf:resource="urn:isbn:9788415999775"/>
+      <a:P50189 rdf:resource="urn:isbn:9788415171416"/>
+      <a:P50189 rdf:resource="urn:isbn:9788415999706"/>
    </c:C10004>
    <c:C10004 rdf:about="casanovasjosmara">
       <a:P50094>casanovasjosmara</a:P50094>
@@ -744,7 +789,7 @@
       <a:P50094>churchilldonald</a:P50094>
       <a:P50111>Churchill, Donald</a:P50111>
       <a:P50107>1930-1991</a:P50107>
-      <a:P50071 rdf:resource="/noidentifier/spa/"/>
+      <a:P50071 rdf:resource="/thehoundofthebaskervillespelculacinematogrfica1959/spa/"/>
    </c:C10004>
    <c:C10004 rdf:about="clemenginadb">
       <a:P50094>clemenginadb</a:P50094>
@@ -785,7 +830,7 @@
    <c:C10004 rdf:about="coxmichael">
       <a:P50094>coxmichael</a:P50094>
       <a:P50111>Cox, Michael</a:P50111>
-      <a:P50161 rdf:resource="/noidentifier/spa/"/>
+      <a:P50161 rdf:resource="/wisterialodge/spa/"/>
    </c:C10004>
    <c:C10004 rdf:about="cuestapamiesmargarita">
       <a:P50094>cuestapamiesmargarita</a:P50094>
@@ -806,11 +851,12 @@
       <a:P50094>cushingpeter</a:P50094>
       <a:P50111>Cushing, Peter</a:P50111>
       <a:P50107>1913-1994</a:P50107>
-      <a:P50071 rdf:resource="/noidentifier/spa/imagen(enmovimiento;bidimensional)"/>
+      <a:P50071 rdf:resource="/thehoundofthebaskervillespelculacinematogrfica1959/spa/imagen(enmovimiento;bidimensional)"/>
    </c:C10004>
    <c:C10004 rdf:about="davisdesmond">
       <a:P50094>davisdesmond</a:P50094>
       <a:P50111>Davis, Desmond</a:P50111>
+      <a:P50161 rdf:resource="/thesignoffour/spa/"/>
    </c:C10004>
    <c:C10004 rdf:about="dazlorenzof">
       <a:P50094>dazlorenzof</a:P50094>
@@ -843,16 +889,16 @@
       <a:P50094>delgadogallvaro</a:P50094>
       <a:P50111>Delgado Gal, Álvaro</a:P50111>
       <a:P50107>1953-</a:P50107>
-      <a:P50145 rdf:resource="http://viaf.org/viaf/175571309/spa/texto(visual)"/>
+      <a:P50145 rdf:resource="http://viaf.org/viaf/179061639/spa/"/>
       <a:P50145 rdf:resource="http://viaf.org/viaf/179061639/spa/texto(visual)"/>
-      <a:P50161 rdf:resource="http://viaf.org/viaf/179061639/spa/"/>
-      <a:P50161 rdf:resource="http://viaf.org/viaf/179061639/spa/texto(visual)"/>
+      <a:P50145 rdf:resource="http://viaf.org/viaf/175571309/spa/texto(visual)"/>
+      <a:P50145 rdf:resource="http://viaf.org/viaf/175571309/spa/"/>
    </c:C10004>
    <c:C10004 rdf:about="dezjulin">
       <a:P50094>dezjulin</a:P50094>
       <a:P50111>Díez, Julián</a:P50111>
       <a:P50107>1968-</a:P50107>
-      <a:P50189 rdf:resource="http://viaf.org/viaf/181625655"/>
+      <a:P50189 rdf:resource="urn:isbn:9788437637594"/>
    </c:C10004>
    <c:C10004 rdf:about="donaldsoneleanor">
       <a:P50094>donaldsoneleanor</a:P50094>
@@ -889,7 +935,7 @@
       <a:P50094>elliottdenholm</a:P50094>
       <a:P50111>Elliott, Denholm</a:P50111>
       <a:P50107>1922-1992</a:P50107>
-      <a:P50071 rdf:resource="/noidentifier/spa/"/>
+      <a:P50071 rdf:resource="/thehoundofthebaskervillespelculacinematogrfica1959/spa/"/>
    </c:C10004>
    <c:C10004 rdf:about="elliottrichard">
       <a:P50094>elliottrichard</a:P50094>
@@ -936,16 +982,16 @@
       <a:P50094>floresenrique</a:P50094>
       <a:P50111>Flores, Enrique</a:P50111>
       <a:P50107>1967-</a:P50107>
-      <a:P50161 rdf:resource="http://www.wikidata.org/entity/q725752/spa/"/>
-      <a:P50161 rdf:resource="http://www.wikidata.org/entity/q1129378/spa/"/>
-      <a:P50161 rdf:resource="http://viaf.org/viaf/179061639/spa/"/>
-      <a:P50161 rdf:resource="http://viaf.org/viaf/186734487/spa/"/>
-      <a:P50161 rdf:resource="http://viaf.org/viaf/294145857904223021237/spa/"/>
-      <a:P50161 rdf:resource="http://viaf.org/viaf/181625655/spa/"/>
-      <a:P50161 rdf:resource="http://viaf.org/viaf/1390154501894339210002/spa/"/>
-      <a:P50161 rdf:resource="http://www.wikidata.org/entity/q860831/spa/"/>
-      <a:P50161 rdf:resource="http://viaf.org/viaf/184892317/spa/"/>
+      <a:P50469 rdf:resource="urn:isbn:9788466777100"/>
       <a:P50469 rdf:resource="urn:isbn:9788467861563"/>
+      <a:P50469 rdf:resource="urn:isbn:8466745270"/>
+      <a:P50469 rdf:resource="urn:isbn:8420712655"/>
+      <a:P50469 rdf:resource="urn:isbn:8466705694"/>
+      <a:P50469 rdf:resource="urn:isbn:8466715614"/>
+      <a:P50469 rdf:resource="urn:isbn:8466724796"/>
+      <a:P50469 rdf:resource="urn:isbn:8466736697"/>
+      <a:P50469 rdf:resource="urn:isbn:9788466753760"/>
+      <a:P50469 rdf:resource="urn:isbn:8466716521"/>
    </c:C10004>
    <c:C10004 rdf:about="fontcubertaigeljoan">
       <a:P50094>fontcubertaigeljoan</a:P50094>
@@ -1041,7 +1087,12 @@
       <a:P50094>gowerspatrick</a:P50094>
       <a:P50111>Gowers, Patrick</a:P50111>
       <a:P50107>1936-2014</a:P50107>
-      <a:P50187 rdf:resource="/noidentifier"/>
+      <a:P50187 rdf:resource="/theabbeygrange"/>
+      <a:P50187 rdf:resource="/thesecondstain"/>
+      <a:P50187 rdf:resource="/thehoundofthebaskervillespelculacinematogrfica1959"/>
+      <a:P50187 rdf:resource="/thesignoffour"/>
+      <a:P50187 rdf:resource="/wisterialodge"/>
+      <a:P50187 rdf:resource="/silverblaze"/>
    </c:C10004>
    <c:C10004 rdf:about="guiusilvia">
       <a:P50094>guiusilvia</a:P50094>
@@ -1056,24 +1107,36 @@
    <c:C10004 rdf:about="hammondpeter">
       <a:P50094>hammondpeter</a:P50094>
       <a:P50111>Hammond, Peter</a:P50111>
-      <a:P50048 rdf:resource="/noidentifier"/>
+      <a:P50048 rdf:resource="/theabbeygrange"/>
+      <a:P50048 rdf:resource="/thehoundofthebaskervillespelculacinematogrfica1959"/>
+      <a:P50048 rdf:resource="/thesignoffour"/>
+      <a:P50048 rdf:resource="/wisterialodge"/>
    </c:C10004>
    <c:C10004 rdf:about="hardwickeedward">
       <a:P50094>hardwickeedward</a:P50094>
       <a:P50111>Hardwicke, Edward</a:P50111>
       <a:P50107>1932-2011</a:P50107>
-      <a:P50071 rdf:resource="/noidentifier/spa/"/>
+      <a:P50071 rdf:resource="/theabbeygrange/spa/"/>
+      <a:P50071 rdf:resource="/thesecondstain/spa/"/>
+      <a:P50071 rdf:resource="/thehoundofthebaskervillespelculacinematogrfica1959/spa/"/>
+      <a:P50071 rdf:resource="/thesignoffour/spa/"/>
+      <a:P50071 rdf:resource="/wisterialodge/spa/"/>
+      <a:P50071 rdf:resource="/silverblaze/spa/"/>
    </c:C10004>
    <c:C10004 rdf:about="hawkesworthjohn">
       <a:P50094>hawkesworthjohn</a:P50094>
       <a:P50111>Hawkesworth, John</a:P50111>
       <a:P50107>1920-2003</a:P50107>
-      <a:P50223 rdf:resource="/noidentifier"/>
+      <a:P50223 rdf:resource="/thesecondstain"/>
+      <a:P50223 rdf:resource="/thehoundofthebaskervillespelculacinematogrfica1959"/>
+      <a:P50223 rdf:resource="/thesignoffour"/>
+      <a:P50223 rdf:resource="/silverblaze"/>
    </c:C10004>
    <c:C10004 rdf:about="healydavid">
       <a:P50094>healydavid</a:P50094>
       <a:P50111>Healy, David</a:P50111>
       <a:P50107>1929-1995</a:P50107>
+      <a:P50161 rdf:resource="/thesignoffour/spa/"/>
    </c:C10004>
    <c:C10004 rdf:about="herranzparsonageaugusto">
       <a:P50094>herranzparsonageaugusto</a:P50094>
@@ -1095,18 +1158,18 @@
       <a:P50094>hickoxdouglas</a:P50094>
       <a:P50111>Hickox, Douglas</a:P50111>
       <a:P50107>1929-1988</a:P50107>
-      <a:P50048 rdf:resource="/noidentifier"/>
+      <a:P50048 rdf:resource="/thehoundofthebaskervillespelculacinematogrfica1959"/>
    </c:C10004>
    <c:C10004 rdf:about="hindsanthony">
       <a:P50094>hindsanthony</a:P50094>
       <a:P50111>Hinds, Anthony</a:P50111>
       <a:P50107>1922-2013</a:P50107>
-      <a:P50213 rdf:resource="/noidentifier"/>
+      <a:P50213 rdf:resource="/thehoundofthebaskervillespelculacinematogrfica1959"/>
    </c:C10004>
    <c:C10004 rdf:about="hodgepatricia">
       <a:P50094>hodgepatricia</a:P50094>
       <a:P50111>Hodge, Patricia</a:P50111>
-      <a:P50071 rdf:resource="/noidentifier/spa/"/>
+      <a:P50071 rdf:resource="/thesecondstain/spa/"/>
    </c:C10004>
    <c:C10004 rdf:about="http://viaf.org/viaf/120203535">
       <a:P50094>http://viaf.org/viaf/120203535</a:P50094>
@@ -1150,22 +1213,27 @@
       <a:P50145 rdf:resource="http://www.wikidata.org/entity/q725752/spa/texto(visual)"/>
       <a:P50145 rdf:resource="http://www.wikidata.org/entity/q461026/spa/texto(visual)"/>
       <a:P50145 rdf:resource="http://viaf.org/viaf/1390154501894339210002/spa/texto(visual)"/>
-      <a:P50161 rdf:resource="http://viaf.org/viaf/174141344/spa/"/>
    </c:C10004>
    <c:C10004 rdf:about="http://viaf.org/viaf/2555146">
       <a:P50094>http://viaf.org/viaf/2555146</a:P50094>
       <a:P50111>Paget, Sidney</a:P50111>
-      <a:P50161 rdf:resource="http://viaf.org/viaf/181625655/spa/"/>
-      <a:P50161 rdf:resource="http://viaf.org/viaf/186734487/spa/"/>
-      <a:P50161 rdf:resource="http://www.wikidata.org/entity/q860831/spa/"/>
-      <a:P50161 rdf:resource="http://www.wikidata.org/entity/q725752/spa/"/>
+      <a:P50469 rdf:resource="urn:isbn:8448700082"/>
+      <a:P50469 rdf:resource="urn:isbn:8420733512"/>
+      <a:P50469 rdf:resource="urn:isbn:8448700015"/>
       <a:P50469 rdf:resource="urn:isbn:9788416775743"/>
+      <a:P50469 rdf:resource="urn:isbn:8420731668"/>
+      <a:P50469 rdf:resource="urn:isbn:8420748021"/>
       <a:P50469 rdf:resource="urn:isbn:9788491053576"/>
       <a:P50469 rdf:resource="urn:isbn:9788417244446"/>
+      <a:P50469 rdf:resource="urn:isbn:8420738107"/>
+      <a:P50469 rdf:resource="urn:isbn:8420739537"/>
+      <a:P50469 rdf:resource="urn:isbn:8435702529"/>
+      <a:P50469 rdf:resource="urn:isbn:84757716961"/>
    </c:C10004>
    <c:C10004 rdf:about="http://viaf.org/viaf/305867914">
       <a:P50094>http://viaf.org/viaf/305867914</a:P50094>
       <a:P50111>Briggent, Benjamin</a:P50111>
+      <a:P50145 rdf:resource="http://viaf.org/viaf/175571309/spa/texto(visual)"/>
       <a:P50145 rdf:resource="http://viaf.org/viaf/186734487/spa/texto(visual)"/>
       <a:P50145 rdf:resource="http://viaf.org/viaf/184892317/spa/texto(visual)"/>
       <a:P50145 rdf:resource="http://viaf.org/viaf/294145857904223021237/spa/texto(visual)"/>
@@ -1174,7 +1242,6 @@
       <a:P50145 rdf:resource="http://www.wikidata.org/entity/q725752/spa/texto"/>
       <a:P50145 rdf:resource="http://www.wikidata.org/entity/q1129378/spa/texto"/>
       <a:P50145 rdf:resource="http://www.wikidata.org/entity/q860831/spa/texto"/>
-      <a:P50161 rdf:resource="http://viaf.org/viaf/175571309/spa/texto(visual)"/>
    </c:C10004>
    <c:C10004 rdf:about="http://viaf.org/viaf/51519824">
       <a:P50094>http://viaf.org/viaf/51519824</a:P50094>
@@ -1191,8 +1258,6 @@
       <a:P50094>http://viaf.org/viaf/65283845</a:P50094>
       <a:P50111>Doyle, Arthur Conan</a:P50111>
       <a:P50107>1859-1930</a:P50107>
-      <a:P50111>The case of Lady Sannox</a:P50111>
-      <a:P50111>Beyond the City</a:P50111>
       <a:P50195 rdf:resource="http://viaf.org/viaf/186734487"/>
       <a:P50195 rdf:resource="http://viaf.org/viaf/1390154501894339210002"/>
       <a:P50195 rdf:resource="http://viaf.org/viaf/179061639"/>
@@ -1226,6 +1291,7 @@
       <a:P50195 rdf:resource="http://www.wikidata.org/entity/q1151761"/>
       <a:P50195 rdf:resource="http://www.wikidata.org/entity/q1150069"/>
       <a:P50195 rdf:resource="http://viaf.org/viaf/65283845/thefinalproblem"/>
+      <a:P50195 rdf:resource="http://www.wikidata.org/entity/q18546597"/>
       <a:P50195 rdf:resource="http://www.wikidata.org/entity/q3041819"/>
       <a:P50195 rdf:resource="http://www.wikidata.org/entity/q2616869"/>
       <a:P50195 rdf:resource="http://viaf.org/viaf/65283845/elcondedelcastillonegro"/>
@@ -1245,24 +1311,22 @@
       <a:P50094>http://viaf.org/viaf/84477527</a:P50094>
       <a:P50111>Tusquets, Esther</a:P50111>
       <a:P50107>1936-2012</a:P50107>
-      <a:P50145 rdf:resource="http://viaf.org/viaf/186734487/spa/texto(visual)"/>
-      <a:P50145 rdf:resource="http://viaf.org/viaf/174141344/spa/texto(visual)"/>
+      <a:P50145 rdf:resource="http://viaf.org/viaf/186734487/spa/"/>
+      <a:P50145 rdf:resource="http://viaf.org/viaf/181625655/spa/texto(visual)"/>
+      <a:P50145 rdf:resource="http://viaf.org/viaf/179061639/spa/"/>
+      <a:P50145 rdf:resource="http://viaf.org/viaf/184892317/spa/"/>
       <a:P50145 rdf:resource="http://viaf.org/viaf/179061639/spa/texto(visual)"/>
-      <a:P50161 rdf:resource="http://viaf.org/viaf/186734487/spa/"/>
-      <a:P50161 rdf:resource="http://viaf.org/viaf/181625655/spa/texto(visual)"/>
-      <a:P50161 rdf:resource="http://viaf.org/viaf/179061639/spa/"/>
-      <a:P50161 rdf:resource="http://viaf.org/viaf/184892317/spa/"/>
-      <a:P50161 rdf:resource="http://viaf.org/viaf/179061639/spa/texto(visual)"/>
-      <a:P50161 rdf:resource="http://viaf.org/viaf/181625655/spa/"/>
-      <a:P50161 rdf:resource="http://viaf.org/viaf/186734487/spa/texto(visual)"/>
-      <a:P50161 rdf:resource="http://www.wikidata.org/entity/q860831/spa/"/>
-      <a:P50161 rdf:resource="http://viaf.org/viaf/184892317/spa/texto(visual)"/>
+      <a:P50145 rdf:resource="http://viaf.org/viaf/186734487/spa/texto(visual)"/>
+      <a:P50145 rdf:resource="http://viaf.org/viaf/181625655/spa/"/>
+      <a:P50145 rdf:resource="http://viaf.org/viaf/174141344/spa/texto(visual)"/>
+      <a:P50145 rdf:resource="http://www.wikidata.org/entity/q860831/spa/"/>
+      <a:P50145 rdf:resource="http://viaf.org/viaf/184892317/spa/texto(visual)"/>
    </c:C10004>
    <c:C10004 rdf:about="huanquilourdes">
       <a:P50094>huanquilourdes</a:P50094>
       <a:P50111>Huanqui, Lourdes</a:P50111>
+      <a:P50145 rdf:resource="http://viaf.org/viaf/181625655/spa/"/>
       <a:P50145 rdf:resource="http://viaf.org/viaf/181625655/spa/texto(visual)"/>
-      <a:P50161 rdf:resource="http://viaf.org/viaf/181625655/spa/"/>
    </c:C10004>
    <c:C10004 rdf:about="hutchinsongeo">
       <a:P50094>hutchinsongeo</a:P50094>
@@ -1282,10 +1346,11 @@
    <c:C10004 rdf:about="ingbergpablo">
       <a:P50094>ingbergpablo</a:P50094>
       <a:P50111>Ingberg, Pablo</a:P50111>
+      <a:P50145 rdf:resource="http://viaf.org/viaf/1390154501894339210002/spa/texto(visual)"/>
       <a:P50145 rdf:resource="http://www.wikidata.org/entity/q1129378/spa/texto(visual)"/>
       <a:P50145 rdf:resource="http://www.wikidata.org/entity/q860831/spa/texto(visual)"/>
-      <a:P50189 rdf:resource="http://viaf.org/viaf/1390154501894339210002"/>
-      <a:P50189 rdf:resource="http://www.wikidata.org/entity/q1129378"/>
+      <a:P50189 rdf:resource="urn:isbn:9789500372428"/>
+      <a:P50189 rdf:resource="urn:isbn:9789500372558"/>
    </c:C10004>
    <c:C10004 rdf:about="izquierdomaritza">
       <a:P50094>izquierdomaritza</a:P50094>
@@ -1310,7 +1375,7 @@
       <a:P50094>jonesfreddie</a:P50094>
       <a:P50111>Jones, Freddie</a:P50111>
       <a:P50107>1927-</a:P50107>
-      <a:P50161 rdf:resource="/noidentifier/spa/"/>
+      <a:P50161 rdf:resource="/wisterialodge/spa/"/>
    </c:C10004>
    <c:C10004 rdf:about="joverluis">
       <a:P50094>joverluis</a:P50094>
@@ -1340,7 +1405,7 @@
    <c:C10004 rdf:about="lambertannelouise">
       <a:P50094>lambertannelouise</a:P50094>
       <a:P50111>Lambert, Anne Louise</a:P50111>
-      <a:P50071 rdf:resource="/noidentifier/spa/"/>
+      <a:P50071 rdf:resource="/theabbeygrange/spa/"/>
    </c:C10004>
    <c:C10004 rdf:about="lazcanoalessia">
       <a:P50094>lazcanoalessia</a:P50094>
@@ -1351,13 +1416,13 @@
       <a:P50094>leechristopher</a:P50094>
       <a:P50111>Lee, Christopher</a:P50111>
       <a:P50107>1922-2015</a:P50107>
-      <a:P50071 rdf:resource="/noidentifier/spa/imagen(enmovimiento;bidimensional)"/>
+      <a:P50071 rdf:resource="/thehoundofthebaskervillespelculacinematogrfica1959/spa/imagen(enmovimiento;bidimensional)"/>
    </c:C10004>
    <c:C10004 rdf:about="lewismichaelj">
       <a:P50094>lewismichaelj</a:P50094>
       <a:P50111>Lewis, Michael J</a:P50111>
       <a:P50107>1939-</a:P50107>
-      <a:P50187 rdf:resource="/noidentifier"/>
+      <a:P50187 rdf:resource="/thehoundofthebaskervillespelculacinematogrfica1959"/>
    </c:C10004>
    <c:C10004 rdf:about="lijmaersusana">
       <a:P50094>lijmaersusana</a:P50094>
@@ -1420,7 +1485,7 @@
       <a:P50094>mahieujosagustn</a:P50094>
       <a:P50111>Mahieu, José Agustín</a:P50111>
       <a:P50145 rdf:resource="http://viaf.org/viaf/294145857904223021237/spa/texto(visual)"/>
-      <a:P50161 rdf:resource="http://viaf.org/viaf/294145857904223021237/spa/"/>
+      <a:P50145 rdf:resource="http://viaf.org/viaf/294145857904223021237/spa/"/>
    </c:C10004>
    <c:C10004 rdf:about="malecandrew">
       <a:P50094>malecandrew</a:P50094>
@@ -1453,6 +1518,7 @@
       <a:P50111>Martínez, Rodolfo</a:P50111>
       <a:P50107>1965-</a:P50107>
       <a:P50145 rdf:resource="http://viaf.org/viaf/184892317/spa/texto(visual)"/>
+      <a:P50189 rdf:resource="urn:isbn:9788415988700"/>
    </c:C10004>
    <c:C10004 rdf:about="martnm">
       <a:P50094>martnm</a:P50094>
@@ -1462,8 +1528,8 @@
    <c:C10004 rdf:about="martnrebeca">
       <a:P50094>martnrebeca</a:P50094>
       <a:P50111>Martín, Rebeca</a:P50111>
-      <a:P50189 rdf:resource="http://www.wikidata.org/entity/q1150069"/>
-      <a:P50189 rdf:resource="http://viaf.org/viaf/184892317"/>
+      <a:P50189 rdf:resource="urn:isbn:9788468236971"/>
+      <a:P50189 rdf:resource="urn:isbn:9788468213477"/>
    </c:C10004>
    <c:C10004 rdf:about="martsalvador">
       <a:P50094>martsalvador</a:P50094>
@@ -1494,7 +1560,8 @@
    <c:C10004 rdf:about="millsbrian">
       <a:P50094>millsbrian</a:P50094>
       <a:P50111>Mills, Brian</a:P50111>
-      <a:P50213 rdf:resource="/noidentifier"/>
+      <a:P50213 rdf:resource="/thehoundofthebaskervillespelculacinematogrfica1959"/>
+      <a:P50213 rdf:resource="/silverblaze"/>
    </c:C10004>
    <c:C10004 rdf:about="millsjuanjos">
       <a:P50094>millsjuanjos</a:P50094>
@@ -1507,21 +1574,22 @@
       <a:P50094>molinafoixjuanantonio</a:P50094>
       <a:P50111>Molina Foix, Juan Antonio</a:P50111>
       <a:P50145 rdf:resource="http://www.wikidata.org/entity/q1129378/spa/texto(visual)"/>
+      <a:P50145 rdf:resource="http://www.wikidata.org/entity/q725752/spa/"/>
+      <a:P50145 rdf:resource="http://viaf.org/viaf/184892317/spa/"/>
       <a:P50145 rdf:resource="http://viaf.org/viaf/1390154501894339210002/spa/texto(visual)"/>
-      <a:P50161 rdf:resource="http://www.wikidata.org/entity/q725752/spa/"/>
-      <a:P50161 rdf:resource="http://viaf.org/viaf/184892317/spa/"/>
-      <a:P50161 rdf:resource="http://viaf.org/viaf/175571309/spa/"/>
-      <a:P50161 rdf:resource="http://viaf.org/viaf/179061639/spa/"/>
-      <a:P50161 rdf:resource="http://viaf.org/viaf/181625655/spa/"/>
-      <a:P50161 rdf:resource="http://viaf.org/viaf/186734487/spa/"/>
-      <a:P50161 rdf:resource="http://www.wikidata.org/entity/q860831/spa/"/>
-      <a:P50189 rdf:resource="http://viaf.org/viaf/1390154501894339210002"/>
+      <a:P50145 rdf:resource="http://viaf.org/viaf/175571309/spa/"/>
+      <a:P50145 rdf:resource="http://viaf.org/viaf/179061639/spa/"/>
+      <a:P50145 rdf:resource="http://viaf.org/viaf/181625655/spa/"/>
+      <a:P50145 rdf:resource="http://viaf.org/viaf/186734487/spa/"/>
+      <a:P50145 rdf:resource="http://www.wikidata.org/entity/q860831/spa/"/>
+      <a:P50189 rdf:resource="urn:isbn:9788477028277"/>
+      <a:P50189 rdf:resource="urn:isbn:9788477027676"/>
    </c:C10004>
    <c:C10004 rdf:about="morellandr">
       <a:P50094>morellandr</a:P50094>
       <a:P50111>Morell, André</a:P50111>
       <a:P50107>1909-1978</a:P50107>
-      <a:P50071 rdf:resource="/noidentifier/spa/imagen(enmovimiento;bidimensional)"/>
+      <a:P50071 rdf:resource="/thehoundofthebaskervillespelculacinematogrfica1959/spa/imagen(enmovimiento;bidimensional)"/>
    </c:C10004>
    <c:C10004 rdf:about="morenofrancisco">
       <a:P50094>morenofrancisco</a:P50094>
@@ -1534,12 +1602,13 @@
       <a:P50111>Márquez de la Plata, Lucía</a:P50111>
       <a:P50145 rdf:resource="http://viaf.org/viaf/186734487/spa/texto(visual)"/>
       <a:P50145 rdf:resource="http://www.wikidata.org/entity/q860831/spa/texto(visual)"/>
-      <a:P50161 rdf:resource="http://viaf.org/viaf/174141344/spa/"/>
+      <a:P50145 rdf:resource="http://viaf.org/viaf/174141344/spa/"/>
    </c:C10004>
    <c:C10004 rdf:about="muozadolfo">
       <a:P50094>muozadolfo</a:P50094>
       <a:P50111>Muñoz, Adolfo</a:P50111>
       <a:P50107>1964-</a:P50107>
+      <a:P50145 rdf:resource="http://www.wikidata.org/entity/q1151761/spa/texto(visual)"/>
       <a:P50145 rdf:resource="http://www.wikidata.org/entity/q1150069/spa/texto(visual)"/>
       <a:P50145 rdf:resource="http://www.wikidata.org/entity/q1140678/spa/texto(visual)"/>
       <a:P50145 rdf:resource="http://www.wikidata.org/entity/q1151748/spa/texto(visual)"/>
@@ -1548,7 +1617,8 @@
       <a:P50094>muozpuellesvicente</a:P50094>
       <a:P50111>Muñoz Puelles, Vicente</a:P50111>
       <a:P50107>1948-</a:P50107>
-      <a:P50161 rdf:resource="http://viaf.org/viaf/179061639/spa/"/>
+      <a:P50528 rdf:resource="urn:isbn:9788467861563"/>
+      <a:P50528 rdf:resource="urn:isbn:9788498451566"/>
    </c:C10004>
    <c:C10004 rdf:about="nashjulie">
       <a:P50094>nashjulie</a:P50094>
@@ -1573,7 +1643,7 @@
    <c:C10004 rdf:about="owensteve">
       <a:P50094>owensteve</a:P50094>
       <a:P50111>Owen, Steve</a:P50111>
-      <a:P50145 rdf:resource="/noidentifier/spa/texto(visual)"/>
+      <a:P50145 rdf:resource="/theadventuresofsherlockholmes/spa/texto(visual)"/>
    </c:C10004>
    <c:C10004 rdf:about="palenciaceferino">
       <a:P50094>palenciaceferino</a:P50094>
@@ -1590,13 +1660,13 @@
    <c:C10004 rdf:about="parejaalejandro">
       <a:P50094>parejaalejandro</a:P50094>
       <a:P50111>Pareja, Alejandro</a:P50111>
+      <a:P50145 rdf:resource="http://viaf.org/viaf/186734487/spa/"/>
+      <a:P50145 rdf:resource="http://viaf.org/viaf/179061639/spa/"/>
       <a:P50145 rdf:resource="http://viaf.org/viaf/181625655/spa/texto(visual)"/>
+      <a:P50145 rdf:resource="http://viaf.org/viaf/181625655/spa/"/>
       <a:P50145 rdf:resource="http://viaf.org/viaf/186734487/spa/texto"/>
       <a:P50145 rdf:resource="http://viaf.org/viaf/184892317/spa/texto(visual)"/>
       <a:P50145 rdf:resource="http://viaf.org/viaf/179061639/spa/texto(visual)"/>
-      <a:P50161 rdf:resource="http://viaf.org/viaf/186734487/spa/"/>
-      <a:P50161 rdf:resource="http://viaf.org/viaf/179061639/spa/"/>
-      <a:P50161 rdf:resource="http://viaf.org/viaf/181625655/spa/"/>
    </c:C10004>
    <c:C10004 rdf:about="parejangel">
       <a:P50094>parejangel</a:P50094>
@@ -1611,7 +1681,7 @@
       <a:P50094>pauljeremy</a:P50094>
       <a:P50111>Paul, Jeremy</a:P50111>
       <a:P50107>1939-2011</a:P50107>
-      <a:P50161 rdf:resource="/noidentifier/spa/"/>
+      <a:P50161 rdf:resource="/wisterialodge/spa/"/>
    </c:C10004>
    <c:C10004 rdf:about="pazpilardela">
       <a:P50094>pazpilardela</a:P50094>
@@ -1652,7 +1722,7 @@
       <a:P50094>plaschkesotto</a:P50094>
       <a:P50111>Plaschkes, Otto</a:P50111>
       <a:P50107>1929-2005</a:P50107>
-      <a:P50213 rdf:resource="/noidentifier"/>
+      <a:P50213 rdf:resource="/thehoundofthebaskervillespelculacinematogrfica1959"/>
    </c:C10004>
    <c:C10004 rdf:about="poeedgarallan">
       <a:P50094>poeedgarallan</a:P50094>
@@ -1663,6 +1733,7 @@
    <c:C10004 rdf:about="poguecharlesedward">
       <a:P50094>poguecharlesedward</a:P50094>
       <a:P50111>Pogue, Charles Edward</a:P50111>
+      <a:P50161 rdf:resource="/thesignoffour/spa/"/>
    </c:C10004>
    <c:C10004 rdf:about="polignacjeannede">
       <a:P50094>polignacjeannede</a:P50094>
@@ -1719,14 +1790,15 @@
       <a:P50094>pujalsmaraengracia</a:P50094>
       <a:P50111>Pujals, María Engracia</a:P50111>
       <a:P50145 rdf:resource="http://www.wikidata.org/entity/q860831/spa/texto(visual)"/>
-      <a:P50161 rdf:resource="http://viaf.org/viaf/186734487/spa/"/>
-      <a:P50161 rdf:resource="http://www.wikidata.org/entity/q860831/spa/"/>
-      <a:P50161 rdf:resource="http://viaf.org/viaf/174141344/spa/"/>
-      <a:P50161 rdf:resource="http://www.wikidata.org/entity/q1151761/spa/"/>
+      <a:P50145 rdf:resource="http://viaf.org/viaf/186734487/spa/"/>
+      <a:P50145 rdf:resource="http://www.wikidata.org/entity/q860831/spa/"/>
+      <a:P50145 rdf:resource="http://viaf.org/viaf/174141344/spa/"/>
+      <a:P50145 rdf:resource="http://www.wikidata.org/entity/q1151761/spa/"/>
    </c:C10004>
    <c:C10004 rdf:about="rabinowitzharry">
       <a:P50094>rabinowitzharry</a:P50094>
       <a:P50111>Rabinowitz, Harry</a:P50111>
+      <a:P50161 rdf:resource="/thesignoffour/spa/"/>
    </c:C10004>
    <c:C10004 rdf:about="riambauesteve">
       <a:P50094>riambauesteve</a:P50094>
@@ -1738,13 +1810,15 @@
       <a:P50094>richardsonian</a:P50094>
       <a:P50111>Richardson, Ian</a:P50111>
       <a:P50107>1934-2007</a:P50107>
-      <a:P50071 rdf:resource="/noidentifier/spa/"/>
+      <a:P50071 rdf:resource="/thehoundofthebaskervillespelculacinematogrfica1959/spa/"/>
+      <a:P50071 rdf:resource="/thesignoffour/spa/"/>
    </c:C10004>
    <c:C10004 rdf:about="riescoxavier">
       <a:P50094>riescoxavier</a:P50094>
       <a:P50111>Riesco, Xavier</a:P50111>
       <a:P50107>1972-</a:P50107>
       <a:P50145 rdf:resource="http://viaf.org/viaf/65283845/thefinalproblem/eng/texto(visual)"/>
+      <a:P50145 rdf:resource="http://www.wikidata.org/entity/q18546597/eng/texto(visual)"/>
    </c:C10004>
    <c:C10004 rdf:about="riverofristrnpaula">
       <a:P50094>riverofristrnpaula</a:P50094>
@@ -1770,8 +1844,8 @@
    <c:C10004 rdf:about="sanchidrincidconsuelo">
       <a:P50094>sanchidrincidconsuelo</a:P50094>
       <a:P50111>Sanchidrián Cid, Consuelo</a:P50111>
-      <a:P50161 rdf:resource="http://viaf.org/viaf/179061639/spa/"/>
-      <a:P50189 rdf:resource="http://viaf.org/viaf/179061639"/>
+      <a:P50189 rdf:resource="urn:isbn:9788497408219"/>
+      <a:P50189 rdf:resource="urn:isbn:9788497402682"/>
    </c:C10004>
    <c:C10004 rdf:about="santerbssantiagor">
       <a:P50094>santerbssantiagor</a:P50094>
@@ -1794,7 +1868,7 @@
       <a:P50094>seagrovejenny</a:P50094>
       <a:P50111>Seagrove, Jenny</a:P50111>
       <a:P50107>1957-</a:P50107>
-      <a:P50071 rdf:resource="/noidentifier/spa/"/>
+      <a:P50071 rdf:resource="/thesignoffour/spa/"/>
    </c:C10004>
    <c:C10004 rdf:about="senmartnatalia">
       <a:P50094>senmartnatalia</a:P50094>
@@ -1822,13 +1896,12 @@
    <c:C10004 rdf:about="snchezsanzramiro">
       <a:P50094>snchezsanzramiro</a:P50094>
       <a:P50111>Sánchez Sanz, Ramiro</a:P50111>
-      <a:P50161 rdf:resource="http://viaf.org/viaf/181625655/spa/"/>
       <a:P50195 rdf:resource="http://viaf.org/viaf/181625655"/>
    </c:C10004>
    <c:C10004 rdf:about="steanerobert">
       <a:P50094>steanerobert</a:P50094>
       <a:P50111>Steane, Robert</a:P50111>
-      <a:P50145 rdf:resource="/noidentifier/spa/texto(visual)"/>
+      <a:P50145 rdf:resource="/theadventuresofsherlockholmes/spa/texto(visual)"/>
    </c:C10004>
    <c:C10004 rdf:about="steelefredericdorr">
       <a:P50094>steelefredericdorr</a:P50094>
@@ -1839,7 +1912,7 @@
       <a:P50094>stevensonrobertlouis</a:P50094>
       <a:P50111>Stevenson, Robert Louis</a:P50111>
       <a:P50107>1850-1894</a:P50107>
-      <a:P50195 rdf:resource="stevensonrobertlouis/noidentifier"/>
+      <a:P50195 rdf:resource="stevensonrobertlouis/olalla"/>
    </c:C10004>
    <c:C10004 rdf:about="stibane">
       <a:P50094>stibane</a:P50094>
@@ -1856,7 +1929,7 @@
       <a:P50094>taborikristoffer</a:P50094>
       <a:P50111>Tabori, Kristoffer</a:P50111>
       <a:P50107>1952-</a:P50107>
-      <a:P50071 rdf:resource="/noidentifier/spa/"/>
+      <a:P50071 rdf:resource="/thehoundofthebaskervillespelculacinematogrfica1959/spa/"/>
    </c:C10004>
    <c:C10004 rdf:about="tejerocorrecherj">
       <a:P50094>tejerocorrecherj</a:P50094>
@@ -1867,7 +1940,8 @@
       <a:P50094>tha</a:P50094>
       <a:P50111>Tha</a:P50111>
       <a:P50107>1956-</a:P50107>
-      <a:P50161 rdf:resource="http://viaf.org/viaf/181625655/spa/"/>
+      <a:P50469 rdf:resource="urn:isbn:9788468201108"/>
+      <a:P50469 rdf:resource="urn:isbn:8421694316"/>
       <a:P50469 rdf:resource="urn:isbn:9788468222134"/>
    </c:C10004>
    <c:C10004 rdf:about="timminsnancy">
@@ -1915,11 +1989,10 @@
       <a:P50094>vicentefernando</a:P50094>
       <a:P50111>Vicente, Fernando</a:P50111>
       <a:P50107>1963-</a:P50107>
-      <a:P50161 rdf:resource="http://viaf.org/viaf/175571309/spa/texto(visual)"/>
-      <a:P50161 rdf:resource="http://viaf.org/viaf/175571309/spa/"/>
-      <a:P50161 rdf:resource="http://viaf.org/viaf/179061639/spa/texto(visual)"/>
+      <a:P50469 rdf:resource="urn:isbn:9788483430774"/>
       <a:P50469 rdf:resource="urn:isbn:9788415618775"/>
       <a:P50469 rdf:resource="urn:isbn:9788415618829"/>
+      <a:P50469 rdf:resource="urn:isbn:9788415717638"/>
    </c:C10004>
    <c:C10004 rdf:about="vidalitubaujordi">
       <a:P50094>vidalitubaujordi</a:P50094>
@@ -1930,6 +2003,7 @@
       <a:P50094>waltersthorley</a:P50094>
       <a:P50111>Walters, Thorley</a:P50111>
       <a:P50107>1913-1991</a:P50107>
+      <a:P50161 rdf:resource="/thesignoffour/spa/"/>
    </c:C10004>
    <c:C10004 rdf:about="wilesf">
       <a:P50094>wilesf</a:P50094>
@@ -1939,7 +2013,11 @@
    <c:C10004 rdf:about="wyndhamdaviesjune">
       <a:P50094>wyndhamdaviesjune</a:P50094>
       <a:P50111>Wyndham-Davies, June</a:P50111>
-      <a:P50213 rdf:resource="/noidentifier"/>
+      <a:P50213 rdf:resource="/theabbeygrange"/>
+      <a:P50213 rdf:resource="/thesecondstain"/>
+      <a:P50213 rdf:resource="/thesignoffour"/>
+      <a:P50213 rdf:resource="/wisterialodge"/>
+      <a:P50213 rdf:resource="/silverblaze"/>
    </c:C10004>
    <c:C10004 rdf:about="yezsolanamanuel">
       <a:P50094>yezsolanamanuel</a:P50094>
@@ -1947,35 +2025,58 @@
       <a:P50107>1939-1998</a:P50107>
       <a:P50161 rdf:resource="http://viaf.org/viaf/294145857904223021237/spa/"/>
    </c:C10004>
-   <c:C10006 rdf:about="/noidentifier/spa/">
+   <c:C10006 rdf:about="/silverblaze/spa/">
+      <e:P20006>spa</e:P20006>
+      <e:P20006>esp</e:P20006>
+      <e:P20006>eng</e:P20006>
+      <e:P20006>Español</e:P20006>
+      <e:P20012 rdf:resource="brettjeremy"/>
+      <e:P20012 rdf:resource="hardwickeedward"/>
+      <e:P20053 rdf:resource="barkworthpeter"/>
+      <e:P20059 rdf:resource="http://example.org/bivi0000045180"/>
+      <e:P20231 rdf:resource="/silverblaze"/>
+   </c:C10006>
+   <c:C10006 rdf:about="/theabbeygrange/spa/">
       <e:P20006>spa</e:P20006>
       <e:P20006>eng</e:P20006>
-      <e:P20006>esp</e:P20006>
       <e:P20006>Español</e:P20006>
       <e:P20012 rdf:resource="brettjeremy"/>
       <e:P20012 rdf:resource="hardwickeedward"/>
       <e:P20012 rdf:resource="lambertannelouise"/>
-      <e:P20012 rdf:resource="hodgepatricia"/>
+      <e:P20059 rdf:resource="http://example.org/bivi0000012756"/>
+      <e:P20231 rdf:resource="/theabbeygrange"/>
+   </c:C10006>
+   <c:C10006 rdf:about="/theadventuresofsherlockholmes/spa/texto(visual)">
+      <e:P20006>spa</e:P20006>
+      <e:P20006>eng</e:P20006>
+      <e:P20006>Español-Inglés</e:P20006>
+      <e:P20001>Texto (visual)</e:P20001>
+      <e:P20037 rdf:resource="steanerobert"/>
+      <e:P20037 rdf:resource="owensteve"/>
+      <e:P20059 rdf:resource="urn:isbn:9788467732016"/>
+      <e:P20231 rdf:resource="/theadventuresofsherlockholmes"/>
+   </c:C10006>
+   <c:C10006 rdf:about="/thehoundofthebaskervilles/spa/">
+      <e:P20006>spa</e:P20006>
+      <e:P20006>Español</e:P20006>
+      <e:P20059 rdf:resource="http://example.org/bivi0000036916"/>
+      <e:P20231 rdf:resource="/thehoundofthebaskervilles"/>
+   </c:C10006>
+   <c:C10006 rdf:about="/thehoundofthebaskervillespelculacinematogrfica1959/spa/">
+      <e:P20006>spa</e:P20006>
+      <e:P20006>eng</e:P20006>
+      <e:P20006>Español</e:P20006>
+      <e:P20012 rdf:resource="brettjeremy"/>
+      <e:P20012 rdf:resource="hardwickeedward"/>
       <e:P20012 rdf:resource="taborikristoffer"/>
-      <e:P20012 rdf:resource="seagrovejenny"/>
       <e:P20012 rdf:resource="richardsonian"/>
       <e:P20012 rdf:resource="churchilldonald"/>
       <e:P20012 rdf:resource="elliottdenholm"/>
-      <e:P20053 rdf:resource="coxmichael"/>
-      <e:P20053 rdf:resource="pauljeremy"/>
-      <e:P20053 rdf:resource="jonesfreddie"/>
-      <e:P20053 rdf:resource="barkworthpeter"/>
-      <e:P20059 rdf:resource="http://example.org/bivi0000012756"/>
-      <e:P20059 rdf:resource="http://example.org/bivi0000012759"/>
       <e:P20059 rdf:resource="http://example.org/bivi0000006744"/>
-      <e:P20059 rdf:resource="http://example.org/bivi0000008331"/>
       <e:P20059 rdf:resource="http://example.org/bivi0000002239"/>
-      <e:P20059 rdf:resource="http://example.org/bivi0000002992"/>
-      <e:P20059 rdf:resource="http://example.org/bivi0000045180"/>
-      <e:P20059 rdf:resource="http://example.org/bivi0000036916"/>
-      <e:P20231 rdf:resource="/noidentifier"/>
+      <e:P20231 rdf:resource="/thehoundofthebaskervillespelculacinematogrfica1959"/>
    </c:C10006>
-   <c:C10006 rdf:about="/noidentifier/spa/imagen(enmovimiento;bidimensional)">
+   <c:C10006 rdf:about="/thehoundofthebaskervillespelculacinematogrfica1959/spa/imagen(enmovimiento;bidimensional)">
       <e:P20006>spa</e:P20006>
       <e:P20006>eng</e:P20006>
       <e:P20006>Español-Inglés</e:P20006>
@@ -1984,17 +2085,46 @@
       <e:P20012 rdf:resource="morellandr"/>
       <e:P20012 rdf:resource="leechristopher"/>
       <e:P20059 rdf:resource="urn:ian:8436022323216"/>
-      <e:P20231 rdf:resource="/noidentifier"/>
+      <e:P20231 rdf:resource="/thehoundofthebaskervillespelculacinematogrfica1959"/>
    </c:C10006>
-   <c:C10006 rdf:about="/noidentifier/spa/texto(visual)">
+   <c:C10006 rdf:about="/thesecondstain/spa/">
       <e:P20006>spa</e:P20006>
       <e:P20006>eng</e:P20006>
-      <e:P20006>Español-Inglés</e:P20006>
-      <e:P20001>Texto (visual)</e:P20001>
-      <e:P20037 rdf:resource="steanerobert"/>
-      <e:P20037 rdf:resource="owensteve"/>
-      <e:P20059 rdf:resource="urn:isbn:9788467732016"/>
-      <e:P20231 rdf:resource="/noidentifier"/>
+      <e:P20006>Español</e:P20006>
+      <e:P20012 rdf:resource="brettjeremy"/>
+      <e:P20012 rdf:resource="hardwickeedward"/>
+      <e:P20012 rdf:resource="hodgepatricia"/>
+      <e:P20059 rdf:resource="http://example.org/bivi0000012759"/>
+      <e:P20231 rdf:resource="/thesecondstain"/>
+   </c:C10006>
+   <c:C10006 rdf:about="/thesignoffour/spa/">
+      <e:P20006>spa</e:P20006>
+      <e:P20006>eng</e:P20006>
+      <e:P20006>Español</e:P20006>
+      <e:P20012 rdf:resource="brettjeremy"/>
+      <e:P20012 rdf:resource="hardwickeedward"/>
+      <e:P20012 rdf:resource="seagrovejenny"/>
+      <e:P20012 rdf:resource="richardsonian"/>
+      <e:P20053 rdf:resource="davisdesmond"/>
+      <e:P20053 rdf:resource="rabinowitzharry"/>
+      <e:P20053 rdf:resource="poguecharlesedward"/>
+      <e:P20053 rdf:resource="healydavid"/>
+      <e:P20053 rdf:resource="waltersthorley"/>
+      <e:P20059 rdf:resource="http://example.org/bivi0000008331"/>
+      <e:P20059 rdf:resource="http://example.org/bivi0000004423"/>
+      <e:P20231 rdf:resource="/thesignoffour"/>
+   </c:C10006>
+   <c:C10006 rdf:about="/wisterialodge/spa/">
+      <e:P20006>spa</e:P20006>
+      <e:P20006>eng</e:P20006>
+      <e:P20006>Español</e:P20006>
+      <e:P20012 rdf:resource="brettjeremy"/>
+      <e:P20012 rdf:resource="hardwickeedward"/>
+      <e:P20053 rdf:resource="coxmichael"/>
+      <e:P20053 rdf:resource="pauljeremy"/>
+      <e:P20053 rdf:resource="jonesfreddie"/>
+      <e:P20059 rdf:resource="http://example.org/bivi0000002992"/>
+      <e:P20231 rdf:resource="/wisterialodge"/>
    </c:C10006>
    <c:C10006 rdf:about="bayardpierre/laffaireduchiendesbaskerville/spa/">
       <e:P20006>spa</e:P20006>
@@ -2058,7 +2188,6 @@
       <e:P20006>Español</e:P20006>
       <e:P20037 rdf:resource="http://viaf.org/viaf/120203535"/>
       <e:P20037 rdf:resource="http://viaf.org/viaf/170913932"/>
-      <e:P20053 rdf:resource="floresenrique"/>
       <e:P20059 rdf:resource="http://example.org/a4827882"/>
       <e:P20059 rdf:resource="urn:isbn:9788467241877"/>
       <e:P20059 rdf:resource="urn:isbn:8484471128"/>
@@ -2077,6 +2206,7 @@
       <e:P20006>spa</e:P20006>
       <e:P20006>Español</e:P20006>
       <e:P20001>Texto (visual)</e:P20001>
+      <e:P20037 rdf:resource="ingbergpablo"/>
       <e:P20037 rdf:resource="molinafoixjuanantonio"/>
       <e:P20037 rdf:resource="http://viaf.org/viaf/170913932"/>
       <e:P20037 rdf:resource="camargojuan"/>
@@ -2100,12 +2230,11 @@
       <e:P20006>spa</e:P20006>
       <e:P20037 rdf:resource="http://viaf.org/viaf/120203535"/>
       <e:P20037 rdf:resource="http://viaf.org/viaf/170913932"/>
-      <e:P20053 rdf:resource="http://viaf.org/viaf/170913932"/>
-      <e:P20053 rdf:resource="campbellenrique"/>
-      <e:P20053 rdf:resource="pujalsmaraengracia"/>
+      <e:P20037 rdf:resource="campbellenrique"/>
+      <e:P20037 rdf:resource="pujalsmaraengracia"/>
+      <e:P20037 rdf:resource="mrquezdelaplataluca"/>
+      <e:P20037 rdf:resource="appeceixsilvana"/>
       <e:P20053 rdf:resource="klingerleslies"/>
-      <e:P20053 rdf:resource="mrquezdelaplataluca"/>
-      <e:P20053 rdf:resource="appeceixsilvana"/>
       <e:P20059 rdf:resource="urn:isbn:9788493758967"/>
       <e:P20059 rdf:resource="urn:isbn:8479691263"/>
       <e:P20059 rdf:resource="urn:isbn:8479691093"/>
@@ -2149,12 +2278,12 @@
       <e:P20006>eng</e:P20006>
       <e:P20006>Español</e:P20006>
       <e:P20037 rdf:resource="http://viaf.org/viaf/120203535"/>
+      <e:P20037 rdf:resource="delgadogallvaro"/>
       <e:P20037 rdf:resource="http://viaf.org/viaf/170913932"/>
-      <e:P20053 rdf:resource="vicentefernando"/>
+      <e:P20037 rdf:resource="molinafoixjuanantonio"/>
       <e:P20053 rdf:resource="manerojimnezlaura"/>
       <e:P20053 rdf:resource="portabaldomero"/>
       <e:P20053 rdf:resource="cusfrancisco"/>
-      <e:P20053 rdf:resource="molinafoixjuanantonio"/>
       <e:P20059 rdf:resource="urn:isbn:8440212747"/>
       <e:P20059 rdf:resource="urn:isbn:8440209320"/>
       <e:P20059 rdf:resource="urn:isbn:9788483430774"/>
@@ -2196,11 +2325,10 @@
       <e:P20006>Español</e:P20006>
       <e:P20001>Texto (visual)</e:P20001>
       <e:P20037 rdf:resource="ibeasaltamirajuanmanuel"/>
+      <e:P20037 rdf:resource="http://viaf.org/viaf/305867914"/>
       <e:P20037 rdf:resource="prezprezmiguelngel"/>
       <e:P20037 rdf:resource="delgadogallvaro"/>
       <e:P20053 rdf:resource="manerojimnezlaura"/>
-      <e:P20053 rdf:resource="vicentefernando"/>
-      <e:P20053 rdf:resource="http://viaf.org/viaf/305867914"/>
       <e:P20059 rdf:resource="urn:isbn:9788483430774"/>
       <e:P20059 rdf:resource="urn:isbn:9788467861563"/>
       <e:P20059 rdf:resource="urn:isbn:9788415089421"/>
@@ -2230,17 +2358,20 @@
       <e:P20312>A study in scarlet</e:P20312>
       <e:P20312>Estudio en escarlata</e:P20312>
       <e:P20037 rdf:resource="http://viaf.org/viaf/120203535"/>
+      <e:P20037 rdf:resource="delgadogallvaro"/>
+      <e:P20037 rdf:resource="http://viaf.org/viaf/84477527"/>
+      <e:P20037 rdf:resource="busquetsnstor"/>
+      <e:P20037 rdf:resource="parejaalejandro"/>
       <e:P20037 rdf:resource="http://viaf.org/viaf/170913932"/>
+      <e:P20037 rdf:resource="campbellenrique"/>
+      <e:P20037 rdf:resource="molinafoixjuanantonio"/>
+      <e:P20037 rdf:resource="borreguerosanchidrinsandramara"/>
       <e:P20053 rdf:resource="torresburgoszoraidade"/>
       <e:P20053 rdf:resource="escribcarmela"/>
       <e:P20053 rdf:resource="casanovasjosmara"/>
       <e:P20053 rdf:resource="millsjuanjos"/>
       <e:P20053 rdf:resource="hutchinsongeo"/>
-      <e:P20053 rdf:resource="delgadogallvaro"/>
-      <e:P20053 rdf:resource="http://viaf.org/viaf/84477527"/>
-      <e:P20053 rdf:resource="busquetsnstor"/>
       <e:P20053 rdf:resource="delgadogalalvaro"/>
-      <e:P20053 rdf:resource="parejaalejandro"/>
       <e:P20053 rdf:resource="senmartnatalia"/>
       <e:P20053 rdf:resource="lijmaersusana"/>
       <e:P20053 rdf:resource="portabaldomero"/>
@@ -2248,12 +2379,6 @@
       <e:P20053 rdf:resource="http://viaf.org/viaf/51519824"/>
       <e:P20053 rdf:resource="agrsfrancisco"/>
       <e:P20053 rdf:resource="lijtmaersusana"/>
-      <e:P20053 rdf:resource="floresenrique"/>
-      <e:P20053 rdf:resource="campbellenrique"/>
-      <e:P20053 rdf:resource="molinafoixjuanantonio"/>
-      <e:P20053 rdf:resource="sanchidrincidconsuelo"/>
-      <e:P20053 rdf:resource="borreguerosanchidrinsandramara"/>
-      <e:P20053 rdf:resource="muozpuellesvicente"/>
       <e:P20053 rdf:resource="sezfernando"/>
       <e:P20053 rdf:resource="losadadazeva"/>
       <e:P20053 rdf:resource="hervsramn"/>
@@ -2319,18 +2444,14 @@
       <e:P20006>Español-Inglés</e:P20006>
       <e:P20001>Texto (visual)</e:P20001>
       <e:P20037 rdf:resource="campbellenrique"/>
-      <e:P20037 rdf:resource="prezprezmiguelngel"/>
       <e:P20037 rdf:resource="delgadogallvaro"/>
+      <e:P20037 rdf:resource="prezprezmiguelngel"/>
+      <e:P20037 rdf:resource="http://viaf.org/viaf/84477527"/>
+      <e:P20037 rdf:resource="busquetsnstor"/>
       <e:P20037 rdf:resource="borreguerosanchidrinsandramara"/>
       <e:P20037 rdf:resource="http://viaf.org/viaf/305867914"/>
       <e:P20037 rdf:resource="appeceixsilvana"/>
       <e:P20037 rdf:resource="parejaalejandro"/>
-      <e:P20037 rdf:resource="http://viaf.org/viaf/84477527"/>
-      <e:P20037 rdf:resource="busquetsnstor"/>
-      <e:P20053 rdf:resource="delgadogallvaro"/>
-      <e:P20053 rdf:resource="http://viaf.org/viaf/84477527"/>
-      <e:P20053 rdf:resource="busquetsnstor"/>
-      <e:P20053 rdf:resource="vicentefernando"/>
       <e:P20059 rdf:resource="urn:isbn:9788415999997"/>
       <e:P20059 rdf:resource="urn:isbn:9788420665696"/>
       <e:P20059 rdf:resource="urn:isbn:9788420689760"/>
@@ -2392,33 +2513,29 @@
       <e:P20037 rdf:resource="http://viaf.org/viaf/170913932"/>
       <e:P20037 rdf:resource="lpezmuozjosluis"/>
       <e:P20037 rdf:resource="http://viaf.org/viaf/120203535"/>
+      <e:P20037 rdf:resource="campbellenrique"/>
+      <e:P20037 rdf:resource="huanquilourdes"/>
+      <e:P20037 rdf:resource="parejaalejandro"/>
+      <e:P20037 rdf:resource="http://viaf.org/viaf/84477527"/>
+      <e:P20037 rdf:resource="molinafoixjuanantonio"/>
       <e:P20053 rdf:resource="http://viaf.org/viaf/51519824"/>
-      <e:P20053 rdf:resource="campbellenrique"/>
-      <e:P20053 rdf:resource="snchezsanzramiro"/>
-      <e:P20053 rdf:resource="http://viaf.org/viaf/2555146"/>
       <e:P20053 rdf:resource="doyagueluism"/>
       <e:P20053 rdf:resource="lazcanoalessia"/>
       <e:P20053 rdf:resource="portabaldomero"/>
       <e:P20053 rdf:resource="santerbssantiagor"/>
-      <e:P20053 rdf:resource="huanquilourdes"/>
       <e:P20053 rdf:resource="bonannoantonio"/>
-      <e:P20053 rdf:resource="parejaalejandro"/>
       <e:P20053 rdf:resource="costalvarezarturo"/>
       <e:P20053 rdf:resource="bernabeumornnatalia"/>
-      <e:P20053 rdf:resource="tha"/>
       <e:P20053 rdf:resource="bastidaramn"/>
       <e:P20053 rdf:resource="pellnisabel"/>
       <e:P20053 rdf:resource="calvojosmara"/>
-      <e:P20053 rdf:resource="http://viaf.org/viaf/84477527"/>
       <e:P20053 rdf:resource="gonzlezfernando"/>
       <e:P20053 rdf:resource="linnellrosemary"/>
       <e:P20053 rdf:resource="alonsojuanramn"/>
       <e:P20053 rdf:resource="escribcarmela"/>
       <e:P20053 rdf:resource="vidalitubaujordi"/>
       <e:P20053 rdf:resource="maletoriol"/>
-      <e:P20053 rdf:resource="floresenrique"/>
       <e:P20053 rdf:resource="garcapavnfrancisco"/>
-      <e:P20053 rdf:resource="molinafoixjuanantonio"/>
       <e:P20059 rdf:resource="urn:isbn:9788420666464"/>
       <e:P20059 rdf:resource="urn:isbn:9788447364732"/>
       <e:P20059 rdf:resource="urn:isbn:8440212720"/>
@@ -2494,6 +2611,7 @@
       <e:P20006>Español</e:P20006>
       <e:P20006>Español-Inglés</e:P20006>
       <e:P20001>Texto (visual)</e:P20001>
+      <e:P20037 rdf:resource="http://viaf.org/viaf/84477527"/>
       <e:P20037 rdf:resource="lpezmuozjosluis"/>
       <e:P20037 rdf:resource="parejaalejandro"/>
       <e:P20037 rdf:resource="http://viaf.org/viaf/305867914"/>
@@ -2502,7 +2620,6 @@
       <e:P20037 rdf:resource="gasolanna"/>
       <e:P20037 rdf:resource="huanquilourdes"/>
       <e:P20053 rdf:resource="olivaresjavier"/>
-      <e:P20053 rdf:resource="http://viaf.org/viaf/84477527"/>
       <e:P20059 rdf:resource="urn:isbn:9788492683581"/>
       <e:P20059 rdf:resource="urn:isbn:9788499898933"/>
       <e:P20059 rdf:resource="urn:isbn:9788468217840"/>
@@ -2558,14 +2675,13 @@
       <e:P20037 rdf:resource="http://viaf.org/viaf/170913932"/>
       <e:P20037 rdf:resource="lpezmuozjosluis"/>
       <e:P20037 rdf:resource="http://viaf.org/viaf/120203535"/>
+      <e:P20037 rdf:resource="molinafoixjuanantonio"/>
+      <e:P20037 rdf:resource="http://viaf.org/viaf/84477527"/>
+      <e:P20037 rdf:resource="campbellenrique"/>
       <e:P20053 rdf:resource="capitainesnchezanabeatriz"/>
-      <e:P20053 rdf:resource="molinafoixjuanantonio"/>
-      <e:P20053 rdf:resource="http://viaf.org/viaf/84477527"/>
       <e:P20053 rdf:resource="http://viaf.org/viaf/51519824"/>
       <e:P20053 rdf:resource="bastidaramn"/>
       <e:P20053 rdf:resource="portabaldomero"/>
-      <e:P20053 rdf:resource="floresenrique"/>
-      <e:P20053 rdf:resource="campbellenrique"/>
       <e:P20059 rdf:resource="urn:isbn:9788420666464"/>
       <e:P20059 rdf:resource="urn:isbn:9788467241846"/>
       <e:P20059 rdf:resource="urn:isbn:8439216416"/>
@@ -2591,7 +2707,6 @@
       <e:P20059 rdf:resource="urn:isbn:8420655236"/>
       <e:P20059 rdf:resource="urn:isbn:8466716521"/>
       <e:P20059 rdf:resource="urn:isbn:8476729715"/>
-      <e:P20059 rdf:resource="http://example.org/bivi0000004423"/>
       <e:P20231 rdf:resource="http://viaf.org/viaf/184892317"/>
    </c:C10006>
    <c:C10006 rdf:about="http://viaf.org/viaf/184892317/spa/imagen(fija;bidimensional;visual)">
@@ -2613,9 +2728,9 @@
       <e:P20037 rdf:resource="campbellenrique"/>
       <e:P20037 rdf:resource="http://viaf.org/viaf/305867914"/>
       <e:P20037 rdf:resource="parejaalejandro"/>
+      <e:P20037 rdf:resource="http://viaf.org/viaf/84477527"/>
       <e:P20037 rdf:resource="martnezrodolfo"/>
       <e:P20037 rdf:resource="santoyojuliocsar"/>
-      <e:P20053 rdf:resource="http://viaf.org/viaf/84477527"/>
       <e:P20059 rdf:resource="urn:isbn:9788420683249"/>
       <e:P20059 rdf:resource="urn:isbn:9788415605690"/>
       <e:P20059 rdf:resource="urn:isbn:9788417079659"/>
@@ -2649,19 +2764,19 @@
       <e:P20006>Español</e:P20006>
       <e:P20312>The adventures of Sherlock Holmes</e:P20312>
       <e:P20037 rdf:resource="http://viaf.org/viaf/120203535"/>
+      <e:P20037 rdf:resource="http://viaf.org/viaf/84477527"/>
+      <e:P20037 rdf:resource="parejaalejandro"/>
+      <e:P20037 rdf:resource="campbellenrique"/>
+      <e:P20037 rdf:resource="pujalsmaraengracia"/>
       <e:P20037 rdf:resource="http://viaf.org/viaf/170913932"/>
+      <e:P20037 rdf:resource="molinafoixjuanantonio"/>
       <e:P20053 rdf:resource="riambauesteve"/>
       <e:P20053 rdf:resource="jlb"/>
       <e:P20053 rdf:resource="aguilar"/>
-      <e:P20053 rdf:resource="http://viaf.org/viaf/84477527"/>
-      <e:P20053 rdf:resource="parejaalejandro"/>
-      <e:P20053 rdf:resource="campbellenrique"/>
       <e:P20053 rdf:resource="urceloyjess"/>
-      <e:P20053 rdf:resource="pujalsmaraengracia"/>
       <e:P20053 rdf:resource="almudvarmaraelena"/>
       <e:P20053 rdf:resource="gmezreajavier"/>
       <e:P20053 rdf:resource="fbregasf"/>
-      <e:P20053 rdf:resource="http://viaf.org/viaf/2555146"/>
       <e:P20053 rdf:resource="portabaldomero"/>
       <e:P20053 rdf:resource="tejerocorrecherj"/>
       <e:P20053 rdf:resource="eguillorjuancarlos"/>
@@ -2674,10 +2789,8 @@
       <e:P20053 rdf:resource="laisecaalberto"/>
       <e:P20053 rdf:resource="burgosfunesjorgelen"/>
       <e:P20053 rdf:resource="francsjos"/>
-      <e:P20053 rdf:resource="floresenrique"/>
       <e:P20053 rdf:resource="gimnezgraciamaraluisa"/>
       <e:P20053 rdf:resource="ferrerjim"/>
-      <e:P20053 rdf:resource="molinafoixjuanantonio"/>
       <e:P20053 rdf:resource="clubjoseph"/>
       <e:P20053 rdf:resource="capdevilaf"/>
       <e:P20053 rdf:resource="maraluisa"/>
@@ -2790,7 +2903,6 @@
       <e:P20037 rdf:resource="http://viaf.org/viaf/84477527"/>
       <e:P20037 rdf:resource="campbellenrique"/>
       <e:P20037 rdf:resource="izquierdomaritza"/>
-      <e:P20053 rdf:resource="http://viaf.org/viaf/84477527"/>
       <e:P20059 rdf:resource="urn:isbn:9788497942119"/>
       <e:P20059 rdf:resource="urn:isbn:9788446041542"/>
       <e:P20059 rdf:resource="urn:isbn:9788420665726"/>
@@ -2815,17 +2927,16 @@
       <e:P20006>spa</e:P20006>
       <e:P20006>Español</e:P20006>
       <e:P20006>Catalán</e:P20006>
+      <e:P20037 rdf:resource="mahieujosagustn"/>
       <e:P20037 rdf:resource="http://viaf.org/viaf/120203535"/>
       <e:P20053 rdf:resource="yezsolanamanuel"/>
       <e:P20053 rdf:resource="alarcnjusto"/>
       <e:P20053 rdf:resource="pazpilardela"/>
-      <e:P20053 rdf:resource="mahieujosagustn"/>
       <e:P20053 rdf:resource="cuestapamiesmargarita"/>
       <e:P20053 rdf:resource="joverluis"/>
       <e:P20053 rdf:resource="dazsantanderrafael"/>
       <e:P20053 rdf:resource="gutirrezgerardo"/>
       <e:P20053 rdf:resource="morenofrancisco"/>
-      <e:P20053 rdf:resource="floresenrique"/>
       <e:P20053 rdf:resource="fontcubertaigeljoan"/>
       <e:P20059 rdf:resource="urn:isbn:8477731667"/>
       <e:P20059 rdf:resource="urn:isbn:8447342689"/>
@@ -3015,7 +3126,6 @@
       <e:P20006>Español</e:P20006>
       <e:P20037 rdf:resource="http://viaf.org/viaf/120203535"/>
       <e:P20037 rdf:resource="http://viaf.org/viaf/170913932"/>
-      <e:P20053 rdf:resource="floresenrique"/>
       <e:P20053 rdf:resource="laisecaalberto"/>
       <e:P20053 rdf:resource="burgosfunesjorgelen"/>
       <e:P20053 rdf:resource="http://viaf.org/viaf/51519824"/>
@@ -3087,15 +3197,26 @@
    </c:C10006>
    <c:C10006 rdf:about="http://www.wikidata.org/entity/q1151761/spa/">
       <e:P20006>spa</e:P20006>
-      <e:P20053 rdf:resource="pujalsmaraengracia"/>
+      <e:P20037 rdf:resource="pujalsmaraengracia"/>
       <e:P20059 rdf:resource="urn:isbn:8479691530"/>
       <e:P20231 rdf:resource="http://www.wikidata.org/entity/q1151761"/>
    </c:C10006>
    <c:C10006 rdf:about="http://www.wikidata.org/entity/q1151761/spa/texto(visual)">
       <e:P20006>spa</e:P20006>
       <e:P20001>Texto (visual)</e:P20001>
+      <e:P20037 rdf:resource="muozadolfo"/>
       <e:P20059 rdf:resource="urn:isbn:9788468201108"/>
       <e:P20231 rdf:resource="http://www.wikidata.org/entity/q1151761"/>
+   </c:C10006>
+   <c:C10006 rdf:about="http://www.wikidata.org/entity/q18546597/eng/texto(visual)">
+      <e:P20006>eng</e:P20006>
+      <e:P20001>Texto (visual)</e:P20001>
+      <e:P20001>Palabra hablada</e:P20001>
+      <e:P20006>Español-Inglés</e:P20006>
+      <e:P20312>The case of Lady Sannox</e:P20312>
+      <e:P20037 rdf:resource="riescoxavier"/>
+      <e:P20059 rdf:resource="urn:isbn:9788416774524"/>
+      <e:P20231 rdf:resource="http://www.wikidata.org/entity/q18546597"/>
    </c:C10006>
    <c:C10006 rdf:about="http://www.wikidata.org/entity/q19086389/eng/">
       <e:P20006>eng</e:P20006>
@@ -3234,11 +3355,9 @@
       <e:P20006>Español</e:P20006>
       <e:P20037 rdf:resource="http://viaf.org/viaf/120203535"/>
       <e:P20037 rdf:resource="http://viaf.org/viaf/170913932"/>
-      <e:P20053 rdf:resource="floresenrique"/>
-      <e:P20053 rdf:resource="molinafoixjuanantonio"/>
+      <e:P20037 rdf:resource="molinafoixjuanantonio"/>
       <e:P20053 rdf:resource="steelefredericdorr"/>
       <e:P20053 rdf:resource="malecandrew"/>
-      <e:P20053 rdf:resource="http://viaf.org/viaf/2555146"/>
       <e:P20053 rdf:resource="laisecaalberto"/>
       <e:P20053 rdf:resource="burgosfunesjorgelen"/>
       <e:P20053 rdf:resource="almudvarmaraelena"/>
@@ -3301,14 +3420,12 @@
       <e:P20006>spa</e:P20006>
       <e:P20006>Español</e:P20006>
       <e:P20037 rdf:resource="http://viaf.org/viaf/120203535"/>
+      <e:P20037 rdf:resource="pujalsmaraengracia"/>
+      <e:P20037 rdf:resource="molinafoixjuanantonio"/>
+      <e:P20037 rdf:resource="http://viaf.org/viaf/84477527"/>
       <e:P20053 rdf:resource="espinetalfonso"/>
       <e:P20053 rdf:resource="http://viaf.org/viaf/51519824"/>
-      <e:P20053 rdf:resource="pujalsmaraengracia"/>
       <e:P20053 rdf:resource="millsjuanjos"/>
-      <e:P20053 rdf:resource="http://viaf.org/viaf/2555146"/>
-      <e:P20053 rdf:resource="molinafoixjuanantonio"/>
-      <e:P20053 rdf:resource="floresenrique"/>
-      <e:P20053 rdf:resource="http://viaf.org/viaf/84477527"/>
       <e:P20059 rdf:resource="urn:isbn:9788447364787"/>
       <e:P20059 rdf:resource="urn:isbn:8440209282"/>
       <e:P20059 rdf:resource="urn:isbn:8476520565"/>
@@ -3378,10 +3495,10 @@
       <e:P20059 rdf:resource="urn:isbn:8420512842"/>
       <e:P20231 rdf:resource="poeedgarallan/themurdersintheruemorgue"/>
    </c:C10006>
-   <c:C10006 rdf:about="stevensonrobertlouis/noidentifier/spa/">
+   <c:C10006 rdf:about="stevensonrobertlouis/olalla/spa/">
       <e:P20006>spa</e:P20006>
       <e:P20059 rdf:resource="http://example.org/mimo0002144306"/>
-      <e:P20231 rdf:resource="stevensonrobertlouis/noidentifier"/>
+      <e:P20231 rdf:resource="stevensonrobertlouis/olalla"/>
    </c:C10006>
    <c:C10006 rdf:about="unglikrichard/lechiendesbaskerville/spa/imagen(fija;bidimensional;visual)">
       <e:P20006>spa</e:P20006>
@@ -4433,7 +4550,7 @@
       <m:P30011>D.L. 1986</m:P30011>
       <m:P30182>1 videocasete (Beta) (102 min)</m:P30182>
       <marc:M30000b>son., col.</marc:M30000b>
-      <m:P30139 rdf:resource="/noidentifier/spa/"/>
+      <m:P30139 rdf:resource="/thehoundofthebaskervillespelculacinematogrfica1959/spa/"/>
    </c:C10007>
    <c:C10007 rdf:about="http://example.org/bivi0000002992">
       <marc:M001>bivi0000002992</marc:M001>
@@ -4444,7 +4561,7 @@
       <m:P30011>D.L. 1997</m:P30011>
       <m:P30182>1 videocasete (VHS) (ca. 52 min)</m:P30182>
       <marc:M30000b>son., col.</marc:M30000b>
-      <m:P30139 rdf:resource="/noidentifier/spa/"/>
+      <m:P30139 rdf:resource="/wisterialodge/spa/"/>
    </c:C10007>
    <c:C10007 rdf:about="http://example.org/bivi0000004423">
       <marc:M001>bivi0000004423</marc:M001>
@@ -4455,7 +4572,7 @@
       <m:P30011>D.L. 1985</m:P30011>
       <m:P30182>1 videocasete (Beta) (100 min)</m:P30182>
       <marc:M30000b>son., col.</marc:M30000b>
-      <m:P30139 rdf:resource="http://viaf.org/viaf/184892317/spa/"/>
+      <m:P30139 rdf:resource="/thesignoffour/spa/"/>
    </c:C10007>
    <c:C10007 rdf:about="http://example.org/bivi0000006744">
       <marc:M001>bivi0000006744</marc:M001>
@@ -4466,7 +4583,7 @@
       <m:P30011>D.L. 1997</m:P30011>
       <m:P30182>1 videocasete (VHS) (100 min)</m:P30182>
       <marc:M30000b>son., col.</marc:M30000b>
-      <m:P30139 rdf:resource="/noidentifier/spa/"/>
+      <m:P30139 rdf:resource="/thehoundofthebaskervillespelculacinematogrfica1959/spa/"/>
    </c:C10007>
    <c:C10007 rdf:about="http://example.org/bivi0000008331">
       <marc:M001>bivi0000008331</marc:M001>
@@ -4477,7 +4594,7 @@
       <m:P30011>D.L. 1997</m:P30011>
       <m:P30182>1 videocasete (VHS) (106 min)</m:P30182>
       <marc:M30000b>son., col.</marc:M30000b>
-      <m:P30139 rdf:resource="/noidentifier/spa/"/>
+      <m:P30139 rdf:resource="/thesignoffour/spa/"/>
    </c:C10007>
    <c:C10007 rdf:about="http://example.org/bivi0000012756">
       <marc:M001>bivi0000012756</marc:M001>
@@ -4488,7 +4605,7 @@
       <m:P30011>D.L. 1997</m:P30011>
       <m:P30182>1 videocasete (VHS) (52 min)</m:P30182>
       <marc:M30000b>son., col.</marc:M30000b>
-      <m:P30139 rdf:resource="/noidentifier/spa/"/>
+      <m:P30139 rdf:resource="/theabbeygrange/spa/"/>
    </c:C10007>
    <c:C10007 rdf:about="http://example.org/bivi0000012759">
       <marc:M001>bivi0000012759</marc:M001>
@@ -4499,7 +4616,7 @@
       <m:P30011>D.L. 1997</m:P30011>
       <m:P30182>1 videocasete (VHS) (52 min)</m:P30182>
       <marc:M30000b>son., col.</marc:M30000b>
-      <m:P30139 rdf:resource="/noidentifier/spa/"/>
+      <m:P30139 rdf:resource="/thesecondstain/spa/"/>
    </c:C10007>
    <c:C10007 rdf:about="http://example.org/bivi0000036916">
       <marc:M001>bivi0000036916</marc:M001>
@@ -4510,7 +4627,7 @@
       <m:P30011>D.L. 2000</m:P30011>
       <m:P30182>1 videocasete (VHS) (ca. 60 min)</m:P30182>
       <marc:M30000b>son., col.</marc:M30000b>
-      <m:P30139 rdf:resource="/noidentifier/spa/"/>
+      <m:P30139 rdf:resource="/thehoundofthebaskervilles/spa/"/>
    </c:C10007>
    <c:C10007 rdf:about="http://example.org/bivi0000045180">
       <marc:M001>bivi0000045180</marc:M001>
@@ -4521,7 +4638,7 @@
       <m:P30011>D.L. 1997</m:P30011>
       <m:P30182>1 videocasete (VHS) (ca. 52 min)</m:P30182>
       <marc:M30000b>son., col.</marc:M30000b>
-      <m:P30139 rdf:resource="/noidentifier/spa/"/>
+      <m:P30139 rdf:resource="/silverblaze/spa/"/>
    </c:C10007>
    <c:C10007 rdf:about="http://example.org/mimo0000795014">
       <marc:M001>Mimo0000795014</marc:M001>
@@ -4814,7 +4931,7 @@
       <m:P30106>Colección popular de tres novelas escogidas</m:P30106>
       <m:P30165>nº 2</m:P30165>
       <m:P30139 rdf:resource="http://viaf.org/viaf/175571309/spa/"/>
-      <m:P30139 rdf:resource="stevensonrobertlouis/noidentifier/spa/"/>
+      <m:P30139 rdf:resource="stevensonrobertlouis/olalla/spa/"/>
       <m:P30139 rdf:resource="bourdonmathilde/uneparentepauvre/spa/"/>
    </c:C10007>
    <c:C10007 rdf:about="http://example.org/mimo0002200621">
@@ -4840,7 +4957,7 @@
       <m:P30182>1 Blu-ray (ca. 87 min)</m:P30182>
       <marc:M30000b>son., col.</marc:M30000b>
       <m:P30001>vídeo</m:P30001>
-      <m:P30139 rdf:resource="/noidentifier/spa/imagen(enmovimiento;bidimensional)"/>
+      <m:P30139 rdf:resource="/thehoundofthebaskervillespelculacinematogrfica1959/spa/imagen(enmovimiento;bidimensional)"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:0863076785">
       <marc:M001>bimo0000024601</marc:M001>
@@ -5225,6 +5342,7 @@
       <m:P30106>Tus libros. Selección</m:P30106>
       <m:P30165>11</m:P30165>
       <m:P30139 rdf:resource="http://viaf.org/viaf/179061639/spa/"/>
+      <m:P30321 rdf:resource="floresenrique"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:8420731609">
       <marc:M001>Mimo0000089895</marc:M001>
@@ -5266,6 +5384,7 @@
       <marc:M30000b>il.</marc:M30000b>
       <m:P30169>20 cm</m:P30169>
       <m:P30139 rdf:resource="http://www.wikidata.org/entity/q860831/spa/"/>
+      <m:P30321 rdf:resource="http://viaf.org/viaf/2555146"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:8420733512">
       <marc:M001>bimo0000264354</marc:M001>
@@ -5286,6 +5405,7 @@
       <m:P30169>20 cm</m:P30169>
       <m:P30169>19 cm</m:P30169>
       <m:P30139 rdf:resource="http://viaf.org/viaf/181625655/spa/"/>
+      <m:P30321 rdf:resource="http://viaf.org/viaf/2555146"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:8420733903">
       <marc:M001>bimo0000269943</marc:M001>
@@ -5314,6 +5434,7 @@
       <marc:M30000b>il.</marc:M30000b>
       <m:P30169>20 cm</m:P30169>
       <m:P30139 rdf:resource="http://www.wikidata.org/entity/q860831/spa/"/>
+      <m:P30321 rdf:resource="http://viaf.org/viaf/2555146"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:8420739537">
       <marc:M001>bimo0000340639</marc:M001>
@@ -5328,6 +5449,7 @@
       <marc:M30000b>il.</marc:M30000b>
       <m:P30169>20 cm</m:P30169>
       <m:P30139 rdf:resource="http://viaf.org/viaf/186734487/spa/"/>
+      <m:P30321 rdf:resource="http://viaf.org/viaf/2555146"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:8420748021">
       <marc:M001>bimo0000282781</marc:M001>
@@ -5342,6 +5464,7 @@
       <marc:M30000b>il.</marc:M30000b>
       <m:P30169>20 cm</m:P30169>
       <m:P30139 rdf:resource="http://www.wikidata.org/entity/q725752/spa/"/>
+      <m:P30321 rdf:resource="http://viaf.org/viaf/2555146"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:8420765368">
       <marc:M001>Mimo0000453901</marc:M001>
@@ -5413,6 +5536,7 @@
       <m:P30106>Colección Clásicos juveniles</m:P30106>
       <m:P30165>6</m:P30165>
       <m:P30139 rdf:resource="http://viaf.org/viaf/181625655/spa/"/>
+      <m:P30321 rdf:resource="tha"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:8422614456">
       <marc:M001>bimo0000253949</marc:M001>
@@ -5969,6 +6093,7 @@
       <marc:M30000b>il.</marc:M30000b>
       <m:P30169>20 cm</m:P30169>
       <m:P30139 rdf:resource="http://viaf.org/viaf/186734487/spa/"/>
+      <m:P30321 rdf:resource="http://viaf.org/viaf/2555146"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:843921622">
       <marc:M001>bimo0002036795</marc:M001>
@@ -6341,6 +6466,7 @@
       <marc:M30000b>il.</marc:M30000b>
       <m:P30169>20 cm</m:P30169>
       <m:P30139 rdf:resource="http://viaf.org/viaf/186734487/spa/"/>
+      <m:P30321 rdf:resource="http://viaf.org/viaf/2555146"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:8448700082">
       <marc:M001>Mimo0000384000</marc:M001>
@@ -6354,6 +6480,7 @@
       <marc:M30000b>il.</marc:M30000b>
       <m:P30169>20 cm</m:P30169>
       <m:P30139 rdf:resource="http://viaf.org/viaf/181625655/spa/"/>
+      <m:P30321 rdf:resource="http://viaf.org/viaf/2555146"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:8448700384">
       <marc:M001>Mimo0000407936</marc:M001>
@@ -6483,6 +6610,7 @@
       <m:P30106>Tus libros. Selección</m:P30106>
       <m:P30165>16</m:P30165>
       <m:P30139 rdf:resource="http://viaf.org/viaf/186734487/spa/"/>
+      <m:P30321 rdf:resource="floresenrique"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:8466715614">
       <marc:M001>Mimo0002223782</marc:M001>
@@ -6499,6 +6627,7 @@
       <m:P30106>Tus libros. Selección</m:P30106>
       <m:P30165>29</m:P30165>
       <m:P30139 rdf:resource="http://viaf.org/viaf/294145857904223021237/spa/"/>
+      <m:P30321 rdf:resource="floresenrique"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:8466716521">
       <marc:M001>Mimo0001846772</marc:M001>
@@ -6515,6 +6644,7 @@
       <m:P30106>Tus libros. Selección</m:P30106>
       <m:P30165>33</m:P30165>
       <m:P30139 rdf:resource="http://viaf.org/viaf/184892317/spa/"/>
+      <m:P30321 rdf:resource="floresenrique"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:8466724796">
       <marc:M001>bimo0002230178</marc:M001>
@@ -6531,6 +6661,7 @@
       <m:P30106>Tus libros. Selección</m:P30106>
       <m:P30165>40</m:P30165>
       <m:P30139 rdf:resource="http://viaf.org/viaf/181625655/spa/"/>
+      <m:P30321 rdf:resource="floresenrique"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:8466736697">
       <marc:M001>bimo0001957079</marc:M001>
@@ -6547,6 +6678,7 @@
       <m:P30106>Tus libros. Selección</m:P30106>
       <m:P30165>44</m:P30165>
       <m:P30139 rdf:resource="http://viaf.org/viaf/1390154501894339210002/spa/"/>
+      <m:P30321 rdf:resource="floresenrique"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:8466745270">
       <marc:M001>bimo0002030739</marc:M001>
@@ -6562,6 +6694,7 @@
       <m:P30106>Tus libros. Selección</m:P30106>
       <m:P30165>47</m:P30165>
       <m:P30139 rdf:resource="http://www.wikidata.org/entity/q1129378/spa/"/>
+      <m:P30321 rdf:resource="floresenrique"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:8467019638">
       <marc:M001>bimo0002051427</marc:M001>
@@ -7143,6 +7276,7 @@
       <marc:M30000b>il.</marc:M30000b>
       <m:P30169>18 cm</m:P30169>
       <m:P30139 rdf:resource="http://www.wikidata.org/entity/q860831/spa/"/>
+      <m:P30321 rdf:resource="http://viaf.org/viaf/2555146"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:847577248">
       <marc:M001>bimo0000322423</marc:M001>
@@ -8515,6 +8649,7 @@
       <m:P30165>61.</m:P30165>
       <m:P30106>Literatura universal</m:P30106>
       <m:P30139 rdf:resource="http://viaf.org/viaf/181625655/spa/texto(visual)"/>
+      <w:P10055 rdf:resource="cardonacastrofranciscoluis"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9788415177982">
       <marc:M001>a5496738</marc:M001>
@@ -8563,6 +8698,7 @@
       <m:P30165>178</m:P30165>
       <m:P30106>Literatura universal</m:P30106>
       <m:P30139 rdf:resource="http://viaf.org/viaf/294145857904223021237/spa/texto(visual)"/>
+      <w:P10055 rdf:resource="cardonacastrofranciscoluis"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9788415605690">
       <marc:M001>a5847268</marc:M001>
@@ -8648,6 +8784,7 @@
       <m:P30106>[Colección Ilustrados]</m:P30106>
       <m:P30165>18</m:P30165>
       <m:P30139 rdf:resource="http://viaf.org/viaf/179061639/spa/texto(visual)"/>
+      <m:P30321 rdf:resource="vicentefernando"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9788415988700">
       <marc:M001>a6111424</marc:M001>
@@ -8662,6 +8799,7 @@
       <m:P30169>22 cm</m:P30169>
       <m:P30001>sin mediación</m:P30001>
       <m:P30139 rdf:resource="http://viaf.org/viaf/184892317/spa/texto(visual)"/>
+      <w:P10055 rdf:resource="martnezrodolfo"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9788415999706">
       <marc:M001>a5829335</marc:M001>
@@ -8679,6 +8817,7 @@
       <m:P30165>10 Serie A</m:P30165>
       <m:P30106>Literatura universal</m:P30106>
       <m:P30139 rdf:resource="http://viaf.org/viaf/181625655/spa/texto(visual)"/>
+      <w:P10055 rdf:resource="cardonacastrofranciscoluis"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9788415999775">
       <marc:M001>a5829008</marc:M001>
@@ -8694,6 +8833,7 @@
       <m:P30106>Colección Abierta</m:P30106>
       <m:P30165>28</m:P30165>
       <m:P30139 rdf:resource="http://viaf.org/viaf/186734487/spa/texto(visual)"/>
+      <w:P10055 rdf:resource="cardonacastrofranciscoluis"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9788415999997">
       <marc:M001>a5847262</marc:M001>
@@ -8824,6 +8964,7 @@
       <m:P30001>audio</m:P30001>
       <m:P30106>Audiobooks. Libros bilingües</m:P30106>
       <m:P30139 rdf:resource="http://viaf.org/viaf/65283845/thefinalproblem/eng/texto(visual)"/>
+      <m:P30139 rdf:resource="http://www.wikidata.org/entity/q18546597/eng/texto(visual)"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9788416775743">
       <marc:M001>a5994968</marc:M001>
@@ -9425,6 +9566,7 @@
       <m:P30106>Letras populares</m:P30106>
       <m:P30165>23</m:P30165>
       <m:P30139 rdf:resource="http://viaf.org/viaf/181625655/spa/texto(visual)"/>
+      <w:P10055 rdf:resource="dezjulin"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9788440724663">
       <marc:M001>a5397657</marc:M001>
@@ -9715,6 +9857,7 @@
       <m:P30106>Tus libros. Selección</m:P30106>
       <m:P30165>51</m:P30165>
       <m:P30139 rdf:resource="http://www.wikidata.org/entity/q860831/spa/"/>
+      <m:P30321 rdf:resource="floresenrique"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9788466777100">
       <marc:M001>a4375156</marc:M001>
@@ -9731,6 +9874,7 @@
       <m:P30106>Tus libros. Selección</m:P30106>
       <m:P30165>52</m:P30165>
       <m:P30139 rdf:resource="http://www.wikidata.org/entity/q725752/spa/"/>
+      <m:P30321 rdf:resource="floresenrique"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9788467022216">
       <marc:M001>bimo0002154197</marc:M001>
@@ -9912,7 +10056,7 @@
       <m:P30169>21 cm</m:P30169>
       <m:P30001>sin mediación</m:P30001>
       <m:P30106>Clásicos español-inglés = Classics Spanish-English</m:P30106>
-      <m:P30139 rdf:resource="/noidentifier/spa/texto(visual)"/>
+      <m:P30139 rdf:resource="/theadventuresofsherlockholmes/spa/texto(visual)"/>
       <m:P30321 rdf:resource="aznarfernando"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9788467840278">
@@ -9963,6 +10107,7 @@
       <m:P30106>Tus libros selección</m:P30106>
       <m:P30139 rdf:resource="http://viaf.org/viaf/175571309/spa/texto(visual)"/>
       <m:P30321 rdf:resource="floresenrique"/>
+      <m:P30327 rdf:resource="muozpuellesvicente"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9788467909623">
       <marc:M001>a5329631</marc:M001>
@@ -10045,6 +10190,7 @@
       <m:P30106>Cucaña</m:P30106>
       <m:P30165>52</m:P30165>
       <m:P30139 rdf:resource="http://www.wikidata.org/entity/q1151761/spa/texto(visual)"/>
+      <m:P30321 rdf:resource="tha"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9788468213477">
       <marc:M001>a5461793</marc:M001>
@@ -10063,6 +10209,7 @@
       <m:P30165>50</m:P30165>
       <m:P30139 rdf:resource="http://viaf.org/viaf/184892317/spa/texto(visual)"/>
       <m:P30321 rdf:resource="svetlin"/>
+      <w:P10055 rdf:resource="martnrebeca"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9788468217840">
       <marc:M001>a5490034</marc:M001>
@@ -10118,6 +10265,7 @@
       <m:P30165>52</m:P30165>
       <m:P30139 rdf:resource="http://www.wikidata.org/entity/q1150069/spa/texto(visual)"/>
       <m:P30321 rdf:resource="ambrusvictorg"/>
+      <w:P10055 rdf:resource="martnrebeca"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9788468332000">
       <marc:M001>a6103021</marc:M001>
@@ -10211,6 +10359,7 @@
       <m:P30106>Sherlock Holmes / El Canon</m:P30106>
       <m:P30165>8</m:P30165>
       <m:P30139 rdf:resource="http://viaf.org/viaf/1390154501894339210002/spa/texto(visual)"/>
+      <w:P10055 rdf:resource="molinafoixjuanantonio"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9788477028277">
       <marc:M001>a5828148</marc:M001>
@@ -10228,6 +10377,7 @@
       <m:P30106>Sherlock Holmes / El Canon</m:P30106>
       <m:P30165>9</m:P30165>
       <m:P30139 rdf:resource="http://www.wikidata.org/entity/q1129378/spa/texto(visual)"/>
+      <w:P10055 rdf:resource="molinafoixjuanantonio"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9788483087640">
       <marc:M001>a5045471</marc:M001>
@@ -10265,6 +10415,7 @@
       <m:P30106>Letras mayúsculas. Clásicos universales</m:P30106>
       <m:P30139 rdf:resource="http://viaf.org/viaf/175571309/spa/texto(visual)"/>
       <m:P30139 rdf:resource="http://viaf.org/viaf/175571309/spa/"/>
+      <m:P30321 rdf:resource="vicentefernando"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9788484283362">
       <marc:M001>Mimo0002225837</marc:M001>
@@ -10951,6 +11102,7 @@
       <m:P30106>Castalia Prima</m:P30106>
       <m:P30165>60</m:P30165>
       <m:P30139 rdf:resource="http://viaf.org/viaf/179061639/spa/"/>
+      <w:P10055 rdf:resource="sanchidrincidconsuelo"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9788497408219">
       <marc:M001>a6391374</marc:M001>
@@ -10969,6 +11121,7 @@
       <m:P30106>Castalia Prima</m:P30106>
       <m:P30165>60</m:P30165>
       <m:P30139 rdf:resource="http://viaf.org/viaf/179061639/spa/texto(visual)"/>
+      <w:P10055 rdf:resource="sanchidrincidconsuelo"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9788497637954">
       <marc:M001>a4742269</marc:M001>
@@ -11157,6 +11310,7 @@
       <m:P30106>Clásicos Algar joven</m:P30106>
       <m:P30165>37</m:P30165>
       <m:P30139 rdf:resource="http://viaf.org/viaf/179061639/spa/"/>
+      <m:P30327 rdf:resource="muozpuellesvicente"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9788498677379">
       <marc:M001>a4686101</marc:M001>
@@ -11306,6 +11460,7 @@
       <m:P30106>Colección Aniversario</m:P30106>
       <m:P30106>Narrativa</m:P30106>
       <m:P30139 rdf:resource="http://viaf.org/viaf/1390154501894339210002/spa/texto(visual)"/>
+      <w:P10055 rdf:resource="ingbergpablo"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9789500372558">
       <marc:M001>a5737169</marc:M001>
@@ -11324,6 +11479,7 @@
       <m:P30106>Colección Aniversario Losada</m:P30106>
       <m:P30165>189</m:P30165>
       <m:P30139 rdf:resource="http://www.wikidata.org/entity/q1129378/spa/texto(visual)"/>
+      <w:P10055 rdf:resource="ingbergpablo"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9789500372992">
       <marc:M001>a6033630</marc:M001>

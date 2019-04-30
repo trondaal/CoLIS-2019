@@ -365,7 +365,7 @@
       <marc:subfield code="a">Molina Foix, Juan Antonio</marc:subfield>
       <marc:subfield code="e">editor literario</marc:subfield>
       <marc:subfield code="e">traductor</marc:subfield>
-      <marc:subfield code="4">edt </marc:subfield>
+      <marc:subfield code="4">edt</marc:subfield>
       <marc:subfield code="4">trl</marc:subfield>
       <marc:subfield code="1p">molinafoixjuanantonio</marc:subfield>
     </marc:datafield>
@@ -1163,7 +1163,7 @@
       <marc:subfield code="a">Ingberg, Pablo</marc:subfield>
       <marc:subfield code="e">traductor</marc:subfield>
       <marc:subfield code="e">editor literario</marc:subfield>
-      <marc:subfield code="4">trl </marc:subfield>
+      <marc:subfield code="4">trl</marc:subfield>
       <marc:subfield code="4">edt</marc:subfield>
       <marc:subfield code="1p">ingbergpablo</marc:subfield>
     </marc:datafield>
@@ -1846,7 +1846,7 @@
       <marc:subfield code="a">Vicente, Fernando</marc:subfield>
       <marc:subfield code="d">1963-</marc:subfield>
       <marc:subfield code="1p">vicentefernando</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">ill</marc:subfield></marc:datafield>
   </marc:record>
   <marc:record source="doyle.bne.national.library.xml">
     <marc:leader>01348nam a22003495b 4500</marc:leader>
@@ -2340,7 +2340,7 @@
       <marc:subfield code="a">Flores, Enrique</marc:subfield>
       <marc:subfield code="d">1967-</marc:subfield>
       <marc:subfield code="1p">floresenrique</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">ill</marc:subfield></marc:datafield>
   </marc:record>
   <marc:record source="doyle.bne.national.library.xml">
     <marc:leader>01175cam a22003377 4500</marc:leader>
@@ -2414,7 +2414,7 @@
       <marc:subfield code="a">Vicente, Fernando</marc:subfield>
       <marc:subfield code="d">1963-</marc:subfield>
       <marc:subfield code="1p">vicentefernando</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">ill</marc:subfield></marc:datafield>
     <marc:datafield tag="700" ind1="1" ind2=" ">
       <marc:subfield code="a">Manero Jiménez, Laura</marc:subfield>
       <marc:subfield code="1p">manerojimnezlaura</marc:subfield>
@@ -2889,7 +2889,7 @@
       <marc:subfield code="a">Garofalo, Gianluca</marc:subfield>
       <marc:subfield code="d">1968-</marc:subfield>
       <marc:subfield code="1p">garofalogianluca</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">ill</marc:subfield></marc:datafield>
   </marc:record>
   <marc:record source="doyle.bne.national.library.xml">
     <marc:leader>00896nam a22002291 4500</marc:leader>
@@ -3459,7 +3459,7 @@
       <marc:subfield code="a">Muñoz Puelles, Vicente</marc:subfield>
       <marc:subfield code="d">1948-</marc:subfield>
       <marc:subfield code="e">presentación</marc:subfield>
-      <marc:subfield code="4">pre</marc:subfield>
+      <marc:subfield code="4" old="pre">aui</marc:subfield>
       <marc:subfield code="1p">muozpuellesvicente</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="700" ind1="1" ind2=" ">
@@ -3675,7 +3675,7 @@
       <marc:subfield code="a">Delgado Gal, Álvaro</marc:subfield>
       <marc:subfield code="d">1953-</marc:subfield>
       <marc:subfield code="1p">delgadogallvaro</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">trl</marc:subfield></marc:datafield>
   </marc:record>
   <marc:record source="doyle.bne.national.library.xml">
     <marc:leader>03227nam a22004817b 4500</marc:leader>
@@ -3942,7 +3942,7 @@
     <marc:datafield tag="700" ind1="1" ind2=" ">
       <marc:subfield code="a">Mahieu, José Agustín</marc:subfield>
       <marc:subfield code="1p">mahieujosagustn</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">trl</marc:subfield></marc:datafield>
     <marc:datafield tag="700" ind1="1" ind2=" ">
       <marc:subfield code="a">Cuesta-Pamies, Margarita</marc:subfield>
       <marc:subfield code="1p">cuestapamiesmargarita</marc:subfield>
@@ -4255,7 +4255,7 @@
     <marc:datafield tag="700" ind1="1" ind2=" ">
       <marc:subfield code="a">Briggent, Benjamin</marc:subfield>
       <marc:subfield code="1p">http://viaf.org/viaf/305867914</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">trl</marc:subfield></marc:datafield>
   </marc:record>
   <marc:record source="doyle.bne.national.library.xml">
     <marc:leader>01441nam a2200349 b 4500</marc:leader>
@@ -4487,7 +4487,7 @@
       <marc:subfield code="a">Tusquets, Esther</marc:subfield>
       <marc:subfield code="d">1936-2012</marc:subfield>
       <marc:subfield code="1p">http://viaf.org/viaf/84477527</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">trl</marc:subfield></marc:datafield>
     <marc:datafield tag="800" ind1="1" ind2=" ">
       <marc:subfield code="a">Doyle, Arthur Conan</marc:subfield>
       <marc:subfield code="c">Sir</marc:subfield>
@@ -5055,7 +5055,7 @@
       <marc:subfield code="a">Delgado Gal, Álvaro</marc:subfield>
       <marc:subfield code="d">1953-</marc:subfield>
       <marc:subfield code="1p">delgadogallvaro</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">trl</marc:subfield></marc:datafield>
     <marc:datafield tag="830" ind1=" " ind2="3">
       <marc:subfield code="a">El libro de bolsillo.</marc:subfield>
       <marc:subfield code="p">Biblioteca de autor</marc:subfield>
@@ -5345,7 +5345,7 @@
       <marc:subfield code="a">Tusquets, Esther</marc:subfield>
       <marc:subfield code="d">1936-2012</marc:subfield>
       <marc:subfield code="1p">http://viaf.org/viaf/84477527</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">trl</marc:subfield></marc:datafield>
     <marc:datafield tag="830" ind1=" " ind2="0">
       <marc:subfield code="a">Ilustrados (Nórdica Libros)</marc:subfield>
       <marc:subfield code="v">16</marc:subfield>
@@ -5719,7 +5719,7 @@
     <marc:datafield tag="700" ind1="1" ind2=" ">
       <marc:subfield code="a">Campbell, Enrique</marc:subfield>
       <marc:subfield code="1p">campbellenrique</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">trl</marc:subfield></marc:datafield>
     <marc:datafield tag="830" ind1=" " ind2="0">
       <marc:subfield code="a">Colección Cultura (Barcelona)</marc:subfield>
       <marc:subfield code="v">49</marc:subfield>
@@ -5798,11 +5798,11 @@
       <marc:subfield code="a">Tusquets, Esther</marc:subfield>
       <marc:subfield code="d">1936-2012</marc:subfield>
       <marc:subfield code="1p">http://viaf.org/viaf/84477527</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">trl</marc:subfield></marc:datafield>
     <marc:datafield tag="700" ind1="1" ind2=" ">
       <marc:subfield code="a">Busquets, Néstor</marc:subfield>
       <marc:subfield code="1p">busquetsnstor</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">trl</marc:subfield></marc:datafield>
     <marc:datafield tag="800" ind1="1" ind2=" ">
       <marc:subfield code="a">Doyle, Arthur Conan</marc:subfield>
       <marc:subfield code="c">Sir</marc:subfield>
@@ -6145,11 +6145,11 @@
     <marc:datafield tag="700" ind1="1" ind2=" ">
       <marc:subfield code="a">Sánchez Sanz, Ramiro</marc:subfield>
       <marc:subfield code="1p">snchezsanzramiro</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">aut</marc:subfield></marc:datafield>
     <marc:datafield tag="700" ind1="1" ind2=" ">
       <marc:subfield code="a">Paget, Sidney</marc:subfield>
       <marc:subfield code="1p">http://viaf.org/viaf/2555146</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">ill</marc:subfield></marc:datafield>
   </marc:record>
   <marc:record source="doyle.bne.national.library.xml">
     <marc:leader>01142nam a2200337 c 4500</marc:leader>
@@ -6884,7 +6884,7 @@
       <marc:subfield code="a">Delgado Gal, Álvaro</marc:subfield>
       <marc:subfield code="d">1953-</marc:subfield>
       <marc:subfield code="1p">delgadogallvaro</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">trl</marc:subfield></marc:datafield>
   </marc:record>
   <marc:record source="doyle.bne.national.library.xml">
     <marc:leader>01724nam a2200385 b 4500</marc:leader>
@@ -7159,7 +7159,7 @@
     <marc:datafield tag="700" ind1="1" ind2=" ">
       <marc:subfield code="a">Pareja, Alejandro</marc:subfield>
       <marc:subfield code="1p">parejaalejandro</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">trl</marc:subfield></marc:datafield>
   </marc:record>
   <marc:record source="doyle.bne.national.library.xml">
     <marc:leader>01339nam a2200337 b 4500</marc:leader>
@@ -7230,7 +7230,7 @@
     <marc:datafield tag="700" ind1="1" ind2=" ">
       <marc:subfield code="a">Campbell, Enrique</marc:subfield>
       <marc:subfield code="1p">campbellenrique</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">trl</marc:subfield></marc:datafield>
     <marc:datafield tag="830" ind1=" " ind2="0">
       <marc:subfield code="a">Colección Cultura (Barcelona)</marc:subfield>
       <marc:subfield code="v">26</marc:subfield>
@@ -7471,7 +7471,7 @@
     <marc:datafield tag="700" ind1="1" ind2=" ">
       <marc:subfield code="a">Ibeas Delgado, Juan Manuel</marc:subfield>
       <marc:subfield code="1p">http://viaf.org/viaf/170913932</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">trl</marc:subfield></marc:datafield>
   </marc:record>
   <marc:record source="doyle.bne.national.library.xml">
     <marc:leader>01248nam a22003017b 4500</marc:leader>
@@ -7889,7 +7889,7 @@
     <marc:datafield tag="700" ind1="1" ind2=" ">
       <marc:subfield code="a">Molina Foix, Juan Antonio</marc:subfield>
       <marc:subfield code="1p">molinafoixjuanantonio</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">trl</marc:subfield></marc:datafield>
     <marc:datafield tag="800" ind1="1" ind2=" ">
       <marc:subfield code="a">Doyle, Arthur Conan</marc:subfield>
       <marc:subfield code="c">Sir</marc:subfield>
@@ -8746,7 +8746,7 @@
     <marc:datafield tag="700" ind1="1" ind2=" ">
       <marc:subfield code="a">Pujals, María Engracia</marc:subfield>
       <marc:subfield code="1p">pujalsmaraengracia</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">trl</marc:subfield></marc:datafield>
     <marc:datafield tag="700" ind1="1" ind2=" ">
       <marc:subfield code="a">Ibeas Delgado, Juan Manuel</marc:subfield>
       <marc:subfield code="4">trl</marc:subfield>
@@ -9565,7 +9565,7 @@
     <marc:datafield tag="700" ind1="1" ind2=" ">
       <marc:subfield code="a">Molina Foix, Juan Antonio</marc:subfield>
       <marc:subfield code="1p">molinafoixjuanantonio</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">trl</marc:subfield></marc:datafield>
     <marc:datafield tag="800" ind1="1" ind2=" ">
       <marc:subfield code="a">Doyle, Arthur Conan</marc:subfield>
       <marc:subfield code="c">Sir</marc:subfield>
@@ -9653,7 +9653,7 @@
       <marc:subfield code="a">Flores, Enrique</marc:subfield>
       <marc:subfield code="d">1967-</marc:subfield>
       <marc:subfield code="1p">floresenrique</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">ill</marc:subfield></marc:datafield>
   </marc:record>
   <marc:record source="doyle.bne.national.library.xml">
     <marc:leader>01340nam a2200373 c 4500</marc:leader>
@@ -9738,7 +9738,7 @@
       <marc:subfield code="a">Tusquets, Esther</marc:subfield>
       <marc:subfield code="d">1936-2012</marc:subfield>
       <marc:subfield code="1p">http://viaf.org/viaf/84477527</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">trl</marc:subfield></marc:datafield>
     <marc:datafield tag="800" ind1="1" ind2=" ">
       <marc:subfield code="a">Doyle, Arthur Conan</marc:subfield>
       <marc:subfield code="c">Sir</marc:subfield>
@@ -9962,7 +9962,7 @@
     <marc:datafield tag="700" ind1="1" ind2=" ">
       <marc:subfield code="a">Mahieu, José Agustín</marc:subfield>
       <marc:subfield code="1p">mahieujosagustn</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">trl</marc:subfield></marc:datafield>
     <marc:datafield tag="700" ind1="1" ind2=" ">
       <marc:subfield code="a">Cuesta-Pamies, Margarita</marc:subfield>
       <marc:subfield code="1p">cuestapamiesmargarita</marc:subfield>
@@ -10448,7 +10448,7 @@
     <marc:datafield tag="700" ind1="1" ind2=" ">
       <marc:subfield code="a">Sánchez Sanz, Ramiro</marc:subfield>
       <marc:subfield code="1p">snchezsanzramiro</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">aut</marc:subfield></marc:datafield>
     <marc:datafield tag="700" ind1="1" ind2=" ">
       <marc:subfield code="a">Santerbás, Santiago R.</marc:subfield>
       <marc:subfield code="d">1937-</marc:subfield>
@@ -10457,7 +10457,7 @@
     <marc:datafield tag="700" ind1="1" ind2=" ">
       <marc:subfield code="a">Paget, Sidney</marc:subfield>
       <marc:subfield code="1p">http://viaf.org/viaf/2555146</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">ill</marc:subfield></marc:datafield>
   </marc:record>
   <marc:record source="doyle.bne.national.library.xml">
     <marc:leader>01359nam a2200361 c 4500</marc:leader>
@@ -10864,7 +10864,7 @@
     <marc:datafield tag="700" ind1="1" ind2=" ">
       <marc:subfield code="a">Huanqui, Lourdes</marc:subfield>
       <marc:subfield code="1p">huanquilourdes</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">trl</marc:subfield></marc:datafield>
     <marc:datafield tag="830" ind1=" " ind2="0">
       <marc:subfield code="a">Austral (Ed. conmemorativa)</marc:subfield>
     </marc:datafield>
@@ -11194,7 +11194,7 @@
     <marc:datafield tag="700" ind1="1" ind2=" ">
       <marc:subfield code="a">Campbell, Enrique</marc:subfield>
       <marc:subfield code="1p">campbellenrique</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">trl</marc:subfield></marc:datafield>
     <marc:datafield tag="830" ind1=" " ind2="0">
       <marc:subfield code="a">Origen (Edicomunicación)</marc:subfield>
       <marc:subfield code="v">8</marc:subfield>
@@ -11270,7 +11270,7 @@
     <marc:datafield tag="700" ind1="1" ind2=" ">
       <marc:subfield code="a">Pareja, Alejandro</marc:subfield>
       <marc:subfield code="1p">parejaalejandro</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">trl</marc:subfield></marc:datafield>
   </marc:record>
   <marc:record source="doyle.bne.national.library.xml">
     <marc:leader>01084cam a2200325 4500</marc:leader>
@@ -11560,7 +11560,7 @@
       <marc:subfield code="a">Tusquets, Esther</marc:subfield>
       <marc:subfield code="d">1936-2012</marc:subfield>
       <marc:subfield code="1p">http://viaf.org/viaf/84477527</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">trl</marc:subfield></marc:datafield>
     <marc:datafield tag="800" ind1="1" ind2=" ">
       <marc:subfield code="a">Doyle, Arthur Conan</marc:subfield>
       <marc:subfield code="c">Sir</marc:subfield>
@@ -11906,7 +11906,7 @@
     <marc:datafield tag="700" ind1="1" ind2=" ">
       <marc:subfield code="a">Sánchez Sanz, Ramiro</marc:subfield>
       <marc:subfield code="1p">snchezsanzramiro</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">aut</marc:subfield></marc:datafield>
     <marc:datafield tag="700" ind1="1" ind2=" ">
       <marc:subfield code="a">Santerbás, Santiago R.</marc:subfield>
       <marc:subfield code="d">1937-</marc:subfield>
@@ -11915,7 +11915,7 @@
     <marc:datafield tag="700" ind1="1" ind2=" ">
       <marc:subfield code="a">Paget, Sidney</marc:subfield>
       <marc:subfield code="1p">http://viaf.org/viaf/2555146</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">ill</marc:subfield></marc:datafield>
   </marc:record>
   <marc:record source="doyle.bne.national.library.xml">
     <marc:leader>01190nam a2200337 4500</marc:leader>
@@ -12187,7 +12187,7 @@
     <marc:datafield tag="700" ind1="1" ind2=" ">
       <marc:subfield code="a">Paget, Sidney</marc:subfield>
       <marc:subfield code="1p">http://viaf.org/viaf/2555146</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">ill</marc:subfield></marc:datafield>
   </marc:record>
   <marc:record source="doyle.bne.national.library.xml">
     <marc:leader>01187cam a2200337 c 4500</marc:leader>
@@ -12489,11 +12489,11 @@
       <marc:subfield code="a">Tusquets, Esther</marc:subfield>
       <marc:subfield code="d">1936-2012</marc:subfield>
       <marc:subfield code="1p">http://viaf.org/viaf/84477527</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">trl</marc:subfield></marc:datafield>
     <marc:datafield tag="700" ind1="1" ind2=" ">
       <marc:subfield code="a">Busquets, Néstor</marc:subfield>
       <marc:subfield code="1p">busquetsnstor</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">trl</marc:subfield></marc:datafield>
   </marc:record>
   <marc:record source="doyle.bne.national.library.xml">
     <marc:leader>01314nam a2200325 i 4500</marc:leader>
@@ -14579,7 +14579,7 @@
     <marc:datafield tag="700" ind1="1" ind2=" ">
       <marc:subfield code="a">Pujals, María Engracia</marc:subfield>
       <marc:subfield code="1p">pujalsmaraengracia</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">trl</marc:subfield></marc:datafield>
     <marc:datafield tag="700" ind1="1" ind2=" ">
       <marc:subfield code="a">Millás, Juan José</marc:subfield>
       <marc:subfield code="d">1946-</marc:subfield>
@@ -14588,7 +14588,7 @@
     <marc:datafield tag="700" ind1="1" ind2=" ">
       <marc:subfield code="a">Paget, Sidney</marc:subfield>
       <marc:subfield code="1p">http://viaf.org/viaf/2555146</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">ill</marc:subfield></marc:datafield>
   </marc:record>
   <marc:record source="doyle.bne.national.library.xml">
     <marc:leader>01028nam a2200289 b 4500</marc:leader>
@@ -14816,7 +14816,7 @@
       <marc:subfield code="c">Sir</marc:subfield>
       <marc:subfield code="d">1859-1930</marc:subfield>
       <marc:subfield code="1p">http://viaf.org/viaf/65283845</marc:subfield>
-      <marc:subfield code="a">Beyond the City</marc:subfield>
+      <marc:subfield code="t">Beyond the City</marc:subfield>
       <marc:subfield code="1w">http://viaf.org/viaf/181810457</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="740" ind1="0" ind2="2">
@@ -15909,7 +15909,7 @@
     <marc:datafield tag="700" ind1="1" ind2=" ">
       <marc:subfield code="a">Pareja, Alejandro</marc:subfield>
       <marc:subfield code="1p">parejaalejandro</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">trl</marc:subfield></marc:datafield>
   </marc:record>
   <marc:record source="doyle.bne.national.library.xml">
     <marc:leader>01100nam a2200325 c 4500</marc:leader>
@@ -16204,7 +16204,7 @@
       <marc:subfield code="a">Flores, Enrique</marc:subfield>
       <marc:subfield code="d">1967-</marc:subfield>
       <marc:subfield code="1p">floresenrique</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">ill</marc:subfield></marc:datafield>
   </marc:record>
   <marc:record source="doyle.bne.national.library.xml">
     <marc:leader>01972nam a2200409 b 4500</marc:leader>
@@ -16998,12 +16998,12 @@
       <marc:subfield code="a">Tha</marc:subfield>
       <marc:subfield code="d">1956-</marc:subfield>
       <marc:subfield code="1p">tha</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">ill</marc:subfield></marc:datafield>
     <marc:datafield tag="700" ind1="1" ind2=" ">
       <marc:subfield code="a">Muñoz, Adolfo</marc:subfield>
       <marc:subfield code="d">1964-</marc:subfield>
       <marc:subfield code="1p">muozadolfo</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">trl</marc:subfield></marc:datafield>
     <marc:datafield tag="700" ind1="1" ind2=" ">
       <marc:subfield code="a">Jiménez Reinaldo, Jesús</marc:subfield>
       <marc:subfield code="d">1962-</marc:subfield>
@@ -17094,7 +17094,7 @@
       <marc:subfield code="a">Pujals, María Engracia</marc:subfield>
       <marc:subfield code="e">tr.</marc:subfield>
       <marc:subfield code="1p">pujalsmaraengracia</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">trl</marc:subfield></marc:datafield>
   </marc:record>
   <marc:record source="doyle.bne.national.library.xml">
     <marc:leader>01352cam a22003737 4500</marc:leader>
@@ -17742,12 +17742,12 @@
       <marc:subfield code="t">The final problem</marc:subfield>
       <marc:subfield code="1p">http://viaf.org/viaf/65283845</marc:subfield>
     </marc:datafield>
-    <marc:datafield tag="100" ind1="1" ind2="2">
+    <marc:datafield tag="700" ind1="1" ind2="2">
       <marc:subfield code="a">Doyle, Arthur Conan</marc:subfield>
       <marc:subfield code="c">Sir</marc:subfield>
       <marc:subfield code="d">1859-1930</marc:subfield>
       <marc:subfield code="1p">http://viaf.org/viaf/65283845</marc:subfield>
-      <marc:subfield code="a">The case of Lady Sannox</marc:subfield>
+      <marc:subfield code="t">The case of Lady Sannox</marc:subfield>
       <marc:subfield code="l">Español-Inglés</marc:subfield>
       <marc:subfield code="1w">http://www.wikidata.org/entity/Q18546597</marc:subfield>
     </marc:datafield>
@@ -19438,7 +19438,7 @@
     <marc:datafield tag="700" ind1="1" ind2=" ">
       <marc:subfield code="a">Mahieu, José Agustín</marc:subfield>
       <marc:subfield code="1p">mahieujosagustn</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">trl</marc:subfield></marc:datafield>
   </marc:record>
   <marc:record source="doyle.bne.national.library.xml">
     <marc:leader>01191nam a22003251i 4500</marc:leader>
@@ -19982,7 +19982,7 @@
     <marc:datafield tag="700" ind1="1" ind2=" ">
       <marc:subfield code="a">Paget, Sidney</marc:subfield>
       <marc:subfield code="1p">http://viaf.org/viaf/2555146</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">ill</marc:subfield></marc:datafield>
   </marc:record>
   <marc:record source="doyle.bne.national.library.xml">
     <marc:leader>01519nam a2200361 4500</marc:leader>
@@ -20053,7 +20053,7 @@
     <marc:datafield tag="700" ind1="1" ind2=" ">
       <marc:subfield code="a">Pareja, Alejandro</marc:subfield>
       <marc:subfield code="1p">parejaalejandro</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">trl</marc:subfield></marc:datafield>
     <marc:datafield tag="830" ind1=" " ind2="0">
       <marc:subfield code="a">Colección Diario hoy</marc:subfield>
       <marc:subfield code="v">3</marc:subfield>
@@ -20624,7 +20624,7 @@
     <marc:datafield tag="700" ind1="1" ind2=" ">
       <marc:subfield code="a">Mahieu, José Agustín</marc:subfield>
       <marc:subfield code="1p">mahieujosagustn</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">trl</marc:subfield></marc:datafield>
     <marc:datafield tag="700" ind1="1" ind2=" ">
       <marc:subfield code="a">Cuesta-Pamies, Margarita</marc:subfield>
       <marc:subfield code="1p">cuestapamiesmargarita</marc:subfield>
@@ -20831,11 +20831,11 @@
       <marc:subfield code="a">Tha</marc:subfield>
       <marc:subfield code="d">1956-</marc:subfield>
       <marc:subfield code="1p">tha</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">ill</marc:subfield></marc:datafield>
     <marc:datafield tag="700" ind1="1" ind2=" ">
       <marc:subfield code="a">Pareja, Alejandro</marc:subfield>
       <marc:subfield code="1p">parejaalejandro</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">trl</marc:subfield></marc:datafield>
   </marc:record>
   <marc:record source="doyle.bne.national.library.xml">
     <marc:leader>01269nam a22003371i 4500</marc:leader>
@@ -20987,7 +20987,7 @@
     <marc:datafield tag="700" ind1="1" ind2=" ">
       <marc:subfield code="a">Molina Foix, Juan Antonio</marc:subfield>
       <marc:subfield code="1p">molinafoixjuanantonio</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">trl</marc:subfield></marc:datafield>
     <marc:datafield tag="800" ind1="1" ind2=" ">
       <marc:subfield code="a">Doyle, Arthur Conan</marc:subfield>
       <marc:subfield code="c">Sir</marc:subfield>
@@ -21458,7 +21458,7 @@
     <marc:datafield tag="700" ind1="1" ind2=" ">
       <marc:subfield code="a">Mahieu, José Agustín</marc:subfield>
       <marc:subfield code="1p">mahieujosagustn</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">trl</marc:subfield></marc:datafield>
     <marc:datafield tag="700" ind1="1" ind2=" ">
       <marc:subfield code="a">Cuesta-Pamies, Margarita</marc:subfield>
       <marc:subfield code="1p">cuestapamiesmargarita</marc:subfield>
@@ -21535,7 +21535,7 @@
     <marc:datafield tag="700" ind1="1" ind2=" ">
       <marc:subfield code="a">Mahieu, José Agustín</marc:subfield>
       <marc:subfield code="1p">mahieujosagustn</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">trl</marc:subfield></marc:datafield>
     <marc:datafield tag="700" ind1="1" ind2=" ">
       <marc:subfield code="a">Cuesta-Pamies, Margarita</marc:subfield>
       <marc:subfield code="1p">cuestapamiesmargarita</marc:subfield>
@@ -22620,7 +22620,7 @@
     <marc:datafield tag="700" ind1="1" ind2=" ">
       <marc:subfield code="a">Huanqui, Lourdes</marc:subfield>
       <marc:subfield code="1p">huanquilourdes</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">trl</marc:subfield></marc:datafield>
     <marc:datafield tag="830" ind1=" " ind2="0">
       <marc:subfield code="a">Colección austral (1987)</marc:subfield>
       <marc:subfield code="v">565</marc:subfield>
@@ -24480,7 +24480,7 @@
       <marc:subfield code="a">Delgado Gal, Álvaro</marc:subfield>
       <marc:subfield code="d">1953-</marc:subfield>
       <marc:subfield code="1p">delgadogallvaro</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">trl</marc:subfield></marc:datafield>
     <marc:datafield tag="700" ind1="1" ind2=" ">
       <marc:subfield code="a">Ibeas Delgado, Juan Manuel</marc:subfield>
       <marc:subfield code="4">trl</marc:subfield>
@@ -25015,7 +25015,7 @@
       <marc:subfield code="a">Tusquets, Esther</marc:subfield>
       <marc:subfield code="d">1936-2012</marc:subfield>
       <marc:subfield code="1p">http://viaf.org/viaf/84477527</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">trl</marc:subfield></marc:datafield>
     <marc:datafield tag="800" ind1="1" ind2=" ">
       <marc:subfield code="a">Doyle, Arthur Conan</marc:subfield>
       <marc:subfield code="c">Sir</marc:subfield>
@@ -25172,7 +25172,7 @@
       <marc:subfield code="a">Flores, Enrique</marc:subfield>
       <marc:subfield code="d">1967-</marc:subfield>
       <marc:subfield code="1p">floresenrique</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">ill</marc:subfield></marc:datafield>
   </marc:record>
   <marc:record source="doyle.bne.national.library.xml">
     <marc:leader>01261nam a2200361 c 4500</marc:leader>
@@ -25334,7 +25334,7 @@
     <marc:datafield tag="700" ind1="1" ind2=" ">
       <marc:subfield code="a">Campbell, Enrique</marc:subfield>
       <marc:subfield code="1p">campbellenrique</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">trl</marc:subfield></marc:datafield>
   </marc:record>
   <marc:record source="doyle.bne.national.library.xml">
     <marc:leader>02119nam a2200433 b 4500</marc:leader>
@@ -25491,7 +25491,7 @@
       <marc:subfield code="a">Delgado Gal, Álvaro</marc:subfield>
       <marc:subfield code="d">1953-</marc:subfield>
       <marc:subfield code="1p">delgadogallvaro</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">trl</marc:subfield></marc:datafield>
     <marc:datafield tag="700" ind1="1" ind2=" ">
       <marc:subfield code="a">Ibeas Delgado, Juan Manuel</marc:subfield>
       <marc:subfield code="4">trl</marc:subfield>
@@ -26702,7 +26702,7 @@
     <marc:datafield tag="700" ind1="1" ind2=" ">
       <marc:subfield code="a">Molina Foix, Juan Antonio</marc:subfield>
       <marc:subfield code="1p">molinafoixjuanantonio</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">trl</marc:subfield></marc:datafield>
     <marc:datafield tag="800" ind1="1" ind2=" ">
       <marc:subfield code="a">Doyle, Arthur Conan</marc:subfield>
       <marc:subfield code="c">Sir</marc:subfield>
@@ -27355,7 +27355,7 @@
     <marc:datafield tag="700" ind1="1" ind2=" ">
       <marc:subfield code="a">Pujals, María Engracia</marc:subfield>
       <marc:subfield code="1p">pujalsmaraengracia</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">trl</marc:subfield></marc:datafield>
     <marc:datafield tag="740" ind1="3" ind2="1">
       <marc:subfield code="a">El rostro amarillo.</marc:subfield>
     </marc:datafield>
@@ -28057,7 +28057,7 @@
     <marc:datafield tag="700" ind1="1" ind2="1">
       <marc:subfield code="a">Mahieu, José Agustín</marc:subfield>
       <marc:subfield code="1p">mahieujosagustn</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">trl</marc:subfield></marc:datafield>
     <marc:datafield tag="700" ind1="1" ind2="1">
       <marc:subfield code="a">Cuesta-Pamies, Margarita</marc:subfield>
       <marc:subfield code="1p">cuestapamiesmargarita</marc:subfield>
@@ -28348,7 +28348,7 @@
     <marc:datafield tag="700" ind1="1" ind2=" ">
       <marc:subfield code="a">Pareja, Alejandro</marc:subfield>
       <marc:subfield code="1p">parejaalejandro</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">trl</marc:subfield></marc:datafield>
   </marc:record>
   <marc:record source="doyle.bne.national.library.xml">
     <marc:leader>02104ngm a2200529 4500</marc:leader>
@@ -29254,7 +29254,7 @@
       <marc:subfield code="a">Flores, Enrique</marc:subfield>
       <marc:subfield code="d">1967-</marc:subfield>
       <marc:subfield code="1p">floresenrique</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">ill</marc:subfield></marc:datafield>
   </marc:record>
   <marc:record source="doyle.bne.national.library.xml">
     <marc:leader>01157nam a2200313 4500</marc:leader>
@@ -29848,7 +29848,7 @@
     <marc:datafield tag="700" ind1="1" ind2="1">
       <marc:subfield code="a">Molina Foix, Juan Antonio</marc:subfield>
       <marc:subfield code="1p">molinafoixjuanantonio</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">trl</marc:subfield></marc:datafield>
     <marc:datafield tag="800" ind1="1" ind2=" ">
       <marc:subfield code="a">Doyle, Arthur Conan</marc:subfield>
       <marc:subfield code="c">Sir</marc:subfield>
@@ -31798,11 +31798,11 @@
     <marc:datafield tag="700" ind1="1" ind2=" ">
       <marc:subfield code="a">Sanchidrián Cid, Consuelo</marc:subfield>
       <marc:subfield code="1p">sanchidrincidconsuelo</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">edt</marc:subfield></marc:datafield>
     <marc:datafield tag="700" ind1="1" ind2=" ">
       <marc:subfield code="a">Borreguero Sanchidrián, Sandra María</marc:subfield>
       <marc:subfield code="1p">borreguerosanchidrinsandramara</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">trl</marc:subfield></marc:datafield>
   </marc:record>
   <marc:record source="doyle.bne.national.library.xml">
     <marc:leader>02099nam a2200421 4500</marc:leader>
@@ -32110,7 +32110,7 @@
     <marc:datafield tag="700" ind1="1" ind2=" ">
       <marc:subfield code="a">Márquez de la Plata, Lucía</marc:subfield>
       <marc:subfield code="1p">mrquezdelaplataluca</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">trl</marc:subfield></marc:datafield>
     <marc:datafield tag="830" ind1=" " ind2="0">
       <marc:subfield code="a">Akal grandes libros</marc:subfield>
     </marc:datafield>
@@ -32728,11 +32728,11 @@
       <marc:subfield code="a">Tusquets, Esther</marc:subfield>
       <marc:subfield code="d">1936-2012</marc:subfield>
       <marc:subfield code="1p">http://viaf.org/viaf/84477527</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">trl</marc:subfield></marc:datafield>
     <marc:datafield tag="700" ind1="1" ind2=" ">
       <marc:subfield code="a">Busquets, Néstor</marc:subfield>
       <marc:subfield code="1p">busquetsnstor</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">trl</marc:subfield></marc:datafield>
     <marc:datafield tag="800" ind1="1" ind2=" ">
       <marc:subfield code="a">Doyle, Arthur Conan</marc:subfield>
       <marc:subfield code="c">Sir</marc:subfield>
@@ -34082,7 +34082,7 @@
     <marc:datafield tag="700" ind1="1" ind2=" ">
       <marc:subfield code="a">Appeceix, Silvana</marc:subfield>
       <marc:subfield code="1p">appeceixsilvana</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">trl</marc:subfield></marc:datafield>
     <marc:datafield tag="830" ind1=" " ind2="0">
       <marc:subfield code="a">Akal grandes libros</marc:subfield>
     </marc:datafield>
@@ -34500,11 +34500,11 @@
       <marc:subfield code="a">Flores, Enrique</marc:subfield>
       <marc:subfield code="d">1967-</marc:subfield>
       <marc:subfield code="1p">floresenrique</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">ill</marc:subfield></marc:datafield>
     <marc:datafield tag="700" ind1="1" ind2=" ">
       <marc:subfield code="a">Sánchez Sanz, Ramiro</marc:subfield>
       <marc:subfield code="1p">snchezsanzramiro</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">aut</marc:subfield></marc:datafield>
   </marc:record>
   <marc:record source="doyle.bne.national.library.xml">
     <marc:leader>01112nam a2200337 c 4500</marc:leader>
@@ -35787,7 +35787,7 @@
     <marc:datafield tag="700" ind1="1" ind2=" ">
       <marc:subfield code="a">Pujals, María Engracia</marc:subfield>
       <marc:subfield code="1p">pujalsmaraengracia</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">trl</marc:subfield></marc:datafield>
   </marc:record>
   <marc:record source="doyle.bne.national.library.xml">
     <marc:leader>01213nam a22003255b 4500</marc:leader>
@@ -35859,7 +35859,7 @@
     <marc:datafield tag="700" ind1="1" ind2=" ">
       <marc:subfield code="a">Pujals, María Engracia</marc:subfield>
       <marc:subfield code="1p">pujalsmaraengracia</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">trl</marc:subfield></marc:datafield>
   </marc:record>
   <marc:record source="doyle.bne.national.library.xml">
     <marc:leader>01097cam a22003257 4500</marc:leader>
@@ -35933,7 +35933,7 @@
       <marc:subfield code="a">Muñoz Puelles, Vicente</marc:subfield>
       <marc:subfield code="d">1948-</marc:subfield>
       <marc:subfield code="1p">muozpuellesvicente</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">aui</marc:subfield></marc:datafield>
   </marc:record>
   <marc:record source="doyle.bne.national.library.xml">
     <marc:leader>01097nam a22003011 4500</marc:leader>
@@ -36135,7 +36135,7 @@
     <marc:datafield tag="700" ind1="1" ind2=" ">
       <marc:subfield code="a">Campbell, Enrique</marc:subfield>
       <marc:subfield code="1p">campbellenrique</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">trl</marc:subfield></marc:datafield>
   </marc:record>
   <marc:record source="doyle.bne.national.library.xml">
     <marc:leader>01400nam a22003371 4500</marc:leader>
@@ -36498,7 +36498,7 @@
     <marc:datafield tag="700" ind1="1" ind2=" ">
       <marc:subfield code="a">Sánchez Sanz, Ramiro</marc:subfield>
       <marc:subfield code="1p">snchezsanzramiro</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">aut</marc:subfield></marc:datafield>
   </marc:record>
   <marc:record source="doyle.bne.national.library.xml">
     <marc:leader>01287nam a22003257c 4500</marc:leader>
@@ -36703,7 +36703,7 @@
     <marc:datafield tag="700" ind1="1" ind2=" ">
       <marc:subfield code="a">Sánchez Sanz, Ramiro</marc:subfield>
       <marc:subfield code="1p">snchezsanzramiro</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">aut</marc:subfield></marc:datafield>
   </marc:record>
   <marc:record source="doyle.bne.national.library.xml">
     <marc:leader>01448nam a2200349 4500</marc:leader>
@@ -36774,7 +36774,7 @@
     <marc:datafield tag="700" ind1="1" ind2=" ">
       <marc:subfield code="a">Sánchez Sanz, Ramiro</marc:subfield>
       <marc:subfield code="1p">snchezsanzramiro</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">aut</marc:subfield></marc:datafield>
   </marc:record>
   <marc:record source="doyle.bne.national.library.xml">
     <marc:leader>01171nam a22003131 4500</marc:leader>
@@ -36842,7 +36842,7 @@
     <marc:datafield tag="700" ind1="1" ind2=" ">
       <marc:subfield code="a">Sánchez Sanz, Ramiro</marc:subfield>
       <marc:subfield code="1p">snchezsanzramiro</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">aut</marc:subfield></marc:datafield>
   </marc:record>
   <marc:record source="doyle.bne.national.library.xml">
     <marc:leader>01184nam a22003131 4500</marc:leader>
@@ -36905,7 +36905,7 @@
     <marc:datafield tag="700" ind1="1" ind2=" ">
       <marc:subfield code="a">Sánchez Sanz, Ramiro</marc:subfield>
       <marc:subfield code="1p">snchezsanzramiro</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">aut</marc:subfield></marc:datafield>
     <marc:datafield tag="700" ind1="1" ind2=" ">
       <marc:subfield code="a">García Pavón, Francisco</marc:subfield>
       <marc:subfield code="d">1919-1989</marc:subfield>
@@ -37227,7 +37227,7 @@
     <marc:datafield tag="700" ind1="1" ind2=" ">
       <marc:subfield code="a">Pareja, Alejandro</marc:subfield>
       <marc:subfield code="1p">parejaalejandro</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">trl</marc:subfield></marc:datafield>
   </marc:record>
   <marc:record source="doyle.bne.national.library.xml">
     <marc:leader>00971nam a22002771 4500</marc:leader>
@@ -37291,7 +37291,7 @@
     <marc:datafield tag="700" ind1="1" ind2=" ">
       <marc:subfield code="a">Sánchez Sanz, Ramiro</marc:subfield>
       <marc:subfield code="1p">snchezsanzramiro</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">aut</marc:subfield></marc:datafield>
   </marc:record>
   <marc:record source="doyle.bne.national.library.xml">
     <marc:leader>01233cam a2200325 4500</marc:leader>
@@ -38142,7 +38142,7 @@
       <marc:subfield code="a">Flores, Enrique</marc:subfield>
       <marc:subfield code="d">1967-</marc:subfield>
       <marc:subfield code="1p">floresenrique</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">ill</marc:subfield></marc:datafield>
   </marc:record>
   <marc:record source="doyle.bne.national.library.xml">
     <marc:leader>01024nam a2200301 b 4500</marc:leader>
@@ -38833,7 +38833,7 @@
     <marc:datafield tag="700" ind1="1" ind2=" ">
       <marc:subfield code="a">Pujals, María Engracia</marc:subfield>
       <marc:subfield code="1p">pujalsmaraengracia</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">trl</marc:subfield></marc:datafield>
     <marc:datafield tag="700" ind1="1" ind2=" ">
       <marc:subfield code="a">Millás, Juan José</marc:subfield>
       <marc:subfield code="d">1946-</marc:subfield>
@@ -38842,7 +38842,7 @@
     <marc:datafield tag="700" ind1="1" ind2=" ">
       <marc:subfield code="a">Paget, Sidney</marc:subfield>
       <marc:subfield code="1p">http://viaf.org/viaf/2555146</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">ill</marc:subfield></marc:datafield>
   </marc:record>
   <marc:record source="doyle.bne.national.library.xml">
     <marc:leader>01356nam a22003497b 4500</marc:leader>
@@ -38984,7 +38984,7 @@
     <marc:datafield tag="700" ind1="1" ind2=" ">
       <marc:subfield code="a">Molina Foix, Juan Antonio</marc:subfield>
       <marc:subfield code="1p">molinafoixjuanantonio</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">trl</marc:subfield></marc:datafield>
     <marc:datafield tag="800" ind1="1" ind2=" ">
       <marc:subfield code="a">Doyle, Arthur Conan</marc:subfield>
       <marc:subfield code="c">Sir</marc:subfield>
@@ -40412,7 +40412,7 @@
     <marc:datafield tag="700" ind1="1" ind2=" ">
       <marc:subfield code="a">Molina Foix, Juan Antonio</marc:subfield>
       <marc:subfield code="1p">molinafoixjuanantonio</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">trl</marc:subfield></marc:datafield>
     <marc:datafield tag="800" ind1="1" ind2=" ">
       <marc:subfield code="a">Doyle, Arthur Conan</marc:subfield>
       <marc:subfield code="c">Sir</marc:subfield>
@@ -40663,7 +40663,7 @@
     <marc:datafield tag="700" ind1="1" ind2=" ">
       <marc:subfield code="a">Molina Foix, Juan Antonio</marc:subfield>
       <marc:subfield code="1p">molinafoixjuanantonio</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">trl</marc:subfield></marc:datafield>
     <marc:datafield tag="800" ind1="1" ind2=" ">
       <marc:subfield code="a">Doyle, Arthur Conan</marc:subfield>
       <marc:subfield code="c">Sir</marc:subfield>
@@ -40756,7 +40756,7 @@
       <marc:subfield code="a">Tusquets, Esther</marc:subfield>
       <marc:subfield code="d">1936-2012</marc:subfield>
       <marc:subfield code="1p">http://viaf.org/viaf/84477527</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">trl</marc:subfield></marc:datafield>
     <marc:datafield tag="800" ind1="1" ind2=" ">
       <marc:subfield code="a">Doyle, Arthur Conan</marc:subfield>
       <marc:subfield code="c">Sir</marc:subfield>
@@ -40925,7 +40925,7 @@
       <marc:subfield code="a">Stevenson, Robert Louis</marc:subfield>
       <marc:subfield code="d">1850-1894</marc:subfield>
       <marc:subfield code="1p">stevensonrobertlouis</marc:subfield>
-      <marc:subfield code="2">Olalla</marc:subfield>
+      <marc:subfield code="t">Olalla</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="700" ind1="1" ind2="2">
       <marc:subfield code="a">Bourdon, Mathilde</marc:subfield>
@@ -41082,12 +41082,12 @@
     <marc:datafield tag="700" ind1="1" ind2=" ">
       <marc:subfield code="a">Pujals, María Engracia</marc:subfield>
       <marc:subfield code="1p">pujalsmaraengracia</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">trl</marc:subfield></marc:datafield>
     <marc:datafield tag="700" ind1="1" ind2=" ">
       <marc:subfield code="a">Flores, Enrique</marc:subfield>
       <marc:subfield code="d">1967-</marc:subfield>
       <marc:subfield code="1p">floresenrique</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">ill</marc:subfield></marc:datafield>
   </marc:record>
   <marc:record source="doyle.bne.national.library.xml">
     <marc:leader>01092nam a2200301 b 4500</marc:leader>
@@ -41291,7 +41291,7 @@
     <marc:datafield tag="700" ind1="1" ind2=" ">
       <marc:subfield code="a">Paget, Sidney</marc:subfield>
       <marc:subfield code="1p">http://viaf.org/viaf/2555146</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">ill</marc:subfield></marc:datafield>
     <marc:datafield tag="700" ind1="1" ind2=" ">
       <marc:subfield code="a">Ibeas Delgado, Juan Manuel</marc:subfield>
       <marc:subfield code="4">trl</marc:subfield>
@@ -41655,7 +41655,7 @@
     <marc:datafield tag="700" ind1="1" ind2=" ">
       <marc:subfield code="a">Pareja, Alejandro</marc:subfield>
       <marc:subfield code="1p">parejaalejandro</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">trl</marc:subfield></marc:datafield>
   </marc:record>
   <marc:record source="doyle.bne.national.library.xml">
     <marc:leader>01662nam a22003857b 4500</marc:leader>
@@ -41731,7 +41731,7 @@
       <marc:subfield code="a">Flores, Enrique</marc:subfield>
       <marc:subfield code="d">1967-</marc:subfield>
       <marc:subfield code="1p">floresenrique</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">ill</marc:subfield></marc:datafield>
   </marc:record>
   <marc:record source="doyle.bne.national.library.xml">
     <marc:leader>00797nam a22002171 4500</marc:leader>
@@ -42049,7 +42049,7 @@
     <marc:datafield tag="700" ind1="1" ind2=" ">
       <marc:subfield code="a">Paget, Sidney</marc:subfield>
       <marc:subfield code="1p">http://viaf.org/viaf/2555146</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">ill</marc:subfield></marc:datafield>
   </marc:record>
   <marc:record source="doyle.bne.national.library.xml">
     <marc:leader>01766nam a2200385 b 4500</marc:leader>
@@ -42198,7 +42198,7 @@
       <marc:subfield code="a">Tusquets, Esther</marc:subfield>
       <marc:subfield code="d">1936-2012</marc:subfield>
       <marc:subfield code="1p">http://viaf.org/viaf/84477527</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">trl</marc:subfield></marc:datafield>
     <marc:datafield tag="800" ind1="1" ind2=" ">
       <marc:subfield code="a">Doyle, Arthur Conan</marc:subfield>
       <marc:subfield code="c">Sir</marc:subfield>
@@ -42418,7 +42418,7 @@
     <marc:datafield tag="700" ind1="1" ind2=" ">
       <marc:subfield code="a">Campbell, Enrique</marc:subfield>
       <marc:subfield code="1p">campbellenrique</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">trl</marc:subfield></marc:datafield>
     <marc:datafield tag="830" ind1=" " ind2="0">
       <marc:subfield code="a">Colección Cultura (Barcelona)</marc:subfield>
       <marc:subfield code="v">71</marc:subfield>
@@ -42659,7 +42659,7 @@
       <marc:subfield code="a">Tusquets, Esther</marc:subfield>
       <marc:subfield code="d">1936-2012</marc:subfield>
       <marc:subfield code="1p">http://viaf.org/viaf/84477527</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">trl</marc:subfield></marc:datafield>
     <marc:datafield tag="800" ind1="1" ind2=" ">
       <marc:subfield code="a">Doyle, Arthur Conan</marc:subfield>
       <marc:subfield code="c">Sir</marc:subfield>
@@ -42836,7 +42836,7 @@
       <marc:subfield code="d">1965-</marc:subfield>
       <marc:subfield code="e">editor literario</marc:subfield>
       <marc:subfield code="e">traductor</marc:subfield>
-      <marc:subfield code="4">edt </marc:subfield>
+      <marc:subfield code="4">edt</marc:subfield>
       <marc:subfield code="4">trl</marc:subfield>
       <marc:subfield code="1p">martnezrodolfo</marc:subfield>
     </marc:datafield>
@@ -43440,7 +43440,7 @@
     <marc:datafield tag="700" ind1="1" ind2=" ">
       <marc:subfield code="a">Mahieu, José Agustín</marc:subfield>
       <marc:subfield code="1p">mahieujosagustn</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">trl</marc:subfield></marc:datafield>
     <marc:datafield tag="700" ind1="1" ind2=" ">
       <marc:subfield code="a">Cuesta-Pamies, Margarita</marc:subfield>
       <marc:subfield code="1p">cuestapamiesmargarita</marc:subfield>
@@ -43678,7 +43678,7 @@
     <marc:datafield tag="700" ind1="1" ind2=" ">
       <marc:subfield code="a">Molina Foix, Juan Antonio</marc:subfield>
       <marc:subfield code="1p">molinafoixjuanantonio</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">trl</marc:subfield></marc:datafield>
     <marc:datafield tag="700" ind1="1" ind2=" ">
       <marc:subfield code="a">Riambau, Esteve</marc:subfield>
       <marc:subfield code="d">1925-1994</marc:subfield>
@@ -44131,7 +44131,7 @@
     <marc:datafield tag="700" ind1="1" ind2=" ">
       <marc:subfield code="a">Paget, Sidney</marc:subfield>
       <marc:subfield code="1p">http://viaf.org/viaf/2555146</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">ill</marc:subfield></marc:datafield>
   </marc:record>
   <marc:record source="doyle.bne.national.library.xml">
     <marc:leader>01816nam a2200409 b 4500</marc:leader>
@@ -44709,7 +44709,7 @@
       <marc:subfield code="a">Richardson, Ian</marc:subfield>
       <marc:subfield code="d">1934-2007</marc:subfield>
       <marc:subfield code="1p">richardsonian</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">act</marc:subfield></marc:datafield>
     <marc:datafield tag="700" ind1="1" ind2=" ">
       <marc:subfield code="a">Healy, David</marc:subfield>
       <marc:subfield code="d">1929-1995</marc:subfield>
@@ -44720,7 +44720,7 @@
       <marc:subfield code="d">1913-1991</marc:subfield>
       <marc:subfield code="1p">waltersthorley</marc:subfield>
     </marc:datafield>
-    <marc:datafield tag="700" ind1="1" ind2="2">
+    <marc:datafield tag="700" ind1="1" ind2=" ">
       <marc:subfield code="a">Doyle, Arthur Conan</marc:subfield>
       <marc:subfield code="c">Sir</marc:subfield>
       <marc:subfield code="d">1859-1930</marc:subfield>
@@ -44813,12 +44813,12 @@
       <marc:subfield code="a">Vicente, Fernando</marc:subfield>
       <marc:subfield code="d">1963-</marc:subfield>
       <marc:subfield code="1p">vicentefernando</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">ill</marc:subfield></marc:datafield>
     <marc:datafield tag="700" ind1="1" ind2=" ">
       <marc:subfield code="a">Tusquets, Esther</marc:subfield>
       <marc:subfield code="d">1936-2012</marc:subfield>
       <marc:subfield code="1p">http://viaf.org/viaf/84477527</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">trl</marc:subfield></marc:datafield>
   </marc:record>
   <marc:record source="doyle.bne.national.library.xml">
     <marc:leader>01304njm a2200349 c 4500</marc:leader>

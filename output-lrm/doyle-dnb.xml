@@ -13,7 +13,6 @@
    <c:C10001 rdf:about="http://viaf.org/viaf/">
       <w:P10002>http://viaf.org/viaf/</w:P10002>
       <w:P10088>Uncle Bernac</w:P10088>
-      <w:P10055 rdf:resource="http://viaf.org/viaf/92881077"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf//ger/text"/>
    </c:C10001>
@@ -54,8 +53,6 @@
       <w:P10088>A Study in Scarlet</w:P10088>
       <w:P10088>The study in scarlet</w:P10088>
       <w:P10088>A study in scarlet</w:P10088>
-      <w:P10055 rdf:resource="http://personid.no/10296"/>
-      <w:P10055 rdf:resource="guthkarlmaria"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10061 rdf:resource="blakesheba"/>
       <w:P10061 rdf:resource="rademacherfalko"/>
@@ -69,8 +66,6 @@
       <w:P10088>The Tragedy of the Korosko</w:P10088>
       <w:P10088>The tragedy of the Korosko</w:P10088>
       <w:P10088>The tragedy of the korosko</w:P10088>
-      <w:P10055 rdf:resource="hillichreinhard"/>
-      <w:P10055 rdf:resource="http://viaf.org/viaf/92881077"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/179668970/ger/text"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/179668970/eng/text"/>
@@ -83,7 +78,6 @@
       <w:P10013 rdf:resource="zimbercorinna"/>
       <w:P10013 rdf:resource="pastewkabastian"/>
       <w:P10053 rdf:resource="albrechthenrik"/>
-      <w:P10055 rdf:resource="nobespatrick"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10064 rdf:resource="audiobuchverlag"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/181625655/eng/text"/>
@@ -96,7 +90,6 @@
    <c:C10001 rdf:about="http://viaf.org/viaf/181810457">
       <w:P10002>http://viaf.org/viaf/181810457</w:P10002>
       <w:P10088>Beyond the city</w:P10088>
-      <w:P10055 rdf:resource="http://viaf.org/viaf/92881077"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/181810457/ger/text"/>
    </c:C10001>
@@ -104,7 +97,6 @@
       <w:P10002>http://viaf.org/viaf/181846531</w:P10002>
       <w:P10088>The speckled band</w:P10088>
       <w:P10088>The adventure of the speckled band</w:P10088>
-      <w:P10055 rdf:resource="degeringklaus"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/181846531/eng/text"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/181846531/eng/"/>
@@ -130,8 +122,6 @@
       <w:P10088>The adventures of Sherlock Holmes</w:P10088>
       <w:P10088>Adventures of Sherlock Holmes</w:P10088>
       <w:P10088>The Adventures of Sherlock Holmes</w:P10088>
-      <w:P10055 rdf:resource="degeringklaus"/>
-      <w:P10055 rdf:resource="http://personid.no/10296"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/186734487/eng/text"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/186734487/ger/gesprocheneswort"/>
@@ -153,10 +143,7 @@
       <w:P10013 rdf:resource="marschallvonbibersteinmatern"/>
       <w:P10019 rdf:resource="http://viaf.org/viaf/65283845/theprofessorchallengerstoriesthelostworld"/>
       <w:P10019 rdf:resource="http://viaf.org/viaf/65283845/theprofessorchallengerstories"/>
-      <w:P10055 rdf:resource="http://viaf.org/viaf/92881077"/>
-      <w:P10055 rdf:resource="guthkarlmaria"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
-      <w:P10061 rdf:resource="albeeaprahamb"/>
       <w:P10064 rdf:resource="audiobuchverlag"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/294145857904223021237/ger/text"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/294145857904223021237/eng/text"/>
@@ -165,7 +152,6 @@
    <c:C10001 rdf:about="http://viaf.org/viaf/308560745">
       <w:P10002>http://viaf.org/viaf/308560745</w:P10002>
       <w:P10088>The great shadow</w:P10088>
-      <w:P10055 rdf:resource="http://viaf.org/viaf/92881077"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/308560745/ger/text"/>
    </c:C10001>
@@ -173,7 +159,6 @@
       <w:P10002>http://viaf.org/viaf/309258340</w:P10002>
       <w:P10088>A Duet, with an Occasional Chorus</w:P10088>
       <w:P10088>A duet with an occasional chorus</w:P10088>
-      <w:P10055 rdf:resource="http://viaf.org/viaf/92881077"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/309258340/eng/text"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/309258340/ger/text"/>
@@ -181,7 +166,6 @@
    <c:C10001 rdf:about="http://viaf.org/viaf/309272292">
       <w:P10002>http://viaf.org/viaf/309272292</w:P10002>
       <w:P10088>The doings of Raffles Haw</w:P10088>
-      <w:P10055 rdf:resource="http://viaf.org/viaf/92881077"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/309272292/ger/text"/>
    </c:C10001>
@@ -196,7 +180,6 @@
    <c:C10001 rdf:about="http://viaf.org/viaf/310211956">
       <w:P10002>http://viaf.org/viaf/310211956</w:P10002>
       <w:P10088>Rodney Stone</w:P10088>
-      <w:P10055 rdf:resource="http://viaf.org/viaf/92881077"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/310211956/ger/text"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/310211956/eng/text"/>
@@ -204,7 +187,6 @@
    <c:C10001 rdf:about="http://viaf.org/viaf/310212942">
       <w:P10002>http://viaf.org/viaf/310212942</w:P10002>
       <w:P10088>Micah Clarke</w:P10088>
-      <w:P10055 rdf:resource="http://viaf.org/viaf/92881077"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/310212942/eng/text"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/310212942/ger/text"/>
@@ -226,7 +208,6 @@
       <w:P10002>http://viaf.org/viaf/3904151051822033530005</w:P10002>
       <w:P10088>The white company</w:P10088>
       <w:P10088>The White Company</w:P10088>
-      <w:P10055 rdf:resource="http://viaf.org/viaf/92881077"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10061 rdf:resource="trotsenkovladislav"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/3904151051822033530005/ger/text"/>
@@ -327,7 +308,6 @@
    <c:C10001 rdf:about="http://www.wikidata.org/entity/q18546597">
       <w:P10002>http://www.wikidata.org/entity/Q18546597</w:P10002>
       <w:P10088>The Case of Lady Sannox</w:P10088>
-      <w:P10055 rdf:resource="http://viaf.org/viaf/92881077"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10078 rdf:resource="http://www.wikidata.org/entity/q18546597/ger/text"/>
    </c:C10001>
@@ -342,7 +322,6 @@
    <c:C10001 rdf:about="http://www.wikidata.org/entity/q1963997">
       <w:P10002>http://www.wikidata.org/entity/Q1963997</w:P10002>
       <w:P10088>Sir Nigel</w:P10088>
-      <w:P10055 rdf:resource="http://viaf.org/viaf/92881077"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10078 rdf:resource="http://www.wikidata.org/entity/q1963997/eng/text"/>
       <w:P10078 rdf:resource="http://www.wikidata.org/entity/q1963997/ger/text"/>
@@ -350,7 +329,6 @@
    <c:C10001 rdf:about="http://www.wikidata.org/entity/q22090538">
       <w:P10002>http://www.wikidata.org/entity/Q22090538</w:P10002>
       <w:P10088>The crime of the Congo</w:P10088>
-      <w:P10055 rdf:resource="http://viaf.org/viaf/92881077"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10078 rdf:resource="http://www.wikidata.org/entity/q22090538/ger/text"/>
    </c:C10001>
@@ -390,7 +368,6 @@
    <c:C10001 rdf:about="http://www.wikidata.org/entity/q2616869">
       <w:P10002>http://www.wikidata.org/entity/Q2616869</w:P10002>
       <w:P10088>The Land of Mist</w:P10088>
-      <w:P10055 rdf:resource="http://viaf.org/viaf/92881077"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10078 rdf:resource="http://www.wikidata.org/entity/q2616869/ger/text"/>
    </c:C10001>
@@ -407,8 +384,6 @@
       <w:P10002>http://www.wikidata.org/entity/Q2660166</w:P10002>
       <w:P10088>The Poison Belt</w:P10088>
       <w:P10088>The poison belt</w:P10088>
-      <w:P10055 rdf:resource="hopperonald"/>
-      <w:P10055 rdf:resource="http://viaf.org/viaf/92881077"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10078 rdf:resource="http://www.wikidata.org/entity/q2660166/ger/text"/>
       <w:P10078 rdf:resource="http://www.wikidata.org/entity/q2660166/eng/text"/>
@@ -451,7 +426,6 @@
       <w:P10002>http://www.wikidata.org/entity/Q3492113</w:P10002>
       <w:P10088>Round the Red Lamp</w:P10088>
       <w:P10088>Round the red lamp</w:P10088>
-      <w:P10055 rdf:resource="http://viaf.org/viaf/92881077"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10078 rdf:resource="http://www.wikidata.org/entity/q3492113/ger/text"/>
    </c:C10001>
@@ -459,7 +433,6 @@
       <w:P10002>http://www.wikidata.org/entity/Q4449924</w:P10002>
       <w:P10088>The Mystery of Cloomber</w:P10088>
       <w:P10088>The mystery of Cloomber</w:P10088>
-      <w:P10055 rdf:resource="http://viaf.org/viaf/92881077"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10078 rdf:resource="http://www.wikidata.org/entity/q4449924/eng/text"/>
       <w:P10078 rdf:resource="http://www.wikidata.org/entity/q4449924/ger/text"/>
@@ -467,7 +440,6 @@
    <c:C10001 rdf:about="http://www.wikidata.org/entity/q4461047">
       <w:P10002>http://www.wikidata.org/entity/Q4461047</w:P10002>
       <w:P10088>The firm of Girdlestone</w:P10088>
-      <w:P10055 rdf:resource="http://viaf.org/viaf/92881077"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10078 rdf:resource="http://www.wikidata.org/entity/q4461047/ger/text"/>
    </c:C10001>
@@ -482,14 +454,12 @@
    <c:C10001 rdf:about="http://www.wikidata.org/entity/q5295444">
       <w:P10002>http://www.wikidata.org/entity/Q5295444</w:P10002>
       <w:P10088>The Refugees</w:P10088>
-      <w:P10055 rdf:resource="http://viaf.org/viaf/92881077"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10078 rdf:resource="http://www.wikidata.org/entity/q5295444/ger/text"/>
    </c:C10001>
    <c:C10001 rdf:about="http://www.wikidata.org/entity/q5295669">
       <w:P10002>http://www.wikidata.org/entity/Q5295669</w:P10002>
       <w:P10088>The parasite</w:P10088>
-      <w:P10055 rdf:resource="http://viaf.org/viaf/92881077"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10078 rdf:resource="http://www.wikidata.org/entity/q5295669/ger/text"/>
    </c:C10001>
@@ -497,7 +467,6 @@
       <w:P10002>http://www.wikidata.org/entity/Q5295849</w:P10002>
       <w:P10088>The Stark Munro Letters</w:P10088>
       <w:P10088>The Stark Munro letters</w:P10088>
-      <w:P10055 rdf:resource="http://viaf.org/viaf/92881077"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10078 rdf:resource="http://www.wikidata.org/entity/q5295849/ger/text"/>
    </c:C10001>
@@ -544,7 +513,8 @@
    <c:C10004 rdf:about="albeeaprahamb">
       <a:P50094>albeeaprahamb</a:P50094>
       <a:P50111>Albee, Apraham B</a:P50111>
-      <a:P50195 rdf:resource="http://viaf.org/viaf/294145857904223021237"/>
+      <a:P50528 rdf:resource="urn:isbn:9783961300907"/>
+      <a:P50528 rdf:resource="urn:isbn:9783961300822"/>
    </c:C10004>
    <c:C10004 rdf:about="albrechthenrik">
       <a:P50094>albrechthenrik</a:P50094>
@@ -632,8 +602,8 @@
       <a:P50094>degeringklaus</a:P50094>
       <a:P50111>Degering, Klaus</a:P50111>
       <a:P50107>1947-</a:P50107>
-      <a:P50189 rdf:resource="http://viaf.org/viaf/181846531"/>
-      <a:P50189 rdf:resource="http://viaf.org/viaf/186734487"/>
+      <a:P50189 rdf:resource="urn:isbn:9783150090039"/>
+      <a:P50189 rdf:resource="urn:isbn:9783150096543"/>
    </c:C10004>
    <c:C10004 rdf:about="dietrichernst">
       <a:P50094>dietrichernst</a:P50094>
@@ -658,6 +628,7 @@
       <a:P50094>eltzvictor</a:P50094>
       <a:P50111>Eltz, Victor</a:P50111>
       <a:P50145 rdf:resource="http://viaf.org/viaf/206144898662550290126/ger/text"/>
+      <a:P50145 rdf:resource="http://viaf.org/viaf//ger/text"/>
    </c:C10004>
    <c:C10004 rdf:about="eltzviktor">
       <a:P50094>eltzviktor</a:P50094>
@@ -717,6 +688,7 @@
       <a:P50094>fritscheeve</a:P50094>
       <a:P50111>Fritsche, Eve</a:P50111>
       <a:P50145 rdf:resource="http://www.wikidata.org/entity/q2616869/ger/text"/>
+      <a:P50145 rdf:resource="http://www.wikidata.org/entity/q1129378/ger/text"/>
    </c:C10004>
    <c:C10004 rdf:about="garbersgerhard">
       <a:P50094>garbersgerhard</a:P50094>
@@ -756,12 +728,17 @@
    <c:C10004 rdf:about="guthkarlmaria">
       <a:P50094>guthkarlmaria</a:P50094>
       <a:P50111>Guth, Karl-Maria</a:P50111>
-      <a:P50189 rdf:resource="http://viaf.org/viaf/294145857904223021237"/>
-      <a:P50189 rdf:resource="http://viaf.org/viaf/179061639"/>
+      <a:P50189 rdf:resource="urn:isbn:9783843059732"/>
+      <a:P50189 rdf:resource="urn:isbn:9783843059855"/>
+      <a:P50189 rdf:resource="urn:isbn:9783843016940"/>
+      <a:P50189 rdf:resource="urn:isbn:9783843066488"/>
+      <a:P50189 rdf:resource="urn:isbn:9783843061926"/>
+      <a:P50189 rdf:resource="urn:isbn:9783843016957"/>
    </c:C10004>
    <c:C10004 rdf:about="hartmannjohannes">
       <a:P50094>hartmannjohannes</a:P50094>
       <a:P50111>Hartmann, Johannes</a:P50111>
+      <a:P50145 rdf:resource="http://viaf.org/viaf/1390154501894339210002/ger/text"/>
       <a:P50145 rdf:resource="http://viaf.org/viaf/174141344/ger/text"/>
    </c:C10004>
    <c:C10004 rdf:about="herlinhans">
@@ -785,7 +762,7 @@
       <a:P50107>1948-</a:P50107>
       <a:P50145 rdf:resource="http://www.wikidata.org/entity/q18546597/ger/text"/>
       <a:P50145 rdf:resource="http://www.wikidata.org/entity/q5295849/ger/text"/>
-      <a:P50189 rdf:resource="http://viaf.org/viaf/179668970"/>
+      <a:P50189 rdf:resource="urn:isbn:9783939518747"/>
    </c:C10004>
    <c:C10004 rdf:about="holtschheike">
       <a:P50094>holtschheike</a:P50094>
@@ -800,13 +777,18 @@
    <c:C10004 rdf:about="hopperonald">
       <a:P50094>hopperonald</a:P50094>
       <a:P50111>Hoppe, Ronald</a:P50111>
-      <a:P50189 rdf:resource="http://www.wikidata.org/entity/q2660166"/>
+      <a:P50189 rdf:resource="urn:isbn:9783739209371"/>
+      <a:P50189 rdf:resource="urn:isbn:9783739282787"/>
    </c:C10004>
    <c:C10004 rdf:about="http://personid.no/10296">
       <a:P50094>http://personid.no/10296</a:P50094>
       <a:P50111>Schulze, Jürgen</a:P50111>
-      <a:P50189 rdf:resource="http://viaf.org/viaf/179061639"/>
-      <a:P50189 rdf:resource="http://viaf.org/viaf/186734487"/>
+      <a:P50189 rdf:resource="urn:isbn:9783954181506"/>
+      <a:P50189 rdf:resource="urn:isbn:9783954180769"/>
+      <a:P50189 rdf:resource="urn:isbn:9783954185719"/>
+      <a:P50189 rdf:resource="urn:isbn:9783954181094"/>
+      <a:P50189 rdf:resource="urn:isbn:9783954181100"/>
+      <a:P50189 rdf:resource="urn:isbn:9783954180752"/>
    </c:C10004>
    <c:C10004 rdf:about="http://personid.no/10374">
       <a:P50094>http://personid.no/10374</a:P50094>
@@ -995,27 +977,27 @@
       <a:P50111>Spittel, Olaf R</a:P50111>
       <a:P50107>1953-</a:P50107>
       <a:P50145 rdf:resource="http://viaf.org/viaf/181810457/ger/text"/>
-      <a:P50189 rdf:resource="http://viaf.org/viaf/294145857904223021237"/>
-      <a:P50189 rdf:resource="http://www.wikidata.org/entity/q18546597"/>
-      <a:P50189 rdf:resource="http://viaf.org/viaf/181810457"/>
-      <a:P50189 rdf:resource="http://www.wikidata.org/entity/q22090538"/>
-      <a:P50189 rdf:resource="http://www.wikidata.org/entity/q5295849"/>
-      <a:P50189 rdf:resource="http://viaf.org/viaf/3904151051822033530005"/>
-      <a:P50189 rdf:resource="http://www.wikidata.org/entity/q3492113"/>
-      <a:P50189 rdf:resource="http://www.wikidata.org/entity/q2616869"/>
-      <a:P50189 rdf:resource="http://www.wikidata.org/entity/q4461047"/>
-      <a:P50189 rdf:resource="http://www.wikidata.org/entity/q5295669"/>
-      <a:P50189 rdf:resource="http://viaf.org/viaf/310211956"/>
-      <a:P50189 rdf:resource="http://www.wikidata.org/entity/q5295444"/>
-      <a:P50189 rdf:resource="http://viaf.org/viaf/310212942"/>
-      <a:P50189 rdf:resource="http://www.wikidata.org/entity/q4449924"/>
-      <a:P50189 rdf:resource="http://viaf.org/viaf/309258340"/>
-      <a:P50189 rdf:resource="http://www.wikidata.org/entity/q1963997"/>
-      <a:P50189 rdf:resource="http://viaf.org/viaf/"/>
-      <a:P50189 rdf:resource="http://www.wikidata.org/entity/q2660166"/>
-      <a:P50189 rdf:resource="http://viaf.org/viaf/309272292"/>
-      <a:P50189 rdf:resource="http://viaf.org/viaf/308560745"/>
-      <a:P50189 rdf:resource="http://viaf.org/viaf/179668970"/>
+      <a:P50189 rdf:resource="urn:isbn:9783980938785"/>
+      <a:P50189 rdf:resource="urn:isbn:9783940597182"/>
+      <a:P50189 rdf:resource="urn:isbn:9783940597908"/>
+      <a:P50189 rdf:resource="urn:isbn:9783940597298"/>
+      <a:P50189 rdf:resource="urn:isbn:9783940597397"/>
+      <a:P50189 rdf:resource="urn:isbn:9783940597878"/>
+      <a:P50189 rdf:resource="urn:isbn:9783940597335"/>
+      <a:P50189 rdf:resource="urn:isbn:9783940597571"/>
+      <a:P50189 rdf:resource="urn:isbn:9783980938778"/>
+      <a:P50189 rdf:resource="urn:isbn:9783980938792"/>
+      <a:P50189 rdf:resource="urn:isbn:9783940597922"/>
+      <a:P50189 rdf:resource="urn:isbn:9783940597076"/>
+      <a:P50189 rdf:resource="urn:isbn:9783940597083"/>
+      <a:P50189 rdf:resource="urn:isbn:9783980938730"/>
+      <a:P50189 rdf:resource="urn:isbn:9783940597090"/>
+      <a:P50189 rdf:resource="urn:isbn:9783940597632"/>
+      <a:P50189 rdf:resource="urn:isbn:9783980938761"/>
+      <a:P50189 rdf:resource="urn:isbn:9783980938754"/>
+      <a:P50189 rdf:resource="urn:isbn:9783940597731"/>
+      <a:P50189 rdf:resource="urn:isbn:9783940597915"/>
+      <a:P50189 rdf:resource="urn:isbn:9783980938747"/>
    </c:C10004>
    <c:C10004 rdf:about="jacobimaragrete">
       <a:P50094>jacobimaragrete</a:P50094>
@@ -1077,6 +1059,7 @@
       <a:P50094>kotthausheinz</a:P50094>
       <a:P50111>Kotthaus, Heinz</a:P50111>
       <a:P50145 rdf:resource="http://viaf.org/viaf/181625655/ger/text"/>
+      <a:P50145 rdf:resource="http://viaf.org/viaf/175571309/ger/text"/>
    </c:C10004>
    <c:C10004 rdf:about="kottirafranz">
       <a:P50094>kottirafranz</a:P50094>
@@ -1118,7 +1101,7 @@
    <c:C10004 rdf:about="nobespatrick">
       <a:P50094>nobespatrick</a:P50094>
       <a:P50111>Nobes, Patrick</a:P50111>
-      <a:P50189 rdf:resource="http://viaf.org/viaf/181625655"/>
+      <a:P50189 rdf:resource="urn:isbn:9780194791748"/>
    </c:C10004>
    <c:C10004 rdf:about="orbanmartin">
       <a:P50094>orbanmartin</a:P50094>
@@ -1137,6 +1120,8 @@
       <a:P50094>pastewkabastian</a:P50094>
       <a:P50111>Pastewka, Bastian</a:P50111>
       <a:P50048 rdf:resource="http://viaf.org/viaf/181625655"/>
+      <a:P50145 rdf:resource="http://viaf.org/viaf/181625655/ger/gesprocheneswort"/>
+      <a:P50145 rdf:resource="http://viaf.org/viaf/181625655/ger/"/>
    </c:C10004>
    <c:C10004 rdf:about="poewechristian">
       <a:P50094>poewechristian</a:P50094>
@@ -1309,6 +1294,7 @@
       <e:P20001>Text</e:P20001>
       <e:P20312>dt.</e:P20312>
       <e:P20312>Uncle Bernac</e:P20312>
+      <e:P20037 rdf:resource="eltzvictor"/>
       <e:P20059 rdf:resource="http://example.org/579672301"/>
       <e:P20059 rdf:resource="http://example.org/579672344"/>
       <e:P20059 rdf:resource="urn:isbn:9783980938761"/>
@@ -1335,6 +1321,7 @@
       <e:P20312>His last Bow</e:P20312>
       <e:P20312>His last bow</e:P20312>
       <e:P20037 rdf:resource="gigerleslie"/>
+      <e:P20037 rdf:resource="hartmannjohannes"/>
       <e:P20037 rdf:resource="http://viaf.org/viaf/66691825"/>
       <e:P20037 rdf:resource="http://viaf.org/viaf/108749734"/>
       <e:P20037 rdf:resource="http://viaf.org/viaf/305118865"/>
@@ -1409,8 +1396,9 @@
       <e:P20312>dt.</e:P20312>
       <e:P20312>The valley of fear</e:P20312>
       <e:P20037 rdf:resource="wolfhans"/>
-      <e:P20037 rdf:resource="eisenhoferhannelore"/>
       <e:P20037 rdf:resource="herzogho"/>
+      <e:P20037 rdf:resource="eisenhoferhannelore"/>
+      <e:P20037 rdf:resource="kotthausheinz"/>
       <e:P20037 rdf:resource="http://viaf.org/viaf/66691825"/>
       <e:P20059 rdf:resource="urn:isbn:9783730994733"/>
       <e:P20059 rdf:resource="urn:isbn:9783440053690"/>
@@ -1460,11 +1448,11 @@
       <e:P20312>dt.</e:P20312>
       <e:P20312>A Study in Scarlet</e:P20312>
       <e:P20312>A study in scarlet</e:P20312>
+      <e:P20037 rdf:resource="schottbeatrice"/>
       <e:P20037 rdf:resource="http://viaf.org/viaf/19783700"/>
       <e:P20037 rdf:resource="http://viaf.org/viaf/76701034"/>
       <e:P20037 rdf:resource="http://viaf.org/viaf/66691825"/>
       <e:P20037 rdf:resource="frenzelsebastian"/>
-      <e:P20037 rdf:resource="schottbeatrice"/>
       <e:P20037 rdf:resource="eisenhoferhannelore"/>
       <e:P20037 rdf:resource="eisenhoferhalimhannelore"/>
       <e:P20059 rdf:resource="http://example.org/450991121"/>
@@ -1559,6 +1547,7 @@
       <e:P20022 rdf:resource="garbersgerhard"/>
       <e:P20022 rdf:resource="jordanpeter"/>
       <e:P20022 rdf:resource="striebeckjochen"/>
+      <e:P20037 rdf:resource="pastewkabastian"/>
       <e:P20037 rdf:resource="http://viaf.org/viaf/19783700"/>
       <e:P20059 rdf:resource="urn:isbn:9783844515947"/>
       <e:P20231 rdf:resource="http://viaf.org/viaf/181625655"/>
@@ -1572,6 +1561,7 @@
       <e:P20022 rdf:resource="striebeckjochen"/>
       <e:P20022 rdf:resource="http://viaf.org/viaf/55039969"/>
       <e:P20022 rdf:resource="holzmannmatthiasernst"/>
+      <e:P20037 rdf:resource="pastewkabastian"/>
       <e:P20037 rdf:resource="http://viaf.org/viaf/19783700"/>
       <e:P20059 rdf:resource="urn:isbn:9783899645064"/>
       <e:P20059 rdf:resource="urn:isbn:9783844515947"/>
@@ -1858,8 +1848,8 @@
    <c:C10006 rdf:about="http://viaf.org/viaf/206144898662550290126/ger/text">
       <e:P20006>ger</e:P20006>
       <e:P20001>Text</e:P20001>
-      <e:P20037 rdf:resource="eltzviktor"/>
       <e:P20037 rdf:resource="eltzvictor"/>
+      <e:P20037 rdf:resource="eltzviktor"/>
       <e:P20059 rdf:resource="urn:isbn:9783738620856"/>
       <e:P20059 rdf:resource="http://example.org/57967231x"/>
       <e:P20059 rdf:resource="http://example.org/579672328"/>
@@ -2080,6 +2070,7 @@
       <e:P20312>The case book of Sherlock Holmes</e:P20312>
       <e:P20037 rdf:resource="http://viaf.org/viaf/66691825"/>
       <e:P20037 rdf:resource="wolfhans"/>
+      <e:P20037 rdf:resource="fritscheeve"/>
       <e:P20059 rdf:resource="urn:isbn:9783596298990"/>
       <e:P20059 rdf:resource="http://example.org/990871452"/>
       <e:P20059 rdf:resource="http://example.org/911188851"/>
@@ -4239,6 +4230,7 @@
       <m:P30002>Band</m:P30002>
       <m:P30106>Oxford Bookworms Library</m:P30106>
       <m:P30139 rdf:resource="http://viaf.org/viaf/181625655/eng/text"/>
+      <w:P10055 rdf:resource="nobespatrick"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9781387268740">
       <marc:M001>1177725010</marc:M001>
@@ -4856,6 +4848,7 @@
       <m:P30165>Nr. 9003 : Fremdsprachentexte</m:P30165>
       <m:P30139 rdf:resource="http://viaf.org/viaf/181846531/eng/text"/>
       <m:P30139 rdf:resource="http://viaf.org/viaf/181846531/ger/text"/>
+      <w:P10055 rdf:resource="degeringklaus"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9783150091708">
       <marc:M001>850032601</marc:M001>
@@ -4886,6 +4879,7 @@
       <m:P30106>Reclams Universal-Bibliothek</m:P30106>
       <m:P30165>Nr. 9654</m:P30165>
       <m:P30139 rdf:resource="http://viaf.org/viaf/186734487/ger/text"/>
+      <w:P10055 rdf:resource="degeringklaus"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9783150217269">
       <marc:M001>984038051</marc:M001>
@@ -6563,6 +6557,7 @@
       <m:P30106>Epilog</m:P30106>
       <m:P30165>5.002</m:P30165>
       <m:P30139 rdf:resource="http://www.wikidata.org/entity/q2660166/ger/text"/>
+      <w:P10055 rdf:resource="hopperonald"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9783739282787">
       <marc:M001>1079139036</marc:M001>
@@ -6577,6 +6572,7 @@
       <m:P30106>Epilog</m:P30106>
       <m:P30165>5.002</m:P30165>
       <m:P30139 rdf:resource="http://www.wikidata.org/entity/q2660166/ger/text"/>
+      <w:P10055 rdf:resource="hopperonald"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9783742402820">
       <marc:M001>1172605890</marc:M001>
@@ -7289,6 +7285,7 @@
       <m:P30001>Computermedien</m:P30001>
       <m:P30002>Online-Ressource</m:P30002>
       <m:P30139 rdf:resource="http://viaf.org/viaf/179061639/ger/text"/>
+      <w:P10055 rdf:resource="guthkarlmaria"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9783843016957">
       <marc:M001>1119392519</marc:M001>
@@ -7302,6 +7299,7 @@
       <m:P30001>Computermedien</m:P30001>
       <m:P30002>Online-Ressource</m:P30002>
       <m:P30139 rdf:resource="http://viaf.org/viaf/179061639/ger/text"/>
+      <w:P10055 rdf:resource="guthkarlmaria"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9783843059732">
       <marc:M001>1118897501</marc:M001>
@@ -7315,6 +7313,7 @@
       <m:P30001>Computermedien</m:P30001>
       <m:P30002>Online-Ressource</m:P30002>
       <m:P30139 rdf:resource="http://viaf.org/viaf/294145857904223021237/ger/text"/>
+      <w:P10055 rdf:resource="guthkarlmaria"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9783843059855">
       <marc:M001>1118897498</marc:M001>
@@ -7328,6 +7327,7 @@
       <m:P30001>Computermedien</m:P30001>
       <m:P30002>Online-Ressource</m:P30002>
       <m:P30139 rdf:resource="http://viaf.org/viaf/294145857904223021237/ger/text"/>
+      <w:P10055 rdf:resource="guthkarlmaria"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9783843061926">
       <marc:M001>1121554296</marc:M001>
@@ -7341,6 +7341,7 @@
       <m:P30001>Computermedien</m:P30001>
       <m:P30002>Online-Ressource</m:P30002>
       <m:P30139 rdf:resource="http://viaf.org/viaf/179061639/ger/text"/>
+      <w:P10055 rdf:resource="guthkarlmaria"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9783843066488">
       <marc:M001>1121553648</marc:M001>
@@ -7354,6 +7355,7 @@
       <m:P30001>Computermedien</m:P30001>
       <m:P30002>Online-Ressource</m:P30002>
       <m:P30139 rdf:resource="http://viaf.org/viaf/294145857904223021237/ger/text"/>
+      <w:P10055 rdf:resource="guthkarlmaria"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9783844509564">
       <marc:M001>1073175235</marc:M001>
@@ -8499,6 +8501,7 @@
       <m:P30002>Band</m:P30002>
       <m:P30106>Edition crime letters</m:P30106>
       <m:P30165>8</m:P30165>
+      <m:P30069 rdf:resource="wittmannmano"/>
       <m:P30139 rdf:resource="http://www.wikidata.org/entity/q1140678/ger/text"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9783936137040">
@@ -8538,6 +8541,7 @@
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
       <m:P30139 rdf:resource="http://viaf.org/viaf/179668970/ger/text"/>
+      <w:P10055 rdf:resource="hillichreinhard"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9783940597076">
       <marc:M001>991546164</marc:M001>
@@ -8552,6 +8556,7 @@
       <m:P30106>Ausgewählte Werke / Arthur Conan Doyle</m:P30106>
       <m:P30165>Bd. 13</m:P30165>
       <m:P30139 rdf:resource="http://www.wikidata.org/entity/q5295444/ger/text"/>
+      <w:P10055 rdf:resource="http://viaf.org/viaf/92881077"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9783940597083">
       <marc:M001>991546210</marc:M001>
@@ -8566,6 +8571,7 @@
       <m:P30106>Ausgewählte Werke / Arthur Conan Doyle</m:P30106>
       <m:P30165>Bd. 14</m:P30165>
       <m:P30139 rdf:resource="http://viaf.org/viaf/310212942/ger/text"/>
+      <w:P10055 rdf:resource="http://viaf.org/viaf/92881077"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9783940597090">
       <marc:M001>991527178</marc:M001>
@@ -8580,6 +8586,7 @@
       <m:P30106>Ausgewählte Werke / Arthur Conan Doyle</m:P30106>
       <m:P30165>Bd. 15</m:P30165>
       <m:P30139 rdf:resource="http://viaf.org/viaf/309258340/ger/text"/>
+      <w:P10055 rdf:resource="http://viaf.org/viaf/92881077"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9783940597182">
       <marc:M001>991816463</marc:M001>
@@ -8594,6 +8601,7 @@
       <m:P30106>Ausgewählte Werke / Arthur Conan Doyle</m:P30106>
       <m:P30165>Bd. 16</m:P30165>
       <m:P30139 rdf:resource="http://www.wikidata.org/entity/q18546597/ger/text"/>
+      <w:P10055 rdf:resource="http://viaf.org/viaf/92881077"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9783940597298">
       <marc:M001>995571708</marc:M001>
@@ -8607,6 +8615,7 @@
       <m:P30106>Ausgewählte Werke / Arthur Conan Doyle</m:P30106>
       <m:P30165>Bd. 27</m:P30165>
       <m:P30139 rdf:resource="http://www.wikidata.org/entity/q22090538/ger/text"/>
+      <w:P10055 rdf:resource="http://viaf.org/viaf/92881077"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9783940597335">
       <marc:M001>1001333756</marc:M001>
@@ -8621,6 +8630,7 @@
       <m:P30106>Ausgewählte Werke / Arthur Conan Doyle</m:P30106>
       <m:P30165>Bd. 30</m:P30165>
       <m:P30139 rdf:resource="http://www.wikidata.org/entity/q3492113/ger/text"/>
+      <w:P10055 rdf:resource="http://viaf.org/viaf/92881077"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9783940597397">
       <marc:M001>1001333675</marc:M001>
@@ -8635,6 +8645,7 @@
       <m:P30106>Ausgewählte Werke / Arthur Conan Doyle</m:P30106>
       <m:P30165>Bd. 31</m:P30165>
       <m:P30139 rdf:resource="http://www.wikidata.org/entity/q5295849/ger/text"/>
+      <w:P10055 rdf:resource="http://viaf.org/viaf/92881077"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9783940597571">
       <marc:M001>1054779813</marc:M001>
@@ -8649,6 +8660,7 @@
       <m:P30106>Ausgewählte Werke / Arthur Conan Doyle</m:P30106>
       <m:P30165>Bd. 36</m:P30165>
       <m:P30139 rdf:resource="http://www.wikidata.org/entity/q2616869/ger/text"/>
+      <w:P10055 rdf:resource="http://viaf.org/viaf/92881077"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9783940597632">
       <marc:M001>1060995891</marc:M001>
@@ -8665,6 +8677,7 @@
       <m:P30106>Ausgewählte Werke / Arthur Conan Doyle</m:P30106>
       <m:P30165>Bd. 38</m:P30165>
       <m:P30139 rdf:resource="http://www.wikidata.org/entity/q1963997/ger/text"/>
+      <w:P10055 rdf:resource="http://viaf.org/viaf/92881077"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9783940597731">
       <marc:M001>1062503317</marc:M001>
@@ -8681,6 +8694,7 @@
       <m:P30106>Ausgewählte Werke / Arthur Conan Doyle</m:P30106>
       <m:P30165>Bd. 39</m:P30165>
       <m:P30139 rdf:resource="http://viaf.org/viaf/309272292/ger/text"/>
+      <w:P10055 rdf:resource="http://viaf.org/viaf/92881077"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9783940597878">
       <marc:M001>1145324096</marc:M001>
@@ -8697,6 +8711,7 @@
       <m:P30106>Ausgewählte Werke / Arthur Conan Doyle</m:P30106>
       <m:P30165>Band 40</m:P30165>
       <m:P30139 rdf:resource="http://viaf.org/viaf/3904151051822033530005/ger/text"/>
+      <w:P10055 rdf:resource="http://viaf.org/viaf/92881077"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9783940597908">
       <marc:M001>1150873515</marc:M001>
@@ -8714,6 +8729,7 @@
       <m:P30106>Ausgewählte Werke / Arthur Conan Doyle</m:P30106>
       <m:P30165>Band 41</m:P30165>
       <m:P30139 rdf:resource="http://viaf.org/viaf/181810457/ger/text"/>
+      <w:P10055 rdf:resource="http://viaf.org/viaf/92881077"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9783940597915">
       <marc:M001>1145323154</marc:M001>
@@ -8729,6 +8745,7 @@
       <m:P30106>Ausgewählte Werke / Arthur Conan Doyle</m:P30106>
       <m:P30165>Band 42</m:P30165>
       <m:P30139 rdf:resource="http://viaf.org/viaf/308560745/ger/text"/>
+      <w:P10055 rdf:resource="http://viaf.org/viaf/92881077"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9783940597922">
       <marc:M001>1078449945</marc:M001>
@@ -8747,6 +8764,7 @@
       <m:P30165>Band 43</m:P30165>
       <m:P30139 rdf:resource="http://viaf.org/viaf/310211956/ger/text"/>
       <m:P30321 rdf:resource="http://viaf.org/viaf/2555146"/>
+      <w:P10055 rdf:resource="http://viaf.org/viaf/92881077"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9783943394153">
       <marc:M001>1032596503</marc:M001>
@@ -8820,6 +8838,7 @@
       <m:P30165>1</m:P30165>
       <m:P30139 rdf:resource="http://viaf.org/viaf/186734487/ger/text"/>
       <m:P30321 rdf:resource="http://viaf.org/viaf/2555146"/>
+      <w:P10055 rdf:resource="http://personid.no/10296"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9783954180769">
       <marc:M001>1021224847</marc:M001>
@@ -8841,6 +8860,7 @@
       <m:P30165>1</m:P30165>
       <m:P30139 rdf:resource="http://viaf.org/viaf/186734487/ger/text"/>
       <m:P30321 rdf:resource="http://viaf.org/viaf/2555146"/>
+      <w:P10055 rdf:resource="http://personid.no/10296"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9783954181094">
       <marc:M001>1135395721</marc:M001>
@@ -8857,6 +8877,7 @@
       <m:P30165>3</m:P30165>
       <m:P30139 rdf:resource="http://viaf.org/viaf/181625655/ger/text"/>
       <m:P30321 rdf:resource="aschenbornhansanton"/>
+      <w:P10055 rdf:resource="http://personid.no/10296"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9783954181100">
       <marc:M001>1135395780</marc:M001>
@@ -8873,6 +8894,7 @@
       <m:P30165>3</m:P30165>
       <m:P30139 rdf:resource="http://viaf.org/viaf/181625655/ger/text"/>
       <m:P30321 rdf:resource="aschenbornhansanton"/>
+      <w:P10055 rdf:resource="http://personid.no/10296"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9783954181506">
       <marc:M001>1028380887</marc:M001>
@@ -8889,6 +8911,7 @@
       <m:P30002>Online-Ressource</m:P30002>
       <m:P30139 rdf:resource="http://viaf.org/viaf/179061639/ger/text"/>
       <m:P30321 rdf:resource="http://viaf.org/viaf/80840676"/>
+      <w:P10055 rdf:resource="http://personid.no/10296"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9783954185719">
       <marc:M001>1091080216</marc:M001>
@@ -8907,6 +8930,7 @@
       <m:P30165>6</m:P30165>
       <m:P30139 rdf:resource="http://viaf.org/viaf/179061639/ger/text"/>
       <m:P30321 rdf:resource="http://viaf.org/viaf/80840676"/>
+      <w:P10055 rdf:resource="http://personid.no/10296"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9783954186044">
       <marc:M001>1135394466</marc:M001>
@@ -9125,6 +9149,7 @@
       <m:P30106>ApeBook Classics</m:P30106>
       <m:P30165>0021</m:P30165>
       <m:P30139 rdf:resource="http://viaf.org/viaf/294145857904223021237/ger/text"/>
+      <m:P30327 rdf:resource="albeeaprahamb"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9783961300907">
       <marc:M001>1139776258</marc:M001>
@@ -9140,6 +9165,7 @@
       <m:P30106>ApeBook Classics</m:P30106>
       <m:P30165>0021</m:P30165>
       <m:P30139 rdf:resource="http://viaf.org/viaf/294145857904223021237/eng/text"/>
+      <m:P30327 rdf:resource="albeeaprahamb"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9783961890644">
       <marc:M001>1178378063</marc:M001>
@@ -9496,6 +9522,7 @@
       <m:P30106>Ausgewählte Werke / Arthur Conan Doyle</m:P30106>
       <m:P30165>Bd. 1</m:P30165>
       <m:P30139 rdf:resource="http://www.wikidata.org/entity/q4449924/ger/text"/>
+      <w:P10055 rdf:resource="http://viaf.org/viaf/92881077"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9783980938747">
       <marc:M001>980750806</marc:M001>
@@ -9510,6 +9537,7 @@
       <m:P30106>Ausgewählte Werke / Arthur Conan Doyle</m:P30106>
       <m:P30165>Bd. 2</m:P30165>
       <m:P30139 rdf:resource="http://viaf.org/viaf/179668970/ger/text"/>
+      <w:P10055 rdf:resource="http://viaf.org/viaf/92881077"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9783980938754">
       <marc:M001>980750776</marc:M001>
@@ -9524,6 +9552,7 @@
       <m:P30106>Ausgewählte Werke / Arthur Conan Doyle</m:P30106>
       <m:P30165>Bd. 3</m:P30165>
       <m:P30139 rdf:resource="http://www.wikidata.org/entity/q2660166/ger/text"/>
+      <w:P10055 rdf:resource="http://viaf.org/viaf/92881077"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9783980938761">
       <marc:M001>98075075X</marc:M001>
@@ -9538,6 +9567,7 @@
       <m:P30106>Ausgewählte Werke / Arthur Conan Doyle</m:P30106>
       <m:P30165>Bd. 4</m:P30165>
       <m:P30139 rdf:resource="http://viaf.org/viaf//ger/text"/>
+      <w:P10055 rdf:resource="http://viaf.org/viaf/92881077"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9783980938778">
       <marc:M001>985582014</marc:M001>
@@ -9554,6 +9584,7 @@
       <m:P30106>Ausgewählte Werke / Arthur Conan Doyle</m:P30106>
       <m:P30165>Bd. 5</m:P30165>
       <m:P30139 rdf:resource="http://www.wikidata.org/entity/q4461047/ger/text"/>
+      <w:P10055 rdf:resource="http://viaf.org/viaf/92881077"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9783980938785">
       <marc:M001>985581972</marc:M001>
@@ -9570,6 +9601,7 @@
       <m:P30106>Ausgewählte Werke / Arthur Conan Doyle</m:P30106>
       <m:P30165>Bd. 6</m:P30165>
       <m:P30139 rdf:resource="http://viaf.org/viaf/294145857904223021237/ger/text"/>
+      <w:P10055 rdf:resource="http://viaf.org/viaf/92881077"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9783980938792">
       <marc:M001>985582006</marc:M001>
@@ -9586,6 +9618,7 @@
       <m:P30106>Ausgewählte Werke / Arthur Conan Doyle</m:P30106>
       <m:P30165>Bd. 7</m:P30165>
       <m:P30139 rdf:resource="http://www.wikidata.org/entity/q5295669/ger/text"/>
+      <w:P10055 rdf:resource="http://viaf.org/viaf/92881077"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9783990457191">
       <marc:M001>115133362X</marc:M001>

@@ -18500,7 +18500,7 @@
             <marc:subfield code="0">(DE-101)105694827</marc:subfield>
             <marc:subfield code="a">Stiehl, Hermann</marc:subfield>
             <marc:subfield code="e">Mitwirkender</marc:subfield>
-            <marc:subfield code="4">ctb</marc:subfield>
+            <marc:subfield code="4" old="ctb">trl</marc:subfield>
             <marc:subfield code="1p">stiehlhermann</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="850">
@@ -18971,7 +18971,7 @@
             <marc:subfield code="0">(DE-101)105694827</marc:subfield>
             <marc:subfield code="a">Stiehl, Hermann</marc:subfield>
             <marc:subfield code="e">Mitwirkender</marc:subfield>
-            <marc:subfield code="4">ctb</marc:subfield>
+            <marc:subfield code="4" old="ctb">trl</marc:subfield>
             <marc:subfield code="1p">stiehlhermann</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2="0" tag="830">
@@ -22043,7 +22043,7 @@
             <marc:subfield code="0">(DE-101)105694827</marc:subfield>
             <marc:subfield code="a">Stiehl, Hermann</marc:subfield>
             <marc:subfield code="e">Mitwirkender</marc:subfield>
-            <marc:subfield code="4">ctb</marc:subfield>
+            <marc:subfield code="4" old="ctb">trl</marc:subfield>
             <marc:subfield code="1p">stiehlhermann</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2="0" tag="830">
@@ -26434,7 +26434,7 @@
             <marc:subfield code="0">(DE-101)105694827</marc:subfield>
             <marc:subfield code="a">Stiehl, Hermann</marc:subfield>
             <marc:subfield code="e">Mitwirkender</marc:subfield>
-            <marc:subfield code="4">ctb</marc:subfield>
+            <marc:subfield code="4" old="ctb">trl</marc:subfield>
             <marc:subfield code="1p">stiehlhermann</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2="0" tag="830">

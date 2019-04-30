@@ -214,7 +214,7 @@
                      </xsl:if>
                   </xsl:copy>
                </xsl:for-each>
-               <xsl:if test="$relmap/rels/rel[$this_subfield = k and domain='Original bf:Work']">
+               <xsl:if test="$relmap/rels/rel[$this_subfield = k and domain=('Original bf:Work', 'bf:Work')]">
                   <xsl:for-each select="$record/node()[@tag=('130','240')][*:subfield/@code = 'l']">
                      <xsl:variable name="target_template_name"
                                    select="'MARC21-130240-Bibframe-Work-Original'"/>
@@ -251,7 +251,7 @@
                      </frbrizer:relationship>
                   </xsl:for-each>
                </xsl:if>
-               <xsl:if test="$relmap/rels/rel[$this_subfield = k and domain='bf:Work']">
+               <xsl:if test="$relmap/rels/rel[$this_subfield = k and domain=('Original bf:Work', 'bf:Work')]">
                   <xsl:for-each select="$record/node()[@tag=('245')]">
                      <xsl:variable name="target_template_name" select="'MARC21-245-Bibframe-Work'"/>
                      <xsl:variable name="target_tag_value" select="'245'"/>
@@ -4333,12 +4333,10 @@
             <rels>
                 <rel>
                     <k>aut</k>
-                    <k>aui</k>
-                    <k>aft</k>
-                    <k>wpr</k>
                     <forward>http://rdaregistry.info/Elements/w/P10061</forward>
                     <reverse>http://rdaregistry.info/Elements/a/P50195</reverse>
                     <domain>Original bf:Work</domain>
+                    <domain>bf:Work</domain>
                     <domain>Work</domain>
                     <range>Person</range>
                 </rel>
@@ -4361,9 +4359,9 @@
                     <range>Person</range>
                 </rel>
                 <rel>
+                    <k>http://rdaregistry.info/Elements/m/contributorAgentOfStillImage.en</k>
                     <k>ill</k>
                     <k>art</k>
-                    <k>http://rdaregistry.info/Elements/m/contributorAgentOfStillImage.en</k>
                     <forward>http://rdaregistry.info/Elements/m/P30321</forward>
                     <reverse>http://rdaregistry.info/Elements/a/P50469</reverse>
                     <domain>bf:Work</domain>
@@ -4371,12 +4369,12 @@
                     <range>Person</range>
                 </rel>
                 <rel>
-                    <k>edt</k>
                     <k>http://rdaregistry.info/Elements/w/compilerAgent.en</k>
+                    <k>edt</k>
                     <forward>http://rdaregistry.info/Elements/w/P10055</forward>
                     <reverse>http://rdaregistry.info/Elements/a/P50189</reverse>
                     <domain>bf:Work</domain>
-                    <domain>Work</domain>
+                    <domain>Manifestation</domain>
                     <range>Person</range>
                 </rel>
                 <rel>
@@ -4407,8 +4405,8 @@
                     <range>Person</range>
                 </rel>
                 <rel>
-                    <k>pbl</k>
                     <k>http://rdaregistry.info/Elements/m/publisherAgent.en</k>
+                    <k>pbl</k>
                     <forward>http://rdaregistry.info/Elements/m/P30083</forward>
                     <reverse>http://rdaregistry.info/Elements/a/P50203</reverse>
                     <domain>bf:Instance</domain>
@@ -4416,9 +4414,9 @@
                     <range>Person</range>
                 </rel>
                 <rel>
+                    <forward>http://rdaregistry.info/Elements/w/creatorAgentOfWork.en</forward>
                     <k>cre</k>
                     <k>http://rdaregistry.info/Elements/w/P10065</k>
-                    <forward>http://rdaregistry.info/Elements/w/creatorAgentOfWork.en</forward>
                     <reverse>http://rdaregistry.info/Elements/a/P50204</reverse>
                     <domain>Original bf:Work</domain>
                     <domain>bf:Work</domain>
@@ -4433,8 +4431,8 @@
                     <range>Person</range>
                 </rel>
                 <rel>
-                    <k>aus</k>
                     <k>http://rdaregistry.info/Elements/w/screenwriterAgent.en</k>
+                    <k>aus</k>
                     <forward>http://rdaregistry.info/Elements/w/P10203</forward>
                     <reverse>http://rdaregistry.info/Elements/a/P50223</reverse>
                     <domain>Original bf:Work</domain>
@@ -4442,9 +4440,9 @@
                     <domain>Work</domain>
                     <range>Person</range>
                 </rel>
-                <rel count="25">
-                    <k>drt</k>
+                <rel>
                     <k>http://rdaregistry.info/Elements/w/filmDirectorAgent.en</k>
+                    <k>drt</k>
                     <forward>http://rdaregistry.info/Elements/w/P10013</forward>
                     <reverse>http://rdaregistry.info/Elements/a/P50048</reverse>
                     <domain>Original bf:Work</domain>
@@ -4452,17 +4450,29 @@
                     <domain>Work</domain>
                     <range>Person</range>
                 </rel>
-                <rel count="25">
+                <rel>
+                    <k>http://rdaregistry.info/Elements/m/contributorAgentToAggregate.en</k>
+                    <k>aui</k>
+                    <k>aft</k>
+                    <k>wpr</k>
+                    <forward>http://rdaregistry.info/Elements/m/P30327</forward>
+                    <reverse>http://rdaregistry.info/Elements/a/P50528</reverse>
+                    <domain>bf:Work</domain>
+                    <domain>Manifestation</domain>
+                    <range>Person</range>
+                </rel>   
+                <rel>
+                    <k>http://rdaregistry.info/Elements/a/bookDesignerAgentOf.en</k>
                     <k>bkd</k>
-                    <forward>paste</forward>
+                    <forward>http://rdaregistry.info/Elements/m/P30069</forward>
                     <reverse>http://rdaregistry.info/Elements/a/P50170</reverse>
                     <domain>bf:Work</domain>
                     <domain>Manifestation</domain>
                     <range>Person</range>
                 </rel>
-                <rel count="22">
-                    <k>pro</k>
+                <rel>
                     <k>http://rdaregistry.info/Elements/w/producerAgent.en</k>
+                    <k>pro</k>
                     <forward>http://rdaregistry.info/Elements/w/P10064</forward>
                     <reverse>http://rdaregistry.info/Elements/a/P50213</reverse>
                     <domain>Original bf:Work</domain>
@@ -4470,7 +4480,7 @@
                     <domain>Work</domain>
                     <range>Person</range>
                 </rel>
-                <rel count="21">
+                <rel>
                     <k>cmp</k>
                     <k>http://rdaregistry.info/Elements/w/composerAgentOfWork.en</k>
                     <forward>http://rdaregistry.info/Elements/w/P10053</forward>
@@ -4480,14 +4490,14 @@
                     <domain>Work</domain>
                     <range>Person</range>
                 </rel>
-                <rel count="12">
+                <rel>
                     <k>http://rdaregistry.info/Elements/w/dramatizationOfWork.en</k>
                     <forward>http://rdaregistry.info/Elements/w/P10127</forward>
                     <reverse>http://rdaregistry.info/Elements/w/P10016</reverse>
                     <domain>Work</domain>
                     <range>Person</range>
                 </rel>
-                <rel count="11">
+                <rel>
                     <k>pht</k>
                     <k>http://rdaregistry.info/Elements/w/directorAgentOfPhotography.en</k>
                     <forward>http://rdaregistry.info/Elements/w/P10068</forward>
@@ -4497,14 +4507,14 @@
                     <domain>Work</domain>
                     <range>Person</range>
                 </rel>
-                <rel count="10">
+                <rel>
                     <k>http://rdaregistry.info/Elements/w/guideToWork.en</k>
                     <forward>http://rdaregistry.info/Elements/w/P10150</forward>
                     <reverse>http://rdaregistry.info/Elements/w/P10124</reverse>
                     <domain>Work</domain>
                     <range>Person</range>
                 </rel>
-                <rel count="7">
+                <rel>
                     <k>adp</k>
                     <k>http://rdaregistry.info/Elements/e/reviserAgent.en</k>
                     <forward>http://rdaregistry.info/Elements/e/P20327</forward>
@@ -4513,42 +4523,42 @@
                     <domain>Work</domain>
                     <range>Person</range>
                 </rel>
-                <rel count="6">
+                <rel>
                     <k>http://rdaregistry.info/Elements/w/commentaryOnWork.en</k>
                     <forward>http://rdaregistry.info/Elements/w/P10187</forward>
                     <reverse>http://rdaregistry.info/Elements/w/P10116</reverse>
                     <domain>Work</domain>
                     <range>Work</range>
                 </rel>
-                <rel count="5">
+                <rel>
                     <k>http://rdaregistry.info/Elements/w/basedOnWork.en</k>
                     <forward>http://rdaregistry.info/Elements/w/P10190</forward>
                     <reverse>http://rdaregistry.info/Elements/w/P10148</reverse>
                     <domain>Work</domain>
                     <range>Work</range>
                 </rel>
-                <rel count="5">
+                <rel>
                     <k>http://rdaregistry.info/Elements/w/critiqueOfWork.en</k>
                     <forward>http://rdaregistry.info/Elements/w/P10182</forward>
                     <reverse>http://rdaregistry.info/Elements/w/P10115</reverse>
                     <domain>Work</domain>
                     <range>Work</range>
                 </rel>
-                <rel count="5">
+                <rel>
                     <k>http://rdaregistry.info/Elements/w/inspiredBy.en</k>
                     <forward>http://rdaregistry.info/Elements/w/P10290</forward>
                     <reverse>http://rdaregistry.info/Elements/w/P10291</reverse>
                     <domain>Work</domain>
                     <range>Work</range>
                 </rel>
-                <rel count="5">
+                <rel>
                     <k>http://rdaregistry.info/Elements/w/partOfWork.en</k>
                     <forward>http://rdaregistry.info/Elements/w/P10019</forward>
                     <reverse>http://rdaregistry.info/Elements/w/P10147</reverse>
                     <domain>Work</domain>
                     <range>Work</range>
                 </rel>
-                <rel count="2">
+                <rel>
                     <k>abr</k>
                     <k>abridger</k>
                     <k>http://rdaregistry.info/Elements/e/abridgerAgent.en</k>

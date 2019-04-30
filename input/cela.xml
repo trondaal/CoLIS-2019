@@ -6218,6 +6218,10 @@
             <marc:subfield code="a">1</marc:subfield>
             <marc:subfield code="2">VD</marc:subfield>
         </marc:datafield>
+        <marc:datafield tag="130" ind1=" " ind2=" ">
+            <marc:subfield code="a">La Colmena</marc:subfield>
+            <marc:subfield code="1w">https://www.imdb.com/title/tt0083743/</marc:subfield>
+        </marc:datafield>
         <marc:datafield tag="245" ind1="0" ind2="3">
             <marc:subfield code="a">La colmena</marc:subfield>
             <marc:subfield code="h">[Videograbación]</marc:subfield>
@@ -6378,6 +6382,10 @@
             <marc:subfield code="a">1</marc:subfield>
             <marc:subfield code="2">VD</marc:subfield>
         </marc:datafield>
+        <marc:datafield tag="130" ind1=" " ind2=" ">
+            <marc:subfield code="a">La Colmena</marc:subfield>
+            <marc:subfield code="1w">https://www.imdb.com/title/tt0083743/</marc:subfield>
+        </marc:datafield>
         <marc:datafield tag="245" ind1="0" ind2="3">
             <marc:subfield code="a">La colmena</marc:subfield>
             <marc:subfield code="h">[Videograbación]</marc:subfield>
@@ -6441,7 +6449,7 @@
             <marc:subfield code="a">Camus, Mario</marc:subfield>
             <marc:subfield code="d">1935-</marc:subfield>
             <marc:subfield code="1p">camusmario</marc:subfield>
-        </marc:datafield>
+        <marc:subfield code="4" old="empty">drt</marc:subfield></marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Cela, Camilo José</marc:subfield>
             <marc:subfield code="d">1916-2002</marc:subfield>
@@ -6454,57 +6462,57 @@
             <marc:subfield code="a">Dibildos, José Luis</marc:subfield>
             <marc:subfield code="d">1929-2002</marc:subfield>
             <marc:subfield code="1p">dibildosjosluis</marc:subfield>
-        </marc:datafield>
+        <marc:subfield code="4" old="empty">pro</marc:subfield></marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Burman, Hans</marc:subfield>
             <marc:subfield code="d">1937-</marc:subfield>
             <marc:subfield code="1p">burmanhans</marc:subfield>
-        </marc:datafield>
+        <marc:subfield code="4" old="empty">drt</marc:subfield></marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">García Abril, Antón</marc:subfield>
             <marc:subfield code="d">1933-</marc:subfield>
             <marc:subfield code="1p">garcaabrilantn</marc:subfield>
-        </marc:datafield>
+        <marc:subfield code="4" old="empty">cmp</marc:subfield></marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Abril, Victoria</marc:subfield>
             <marc:subfield code="d">1959-</marc:subfield>
             <marc:subfield code="1p">abrilvictoria</marc:subfield>
-        </marc:datafield>
+        <marc:subfield code="4" old="empty">act</marc:subfield></marc:datafield>
         <marc:datafield tag="700" ind1="0" ind2=" ">
             <marc:subfield code="a">Ana Belén</marc:subfield>
             <marc:subfield code="d">1951-</marc:subfield>
             <marc:subfield code="1p">anabeln</marc:subfield>
-        </marc:datafield>
+        <marc:subfield code="4" old="empty">act</marc:subfield></marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Algora, Francisco</marc:subfield>
             <marc:subfield code="d">1948-2016</marc:subfield>
             <marc:subfield code="1p">http://viaf.org/viaf/56299308</marc:subfield>
-        </marc:datafield>
+        <marc:subfield code="4" old="empty">act</marc:subfield></marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Rabal, Francisco</marc:subfield>
             <marc:subfield code="d">1926-2001</marc:subfield>
             <marc:subfield code="1p">rabalfrancisco</marc:subfield>
-        </marc:datafield>
+        <marc:subfield code="4" old="empty">act</marc:subfield></marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Pardo, Mario</marc:subfield>
             <marc:subfield code="d">1944-</marc:subfield>
             <marc:subfield code="1p">pardomario</marc:subfield>
-        </marc:datafield>
+        <marc:subfield code="4" old="empty">act</marc:subfield></marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Faltoyano, Fiorella</marc:subfield>
             <marc:subfield code="d">1950-</marc:subfield>
             <marc:subfield code="1p">faltoyanofiorella</marc:subfield>
-        </marc:datafield>
+        <marc:subfield code="4" old="empty">act</marc:subfield></marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Bódalo, José</marc:subfield>
             <marc:subfield code="d">1916-1985</marc:subfield>
             <marc:subfield code="1p">bdalojos</marc:subfield>
-        </marc:datafield>
+        <marc:subfield code="4" old="empty">act</marc:subfield></marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">López, Charo</marc:subfield>
             <marc:subfield code="d">1943-</marc:subfield>
             <marc:subfield code="1p">lpezcharo</marc:subfield>
-        </marc:datafield>
+        <marc:subfield code="4" old="empty">act</marc:subfield></marc:datafield>
         <marc:datafield tag="711" ind1="2" ind2=" ">
             <marc:subfield code="a">Internationale Filmfestspiele</marc:subfield>
             <marc:subfield code="n">33º</marc:subfield>
@@ -9147,6 +9155,10 @@
             <marc:subfield code="c">SpMaBN</marc:subfield>
             <marc:subfield code="e">rdc</marc:subfield>
         </marc:datafield>
+        <marc:datafield tag="130" ind1=" " ind2=" ">
+            <marc:subfield code="a">La Colmena</marc:subfield>
+            <marc:subfield code="1w">https://www.imdb.com/title/tt0083743/</marc:subfield>
+        </marc:datafield>
         <marc:datafield tag="245" ind1="0" ind2="3">
             <marc:subfield code="a">La colmena</marc:subfield>
             <marc:subfield code="h">[Videograbación]</marc:subfield>
@@ -9218,7 +9230,7 @@
             <marc:subfield code="a">Camus, Mario</marc:subfield>
             <marc:subfield code="d">1935-</marc:subfield>
             <marc:subfield code="1p">camusmario</marc:subfield>
-        </marc:datafield>
+        <marc:subfield code="4" old="empty">drt</marc:subfield></marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Cela, Camilo José</marc:subfield>
             <marc:subfield code="d">1916-2002</marc:subfield>
@@ -9231,17 +9243,17 @@
             <marc:subfield code="a">Dibildos, José Luis</marc:subfield>
             <marc:subfield code="d">1929-2002</marc:subfield>
             <marc:subfield code="1p">dibildosjosluis</marc:subfield>
-        </marc:datafield>
+        <marc:subfield code="4" old="empty">pro</marc:subfield></marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Burman, Hans</marc:subfield>
             <marc:subfield code="d">1937-</marc:subfield>
             <marc:subfield code="1p">burmanhans</marc:subfield>
-        </marc:datafield>
+        <marc:subfield code="4" old="empty">drt</marc:subfield></marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">García Abril, Antón</marc:subfield>
             <marc:subfield code="d">1933-</marc:subfield>
             <marc:subfield code="1p">garcaabrilantn</marc:subfield>
-        </marc:datafield>
+        <marc:subfield code="4" old="empty">cmp</marc:subfield></marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Parra, Julio</marc:subfield>
             <marc:subfield code="1p">parrajulio</marc:subfield>
@@ -9250,42 +9262,42 @@
             <marc:subfield code="a">Abril, Victoria</marc:subfield>
             <marc:subfield code="d">1959-</marc:subfield>
             <marc:subfield code="1p">abrilvictoria</marc:subfield>
-        </marc:datafield>
+        <marc:subfield code="4" old="empty">act</marc:subfield></marc:datafield>
         <marc:datafield tag="700" ind1="0" ind2=" ">
             <marc:subfield code="a">Ana Belén</marc:subfield>
             <marc:subfield code="d">1951-</marc:subfield>
             <marc:subfield code="1p">anabeln</marc:subfield>
-        </marc:datafield>
+        <marc:subfield code="4" old="empty">act</marc:subfield></marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Algora, Francisco</marc:subfield>
             <marc:subfield code="d">1948-2016</marc:subfield>
             <marc:subfield code="1p">http://viaf.org/viaf/56299308</marc:subfield>
-        </marc:datafield>
+        <marc:subfield code="4" old="empty">act</marc:subfield></marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Rabal, Francisco</marc:subfield>
             <marc:subfield code="d">1926-2001</marc:subfield>
             <marc:subfield code="1p">rabalfrancisco</marc:subfield>
-        </marc:datafield>
+        <marc:subfield code="4" old="empty">act</marc:subfield></marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Pardo, Mario</marc:subfield>
             <marc:subfield code="d">1944-</marc:subfield>
             <marc:subfield code="1p">pardomario</marc:subfield>
-        </marc:datafield>
+        <marc:subfield code="4" old="empty">act</marc:subfield></marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Faltoyano, Fiorella</marc:subfield>
             <marc:subfield code="d">1950-</marc:subfield>
             <marc:subfield code="1p">faltoyanofiorella</marc:subfield>
-        </marc:datafield>
+        <marc:subfield code="4" old="empty">act</marc:subfield></marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Bódalo, José</marc:subfield>
             <marc:subfield code="d">1916-1985</marc:subfield>
             <marc:subfield code="1p">bdalojos</marc:subfield>
-        </marc:datafield>
+        <marc:subfield code="4" old="empty">act</marc:subfield></marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">López, Charo</marc:subfield>
             <marc:subfield code="d">1943-</marc:subfield>
             <marc:subfield code="1p">lpezcharo</marc:subfield>
-        </marc:datafield>
+        <marc:subfield code="4" old="empty">act</marc:subfield></marc:datafield>
         <marc:datafield tag="711" ind1="2" ind2=" ">
             <marc:subfield code="a">Internationale Filmfestspiele</marc:subfield>
             <marc:subfield code="n">33º</marc:subfield>
@@ -10328,7 +10340,7 @@
             <marc:subfield code="a">Goñi, Lorenzo</marc:subfield>
             <marc:subfield code="d">1911-1992</marc:subfield>
             <marc:subfield code="1p">goilorenzo</marc:subfield>
-        </marc:datafield>
+        <marc:subfield code="4" old="empty">ill</marc:subfield></marc:datafield>
         <marc:datafield tag="800" ind1="1" ind2=" ">
             <marc:subfield code="a">Cela, Camilo José</marc:subfield>
             <marc:subfield code="d">1916-2002</marc:subfield>
@@ -12070,7 +12082,7 @@
             <marc:subfield code="a">Picasso, Pablo</marc:subfield>
             <marc:subfield code="d">1881-1973</marc:subfield>
             <marc:subfield code="1p">picassopablo</marc:subfield>
-        </marc:datafield>
+        <marc:subfield code="4" old="empty">ill</marc:subfield></marc:datafield>
     </marc:record>
     <marc:record source="1989-BNE-Spain-Camilo-Jose-Cela.xml">
         <marc:leader>01087nam a22002891  4500</marc:leader>
@@ -12265,7 +12277,7 @@
             <marc:subfield code="a">Goñi, Lorenzo</marc:subfield>
             <marc:subfield code="d">1911-1992</marc:subfield>
             <marc:subfield code="1p">goilorenzo</marc:subfield>
-        </marc:datafield>
+        <marc:subfield code="4" old="empty">ill</marc:subfield></marc:datafield>
         <marc:datafield tag="740" ind1="4" ind2="1">
             <marc:subfield code="a">Los Tontos.</marc:subfield>
         </marc:datafield>
@@ -12401,12 +12413,12 @@
             <marc:subfield code="a">Franco, Ricardo</marc:subfield>
             <marc:subfield code="d">1949-1998</marc:subfield>
             <marc:subfield code="1p">francoricardo</marc:subfield>
-        </marc:datafield>
+        <marc:subfield code="4" old="empty">drt</marc:subfield></marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Querejeta, Elías</marc:subfield>
             <marc:subfield code="d">1934-2013</marc:subfield>
             <marc:subfield code="1p">querejetaelas</marc:subfield>
-        </marc:datafield>
+        <marc:subfield code="4" old="empty">pro</marc:subfield></marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Cela, Camilo José</marc:subfield>
             <marc:subfield code="d">1916-2002</marc:subfield>
@@ -12419,31 +12431,31 @@
             <marc:subfield code="a">Martínez Lázaro, Emilio</marc:subfield>
             <marc:subfield code="d">1945-</marc:subfield>
             <marc:subfield code="1p">martnezlzaroemilio</marc:subfield>
-        </marc:datafield>
+        <marc:subfield code="4" old="empty">aus</marc:subfield></marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Cuadrado, Luis</marc:subfield>
             <marc:subfield code="d">1934-1980</marc:subfield>
             <marc:subfield code="1p">cuadradoluis</marc:subfield>
-        </marc:datafield>
+        <marc:subfield code="4" old="empty">drt</marc:subfield></marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Pablo, Luis de</marc:subfield>
             <marc:subfield code="d">1930-</marc:subfield>
             <marc:subfield code="1p">pabloluisde</marc:subfield>
-        </marc:datafield>
+        <marc:subfield code="4" old="empty">cmp</marc:subfield></marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Gómez, José Luis</marc:subfield>
             <marc:subfield code="d">1940-</marc:subfield>
             <marc:subfield code="1p">gmezjosluis</marc:subfield>
-        </marc:datafield>
+        <marc:subfield code="4" old="empty">act</marc:subfield></marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Ojea, Paca</marc:subfield>
             <marc:subfield code="1p">ojeapaca</marc:subfield>
-        </marc:datafield>
+        <marc:subfield code="4" old="empty">act</marc:subfield></marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Alterio, Héctor</marc:subfield>
             <marc:subfield code="d">1929-</marc:subfield>
             <marc:subfield code="1p">http://viaf.org/viaf/70031002</marc:subfield>
-        </marc:datafield>
+        <marc:subfield code="4" old="empty">act</marc:subfield></marc:datafield>
         <marc:datafield tag="711" ind1="2" ind2=" ">
             <marc:subfield code="a">Festival International du Film</marc:subfield>
             <marc:subfield code="n">29º</marc:subfield>
@@ -18962,7 +18974,7 @@
             <marc:subfield code="a">Franco, Ricardo</marc:subfield>
             <marc:subfield code="d">1949-1998</marc:subfield>
             <marc:subfield code="1p">francoricardo</marc:subfield>
-        </marc:datafield>
+        <marc:subfield code="4" old="empty">drt</marc:subfield></marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Cela, Camilo José</marc:subfield>
             <marc:subfield code="d">1916-2002</marc:subfield>
@@ -18975,36 +18987,36 @@
             <marc:subfield code="a">Querejeta, Elías</marc:subfield>
             <marc:subfield code="d">1934-2013</marc:subfield>
             <marc:subfield code="1p">querejetaelas</marc:subfield>
-        </marc:datafield>
+        <marc:subfield code="4" old="empty">pro</marc:subfield></marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2="1">
             <marc:subfield code="a">Martínez Lázaro, Emilio</marc:subfield>
             <marc:subfield code="d">1945-</marc:subfield>
             <marc:subfield code="1p">martnezlzaroemilio</marc:subfield>
-        </marc:datafield>
+        <marc:subfield code="4" old="empty">aus</marc:subfield></marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2="1">
             <marc:subfield code="a">Cuadrado, Luis</marc:subfield>
             <marc:subfield code="d">1934-1980</marc:subfield>
             <marc:subfield code="1p">cuadradoluis</marc:subfield>
-        </marc:datafield>
+        <marc:subfield code="4" old="empty">drt</marc:subfield></marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2="1">
             <marc:subfield code="a">Pablo, Luis de</marc:subfield>
             <marc:subfield code="d">1930-</marc:subfield>
             <marc:subfield code="1p">pabloluisde</marc:subfield>
-        </marc:datafield>
+        <marc:subfield code="4" old="empty">cmp</marc:subfield></marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2="1">
             <marc:subfield code="a">Gómez, José Luis</marc:subfield>
             <marc:subfield code="d">1940-</marc:subfield>
             <marc:subfield code="1p">gmezjosluis</marc:subfield>
-        </marc:datafield>
+        <marc:subfield code="4" old="empty">act</marc:subfield></marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2="1">
             <marc:subfield code="a">Ojea, Paca</marc:subfield>
             <marc:subfield code="1p">ojeapaca</marc:subfield>
-        </marc:datafield>
+        <marc:subfield code="4" old="empty">act</marc:subfield></marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2="1">
             <marc:subfield code="a">Alterio, Héctor</marc:subfield>
             <marc:subfield code="d">1929-</marc:subfield>
             <marc:subfield code="1p">http://viaf.org/viaf/70031002</marc:subfield>
-        </marc:datafield>
+        <marc:subfield code="4" old="empty">act</marc:subfield></marc:datafield>
         <marc:datafield tag="710" ind1="2" ind2="1">
             <marc:subfield code="a">Grupo Koan (Grupo musical)</marc:subfield>
         </marc:datafield>
@@ -20327,7 +20339,7 @@
             <marc:subfield code="a">Urrutia, Jorge</marc:subfield>
             <marc:subfield code="d">1945-</marc:subfield>
             <marc:subfield code="1p">urrutiajorge</marc:subfield>
-        </marc:datafield>
+        <marc:subfield code="4" old="empty">edt</marc:subfield></marc:datafield>
     </marc:record>
     <marc:record source="1989-BNE-Spain-Camilo-Jose-Cela.xml">
         <marc:leader>00895nam a22002771i 4500</marc:leader>
@@ -20716,7 +20728,7 @@
             <marc:subfield code="a">Picasso, Pablo</marc:subfield>
             <marc:subfield code="d">1881-1973</marc:subfield>
             <marc:subfield code="1p">picassopablo</marc:subfield>
-        </marc:datafield>
+        <marc:subfield code="4" old="empty">ill</marc:subfield></marc:datafield>
     </marc:record>
     <marc:record source="1989-BNE-Spain-Camilo-Jose-Cela.xml">
         <marc:leader>01005nam a22002771  4500</marc:leader>
@@ -20776,7 +20788,7 @@
             <marc:subfield code="a">Picasso, Pablo</marc:subfield>
             <marc:subfield code="d">1881-1973</marc:subfield>
             <marc:subfield code="1p">picassopablo</marc:subfield>
-        </marc:datafield>
+        <marc:subfield code="4" old="empty">ill</marc:subfield></marc:datafield>
     </marc:record>
     <marc:record source="1989-BNE-Spain-Camilo-Jose-Cela.xml">
         <marc:leader>01395nam a22003491  4500</marc:leader>
@@ -20842,7 +20854,7 @@
             <marc:subfield code="a">Picasso, Pablo</marc:subfield>
             <marc:subfield code="d">1881-1973</marc:subfield>
             <marc:subfield code="1p">picassopablo</marc:subfield>
-        </marc:datafield>
+        <marc:subfield code="4" old="empty">ill</marc:subfield></marc:datafield>
     </marc:record>
     <marc:record source="1989-BNE-Spain-Camilo-Jose-Cela.xml">
         <marc:leader>01128nam a2200265 b 4500</marc:leader>
@@ -21512,7 +21524,7 @@
             <marc:subfield code="a">Picasso, Pablo</marc:subfield>
             <marc:subfield code="d">1881-1973</marc:subfield>
             <marc:subfield code="1p">picassopablo</marc:subfield>
-        </marc:datafield>
+        <marc:subfield code="4" old="empty">ill</marc:subfield></marc:datafield>
         <marc:datafield tag="830" ind1=" " ind2="0">
             <marc:subfield code="a">Acanto (Espasa Calpe, S.A.)</marc:subfield>
         </marc:datafield>
@@ -21636,12 +21648,12 @@
         <marc:datafield tag="700" ind1="1" ind2="1">
             <marc:subfield code="a">Boudreau, Harold L.</marc:subfield>
             <marc:subfield code="1p">boudreauharoldl</marc:subfield>
-        </marc:datafield>
+        <marc:subfield code="4" old="empty">edt</marc:subfield></marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2="1">
             <marc:subfield code="a">Kronik, John W.</marc:subfield>
             <marc:subfield code="d">1931-2006</marc:subfield>
             <marc:subfield code="1p">kronikjohnw</marc:subfield>
-        </marc:datafield>
+        <marc:subfield code="4" old="empty">edt</marc:subfield></marc:datafield>
     </marc:record>
     <marc:record source="1989-BNE-Spain-Camilo-Jose-Cela.xml">
         <marc:leader>01176nam a22003011  4500</marc:leader>
@@ -21776,7 +21788,7 @@
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Polack, Philip</marc:subfield>
             <marc:subfield code="1p">polackphilip</marc:subfield>
-        </marc:datafield>
+        <marc:subfield code="4" old="empty">edt</marc:subfield></marc:datafield>
     </marc:record>
     <marc:record source="1989-BNE-Spain-Camilo-Jose-Cela.xml">
         <marc:leader>00954nam a22002891  4500</marc:leader>
@@ -21846,7 +21858,7 @@
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Polack, Philip</marc:subfield>
             <marc:subfield code="1p">polackphilip</marc:subfield>
-        </marc:datafield>
+        <marc:subfield code="4" old="empty">edt</marc:subfield></marc:datafield>
     </marc:record>
     <marc:record source="1989-BNE-Spain-Camilo-Jose-Cela.xml">
         <marc:leader>01088nam a22003011  4500</marc:leader>
@@ -22078,12 +22090,12 @@
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Specht, Rainer</marc:subfield>
             <marc:subfield code="1p">spechtrainer</marc:subfield>
-        </marc:datafield>
+        <marc:subfield code="4" old="empty">trl</marc:subfield></marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Picasso, Pablo</marc:subfield>
             <marc:subfield code="d">1881-1973</marc:subfield>
             <marc:subfield code="1p">picassopablo</marc:subfield>
-        </marc:datafield>
+        <marc:subfield code="4" old="empty">ill</marc:subfield></marc:datafield>
     </marc:record>
     <marc:record source="1989-BNE-Spain-Camilo-Jose-Cela.xml">
         <marc:leader>01642nam a2200373 i 4500</marc:leader>
@@ -24013,7 +24025,7 @@
             <marc:subfield code="a">Urrutia, Jorge</marc:subfield>
             <marc:subfield code="d">1945-</marc:subfield>
             <marc:subfield code="1p">urrutiajorge</marc:subfield>
-        </marc:datafield>
+        <marc:subfield code="4" old="empty">edt</marc:subfield></marc:datafield>
     </marc:record>
     <marc:record source="1989-BNE-Spain-Camilo-Jose-Cela.xml">
         <marc:leader>01074cam a2200337 c 4500</marc:leader>
@@ -24639,6 +24651,10 @@
             <marc:subfield code="a">1</marc:subfield>
             <marc:subfield code="2">VD</marc:subfield>
         </marc:datafield>
+        <marc:datafield tag="130" ind1=" " ind2=" ">
+            <marc:subfield code="a">La Colmena</marc:subfield>
+            <marc:subfield code="1w">https://www.imdb.com/title/tt0083743/</marc:subfield>
+        </marc:datafield>
         <marc:datafield tag="245" ind1="0" ind2="3">
             <marc:subfield code="a">La colmena</marc:subfield>
             <marc:subfield code="h">[Videograbación]</marc:subfield>
@@ -24712,7 +24728,7 @@
             <marc:subfield code="a">Camus, Mario</marc:subfield>
             <marc:subfield code="d">1935-</marc:subfield>
             <marc:subfield code="1p">camusmario</marc:subfield>
-        </marc:datafield>
+        <marc:subfield code="4" old="empty">drt</marc:subfield></marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Cela, Camilo José</marc:subfield>
             <marc:subfield code="d">1916-2002</marc:subfield>
@@ -24725,17 +24741,17 @@
             <marc:subfield code="a">Dibildos, José Luis</marc:subfield>
             <marc:subfield code="d">1929-2002</marc:subfield>
             <marc:subfield code="1p">dibildosjosluis</marc:subfield>
-        </marc:datafield>
+        <marc:subfield code="4" old="empty">pro</marc:subfield></marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Burman, Hans</marc:subfield>
             <marc:subfield code="d">1937-</marc:subfield>
             <marc:subfield code="1p">burmanhans</marc:subfield>
-        </marc:datafield>
+        <marc:subfield code="4" old="empty">drt</marc:subfield></marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">García Abril, Antón</marc:subfield>
             <marc:subfield code="d">1933-</marc:subfield>
             <marc:subfield code="1p">garcaabrilantn</marc:subfield>
-        </marc:datafield>
+        <marc:subfield code="4" old="empty">cmp</marc:subfield></marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Parra, Julio</marc:subfield>
             <marc:subfield code="1p">parrajulio</marc:subfield>
@@ -24744,42 +24760,42 @@
             <marc:subfield code="a">Abril, Victoria</marc:subfield>
             <marc:subfield code="d">1959-</marc:subfield>
             <marc:subfield code="1p">abrilvictoria</marc:subfield>
-        </marc:datafield>
+        <marc:subfield code="4" old="empty">act</marc:subfield></marc:datafield>
         <marc:datafield tag="700" ind1="0" ind2=" ">
             <marc:subfield code="a">Ana Belén</marc:subfield>
             <marc:subfield code="d">1951-</marc:subfield>
             <marc:subfield code="1p">anabeln</marc:subfield>
-        </marc:datafield>
+        <marc:subfield code="4" old="empty">act</marc:subfield></marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Algora, Francisco</marc:subfield>
             <marc:subfield code="d">1948-2016</marc:subfield>
             <marc:subfield code="1p">http://viaf.org/viaf/56299308</marc:subfield>
-        </marc:datafield>
+        <marc:subfield code="4" old="empty">act</marc:subfield></marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Rabal, Francisco</marc:subfield>
             <marc:subfield code="d">1926-2001</marc:subfield>
             <marc:subfield code="1p">rabalfrancisco</marc:subfield>
-        </marc:datafield>
+        <marc:subfield code="4" old="empty">act</marc:subfield></marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Pardo, Mario</marc:subfield>
             <marc:subfield code="d">1944-</marc:subfield>
             <marc:subfield code="1p">pardomario</marc:subfield>
-        </marc:datafield>
+        <marc:subfield code="4" old="empty">act</marc:subfield></marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Faltoyano, Fiorella</marc:subfield>
             <marc:subfield code="d">1950-</marc:subfield>
             <marc:subfield code="1p">faltoyanofiorella</marc:subfield>
-        </marc:datafield>
+        <marc:subfield code="4" old="empty">act</marc:subfield></marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Bódalo, José</marc:subfield>
             <marc:subfield code="d">1916-1985</marc:subfield>
             <marc:subfield code="1p">bdalojos</marc:subfield>
-        </marc:datafield>
+        <marc:subfield code="4" old="empty">act</marc:subfield></marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">López, Charo</marc:subfield>
             <marc:subfield code="d">1943-</marc:subfield>
             <marc:subfield code="1p">lpezcharo</marc:subfield>
-        </marc:datafield>
+        <marc:subfield code="4" old="empty">act</marc:subfield></marc:datafield>
         <marc:datafield tag="711" ind1="2" ind2=" ">
             <marc:subfield code="a">Internationale Filmfestspiele</marc:subfield>
             <marc:subfield code="n">33º</marc:subfield>
@@ -25012,7 +25028,7 @@
             <marc:subfield code="e">director</marc:subfield>
             <marc:subfield code="e">guionista</marc:subfield>
             <marc:subfield code="1p">francoricardo</marc:subfield>
-            <marc:subfield code="4">http://rdaregistry.info/Elements/w/motionPictureAdaptationOfWork.en</marc:subfield>
+            <marc:subfield code="4">drt</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Querejeta, Elías</marc:subfield>
@@ -25148,7 +25164,7 @@
             <marc:subfield code="a">Goñi, Lorenzo</marc:subfield>
             <marc:subfield code="d">1911-1992</marc:subfield>
             <marc:subfield code="1p">goilorenzo</marc:subfield>
-        </marc:datafield>
+        <marc:subfield code="4" old="empty">ill</marc:subfield></marc:datafield>
         <marc:datafield tag="800" ind1="1" ind2=" ">
             <marc:subfield code="a">Cela, Camilo José</marc:subfield>
             <marc:subfield code="d">1916-2002</marc:subfield>
@@ -26737,8 +26753,9 @@
             <marc:subfield code="d">1949-1998</marc:subfield>
             <marc:subfield code="e">director</marc:subfield>
             <marc:subfield code="e">guionista</marc:subfield>
-            <marc:subfield code="4">cnd </marc:subfield>
+            <marc:subfield code="4">cnd</marc:subfield>
             <marc:subfield code="4">aus</marc:subfield>
+            <marc:subfield code="4">drt</marc:subfield>
             <marc:subfield code="1p">francoricardo</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
@@ -28112,7 +28129,7 @@
             <marc:subfield code="d">1928-</marc:subfield>
             <marc:subfield code="e">editor literario</marc:subfield>
             <marc:subfield code="e">prologuista</marc:subfield>
-            <marc:subfield code="4">edt </marc:subfield>
+            <marc:subfield code="4">edt</marc:subfield>
             <marc:subfield code="4">aui</marc:subfield>
             <marc:subfield code="1p">sobejanogonzalo</marc:subfield>
         </marc:datafield>
@@ -28240,7 +28257,7 @@
             <marc:subfield code="a">Villanueva, Darío</marc:subfield>
             <marc:subfield code="d">1950-</marc:subfield>
             <marc:subfield code="1p">villanuevadaro</marc:subfield>
-        </marc:datafield>
+        <marc:subfield code="4" old="empty">edt</marc:subfield></marc:datafield>
     </marc:record>
     <marc:record source="1989-BNE-Spain-Camilo-Jose-Cela.xml">
         <marc:leader>01203nam a2200301 b 4500</marc:leader>
@@ -28451,7 +28468,7 @@
             <marc:subfield code="a">Cela, Camilo José</marc:subfield>
             <marc:subfield code="d">1916-2002</marc:subfield>
             <marc:subfield code="1p">http://viaf.org/viaf/14767431</marc:subfield>
-            <marc:subfield code="2">La colmena</marc:subfield>
+            <marc:subfield code="t">La colmena</marc:subfield>
             <marc:subfield code="1w">http://viaf.org/viaf/178631752</marc:subfield>
             <marc:subfield code="2">generated from 245</marc:subfield>
         </marc:datafield>
@@ -29729,27 +29746,27 @@
             <marc:subfield code="a">Franco, Ricardo</marc:subfield>
             <marc:subfield code="d">1949-1998</marc:subfield>
             <marc:subfield code="1p">francoricardo</marc:subfield>
-        </marc:datafield>
+        <marc:subfield code="4" old="empty">drt</marc:subfield></marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Martínez Lázaro, Emilio</marc:subfield>
             <marc:subfield code="d">1945-</marc:subfield>
             <marc:subfield code="1p">martnezlzaroemilio</marc:subfield>
-        </marc:datafield>
+        <marc:subfield code="4" old="empty">aus</marc:subfield></marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Querejeta, Elías</marc:subfield>
             <marc:subfield code="d">1934-2013</marc:subfield>
             <marc:subfield code="1p">querejetaelas</marc:subfield>
-        </marc:datafield>
+        <marc:subfield code="4" old="empty">pro</marc:subfield></marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Cuadrado, Luis</marc:subfield>
             <marc:subfield code="d">1934-1980</marc:subfield>
             <marc:subfield code="1p">cuadradoluis</marc:subfield>
-        </marc:datafield>
+        <marc:subfield code="4" old="empty">drt</marc:subfield></marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Pablo, Luis de</marc:subfield>
             <marc:subfield code="d">1930-</marc:subfield>
             <marc:subfield code="1p">pabloluisde</marc:subfield>
-        </marc:datafield>
+        <marc:subfield code="4" old="empty">cmp</marc:subfield></marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Querejeta, Francisco J.</marc:subfield>
             <marc:subfield code="1p">querejetafranciscoj</marc:subfield>
@@ -29781,16 +29798,16 @@
             <marc:subfield code="a">Gómez, José Luis</marc:subfield>
             <marc:subfield code="d">1940-</marc:subfield>
             <marc:subfield code="1p">gmezjosluis</marc:subfield>
-        </marc:datafield>
+        <marc:subfield code="4" old="empty">act</marc:subfield></marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Ojea, Paca</marc:subfield>
             <marc:subfield code="1p">ojeapaca</marc:subfield>
-        </marc:datafield>
+        <marc:subfield code="4" old="empty">act</marc:subfield></marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Alterio, Héctor</marc:subfield>
             <marc:subfield code="d">1929-</marc:subfield>
             <marc:subfield code="1p">http://viaf.org/viaf/70031002</marc:subfield>
-        </marc:datafield>
+        <marc:subfield code="4" old="empty">act</marc:subfield></marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Pérez de Guzmán, Diana</marc:subfield>
             <marc:subfield code="1p">prezdeguzmndiana</marc:subfield>
@@ -31784,7 +31801,7 @@
             <marc:subfield code="a">Urrutia, Jorge</marc:subfield>
             <marc:subfield code="d">1945-</marc:subfield>
             <marc:subfield code="1p">urrutiajorge</marc:subfield>
-        </marc:datafield>
+        <marc:subfield code="4" old="empty">edt</marc:subfield></marc:datafield>
     </marc:record>
     <marc:record source="1989-BNE-Spain-Camilo-Jose-Cela.xml">
         <marc:leader>01346nam a2200325 b 4500</marc:leader>
@@ -32238,7 +32255,7 @@
             <marc:subfield code="a">Goñi, Lorenzo</marc:subfield>
             <marc:subfield code="d">1911-1992</marc:subfield>
             <marc:subfield code="1p">goilorenzo</marc:subfield>
-        </marc:datafield>
+        <marc:subfield code="4" old="empty">ill</marc:subfield></marc:datafield>
     </marc:record>
     <marc:record source="1989-BNE-Spain-Camilo-Jose-Cela.xml">
         <marc:leader>01437nam a22003131  4500</marc:leader>
@@ -33136,7 +33153,7 @@
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Barra, Santiago</marc:subfield>
             <marc:subfield code="1p">barrasantiago</marc:subfield>
-        </marc:datafield>
+        <marc:subfield code="4" old="empty">aut</marc:subfield></marc:datafield>
     </marc:record>
     <marc:record source="1989-BNE-Spain-Camilo-Jose-Cela.xml">
         <marc:leader>01132nam a22003251i 4500</marc:leader>
@@ -34534,7 +34551,7 @@
             <marc:subfield code="a">Villanueva, Darío</marc:subfield>
             <marc:subfield code="d">1950-</marc:subfield>
             <marc:subfield code="1p">villanuevadaro</marc:subfield>
-        </marc:datafield>
+        <marc:subfield code="4" old="empty">edt</marc:subfield></marc:datafield>
     </marc:record>
     <marc:record source="1989-BNE-Spain-Camilo-Jose-Cela.xml">
         <marc:leader>01228nam a22003135b 4500</marc:leader>
@@ -37721,7 +37738,7 @@
             <marc:subfield code="a">Goñi, Lorenzo</marc:subfield>
             <marc:subfield code="d">1911-1992</marc:subfield>
             <marc:subfield code="1p">goilorenzo</marc:subfield>
-        </marc:datafield>
+        <marc:subfield code="4" old="empty">ill</marc:subfield></marc:datafield>
     </marc:record>
     <marc:record source="1989-BNE-Spain-Camilo-Jose-Cela.xml">
         <marc:leader>01258nam a22003011  4500</marc:leader>
@@ -40664,7 +40681,7 @@
             <marc:subfield code="a">Cela, Camilo José</marc:subfield>
             <marc:subfield code="d">1916-2002</marc:subfield>
             <marc:subfield code="1p">http://viaf.org/viaf/14767431</marc:subfield>
-            <marc:subfield code="2">La colmena</marc:subfield>
+            <marc:subfield code="t">La colmena</marc:subfield>
             <marc:subfield code="1w">http://viaf.org/viaf/178631752</marc:subfield>
             <marc:subfield code="2">generated from 245</marc:subfield>
         </marc:datafield>
@@ -41641,7 +41658,7 @@
             <marc:subfield code="a">Goñi, Lorenzo</marc:subfield>
             <marc:subfield code="d">1911-1992</marc:subfield>
             <marc:subfield code="1p">goilorenzo</marc:subfield>
-        </marc:datafield>
+        <marc:subfield code="4" old="empty">ill</marc:subfield></marc:datafield>
     </marc:record>
     <marc:record source="1989-BNE-Spain-Camilo-Jose-Cela.xml">
         <marc:leader>00860nam a2200265   4500</marc:leader>
@@ -42475,7 +42492,7 @@
             <marc:subfield code="a">Picasso, Pablo</marc:subfield>
             <marc:subfield code="d">1881-1973</marc:subfield>
             <marc:subfield code="1p">picassopablo</marc:subfield>
-        </marc:datafield>
+        <marc:subfield code="4" old="empty">ill</marc:subfield></marc:datafield>
     </marc:record>
     <marc:record source="1989-BNE-Spain-Camilo-Jose-Cela.xml">
         <marc:leader>01272nam a2200325 i 4500</marc:leader>
@@ -42679,7 +42696,7 @@
             <marc:subfield code="a">Picasso, Pablo</marc:subfield>
             <marc:subfield code="d">1881-1973</marc:subfield>
             <marc:subfield code="1p">picassopablo</marc:subfield>
-        </marc:datafield>
+        <marc:subfield code="4" old="empty">ill</marc:subfield></marc:datafield>
     </marc:record>
     <marc:record source="1989-BNE-Spain-Camilo-Jose-Cela.xml">
         <marc:leader>01419nam a2200349 b 4500</marc:leader>
@@ -44062,7 +44079,7 @@
             <marc:subfield code="a">Algora, Francisco</marc:subfield>
             <marc:subfield code="d">1948-2016</marc:subfield>
             <marc:subfield code="1p">http://viaf.org/viaf/56299308</marc:subfield>
-        </marc:datafield>
+        <marc:subfield code="4" old="empty">act</marc:subfield></marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Gamero, Antonio</marc:subfield>
             <marc:subfield code="d">1934-2010</marc:subfield>
@@ -44118,7 +44135,7 @@
             <marc:subfield code="a">Cigés, Luis</marc:subfield>
             <marc:subfield code="d">1921-2002</marc:subfield>
             <marc:subfield code="1p">cigsluis</marc:subfield>
-        </marc:datafield>
+        <marc:subfield code="4" old="empty">act</marc:subfield></marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Barbero, Luis</marc:subfield>
             <marc:subfield code="d">1916-2005</marc:subfield>
@@ -45324,6 +45341,10 @@
             <marc:subfield code="a">spa</marc:subfield>
             <marc:subfield code="h">spa</marc:subfield>
         </marc:datafield>
+        <marc:datafield tag="130" ind1=" " ind2=" ">
+            <marc:subfield code="a">La Colmena</marc:subfield>
+            <marc:subfield code="1w">https://www.imdb.com/title/tt0083743/</marc:subfield>
+        </marc:datafield>
         <marc:datafield tag="245" ind1="0" ind2="3">
             <marc:subfield code="a">La colmena</marc:subfield>
             <marc:subfield code="e">dirección, Mario Camus; producción y guión, José Luis Dibildos; dirección de fotografía, Hans Burmann; música, Antón García Abril</marc:subfield>
@@ -45405,7 +45426,7 @@
             <marc:subfield code="a">Camus, Mario</marc:subfield>
             <marc:subfield code="d">1935-</marc:subfield>
             <marc:subfield code="e">director de cine</marc:subfield>
-            <marc:subfield code="4">fmd</marc:subfield>
+            <marc:subfield code="4" old="fmd">drt</marc:subfield>
             <marc:subfield code="1p">camusmario</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
@@ -45413,7 +45434,7 @@
             <marc:subfield code="d">1929-2002</marc:subfield>
             <marc:subfield code="e">productor</marc:subfield>
             <marc:subfield code="e">guionista</marc:subfield>
-            <marc:subfield code="4">pro </marc:subfield>
+            <marc:subfield code="4">pro</marc:subfield>
             <marc:subfield code="4">aus</marc:subfield>
             <marc:subfield code="1p">dibildosjosluis</marc:subfield>
         </marc:datafield>
@@ -46387,7 +46408,7 @@
             <marc:subfield code="a">Picasso, Pablo</marc:subfield>
             <marc:subfield code="d">1881-1973</marc:subfield>
             <marc:subfield code="1p">picassopablo</marc:subfield>
-        </marc:datafield>
+        <marc:subfield code="4" old="empty">ill</marc:subfield></marc:datafield>
         <marc:datafield tag="830" ind1=" " ind2="0">
             <marc:subfield code="a">Acanto (Espasa Calpe, S.A.)</marc:subfield>
         </marc:datafield>
@@ -47645,7 +47666,7 @@
             <marc:subfield code="a">Urrutia, Jorge</marc:subfield>
             <marc:subfield code="d">1945-</marc:subfield>
             <marc:subfield code="1p">urrutiajorge</marc:subfield>
-        </marc:datafield>
+        <marc:subfield code="4" old="empty">edt</marc:subfield></marc:datafield>
     </marc:record>
     <marc:record source="1989-BNE-Spain-Camilo-Jose-Cela.xml">
         <marc:leader>01960ngm a2200457   4500</marc:leader>
@@ -47722,27 +47743,27 @@
             <marc:subfield code="a">Franco, Ricardo</marc:subfield>
             <marc:subfield code="d">1949-1998</marc:subfield>
             <marc:subfield code="1p">francoricardo</marc:subfield>
-        </marc:datafield>
+        <marc:subfield code="4" old="empty">drt</marc:subfield></marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Querejeta, Elías</marc:subfield>
             <marc:subfield code="d">1934-2013</marc:subfield>
             <marc:subfield code="1p">querejetaelas</marc:subfield>
-        </marc:datafield>
+        <marc:subfield code="4" old="empty">pro</marc:subfield></marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Martínez Lázaro, Emilio</marc:subfield>
             <marc:subfield code="d">1945-</marc:subfield>
             <marc:subfield code="1p">martnezlzaroemilio</marc:subfield>
-        </marc:datafield>
+        <marc:subfield code="4" old="empty">aus</marc:subfield></marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Cuadrado, Luis</marc:subfield>
             <marc:subfield code="d">1934-1980</marc:subfield>
             <marc:subfield code="1p">cuadradoluis</marc:subfield>
-        </marc:datafield>
+        <marc:subfield code="4" old="empty">drt</marc:subfield></marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Pablo, Luis de</marc:subfield>
             <marc:subfield code="d">1930-</marc:subfield>
             <marc:subfield code="1p">pabloluisde</marc:subfield>
-        </marc:datafield>
+        <marc:subfield code="4" old="empty">cmp</marc:subfield></marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Cela, Camilo José</marc:subfield>
             <marc:subfield code="d">1916-2002</marc:subfield>
@@ -47755,16 +47776,16 @@
             <marc:subfield code="a">Gómez, José Luis</marc:subfield>
             <marc:subfield code="d">1940-</marc:subfield>
             <marc:subfield code="1p">gmezjosluis</marc:subfield>
-        </marc:datafield>
+        <marc:subfield code="4" old="empty">act</marc:subfield></marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Ojea, Paca</marc:subfield>
             <marc:subfield code="1p">ojeapaca</marc:subfield>
-        </marc:datafield>
+        <marc:subfield code="4" old="empty">act</marc:subfield></marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Alterio, Héctor</marc:subfield>
             <marc:subfield code="d">1929-</marc:subfield>
             <marc:subfield code="1p">http://viaf.org/viaf/70031002</marc:subfield>
-        </marc:datafield>
+        <marc:subfield code="4" old="empty">act</marc:subfield></marc:datafield>
         <marc:datafield tag="711" ind1="2" ind2=" ">
             <marc:subfield code="a">Festival International du Film</marc:subfield>
             <marc:subfield code="n">29º</marc:subfield>
@@ -50674,7 +50695,7 @@
             <marc:subfield code="d">1911-1992</marc:subfield>
             <marc:subfield code="e">ilustrador</marc:subfield>
             <marc:subfield code="1p">goilorenzo</marc:subfield>
-        </marc:datafield>
+        <marc:subfield code="4" old="empty">ill</marc:subfield></marc:datafield>
         <marc:datafield tag="800" ind1="1" ind2=" ">
             <marc:subfield code="a">Cela, Camilo José</marc:subfield>
             <marc:subfield code="d">1916-2002</marc:subfield>
@@ -50820,7 +50841,7 @@
             <marc:subfield code="a">Goñi, Lorenzo</marc:subfield>
             <marc:subfield code="d">1911-1992</marc:subfield>
             <marc:subfield code="1p">goilorenzo</marc:subfield>
-        </marc:datafield>
+        <marc:subfield code="4" old="empty">ill</marc:subfield></marc:datafield>
     </marc:record>
     <marc:record source="1989-BNE-Spain-Camilo-Jose-Cela.xml">
         <marc:leader>01280nam a2200301 b 4500</marc:leader>
@@ -51134,27 +51155,27 @@
             <marc:subfield code="a">Franco, Ricardo</marc:subfield>
             <marc:subfield code="d">1949-1998</marc:subfield>
             <marc:subfield code="1p">francoricardo</marc:subfield>
-        </marc:datafield>
+        <marc:subfield code="4" old="empty">drt</marc:subfield></marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Querejeta, Elías</marc:subfield>
             <marc:subfield code="d">1934-2013</marc:subfield>
             <marc:subfield code="1p">querejetaelas</marc:subfield>
-        </marc:datafield>
+        <marc:subfield code="4" old="empty">pro</marc:subfield></marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Pablo, Luis de</marc:subfield>
             <marc:subfield code="d">1930-</marc:subfield>
             <marc:subfield code="1p">pabloluisde</marc:subfield>
-        </marc:datafield>
+        <marc:subfield code="4" old="empty">cmp</marc:subfield></marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Cuadrado, Luis</marc:subfield>
             <marc:subfield code="d">1934-1980</marc:subfield>
             <marc:subfield code="1p">cuadradoluis</marc:subfield>
-        </marc:datafield>
+        <marc:subfield code="4" old="empty">drt</marc:subfield></marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Martínez Lázaro, Emilio</marc:subfield>
             <marc:subfield code="d">1945-</marc:subfield>
             <marc:subfield code="1p">martnezlzaroemilio</marc:subfield>
-        </marc:datafield>
+        <marc:subfield code="4" old="empty">aus</marc:subfield></marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Querejeta, Francisco J.</marc:subfield>
             <marc:subfield code="1p">querejetafranciscoj</marc:subfield>
@@ -51186,7 +51207,7 @@
             <marc:subfield code="a">Gómez, José Luis</marc:subfield>
             <marc:subfield code="d">1940-</marc:subfield>
             <marc:subfield code="1p">gmezjosluis</marc:subfield>
-        </marc:datafield>
+        <marc:subfield code="4" old="empty">act</marc:subfield></marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Ojeda, Paca</marc:subfield>
             <marc:subfield code="1p">ojedapaca</marc:subfield>
@@ -51195,7 +51216,7 @@
             <marc:subfield code="a">Alterio, Héctor</marc:subfield>
             <marc:subfield code="d">1929-</marc:subfield>
             <marc:subfield code="1p">http://viaf.org/viaf/70031002</marc:subfield>
-        </marc:datafield>
+        <marc:subfield code="4" old="empty">act</marc:subfield></marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Pérez de Guzmán, Diana</marc:subfield>
             <marc:subfield code="1p">prezdeguzmndiana</marc:subfield>
@@ -52771,7 +52792,7 @@
             <marc:subfield code="a">Algora, Francisco</marc:subfield>
             <marc:subfield code="d">1948-2016</marc:subfield>
             <marc:subfield code="1p">http://viaf.org/viaf/56299308</marc:subfield>
-        </marc:datafield>
+        <marc:subfield code="4" old="empty">act</marc:subfield></marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Gamero, Antonio</marc:subfield>
             <marc:subfield code="d">1934-2010</marc:subfield>
@@ -52827,7 +52848,7 @@
             <marc:subfield code="a">Cigés, Luis</marc:subfield>
             <marc:subfield code="d">1921-2002</marc:subfield>
             <marc:subfield code="1p">cigsluis</marc:subfield>
-        </marc:datafield>
+        <marc:subfield code="4" old="empty">act</marc:subfield></marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Barbero, Luis</marc:subfield>
             <marc:subfield code="d">1916-2005</marc:subfield>
@@ -53855,7 +53876,7 @@
             <marc:subfield code="a">Villanueva, Darío</marc:subfield>
             <marc:subfield code="d">1950-</marc:subfield>
             <marc:subfield code="1p">villanuevadaro</marc:subfield>
-        </marc:datafield>
+        <marc:subfield code="4" old="empty">edt</marc:subfield></marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Rodríguez Fontela, María de los Ángeles</marc:subfield>
             <marc:subfield code="1p">rodrguezfontelamaradelosngeles</marc:subfield>
@@ -55955,7 +55976,7 @@
             <marc:subfield code="0">(DE-101)105111317</marc:subfield>
             <marc:subfield code="a">Theile-Bruhns, Gerda</marc:subfield>
             <marc:subfield code="e">Mitwirkender</marc:subfield>
-            <marc:subfield code="4">ctb</marc:subfield>
+            <marc:subfield code="4" old="ctb">trl</marc:subfield>
             <marc:subfield code="1p">theilebruhnsgerda</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="850">
@@ -56677,7 +56698,7 @@
             <marc:subfield code="0">(DE-101)105111317</marc:subfield>
             <marc:subfield code="a">Theile-Bruhns, Gerda</marc:subfield>
             <marc:subfield code="e">Mitwirkender</marc:subfield>
-            <marc:subfield code="4">ctb</marc:subfield>
+            <marc:subfield code="4" old="ctb">trl</marc:subfield>
             <marc:subfield code="1p">theilebruhnsgerda</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="850">
@@ -57192,7 +57213,7 @@
             <marc:subfield code="0">(DE-101)105111317</marc:subfield>
             <marc:subfield code="a">Theile-Bruhns, Gerda</marc:subfield>
             <marc:subfield code="e">Mitwirkender</marc:subfield>
-            <marc:subfield code="4">ctb</marc:subfield>
+            <marc:subfield code="4" old="ctb">trl</marc:subfield>
             <marc:subfield code="1p">theilebruhnsgerda</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="850">
@@ -57495,7 +57516,7 @@
             <marc:subfield code="0">(DE-101)105111317</marc:subfield>
             <marc:subfield code="a">Theile-Bruhns, Gerda</marc:subfield>
             <marc:subfield code="e">Mitwirkender</marc:subfield>
-            <marc:subfield code="4">ctb</marc:subfield>
+            <marc:subfield code="4" old="ctb">trl</marc:subfield>
             <marc:subfield code="1p">theilebruhnsgerda</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="850">
@@ -59435,7 +59456,7 @@
             <marc:subfield code="a">Picasso, Pablo</marc:subfield>
             <marc:subfield code="d">1881-1973</marc:subfield>
             <marc:subfield code="e">Mitwirkender</marc:subfield>
-            <marc:subfield code="4">ctb</marc:subfield>
+            <marc:subfield code="4" old="ctb">ill</marc:subfield>
             <marc:subfield code="1p">picassopablo</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="850">

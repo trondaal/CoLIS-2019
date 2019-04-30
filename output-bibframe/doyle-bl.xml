@@ -814,7 +814,7 @@
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
       <m:P30106>Graphic novel</m:P30106>
-      <bibframe:instanceOf rdf:resource="/sherlockholmesinthehoundofthebaskervilles/eng"/>
+      <bibframe:instanceOf rdf:resource="searsgeorge/sherlockholmesinthehoundofthebaskervilles/eng"/>
    </bibframe:Instance>
    <bibframe:Instance rdf:about="urn:isbn:0006940609">
       <marc:M001>009378865</marc:M001>
@@ -830,7 +830,7 @@
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
       <m:P30106>Graphic novel</m:P30106>
-      <bibframe:instanceOf rdf:resource="/sherlockholmesinthespeckledbandandthebluecarbuncle/eng"/>
+      <bibframe:instanceOf rdf:resource="quinntim/sherlockholmesinthespeckledbandandthebluecarbuncle/eng"/>
    </bibframe:Instance>
    <bibframe:Instance rdf:about="urn:isbn:006075883">
       <marc:M001>013458973</marc:M001>
@@ -3114,7 +3114,7 @@
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
       <m:P30106>Ladybird children's classics</m:P30106>
-      <bibframe:instanceOf rdf:resource="/thelostworld/eng"/>
+      <bibframe:instanceOf rdf:resource="collinsjoan/thelostworld/eng"/>
    </bibframe:Instance>
    <bibframe:Instance rdf:about="urn:isbn:0727808834">
       <marc:M001>009432776</marc:M001>
@@ -4450,7 +4450,7 @@
       <m:P30001>computer</m:P30001>
       <m:P30002>online resource</m:P30002>
       <m:P30106>Collins classics</m:P30106>
-      <bibframe:instanceOf rdf:resource="/thesherlockholmescollection/eng"/>
+      <bibframe:instanceOf rdf:resource="http://viaf.org/viaf/65283845/thesherlockholmescollection/eng"/>
    </bibframe:Instance>
    <bibframe:Instance rdf:about="urn:isbn:9780007934423">
       <marc:M001>016448192</marc:M001>
@@ -4900,7 +4900,7 @@
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
       <m:P30106>Penguin English library</m:P30106>
-      <bibframe:instanceOf rdf:resource="/thevalleyoffear/eng"/>
+      <bibframe:instanceOf rdf:resource="http://viaf.org/viaf/65283845/thevalleyoffear/eng"/>
    </bibframe:Instance>
    <bibframe:Instance rdf:about="urn:isbn:9780141395579">
       <marc:M001>016775967</marc:M001>
@@ -5098,7 +5098,7 @@
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
       <m:P30106>Penguin classics deluxe edition</m:P30106>
-      <bibframe:instanceOf rdf:resource="/sherlockholmesthenovels/eng"/>
+      <bibframe:instanceOf rdf:resource="http://viaf.org/viaf/65283845/sherlockholmesthenovels/eng"/>
    </bibframe:Instance>
    <bibframe:Instance rdf:about="urn:isbn:9780192720047">
       <marc:M001>013730174</marc:M001>
@@ -5187,7 +5187,7 @@
       <m:P30002>volume</m:P30002>
       <m:P30002>computer disc</m:P30002>
       <m:P30106>Dominoes. Level one</m:P30106>
-      <bibframe:instanceOf rdf:resource="/sherlockholmesthebluediamond/eng"/>
+      <bibframe:instanceOf rdf:resource="bowlerbill/sherlockholmesthebluediamond/eng"/>
    </bibframe:Instance>
    <bibframe:Instance rdf:about="urn:isbn:9780194247627">
       <marc:M001>015520507</marc:M001>
@@ -5201,7 +5201,7 @@
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
       <m:P30106>Dominoes. One</m:P30106>
-      <bibframe:instanceOf rdf:resource="/sherlockholmestheemeraldcrown/eng"/>
+      <bibframe:instanceOf rdf:resource="hardygouldjanet/sherlockholmestheemeraldcrown/eng"/>
    </bibframe:Instance>
    <bibframe:Instance rdf:about="urn:isbn:9780194248808">
       <marc:M001>015520588</marc:M001>
@@ -5214,7 +5214,7 @@
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
       <m:P30106>Dominoes. Level two</m:P30106>
-      <bibframe:instanceOf rdf:resource="/thelostworld/eng"/>
+      <bibframe:instanceOf rdf:resource="kingsleysusan/thelostworld/eng"/>
    </bibframe:Instance>
    <bibframe:Instance rdf:about="urn:isbn:9780194789196">
       <marc:M001>014533913</marc:M001>
@@ -5227,7 +5227,7 @@
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
       <m:P30106>Oxford bookworms library. Crime &amp; mystery. Stage 1</m:P30106>
-      <bibframe:instanceOf rdf:resource="/sherlockholmesandthedukesson/eng"/>
+      <bibframe:instanceOf rdf:resource="bassettjennifer/sherlockholmesandthedukesson/eng"/>
    </bibframe:Instance>
    <bibframe:Instance rdf:about="urn:isbn:9780194789202">
       <marc:M001>014533922</marc:M001>
@@ -5240,7 +5240,7 @@
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
       <m:P30106>Oxford bookworms library. Crime &amp; mystery. Stage 1</m:P30106>
-      <bibframe:instanceOf rdf:resource="/sherlockholmesandthesportofkings/eng"/>
+      <bibframe:instanceOf rdf:resource="bassettjennifer/sherlockholmesandthesportofkings/eng"/>
    </bibframe:Instance>
    <bibframe:Instance rdf:about="urn:isbn:9780194790710">
       <marc:M001>014620354</marc:M001>
@@ -5253,7 +5253,7 @@
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
       <m:P30106>Oxford bookworms Library. Crime &amp; mystery. Stage 2</m:P30106>
-      <bibframe:instanceOf rdf:resource="/sherlockholmesshortstories/eng"/>
+      <bibframe:instanceOf rdf:resource="westclare/sherlockholmesshortstories/eng"/>
    </bibframe:Instance>
    <bibframe:Instance rdf:about="urn:isbn:9780194791748">
       <marc:M001>014533756</marc:M001>
@@ -5319,7 +5319,7 @@
       <m:P30002>volume</m:P30002>
       <m:P30106>TreeTops classics, book band 14 blue</m:P30106>
       <m:P30106>Oxford reading tree</m:P30106>
-      <bibframe:instanceOf rdf:resource="/thelostworld/eng"/>
+      <bibframe:instanceOf rdf:resource="gatessusan/thelostworld/eng"/>
    </bibframe:Instance>
    <bibframe:Instance rdf:about="urn:isbn:9780199117703">
       <marc:M001>014637478</marc:M001>
@@ -5462,7 +5462,7 @@
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
       <m:P30106>Fast track classics</m:P30106>
-      <bibframe:instanceOf rdf:resource="/thehoundofthebaskervilles/eng"/>
+      <bibframe:instanceOf rdf:resource="francispauline/thehoundofthebaskervilles/eng"/>
    </bibframe:Instance>
    <bibframe:Instance rdf:about="urn:isbn:9780241347782">
       <marc:M001>018931226</marc:M001>
@@ -5701,7 +5701,7 @@
       <m:P30002>volume</m:P30002>
       <m:P30002>audio disc</m:P30002>
       <m:P30106>Fast track classics. Upper intermediate</m:P30106>
-      <bibframe:instanceOf rdf:resource="/thehoundofthebaskervilles/eng"/>
+      <bibframe:instanceOf rdf:resource="francispauline/thehoundofthebaskervilles/eng"/>
    </bibframe:Instance>
    <bibframe:Instance rdf:about="urn:isbn:9780486473574">
       <marc:M001>015397277</marc:M001>
@@ -5797,7 +5797,7 @@
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
       <m:P30106>Dover thrift editions</m:P30106>
-      <bibframe:instanceOf rdf:resource="/sirarthurconandoylethedoverreader/eng"/>
+      <bibframe:instanceOf rdf:resource="http://viaf.org/viaf/65283845/sirarthurconandoylethedoverreader/eng"/>
    </bibframe:Instance>
    <bibframe:Instance rdf:about="urn:isbn:9780486810133">
       <marc:M001>018016029</marc:M001>
@@ -5876,7 +5876,7 @@
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
       <m:P30106>Sherlock Holmes</m:P30106>
-      <bibframe:instanceOf rdf:resource="/sherlockholmestherussianconnectionandothernewadventures/eng"/>
+      <bibframe:instanceOf rdf:resource="scottn/sherlockholmestherussianconnectionandothernewadventures/eng"/>
    </bibframe:Instance>
    <bibframe:Instance rdf:about="urn:isbn:9780753180488">
       <marc:M001>014100776</marc:M001>
@@ -6554,7 +6554,7 @@
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
       <m:P30106>Dramascripts</m:P30106>
-      <bibframe:instanceOf rdf:resource="/thehoundofthebaskervilles/eng"/>
+      <bibframe:instanceOf rdf:resource="oconnorjohn/thehoundofthebaskervilles/eng"/>
    </bibframe:Instance>
    <bibframe:Instance rdf:about="urn:isbn:9781409058953">
       <marc:M001>018577234</marc:M001>
@@ -6620,7 +6620,7 @@
       <m:P30002>volume</m:P30002>
       <m:P30106>Babylit</m:P30106>
       <m:P30106>Little master Conan Doyle</m:P30106>
-      <bibframe:instanceOf rdf:resource="/sherlockholmesinthehoundofthebaskervilles/eng"/>
+      <bibframe:instanceOf rdf:resource="adamsjennifer/sherlockholmesinthehoundofthebaskervilles/eng"/>
    </bibframe:Instance>
    <bibframe:Instance rdf:about="urn:isbn:9781435114944">
       <marc:M001>015781215</marc:M001>
@@ -6945,7 +6945,7 @@
       <m:P30182>1 online resource.</m:P30182>
       <m:P30001>computer</m:P30001>
       <m:P30002>online resource</m:P30002>
-      <bibframe:instanceOf rdf:resource="/thememoirsofsherlockholmes/eng"/>
+      <bibframe:instanceOf rdf:resource="http://viaf.org/viaf/65283845/thememoirsofsherlockholmes/eng"/>
    </bibframe:Instance>
    <bibframe:Instance rdf:about="urn:isbn:9781446417287">
       <marc:M001>018574970</marc:M001>
@@ -7050,7 +7050,7 @@
       <m:P30002>online resource</m:P30002>
       <m:P30106>Macmillan Collector's Library</m:P30106>
       <m:P30165>26</m:P30165>
-      <bibframe:instanceOf rdf:resource="/thehoundofthebaskervillesandthevalleyoffear/eng"/>
+      <bibframe:instanceOf rdf:resource="http://viaf.org/viaf/65283845/thehoundofthebaskervillesandthevalleyoffear/eng"/>
    </bibframe:Instance>
    <bibframe:Instance rdf:about="urn:isbn:9781509826971">
       <marc:M001>017872721</marc:M001>
@@ -7077,7 +7077,7 @@
       <m:P30002>online resource</m:P30002>
       <m:P30106>Macmillan Collector's Library</m:P30106>
       <m:P30165>28</m:P30165>
-      <bibframe:instanceOf rdf:resource="/astudyinscarletandthesignoffour/eng"/>
+      <bibframe:instanceOf rdf:resource="http://viaf.org/viaf/65283845/astudyinscarletandthesignoffour/eng"/>
    </bibframe:Instance>
    <bibframe:Instance rdf:about="urn:isbn:9781509827008">
       <marc:M001>017872723</marc:M001>
@@ -7239,7 +7239,7 @@
       <m:P30182>1 online resource (xii, 193 pages).</m:P30182>
       <m:P30001>computer</m:P30001>
       <m:P30002>online resource</m:P30002>
-      <bibframe:instanceOf rdf:resource="/affaireduchiendesbaskerville/eng"/>
+      <bibframe:instanceOf rdf:resource="bayardpierre/affaireduchiendesbaskerville/eng"/>
    </bibframe:Instance>
    <bibframe:Instance rdf:about="urn:isbn:9781616551100">
       <marc:M001>016199873</marc:M001>
@@ -7270,7 +7270,7 @@
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
       <m:P30106>Knickerbocker classics</m:P30106>
-      <bibframe:instanceOf rdf:resource="/sherlockholmes/eng"/>
+      <bibframe:instanceOf rdf:resource="http://viaf.org/viaf/65283845/sherlockholmes/eng"/>
    </bibframe:Instance>
    <bibframe:Instance rdf:about="urn:isbn:9781632205889">
       <marc:M001>017124802</marc:M001>
@@ -7294,7 +7294,7 @@
       <m:P30169>30 cm</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
-      <bibframe:instanceOf rdf:resource="/sherlockholmesthehoundofthebaskervilles/eng"/>
+      <bibframe:instanceOf rdf:resource="unglikrichard/sherlockholmesthehoundofthebaskervilles/eng"/>
    </bibframe:Instance>
    <bibframe:Instance rdf:about="urn:isbn:9781780280165">
       <marc:M001>015804832</marc:M001>
@@ -7364,7 +7364,7 @@
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
       <m:P30106>Victoria Regina (Series)</m:P30106>
-      <bibframe:instanceOf rdf:resource="/skandalvcechach/eng"/>
+      <bibframe:instanceOf rdf:resource="koplpetr/skandalvcechach/eng"/>
    </bibframe:Instance>
    <bibframe:Instance rdf:about="urn:isbn:9781780926926">
       <marc:M001>016870898</marc:M001>
@@ -7767,7 +7767,7 @@
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
       <m:P30106>Easy read Sherlock Holmes</m:P30106>
-      <bibframe:instanceOf rdf:resource="/gespikkeldeband/eng"/>
+      <bibframe:instanceOf rdf:resource="bakkerhelene/gespikkeldeband/eng"/>
    </bibframe:Instance>
    <bibframe:Instance rdf:about="urn:isbn:9781783225361">
       <marc:M001>016984350</marc:M001>
@@ -7779,7 +7779,7 @@
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
       <m:P30106>Easy read Sherlock Holmes</m:P30106>
-      <bibframe:instanceOf rdf:resource="/tekenvanvier/eng"/>
+      <bibframe:instanceOf rdf:resource="bakkerhelene/tekenvanvier/eng"/>
    </bibframe:Instance>
    <bibframe:Instance rdf:about="urn:isbn:9781783225385">
       <marc:M001>016984352</marc:M001>
@@ -7791,7 +7791,7 @@
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
       <m:P30106>Easy-to-read Sherlock Holmes</m:P30106>
-      <bibframe:instanceOf rdf:resource="/manmethetlitteken/eng"/>
+      <bibframe:instanceOf rdf:resource="bakkerhelene/manmethetlitteken/eng"/>
    </bibframe:Instance>
    <bibframe:Instance rdf:about="urn:isbn:9781784043575">
       <marc:M001>016738600</marc:M001>
@@ -7837,7 +7837,7 @@
       <m:P30169>18 cm</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
-      <bibframe:instanceOf rdf:resource="/thehoundofthebaskervillesthevalleyoffear/eng"/>
+      <bibframe:instanceOf rdf:resource="http://viaf.org/viaf/65283845/thehoundofthebaskervillesthevalleyoffear/eng"/>
    </bibframe:Instance>
    <bibframe:Instance rdf:about="urn:isbn:9781784288228">
       <marc:M001>018339349</marc:M001>
@@ -7849,7 +7849,7 @@
       <m:P30169>18 cm</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
-      <bibframe:instanceOf rdf:resource="/astudyinscarletandthesignoffour/eng"/>
+      <bibframe:instanceOf rdf:resource="http://viaf.org/viaf/65283845/astudyinscarletandthesignoffour/eng"/>
    </bibframe:Instance>
    <bibframe:Instance rdf:about="urn:isbn:9781784288235">
       <marc:M001>018339350</marc:M001>
@@ -7926,7 +7926,7 @@
       <m:P30169>20 cm</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
-      <bibframe:instanceOf rdf:resource="/sherlock/eng"/>
+      <bibframe:instanceOf rdf:resource="http://viaf.org/viaf/65283845/sherlock/eng"/>
    </bibframe:Instance>
    <bibframe:Instance rdf:about="urn:isbn:9781786645449">
       <marc:M001>018367858</marc:M001>
@@ -7939,7 +7939,7 @@
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
       <m:P30106>Gothic fantasy</m:P30106>
-      <bibframe:instanceOf rdf:resource="/sherlockholmescollectionanthologyofclassictales/eng"/>
+      <bibframe:instanceOf rdf:resource="http://viaf.org/viaf/65283845/sherlockholmescollectionanthologyofclassictales/eng"/>
    </bibframe:Instance>
    <bibframe:Instance rdf:about="urn:isbn:9781787198272">
       <marc:M001>018870515</marc:M001>
@@ -8056,7 +8056,7 @@
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
       <m:P30106>Sherlock Holmes</m:P30106>
-      <bibframe:instanceOf rdf:resource="/astudyinscarletandthesignoffour/eng"/>
+      <bibframe:instanceOf rdf:resource="http://viaf.org/viaf/65283845/astudyinscarletandthesignoffour/eng"/>
    </bibframe:Instance>
    <bibframe:Instance rdf:about="urn:isbn:9781841593630">
       <marc:M001>016775554</marc:M001>
@@ -8071,7 +8071,7 @@
       <m:P30002>volume</m:P30002>
       <m:P30106>Everyman's Library ;</m:P30106>
       <m:P30165>363</m:P30165>
-      <bibframe:instanceOf rdf:resource="/astudyinscarletthesignoffourthehoundofthebaskervilles/eng"/>
+      <bibframe:instanceOf rdf:resource="http://viaf.org/viaf/65283845/astudyinscarletthesignoffourthehoundofthebaskervilles/eng"/>
    </bibframe:Instance>
    <bibframe:Instance rdf:about="urn:isbn:9781843441229">
       <marc:M001>016226039</marc:M001>
@@ -8610,7 +8610,7 @@
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
       <m:P30106>Signature classics</m:P30106>
-      <bibframe:instanceOf rdf:resource="/thehoundofthebaskervillesandotherstories/eng"/>
+      <bibframe:instanceOf rdf:resource="http://viaf.org/viaf/65283845/thehoundofthebaskervillesandotherstories/eng"/>
    </bibframe:Instance>
    <bibframe:Instance rdf:about="urn:isbn:9781849891936">
       <marc:M001>018627991</marc:M001>
@@ -8846,7 +8846,7 @@
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
       <m:P30106>Real reads</m:P30106>
-      <bibframe:instanceOf rdf:resource="/astudyinscarlet/eng"/>
+      <bibframe:instanceOf rdf:resource="evanstony/astudyinscarlet/eng"/>
    </bibframe:Instance>
    <bibframe:Instance rdf:about="urn:isbn:9781906230586">
       <marc:M001>016134011</marc:M001>
@@ -8858,7 +8858,7 @@
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
       <m:P30106>Real reads</m:P30106>
-      <bibframe:instanceOf rdf:resource="/thesignofthefour/eng"/>
+      <bibframe:instanceOf rdf:resource="evanstony/thesignofthefour/eng"/>
    </bibframe:Instance>
    <bibframe:Instance rdf:about="urn:isbn:9781906838041">
       <marc:M001>015523312</marc:M001>
@@ -9151,7 +9151,7 @@
       <m:P30169>16 cm</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
-      <bibframe:instanceOf rdf:resource="/sherlockholmesthedarkmysteries/eng"/>
+      <bibframe:instanceOf rdf:resource="http://viaf.org/viaf/65283845/sherlockholmesthedarkmysteries/eng"/>
    </bibframe:Instance>
    <bibframe:Instance rdf:about="urn:isbn:9781909621732">
       <marc:M001>017871314</marc:M001>
@@ -9176,7 +9176,7 @@
       <m:P30169>16 cm</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
-      <bibframe:instanceOf rdf:resource="/thehoundofthebaskervillesandthevalleyoffear/eng"/>
+      <bibframe:instanceOf rdf:resource="http://viaf.org/viaf/65283845/thehoundofthebaskervillesandthevalleyoffear/eng"/>
    </bibframe:Instance>
    <bibframe:Instance rdf:about="urn:isbn:9781909621756">
       <marc:M001>017871316</marc:M001>
@@ -9201,7 +9201,7 @@
       <m:P30169>16 cm</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
-      <bibframe:instanceOf rdf:resource="/astudyinscarletthesignoffour/eng"/>
+      <bibframe:instanceOf rdf:resource="http://viaf.org/viaf/65283845/astudyinscarletthesignoffour/eng"/>
    </bibframe:Instance>
    <bibframe:Instance rdf:about="urn:isbn:9781909621770">
       <marc:M001>017871318</marc:M001>
@@ -9263,7 +9263,7 @@
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
       <m:P30106>Classics illustrated</m:P30106>
-      <bibframe:instanceOf rdf:resource="/astudyinscarletasherlockholmesmystery/eng"/>
+      <bibframe:instanceOf rdf:resource="fitchkennethw/astudyinscarletasherlockholmesmystery/eng"/>
    </bibframe:Instance>
    <bibframe:Instance rdf:about="urn:isbn:9781911547419">
       <marc:M001>019086835</marc:M001>
@@ -9353,7 +9353,7 @@
       <m:P30169>22 cm</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
-      <bibframe:instanceOf rdf:resource="/thedefinitivesherlockholmes/eng"/>
+      <bibframe:instanceOf rdf:resource="http://viaf.org/viaf/65283845/thedefinitivesherlockholmes/eng"/>
    </bibframe:Instance>
    <bibframe:Instance rdf:about="urn:isbn:9788131932551">
       <marc:M001>018988813</marc:M001>
@@ -9431,6 +9431,7 @@
       <ex:relatorcode>aut</ex:relatorcode>
       <a:P50111>Adams, Jennifer</a:P50111>
       <a:P50107>1970-</a:P50107>
+      <a:P50195 rdf:resource="adamsjennifer/sherlockholmesinthehoundofthebaskervilles/eng"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="adamsrichard">
       <a:P50111>Adams, Richard</a:P50111>
@@ -9443,21 +9444,24 @@
    </bibframe:Person>
    <bibframe:Person rdf:about="aitchisonmartin">
       <a:P50111>Aitchison, Martin</a:P50111>
-      <a:P50161 rdf:resource="/thelostworld/eng"/>
       <a:P50469 rdf:resource="/thelostworld/eng"/>
+      <a:P50469 rdf:resource="collinsjoan/thelostworld/eng"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="asburyanna">
       <a:P50111>Asbury, Anna</a:P50111>
-      <a:P50145 rdf:resource="/tekenvanvier/eng"/>
-      <a:P50145 rdf:resource="/manmethetlitteken/eng"/>
-      <a:P50145 rdf:resource="/gespikkeldeband/eng"/>
+      <a:P50145 rdf:resource="bakkerhelene/tekenvanvier/eng"/>
+      <a:P50145 rdf:resource="bakkerhelene/manmethetlitteken/eng"/>
+      <a:P50145 rdf:resource="bakkerhelene/gespikkeldeband/eng"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="bakkerhelene">
       <ex:relatorcode>aut</ex:relatorcode>
       <a:P50111>Bakker, Helene</a:P50111>
       <a:P50195 rdf:resource="/tekenvanvier"/>
+      <a:P50195 rdf:resource="bakkerhelene/tekenvanvier/eng"/>
       <a:P50195 rdf:resource="/manmethetlitteken"/>
+      <a:P50195 rdf:resource="bakkerhelene/manmethetlitteken/eng"/>
       <a:P50195 rdf:resource="/gespikkeldeband"/>
+      <a:P50195 rdf:resource="bakkerhelene/gespikkeldeband/eng"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="barberdaniel">
       <a:P50111>Barber, Daniel</a:P50111>
@@ -9472,6 +9476,8 @@
       <ex:relatorcode>aut</ex:relatorcode>
       <a:P50111>Bassett, Jennifer</a:P50111>
       <ex:relatorcode>cre</ex:relatorcode>
+      <a:P50195 rdf:resource="bassettjennifer/sherlockholmesandthedukesson/eng"/>
+      <a:P50195 rdf:resource="bassettjennifer/sherlockholmesandthesportofkings/eng"/>
       <a:P50204 rdf:resource="/sherlockholmesandthedukesson/eng"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="bayardpierre">
@@ -9479,10 +9485,12 @@
       <a:P50111>Bayard, Pierre</a:P50111>
       <a:P50107>1954-</a:P50107>
       <a:P50195 rdf:resource="/affaireduchiendesbaskerville"/>
+      <a:P50195 rdf:resource="bayardpierre/affaireduchiendesbaskerville/eng"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="beechmark">
       <a:P50111>Beech, Mark</a:P50111>
       <a:P50107>1971-</a:P50107>
+      <a:P50469 rdf:resource="gatessusan/thelostworld/eng"/>
       <a:P50469 rdf:resource="/thelostworld/eng"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="bennettandrew">
@@ -9493,8 +9501,8 @@
    <bibframe:Person rdf:about="bennettfelix">
       <a:P50111>Bennett, Felix</a:P50111>
       <a:P50469 rdf:resource="/thehoundofthebaskervilles/eng"/>
-      <a:P50469 rdf:resource="/thesignofthefour/eng"/>
-      <a:P50469 rdf:resource="/astudyinscarlet/eng"/>
+      <a:P50469 rdf:resource="evanstony/thesignofthefour/eng"/>
+      <a:P50469 rdf:resource="evanstony/astudyinscarlet/eng"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="berkeleyjon">
       <a:P50111>Berkeley, Jon</a:P50111>
@@ -9515,6 +9523,7 @@
       <ex:relatorcode>aut</ex:relatorcode>
       <a:P50111>Bowler, Bill</a:P50111>
       <ex:relatorcode>adp</ex:relatorcode>
+      <a:P50195 rdf:resource="bowlerbill/sherlockholmesthebluediamond/eng"/>
       <a:P50447 rdf:resource="/sherlockholmesthebluediamond/eng"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="briggsnicholas">
@@ -9563,6 +9572,7 @@
       <a:P50111>Collins, Joan</a:P50111>
       <a:P50107>1917-</a:P50107>
       <ex:relatorcode>aut</ex:relatorcode>
+      <a:P50195 rdf:resource="collinsjoan/thelostworld/eng"/>
       <a:P50204 rdf:resource="/thelostworld/eng"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="cortesdaniel">
@@ -9599,7 +9609,7 @@
    <bibframe:Person rdf:about="daviesdavidstuart">
       <a:P50111>Davies, David Stuart</a:P50111>
       <a:P50107>1946-</a:P50107>
-      <a:P50161 rdf:resource="/sherlockholmesthedarkmysteries/eng"/>
+      <a:P50161 rdf:resource="http://viaf.org/viaf/65283845/sherlockholmesthedarkmysteries/eng"/>
       <a:P50161 rdf:resource="http://viaf.org/viaf/174141344/eng"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="dewsnaprobert">
@@ -9608,7 +9618,7 @@
    </bibframe:Person>
    <bibframe:Person rdf:about="dirdamichael">
       <a:P50111>Dirda, Michael</a:P50111>
-      <a:P50161 rdf:resource="/sherlockholmesthenovels/eng"/>
+      <a:P50161 rdf:resource="http://viaf.org/viaf/65283845/sherlockholmesthenovels/eng"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="dobbsfrank">
       <ex:relatorcode>edt</ex:relatorcode>
@@ -9640,6 +9650,8 @@
    <bibframe:Person rdf:about="evanstony">
       <a:P50111>Evans, Tony</a:P50111>
       <ex:relatorcode>aut</ex:relatorcode>
+      <a:P50195 rdf:resource="evanstony/thesignofthefour/eng"/>
+      <a:P50195 rdf:resource="evanstony/astudyinscarlet/eng"/>
       <a:P50204 rdf:resource="/thehoundofthebaskervilles/eng"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="evansvirginia">
@@ -9651,6 +9663,7 @@
    <bibframe:Person rdf:about="fitchkennethw">
       <ex:relatorcode>aut</ex:relatorcode>
       <a:P50111>Fitch, Kenneth W</a:P50111>
+      <a:P50195 rdf:resource="fitchkennethw/astudyinscarletasherlockholmesmystery/eng"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="flynnadrian">
       <ex:relatorcode>cre</ex:relatorcode>
@@ -9669,20 +9682,26 @@
    <bibframe:Person rdf:about="francispauline">
       <ex:relatorcode>aut</ex:relatorcode>
       <a:P50111>Francis, Pauline</a:P50111>
+      <a:P50195 rdf:resource="francispauline/thehoundofthebaskervilles/eng"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="fraylingchristopher">
       <a:P50111>Frayling, Christopher</a:P50111>
       <a:P50161 rdf:resource="http://viaf.org/viaf/181625655/eng"/>
    </bibframe:Person>
+   <bibframe:Person rdf:about="gabbyterry">
+      <a:P50111>Gabby, Terry</a:P50111>
+      <a:P50469 rdf:resource="http://viaf.org/viaf/181625655/eng"/>
+   </bibframe:Person>
    <bibframe:Person rdf:about="gatessusan">
       <ex:relatorcode>aut</ex:relatorcode>
       <a:P50111>Gates, Susan</a:P50111>
       <ex:relatorcode>cre</ex:relatorcode>
+      <a:P50195 rdf:resource="gatessusan/thelostworld/eng"/>
       <a:P50204 rdf:resource="/thelostworld/eng"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="gatissmark">
       <a:P50111>Gatiss, Mark</a:P50111>
-      <a:P50189 rdf:resource="/sherlock/eng"/>
+      <a:P50189 rdf:resource="http://viaf.org/viaf/65283845/sherlock/eng"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="gillettewilliam">
       <ex:relatorcode>cre</ex:relatorcode>
@@ -9711,11 +9730,13 @@
    <bibframe:Person rdf:about="hajdinjakkrecmarsela">
       <a:P50111>Hajdinjak-Kreč, Marsela</a:P50111>
       <a:P50469 rdf:resource="/sherlockholmestheemeraldcrown/eng"/>
+      <a:P50469 rdf:resource="hardygouldjanet/sherlockholmestheemeraldcrown/eng"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="hardygouldjanet">
       <ex:relatorcode>adp</ex:relatorcode>
       <a:P50111>Hardy-Gould, Janet</a:P50111>
       <ex:relatorcode>aut</ex:relatorcode>
+      <a:P50195 rdf:resource="hardygouldjanet/sherlockholmestheemeraldcrown/eng"/>
       <a:P50447 rdf:resource="/sherlockholmestheemeraldcrown/eng"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="harveybob">
@@ -9760,7 +9781,7 @@
       <x:P00014 rdf:resource="/astudyinscarletandthesignoffour/eng"/>
       <x:P00014 rdf:resource="/sherlockholmesincornwall/eng"/>
       <x:P00014 rdf:resource="http://viaf.org/viaf/174141344/eng"/>
-      <x:P00014 rdf:resource="/sherlockholmesthehoundofthebaskervilles/eng"/>
+      <x:P00014 rdf:resource="unglikrichard/sherlockholmesthehoundofthebaskervilles/eng"/>
       <x:P00014 rdf:resource="http://www.wikidata.org/entity/q1140678/eng"/>
       <x:P00014 rdf:resource="/pesbaskervillsky"/>
       <x:P00014 rdf:resource="/thehoundofthebaskervillesthesignofthefour/eng"/>
@@ -9768,19 +9789,22 @@
       <x:P00014 rdf:resource="/thebestofsherlockholmes/eng"/>
       <x:P00014 rdf:resource="/thenewannotatedsherlockholmesthenovels/eng"/>
       <x:P00014 rdf:resource="/thehoundofthebaskervilles/eng"/>
-      <x:P00014 rdf:resource="/thesignofthefour/eng"/>
-      <x:P00014 rdf:resource="/astudyinscarlet/eng"/>
+      <x:P00014 rdf:resource="evanstony/thesignofthefour/eng"/>
+      <x:P00014 rdf:resource="evanstony/astudyinscarlet/eng"/>
       <x:P00014 rdf:resource="http://www.wikidata.org/entity/q461026/eng"/>
       <x:P00014 rdf:resource="http://viaf.org/viaf/3283155226707084490002/eng"/>
-      <x:P00014 rdf:resource="/sherlockholmescollectionanthologyofclassictales/eng"/>
+      <x:P00014 rdf:resource="http://viaf.org/viaf/65283845/sherlockholmescollectionanthologyofclassictales/eng"/>
       <x:P00014 rdf:resource="http://viaf.org/viaf/1390154501894339210002/eng"/>
-      <x:P00014 rdf:resource="/sherlockholmesthebluediamond/eng"/>
-      <x:P00014 rdf:resource="/thehoundofthebaskervillesandotherstories/eng"/>
-      <x:P00014 rdf:resource="/astudyinscarletasherlockholmesmystery/eng"/>
+      <x:P00014 rdf:resource="bowlerbill/sherlockholmesthebluediamond/eng"/>
+      <x:P00014 rdf:resource="http://viaf.org/viaf/65283845/thehoundofthebaskervillesandotherstories/eng"/>
+      <x:P00014 rdf:resource="http://viaf.org/viaf/65283845/sherlockholmesthenovels/eng"/>
+      <x:P00014 rdf:resource="fitchkennethw/astudyinscarletasherlockholmesmystery/eng"/>
       <x:P00014 rdf:resource="/houndedbybaskervilles/eng"/>
-      <x:P00014 rdf:resource="/thedefinitivesherlockholmes/eng"/>
+      <x:P00014 rdf:resource="http://viaf.org/viaf/65283845/thedefinitivesherlockholmes/eng"/>
       <x:P00014 rdf:resource="/arthurconandoylesthehoundofthebaskervilles/eng"/>
+      <x:P00014 rdf:resource="francispauline/thehoundofthebaskervilles/eng"/>
       <x:P00014 rdf:resource="/sherlockholmesandtheadventureofthebluegem/eng"/>
+      <x:P00014 rdf:resource="http://viaf.org/viaf/65283845/astudyinscarletandthesignoffour/eng"/>
       <x:P00014 rdf:resource="/sherlockholmesandtheadventureofthesussexvampire/eng"/>
       <x:P00014 rdf:resource="/sherlockholmesandtheadventureattheabbeygrange/eng"/>
       <x:P00014 rdf:resource="/sherlockholmesandtheadventureofthespeckledband/eng"/>
@@ -9791,17 +9815,18 @@
       <x:P00014 rdf:resource="/sherlockholmesandthemysteryofboscombepool/eng"/>
       <x:P00014 rdf:resource="/sirarthurconandoylesthespeckledband/eng"/>
       <x:P00014 rdf:resource="/steampunkholmeslegacyofthenautilus/eng"/>
-      <x:P00014 rdf:resource="/thehoundofthebaskervillesandthevalleyoffear/eng"/>
+      <x:P00014 rdf:resource="http://viaf.org/viaf/65283845/thehoundofthebaskervillesandthevalleyoffear/eng"/>
+      <x:P00014 rdf:resource="/thesignofthefour/eng"/>
       <x:P00014 rdf:resource="/sherlockholmeshisgreatestcases/eng"/>
-      <x:P00014 rdf:resource="/thevalleyoffear/eng"/>
+      <x:P00014 rdf:resource="http://viaf.org/viaf/65283845/thevalleyoffear/eng"/>
       <x:P00014 rdf:resource="http://www.wikidata.org/entity/q265546/eng"/>
       <x:P00014 rdf:resource="/sherlockholmesandthedukesson/eng"/>
       <x:P00014 rdf:resource="/theadventuresofsherlockholmes/eng"/>
-      <x:P00014 rdf:resource="/astudyinscarletthesignoffour/eng"/>
+      <x:P00014 rdf:resource="http://viaf.org/viaf/65283845/astudyinscarletthesignoffour/eng"/>
       <x:P00014 rdf:resource="/thehoundofbaskervilles/eng"/>
       <x:P00014 rdf:resource="/tekenvanvier"/>
       <x:P00014 rdf:resource="/manmethetlitteken"/>
-      <x:P00014 rdf:resource="/sherlockholmes/eng"/>
+      <x:P00014 rdf:resource="http://viaf.org/viaf/65283845/sherlockholmes/eng"/>
       <x:P00014 rdf:resource="/astudyinscarletandothersherlockholmesadventures/eng"/>
       <x:P00014 rdf:resource="/sherlockholmestheshortstories/eng"/>
       <x:P00014 rdf:resource="/sherlockholmesthecompleteandunabridgednovels/eng"/>
@@ -9809,15 +9834,19 @@
       <x:P00014 rdf:resource="/waterlooandthespeckledband/eng"/>
       <x:P00014 rdf:resource="http://www.wikidata.org/entity/q1201796/eng"/>
       <x:P00014 rdf:resource="/thevalleyoffearothersherlockholmesstories/eng"/>
-      <x:P00014 rdf:resource="/thesherlockholmescollection/eng"/>
-      <x:P00014 rdf:resource="/thehoundofthebaskervillesthevalleyoffear/eng"/>
+      <x:P00014 rdf:resource="http://viaf.org/viaf/65283845/thesherlockholmescollection/eng"/>
+      <x:P00014 rdf:resource="http://viaf.org/viaf/65283845/thehoundofthebaskervillesthevalleyoffear/eng"/>
       <x:P00014 rdf:resource="http://www.wikidata.org/entity/q1193379/eng"/>
       <x:P00014 rdf:resource="/kenludwigsbaskervilleasherlockholmesmystery/eng"/>
       <x:P00014 rdf:resource="/skandalvcechach"/>
-      <x:P00014 rdf:resource="/astudyinscarletthesignoffourthehoundofthebaskervilles/eng"/>
+      <x:P00014 rdf:resource="http://viaf.org/viaf/65283845/astudyinscarletthesignoffourthehoundofthebaskervilles/eng"/>
+      <x:P00014 rdf:resource="/sherlockholmesthebluediamond/eng"/>
       <x:P00014 rdf:resource="http://www.wikidata.org/entity/q1192541/eng"/>
-      <x:P00014 rdf:resource="/sherlock/eng"/>
-      <x:P00014 rdf:resource="/sherlockholmestherussianconnectionandothernewadventures/eng"/>
+      <x:P00014 rdf:resource="http://viaf.org/viaf/65283845/thememoirsofsherlockholmes/eng"/>
+      <x:P00014 rdf:resource="http://viaf.org/viaf/65283845/sherlock/eng"/>
+      <x:P00014 rdf:resource="scottn/sherlockholmestherussianconnectionandothernewadventures/eng"/>
+      <x:P00014 rdf:resource="/thevalleyoffear/eng"/>
+      <x:P00014 rdf:resource="/thehoundofthebaskervillesthevalleyoffear/eng"/>
       <x:P00014 rdf:resource="http://www.wikidata.org/entity/q2446784/eng"/>
       <x:P00014 rdf:resource="/gespikkeldeband"/>
       <x:P00014 rdf:resource="/theadventuresofsherlockholmesandthememoirsofsherlockholmes/eng"/>
@@ -9825,12 +9854,12 @@
    <bibframe:Person rdf:about="http://viaf.org/viaf/2555146">
       <a:P50111>Paget, Sidney</a:P50111>
       <a:P50107>1860-1908</a:P50107>
-      <a:P50161 rdf:resource="/thecompletesherlockholmes/eng"/>
-      <a:P50161 rdf:resource="http://viaf.org/viaf/181625655/eng"/>
-      <a:P50469 rdf:resource="/sherlockholmesthedarkmysteries/eng"/>
-      <a:P50469 rdf:resource="/thehoundofthebaskervillesandotherstories/eng"/>
+      <a:P50469 rdf:resource="http://viaf.org/viaf/65283845/sherlockholmesthedarkmysteries/eng"/>
+      <a:P50469 rdf:resource="http://viaf.org/viaf/65283845/thehoundofthebaskervillesandotherstories/eng"/>
+      <a:P50469 rdf:resource="/thecompletesherlockholmes/eng"/>
       <a:P50469 rdf:resource="http://viaf.org/viaf/174141344/eng"/>
       <a:P50469 rdf:resource="http://viaf.org/viaf/186734487/eng"/>
+      <a:P50469 rdf:resource="http://viaf.org/viaf/181625655/eng"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="http://viaf.org/viaf/308763542">
       <a:P50111>Watson, John H</a:P50111>
@@ -9854,25 +9883,28 @@
       <x:P00014 rdf:resource="/astudyinscarletandthesignoffour/eng"/>
       <x:P00014 rdf:resource="/sherlockholmesincornwall/eng"/>
       <x:P00014 rdf:resource="http://viaf.org/viaf/174141344/eng"/>
-      <x:P00014 rdf:resource="/sherlockholmesthehoundofthebaskervilles/eng"/>
+      <x:P00014 rdf:resource="unglikrichard/sherlockholmesthehoundofthebaskervilles/eng"/>
       <x:P00014 rdf:resource="http://www.wikidata.org/entity/q1140678/eng"/>
       <x:P00014 rdf:resource="/pesbaskervillsky"/>
       <x:P00014 rdf:resource="/thehoundofthebaskervillesthesignofthefour/eng"/>
       <x:P00014 rdf:resource="/thenewannotatedsherlockholmesthenovels/eng"/>
       <x:P00014 rdf:resource="/thehoundofthebaskervilles/eng"/>
-      <x:P00014 rdf:resource="/thesignofthefour/eng"/>
-      <x:P00014 rdf:resource="/astudyinscarlet/eng"/>
+      <x:P00014 rdf:resource="evanstony/thesignofthefour/eng"/>
+      <x:P00014 rdf:resource="evanstony/astudyinscarlet/eng"/>
       <x:P00014 rdf:resource="http://www.wikidata.org/entity/q461026/eng"/>
       <x:P00014 rdf:resource="http://viaf.org/viaf/3283155226707084490002/eng"/>
-      <x:P00014 rdf:resource="/sherlockholmescollectionanthologyofclassictales/eng"/>
+      <x:P00014 rdf:resource="http://viaf.org/viaf/65283845/sherlockholmescollectionanthologyofclassictales/eng"/>
       <x:P00014 rdf:resource="http://viaf.org/viaf/1390154501894339210002/eng"/>
-      <x:P00014 rdf:resource="/sherlockholmesthebluediamond/eng"/>
-      <x:P00014 rdf:resource="/thehoundofthebaskervillesandotherstories/eng"/>
-      <x:P00014 rdf:resource="/astudyinscarletasherlockholmesmystery/eng"/>
+      <x:P00014 rdf:resource="bowlerbill/sherlockholmesthebluediamond/eng"/>
+      <x:P00014 rdf:resource="http://viaf.org/viaf/65283845/thehoundofthebaskervillesandotherstories/eng"/>
+      <x:P00014 rdf:resource="http://viaf.org/viaf/65283845/sherlockholmesthenovels/eng"/>
+      <x:P00014 rdf:resource="fitchkennethw/astudyinscarletasherlockholmesmystery/eng"/>
       <x:P00014 rdf:resource="http://www.wikidata.org/entity/q1129378/eng"/>
-      <x:P00014 rdf:resource="/thedefinitivesherlockholmes/eng"/>
+      <x:P00014 rdf:resource="http://viaf.org/viaf/65283845/thedefinitivesherlockholmes/eng"/>
       <x:P00014 rdf:resource="/arthurconandoylesthehoundofthebaskervilles/eng"/>
+      <x:P00014 rdf:resource="francispauline/thehoundofthebaskervilles/eng"/>
       <x:P00014 rdf:resource="/sherlockholmesandtheadventureofthebluegem/eng"/>
+      <x:P00014 rdf:resource="http://viaf.org/viaf/65283845/astudyinscarletandthesignoffour/eng"/>
       <x:P00014 rdf:resource="/sherlockholmesandtheadventureofthesussexvampire/eng"/>
       <x:P00014 rdf:resource="/sherlockholmesandtheadventureattheabbeygrange/eng"/>
       <x:P00014 rdf:resource="/sherlockholmesandtheadventureofthespeckledband/eng"/>
@@ -9883,31 +9915,36 @@
       <x:P00014 rdf:resource="/sherlockholmesandthemysteryofboscombepool/eng"/>
       <x:P00014 rdf:resource="/sirarthurconandoylesthespeckledband/eng"/>
       <x:P00014 rdf:resource="/steampunkholmeslegacyofthenautilus/eng"/>
-      <x:P00014 rdf:resource="/thehoundofthebaskervillesandthevalleyoffear/eng"/>
+      <x:P00014 rdf:resource="http://viaf.org/viaf/65283845/thehoundofthebaskervillesandthevalleyoffear/eng"/>
+      <x:P00014 rdf:resource="/thesignofthefour/eng"/>
       <x:P00014 rdf:resource="/sherlockholmeshisgreatestcases/eng"/>
-      <x:P00014 rdf:resource="/thevalleyoffear/eng"/>
+      <x:P00014 rdf:resource="http://viaf.org/viaf/65283845/thevalleyoffear/eng"/>
       <x:P00014 rdf:resource="http://www.wikidata.org/entity/q265546/eng"/>
       <x:P00014 rdf:resource="/sherlockholmesandthedukesson/eng"/>
       <x:P00014 rdf:resource="/theadventuresofsherlockholmes/eng"/>
-      <x:P00014 rdf:resource="/astudyinscarletthesignoffour/eng"/>
+      <x:P00014 rdf:resource="http://viaf.org/viaf/65283845/astudyinscarletthesignoffour/eng"/>
       <x:P00014 rdf:resource="/thehoundofbaskervilles/eng"/>
       <x:P00014 rdf:resource="/tekenvanvier"/>
       <x:P00014 rdf:resource="/manmethetlitteken"/>
-      <x:P00014 rdf:resource="/sherlockholmes/eng"/>
+      <x:P00014 rdf:resource="http://viaf.org/viaf/65283845/sherlockholmes/eng"/>
       <x:P00014 rdf:resource="/astudyinscarletandothersherlockholmesadventures/eng"/>
       <x:P00014 rdf:resource="/sherlockholmestheshortstories/eng"/>
       <x:P00014 rdf:resource="/sherlockholmesthecompleteandunabridgednovels/eng"/>
       <x:P00014 rdf:resource="/thememoirsofsherlockholmes/eng"/>
       <x:P00014 rdf:resource="http://www.wikidata.org/entity/q1201796/eng"/>
       <x:P00014 rdf:resource="/thevalleyoffearothersherlockholmesstories/eng"/>
-      <x:P00014 rdf:resource="/thesherlockholmescollection/eng"/>
-      <x:P00014 rdf:resource="/thehoundofthebaskervillesthevalleyoffear/eng"/>
+      <x:P00014 rdf:resource="http://viaf.org/viaf/65283845/thesherlockholmescollection/eng"/>
+      <x:P00014 rdf:resource="http://viaf.org/viaf/65283845/thehoundofthebaskervillesthevalleyoffear/eng"/>
       <x:P00014 rdf:resource="http://www.wikidata.org/entity/q1193379/eng"/>
       <x:P00014 rdf:resource="/skandalvcechach"/>
-      <x:P00014 rdf:resource="/astudyinscarletthesignoffourthehoundofthebaskervilles/eng"/>
+      <x:P00014 rdf:resource="http://viaf.org/viaf/65283845/astudyinscarletthesignoffourthehoundofthebaskervilles/eng"/>
+      <x:P00014 rdf:resource="/sherlockholmesthebluediamond/eng"/>
       <x:P00014 rdf:resource="http://www.wikidata.org/entity/q1192541/eng"/>
-      <x:P00014 rdf:resource="/sherlock/eng"/>
-      <x:P00014 rdf:resource="/sherlockholmestherussianconnectionandothernewadventures/eng"/>
+      <x:P00014 rdf:resource="http://viaf.org/viaf/65283845/thememoirsofsherlockholmes/eng"/>
+      <x:P00014 rdf:resource="http://viaf.org/viaf/65283845/sherlock/eng"/>
+      <x:P00014 rdf:resource="scottn/sherlockholmestherussianconnectionandothernewadventures/eng"/>
+      <x:P00014 rdf:resource="/thevalleyoffear/eng"/>
+      <x:P00014 rdf:resource="/thehoundofthebaskervillesthevalleyoffear/eng"/>
       <x:P00014 rdf:resource="http://www.wikidata.org/entity/q2446784/eng"/>
       <x:P00014 rdf:resource="/gespikkeldeband"/>
       <x:P00014 rdf:resource="/theadventuresandmemoirsofsherlockholmes/eng"/>
@@ -9930,12 +9967,60 @@
       <a:P50111>Doyle, Arthur Conan</a:P50111>
       <a:P50107>1859-1930</a:P50107>
       <ex:relatorcode>aut</ex:relatorcode>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/294145857904223021237/eng"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/65283845/sherlockholmesthedarkmysteries/eng"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/181846531/eng"/>
+      <a:P50195 rdf:resource="http://www.wikidata.org/entity/q3041826/eng"/>
+      <a:P50195 rdf:resource="http://www.wikidata.org/entity/q2466799/eng"/>
+      <a:P50195 rdf:resource="http://www.wikidata.org/entity/q3041819/eng"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/181625655/eng"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/184892317/eng"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/3904151051822033530005/eng"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/175571309/eng"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/174141344/eng"/>
+      <a:P50195 rdf:resource="http://www.wikidata.org/entity/q19086389/eng"/>
+      <a:P50195 rdf:resource="http://www.wikidata.org/entity/q1140678/eng"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/186734487/eng"/>
       <a:P50195 rdf:resource="http://viaf.org/viaf/181625655"/>
+      <a:P50195 rdf:resource="http://www.wikidata.org/entity/q860831/eng"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/308560745/eng"/>
+      <a:P50195 rdf:resource="http://www.wikidata.org/entity/q461026/eng"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/3283155226707084490002/eng"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/179061639/eng"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/65283845/sherlockholmescollectionanthologyofclassictales/eng"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/1390154501894339210002/eng"/>
+      <a:P50195 rdf:resource="http://www.wikidata.org/entity/q725752/eng"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/65283845/thehoundofthebaskervillesandotherstories/eng"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/65283845/sherlockholmesthenovels/eng"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/310211956/eng"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/6035152865746704940001/eng"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/65283845/thedefinitivesherlockholmes/eng"/>
+      <a:P50195 rdf:resource="http://www.wikidata.org/entity/q2660166/eng"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/65283845/astudyinscarletandthesignoffour/eng"/>
+      <a:P50195 rdf:resource="http://www.wikidata.org/entity/q1151748/eng"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/65283845/sirarthurconandoylethedoverreader/eng"/>
       <a:P50195 rdf:resource="http://www.wikidata.org/entity/q1192541"/>
       <a:P50195 rdf:resource="http://www.wikidata.org/entity/q3235556"/>
       <a:P50195 rdf:resource="http://www.wikidata.org/entity/q1201451"/>
       <a:P50195 rdf:resource="http://www.wikidata.org/entity/q461026"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/65283845/thehoundofthebaskervillesandthevalleyoffear/eng"/>
+      <a:P50195 rdf:resource="http://www.wikidata.org/entity/q1129378/eng"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/65283845/thevalleyoffear/eng"/>
+      <a:P50195 rdf:resource="http://www.wikidata.org/entity/q265546/eng"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/65283845/astudyinscarletthesignoffour/eng"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/310212942/eng"/>
       <a:P50195 rdf:resource="http://viaf.org/viaf/180817010"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/65283845/sherlockholmes/eng"/>
+      <a:P50195 rdf:resource="http://www.wikidata.org/entity/q1201796/eng"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/65283845/thesherlockholmescollection/eng"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/65283845/thehoundofthebaskervillesthevalleyoffear/eng"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/65283845/astudyinscarletthesignoffourthehoundofthebaskervilles/eng"/>
+      <a:P50195 rdf:resource="http://www.wikidata.org/entity/q1192541/eng"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/65283845/thememoirsofsherlockholmes/eng"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/65283845/sherlock/eng"/>
+      <a:P50195 rdf:resource="http://www.wikidata.org/entity/q2446784/eng"/>
+      <a:P50195 rdf:resource="http://www.wikidata.org/entity/q1193379/eng"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/179668970/eng"/>
       <a:P50204 rdf:resource="http://viaf.org/viaf/3904151051822033530005/eng"/>
       <a:P50204 rdf:resource="http://viaf.org/viaf/294145857904223021237/eng"/>
       <a:P50204 rdf:resource="http://www.wikidata.org/entity/q860831/eng"/>
@@ -10037,12 +10122,13 @@
    <bibframe:Person rdf:about="joneskelley">
       <a:P50111>Jones, Kelley</a:P50111>
       <a:P50107>1962-</a:P50107>
-      <a:P50161 rdf:resource="/ascandalinbohemiaothersherlockholmesstories/eng"/>
+      <a:P50469 rdf:resource="/ascandalinbohemiaothersherlockholmesstories/eng"/>
       <a:P50469 rdf:resource="/thevalleyoffearothersherlockholmesstories/eng"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="joneskelvini">
       <a:P50111>Jones, Kelvin I</a:P50111>
       <a:P50189 rdf:resource="/sherlockholmesincornwall/eng"/>
+      <a:P50528 rdf:resource="/sherlockholmesincornwall/eng"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="jonesmatt">
       <a:P50111>Jones, Matt</a:P50111>
@@ -10072,6 +10158,7 @@
       <ex:relatorcode>aut</ex:relatorcode>
       <a:P50111>Kingsley, Susan</a:P50111>
       <a:P50107>1960-</a:P50107>
+      <a:P50195 rdf:resource="kingsleysusan/thelostworld/eng"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="klingerleslies">
       <a:P50111>Klinger, Leslie S</a:P50111>
@@ -10084,10 +10171,13 @@
       <ex:relatorcode>cre</ex:relatorcode>
       <ex:relatorcode>aut</ex:relatorcode>
       <a:P50195 rdf:resource="/skandalvcechach"/>
+      <a:P50195 rdf:resource="koplpetr/skandalvcechach/eng"/>
       <a:P50204 rdf:resource="/thelostworld/eng"/>
+      <a:P50469 rdf:resource="/pesbaskervillsky"/>
       <a:P50469 rdf:resource="/pesbaskervillsky/eng"/>
       <a:P50469 rdf:resource="/thelostworld/eng"/>
-      <a:P50469 rdf:resource="/skandalvcechach/eng"/>
+      <a:P50469 rdf:resource="/skandalvcechach"/>
+      <a:P50469 rdf:resource="koplpetr/skandalvcechach/eng"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="laudeanthony">
       <a:P50111>Laude, Anthony</a:P50111>
@@ -10105,7 +10195,7 @@
    </bibframe:Person>
    <bibframe:Person rdf:about="lellenbergjonl">
       <a:P50111>Lellenberg, Jon L</a:P50111>
-      <a:P50161 rdf:resource="/sherlockholmescollectionanthologyofclassictales/eng"/>
+      <a:P50161 rdf:resource="http://viaf.org/viaf/65283845/sherlockholmescollectionanthologyofclassictales/eng"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="ludwigken">
       <ex:relatorcode>cre</ex:relatorcode>
@@ -10114,7 +10204,7 @@
    </bibframe:Person>
    <bibframe:Person rdf:about="lycettandrew">
       <a:P50111>Lycett, Andrew</a:P50111>
-      <a:P50161 rdf:resource="/astudyinscarletthesignoffourthehoundofthebaskervilles/eng"/>
+      <a:P50161 rdf:resource="http://viaf.org/viaf/65283845/astudyinscarletthesignoffourthehoundofthebaskervilles/eng"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="macalusopjames">
       <a:P50111>Macaluso, P. James</a:P50111>
@@ -10140,7 +10230,7 @@
    </bibframe:Person>
    <bibframe:Person rdf:about="mandellcharlotte">
       <a:P50111>Mandell, Charlotte</a:P50111>
-      <a:P50161 rdf:resource="/affaireduchiendesbaskerville/eng"/>
+      <a:P50161 rdf:resource="bayardpierre/affaireduchiendesbaskerville/eng"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="martinecksophia">
       <a:P50111>Martineck, Sophia</a:P50111>
@@ -10168,7 +10258,7 @@
    <bibframe:Person rdf:about="moffatsteven">
       <a:P50111>Moffat, Steven</a:P50111>
       <a:P50107>1961-</a:P50107>
-      <a:P50189 rdf:resource="/sherlock/eng"/>
+      <a:P50189 rdf:resource="http://viaf.org/viaf/65283845/sherlock/eng"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="moriarty">
       <a:P50111>Moriarty</a:P50111>
@@ -10184,7 +10274,7 @@
    </bibframe:Person>
    <bibframe:Person rdf:about="moskowitzseymour">
       <a:P50111>Moskowitz, Seymour</a:P50111>
-      <a:P50469 rdf:resource="/astudyinscarletasherlockholmesmystery/eng"/>
+      <a:P50469 rdf:resource="fitchkennethw/astudyinscarletasherlockholmesmystery/eng"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="mouldchris">
       <a:P50111>Mould, Chris</a:P50111>
@@ -10198,7 +10288,6 @@
    </bibframe:Person>
    <bibframe:Person rdf:about="newshamian">
       <a:P50111>Newsham, Ian</a:P50111>
-      <a:P50161 rdf:resource="http://viaf.org/viaf/294145857904223021237/eng"/>
       <a:P50469 rdf:resource="http://viaf.org/viaf/294145857904223021237/eng"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="nobespatrick">
@@ -10210,10 +10299,11 @@
    <bibframe:Person rdf:about="oconnorjohn">
       <a:P50111>O'Connor, John</a:P50111>
       <a:P50107>1947 February 19-</a:P50107>
+      <a:P50195 rdf:resource="oconnorjohn/thehoundofthebaskervilles/eng"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="oliveralison">
       <a:P50111>Oliver, Alison</a:P50111>
-      <a:P50469 rdf:resource="/sherlockholmesinthehoundofthebaskervilles/eng"/>
+      <a:P50469 rdf:resource="adamsjennifer/sherlockholmesinthehoundofthebaskervilles/eng"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="pagephilip">
       <a:P50111>Page, Philip</a:P50111>
@@ -10264,7 +10354,8 @@
       <a:P50111>Quinn, Tim</a:P50111>
       <a:P50107>1953-</a:P50107>
       <ex:relatorcode>aut</ex:relatorcode>
-      <a:P50204 rdf:resource="/sherlockholmesinthehoundofthebaskervilles/eng"/>
+      <a:P50195 rdf:resource="quinntim/sherlockholmesinthespeckledbandandthebluecarbuncle/eng"/>
+      <a:P50204 rdf:resource="searsgeorge/sherlockholmesinthehoundofthebaskervilles/eng"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="robsonww">
       <a:P50111>Robson, W. W</a:P50111>
@@ -10285,7 +10376,6 @@
    </bibframe:Person>
    <bibframe:Person rdf:about="rohrbachsophie">
       <a:P50111>Rohrbach, Sophie</a:P50111>
-      <a:P50161 rdf:resource="/sherlockholmesandtheadventureofthecardboardbox/eng"/>
       <a:P50469 rdf:resource="/sherlockholmesandtheadventureofthebluegem/eng"/>
       <a:P50469 rdf:resource="/sherlockholmesandtheadventureofthesussexvampire/eng"/>
       <a:P50469 rdf:resource="/sherlockholmesandtheadventureattheabbeygrange/eng"/>
@@ -10295,6 +10385,7 @@
       <a:P50469 rdf:resource="/sherlockholmesandtheadventureofthesixnapoleons/eng"/>
       <a:P50469 rdf:resource="/sherlockholmesandtheadventureatthecopperbeeches/eng"/>
       <a:P50469 rdf:resource="/sherlockholmesandtheredheadedleague/eng"/>
+      <a:P50469 rdf:resource="/sherlockholmesandtheadventureofthecardboardbox/eng"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="ronaldsonalan">
       <ex:relatorcode>cre</ex:relatorcode>
@@ -10304,6 +10395,7 @@
    </bibframe:Person>
    <bibframe:Person rdf:about="rowenaakinyemi">
       <a:P50111>Akinyemi, Rowena</a:P50111>
+      <a:P50528 rdf:resource="/thehoundofthebaskervilles/eng"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="salem">
       <a:P50111>Salem</a:P50111>
@@ -10316,15 +10408,18 @@
    <bibframe:Person rdf:about="scottn">
       <ex:relatorcode>aut</ex:relatorcode>
       <a:P50111>Scott, N</a:P50111>
+      <a:P50195 rdf:resource="scottn/sherlockholmestherussianconnectionandothernewadventures/eng"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="scottsusan">
       <a:P50111>Scott, Susan</a:P50111>
       <a:P50107>1962-</a:P50107>
+      <a:P50469 rdf:resource="bowlerbill/sherlockholmesthebluediamond/eng"/>
       <a:P50469 rdf:resource="/sherlockholmesthebluediamond/eng"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="searsgeorge">
       <a:P50111>Sears, George</a:P50111>
-      <a:P50161 rdf:resource="/sherlockholmesinthehoundofthebaskervilles/eng"/>
+      <a:P50195 rdf:resource="searsgeorge/sherlockholmesinthehoundofthebaskervilles/eng"/>
+      <a:P50195 rdf:resource="quinntim/sherlockholmesinthespeckledbandandthebluecarbuncle/eng"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="sharmanavin">
       <a:P50111>Sharma, Navin</a:P50111>
@@ -10352,13 +10447,13 @@
       <a:P50111>Simpson, Jana</a:P50111>
       <a:P50145 rdf:resource="/pesbaskervillsky/eng"/>
       <a:P50145 rdf:resource="/thelostworld/eng"/>
-      <a:P50145 rdf:resource="/skandalvcechach/eng"/>
+      <a:P50145 rdf:resource="koplpetr/skandalvcechach/eng"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="simpsonpaulmichael">
       <a:P50111>Simpson, Paul Michael</a:P50111>
       <a:P50145 rdf:resource="/pesbaskervillsky/eng"/>
       <a:P50145 rdf:resource="/thelostworld/eng"/>
-      <a:P50145 rdf:resource="/skandalvcechach/eng"/>
+      <a:P50145 rdf:resource="koplpetr/skandalvcechach/eng"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="smypam">
       <a:P50111>Smy, Pam</a:P50111>
@@ -10379,8 +10474,9 @@
    </bibframe:Person>
    <bibframe:Person rdf:about="tinerron">
       <a:P50111>Tiner, Ron</a:P50111>
+      <a:P50469 rdf:resource="bassettjennifer/sherlockholmesandthedukesson/eng"/>
+      <a:P50469 rdf:resource="bassettjennifer/sherlockholmesandthesportofkings/eng"/>
       <a:P50469 rdf:resource="/sherlockholmesandthedukesson/eng"/>
-      <a:P50469 rdf:resource="/sherlockholmesandthesportofkings/eng"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="towheedshafquat">
       <a:P50111>Towheed, Shafquat</a:P50111>
@@ -10390,6 +10486,7 @@
    <bibframe:Person rdf:about="unglikrichard">
       <ex:relatorcode>aut</ex:relatorcode>
       <a:P50111>Unglik, Richard</a:P50111>
+      <a:P50195 rdf:resource="unglikrichard/sherlockholmesthehoundofthebaskervilles/eng"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="warrinermercer">
       <a:P50111>Warriner, Mercer</a:P50111>
@@ -10398,12 +10495,14 @@
    <bibframe:Person rdf:about="westclare">
       <ex:relatorcode>aut</ex:relatorcode>
       <a:P50111>West, Clare</a:P50111>
+      <a:P50195 rdf:resource="westclare/sherlockholmesshortstories/eng"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="wilkspeter">
       <a:P50111>Wilks, Peter</a:P50111>
       <a:P50469 rdf:resource="/sherlockholmesintheadventureofthespeckledbandbysirarthurconandoyle/eng"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="williamsanthony">
+      <ex:relatorcode>art</ex:relatorcode>
       <a:P50111>Williams, Anthony</a:P50111>
       <a:P50107>1964-</a:P50107>
       <a:P50469 rdf:resource="/thehoundofthebaskervilles/eng"/>
@@ -10450,22 +10549,11 @@
    </bibframe:Work>
    <bibframe:Work rdf:about="/affaireduchiendesbaskerville">
       <w:P10088>Affaire du chien des Baskerville</w:P10088>
-      <bibframe:translation rdf:resource="/affaireduchiendesbaskerville/eng"/>
+      <bibframe:translation rdf:resource="bayardpierre/affaireduchiendesbaskerville/eng"/>
       <w:P10061 rdf:resource="bayardpierre"/>
       <w:P10256 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10256 rdf:resource="http://viaf.org/viaf/173636607"/>
       <w:P10290 rdf:resource="http://viaf.org/viaf/181625655"/>
-   </bibframe:Work>
-   <bibframe:Work rdf:about="/affaireduchiendesbaskerville/eng">
-      <e:P20006>eng</e:P20006>
-      <w:P10088>Affaire du chien des Baskerville</w:P10088>
-      <e:P20006>English</e:P20006>
-      <w:P10088>Sherlock Holmes was wrong</w:P10088>
-      <w:P10088>reopening the case of the Hound of the Baskervilles</w:P10088>
-      <w:P30117>Pierre Bayard ; translated from the French by Charlotte Mandell</w:P30117>
-      <bibframe:hasInstance rdf:resource="urn:isbn:9781608192441"/>
-      <bibframe:translationOf rdf:resource="/affaireduchiendesbaskerville"/>
-      <e:P20053 rdf:resource="mandellcharlotte"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="/arthurconandoylesthehoundofthebaskervilles/eng">
       <e:P20006>eng</e:P20006>
@@ -10493,20 +10581,10 @@
       <bibframe:hasPart rdf:resource="/stockbrokersclerk/eng"/>
       <bibframe:hasPart rdf:resource="http://viaf.org/viaf/309533947/eng"/>
       <bibframe:hasPart rdf:resource="/adventureoftheengineersthumb/eng"/>
-      <e:P20053 rdf:resource="joneskelley"/>
+      <m:P30321 rdf:resource="joneskelley"/>
       <w:P10065 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10256 rdf:resource="http://viaf.org/viaf/173636607"/>
       <w:P10256 rdf:resource="http://viaf.org/viaf/308763542"/>
-   </bibframe:Work>
-   <bibframe:Work rdf:about="/astudyinscarlet/eng">
-      <e:P20006>eng</e:P20006>
-      <w:P10088>A study in scarlet</w:P10088>
-      <w:P30117>Arthur Conan Doyle ; retold by Tony Evans ; illustrated by Felix Bennett</w:P30117>
-      <bibframe:hasInstance rdf:resource="urn:isbn:9781906230579"/>
-      <m:P30321 rdf:resource="bennettfelix"/>
-      <w:P10256 rdf:resource="http://viaf.org/viaf/173636607"/>
-      <w:P10256 rdf:resource="http://viaf.org/viaf/308763542"/>
-      <w:adaptationOfWork.en rdf:resource="http://viaf.org/viaf/179061639"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="/astudyinscarletandothersherlockholmesadventures/eng">
       <e:P20006>eng</e:P20006>
@@ -10536,10 +10614,7 @@
       <w:P10088>A study in Scarlet ;</w:P10088>
       <w:P30117>Sir Arthur Conan Doyle</w:P30117>
       <bibframe:hasInstance rdf:resource="urn:isbn:9781443813174"/>
-      <bibframe:hasInstance rdf:resource="urn:isbn:9781788884082"/>
-      <bibframe:hasInstance rdf:resource="urn:isbn:9781509826988"/>
       <bibframe:hasInstance rdf:resource="urn:isbn:0486431665"/>
-      <bibframe:hasInstance rdf:resource="urn:isbn:9781784288228"/>
       <bibframe:hasInstance rdf:resource="http://example.org/015366532"/>
       <bibframe:hasPart rdf:resource="http://viaf.org/viaf/184892317/eng"/>
       <bibframe:hasPart rdf:resource="http://viaf.org/viaf/179061639/eng"/>
@@ -10559,17 +10634,6 @@
       <w:adaptationOfWork.en rdf:resource="http://viaf.org/viaf/179061639"/>
       <w:basedOnWork.en rdf:resource="http://viaf.org/viaf/179061639"/>
    </bibframe:Work>
-   <bibframe:Work rdf:about="/astudyinscarletasherlockholmesmystery/eng">
-      <e:P20006>eng</e:P20006>
-      <w:P10088>A study in scarlet</w:P10088>
-      <w:P10088>a Sherlock Holmes mystery</w:P10088>
-      <w:P30117>by Arthur Conan Doyle ; adaptation, Kenneth W. Fitch ; illustrated by Seymour Moskowitz</w:P30117>
-      <bibframe:hasInstance rdf:resource="urn:isbn:9781910619698"/>
-      <m:P30321 rdf:resource="moskowitzseymour"/>
-      <w:P10256 rdf:resource="http://viaf.org/viaf/173636607"/>
-      <w:P10256 rdf:resource="http://viaf.org/viaf/308763542"/>
-      <w:adaptationOfWork.en rdf:resource="http://viaf.org/viaf/179061639"/>
-   </bibframe:Work>
    <bibframe:Work rdf:about="/astudyinscarletthehoundofthebaskervilles/eng">
       <e:P20006>eng</e:P20006>
       <w:P10088>A study in scarlet ;</w:P10088>
@@ -10580,33 +10644,9 @@
       <bibframe:hasPart rdf:resource="http://viaf.org/viaf/179061639/eng"/>
       <w:P10065 rdf:resource="http://viaf.org/viaf/65283845"/>
    </bibframe:Work>
-   <bibframe:Work rdf:about="/astudyinscarletthesignoffour/eng">
-      <e:P20006>eng</e:P20006>
-      <w:P10088>A study in Scarlet ;</w:P10088>
-      <w:P10088>&amp; The sign of four</w:P10088>
-      <w:P30117>Sir Arthur Conan Doyle</w:P30117>
-      <bibframe:hasInstance rdf:resource="urn:isbn:9781909621763"/>
-      <bibframe:hasPart rdf:resource="http://viaf.org/viaf/184892317/eng"/>
-      <bibframe:hasPart rdf:resource="http://viaf.org/viaf/179061639/eng"/>
-      <w:P10256 rdf:resource="http://viaf.org/viaf/173636607"/>
-      <w:P10256 rdf:resource="http://viaf.org/viaf/308763542"/>
-   </bibframe:Work>
-   <bibframe:Work rdf:about="/astudyinscarletthesignoffourthehoundofthebaskervilles/eng">
-      <e:P20006>eng</e:P20006>
-      <w:P10088>A study in scarlet ;</w:P10088>
-      <w:P10088>The sign of four ; The hound of the Baskervilles</w:P10088>
-      <w:P30117>Arthur Conan Doyle ; with an introduction by Andrew Lycett</w:P30117>
-      <bibframe:hasInstance rdf:resource="urn:isbn:9781841593630"/>
-      <bibframe:hasPart rdf:resource="http://viaf.org/viaf/179061639/eng"/>
-      <bibframe:hasPart rdf:resource="http://viaf.org/viaf/184892317/eng"/>
-      <bibframe:hasPart rdf:resource="http://viaf.org/viaf/181625655/eng"/>
-      <e:P20053 rdf:resource="lycettandrew"/>
-      <w:P10256 rdf:resource="http://viaf.org/viaf/173636607"/>
-      <w:P10256 rdf:resource="http://viaf.org/viaf/308763542"/>
-   </bibframe:Work>
    <bibframe:Work rdf:about="/bluecarbuncle/eng">
       <w:P10088>Blue carbuncle</w:P10088>
-      <bibframe:partOf rdf:resource="/sherlockholmesinthespeckledbandandthebluecarbuncle/eng"/>
+      <bibframe:partOf rdf:resource="quinntim/sherlockholmesinthespeckledbandandthebluecarbuncle/eng"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="/carmilla/eng">
       <w:P10088>Carmilla</w:P10088>
@@ -10619,7 +10659,7 @@
    </bibframe:Work>
    <bibframe:Work rdf:about="/caseofmistakenidentity/eng">
       <w:P10088>Case of [mistaken?] identity</w:P10088>
-      <bibframe:partOf rdf:resource="/thevalleyoffear/eng"/>
+      <bibframe:partOf rdf:resource="http://viaf.org/viaf/65283845/thevalleyoffear/eng"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="/childrensadventurescottishlosttreasures/eng">
       <e:P20006>eng</e:P20006>
@@ -10649,21 +10689,11 @@
    </bibframe:Work>
    <bibframe:Work rdf:about="/gespikkeldeband">
       <w:P10088>Gespikkelde band</w:P10088>
-      <bibframe:translation rdf:resource="/gespikkeldeband/eng"/>
+      <bibframe:translation rdf:resource="bakkerhelene/gespikkeldeband/eng"/>
       <w:P10061 rdf:resource="bakkerhelene"/>
       <w:P10142 rdf:resource="http://viaf.org/viaf/181846531"/>
       <w:P10256 rdf:resource="http://viaf.org/viaf/173636607"/>
       <w:P10256 rdf:resource="http://viaf.org/viaf/308763542"/>
-   </bibframe:Work>
-   <bibframe:Work rdf:about="/gespikkeldeband/eng">
-      <e:P20006>eng</e:P20006>
-      <w:P10088>Gespikkelde band</w:P10088>
-      <e:P20006>English</e:P20006>
-      <w:P10088>The speckled band</w:P10088>
-      <w:P30117>the famous story by Arthur Conan Doyle ; retold by Helene Bakker ; translation, Anna Asbury</w:P30117>
-      <bibframe:hasInstance rdf:resource="urn:isbn:9781783225354"/>
-      <bibframe:translationOf rdf:resource="/gespikkeldeband"/>
-      <e:P20037 rdf:resource="asburyanna"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="/hislastbowandthecasebookofsherlockholmes/eng">
       <e:P20006>eng</e:P20006>
@@ -10694,7 +10724,7 @@
    </bibframe:Work>
    <bibframe:Work rdf:about="/inthenameoftheking">
       <w:P10088>In the name of the king</w:P10088>
-      <w:P10155 rdf:resource="/skandalvcechach"/>
+      <w:P10251 rdf:resource="/skandalvcechach"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="/kenludwigsbaskervilleasherlockholmesmystery/eng">
       <e:P20006>eng</e:P20006>
@@ -10719,21 +10749,11 @@
    </bibframe:Work>
    <bibframe:Work rdf:about="/manmethetlitteken">
       <w:P10088>Man met het litteken</w:P10088>
-      <bibframe:translation rdf:resource="/manmethetlitteken/eng"/>
+      <bibframe:translation rdf:resource="bakkerhelene/manmethetlitteken/eng"/>
       <w:P10061 rdf:resource="bakkerhelene"/>
       <w:P10142 rdf:resource="http://www.wikidata.org/entity/q1151748"/>
       <w:P10256 rdf:resource="http://viaf.org/viaf/173636607"/>
       <w:P10256 rdf:resource="http://viaf.org/viaf/308763542"/>
-   </bibframe:Work>
-   <bibframe:Work rdf:about="/manmethetlitteken/eng">
-      <e:P20006>eng</e:P20006>
-      <w:P10088>Man met het litteken</w:P10088>
-      <e:P20006>English</e:P20006>
-      <w:P10088>The man with the twisted lip</w:P10088>
-      <w:P30117>the famous story by Arthur Conan Doyle ; retold by Helene Bakker ; translation, Anna Asbury</w:P30117>
-      <bibframe:hasInstance rdf:resource="urn:isbn:9781783225385"/>
-      <bibframe:translationOf rdf:resource="/manmethetlitteken"/>
-      <e:P20037 rdf:resource="asburyanna"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="/mildenhalltreasure/eng">
       <w:P10088>Mildenhall treasure</w:P10088>
@@ -10758,7 +10778,8 @@
    <bibframe:Work rdf:about="/pesbaskervillsky">
       <w:P10088>Pes Baskervillský</w:P10088>
       <bibframe:translation rdf:resource="/pesbaskervillsky/eng"/>
-      <w:P10142 rdf:resource="http://viaf.org/viaf/181625655"/>
+      <m:P30321 rdf:resource="koplpetr"/>
+      <w:P10252 rdf:resource="http://viaf.org/viaf/181625655"/>
       <w:P10256 rdf:resource="http://viaf.org/viaf/173636607"/>
       <w:P10256 rdf:resource="http://viaf.org/viaf/308763542"/>
    </bibframe:Work>
@@ -10793,20 +10814,7 @@
    </bibframe:Work>
    <bibframe:Work rdf:about="/russianconnectionandothernewadventures/eng">
       <w:P10088>Russian connection and other new adventures</w:P10088>
-      <bibframe:partOf rdf:resource="/sherlockholmestherussianconnectionandothernewadventures/eng"/>
-   </bibframe:Work>
-   <bibframe:Work rdf:about="/sherlock/eng">
-      <e:P20006>eng</e:P20006>
-      <w:P10088>Sherlock</w:P10088>
-      <w:P30117>selected and introduced by Mark Gatiss &amp; Steven Moffat</w:P30117>
-      <bibframe:hasInstance rdf:resource="urn:isbn:9781785942457"/>
-      <bibframe:hasPart rdf:resource="http://www.wikidata.org/entity/q860831/eng"/>
-      <bibframe:hasPart rdf:resource="http://viaf.org/viaf/181625655/eng"/>
-      <bibframe:hasPart rdf:resource="http://viaf.org/viaf/1390154501894339210002/eng"/>
-      <w:P10055 rdf:resource="gatissmark"/>
-      <w:P10055 rdf:resource="moffatsteven"/>
-      <w:P10256 rdf:resource="http://viaf.org/viaf/173636607"/>
-      <w:P10256 rdf:resource="http://viaf.org/viaf/308763542"/>
+      <bibframe:partOf rdf:resource="scottn/sherlockholmestherussianconnectionandothernewadventures/eng"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="/sherlockholmes/eng">
       <e:P20006>eng</e:P20006>
@@ -10814,20 +10822,10 @@
       <w:P30117>Sir Arthur Conan Doyle</w:P30117>
       <w:P30117>by Tim Kelly ; freely adapted from the classic stage comedy of Sir Arthur Conan Doyle and William Gillete</w:P30117>
       <bibframe:hasInstance rdf:resource="urn:isbn:0708901905"/>
-      <bibframe:hasInstance rdf:resource="urn:isbn:97816310607481"/>
       <bibframe:hasInstance rdf:resource="urn:isbn:0907926177"/>
       <bibframe:hasPart rdf:resource="http://viaf.org/viaf/179061639/eng"/>
       <bibframe:hasPart rdf:resource="http://viaf.org/viaf/184892317/eng"/>
-      <bibframe:hasPart rdf:resource="http://viaf.org/viaf/186734487/eng"/>
-      <bibframe:hasPart rdf:resource="http://www.wikidata.org/entity/q860831/eng"/>
-      <bibframe:hasPart rdf:resource="http://viaf.org/viaf/181625655/eng"/>
-      <bibframe:hasPart rdf:resource="http://www.wikidata.org/entity/q725752/eng"/>
-      <bibframe:hasPart rdf:resource="http://viaf.org/viaf/175571309/eng"/>
-      <bibframe:hasPart rdf:resource="http://viaf.org/viaf/1390154501894339210002/eng"/>
-      <bibframe:hasPart rdf:resource="http://www.wikidata.org/entity/q1129378/eng"/>
       <w:P10065 rdf:resource="http://viaf.org/viaf/65283845"/>
-      <w:P10256 rdf:resource="http://viaf.org/viaf/173636607"/>
-      <w:P10256 rdf:resource="http://viaf.org/viaf/308763542"/>
       <w:creatorAgentOfWork.en rdf:resource="kellytim"/>
       <w:inspiredBy.en rdf:resource="http://viaf.org/viaf/174141344"/>
    </bibframe:Work>
@@ -10893,7 +10891,7 @@
       <w:P10088>Sherlock Holmes and the adventure of the cardboard box</w:P10088>
       <w:P30117>based on the stories of Sir Arthur Conan Doyle ; adapted by Murray Shaw and M.J. Cosson ; illustrated by Sophie Rohrbach and JT Morrow</w:P30117>
       <bibframe:hasInstance rdf:resource="urn:isbn:9780761370987"/>
-      <e:P20053 rdf:resource="rohrbachsophie"/>
+      <m:P30321 rdf:resource="rohrbachsophie"/>
       <m:P30321 rdf:resource="morrowjt"/>
       <w:P10256 rdf:resource="http://viaf.org/viaf/180817010"/>
       <w:creatorAgentOfWork.en rdf:resource="shawmurray"/>
@@ -10951,15 +10949,12 @@
    <bibframe:Work rdf:about="/sherlockholmesandthedukesson/eng">
       <e:P20006>eng</e:P20006>
       <w:P10088>Sherlock Holmes and the Duke's son</w:P10088>
-      <w:P30117>Sir Arthur Conan Doyle ; retold by Jennifer Bassett ; illustrated by Ron Tiner</w:P30117>
       <w:P30117>Arthur Conan Doyle ; retold by Jennifer Bassett ; illustrated by Ron Tiner</w:P30117>
-      <bibframe:hasInstance rdf:resource="urn:isbn:9780194789196"/>
       <bibframe:hasInstance rdf:resource="urn:isbn:0194229610"/>
       <m:P30321 rdf:resource="tinerron"/>
       <w:P10256 rdf:resource="http://viaf.org/viaf/173636607"/>
       <w:P10256 rdf:resource="http://viaf.org/viaf/308763542"/>
       <w:adaptationOfWork.en rdf:resource="http://www.wikidata.org/entity/q2379601"/>
-      <w:basedOnWork.en rdf:resource="http://www.wikidata.org/entity/q2379601"/>
       <w:creatorAgentOfWork.en rdf:resource="bassettjennifer"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="/sherlockholmesandthemysteryofboscombepool/eng">
@@ -10990,28 +10985,6 @@
       <w:creatorAgentOfWork.en rdf:resource="shawmurray"/>
       <w:creatorAgentOfWork.en rdf:resource="cossonmj"/>
    </bibframe:Work>
-   <bibframe:Work rdf:about="/sherlockholmesandthesportofkings/eng">
-      <e:P20006>eng</e:P20006>
-      <w:P10088>Sherlock Holmes and the sport of kings</w:P10088>
-      <w:P30117>retold by Jennifer Bassett ; illustrated by Ron Tiner</w:P30117>
-      <bibframe:hasInstance rdf:resource="urn:isbn:9780194789202"/>
-      <m:P30321 rdf:resource="tinerron"/>
-      <w:basedOnWork.en rdf:resource="http://www.wikidata.org/entity/q1151761"/>
-   </bibframe:Work>
-   <bibframe:Work rdf:about="/sherlockholmescollectionanthologyofclassictales/eng">
-      <e:P20006>eng</e:P20006>
-      <w:P10088>Sherlock Holmes collection</w:P10088>
-      <w:P10088>anthology of classic tales</w:P10088>
-      <w:P30117>foreword by Jon Lellenberg</w:P30117>
-      <bibframe:hasInstance rdf:resource="urn:isbn:9781786645449"/>
-      <bibframe:hasPart rdf:resource="http://viaf.org/viaf/179061639/eng"/>
-      <bibframe:hasPart rdf:resource="http://viaf.org/viaf/184892317/eng"/>
-      <bibframe:hasPart rdf:resource="http://viaf.org/viaf/186734487/eng"/>
-      <bibframe:hasPart rdf:resource="http://www.wikidata.org/entity/q860831/eng"/>
-      <e:P20053 rdf:resource="lellenbergjonl"/>
-      <w:P10256 rdf:resource="http://viaf.org/viaf/173636607"/>
-      <w:P10256 rdf:resource="http://viaf.org/viaf/308763542"/>
-   </bibframe:Work>
    <bibframe:Work rdf:about="/sherlockholmeshisgreatestcases/eng">
       <e:P20006>eng</e:P20006>
       <w:P10088>Sherlock Holmes</w:P10088>
@@ -11029,6 +11002,7 @@
       <w:P30117>[edited and with an introduction by] Kelvin I Jones</w:P30117>
       <bibframe:hasInstance rdf:resource="urn:isbn:0952016656"/>
       <bibframe:hasPart rdf:resource="http://www.wikidata.org/entity/q2466799/eng"/>
+      <m:P30327 rdf:resource="joneskelvini"/>
       <w:P10055 rdf:resource="joneskelvini"/>
       <w:P10065 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10256 rdf:resource="http://viaf.org/viaf/173636607"/>
@@ -11043,50 +11017,15 @@
       <w:adaptationOfWork.en rdf:resource="http://viaf.org/viaf/181846531"/>
       <w:creatorAgentOfWork.en rdf:resource="johnsonhelen"/>
    </bibframe:Work>
-   <bibframe:Work rdf:about="/sherlockholmesinthehoundofthebaskervilles/eng">
-      <e:P20006>eng</e:P20006>
-      <w:P10088>Sherlock Holmes in the Hound of the Baskervilles</w:P10088>
-      <w:P30117>[by Tim Quinn and George Sears]</w:P30117>
-      <w:P30117>author, Jennifer Adams ; artist, Alison Oliver</w:P30117>
-      <bibframe:hasInstance rdf:resource="urn:isbn:0006940595"/>
-      <bibframe:hasInstance rdf:resource="urn:isbn:9781423634119"/>
-      <e:P20053 rdf:resource="searsgeorge"/>
-      <m:P30321 rdf:resource="oliveralison"/>
-      <w:P10065 rdf:resource="quinntim"/>
-      <w:adaptationOfWork.en rdf:resource="http://viaf.org/viaf/181625655"/>
-   </bibframe:Work>
-   <bibframe:Work rdf:about="/sherlockholmesinthespeckledbandandthebluecarbuncle/eng">
-      <e:P20006>eng</e:P20006>
-      <w:P10088>Sherlock Holmes in the Speckled band ;</w:P10088>
-      <w:P10088>and The blue carbuncle</w:P10088>
-      <w:P30117>[by Tim Quinn and George Sears]</w:P30117>
-      <bibframe:hasInstance rdf:resource="urn:isbn:0006940609"/>
-      <bibframe:hasPart rdf:resource="/bluecarbuncle/eng"/>
-      <w:adaptationOfWork.en rdf:resource="http://www.wikidata.org/entity/q1140678"/>
-      <w:adaptationOfWork.en rdf:resource="http://viaf.org/viaf/181846531"/>
-   </bibframe:Work>
-   <bibframe:Work rdf:about="/sherlockholmesshortstories/eng">
-      <e:P20006>eng</e:P20006>
-      <w:P10088>Sherlock Holmes short stories</w:P10088>
-      <w:P30117>Sir Arthur Conan Doyle ; retold by Clare West ; illustrated by Alan Marks</w:P30117>
-      <bibframe:hasInstance rdf:resource="urn:isbn:9780194790710"/>
-      <w:adaptationOfWork.en rdf:resource="http://viaf.org/viaf/181846531"/>
-      <w:adaptationOfWork.en rdf:resource="http://www.wikidata.org/entity/q265546"/>
-      <w:adaptationOfWork.en rdf:resource="http://www.wikidata.org/entity/q1193379"/>
-   </bibframe:Work>
    <bibframe:Work rdf:about="/sherlockholmesthebluediamond/eng">
       <e:P20006>eng</e:P20006>
-      <w:P10088>Sherlock Holmes</w:P10088>
-      <w:P10088>the blue diamond</w:P10088>
-      <w:P30117>Sir Arthur Conan Doyle ; text adaptation by Bill Bowler ; illustrated by Susan Scott</w:P30117>
       <w:P10088>Sherlock Holmes, The blue diamond</w:P10088>
-      <bibframe:hasInstance rdf:resource="urn:isbn:9780194247238"/>
+      <w:P30117>Sir Arthur Conan Doyle ; text adaptation by Bill Bowler ; illustrated by Susan Scott</w:P30117>
       <bibframe:hasInstance rdf:resource="urn:isbn:0194243400"/>
       <e:P20327 rdf:resource="bowlerbill"/>
       <m:P30321 rdf:resource="scottsusan"/>
       <w:P10256 rdf:resource="http://viaf.org/viaf/173636607"/>
       <w:P10256 rdf:resource="http://viaf.org/viaf/308763542"/>
-      <w:adaptationOfWork.en rdf:resource="http://www.wikidata.org/entity/q1140678"/>
       <w:adaptationOfWork.en rdf:resource="http://viaf.org/viaf/174141344"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="/sherlockholmesthecompleteandunabridgednovels/eng">
@@ -11103,71 +11042,28 @@
       <w:P10256 rdf:resource="http://viaf.org/viaf/173636607"/>
       <w:P10256 rdf:resource="http://viaf.org/viaf/308763542"/>
    </bibframe:Work>
-   <bibframe:Work rdf:about="/sherlockholmesthedarkmysteries/eng">
-      <e:P20006>eng</e:P20006>
-      <w:P10088>Sherlock Holmes</w:P10088>
-      <w:P10088>the dark mysteries</w:P10088>
-      <w:P30117>Sir Arthur Conan Doyle ; introduced and selected by David Stuart Davies</w:P30117>
-      <bibframe:hasInstance rdf:resource="urn:isbn:9781909621282"/>
-      <bibframe:hasPart rdf:resource="http://viaf.org/viaf/181625655/eng"/>
-      <bibframe:hasPart rdf:resource="/thesussexvampire/eng"/>
-      <bibframe:hasPart rdf:resource="/thecreepingman/eng"/>
-      <bibframe:hasPart rdf:resource="/theadventureofshoscombeoldplace/eng"/>
-      <bibframe:hasPart rdf:resource="http://www.wikidata.org/entity/q3041826/eng"/>
-      <bibframe:hasPart rdf:resource="/theveiledlodger/eng"/>
-      <bibframe:hasPart rdf:resource="http://www.wikidata.org/entity/q2466799/eng"/>
-      <bibframe:hasPart rdf:resource="http://viaf.org/viaf/180817010/eng"/>
-      <e:P20053 rdf:resource="daviesdavidstuart"/>
-      <m:P30321 rdf:resource="http://viaf.org/viaf/2555146"/>
-   </bibframe:Work>
    <bibframe:Work rdf:about="/sherlockholmestheemeraldcrown/eng">
       <e:P20006>eng</e:P20006>
       <w:P10088>Sherlock Holmes</w:P10088>
       <w:P10088>the emerald crown</w:P10088>
       <w:P30117>Sir Arthur Conan Doyle ; text adaptation by Janet Hardy-Gould ; illustrated by Marcela Hajdinjak-Krec</w:P30117>
       <bibframe:hasInstance rdf:resource="urn:isbn:9780194244527"/>
-      <bibframe:hasInstance rdf:resource="urn:isbn:9780194247627"/>
       <bibframe:hasPart rdf:resource="http://www.wikidata.org/entity/q1201796/eng"/>
       <e:P20327 rdf:resource="hardygouldjanet"/>
       <m:P30321 rdf:resource="hajdinjakkrecmarsela"/>
-      <w:adaptationOfWork.en rdf:resource="http://www.wikidata.org/entity/q1201796"/>
-   </bibframe:Work>
-   <bibframe:Work rdf:about="/sherlockholmesthehoundofthebaskervilles/eng">
-      <e:P20006>eng</e:P20006>
-      <w:P10088>Sherlock Holmes</w:P10088>
-      <w:P10088>the hound of the Baskervilles</w:P10088>
-      <w:P30117>Richard Unglik</w:P30117>
-      <bibframe:hasInstance rdf:resource="urn:isbn:9781633220782"/>
-      <bibframe:hasPart rdf:resource="http://viaf.org/viaf/181625655/eng"/>
-      <w:P10256 rdf:resource="http://viaf.org/viaf/173636607"/>
-      <w:P10256 rdf:resource="http://viaf.org/viaf/308763542"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="/sherlockholmesthenovels/eng">
       <e:P20006>eng</e:P20006>
       <w:P10088>Sherlock Holmes</w:P10088>
       <w:P10088>the novels</w:P10088>
-      <w:P30117>Sir Arthur Conan Doyle ; introduction by Michael Dirda</w:P30117>
       <bibframe:hasInstance rdf:resource="urn:isbn:9781853756825"/>
-      <bibframe:hasInstance rdf:resource="urn:isbn:9780143107132"/>
       <bibframe:hasPart rdf:resource="http://viaf.org/viaf/179061639/eng"/>
       <bibframe:hasPart rdf:resource="http://viaf.org/viaf/184892317/eng"/>
       <bibframe:hasPart rdf:resource="http://viaf.org/viaf/181625655/eng"/>
       <bibframe:hasPart rdf:resource="http://viaf.org/viaf/175571309/eng"/>
-      <e:P20053 rdf:resource="dirdamichael"/>
       <w:P10065 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10256 rdf:resource="http://viaf.org/viaf/173636607"/>
       <w:P10256 rdf:resource="http://viaf.org/viaf/308763542"/>
-   </bibframe:Work>
-   <bibframe:Work rdf:about="/sherlockholmestherussianconnectionandothernewadventures/eng">
-      <e:P20006>eng</e:P20006>
-      <w:P10088>Sherlock Holmes</w:P10088>
-      <w:P10088>The Russian connection and other new adventures</w:P10088>
-      <w:P30117>by N.M. Scott</w:P30117>
-      <bibframe:hasInstance rdf:resource="urn:isbn:9780750542159"/>
-      <bibframe:hasPart rdf:resource="/russianconnectionandothernewadventures/eng"/>
-      <w:P10256 rdf:resource="http://viaf.org/viaf/173636607"/>
-      <w:P10256 rdf:resource="http://viaf.org/viaf/308763542"/>
-      <w:inspiredBy.en rdf:resource="http://viaf.org/viaf/174141344"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="/sherlockholmestheshortstories/eng">
       <e:P20006>eng</e:P20006>
@@ -11204,6 +11100,7 @@
       <w:creatorAgentOfWork.en rdf:resource="pichettedavid"/>
       <w:creatorAgentOfWork.en rdf:resource="wrightrhamilton"/>
       <w:creatorAgentOfWork.en rdf:resource="powellmartin"/>
+      <w:graphicNovelizationOfWork.en rdf:resource="http://viaf.org/viaf/181625655"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="/sirarthurconandoylesthelostworldagraphicnovel/eng">
       <e:P20006>eng</e:P20006>
@@ -11236,38 +11133,16 @@
       <w:P10256 rdf:resource="http://viaf.org/viaf/308763542"/>
       <w:adaptationOfWork.en rdf:resource="http://viaf.org/viaf/181846531"/>
    </bibframe:Work>
-   <bibframe:Work rdf:about="/sirarthurconandoylethedoverreader/eng">
-      <e:P20006>eng</e:P20006>
-      <w:P10088>Sir Arthur Conan Doyle</w:P10088>
-      <w:P10088>the Dover reader</w:P10088>
-      <w:P30117>Arthur Doyle</w:P30117>
-      <bibframe:hasInstance rdf:resource="urn:isbn:9780486791173"/>
-      <bibframe:hasPart rdf:resource="http://viaf.org/viaf/181625655/eng"/>
-      <bibframe:hasPart rdf:resource="http://viaf.org/viaf/179061639/eng"/>
-      <bibframe:hasPart rdf:resource="http://viaf.org/viaf/294145857904223021237/eng"/>
-   </bibframe:Work>
    <bibframe:Work rdf:about="/skandalvcechach">
       <w:P10088>Skandál v Čechách</w:P10088>
-      <bibframe:translation rdf:resource="/skandalvcechach/eng"/>
+      <bibframe:translation rdf:resource="koplpetr/skandalvcechach/eng"/>
+      <m:P30321 rdf:resource="koplpetr"/>
       <w:P10061 rdf:resource="koplpetr"/>
-      <w:P10142 rdf:resource="http://www.wikidata.org/entity/q265546"/>
-      <w:P10142 rdf:resource="http://viaf.org/viaf/181846531"/>
-      <w:P10142 rdf:resource="/inthenameoftheking"/>
+      <w:P10252 rdf:resource="http://viaf.org/viaf/181846531"/>
+      <w:P10252 rdf:resource="/inthenameoftheking"/>
       <w:P10256 rdf:resource="http://viaf.org/viaf/173636607"/>
       <w:P10256 rdf:resource="adlerirene"/>
       <w:P10256 rdf:resource="http://viaf.org/viaf/308763542"/>
-   </bibframe:Work>
-   <bibframe:Work rdf:about="/skandalvcechach/eng">
-      <e:P20006>eng</e:P20006>
-      <w:P10088>Skandál v Čechách</w:P10088>
-      <e:P20006>English</e:P20006>
-      <w:P10088>Sherlock Holmes</w:P10088>
-      <w:P30117>Petrl Kopl ; translation: Paul and Jana Simpson</w:P30117>
-      <bibframe:hasInstance rdf:resource="urn:isbn:9781780926803"/>
-      <bibframe:translationOf rdf:resource="/skandalvcechach"/>
-      <e:P20037 rdf:resource="simpsonpaulmichael"/>
-      <e:P20037 rdf:resource="simpsonjana"/>
-      <m:P30321 rdf:resource="koplpetr"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="/steampunkholmeslegacyofthenautilus/eng">
       <e:P20006>eng</e:P20006>
@@ -11293,25 +11168,15 @@
    </bibframe:Work>
    <bibframe:Work rdf:about="/tekenvanvier">
       <w:P10088>Teken van vier</w:P10088>
-      <bibframe:translation rdf:resource="/tekenvanvier/eng"/>
+      <bibframe:translation rdf:resource="bakkerhelene/tekenvanvier/eng"/>
       <w:P10061 rdf:resource="bakkerhelene"/>
       <w:P10142 rdf:resource="http://viaf.org/viaf/184892317"/>
       <w:P10256 rdf:resource="http://viaf.org/viaf/173636607"/>
       <w:P10256 rdf:resource="http://viaf.org/viaf/308763542"/>
    </bibframe:Work>
-   <bibframe:Work rdf:about="/tekenvanvier/eng">
-      <e:P20006>eng</e:P20006>
-      <w:P10088>Teken van vier</w:P10088>
-      <e:P20006>English</e:P20006>
-      <w:P10088>The sign of four</w:P10088>
-      <w:P30117>the famous story by Arthur Conan Doyle ; retold by Helene Bakker ; translation, Anna Asbury</w:P30117>
-      <bibframe:hasInstance rdf:resource="urn:isbn:9781783225361"/>
-      <bibframe:translationOf rdf:resource="/tekenvanvier"/>
-      <e:P20037 rdf:resource="asburyanna"/>
-   </bibframe:Work>
    <bibframe:Work rdf:about="/theadventureofshoscombeoldplace/eng">
       <w:P10088>The adventure of Shoscombe Old Place</w:P10088>
-      <bibframe:partOf rdf:resource="/sherlockholmesthedarkmysteries/eng"/>
+      <bibframe:partOf rdf:resource="http://viaf.org/viaf/65283845/sherlockholmesthedarkmysteries/eng"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="/theadventuresandmemoirsofsherlockholmes/eng">
       <e:P20006>eng</e:P20006>
@@ -11410,39 +11275,26 @@
       <bibframe:hasPart rdf:resource="http://viaf.org/viaf/184892317/eng"/>
       <bibframe:hasPart rdf:resource="http://viaf.org/viaf/179061639/eng"/>
       <bibframe:hasPart rdf:resource="http://viaf.org/viaf/175571309/eng"/>
-      <e:P20053 rdf:resource="http://viaf.org/viaf/2555146"/>
+      <m:P30321 rdf:resource="http://viaf.org/viaf/2555146"/>
       <w:P10065 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10256 rdf:resource="http://viaf.org/viaf/173636607"/>
       <w:P10256 rdf:resource="http://viaf.org/viaf/308763542"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="/thecreepingman/eng">
       <w:P10088>The creeping man</w:P10088>
-      <bibframe:partOf rdf:resource="/sherlockholmesthedarkmysteries/eng"/>
+      <bibframe:partOf rdf:resource="http://viaf.org/viaf/65283845/sherlockholmesthedarkmysteries/eng"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="/thecrookedman/eng">
       <w:P10088>The crooked man</w:P10088>
-      <bibframe:partOf rdf:resource="/thememoirsofsherlockholmes/eng"/>
-   </bibframe:Work>
-   <bibframe:Work rdf:about="/thedefinitivesherlockholmes/eng">
-      <e:P20006>eng</e:P20006>
-      <w:P10088>The definitive Sherlock Holmes</w:P10088>
-      <w:P30117>Arthur Conan Doyle</w:P30117>
-      <bibframe:hasInstance rdf:resource="urn:isbn:9788129142313"/>
-      <bibframe:hasPart rdf:resource="http://www.wikidata.org/entity/q860831/eng"/>
-      <bibframe:hasPart rdf:resource="http://viaf.org/viaf/186734487/eng"/>
-      <bibframe:hasPart rdf:resource="http://www.wikidata.org/entity/q725752/eng"/>
-      <bibframe:hasPart rdf:resource="http://www.wikidata.org/entity/q1129378/eng"/>
-      <bibframe:hasPart rdf:resource="http://viaf.org/viaf/1390154501894339210002/eng"/>
-      <w:P10256 rdf:resource="http://viaf.org/viaf/173636607"/>
-      <w:P10256 rdf:resource="http://viaf.org/viaf/308763542"/>
+      <bibframe:partOf rdf:resource="http://viaf.org/viaf/65283845/thememoirsofsherlockholmes/eng"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="/thefinalproblem/eng">
       <w:P10088>The final problem</w:P10088>
-      <bibframe:partOf rdf:resource="/thememoirsofsherlockholmes/eng"/>
+      <bibframe:partOf rdf:resource="http://viaf.org/viaf/65283845/thememoirsofsherlockholmes/eng"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="/thegloriascott/eng">
       <w:P10088>The "Gloria Scott"</w:P10088>
-      <bibframe:partOf rdf:resource="/thememoirsofsherlockholmes/eng"/>
+      <bibframe:partOf rdf:resource="http://viaf.org/viaf/65283845/thememoirsofsherlockholmes/eng"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="/thegreatshadowandotherstories/eng">
       <e:P20006>eng</e:P20006>
@@ -11468,7 +11320,7 @@
    <bibframe:Work rdf:about="/thegreekinterpreter/eng">
       <w:P10088>The Greek interpreter</w:P10088>
       <bibframe:partOf rdf:resource="/thevalleyoffearothersherlockholmesstories/eng"/>
-      <bibframe:partOf rdf:resource="/thememoirsofsherlockholmes/eng"/>
+      <bibframe:partOf rdf:resource="http://viaf.org/viaf/65283845/thememoirsofsherlockholmes/eng"/>
       <w:P10065 rdf:resource="http://viaf.org/viaf/65283845"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="/thehoundofbaskervilles/eng">
@@ -11479,8 +11331,8 @@
       <m:P30321 rdf:resource="perezdaniel"/>
       <w:P10256 rdf:resource="http://viaf.org/viaf/173636607"/>
       <w:P10256 rdf:resource="http://viaf.org/viaf/308763542"/>
-      <w:adaptationOfWork.en rdf:resource="http://viaf.org/viaf/181625655"/>
       <w:creatorAgentOfWork.en rdf:resource="powellmartin"/>
+      <w:graphicNovelizationOfWork.en rdf:resource="http://viaf.org/viaf/181625655"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="/thehoundofthebaskervilles/eng">
       <e:P20006>eng</e:P20006>
@@ -11489,8 +11341,6 @@
       <w:P30117>Arthur Conan Doyle ; retold by Tony Evans ; illustrated by Felix Bennett</w:P30117>
       <w:P30117>by Sir Arthur Conan Doyle ; retold in simple language by Raymond Sibley ; illustrated by Drury Lane Studies</w:P30117>
       <w:P30117>by Sir Arthur Conan Doyle ; retold by Martin Powell ; illustrated by Daniel Perez ; librarian reviewer, Katharine Kan ; reading consultant, Elizabeth Stedem</w:P30117>
-      <w:P30117>Arthur Conan Doyle ; dramatised by John O'Connor</w:P30117>
-      <w:P30117>retold by Pauline Francis</w:P30117>
       <w:P30117>Sir Arthur Conan Doyle ; adapted and illustrated by John Green</w:P30117>
       <w:P30117>by Sir Arthur Conan Doyle ; [retold by B.M. Chester ; illustrated by David Cheung]</w:P30117>
       <w:P30117>Sir Arthur Conan Doyle ; retold by Patrick Nobes</w:P30117>
@@ -11501,15 +11351,12 @@
       <w:P30117>by Sir Arthur Conan Doyle ; simplified by Alan Ronaldson ; introduction and questions by Rowena Akinyemi</w:P30117>
       <w:P30117>by Sir Arthur Conan Doyle ; retold by Alan Ronaldson ; series editors: Andy Hopkins and Jocelyn Potter</w:P30117>
       <w:P30117>Nicholas Briggs</w:P30117>
-      <w:P30117>original by Sir Arthur Conan Doyle ; retold by Pauline Francis</w:P30117>
       <w:P30117>illustrated by Anthony Williams ; original story by Sir Arthur Conan Doyle</w:P30117>
       <w:P30117>Arthur Conan Doyle</w:P30117>
       <bibframe:hasInstance rdf:resource="urn:isbn:085676275"/>
       <bibframe:hasInstance rdf:resource="urn:isbn:9781906230494"/>
       <bibframe:hasInstance rdf:resource="urn:isbn:0721407196"/>
       <bibframe:hasInstance rdf:resource="urn:isbn:9781406212563"/>
-      <bibframe:hasInstance rdf:resource="urn:isbn:9781408520017"/>
-      <bibframe:hasInstance rdf:resource="urn:isbn:9780462000183"/>
       <bibframe:hasInstance rdf:resource="urn:isbn:9780486785073"/>
       <bibframe:hasInstance rdf:resource="urn:isbn:019638267"/>
       <bibframe:hasInstance rdf:resource="urn:isbn:9780194791748"/>
@@ -11520,7 +11367,6 @@
       <bibframe:hasInstance rdf:resource="urn:isbn:0582096790"/>
       <bibframe:hasInstance rdf:resource="urn:isbn:0582419298"/>
       <bibframe:hasInstance rdf:resource="urn:isbn:9781784210144"/>
-      <bibframe:hasInstance rdf:resource="urn:isbn:9780237532772"/>
       <bibframe:hasInstance rdf:resource="urn:isbn:9781784043575"/>
       <bibframe:hasInstance rdf:resource="urn:isbn:9789384225384"/>
       <bibframe:hasPart rdf:resource="http://viaf.org/viaf/181625655/eng"/>
@@ -11529,6 +11375,7 @@
       <m:P30321 rdf:resource="perezdaniel"/>
       <m:P30321 rdf:resource="greenjohn"/>
       <m:P30321 rdf:resource="williamsanthony"/>
+      <m:P30327 rdf:resource="rowenaakinyemi"/>
       <w:P10065 rdf:resource="evanstony"/>
       <w:P10065 rdf:resource="sibleyraymond"/>
       <w:P10065 rdf:resource="powellmartin"/>
@@ -11546,30 +11393,7 @@
       <w:creatorAgentOfWork.en rdf:resource="colbournstephen"/>
       <w:creatorAgentOfWork.en rdf:resource="briggsnicholas"/>
       <w:dramatizationOfWork.en rdf:resource="http://viaf.org/viaf/181625655"/>
-   </bibframe:Work>
-   <bibframe:Work rdf:about="/thehoundofthebaskervillesandotherstories/eng">
-      <e:P20006>eng</e:P20006>
-      <w:P10088>The hound of the Baskervilles and other stories</w:P10088>
-      <w:P30117>Arthur Conan Doyle ; illustrations: colored by Barbara Frith</w:P30117>
-      <bibframe:hasInstance rdf:resource="urn:isbn:9781849311380"/>
-      <bibframe:hasPart rdf:resource="http://viaf.org/viaf/181625655/eng"/>
-      <bibframe:hasPart rdf:resource="http://viaf.org/viaf/184892317/eng"/>
-      <bibframe:hasPart rdf:resource="http://viaf.org/viaf/186734487/eng"/>
-      <m:P30321 rdf:resource="http://viaf.org/viaf/2555146"/>
-      <w:P10256 rdf:resource="http://viaf.org/viaf/173636607"/>
-      <w:P10256 rdf:resource="http://viaf.org/viaf/308763542"/>
-   </bibframe:Work>
-   <bibframe:Work rdf:about="/thehoundofthebaskervillesandthevalleyoffear/eng">
-      <e:P20006>eng</e:P20006>
-      <w:P10088>The hound of the Baskervilles ;</w:P10088>
-      <w:P10088>and, The valley of fear</w:P10088>
-      <w:P30117>Sir Arthur Conan Doyle</w:P30117>
-      <bibframe:hasInstance rdf:resource="urn:isbn:9781509826964"/>
-      <bibframe:hasInstance rdf:resource="urn:isbn:9781909621749"/>
-      <bibframe:hasPart rdf:resource="http://viaf.org/viaf/175571309/eng"/>
-      <bibframe:hasPart rdf:resource="http://viaf.org/viaf/181625655/eng"/>
-      <w:P10256 rdf:resource="http://viaf.org/viaf/173636607"/>
-      <w:P10256 rdf:resource="http://viaf.org/viaf/308763542"/>
+      <w:graphicNovelizationOfWork.en rdf:resource="http://viaf.org/viaf/181625655"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="/thehoundofthebaskervillesanentertainment/eng">
       <e:P20006>eng</e:P20006>
@@ -11635,11 +11459,8 @@
    <bibframe:Work rdf:about="/thehoundofthebaskervillesthevalleyoffear/eng">
       <e:P20006>eng</e:P20006>
       <w:P10088>The hound of the Baskervilles ;</w:P10088>
-      <w:P10088>The valley of fear</w:P10088>
-      <w:P30117>Arthur Conan Doyle</w:P30117>
       <w:P10088>&amp; The valley of fear</w:P10088>
       <w:P30117>Sir Arthur Conan Doyle</w:P30117>
-      <bibframe:hasInstance rdf:resource="urn:isbn:9781784288211"/>
       <bibframe:hasInstance rdf:resource="urn:isbn:1904633722"/>
       <bibframe:hasPart rdf:resource="http://viaf.org/viaf/175571309/eng"/>
       <bibframe:hasPart rdf:resource="http://viaf.org/viaf/181625655/eng"/>
@@ -11650,32 +11471,25 @@
    <bibframe:Work rdf:about="/thelostworld/eng">
       <e:P20006>eng</e:P20006>
       <w:P10088>The lost world</w:P10088>
-      <w:P30117>by Arthur Conan Doyle, Susan Gates ; illustrated by Mark Beech</w:P30117>
-      <w:P30117>Sir Arthur Conan Doyle ; text adaptation by Susan Kingsley ; illustrated by Anders Westerberg</w:P30117>
       <w:P30117>by Sir Arthur Conan Doyle ; retold in simple language by Joan Collins ; illustrated by Martin Aitchison</w:P30117>
       <w:P30117>retold by Carey Miller ; from the original by Sir Arthur Conan Doyle ; ... illustrations by Tom Barling</w:P30117>
       <w:P30117>Sir Arthur Conan Doyle</w:P30117>
       <w:P30117>Sir Arthur Conan Doyle ; abridged and simplified by David Foll ; [illustrations by Liz Anelli]</w:P30117>
       <w:P30117>written by Arthur Conan Doyle ; adapted by Susan Gates ; illustrated by Mark Beech</w:P30117>
       <w:P30117>[based on the stories by] Sir Arthur Conan Doyle ; [created and illustrated by] Petr Kopl ; translated by P&amp;J Simpson</w:P30117>
-      <w:P30117>by Sir Arthur Conan Doyle ; retold by Joan Collins ; illustrated by Martin Aitchison</w:P30117>
-      <bibframe:hasInstance rdf:resource="urn:isbn:9780198448730"/>
-      <bibframe:hasInstance rdf:resource="urn:isbn:9780194248808"/>
       <bibframe:hasInstance rdf:resource="urn:isbn:0721407110"/>
       <bibframe:hasInstance rdf:resource="urn:isbn:0330251325"/>
       <bibframe:hasInstance rdf:resource="urn:isbn:9789384225438"/>
       <bibframe:hasInstance rdf:resource="urn:isbn:0003701980"/>
       <bibframe:hasInstance rdf:resource="urn:isbn:9780199117703"/>
       <bibframe:hasInstance rdf:resource="urn:isbn:9781780929255"/>
-      <bibframe:hasInstance rdf:resource="urn:isbn:0721452566"/>
       <bibframe:hasPart rdf:resource="http://viaf.org/viaf/294145857904223021237/eng"/>
       <e:P20037 rdf:resource="simpsonpaulmichael"/>
       <e:P20037 rdf:resource="simpsonjana"/>
-      <e:P20053 rdf:resource="aitchisonmartin"/>
-      <m:P30321 rdf:resource="beechmark"/>
-      <m:P30321 rdf:resource="barlingtom"/>
-      <m:P30321 rdf:resource="koplpetr"/>
       <m:P30321 rdf:resource="aitchisonmartin"/>
+      <m:P30321 rdf:resource="barlingtom"/>
+      <m:P30321 rdf:resource="beechmark"/>
+      <m:P30321 rdf:resource="koplpetr"/>
       <w:P10065 rdf:resource="collinsjoan"/>
       <w:P10065 rdf:resource="millercarey"/>
       <w:adaptationOfWork.en rdf:resource="http://viaf.org/viaf/294145857904223021237"/>
@@ -11724,21 +11538,8 @@
       <e:P20006>eng</e:P20006>
       <w:P10088>The memoirs of Sherlock Holmes</w:P10088>
       <w:P30117>Arthur Conan Doyle</w:P30117>
-      <w:P30117>by Sir Arthur Conan Doyle ; with an introduction by Steve Thompson</w:P30117>
       <bibframe:hasInstance rdf:resource="urn:isbn:9789352761159"/>
-      <bibframe:hasInstance rdf:resource="urn:isbn:9781446417270"/>
       <bibframe:hasPart rdf:resource="http://www.wikidata.org/entity/q860831/eng"/>
-      <bibframe:hasPart rdf:resource="http://www.wikidata.org/entity/q1151761/eng"/>
-      <bibframe:hasPart rdf:resource="/theyellowface/eng"/>
-      <bibframe:hasPart rdf:resource="/thestockbrokersclerk/eng"/>
-      <bibframe:hasPart rdf:resource="/thegloriascott/eng"/>
-      <bibframe:hasPart rdf:resource="http://www.wikidata.org/entity/q1150069/eng"/>
-      <bibframe:hasPart rdf:resource="/thereigatesquires/eng"/>
-      <bibframe:hasPart rdf:resource="/thecrookedman/eng"/>
-      <bibframe:hasPart rdf:resource="/theresidentpatient/eng"/>
-      <bibframe:hasPart rdf:resource="/thegreekinterpreter/eng"/>
-      <bibframe:hasPart rdf:resource="http://viaf.org/viaf/309533947/eng"/>
-      <bibframe:hasPart rdf:resource="/thefinalproblem/eng"/>
       <w:P10256 rdf:resource="http://viaf.org/viaf/173636607"/>
       <w:P10256 rdf:resource="http://viaf.org/viaf/308763542"/>
    </bibframe:Work>
@@ -11789,11 +11590,11 @@
    </bibframe:Work>
    <bibframe:Work rdf:about="/thereigatesquires/eng">
       <w:P10088>The Reigate squires</w:P10088>
-      <bibframe:partOf rdf:resource="/thememoirsofsherlockholmes/eng"/>
+      <bibframe:partOf rdf:resource="http://viaf.org/viaf/65283845/thememoirsofsherlockholmes/eng"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="/theresidentpatient/eng">
       <w:P10088>The resident patient</w:P10088>
-      <bibframe:partOf rdf:resource="/thememoirsofsherlockholmes/eng"/>
+      <bibframe:partOf rdf:resource="http://viaf.org/viaf/65283845/thememoirsofsherlockholmes/eng"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="/thereturnofsherlockholmes/eng">
       <e:P20006>eng</e:P20006>
@@ -11814,17 +11615,6 @@
       <bibframe:hasPart rdf:resource="http://www.wikidata.org/entity/q1129378/eng"/>
       <w:P10065 rdf:resource="http://viaf.org/viaf/65283845"/>
    </bibframe:Work>
-   <bibframe:Work rdf:about="/thesherlockholmescollection/eng">
-      <e:P20006>eng</e:P20006>
-      <w:P10088>The Sherlock Holmes collection</w:P10088>
-      <w:P30117>Arthur Conan Doyle</w:P30117>
-      <bibframe:hasInstance rdf:resource="urn:isbn:9780007569519"/>
-      <bibframe:hasPart rdf:resource="http://viaf.org/viaf/186734487/eng"/>
-      <bibframe:hasPart rdf:resource="http://viaf.org/viaf/181625655/eng"/>
-      <bibframe:hasPart rdf:resource="http://www.wikidata.org/entity/q725752/eng"/>
-      <w:P10256 rdf:resource="http://viaf.org/viaf/173636607"/>
-      <w:P10256 rdf:resource="http://viaf.org/viaf/308763542"/>
-   </bibframe:Work>
    <bibframe:Work rdf:about="/thesignoffour/eng">
       <e:P20006>eng</e:P20006>
       <w:P10088>The sign of four</w:P10088>
@@ -11840,16 +11630,13 @@
    <bibframe:Work rdf:about="/thesignofthefour/eng">
       <e:P20006>eng</e:P20006>
       <w:P10088>The sign of the four</w:P10088>
-      <w:P30117>Arthur Conan Doyle ; retold by Tony Evans ; illustrated by Felix Bennett</w:P30117>
       <w:P30117>adapted from the novel by Arthur Conan Doyle ; illustrated by I.N.J. Culbard ; text adapted by Ian Edginton</w:P30117>
-      <bibframe:hasInstance rdf:resource="urn:isbn:9781906230586"/>
       <bibframe:hasInstance rdf:resource="urn:isbn:9781906838041"/>
-      <m:P30321 rdf:resource="bennettfelix"/>
       <m:P30321 rdf:resource="culbardian"/>
       <w:P10256 rdf:resource="http://viaf.org/viaf/173636607"/>
       <w:P10256 rdf:resource="http://viaf.org/viaf/308763542"/>
-      <w:adaptationOfWork.en rdf:resource="http://viaf.org/viaf/184892317"/>
       <w:creatorAgentOfWork.en rdf:resource="edgintonian"/>
+      <w:graphicNovelizationOfWork.en rdf:resource="http://viaf.org/viaf/184892317"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="/theslappingsal/eng">
       <w:P10088>The Slapping Sal</w:P10088>
@@ -11875,23 +11662,19 @@
    </bibframe:Work>
    <bibframe:Work rdf:about="/thestockbrokersclerk/eng">
       <w:P10088>The stockbroker's clerk</w:P10088>
-      <bibframe:partOf rdf:resource="/thememoirsofsherlockholmes/eng"/>
+      <bibframe:partOf rdf:resource="http://viaf.org/viaf/65283845/thememoirsofsherlockholmes/eng"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="/thesussexvampire/eng">
       <w:P10088>The Sussex vampire</w:P10088>
-      <bibframe:partOf rdf:resource="/sherlockholmesthedarkmysteries/eng"/>
+      <bibframe:partOf rdf:resource="http://viaf.org/viaf/65283845/sherlockholmesthedarkmysteries/eng"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="/thevalleyoffear/eng">
       <e:P20006>eng</e:P20006>
       <w:P10088>The valley of fear</w:P10088>
       <w:P30117>Arthur Conan Doyle ; adapted by Adrian Flynn</w:P30117>
-      <w:P30117>Sir Arthur Conan Doyle</w:P30117>
       <w:P30117>adapted from the novel by Arthur Conan Doyle ; illustrated by I.N.J. Culbard ; text adapted by Ian Edginton</w:P30117>
       <bibframe:hasInstance rdf:resource="urn:isbn:019832085"/>
-      <bibframe:hasInstance rdf:resource="urn:isbn:9780141395562"/>
       <bibframe:hasInstance rdf:resource="urn:isbn:9781906838058"/>
-      <bibframe:hasPart rdf:resource="/caseofmistakenidentity/eng"/>
-      <bibframe:hasPart rdf:resource="http://viaf.org/viaf/175571309/eng"/>
       <m:P30321 rdf:resource="culbardian"/>
       <w:P10256 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10256 rdf:resource="http://viaf.org/viaf/173636607"/>
@@ -11899,6 +11682,7 @@
       <w:adaptationOfWork.en rdf:resource="http://viaf.org/viaf/175571309"/>
       <w:creatorAgentOfWork.en rdf:resource="flynnadrian"/>
       <w:creatorAgentOfWork.en rdf:resource="edgintonian"/>
+      <w:graphicNovelizationOfWork.en rdf:resource="http://viaf.org/viaf/175571309"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="/thevalleyoffearothersherlockholmesstories/eng">
       <e:P20006>eng</e:P20006>
@@ -11918,12 +11702,12 @@
    </bibframe:Work>
    <bibframe:Work rdf:about="/theveiledlodger/eng">
       <w:P10088>The veiled lodger</w:P10088>
-      <bibframe:partOf rdf:resource="/sherlockholmesthedarkmysteries/eng"/>
+      <bibframe:partOf rdf:resource="http://viaf.org/viaf/65283845/sherlockholmesthedarkmysteries/eng"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="/theyellowface/eng">
       <w:P10088>The yellow face</w:P10088>
       <bibframe:partOf rdf:resource="/thevalleyoffearothersherlockholmesstories/eng"/>
-      <bibframe:partOf rdf:resource="/thememoirsofsherlockholmes/eng"/>
+      <bibframe:partOf rdf:resource="http://viaf.org/viaf/65283845/thememoirsofsherlockholmes/eng"/>
       <w:P10065 rdf:resource="http://viaf.org/viaf/65283845"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="/thirdman/eng">
@@ -11978,6 +11762,164 @@
    <bibframe:Work rdf:about="/yellowwallpaper/eng">
       <w:P10088>Yellow wallpaper</w:P10088>
       <bibframe:partOf rdf:resource="/mysterystories/eng"/>
+   </bibframe:Work>
+   <bibframe:Work rdf:about="adamsjennifer/sherlockholmesinthehoundofthebaskervilles/eng">
+      <e:P20006>eng</e:P20006>
+      <w:P10088>Sherlock Holmes in the Hound of the Baskervilles</w:P10088>
+      <w:P30117>author, Jennifer Adams ; artist, Alison Oliver</w:P30117>
+      <bibframe:hasInstance rdf:resource="urn:isbn:9781423634119"/>
+      <m:P30321 rdf:resource="oliveralison"/>
+      <w:P10061 rdf:resource="adamsjennifer"/>
+      <w:adaptationOfWork.en rdf:resource="http://viaf.org/viaf/181625655"/>
+   </bibframe:Work>
+   <bibframe:Work rdf:about="bakkerhelene/gespikkeldeband/eng">
+      <e:P20006>eng</e:P20006>
+      <w:P10088>Gespikkelde band</w:P10088>
+      <e:P20006>English</e:P20006>
+      <w:P10088>The speckled band</w:P10088>
+      <w:P30117>the famous story by Arthur Conan Doyle ; retold by Helene Bakker ; translation, Anna Asbury</w:P30117>
+      <bibframe:hasInstance rdf:resource="urn:isbn:9781783225354"/>
+      <bibframe:translationOf rdf:resource="/gespikkeldeband"/>
+      <e:P20037 rdf:resource="asburyanna"/>
+      <w:P10061 rdf:resource="bakkerhelene"/>
+   </bibframe:Work>
+   <bibframe:Work rdf:about="bakkerhelene/manmethetlitteken/eng">
+      <e:P20006>eng</e:P20006>
+      <w:P10088>Man met het litteken</w:P10088>
+      <e:P20006>English</e:P20006>
+      <w:P10088>The man with the twisted lip</w:P10088>
+      <w:P30117>the famous story by Arthur Conan Doyle ; retold by Helene Bakker ; translation, Anna Asbury</w:P30117>
+      <bibframe:hasInstance rdf:resource="urn:isbn:9781783225385"/>
+      <bibframe:translationOf rdf:resource="/manmethetlitteken"/>
+      <e:P20037 rdf:resource="asburyanna"/>
+      <w:P10061 rdf:resource="bakkerhelene"/>
+   </bibframe:Work>
+   <bibframe:Work rdf:about="bakkerhelene/tekenvanvier/eng">
+      <e:P20006>eng</e:P20006>
+      <w:P10088>Teken van vier</w:P10088>
+      <e:P20006>English</e:P20006>
+      <w:P10088>The sign of four</w:P10088>
+      <w:P30117>the famous story by Arthur Conan Doyle ; retold by Helene Bakker ; translation, Anna Asbury</w:P30117>
+      <bibframe:hasInstance rdf:resource="urn:isbn:9781783225361"/>
+      <bibframe:translationOf rdf:resource="/tekenvanvier"/>
+      <e:P20037 rdf:resource="asburyanna"/>
+      <w:P10061 rdf:resource="bakkerhelene"/>
+   </bibframe:Work>
+   <bibframe:Work rdf:about="bassettjennifer/sherlockholmesandthedukesson/eng">
+      <e:P20006>eng</e:P20006>
+      <w:P10088>Sherlock Holmes and the Duke's son</w:P10088>
+      <w:P30117>Sir Arthur Conan Doyle ; retold by Jennifer Bassett ; illustrated by Ron Tiner</w:P30117>
+      <bibframe:hasInstance rdf:resource="urn:isbn:9780194789196"/>
+      <m:P30321 rdf:resource="tinerron"/>
+      <w:P10061 rdf:resource="bassettjennifer"/>
+      <w:basedOnWork.en rdf:resource="http://www.wikidata.org/entity/q2379601"/>
+   </bibframe:Work>
+   <bibframe:Work rdf:about="bassettjennifer/sherlockholmesandthesportofkings/eng">
+      <e:P20006>eng</e:P20006>
+      <w:P10088>Sherlock Holmes and the sport of kings</w:P10088>
+      <w:P30117>retold by Jennifer Bassett ; illustrated by Ron Tiner</w:P30117>
+      <bibframe:hasInstance rdf:resource="urn:isbn:9780194789202"/>
+      <m:P30321 rdf:resource="tinerron"/>
+      <w:P10061 rdf:resource="bassettjennifer"/>
+      <w:basedOnWork.en rdf:resource="http://www.wikidata.org/entity/q1151761"/>
+   </bibframe:Work>
+   <bibframe:Work rdf:about="bayardpierre/affaireduchiendesbaskerville/eng">
+      <e:P20006>eng</e:P20006>
+      <w:P10088>Affaire du chien des Baskerville</w:P10088>
+      <e:P20006>English</e:P20006>
+      <w:P10088>Sherlock Holmes was wrong</w:P10088>
+      <w:P10088>reopening the case of the Hound of the Baskervilles</w:P10088>
+      <w:P30117>Pierre Bayard ; translated from the French by Charlotte Mandell</w:P30117>
+      <bibframe:hasInstance rdf:resource="urn:isbn:9781608192441"/>
+      <bibframe:translationOf rdf:resource="/affaireduchiendesbaskerville"/>
+      <e:P20053 rdf:resource="mandellcharlotte"/>
+      <w:P10061 rdf:resource="bayardpierre"/>
+   </bibframe:Work>
+   <bibframe:Work rdf:about="bowlerbill/sherlockholmesthebluediamond/eng">
+      <e:P20006>eng</e:P20006>
+      <w:P10088>Sherlock Holmes</w:P10088>
+      <w:P10088>the blue diamond</w:P10088>
+      <w:P30117>Sir Arthur Conan Doyle ; text adaptation by Bill Bowler ; illustrated by Susan Scott</w:P30117>
+      <bibframe:hasInstance rdf:resource="urn:isbn:9780194247238"/>
+      <m:P30321 rdf:resource="scottsusan"/>
+      <w:P10061 rdf:resource="bowlerbill"/>
+      <w:P10256 rdf:resource="http://viaf.org/viaf/173636607"/>
+      <w:P10256 rdf:resource="http://viaf.org/viaf/308763542"/>
+      <w:adaptationOfWork.en rdf:resource="http://www.wikidata.org/entity/q1140678"/>
+   </bibframe:Work>
+   <bibframe:Work rdf:about="collinsjoan/thelostworld/eng">
+      <e:P20006>eng</e:P20006>
+      <w:P10088>The lost world</w:P10088>
+      <w:P30117>by Sir Arthur Conan Doyle ; retold by Joan Collins ; illustrated by Martin Aitchison</w:P30117>
+      <bibframe:hasInstance rdf:resource="urn:isbn:0721452566"/>
+      <m:P30321 rdf:resource="aitchisonmartin"/>
+      <w:P10061 rdf:resource="collinsjoan"/>
+      <w:adaptationOfWork.en rdf:resource="http://viaf.org/viaf/294145857904223021237"/>
+   </bibframe:Work>
+   <bibframe:Work rdf:about="evanstony/astudyinscarlet/eng">
+      <e:P20006>eng</e:P20006>
+      <w:P10088>A study in scarlet</w:P10088>
+      <w:P30117>Arthur Conan Doyle ; retold by Tony Evans ; illustrated by Felix Bennett</w:P30117>
+      <bibframe:hasInstance rdf:resource="urn:isbn:9781906230579"/>
+      <m:P30321 rdf:resource="bennettfelix"/>
+      <w:P10061 rdf:resource="evanstony"/>
+      <w:P10256 rdf:resource="http://viaf.org/viaf/173636607"/>
+      <w:P10256 rdf:resource="http://viaf.org/viaf/308763542"/>
+      <w:adaptationOfWork.en rdf:resource="http://viaf.org/viaf/179061639"/>
+   </bibframe:Work>
+   <bibframe:Work rdf:about="evanstony/thesignofthefour/eng">
+      <e:P20006>eng</e:P20006>
+      <w:P10088>The sign of the four</w:P10088>
+      <w:P30117>Arthur Conan Doyle ; retold by Tony Evans ; illustrated by Felix Bennett</w:P30117>
+      <bibframe:hasInstance rdf:resource="urn:isbn:9781906230586"/>
+      <m:P30321 rdf:resource="bennettfelix"/>
+      <w:P10061 rdf:resource="evanstony"/>
+      <w:P10256 rdf:resource="http://viaf.org/viaf/173636607"/>
+      <w:P10256 rdf:resource="http://viaf.org/viaf/308763542"/>
+      <w:adaptationOfWork.en rdf:resource="http://viaf.org/viaf/184892317"/>
+   </bibframe:Work>
+   <bibframe:Work rdf:about="fitchkennethw/astudyinscarletasherlockholmesmystery/eng">
+      <e:P20006>eng</e:P20006>
+      <w:P10088>A study in scarlet</w:P10088>
+      <w:P10088>a Sherlock Holmes mystery</w:P10088>
+      <w:P30117>by Arthur Conan Doyle ; adaptation, Kenneth W. Fitch ; illustrated by Seymour Moskowitz</w:P30117>
+      <bibframe:hasInstance rdf:resource="urn:isbn:9781910619698"/>
+      <m:P30321 rdf:resource="moskowitzseymour"/>
+      <w:P10061 rdf:resource="fitchkennethw"/>
+      <w:P10256 rdf:resource="http://viaf.org/viaf/173636607"/>
+      <w:P10256 rdf:resource="http://viaf.org/viaf/308763542"/>
+      <w:graphicNovelizationOfWork.en rdf:resource="http://viaf.org/viaf/179061639"/>
+   </bibframe:Work>
+   <bibframe:Work rdf:about="francispauline/thehoundofthebaskervilles/eng">
+      <e:P20006>eng</e:P20006>
+      <w:P10088>The hound of the Baskervilles</w:P10088>
+      <w:P30117>retold by Pauline Francis</w:P30117>
+      <w:P30117>original by Sir Arthur Conan Doyle ; retold by Pauline Francis</w:P30117>
+      <bibframe:hasInstance rdf:resource="urn:isbn:9780462000183"/>
+      <bibframe:hasInstance rdf:resource="urn:isbn:9780237532772"/>
+      <w:P10061 rdf:resource="francispauline"/>
+      <w:P10256 rdf:resource="http://viaf.org/viaf/173636607"/>
+      <w:P10256 rdf:resource="http://viaf.org/viaf/308763542"/>
+      <w:adaptationOfWork.en rdf:resource="http://viaf.org/viaf/181625655"/>
+   </bibframe:Work>
+   <bibframe:Work rdf:about="gatessusan/thelostworld/eng">
+      <e:P20006>eng</e:P20006>
+      <w:P10088>The lost world</w:P10088>
+      <w:P30117>by Arthur Conan Doyle, Susan Gates ; illustrated by Mark Beech</w:P30117>
+      <bibframe:hasInstance rdf:resource="urn:isbn:9780198448730"/>
+      <m:P30321 rdf:resource="beechmark"/>
+      <w:P10061 rdf:resource="gatessusan"/>
+      <w:adaptationOfWork.en rdf:resource="http://viaf.org/viaf/294145857904223021237"/>
+   </bibframe:Work>
+   <bibframe:Work rdf:about="hardygouldjanet/sherlockholmestheemeraldcrown/eng">
+      <e:P20006>eng</e:P20006>
+      <w:P10088>Sherlock Holmes</w:P10088>
+      <w:P10088>the emerald crown</w:P10088>
+      <w:P30117>Sir Arthur Conan Doyle ; text adaptation by Janet Hardy-Gould ; illustrated by Marcela Hajdinjak-Krec</w:P30117>
+      <bibframe:hasInstance rdf:resource="urn:isbn:9780194247627"/>
+      <m:P30321 rdf:resource="hajdinjakkrecmarsela"/>
+      <w:P10061 rdf:resource="hardygouldjanet"/>
+      <w:adaptationOfWork.en rdf:resource="http://www.wikidata.org/entity/q1201796"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://viaf.org/viaf//eng">
       <e:P20006>eng</e:P20006>
@@ -12043,11 +11985,12 @@
       <bibframe:partOf rdf:resource="/hislastbowandthecasebookofsherlockholmes/eng"/>
       <bibframe:partOf rdf:resource="/thecompletesherlockholmes/eng"/>
       <bibframe:partOf rdf:resource="/thesecondsherlockholmesillustratedomnibusafacsimileeditionofsirarthurconandoylessherlockholmesstoriesotherthanthoseillustratedbysidneypagetastheyoriginallyappearedinthestrandmagazine/eng"/>
-      <bibframe:partOf rdf:resource="/thedefinitivesherlockholmes/eng"/>
-      <bibframe:partOf rdf:resource="/sherlockholmes/eng"/>
-      <bibframe:partOf rdf:resource="/sherlock/eng"/>
+      <bibframe:partOf rdf:resource="http://viaf.org/viaf/65283845/thedefinitivesherlockholmes/eng"/>
+      <bibframe:partOf rdf:resource="http://viaf.org/viaf/65283845/sherlockholmes/eng"/>
+      <bibframe:partOf rdf:resource="http://viaf.org/viaf/65283845/sherlock/eng"/>
       <e:P20053 rdf:resource="http://viaf.org/viaf/6111475"/>
       <e:P20053 rdf:resource="bollingermax"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10065 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10256 rdf:resource="http://viaf.org/viaf/173636607"/>
       <w:P10256 rdf:resource="http://viaf.org/viaf/308763542"/>
@@ -12079,6 +12022,7 @@
       <e:P20053 rdf:resource="daviesdavidstuart"/>
       <m:P30321 rdf:resource="martinecksophia"/>
       <m:P30321 rdf:resource="http://viaf.org/viaf/2555146"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10065 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10256 rdf:resource="http://viaf.org/viaf/173636607"/>
       <w:P10256 rdf:resource="http://viaf.org/viaf/308763542"/>
@@ -12136,16 +12080,19 @@
       <bibframe:partOf rdf:resource="/thecompletesherlockholmes/eng"/>
       <bibframe:partOf rdf:resource="/thesecondsherlockholmesillustratedomnibusafacsimileeditionofsirarthurconandoylessherlockholmesstoriesotherthanthoseillustratedbysidneypagetastheyoriginallyappearedinthestrandmagazine/eng"/>
       <bibframe:partOf rdf:resource="/thenewannotatedsherlockholmesthenovels/eng"/>
-      <bibframe:partOf rdf:resource="/thehoundofthebaskervillesandthevalleyoffear/eng"/>
-      <bibframe:partOf rdf:resource="/thevalleyoffear/eng"/>
-      <bibframe:partOf rdf:resource="/sherlockholmes/eng"/>
+      <bibframe:partOf rdf:resource="http://viaf.org/viaf/65283845/sherlockholmesthenovels/eng"/>
+      <bibframe:partOf rdf:resource="http://viaf.org/viaf/65283845/thehoundofthebaskervillesandthevalleyoffear/eng"/>
+      <bibframe:partOf rdf:resource="http://viaf.org/viaf/65283845/thevalleyoffear/eng"/>
+      <bibframe:partOf rdf:resource="http://viaf.org/viaf/65283845/sherlockholmes/eng"/>
       <bibframe:partOf rdf:resource="/sherlockholmesthecompleteandunabridgednovels/eng"/>
       <bibframe:partOf rdf:resource="/thevalleyoffearothersherlockholmesstories/eng"/>
+      <bibframe:partOf rdf:resource="http://viaf.org/viaf/65283845/thehoundofthebaskervillesthevalleyoffear/eng"/>
       <bibframe:partOf rdf:resource="/thehoundofthebaskervillesthevalleyoffear/eng"/>
       <e:P20053 rdf:resource="http://viaf.org/viaf/6111475"/>
       <e:P20053 rdf:resource="pearcets"/>
       <e:P20053 rdf:resource="adamsrichard"/>
       <e:P20053 rdf:resource="bollingermax"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10065 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10256 rdf:resource="http://viaf.org/viaf/173636607"/>
       <w:P10256 rdf:resource="http://viaf.org/viaf/308763542"/>
@@ -12206,18 +12153,22 @@
       <bibframe:partOf rdf:resource="/astudyinscarletandthesignoffour/eng"/>
       <bibframe:partOf rdf:resource="/theadventuresofsherlockholmes/eng"/>
       <bibframe:partOf rdf:resource="/thenewannotatedsherlockholmesthenovels/eng"/>
-      <bibframe:partOf rdf:resource="/sherlockholmescollectionanthologyofclassictales/eng"/>
+      <bibframe:partOf rdf:resource="http://viaf.org/viaf/65283845/sherlockholmescollectionanthologyofclassictales/eng"/>
+      <bibframe:partOf rdf:resource="http://viaf.org/viaf/65283845/sherlockholmesthenovels/eng"/>
       <bibframe:partOf rdf:resource="/sherlockholmes/eng"/>
-      <bibframe:partOf rdf:resource="/sirarthurconandoylethedoverreader/eng"/>
+      <bibframe:partOf rdf:resource="http://viaf.org/viaf/65283845/astudyinscarletandthesignoffour/eng"/>
+      <bibframe:partOf rdf:resource="http://viaf.org/viaf/65283845/sirarthurconandoylethedoverreader/eng"/>
       <bibframe:partOf rdf:resource="/adventuresofsherlockholmesmemoirsofsherlockholmesreturnofsherlockholmesastudyinscarlet/eng"/>
-      <bibframe:partOf rdf:resource="/astudyinscarletthesignoffour/eng"/>
+      <bibframe:partOf rdf:resource="http://viaf.org/viaf/65283845/astudyinscarletthesignoffour/eng"/>
+      <bibframe:partOf rdf:resource="http://viaf.org/viaf/65283845/sherlockholmes/eng"/>
       <bibframe:partOf rdf:resource="/astudyinscarletandothersherlockholmesadventures/eng"/>
       <bibframe:partOf rdf:resource="/sherlockholmesthecompleteandunabridgednovels/eng"/>
-      <bibframe:partOf rdf:resource="/astudyinscarletthesignoffourthehoundofthebaskervilles/eng"/>
+      <bibframe:partOf rdf:resource="http://viaf.org/viaf/65283845/astudyinscarletthesignoffourthehoundofthebaskervilles/eng"/>
       <bibframe:partOf rdf:resource="/astudyinscarletandthehoundofthebaskervilles/eng"/>
       <e:P20053 rdf:resource="http://viaf.org/viaf/6111475"/>
       <e:P20053 rdf:resource="laudeanthony"/>
       <e:P20053 rdf:resource="bollingermax"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10065 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10256 rdf:resource="http://viaf.org/viaf/173636607"/>
       <w:P10256 rdf:resource="http://viaf.org/viaf/308763542"/>
@@ -12240,6 +12191,7 @@
       <bibframe:hasInstance rdf:resource="urn:isbn:9781847491930"/>
       <bibframe:hasInstance rdf:resource="http://example.org/015503451"/>
       <bibframe:hasInstance rdf:resource="urn:isbn:9781847494351"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10065 rdf:resource="http://viaf.org/viaf/65283845"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://viaf.org/viaf/180817010">
@@ -12250,7 +12202,7 @@
    <bibframe:Work rdf:about="http://viaf.org/viaf/180817010/eng">
       <w:P10088>The cardboard box</w:P10088>
       <w:P10088>Adventure of the cardboard box</w:P10088>
-      <bibframe:partOf rdf:resource="/sherlockholmesthedarkmysteries/eng"/>
+      <bibframe:partOf rdf:resource="http://viaf.org/viaf/65283845/sherlockholmesthedarkmysteries/eng"/>
       <bibframe:partOf rdf:resource="/ascandalinbohemiaothersherlockholmesstories/eng"/>
       <w:P10065 rdf:resource="http://viaf.org/viaf/65283845"/>
    </bibframe:Work>
@@ -12259,9 +12211,10 @@
       <w:P10004>Adaptations.</w:P10004>
       <w:P10088>Hound of Baskervilles</w:P10088>
       <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
-      <w:P10155 rdf:resource="/pesbaskervillsky"/>
+      <w:P10251 rdf:resource="/pesbaskervillsky"/>
       <w:P10291 rdf:resource="/affaireduchiendesbaskerville"/>
       <x:P00014 rdf:resource="/thehoundofthebaskervilles/eng"/>
+      <x:P00014 rdf:resource="oconnorjohn/thehoundofthebaskervilles/eng"/>
       <x:P00014 rdf:resource="/thehoundofthebaskervillesnotes/eng"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://viaf.org/viaf/181625655/eng">
@@ -12380,27 +12333,29 @@
       <bibframe:hasInstance rdf:resource="urn:isbn:033024423"/>
       <bibframe:hasInstance rdf:resource="urn:isbn:0948248084"/>
       <bibframe:hasInstance rdf:resource="urn:isbn:9780007368570"/>
-      <bibframe:partOf rdf:resource="/sherlockholmesthedarkmysteries/eng"/>
+      <bibframe:partOf rdf:resource="http://viaf.org/viaf/65283845/sherlockholmesthedarkmysteries/eng"/>
       <bibframe:partOf rdf:resource="/astudyinscarletthehoundofthebaskervilles/eng"/>
       <bibframe:partOf rdf:resource="/sherlockholmesthenovels/eng"/>
       <bibframe:partOf rdf:resource="/thecompletesherlockholmes/eng"/>
-      <bibframe:partOf rdf:resource="/sherlockholmesthehoundofthebaskervilles/eng"/>
+      <bibframe:partOf rdf:resource="unglikrichard/sherlockholmesthehoundofthebaskervilles/eng"/>
       <bibframe:partOf rdf:resource="/thehoundofthebaskervillesthesignofthefour/eng"/>
       <bibframe:partOf rdf:resource="/thereturnofsherlockholmes/eng"/>
       <bibframe:partOf rdf:resource="/thebestofsherlockholmes/eng"/>
       <bibframe:partOf rdf:resource="/thenewannotatedsherlockholmesthenovels/eng"/>
-      <bibframe:partOf rdf:resource="/thehoundofthebaskervillesandotherstories/eng"/>
-      <bibframe:partOf rdf:resource="/sirarthurconandoylethedoverreader/eng"/>
+      <bibframe:partOf rdf:resource="http://viaf.org/viaf/65283845/thehoundofthebaskervillesandotherstories/eng"/>
+      <bibframe:partOf rdf:resource="http://viaf.org/viaf/65283845/sherlockholmesthenovels/eng"/>
+      <bibframe:partOf rdf:resource="http://viaf.org/viaf/65283845/sirarthurconandoylethedoverreader/eng"/>
       <bibframe:partOf rdf:resource="/sherlockholmeshisgreatestcases/eng"/>
-      <bibframe:partOf rdf:resource="/thehoundofthebaskervillesandthevalleyoffear/eng"/>
-      <bibframe:partOf rdf:resource="/sherlockholmes/eng"/>
+      <bibframe:partOf rdf:resource="http://viaf.org/viaf/65283845/thehoundofthebaskervillesandthevalleyoffear/eng"/>
+      <bibframe:partOf rdf:resource="http://viaf.org/viaf/65283845/sherlockholmes/eng"/>
       <bibframe:partOf rdf:resource="/sherlockholmesthecompleteandunabridgednovels/eng"/>
-      <bibframe:partOf rdf:resource="/thesherlockholmescollection/eng"/>
-      <bibframe:partOf rdf:resource="/thehoundofthebaskervillesthevalleyoffear/eng"/>
-      <bibframe:partOf rdf:resource="/astudyinscarletthesignoffourthehoundofthebaskervilles/eng"/>
-      <bibframe:partOf rdf:resource="/sherlock/eng"/>
-      <bibframe:partOf rdf:resource="/thehoundofthebaskervilles/eng"/>
+      <bibframe:partOf rdf:resource="http://viaf.org/viaf/65283845/thesherlockholmescollection/eng"/>
+      <bibframe:partOf rdf:resource="http://viaf.org/viaf/65283845/thehoundofthebaskervillesthevalleyoffear/eng"/>
+      <bibframe:partOf rdf:resource="http://viaf.org/viaf/65283845/astudyinscarletthesignoffourthehoundofthebaskervilles/eng"/>
+      <bibframe:partOf rdf:resource="http://viaf.org/viaf/65283845/sherlock/eng"/>
       <bibframe:partOf rdf:resource="/sirarthurconandoylesthesignoffourthehoundofthebaskervillessirnigelthelostworld/eng"/>
+      <bibframe:partOf rdf:resource="/thehoundofthebaskervilles/eng"/>
+      <bibframe:partOf rdf:resource="/thehoundofthebaskervillesthevalleyoffear/eng"/>
       <bibframe:partOf rdf:resource="/astudyinscarletandthehoundofthebaskervilles/eng"/>
       <e:P20049 rdf:resource="nobespatrick"/>
       <e:P20053 rdf:resource="fraylingchristopher"/>
@@ -12413,14 +12368,16 @@
       <e:P20053 rdf:resource="jonesmatt"/>
       <e:P20053 rdf:resource="danlyjames"/>
       <e:P20053 rdf:resource="ronaldsonalan"/>
-      <e:P20053 rdf:resource="http://viaf.org/viaf/2555146"/>
       <e:P20053 rdf:resource="smypam"/>
       <e:P20053 rdf:resource="bennettandrew"/>
       <e:P20053 rdf:resource="lejeuneanthony"/>
       <e:P20327 rdf:resource="mouldchris"/>
       <e:P20327 rdf:resource="kimberlymarion"/>
       <m:P30321 rdf:resource="mackintoshdavid"/>
+      <m:P30321 rdf:resource="gabbyterry"/>
       <m:P30321 rdf:resource="berkeleyjon"/>
+      <m:P30321 rdf:resource="http://viaf.org/viaf/2555146"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10065 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10256 rdf:resource="http://viaf.org/viaf/173636607"/>
       <w:P10256 rdf:resource="http://viaf.org/viaf/308763542"/>
@@ -12433,8 +12390,8 @@
    <bibframe:Work rdf:about="http://viaf.org/viaf/181846531">
       <w:P10088>Adventure of the speckled band</w:P10088>
       <w:P10088>Speckled band</w:P10088>
-      <w:P10155 rdf:resource="/skandalvcechach"/>
       <w:P10155 rdf:resource="/gespikkeldeband"/>
+      <w:P10251 rdf:resource="/skandalvcechach"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://viaf.org/viaf/181846531/eng">
       <e:P20006>eng</e:P20006>
@@ -12453,6 +12410,7 @@
       <bibframe:partOf rdf:resource="/waterlooandthespeckledband/eng"/>
       <e:P20053 rdf:resource="dewsnaprobert"/>
       <m:P30321 rdf:resource="macalusopjames"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10065 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10256 rdf:resource="http://viaf.org/viaf/173636607"/>
       <w:P10256 rdf:resource="http://viaf.org/viaf/308763542"/>
@@ -12516,18 +12474,22 @@
       <bibframe:partOf rdf:resource="/thehoundofthebaskervillesthesignofthefour/eng"/>
       <bibframe:partOf rdf:resource="/theadventuresofsherlockholmes/eng"/>
       <bibframe:partOf rdf:resource="/thenewannotatedsherlockholmesthenovels/eng"/>
-      <bibframe:partOf rdf:resource="/sherlockholmescollectionanthologyofclassictales/eng"/>
-      <bibframe:partOf rdf:resource="/thehoundofthebaskervillesandotherstories/eng"/>
+      <bibframe:partOf rdf:resource="http://viaf.org/viaf/65283845/sherlockholmescollectionanthologyofclassictales/eng"/>
+      <bibframe:partOf rdf:resource="http://viaf.org/viaf/65283845/thehoundofthebaskervillesandotherstories/eng"/>
+      <bibframe:partOf rdf:resource="http://viaf.org/viaf/65283845/sherlockholmesthenovels/eng"/>
       <bibframe:partOf rdf:resource="/sherlockholmes/eng"/>
-      <bibframe:partOf rdf:resource="/astudyinscarletthesignoffour/eng"/>
+      <bibframe:partOf rdf:resource="http://viaf.org/viaf/65283845/astudyinscarletandthesignoffour/eng"/>
+      <bibframe:partOf rdf:resource="http://viaf.org/viaf/65283845/astudyinscarletthesignoffour/eng"/>
+      <bibframe:partOf rdf:resource="http://viaf.org/viaf/65283845/sherlockholmes/eng"/>
       <bibframe:partOf rdf:resource="/sherlockholmesthecompleteandunabridgednovels/eng"/>
       <bibframe:partOf rdf:resource="/thevalleyoffearothersherlockholmesstories/eng"/>
-      <bibframe:partOf rdf:resource="/astudyinscarletthesignoffourthehoundofthebaskervilles/eng"/>
+      <bibframe:partOf rdf:resource="http://viaf.org/viaf/65283845/astudyinscarletthesignoffourthehoundofthebaskervilles/eng"/>
       <bibframe:partOf rdf:resource="/sirarthurconandoylesthesignoffourthehoundofthebaskervillessirnigelthelostworld/eng"/>
       <e:P20053 rdf:resource="bollingermax"/>
       <e:P20053 rdf:resource="rodenchristopher"/>
       <e:P20053 rdf:resource="towheedshafquat"/>
       <e:P20053 rdf:resource="laudeanthony"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10065 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10256 rdf:resource="http://viaf.org/viaf/173636607"/>
       <w:P10256 rdf:resource="http://viaf.org/viaf/308763542"/>
@@ -12612,18 +12574,19 @@
       <bibframe:partOf rdf:resource="/theadventuresofsherlockholmes/eng"/>
       <bibframe:partOf rdf:resource="/theadventuresandmemoirsofsherlockholmes/eng"/>
       <bibframe:partOf rdf:resource="/thebestofsherlockholmes/eng"/>
-      <bibframe:partOf rdf:resource="/sherlockholmescollectionanthologyofclassictales/eng"/>
-      <bibframe:partOf rdf:resource="/thehoundofthebaskervillesandotherstories/eng"/>
-      <bibframe:partOf rdf:resource="/thedefinitivesherlockholmes/eng"/>
+      <bibframe:partOf rdf:resource="http://viaf.org/viaf/65283845/sherlockholmescollectionanthologyofclassictales/eng"/>
+      <bibframe:partOf rdf:resource="http://viaf.org/viaf/65283845/thehoundofthebaskervillesandotherstories/eng"/>
+      <bibframe:partOf rdf:resource="http://viaf.org/viaf/65283845/thedefinitivesherlockholmes/eng"/>
       <bibframe:partOf rdf:resource="/adventuresofsherlockholmesmemoirsofsherlockholmesreturnofsherlockholmesastudyinscarlet/eng"/>
-      <bibframe:partOf rdf:resource="/sherlockholmes/eng"/>
+      <bibframe:partOf rdf:resource="http://viaf.org/viaf/65283845/sherlockholmes/eng"/>
       <bibframe:partOf rdf:resource="/sherlockholmestheshortstories/eng"/>
-      <bibframe:partOf rdf:resource="/thesherlockholmescollection/eng"/>
+      <bibframe:partOf rdf:resource="http://viaf.org/viaf/65283845/thesherlockholmescollection/eng"/>
       <bibframe:partOf rdf:resource="/thegreatwriterstheirlivesworksandinspiration/eng"/>
       <bibframe:partOf rdf:resource="/theadventuresofsherlockholmesandthememoirsofsherlockholmes/eng"/>
       <e:P20053 rdf:resource="http://viaf.org/viaf/44372717"/>
       <e:P20053 rdf:resource="kincaideric"/>
       <m:P30321 rdf:resource="http://viaf.org/viaf/2555146"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10065 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10256 rdf:resource="http://viaf.org/viaf/173636607"/>
       <w:P10256 rdf:resource="http://viaf.org/viaf/308763542"/>
@@ -12698,14 +12661,14 @@
       <bibframe:partOf rdf:resource="/childrensadventurescottishlosttreasures/eng"/>
       <bibframe:partOf rdf:resource="/thelostworldandthepoisonbelt/eng"/>
       <bibframe:partOf rdf:resource="/lostworld/eng"/>
-      <bibframe:partOf rdf:resource="/sirarthurconandoylethedoverreader/eng"/>
+      <bibframe:partOf rdf:resource="http://viaf.org/viaf/65283845/sirarthurconandoylethedoverreader/eng"/>
       <bibframe:partOf rdf:resource="/thelostworldandotherstories/eng"/>
       <bibframe:partOf rdf:resource="/thelostworld/eng"/>
       <bibframe:partOf rdf:resource="/sirarthurconandoylesthesignoffourthehoundofthebaskervillessirnigelthelostworld/eng"/>
       <e:P20053 rdf:resource="duncanian"/>
-      <e:P20053 rdf:resource="newshamian"/>
       <e:P20053 rdf:resource="matthewssarah"/>
       <m:P30321 rdf:resource="newshamian"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10065 rdf:resource="http://viaf.org/viaf/65283845"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://viaf.org/viaf/308560745/eng">
@@ -12718,6 +12681,7 @@
       <bibframe:hasInstance rdf:resource="urn:isbn:9781444829396"/>
       <bibframe:hasInstance rdf:resource="urn:isbn:0947898557"/>
       <bibframe:partOf rdf:resource="/thegreatshadowandotherstories/eng"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10065 rdf:resource="http://viaf.org/viaf/65283845"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://viaf.org/viaf/309258340/eng">
@@ -12745,7 +12709,7 @@
       <w:P10088>Naval treaty</w:P10088>
       <w:P10088>The naval treaty</w:P10088>
       <bibframe:partOf rdf:resource="/ascandalinbohemiaothersherlockholmesstories/eng"/>
-      <bibframe:partOf rdf:resource="/thememoirsofsherlockholmes/eng"/>
+      <bibframe:partOf rdf:resource="http://viaf.org/viaf/65283845/thememoirsofsherlockholmes/eng"/>
       <w:P10065 rdf:resource="http://viaf.org/viaf/65283845"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://viaf.org/viaf/310211956/eng">
@@ -12760,6 +12724,7 @@
       <bibframe:hasInstance rdf:resource="urn:isbn:9781632205889"/>
       <bibframe:hasInstance rdf:resource="http://example.org/008997473"/>
       <bibframe:hasInstance rdf:resource="http://example.org/015503413"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10065 rdf:resource="http://viaf.org/viaf/65283845"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://viaf.org/viaf/310212942/eng">
@@ -12775,6 +12740,7 @@
       <bibframe:hasInstance rdf:resource="http://example.org/012225716"/>
       <bibframe:hasInstance rdf:resource="urn:isbn:9780486813455"/>
       <bibframe:hasInstance rdf:resource="http://example.org/015503369"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10065 rdf:resource="http://viaf.org/viaf/65283845"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://viaf.org/viaf/310218668/eng">
@@ -12790,6 +12756,7 @@
       <bibframe:hasInstance rdf:resource="urn:isbn:9781780929095"/>
       <bibframe:partOf rdf:resource="/thevalleyoffearothersherlockholmesstories/eng"/>
       <m:P30321 rdf:resource="macalusopjames"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10065 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10256 rdf:resource="http://viaf.org/viaf/173636607"/>
       <w:P10256 rdf:resource="http://viaf.org/viaf/308763542"/>
@@ -12812,6 +12779,7 @@
       <bibframe:hasInstance rdf:resource="urn:isbn:0330247123"/>
       <bibframe:hasInstance rdf:resource="urn:isbn:0224011219"/>
       <bibframe:hasInstance rdf:resource="http://example.org/015503389"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10065 rdf:resource="http://viaf.org/viaf/65283845"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://viaf.org/viaf/6035152865746704940001/eng">
@@ -12827,7 +12795,234 @@
       <bibframe:hasInstance rdf:resource="urn:isbn:0330024213"/>
       <bibframe:hasInstance rdf:resource="urn:isbn:0224011391"/>
       <bibframe:partOf rdf:resource="/thecompletebrigadiergerard/eng"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10065 rdf:resource="http://viaf.org/viaf/65283845"/>
+   </bibframe:Work>
+   <bibframe:Work rdf:about="http://viaf.org/viaf/65283845/astudyinscarletandthesignoffour/eng">
+      <e:P20006>eng</e:P20006>
+      <w:P10088>A study in Scarlet ;</w:P10088>
+      <w:P10088>and, The sign of four</w:P10088>
+      <w:P30117>Sir Arthur Conan Doyle</w:P30117>
+      <bibframe:hasInstance rdf:resource="urn:isbn:9781788884082"/>
+      <bibframe:hasInstance rdf:resource="urn:isbn:9781509826988"/>
+      <bibframe:hasInstance rdf:resource="urn:isbn:9781784288228"/>
+      <bibframe:hasPart rdf:resource="http://viaf.org/viaf/184892317/eng"/>
+      <bibframe:hasPart rdf:resource="http://viaf.org/viaf/179061639/eng"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
+      <w:P10256 rdf:resource="http://viaf.org/viaf/173636607"/>
+      <w:P10256 rdf:resource="http://viaf.org/viaf/308763542"/>
+   </bibframe:Work>
+   <bibframe:Work rdf:about="http://viaf.org/viaf/65283845/astudyinscarletthesignoffour/eng">
+      <e:P20006>eng</e:P20006>
+      <w:P10088>A study in Scarlet ;</w:P10088>
+      <w:P10088>&amp; The sign of four</w:P10088>
+      <w:P30117>Sir Arthur Conan Doyle</w:P30117>
+      <bibframe:hasInstance rdf:resource="urn:isbn:9781909621763"/>
+      <bibframe:hasPart rdf:resource="http://viaf.org/viaf/184892317/eng"/>
+      <bibframe:hasPart rdf:resource="http://viaf.org/viaf/179061639/eng"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
+      <w:P10256 rdf:resource="http://viaf.org/viaf/173636607"/>
+      <w:P10256 rdf:resource="http://viaf.org/viaf/308763542"/>
+   </bibframe:Work>
+   <bibframe:Work rdf:about="http://viaf.org/viaf/65283845/astudyinscarletthesignoffourthehoundofthebaskervilles/eng">
+      <e:P20006>eng</e:P20006>
+      <w:P10088>A study in scarlet ;</w:P10088>
+      <w:P10088>The sign of four ; The hound of the Baskervilles</w:P10088>
+      <w:P30117>Arthur Conan Doyle ; with an introduction by Andrew Lycett</w:P30117>
+      <bibframe:hasInstance rdf:resource="urn:isbn:9781841593630"/>
+      <bibframe:hasPart rdf:resource="http://viaf.org/viaf/179061639/eng"/>
+      <bibframe:hasPart rdf:resource="http://viaf.org/viaf/184892317/eng"/>
+      <bibframe:hasPart rdf:resource="http://viaf.org/viaf/181625655/eng"/>
+      <e:P20053 rdf:resource="lycettandrew"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
+      <w:P10256 rdf:resource="http://viaf.org/viaf/173636607"/>
+      <w:P10256 rdf:resource="http://viaf.org/viaf/308763542"/>
+   </bibframe:Work>
+   <bibframe:Work rdf:about="http://viaf.org/viaf/65283845/sherlock/eng">
+      <e:P20006>eng</e:P20006>
+      <w:P10088>Sherlock</w:P10088>
+      <w:P30117>selected and introduced by Mark Gatiss &amp; Steven Moffat</w:P30117>
+      <bibframe:hasInstance rdf:resource="urn:isbn:9781785942457"/>
+      <bibframe:hasPart rdf:resource="http://www.wikidata.org/entity/q860831/eng"/>
+      <bibframe:hasPart rdf:resource="http://viaf.org/viaf/181625655/eng"/>
+      <bibframe:hasPart rdf:resource="http://viaf.org/viaf/1390154501894339210002/eng"/>
+      <w:P10055 rdf:resource="gatissmark"/>
+      <w:P10055 rdf:resource="moffatsteven"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
+      <w:P10256 rdf:resource="http://viaf.org/viaf/173636607"/>
+      <w:P10256 rdf:resource="http://viaf.org/viaf/308763542"/>
+   </bibframe:Work>
+   <bibframe:Work rdf:about="http://viaf.org/viaf/65283845/sherlockholmes/eng">
+      <e:P20006>eng</e:P20006>
+      <w:P10088>Sherlock Holmes</w:P10088>
+      <w:P30117>Sir Arthur Conan Doyle</w:P30117>
+      <bibframe:hasInstance rdf:resource="urn:isbn:97816310607481"/>
+      <bibframe:hasPart rdf:resource="http://viaf.org/viaf/179061639/eng"/>
+      <bibframe:hasPart rdf:resource="http://viaf.org/viaf/184892317/eng"/>
+      <bibframe:hasPart rdf:resource="http://viaf.org/viaf/186734487/eng"/>
+      <bibframe:hasPart rdf:resource="http://www.wikidata.org/entity/q860831/eng"/>
+      <bibframe:hasPart rdf:resource="http://viaf.org/viaf/181625655/eng"/>
+      <bibframe:hasPart rdf:resource="http://www.wikidata.org/entity/q725752/eng"/>
+      <bibframe:hasPart rdf:resource="http://viaf.org/viaf/175571309/eng"/>
+      <bibframe:hasPart rdf:resource="http://viaf.org/viaf/1390154501894339210002/eng"/>
+      <bibframe:hasPart rdf:resource="http://www.wikidata.org/entity/q1129378/eng"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
+      <w:P10256 rdf:resource="http://viaf.org/viaf/173636607"/>
+      <w:P10256 rdf:resource="http://viaf.org/viaf/308763542"/>
+   </bibframe:Work>
+   <bibframe:Work rdf:about="http://viaf.org/viaf/65283845/sherlockholmescollectionanthologyofclassictales/eng">
+      <e:P20006>eng</e:P20006>
+      <w:P10088>Sherlock Holmes collection</w:P10088>
+      <w:P10088>anthology of classic tales</w:P10088>
+      <w:P30117>foreword by Jon Lellenberg</w:P30117>
+      <bibframe:hasInstance rdf:resource="urn:isbn:9781786645449"/>
+      <bibframe:hasPart rdf:resource="http://viaf.org/viaf/179061639/eng"/>
+      <bibframe:hasPart rdf:resource="http://viaf.org/viaf/184892317/eng"/>
+      <bibframe:hasPart rdf:resource="http://viaf.org/viaf/186734487/eng"/>
+      <bibframe:hasPart rdf:resource="http://www.wikidata.org/entity/q860831/eng"/>
+      <e:P20053 rdf:resource="lellenbergjonl"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
+      <w:P10256 rdf:resource="http://viaf.org/viaf/173636607"/>
+      <w:P10256 rdf:resource="http://viaf.org/viaf/308763542"/>
+   </bibframe:Work>
+   <bibframe:Work rdf:about="http://viaf.org/viaf/65283845/sherlockholmesthedarkmysteries/eng">
+      <e:P20006>eng</e:P20006>
+      <w:P10088>Sherlock Holmes</w:P10088>
+      <w:P10088>the dark mysteries</w:P10088>
+      <w:P30117>Sir Arthur Conan Doyle ; introduced and selected by David Stuart Davies</w:P30117>
+      <bibframe:hasInstance rdf:resource="urn:isbn:9781909621282"/>
+      <bibframe:hasPart rdf:resource="http://viaf.org/viaf/181625655/eng"/>
+      <bibframe:hasPart rdf:resource="/thesussexvampire/eng"/>
+      <bibframe:hasPart rdf:resource="/thecreepingman/eng"/>
+      <bibframe:hasPart rdf:resource="/theadventureofshoscombeoldplace/eng"/>
+      <bibframe:hasPart rdf:resource="http://www.wikidata.org/entity/q3041826/eng"/>
+      <bibframe:hasPart rdf:resource="/theveiledlodger/eng"/>
+      <bibframe:hasPart rdf:resource="http://www.wikidata.org/entity/q2466799/eng"/>
+      <bibframe:hasPart rdf:resource="http://viaf.org/viaf/180817010/eng"/>
+      <e:P20053 rdf:resource="daviesdavidstuart"/>
+      <m:P30321 rdf:resource="http://viaf.org/viaf/2555146"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
+   </bibframe:Work>
+   <bibframe:Work rdf:about="http://viaf.org/viaf/65283845/sherlockholmesthenovels/eng">
+      <e:P20006>eng</e:P20006>
+      <w:P10088>Sherlock Holmes</w:P10088>
+      <w:P10088>the novels</w:P10088>
+      <w:P30117>Sir Arthur Conan Doyle ; introduction by Michael Dirda</w:P30117>
+      <bibframe:hasInstance rdf:resource="urn:isbn:9780143107132"/>
+      <bibframe:hasPart rdf:resource="http://viaf.org/viaf/179061639/eng"/>
+      <bibframe:hasPart rdf:resource="http://viaf.org/viaf/184892317/eng"/>
+      <bibframe:hasPart rdf:resource="http://viaf.org/viaf/181625655/eng"/>
+      <bibframe:hasPart rdf:resource="http://viaf.org/viaf/175571309/eng"/>
+      <e:P20053 rdf:resource="dirdamichael"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
+      <w:P10256 rdf:resource="http://viaf.org/viaf/173636607"/>
+      <w:P10256 rdf:resource="http://viaf.org/viaf/308763542"/>
+   </bibframe:Work>
+   <bibframe:Work rdf:about="http://viaf.org/viaf/65283845/sirarthurconandoylethedoverreader/eng">
+      <e:P20006>eng</e:P20006>
+      <w:P10088>Sir Arthur Conan Doyle</w:P10088>
+      <w:P10088>the Dover reader</w:P10088>
+      <w:P30117>Arthur Doyle</w:P30117>
+      <bibframe:hasInstance rdf:resource="urn:isbn:9780486791173"/>
+      <bibframe:hasPart rdf:resource="http://viaf.org/viaf/181625655/eng"/>
+      <bibframe:hasPart rdf:resource="http://viaf.org/viaf/179061639/eng"/>
+      <bibframe:hasPart rdf:resource="http://viaf.org/viaf/294145857904223021237/eng"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
+   </bibframe:Work>
+   <bibframe:Work rdf:about="http://viaf.org/viaf/65283845/thedefinitivesherlockholmes/eng">
+      <e:P20006>eng</e:P20006>
+      <w:P10088>The definitive Sherlock Holmes</w:P10088>
+      <w:P30117>Arthur Conan Doyle</w:P30117>
+      <bibframe:hasInstance rdf:resource="urn:isbn:9788129142313"/>
+      <bibframe:hasPart rdf:resource="http://www.wikidata.org/entity/q860831/eng"/>
+      <bibframe:hasPart rdf:resource="http://viaf.org/viaf/186734487/eng"/>
+      <bibframe:hasPart rdf:resource="http://www.wikidata.org/entity/q725752/eng"/>
+      <bibframe:hasPart rdf:resource="http://www.wikidata.org/entity/q1129378/eng"/>
+      <bibframe:hasPart rdf:resource="http://viaf.org/viaf/1390154501894339210002/eng"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
+      <w:P10256 rdf:resource="http://viaf.org/viaf/173636607"/>
+      <w:P10256 rdf:resource="http://viaf.org/viaf/308763542"/>
+   </bibframe:Work>
+   <bibframe:Work rdf:about="http://viaf.org/viaf/65283845/thehoundofthebaskervillesandotherstories/eng">
+      <e:P20006>eng</e:P20006>
+      <w:P10088>The hound of the Baskervilles and other stories</w:P10088>
+      <w:P30117>Arthur Conan Doyle ; illustrations: colored by Barbara Frith</w:P30117>
+      <bibframe:hasInstance rdf:resource="urn:isbn:9781849311380"/>
+      <bibframe:hasPart rdf:resource="http://viaf.org/viaf/181625655/eng"/>
+      <bibframe:hasPart rdf:resource="http://viaf.org/viaf/184892317/eng"/>
+      <bibframe:hasPart rdf:resource="http://viaf.org/viaf/186734487/eng"/>
+      <m:P30321 rdf:resource="http://viaf.org/viaf/2555146"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
+      <w:P10256 rdf:resource="http://viaf.org/viaf/173636607"/>
+      <w:P10256 rdf:resource="http://viaf.org/viaf/308763542"/>
+   </bibframe:Work>
+   <bibframe:Work rdf:about="http://viaf.org/viaf/65283845/thehoundofthebaskervillesandthevalleyoffear/eng">
+      <e:P20006>eng</e:P20006>
+      <w:P10088>The hound of the Baskervilles ;</w:P10088>
+      <w:P10088>and, The valley of fear</w:P10088>
+      <w:P30117>Sir Arthur Conan Doyle</w:P30117>
+      <bibframe:hasInstance rdf:resource="urn:isbn:9781509826964"/>
+      <bibframe:hasInstance rdf:resource="urn:isbn:9781909621749"/>
+      <bibframe:hasPart rdf:resource="http://viaf.org/viaf/175571309/eng"/>
+      <bibframe:hasPart rdf:resource="http://viaf.org/viaf/181625655/eng"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
+      <w:P10256 rdf:resource="http://viaf.org/viaf/173636607"/>
+      <w:P10256 rdf:resource="http://viaf.org/viaf/308763542"/>
+   </bibframe:Work>
+   <bibframe:Work rdf:about="http://viaf.org/viaf/65283845/thehoundofthebaskervillesthevalleyoffear/eng">
+      <e:P20006>eng</e:P20006>
+      <w:P10088>The hound of the Baskervilles ;</w:P10088>
+      <w:P10088>The valley of fear</w:P10088>
+      <w:P30117>Arthur Conan Doyle</w:P30117>
+      <bibframe:hasInstance rdf:resource="urn:isbn:9781784288211"/>
+      <bibframe:hasPart rdf:resource="http://viaf.org/viaf/175571309/eng"/>
+      <bibframe:hasPart rdf:resource="http://viaf.org/viaf/181625655/eng"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
+      <w:P10256 rdf:resource="http://viaf.org/viaf/173636607"/>
+      <w:P10256 rdf:resource="http://viaf.org/viaf/308763542"/>
+   </bibframe:Work>
+   <bibframe:Work rdf:about="http://viaf.org/viaf/65283845/thememoirsofsherlockholmes/eng">
+      <e:P20006>eng</e:P20006>
+      <w:P10088>The memoirs of Sherlock Holmes</w:P10088>
+      <w:P30117>by Sir Arthur Conan Doyle ; with an introduction by Steve Thompson</w:P30117>
+      <bibframe:hasInstance rdf:resource="urn:isbn:9781446417270"/>
+      <bibframe:hasPart rdf:resource="http://www.wikidata.org/entity/q1151761/eng"/>
+      <bibframe:hasPart rdf:resource="/theyellowface/eng"/>
+      <bibframe:hasPart rdf:resource="/thestockbrokersclerk/eng"/>
+      <bibframe:hasPart rdf:resource="/thegloriascott/eng"/>
+      <bibframe:hasPart rdf:resource="http://www.wikidata.org/entity/q1150069/eng"/>
+      <bibframe:hasPart rdf:resource="/thereigatesquires/eng"/>
+      <bibframe:hasPart rdf:resource="/thecrookedman/eng"/>
+      <bibframe:hasPart rdf:resource="/theresidentpatient/eng"/>
+      <bibframe:hasPart rdf:resource="/thegreekinterpreter/eng"/>
+      <bibframe:hasPart rdf:resource="http://viaf.org/viaf/309533947/eng"/>
+      <bibframe:hasPart rdf:resource="/thefinalproblem/eng"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
+      <w:P10256 rdf:resource="http://viaf.org/viaf/173636607"/>
+      <w:P10256 rdf:resource="http://viaf.org/viaf/308763542"/>
+   </bibframe:Work>
+   <bibframe:Work rdf:about="http://viaf.org/viaf/65283845/thesherlockholmescollection/eng">
+      <e:P20006>eng</e:P20006>
+      <w:P10088>The Sherlock Holmes collection</w:P10088>
+      <w:P30117>Arthur Conan Doyle</w:P30117>
+      <bibframe:hasInstance rdf:resource="urn:isbn:9780007569519"/>
+      <bibframe:hasPart rdf:resource="http://viaf.org/viaf/186734487/eng"/>
+      <bibframe:hasPart rdf:resource="http://viaf.org/viaf/181625655/eng"/>
+      <bibframe:hasPart rdf:resource="http://www.wikidata.org/entity/q725752/eng"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
+      <w:P10256 rdf:resource="http://viaf.org/viaf/173636607"/>
+      <w:P10256 rdf:resource="http://viaf.org/viaf/308763542"/>
+   </bibframe:Work>
+   <bibframe:Work rdf:about="http://viaf.org/viaf/65283845/thevalleyoffear/eng">
+      <e:P20006>eng</e:P20006>
+      <w:P10088>The valley of fear</w:P10088>
+      <w:P30117>Sir Arthur Conan Doyle</w:P30117>
+      <bibframe:hasInstance rdf:resource="urn:isbn:9780141395562"/>
+      <bibframe:hasPart rdf:resource="/caseofmistakenidentity/eng"/>
+      <bibframe:hasPart rdf:resource="http://viaf.org/viaf/175571309/eng"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
+      <w:P10256 rdf:resource="http://viaf.org/viaf/173636607"/>
+      <w:P10256 rdf:resource="http://viaf.org/viaf/308763542"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://www.wikidata.org/entity/q1129378">
       <w:P10088>Case-book of Sherlock Holmes</w:P10088>
@@ -12875,9 +13070,10 @@
       <bibframe:partOf rdf:resource="/thecasebookofsherlockholmes/eng"/>
       <bibframe:partOf rdf:resource="/thecompletesherlockholmes/eng"/>
       <bibframe:partOf rdf:resource="/thesecondsherlockholmesillustratedomnibusafacsimileeditionofsirarthurconandoylessherlockholmesstoriesotherthanthoseillustratedbysidneypagetastheyoriginallyappearedinthestrandmagazine/eng"/>
-      <bibframe:partOf rdf:resource="/thedefinitivesherlockholmes/eng"/>
-      <bibframe:partOf rdf:resource="/sherlockholmes/eng"/>
+      <bibframe:partOf rdf:resource="http://viaf.org/viaf/65283845/thedefinitivesherlockholmes/eng"/>
+      <bibframe:partOf rdf:resource="http://viaf.org/viaf/65283845/sherlockholmes/eng"/>
       <e:P20053 rdf:resource="robsonww"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10065 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10256 rdf:resource="http://viaf.org/viaf/173636607"/>
       <w:P10256 rdf:resource="http://viaf.org/viaf/308763542"/>
@@ -12898,13 +13094,14 @@
       <bibframe:hasInstance rdf:resource="urn:isbn:9781911547419"/>
       <bibframe:partOf rdf:resource="/ascandalinbohemiaothersherlockholmesstories/eng"/>
       <m:P30321 rdf:resource="macalusopjames"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10065 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10256 rdf:resource="http://viaf.org/viaf/173636607"/>
       <w:P10256 rdf:resource="http://viaf.org/viaf/308763542"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://www.wikidata.org/entity/q1150069/eng">
       <w:P10088>The Musgrave ritual</w:P10088>
-      <bibframe:partOf rdf:resource="/thememoirsofsherlockholmes/eng"/>
+      <bibframe:partOf rdf:resource="http://viaf.org/viaf/65283845/thememoirsofsherlockholmes/eng"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://www.wikidata.org/entity/q1151748">
       <w:P10088>Man with the twisted lip</w:P10088>
@@ -12920,6 +13117,7 @@
       <bibframe:partOf rdf:resource="/themanwiththetwistedlipandtheadventureofthedevilsfoot/eng"/>
       <bibframe:partOf rdf:resource="/ascandalinbohemiaothersherlockholmesstories/eng"/>
       <m:P30321 rdf:resource="macalusopjames"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10065 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10256 rdf:resource="http://viaf.org/viaf/173636607"/>
       <w:P10256 rdf:resource="http://viaf.org/viaf/308763542"/>
@@ -12939,7 +13137,7 @@
       <w:P10088>Silver Blaze</w:P10088>
       <bibframe:hasInstance rdf:resource="urn:isbn:0906005264"/>
       <bibframe:partOf rdf:resource="/ascandalinbohemiaothersherlockholmesstories/eng"/>
-      <bibframe:partOf rdf:resource="/thememoirsofsherlockholmes/eng"/>
+      <bibframe:partOf rdf:resource="http://viaf.org/viaf/65283845/thememoirsofsherlockholmes/eng"/>
       <w:P10065 rdf:resource="http://viaf.org/viaf/65283845"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://www.wikidata.org/entity/q1192541">
@@ -12956,6 +13154,7 @@
       <bibframe:hasInstance rdf:resource="urn:isbn:9781780926926"/>
       <bibframe:partOf rdf:resource="/ascandalinbohemiaothersherlockholmesstories/eng"/>
       <m:P30321 rdf:resource="macalusopjames"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10065 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10256 rdf:resource="http://viaf.org/viaf/173636607"/>
       <w:P10256 rdf:resource="http://viaf.org/viaf/308763542"/>
@@ -12977,6 +13176,7 @@
       <bibframe:hasInstance rdf:resource="urn:isbn:9781780926957"/>
       <bibframe:partOf rdf:resource="/ascandalinbohemiaothersherlockholmesstories/eng"/>
       <m:P30321 rdf:resource="macalusopjames"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10065 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10256 rdf:resource="http://viaf.org/viaf/173636607"/>
       <w:P10256 rdf:resource="http://viaf.org/viaf/308763542"/>
@@ -12998,6 +13198,7 @@
       <bibframe:hasInstance rdf:resource="urn:isbn:9781780929125"/>
       <bibframe:partOf rdf:resource="/sherlockholmestheemeraldcrown/eng"/>
       <m:P30321 rdf:resource="macalusopjames"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10256 rdf:resource="http://viaf.org/viaf/173636607"/>
       <w:P10256 rdf:resource="http://viaf.org/viaf/308763542"/>
    </bibframe:Work>
@@ -13021,6 +13222,7 @@
       <bibframe:hasInstance rdf:resource="urn:isbn:086299148"/>
       <bibframe:partOf rdf:resource="/thecompletebrigadiergerard/eng"/>
       <e:P20053 rdf:resource="http://viaf.org/viaf/6111475"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10065 rdf:resource="http://viaf.org/viaf/65283845"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://www.wikidata.org/entity/q1963997/eng">
@@ -13066,6 +13268,7 @@
       <w:P10088>The adventure of the Bruce Partington plans</w:P10088>
       <w:P30117>Arthur Conan Doyle</w:P30117>
       <bibframe:hasInstance rdf:resource="urn:isbn:9781787375000"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10256 rdf:resource="http://viaf.org/viaf/173636607"/>
       <w:P10256 rdf:resource="http://viaf.org/viaf/308763542"/>
    </bibframe:Work>
@@ -13078,9 +13281,10 @@
       <w:P10088>Adventure of the devil's foot</w:P10088>
       <w:P10088>Adventure of the Devil's foot</w:P10088>
       <bibframe:hasInstance rdf:resource="urn:isbn:9781787375024"/>
-      <bibframe:partOf rdf:resource="/sherlockholmesthedarkmysteries/eng"/>
+      <bibframe:partOf rdf:resource="http://viaf.org/viaf/65283845/sherlockholmesthedarkmysteries/eng"/>
       <bibframe:partOf rdf:resource="/sherlockholmesincornwall/eng"/>
       <bibframe:partOf rdf:resource="/themanwiththetwistedlipandtheadventureofthedevilsfoot/eng"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10065 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10256 rdf:resource="http://viaf.org/viaf/173636607"/>
       <w:P10256 rdf:resource="http://viaf.org/viaf/308763542"/>
@@ -13101,7 +13305,6 @@
    </bibframe:Work>
    <bibframe:Work rdf:about="http://www.wikidata.org/entity/q265546">
       <w:P10088>Scandal in Bohemia</w:P10088>
-      <w:P10155 rdf:resource="/skandalvcechach"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://www.wikidata.org/entity/q265546/eng">
       <e:P20006>eng</e:P20006>
@@ -13115,6 +13318,7 @@
       <bibframe:partOf rdf:resource="/ascandalinbohemiaothersherlockholmesstories/eng"/>
       <e:P20053 rdf:resource="holtronald"/>
       <m:P30321 rdf:resource="macalusopjames"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10065 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10256 rdf:resource="http://viaf.org/viaf/173636607"/>
       <w:P10256 rdf:resource="http://viaf.org/viaf/308763542"/>
@@ -13138,6 +13342,7 @@
       <bibframe:hasInstance rdf:resource="urn:isbn:9781473216617"/>
       <bibframe:partOf rdf:resource="/thepoisonbeltandthelandofmist/eng"/>
       <bibframe:partOf rdf:resource="/thelostworldandthepoisonbelt/eng"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10065 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10256 rdf:resource="challengergeorgeedward"/>
    </bibframe:Work>
@@ -13163,6 +13368,7 @@
       <w:P10088>The adventure of the red circle</w:P10088>
       <w:P30117>Arthur Conan Doyle</w:P30117>
       <bibframe:hasInstance rdf:resource="urn:isbn:9781787375048"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10256 rdf:resource="http://viaf.org/viaf/173636607"/>
       <w:P10256 rdf:resource="http://viaf.org/viaf/308763542"/>
    </bibframe:Work>
@@ -13172,8 +13378,9 @@
       <w:P10088>The disappearance of Lady Frances Carfax</w:P10088>
       <w:P30117>Arthur Conan Doyle</w:P30117>
       <bibframe:hasInstance rdf:resource="urn:isbn:9781787375079"/>
-      <bibframe:partOf rdf:resource="/sherlockholmesthedarkmysteries/eng"/>
+      <bibframe:partOf rdf:resource="http://viaf.org/viaf/65283845/sherlockholmesthedarkmysteries/eng"/>
       <bibframe:partOf rdf:resource="/thegreatshadowandotherstories/eng"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10065 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10256 rdf:resource="http://viaf.org/viaf/173636607"/>
       <w:P10256 rdf:resource="http://viaf.org/viaf/308763542"/>
@@ -13235,6 +13442,7 @@
       <w:P30117>by Sir Arthur Conan Doyle ; illustrated by P. James Macaluso, Jr</w:P30117>
       <bibframe:hasInstance rdf:resource="urn:isbn:9781780926247"/>
       <m:P30321 rdf:resource="macalusopjames"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10256 rdf:resource="http://viaf.org/viaf/173636607"/>
       <w:P10256 rdf:resource="http://viaf.org/viaf/308763542"/>
    </bibframe:Work>
@@ -13318,12 +13526,13 @@
       <bibframe:hasInstance rdf:resource="urn:isbn:0586202668"/>
       <bibframe:partOf rdf:resource="/thecompletesherlockholmes/eng"/>
       <bibframe:partOf rdf:resource="/thereturnofsherlockholmes/eng"/>
-      <bibframe:partOf rdf:resource="/thedefinitivesherlockholmes/eng"/>
+      <bibframe:partOf rdf:resource="http://viaf.org/viaf/65283845/thedefinitivesherlockholmes/eng"/>
       <bibframe:partOf rdf:resource="/adventuresofsherlockholmesmemoirsofsherlockholmesreturnofsherlockholmesastudyinscarlet/eng"/>
-      <bibframe:partOf rdf:resource="/sherlockholmes/eng"/>
-      <bibframe:partOf rdf:resource="/thesherlockholmescollection/eng"/>
+      <bibframe:partOf rdf:resource="http://viaf.org/viaf/65283845/sherlockholmes/eng"/>
+      <bibframe:partOf rdf:resource="http://viaf.org/viaf/65283845/thesherlockholmescollection/eng"/>
       <e:P20053 rdf:resource="http://viaf.org/viaf/44372717"/>
       <e:P20053 rdf:resource="bollingermax"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10065 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10256 rdf:resource="http://viaf.org/viaf/173636607"/>
       <w:P10256 rdf:resource="http://viaf.org/viaf/308763542"/>
@@ -13379,17 +13588,18 @@
       <bibframe:hasInstance rdf:resource="urn:isbn:0586203036"/>
       <bibframe:partOf rdf:resource="/thecompletesherlockholmes/eng"/>
       <bibframe:partOf rdf:resource="/theadventuresandmemoirsofsherlockholmes/eng"/>
-      <bibframe:partOf rdf:resource="/sherlockholmescollectionanthologyofclassictales/eng"/>
-      <bibframe:partOf rdf:resource="/thedefinitivesherlockholmes/eng"/>
+      <bibframe:partOf rdf:resource="http://viaf.org/viaf/65283845/sherlockholmescollectionanthologyofclassictales/eng"/>
+      <bibframe:partOf rdf:resource="http://viaf.org/viaf/65283845/thedefinitivesherlockholmes/eng"/>
       <bibframe:partOf rdf:resource="/adventuresofsherlockholmesmemoirsofsherlockholmesreturnofsherlockholmesastudyinscarlet/eng"/>
-      <bibframe:partOf rdf:resource="/sherlockholmes/eng"/>
+      <bibframe:partOf rdf:resource="http://viaf.org/viaf/65283845/sherlockholmes/eng"/>
       <bibframe:partOf rdf:resource="/sherlockholmestheshortstories/eng"/>
       <bibframe:partOf rdf:resource="/thememoirsofsherlockholmes/eng"/>
-      <bibframe:partOf rdf:resource="/sherlock/eng"/>
+      <bibframe:partOf rdf:resource="http://viaf.org/viaf/65283845/sherlock/eng"/>
       <bibframe:partOf rdf:resource="/theadventuresofsherlockholmesandthememoirsofsherlockholmes/eng"/>
       <e:P20053 rdf:resource="rodenchristopher"/>
       <e:P20053 rdf:resource="bollingermax"/>
       <m:P30321 rdf:resource="mackintoshdavid"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10065 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10256 rdf:resource="http://viaf.org/viaf/173636607"/>
       <w:P10256 rdf:resource="http://viaf.org/viaf/308763542"/>
@@ -13405,5 +13615,89 @@
       <w:P30117>Sir Arthur Conan Doyle</w:P30117>
       <bibframe:hasInstance rdf:resource="urn:isbn:090600523"/>
       <w:P10065 rdf:resource="http://viaf.org/viaf/65283845"/>
+   </bibframe:Work>
+   <bibframe:Work rdf:about="kingsleysusan/thelostworld/eng">
+      <e:P20006>eng</e:P20006>
+      <w:P10088>The lost world</w:P10088>
+      <w:P30117>Sir Arthur Conan Doyle ; text adaptation by Susan Kingsley ; illustrated by Anders Westerberg</w:P30117>
+      <bibframe:hasInstance rdf:resource="urn:isbn:9780194248808"/>
+      <w:P10061 rdf:resource="kingsleysusan"/>
+      <w:adaptationOfWork.en rdf:resource="http://viaf.org/viaf/294145857904223021237"/>
+   </bibframe:Work>
+   <bibframe:Work rdf:about="koplpetr/skandalvcechach/eng">
+      <e:P20006>eng</e:P20006>
+      <w:P10088>Skandál v Čechách</w:P10088>
+      <e:P20006>English</e:P20006>
+      <w:P10088>Sherlock Holmes</w:P10088>
+      <w:P30117>Petrl Kopl ; translation: Paul and Jana Simpson</w:P30117>
+      <bibframe:hasInstance rdf:resource="urn:isbn:9781780926803"/>
+      <bibframe:translationOf rdf:resource="/skandalvcechach"/>
+      <e:P20037 rdf:resource="simpsonpaulmichael"/>
+      <e:P20037 rdf:resource="simpsonjana"/>
+      <m:P30321 rdf:resource="koplpetr"/>
+      <w:P10061 rdf:resource="koplpetr"/>
+   </bibframe:Work>
+   <bibframe:Work rdf:about="oconnorjohn/thehoundofthebaskervilles/eng">
+      <e:P20006>eng</e:P20006>
+      <w:P10088>The hound of the Baskervilles</w:P10088>
+      <w:P30117>Arthur Conan Doyle ; dramatised by John O'Connor</w:P30117>
+      <bibframe:hasInstance rdf:resource="urn:isbn:9781408520017"/>
+      <w:P10061 rdf:resource="oconnorjohn"/>
+      <w:P10256 rdf:resource="http://viaf.org/viaf/181625655"/>
+      <w:dramatizationOfWork.en rdf:resource="http://viaf.org/viaf/181625655"/>
+   </bibframe:Work>
+   <bibframe:Work rdf:about="quinntim/sherlockholmesinthespeckledbandandthebluecarbuncle/eng">
+      <e:P20006>eng</e:P20006>
+      <w:P10088>Sherlock Holmes in the Speckled band ;</w:P10088>
+      <w:P10088>and The blue carbuncle</w:P10088>
+      <w:P30117>[by Tim Quinn and George Sears]</w:P30117>
+      <bibframe:hasInstance rdf:resource="urn:isbn:0006940609"/>
+      <bibframe:hasPart rdf:resource="/bluecarbuncle/eng"/>
+      <w:P10061 rdf:resource="quinntim"/>
+      <w:P10061 rdf:resource="searsgeorge"/>
+      <w:adaptationOfWork.en rdf:resource="http://www.wikidata.org/entity/q1140678"/>
+      <w:adaptationOfWork.en rdf:resource="http://viaf.org/viaf/181846531"/>
+   </bibframe:Work>
+   <bibframe:Work rdf:about="scottn/sherlockholmestherussianconnectionandothernewadventures/eng">
+      <e:P20006>eng</e:P20006>
+      <w:P10088>Sherlock Holmes</w:P10088>
+      <w:P10088>The Russian connection and other new adventures</w:P10088>
+      <w:P30117>by N.M. Scott</w:P30117>
+      <bibframe:hasInstance rdf:resource="urn:isbn:9780750542159"/>
+      <bibframe:hasPart rdf:resource="/russianconnectionandothernewadventures/eng"/>
+      <w:P10061 rdf:resource="scottn"/>
+      <w:P10256 rdf:resource="http://viaf.org/viaf/173636607"/>
+      <w:P10256 rdf:resource="http://viaf.org/viaf/308763542"/>
+      <w:inspiredBy.en rdf:resource="http://viaf.org/viaf/174141344"/>
+   </bibframe:Work>
+   <bibframe:Work rdf:about="searsgeorge/sherlockholmesinthehoundofthebaskervilles/eng">
+      <e:P20006>eng</e:P20006>
+      <w:P10088>Sherlock Holmes in the Hound of the Baskervilles</w:P10088>
+      <w:P30117>[by Tim Quinn and George Sears]</w:P30117>
+      <bibframe:hasInstance rdf:resource="urn:isbn:0006940595"/>
+      <w:P10061 rdf:resource="searsgeorge"/>
+      <w:P10065 rdf:resource="quinntim"/>
+      <w:adaptationOfWork.en rdf:resource="http://viaf.org/viaf/181625655"/>
+   </bibframe:Work>
+   <bibframe:Work rdf:about="unglikrichard/sherlockholmesthehoundofthebaskervilles/eng">
+      <e:P20006>eng</e:P20006>
+      <w:P10088>Sherlock Holmes</w:P10088>
+      <w:P10088>the hound of the Baskervilles</w:P10088>
+      <w:P30117>Richard Unglik</w:P30117>
+      <bibframe:hasInstance rdf:resource="urn:isbn:9781633220782"/>
+      <bibframe:hasPart rdf:resource="http://viaf.org/viaf/181625655/eng"/>
+      <w:P10061 rdf:resource="unglikrichard"/>
+      <w:P10256 rdf:resource="http://viaf.org/viaf/173636607"/>
+      <w:P10256 rdf:resource="http://viaf.org/viaf/308763542"/>
+   </bibframe:Work>
+   <bibframe:Work rdf:about="westclare/sherlockholmesshortstories/eng">
+      <e:P20006>eng</e:P20006>
+      <w:P10088>Sherlock Holmes short stories</w:P10088>
+      <w:P30117>Sir Arthur Conan Doyle ; retold by Clare West ; illustrated by Alan Marks</w:P30117>
+      <bibframe:hasInstance rdf:resource="urn:isbn:9780194790710"/>
+      <w:P10061 rdf:resource="westclare"/>
+      <w:adaptationOfWork.en rdf:resource="http://viaf.org/viaf/181846531"/>
+      <w:adaptationOfWork.en rdf:resource="http://www.wikidata.org/entity/q265546"/>
+      <w:adaptationOfWork.en rdf:resource="http://www.wikidata.org/entity/q1193379"/>
    </bibframe:Work>
 </rdf:RDF>

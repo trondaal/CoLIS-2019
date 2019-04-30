@@ -993,7 +993,7 @@
     <marc:datafield tag="700" ind1="1" ind2=" ">
       <marc:subfield code="a">Lohner, Edgar.</marc:subfield>
       <marc:subfield code="1p">lohneredgar</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">ctb</marc:subfield></marc:datafield>
     <marc:datafield tag="852" ind1="4" ind2=" ">
       <marc:subfield code="a">British Library</marc:subfield>
       <marc:subfield code="b">DSC</marc:subfield>
@@ -2395,7 +2395,7 @@
     <marc:datafield tag="700" ind1="1" ind2=" ">
       <marc:subfield code="a">Mitchell, Breon.</marc:subfield>
       <marc:subfield code="1p">mitchellbreon</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">trl</marc:subfield></marc:datafield>
     <marc:datafield tag="852" ind1="4" ind2="1">
       <marc:subfield code="a">British Library</marc:subfield>
       <marc:subfield code="b">HMNTS</marc:subfield>
@@ -8829,7 +8829,7 @@
       <marc:subfield code="a">Sáenz, Miguel</marc:subfield>
       <marc:subfield code="d">1932-</marc:subfield>
       <marc:subfield code="1p">http://viaf.org/viaf/22322043</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">trl</marc:subfield></marc:datafield>
   </marc:record>
   <marc:record source="1999-BNE-Germany-Gunter-Grass.xml">
     <marc:leader>01422nam a2200325 b 4500</marc:leader>
@@ -9098,7 +9098,7 @@
     <marc:datafield tag="700" ind1="1" ind2=" ">
       <marc:subfield code="a">Dieterich, Genoveva</marc:subfield>
       <marc:subfield code="1p">dieterichgenoveva</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">trl</marc:subfield></marc:datafield>
     <marc:datafield tag="700" ind1="1" ind2="2">
       <marc:subfield code="a">Grimmelshausen, Hans Jakob Christoph von</marc:subfield>
       <marc:subfield code="1p">grimmelshausenhansjakobchristophvon</marc:subfield>
@@ -9257,7 +9257,7 @@
     <marc:datafield tag="700" ind1="1" ind2="1">
       <marc:subfield code="a">Dieterich, Genoveva</marc:subfield>
       <marc:subfield code="1p">dieterichgenoveva</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">trl</marc:subfield></marc:datafield>
   </marc:record>
   <marc:record source="1999-BNE-Germany-Gunter-Grass.xml">
     <marc:leader>00981nam a2200301   4500</marc:leader>
@@ -9331,7 +9331,7 @@
       <marc:subfield code="a">Sáenz, Miguel</marc:subfield>
       <marc:subfield code="d">1932-</marc:subfield>
       <marc:subfield code="1p">http://viaf.org/viaf/22322043</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">trl</marc:subfield></marc:datafield>
   </marc:record>
   <marc:record source="1999-BNE-Germany-Gunter-Grass.xml">
     <marc:leader>01897nam a2200409 b 4500</marc:leader>
@@ -9494,7 +9494,7 @@
       <marc:subfield code="a">Sáenz, Miguel</marc:subfield>
       <marc:subfield code="d">1932-</marc:subfield>
       <marc:subfield code="1p">http://viaf.org/viaf/22322043</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">trl</marc:subfield></marc:datafield>
   </marc:record>
   <marc:record source="1999-BNE-Germany-Gunter-Grass.xml">
     <marc:leader>01213nam a2200349 c 4500</marc:leader>
@@ -10092,7 +10092,7 @@
       <marc:subfield code="a">Sáenz, Miguel</marc:subfield>
       <marc:subfield code="d">1932-</marc:subfield>
       <marc:subfield code="1p">http://viaf.org/viaf/22322043</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">trl</marc:subfield></marc:datafield>
   </marc:record>
   <marc:record source="1999-BNE-Germany-Gunter-Grass.xml">
     <marc:leader>01144nam a2200337 c 4500</marc:leader>
@@ -10706,7 +10706,7 @@
       <marc:subfield code="a">Fortea, Carlos</marc:subfield>
       <marc:subfield code="d">1963-</marc:subfield>
       <marc:subfield code="1p">forteacarlos</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">trl</marc:subfield></marc:datafield>
     <marc:datafield tag="830" ind1=" " ind2="0">
       <marc:subfield code="a">Punto de lectura</marc:subfield>
       <marc:subfield code="v">15/5</marc:subfield>
@@ -11280,7 +11280,7 @@
     <marc:datafield tag="700" ind1="1" ind2=" ">
       <marc:subfield code="a">Dieterich, Genoveva</marc:subfield>
       <marc:subfield code="1p">dieterichgenoveva</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">trl</marc:subfield></marc:datafield>
   </marc:record>
   <marc:record source="1999-BNE-Germany-Gunter-Grass.xml">
     <marc:leader>01308nam a22003131i 4500</marc:leader>
@@ -11415,7 +11415,7 @@
     <marc:datafield tag="700" ind1="1" ind2=" ">
       <marc:subfield code="a">Dieterich, Genoveva</marc:subfield>
       <marc:subfield code="1p">dieterichgenoveva</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">trl</marc:subfield></marc:datafield>
   </marc:record>
   <marc:record source="1999-BNE-Germany-Gunter-Grass.xml">
     <marc:leader>02214nam a2200421 b 4500</marc:leader>
@@ -11644,7 +11644,7 @@
       <marc:subfield code="a">Sáenz, Miguel</marc:subfield>
       <marc:subfield code="d">1932-</marc:subfield>
       <marc:subfield code="1p">http://viaf.org/viaf/22322043</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">trl</marc:subfield></marc:datafield>
   </marc:record>
   <marc:record source="1999-BNE-Germany-Gunter-Grass.xml">
     <marc:leader>01120nam a22003131i 4500</marc:leader>
@@ -11961,7 +11961,7 @@
       <marc:subfield code="a">Sáenz, Miguel</marc:subfield>
       <marc:subfield code="d">1932-</marc:subfield>
       <marc:subfield code="1p">http://viaf.org/viaf/22322043</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">trl</marc:subfield></marc:datafield>
   </marc:record>
   <marc:record source="1999-BNE-Germany-Gunter-Grass.xml">
     <marc:leader>01578nam a22003615b 4500</marc:leader>
@@ -13061,7 +13061,7 @@
     <marc:datafield tag="700" ind1="1" ind2=" ">
       <marc:subfield code="a">Margull, G. Fritze</marc:subfield>
       <marc:subfield code="1p">margullgfritze</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">edt</marc:subfield></marc:datafield>
   </marc:record>
   <marc:record source="1999-BNE-Germany-Gunter-Grass.xml">
     <marc:leader>02143nam a2200397 b 4500</marc:leader>
@@ -13202,7 +13202,7 @@
       <marc:subfield code="a">Sáenz, Miguel</marc:subfield>
       <marc:subfield code="d">1932-</marc:subfield>
       <marc:subfield code="1p">http://viaf.org/viaf/22322043</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">trl</marc:subfield></marc:datafield>
   </marc:record>
   <marc:record source="1999-BNE-Germany-Gunter-Grass.xml">
     <marc:leader>01400nam a22003495b 4500</marc:leader>
@@ -14013,8 +14013,8 @@
       <marc:subfield code="a">Bennent, David</marc:subfield>
       <marc:subfield code="d">1966-</marc:subfield>
       <marc:subfield code="1p">bennentdavid</marc:subfield>
-    </marc:datafield>
-    <marc:datafield tag="700" ind1="1" ind2="2">
+    <marc:subfield code="4" old="empty">act</marc:subfield></marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
       <marc:subfield code="a">Grass, Günter</marc:subfield>
       <marc:subfield code="d">1927-2015</marc:subfield>
       <marc:subfield code="t">Die Blechtrommel</marc:subfield>
@@ -14157,7 +14157,7 @@
       <marc:subfield code="1p">winklerangela</marc:subfield>
       <marc:subfield code="4">act</marc:subfield>
     </marc:datafield>
-    <marc:datafield tag="700" ind1="1" ind2="2">
+    <marc:datafield tag="700" ind1="1" ind2=" ">
       <marc:subfield code="a">Grass, Günter</marc:subfield>
       <marc:subfield code="d">1927-2015</marc:subfield>
       <marc:subfield code="t">Die Blechtrommel</marc:subfield>
@@ -14245,7 +14245,7 @@
       <marc:subfield code="a">Sáenz, Miguel</marc:subfield>
       <marc:subfield code="d">1932-</marc:subfield>
       <marc:subfield code="1p">http://viaf.org/viaf/22322043</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">trl</marc:subfield></marc:datafield>
     <marc:datafield tag="830" ind1=" " ind2="0">
       <marc:subfield code="a">Narrativa actual (RBA Editores)</marc:subfield>
       <marc:subfield code="v">62</marc:subfield>
@@ -14816,7 +14816,7 @@
       <marc:subfield code="a">Fortea, Carlos</marc:subfield>
       <marc:subfield code="d">1963-</marc:subfield>
       <marc:subfield code="1p">forteacarlos</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">trl</marc:subfield></marc:datafield>
   </marc:record>
   <marc:record source="1999-BNE-Germany-Gunter-Grass.xml">
     <marc:leader>01158nam a2200349 c 4500</marc:leader>
@@ -15706,7 +15706,7 @@
       <marc:subfield code="a">Sáenz, Miguel</marc:subfield>
       <marc:subfield code="d">1932-</marc:subfield>
       <marc:subfield code="1p">http://viaf.org/viaf/22322043</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">trl</marc:subfield></marc:datafield>
     <marc:datafield tag="700" ind1="1" ind2=" ">
       <marc:subfield code="a">Nadal i Hernàndez, Jordi</marc:subfield>
       <marc:subfield code="d">1962-</marc:subfield>
@@ -16363,7 +16363,7 @@
       <marc:subfield code="a">Sáenz, Miguel</marc:subfield>
       <marc:subfield code="d">1932-</marc:subfield>
       <marc:subfield code="1p">http://viaf.org/viaf/22322043</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">trl</marc:subfield></marc:datafield>
     <marc:datafield tag="830" ind1=" " ind2="0">
       <marc:subfield code="a">Punto de lectura</marc:subfield>
       <marc:subfield code="v">15/4</marc:subfield>
@@ -16581,7 +16581,7 @@
       <marc:subfield code="a">Sáenz, Miguel</marc:subfield>
       <marc:subfield code="d">1932-</marc:subfield>
       <marc:subfield code="1p">http://viaf.org/viaf/22322043</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">trl</marc:subfield></marc:datafield>
   </marc:record>
   <marc:record source="1999-BNE-Germany-Gunter-Grass.xml">
     <marc:leader>02300nam a22005055b 4500</marc:leader>
@@ -17132,7 +17132,7 @@
       <marc:subfield code="a">Sáenz, Miguel</marc:subfield>
       <marc:subfield code="d">1932-</marc:subfield>
       <marc:subfield code="1p">http://viaf.org/viaf/22322043</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">trl</marc:subfield></marc:datafield>
   </marc:record>
   <marc:record source="1999-BNE-Germany-Gunter-Grass.xml">
     <marc:leader>01100nam a2200349 c 4500</marc:leader>
@@ -19753,7 +19753,7 @@
       <marc:subfield code="a">Grass, Günter</marc:subfield>
       <marc:subfield code="d">1927-2015</marc:subfield>
       <marc:subfield code="e">Mitwirkender</marc:subfield>
-      <marc:subfield code="4">ctb</marc:subfield>
+      <marc:subfield code="4" old="ctb">ill</marc:subfield>
       <marc:subfield code="1p">http://viaf.org/viaf/102319859</marc:subfield>
     </marc:datafield>
     <marc:datafield ind1="1" ind2=" " tag="700">
@@ -19762,7 +19762,7 @@
       <marc:subfield code="0">(DE-101)108818926</marc:subfield>
       <marc:subfield code="a">Steidl, Gerhard</marc:subfield>
       <marc:subfield code="e">Mitwirkender</marc:subfield>
-      <marc:subfield code="4">ctb</marc:subfield>
+      <marc:subfield code="4" old="ctb">bkd</marc:subfield>
       <marc:subfield code="1p">steidlgerhard</marc:subfield>
     </marc:datafield>
     <marc:datafield ind1="1" ind2=" " tag="800">
@@ -23776,13 +23776,13 @@
     <marc:datafield ind1="1" ind2=" " tag="700">
       <marc:subfield code="a">Sáenz, Miguel</marc:subfield>
       <marc:subfield code="e">Mitwirkender</marc:subfield>
-      <marc:subfield code="4">ctb</marc:subfield>
+      <marc:subfield code="4" old="ctb">trl</marc:subfield>
       <marc:subfield code="1p">saenzmiguel</marc:subfield>
     </marc:datafield>
     <marc:datafield ind1="1" ind2=" " tag="700">
       <marc:subfield code="a">Loebsack, Grita</marc:subfield>
       <marc:subfield code="e">Mitwirkender</marc:subfield>
-      <marc:subfield code="4">ctb</marc:subfield>
+      <marc:subfield code="4" old="ctb">trl</marc:subfield>
       <marc:subfield code="1p">loebsackgrita</marc:subfield>
     </marc:datafield>
     <marc:datafield ind1=" " ind2=" " tag="850">
@@ -28895,7 +28895,7 @@
     <marc:datafield ind1="1" ind2=" " tag="700">
       <marc:subfield code="a">Sáenz, Miguel</marc:subfield>
       <marc:subfield code="e">Mitwirkender</marc:subfield>
-      <marc:subfield code="4">ctb</marc:subfield>
+      <marc:subfield code="4" old="ctb">trl</marc:subfield>
       <marc:subfield code="1p">saenzmiguel</marc:subfield>
     </marc:datafield>
     <marc:datafield ind1=" " ind2=" " tag="850">
@@ -30282,7 +30282,7 @@
       <marc:subfield code="0">(DE-101)127159231</marc:subfield>
       <marc:subfield code="a">Schuur-Kaspers, C.</marc:subfield>
       <marc:subfield code="e">Mitwirkender</marc:subfield>
-      <marc:subfield code="4">ctb</marc:subfield>
+      <marc:subfield code="4" old="ctb">trl</marc:subfield>
       <marc:subfield code="1p">schuurkaspersc</marc:subfield>
     </marc:datafield>
     <marc:datafield ind1="1" ind2="2" tag="700">
@@ -35858,7 +35858,7 @@
       <marc:subfield code="a">Nedreaas, Torborg</marc:subfield>
       <marc:subfield code="d">1906-1987</marc:subfield>
       <marc:subfield code="e">Mitwirkender</marc:subfield>
-      <marc:subfield code="4">ctb</marc:subfield>
+      <marc:subfield code="4" old="ctb">trl</marc:subfield>
       <marc:subfield code="1p">nedreaastorborg</marc:subfield>
     </marc:datafield>
     <marc:datafield ind1=" " ind2=" " tag="850">
@@ -37670,7 +37670,7 @@
       <marc:subfield code="0">(DE-101)113217072</marc:subfield>
       <marc:subfield code="a">Amsler, Jean</marc:subfield>
       <marc:subfield code="e">Mitwirkender</marc:subfield>
-      <marc:subfield code="4">ctb</marc:subfield>
+      <marc:subfield code="4" old="ctb">trl</marc:subfield>
       <marc:subfield code="1p">amslerjean</marc:subfield>
     </marc:datafield>
     <marc:datafield ind1="1" ind2=" " tag="700">
@@ -37776,7 +37776,7 @@
       <marc:subfield code="0">(DE-101)113217072</marc:subfield>
       <marc:subfield code="a">Amsler, Jean</marc:subfield>
       <marc:subfield code="e">Mitwirkender</marc:subfield>
-      <marc:subfield code="4">ctb</marc:subfield>
+      <marc:subfield code="4" old="ctb">trl</marc:subfield>
       <marc:subfield code="1p">amslerjean</marc:subfield>
     </marc:datafield>
     <marc:datafield ind1="1" ind2="2" tag="700">
@@ -38869,7 +38869,7 @@
       <marc:subfield code="0">(DE-101)127159231</marc:subfield>
       <marc:subfield code="a">Schuur-Kaspers, C.</marc:subfield>
       <marc:subfield code="e">Mitwirkender</marc:subfield>
-      <marc:subfield code="4">ctb</marc:subfield>
+      <marc:subfield code="4" old="ctb">trl</marc:subfield>
       <marc:subfield code="1p">schuurkaspersc</marc:subfield>
     </marc:datafield>
     <marc:datafield ind1="1" ind2="2" tag="700">
@@ -40918,7 +40918,7 @@
       <marc:subfield code="0">(DE-101)127013989</marc:subfield>
       <marc:subfield code="a">Walldén, John W.</marc:subfield>
       <marc:subfield code="e">Mitwirkender</marc:subfield>
-      <marc:subfield code="4">ctb</marc:subfield>
+      <marc:subfield code="4" old="ctb">trl</marc:subfield>
       <marc:subfield code="1p">walldenjohnw</marc:subfield>
     </marc:datafield>
     <marc:datafield ind1="1" ind2="2" tag="700">
@@ -43514,7 +43514,7 @@
       <marc:subfield code="0">(DE-101)127013989</marc:subfield>
       <marc:subfield code="a">Walldén, John W.</marc:subfield>
       <marc:subfield code="e">Mitwirkender</marc:subfield>
-      <marc:subfield code="4">ctb</marc:subfield>
+      <marc:subfield code="4" old="ctb">trl</marc:subfield>
       <marc:subfield code="1p">walldenjohnw</marc:subfield>
     </marc:datafield>
     <marc:datafield ind1="1" ind2="2" tag="700">
@@ -46034,7 +46034,7 @@
       <marc:subfield code="0">(DE-101)127228632</marc:subfield>
       <marc:subfield code="a">Greiff, Trygve</marc:subfield>
       <marc:subfield code="e">Mitwirkender</marc:subfield>
-      <marc:subfield code="4">ctb</marc:subfield>
+      <marc:subfield code="4" old="ctb">trl</marc:subfield>
       <marc:subfield code="1p">greifftrygve</marc:subfield>
     </marc:datafield>
     <marc:datafield ind1=" " ind2=" " tag="850">
@@ -48701,7 +48701,7 @@
       <marc:subfield code="a">Lohner, Edgar</marc:subfield>
       <marc:subfield code="d">1919-1975</marc:subfield>
       <marc:subfield code="e">Mitwirkender</marc:subfield>
-      <marc:subfield code="4">ctb</marc:subfield>
+      <marc:subfield code="4" old="ctb">trl</marc:subfield>
       <marc:subfield code="1p">lohneredgar</marc:subfield>
     </marc:datafield>
     <marc:datafield ind1=" " ind2=" " tag="850">

@@ -9261,7 +9261,7 @@
       <marc:subfield code="t">Hound of the Baskervilles.</marc:subfield>
       <marc:subfield code="1p">http://viaf.org/viaf/65283845</marc:subfield>
       <marc:subfield code="1w">http://viaf.org/viaf/181625655</marc:subfield>
-      <marc:subfield code="4">http://rdaregistry.info/Elements/w/adaptationOfWork.en</marc:subfield>
+      <marc:subfield code="4">http://rdaregistry.info/Elements/w/graphicNovelizationOfWork.en</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="830" ind1=" " ind2="0">
       <marc:subfield code="a">Victoria Regina.</marc:subfield>
@@ -10925,7 +10925,7 @@
     <marc:datafield tag="700" ind1="1" ind2=" ">
       <marc:subfield code="a">Aitchison, Martin.</marc:subfield>
       <marc:subfield code="1p">aitchisonmartin</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">ill</marc:subfield></marc:datafield>
   </marc:record>
   <marc:record source="doyle.bl.library.author.xml">
     <marc:leader>00864cam a2200289 a 4500</marc:leader>
@@ -12065,7 +12065,7 @@
     <marc:datafield tag="700" ind1="1" ind2=" ">
       <marc:subfield code="a">Sears, George.</marc:subfield>
       <marc:subfield code="1p">searsgeorge</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">aut</marc:subfield></marc:datafield>
     <marc:datafield tag="700" ind1="1" ind2=" ">
       <marc:subfield code="a">Doyle, Arthur Conan</marc:subfield>
       <marc:subfield code="d">1859-1930.</marc:subfield>
@@ -19019,7 +19019,7 @@
       <marc:subfield code="t">Study in scarlet.</marc:subfield>
       <marc:subfield code="1p">http://viaf.org/viaf/65283845</marc:subfield>
       <marc:subfield code="1w">http://viaf.org/viaf/179061639</marc:subfield>
-      <marc:subfield code="4">http://rdaregistry.info/Elements/w/adaptationOfWork.en</marc:subfield>
+      <marc:subfield code="4">http://rdaregistry.info/Elements/w/graphicNovelizationOfWork.en</marc:subfield>
     </marc:datafield>
   </marc:record>
   <marc:record source="doyle.bl.library.author.xml">
@@ -20140,7 +20140,7 @@
       <marc:subfield code="t">Hound of the Baskervilles.</marc:subfield>
       <marc:subfield code="1p">http://viaf.org/viaf/65283845</marc:subfield>
       <marc:subfield code="1w">http://viaf.org/viaf/181625655</marc:subfield>
-      <marc:subfield code="4">http://rdaregistry.info/Elements/w/adaptationOfWork.en</marc:subfield>
+      <marc:subfield code="4">http://rdaregistry.info/Elements/w/graphicNovelizationOfWork.en</marc:subfield>
     </marc:datafield>
   </marc:record>
   <marc:record source="doyle.bl.library.author.xml">
@@ -27027,7 +27027,7 @@
       <marc:subfield code="a">Paget, Sidney</marc:subfield>
       <marc:subfield code="d">1860-1908.</marc:subfield>
       <marc:subfield code="1p">http://viaf.org/viaf/2555146</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">ill</marc:subfield></marc:datafield>
     <marc:datafield tag="700" ind1="1" ind2="2">
       <marc:subfield code="a">Doyle, Arthur Conan</marc:subfield>
       <marc:subfield code="d">1859-1930.</marc:subfield>
@@ -27193,7 +27193,7 @@
       <marc:subfield code="a">Jones, Kelley</marc:subfield>
       <marc:subfield code="d">1962-</marc:subfield>
       <marc:subfield code="1p">joneskelley</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">ill</marc:subfield></marc:datafield>
     <marc:datafield tag="700" ind1="1" ind2="2">
       <marc:subfield code="a">Doyle, Arthur Conan</marc:subfield>
       <marc:subfield code="d">1859-1930.</marc:subfield>
@@ -32628,7 +32628,7 @@
       <marc:subfield code="t">Hound of the Baskervilles.</marc:subfield>
       <marc:subfield code="1p">http://viaf.org/viaf/65283845</marc:subfield>
       <marc:subfield code="1w">http://viaf.org/viaf/181625655</marc:subfield>
-      <marc:subfield code="4">http://rdaregistry.info/Elements/w/adaptationOfWork.en</marc:subfield>
+      <marc:subfield code="4">http://rdaregistry.info/Elements/w/graphicNovelizationOfWork.en</marc:subfield>
     </marc:datafield>
   </marc:record>
   <marc:record source="doyle.bl.library.author.xml">
@@ -32710,6 +32710,11 @@
       <marc:subfield code="a">Fiction in English</marc:subfield>
       <marc:subfield code="a">1900-1945</marc:subfield>
       <marc:subfield code="a">Texts</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Gabby, Terry</marc:subfield>
+      <marc:subfield code="4">ill</marc:subfield>
+      <marc:subfield code="1p">gabbyterry</marc:subfield>
     </marc:datafield>
   </marc:record>
   <marc:record source="doyle.bl.library.author.xml">
@@ -35199,7 +35204,7 @@
       <marc:subfield code="t">Sign of four.</marc:subfield>
       <marc:subfield code="1p">http://viaf.org/viaf/65283845</marc:subfield>
       <marc:subfield code="1w">http://viaf.org/viaf/184892317</marc:subfield>
-      <marc:subfield code="4">http://rdaregistry.info/Elements/w/adaptationOfWork.en</marc:subfield>
+      <marc:subfield code="4">http://rdaregistry.info/Elements/w/graphicNovelizationOfWork.en</marc:subfield>
     </marc:datafield>
   </marc:record>
   <marc:record source="doyle.bl.library.author.xml">
@@ -42257,7 +42262,7 @@
       <marc:subfield code="a">Rohrbach, Sophie</marc:subfield>
       <marc:subfield code="e">ill.</marc:subfield>
       <marc:subfield code="1p">rohrbachsophie</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">ill</marc:subfield></marc:datafield>
     <marc:datafield tag="700" ind1="1" ind2=" ">
       <marc:subfield code="a">Morrow, J. T.</marc:subfield>
       <marc:subfield code="4">ill</marc:subfield>
@@ -42995,7 +43000,7 @@
     <marc:datafield tag="700" ind1="1" ind2=" ">
       <marc:subfield code="a">Newsham, Ian.</marc:subfield>
       <marc:subfield code="1p">newshamian</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">ill</marc:subfield></marc:datafield>
   </marc:record>
   <marc:record source="doyle.bl.library.author.xml">
     <marc:leader>00722 am a22002413u 4500</marc:leader>
@@ -46410,7 +46415,7 @@
       <marc:subfield code="t">Hound of the Baskervilles.</marc:subfield>
       <marc:subfield code="1p">http://viaf.org/viaf/65283845</marc:subfield>
       <marc:subfield code="1w">http://viaf.org/viaf/181625655</marc:subfield>
-      <marc:subfield code="4">http://rdaregistry.info/Elements/w/adaptationOfWork.en</marc:subfield>
+      <marc:subfield code="4">http://rdaregistry.info/Elements/w/graphicNovelizationOfWork.en</marc:subfield>
     </marc:datafield>
   </marc:record>
   <marc:record source="doyle.bl.library.author.xml">
@@ -48517,7 +48522,7 @@
       <marc:subfield code="t">Hound of the Baskervilles.</marc:subfield>
       <marc:subfield code="1p">http://viaf.org/viaf/65283845</marc:subfield>
       <marc:subfield code="1w">http://viaf.org/viaf/181625655</marc:subfield>
-      <marc:subfield code="4">http://rdaregistry.info/Elements/w/adaptationOfWork.en</marc:subfield>
+      <marc:subfield code="4">http://rdaregistry.info/Elements/w/graphicNovelizationOfWork.en</marc:subfield>
     </marc:datafield>
   </marc:record>
   <marc:record source="doyle.bl.library.author.xml">
@@ -49438,7 +49443,7 @@
       <marc:subfield code="a">Paget, Sidney</marc:subfield>
       <marc:subfield code="d">1860-1908.</marc:subfield>
       <marc:subfield code="1p">http://viaf.org/viaf/2555146</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">ill</marc:subfield></marc:datafield>
   </marc:record>
   <marc:record source="doyle.bl.library.author.xml">
     <marc:leader>00926nam a22003011a 4500</marc:leader>
@@ -56594,7 +56599,7 @@
     <marc:datafield tag="700" ind1="1" ind2=" ">
       <marc:subfield code="a">Newsham, Ian.</marc:subfield>
       <marc:subfield code="1p">newshamian</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">ill</marc:subfield></marc:datafield>
   </marc:record>
   <marc:record source="doyle.bl.library.author.xml">
     <marc:leader>00798 am a2200289ua 4500</marc:leader>
@@ -58950,7 +58955,7 @@
       <marc:subfield code="t">Scandal in Bohemia.</marc:subfield>
       <marc:subfield code="1p">http://viaf.org/viaf/65283845</marc:subfield>
       <marc:subfield code="1w">http://www.wikidata.org/entity/Q265546</marc:subfield>
-      <marc:subfield code="4">http://rdaregistry.info/Elements/w/adaptationOfWork.en</marc:subfield>
+      <marc:subfield code="4">hhttp://rdaregistry.info/Elements/w/graphicNovelizationOfWork.en</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="700" ind1="1" ind2=" ">
       <marc:subfield code="a">Doyle, Arthur Conan</marc:subfield>
@@ -58958,14 +58963,14 @@
       <marc:subfield code="t">Adventure of the speckled band.</marc:subfield>
       <marc:subfield code="1p">http://viaf.org/viaf/65283845</marc:subfield>
       <marc:subfield code="1w">http://viaf.org/viaf/181846531</marc:subfield>
-      <marc:subfield code="4">http://rdaregistry.info/Elements/w/adaptationOfWork.en</marc:subfield>
+      <marc:subfield code="4">http://rdaregistry.info/Elements/w/graphicNovelizationOfWork.en</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="700" ind1="1" ind2=" ">
       <marc:subfield code="a">Doyle, Arthur Conan</marc:subfield>
       <marc:subfield code="d">1859-1930.</marc:subfield>
       <marc:subfield code="t">In the name of the king.</marc:subfield>
       <marc:subfield code="1p">http://viaf.org/viaf/65283845</marc:subfield>
-      <marc:subfield code="4">http://rdaregistry.info/Elements/w/adaptationOfWork.en</marc:subfield>
+      <marc:subfield code="4">http://rdaregistry.info/Elements/w/graphicNovelizationOfWork.en</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="740" ind1="0" ind2="2">
       <marc:subfield code="a">Speckled Band.</marc:subfield>
@@ -65620,6 +65625,12 @@
       <marc:subfield code="a">741.5</marc:subfield>
       <marc:subfield code="2">23</marc:subfield>
     </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Williams, Anthony</marc:subfield>
+      <marc:subfield code="d">1964-</marc:subfield>
+      <marc:subfield code="4">art</marc:subfield>
+      <marc:subfield code="1p">williamsanthony</marc:subfield>
+    </marc:datafield>
     <marc:datafield tag="245" ind1="0" ind2="4">
       <marc:subfield code="a">The hound of the Baskervilles /</marc:subfield>
       <marc:subfield code="c">illustrated by Anthony Williams ; original story by Sir Arthur Conan
@@ -65680,18 +65691,12 @@
       <marc:subfield code="2">gsafd</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="700" ind1="1" ind2=" ">
-      <marc:subfield code="a">Williams, Anthony</marc:subfield>
-      <marc:subfield code="d">1964-</marc:subfield>
-      <marc:subfield code="e">artist.</marc:subfield>
-      <marc:subfield code="4">art</marc:subfield>
-      <marc:subfield code="1p">williamsanthony</marc:subfield>
-    </marc:datafield>
-    <marc:datafield tag="700" ind1="1" ind2="2">
       <marc:subfield code="a">Doyle, Arthur Conan</marc:subfield>
       <marc:subfield code="d">1859-1930.</marc:subfield>
       <marc:subfield code="t">Hound of the Baskervilles.</marc:subfield>
       <marc:subfield code="1p">http://viaf.org/viaf/65283845</marc:subfield>
       <marc:subfield code="1w">http://viaf.org/viaf/181625655</marc:subfield>
+      <marc:subfield code="4">http://rdaregistry.info/Elements/w/graphicNovelizationOfWork.en</marc:subfield>
     </marc:datafield>
   </marc:record>
   <marc:record source="doyle.bl.library.author.xml">
@@ -66075,7 +66080,7 @@
       <marc:subfield code="t">Valley of fear.</marc:subfield>
       <marc:subfield code="1p">http://viaf.org/viaf/65283845</marc:subfield>
       <marc:subfield code="1w">http://viaf.org/viaf/175571309</marc:subfield>
-      <marc:subfield code="4">http://rdaregistry.info/Elements/w/adaptationOfWork.en</marc:subfield>
+      <marc:subfield code="4">http://rdaregistry.info/Elements/w/graphicNovelizationOfWork.en</marc:subfield>
     </marc:datafield>
   </marc:record>
   <marc:record source="doyle.bl.library.author.xml">

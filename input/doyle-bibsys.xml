@@ -1634,7 +1634,7 @@
       <marc:subfield code="a">Paget, Sidney</marc:subfield>
       <marc:subfield code="d">1860-1908</marc:subfield>
       <marc:subfield code="1p">http://viaf.org/viaf/2555146</marc:subfield>
-    </marc:datafield>
+    <marc:subfield code="4" old="empty">ill</marc:subfield></marc:datafield>
     <marc:datafield tag="240" ind1="1" ind2="0">
       <marc:subfield code="a">The Tragedy of the Korosko</marc:subfield>
       <marc:subfield code="1w">http://viaf.org/viaf/179668970</marc:subfield>

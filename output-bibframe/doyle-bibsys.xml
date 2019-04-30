@@ -482,7 +482,7 @@
    <bibframe:Person rdf:about="http://viaf.org/viaf/2555146">
       <a:P50111>Paget, Sidney</a:P50111>
       <a:P50107>1860-1908</a:P50107>
-      <a:P50161 rdf:resource="http://viaf.org/viaf/179668970/eng"/>
+      <a:P50469 rdf:resource="http://viaf.org/viaf/179668970/eng"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="http://viaf.org/viaf/65283845">
       <a:P50111>Doyle, Arthur Conan</a:P50111>
@@ -576,7 +576,7 @@
       <w:P10088>Tragedy of The Korosko</w:P10088>
       <bibframe:hasInstance rdf:resource="http://example.org/999920605580102201"/>
       <bibframe:hasInstance rdf:resource="http://example.org/999920608165702201"/>
-      <e:P20053 rdf:resource="http://viaf.org/viaf/2555146"/>
+      <m:P30321 rdf:resource="http://viaf.org/viaf/2555146"/>
       <w:P10065 rdf:resource="http://viaf.org/viaf/65283845"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://viaf.org/viaf/180817010/eng">

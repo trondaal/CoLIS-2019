@@ -1516,7 +1516,7 @@
         <marc:datafield ind1="1" ind2=" " tag="700">
             <marc:subfield code="a">Sáenz, Miguel</marc:subfield>
             <marc:subfield code="e">Mitwirkender</marc:subfield>
-            <marc:subfield code="4">ctb</marc:subfield>
+            <marc:subfield code="4" old="ctb">trl</marc:subfield>
             <marc:subfield code="1p">saenzmiguel</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2="0" tag="830">
@@ -3581,7 +3581,7 @@
         <marc:datafield ind1="1" ind2=" " tag="700">
             <marc:subfield code="a">Sáenz, Miguel</marc:subfield>
             <marc:subfield code="e">Mitwirkender</marc:subfield>
-            <marc:subfield code="4">ctb</marc:subfield>
+            <marc:subfield code="4" old="ctb">trl</marc:subfield>
             <marc:subfield code="1p">saenzmiguel</marc:subfield>
         </marc:datafield>
     </marc:record>
@@ -4568,7 +4568,7 @@
             <marc:subfield code="0">(DE-101)113217072</marc:subfield>
             <marc:subfield code="a">Amsler, Jean</marc:subfield>
             <marc:subfield code="e">Mitwirkender</marc:subfield>
-            <marc:subfield code="4">ctb</marc:subfield>
+            <marc:subfield code="4" old="ctb">trl</marc:subfield>
             <marc:subfield code="1p">amslerjean</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="850">
@@ -5086,7 +5086,7 @@
             <marc:subfield code="a">Grass, Günter</marc:subfield>
             <marc:subfield code="d">1927-2015</marc:subfield>
             <marc:subfield code="e">Mitwirkender</marc:subfield>
-            <marc:subfield code="4">ctb</marc:subfield>
+            <marc:subfield code="4" old="ctb">ill</marc:subfield>
             <marc:subfield code="1p">http://viaf.org/viaf/102319859</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2="0" tag="830">
@@ -5340,7 +5340,7 @@
             <marc:subfield code="a">Secci, Lia</marc:subfield>
             <marc:subfield code="d">1933-</marc:subfield>
             <marc:subfield code="e">Mitwirkender</marc:subfield>
-            <marc:subfield code="4">ctb</marc:subfield>
+            <marc:subfield code="4" old="ctb">trl</marc:subfield>
             <marc:subfield code="1p">seccilia</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1="1" ind2="2" tag="700">
@@ -5716,7 +5716,7 @@
             <marc:subfield code="a">Manheim, Ralph</marc:subfield>
             <marc:subfield code="d">1907-1992</marc:subfield>
             <marc:subfield code="e">Mitwirkender</marc:subfield>
-            <marc:subfield code="4">ctb</marc:subfield>
+            <marc:subfield code="4" old="ctb">trl</marc:subfield>
             <marc:subfield code="1p">http://viaf.org/viaf/9864901</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="850">
@@ -7814,7 +7814,7 @@
             <marc:subfield code="a">Manheim, Ralph</marc:subfield>
             <marc:subfield code="d">1907-1992</marc:subfield>
             <marc:subfield code="e">Mitwirkender</marc:subfield>
-            <marc:subfield code="4">ctb</marc:subfield>
+            <marc:subfield code="4" old="ctb">trl</marc:subfield>
             <marc:subfield code="1p">http://viaf.org/viaf/9864901</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="850">
@@ -9951,7 +9951,7 @@
             <marc:subfield code="a">Boisen, Mogens</marc:subfield>
             <marc:subfield code="d">1910-1987</marc:subfield>
             <marc:subfield code="e">Mitwirkender</marc:subfield>
-            <marc:subfield code="4">ctb</marc:subfield>
+            <marc:subfield code="4" old="ctb">trl</marc:subfield>
             <marc:subfield code="1p">boisenmogens</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="850">
@@ -13601,7 +13601,7 @@
             <marc:subfield code="0">(DE-101)127063722</marc:subfield>
             <marc:subfield code="a">Liljegren, Eva</marc:subfield>
             <marc:subfield code="e">Mitwirkender</marc:subfield>
-            <marc:subfield code="4">ctb</marc:subfield>
+            <marc:subfield code="4" old="ctb">ctb</marc:subfield>
             <marc:subfield code="1p">liljegreneva</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1="1" ind2="2" tag="700">
@@ -16902,7 +16902,7 @@
             <marc:subfield code="0">(DE-101)113217072</marc:subfield>
             <marc:subfield code="a">Amsler, Jean</marc:subfield>
             <marc:subfield code="e">Mitwirkender</marc:subfield>
-            <marc:subfield code="4">ctb</marc:subfield>
+            <marc:subfield code="4" old="ctb">trl</marc:subfield>
             <marc:subfield code="1p">amslerjean</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1="1" ind2="2" tag="700">
@@ -29968,7 +29968,7 @@
             <marc:subfield code="0">(DE-101)127228632</marc:subfield>
             <marc:subfield code="a">Greiff, Trygve</marc:subfield>
             <marc:subfield code="e">Mitwirkender</marc:subfield>
-            <marc:subfield code="4">ctb</marc:subfield>
+            <marc:subfield code="4" old="ctb">trl</marc:subfield>
             <marc:subfield code="1p">greifftrygve</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="850">
@@ -31257,7 +31257,7 @@
             <marc:subfield code="a">Secci, Lia</marc:subfield>
             <marc:subfield code="d">1933-</marc:subfield>
             <marc:subfield code="e">Mitwirkender</marc:subfield>
-            <marc:subfield code="4">ctb</marc:subfield>
+            <marc:subfield code="4" old="ctb">trl</marc:subfield>
             <marc:subfield code="1p">seccilia</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1="1" ind2="2" tag="700">
@@ -34341,7 +34341,7 @@
             <marc:subfield code="0">(DE-101)113217072</marc:subfield>
             <marc:subfield code="a">Amsler, Jean</marc:subfield>
             <marc:subfield code="e">Mitwirkender</marc:subfield>
-            <marc:subfield code="4">ctb</marc:subfield>
+            <marc:subfield code="4" old="ctb">trl</marc:subfield>
             <marc:subfield code="1p">amslerjean</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1="1" ind2="2" tag="700">
@@ -35487,7 +35487,7 @@
             <marc:subfield code="a">Boisen, Mogens</marc:subfield>
             <marc:subfield code="d">1910-1987</marc:subfield>
             <marc:subfield code="e">Mitwirkender</marc:subfield>
-            <marc:subfield code="4">ctb</marc:subfield>
+            <marc:subfield code="4" old="ctb">trl</marc:subfield>
             <marc:subfield code="1p">boisenmogens</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1="1" ind2="2" tag="700">
@@ -37027,7 +37027,7 @@
             <marc:subfield code="0">(DE-101)10591441X</marc:subfield>
             <marc:subfield code="a">Holmberg, Nils</marc:subfield>
             <marc:subfield code="e">Mitwirkender</marc:subfield>
-            <marc:subfield code="4">ctb</marc:subfield>
+            <marc:subfield code="4" old="ctb">trl</marc:subfield>
             <marc:subfield code="1p">holmbergnils</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1="1" ind2="2" tag="700">
@@ -37671,7 +37671,7 @@
             <marc:subfield code="0">(DE-101)10591441X</marc:subfield>
             <marc:subfield code="a">Holmberg, Nils</marc:subfield>
             <marc:subfield code="e">Mitwirkender</marc:subfield>
-            <marc:subfield code="4">ctb</marc:subfield>
+            <marc:subfield code="4" old="ctb">trl</marc:subfield>
             <marc:subfield code="1p">holmbergnils</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1="1" ind2="2" tag="700">
@@ -58542,7 +58542,7 @@
             <marc:subfield code="0">(DE-101)113217072</marc:subfield>
             <marc:subfield code="a">Amsler, Jean</marc:subfield>
             <marc:subfield code="e">Mitwirkender</marc:subfield>
-            <marc:subfield code="4">ctb</marc:subfield>
+            <marc:subfield code="4" old="ctb">trl</marc:subfield>
             <marc:subfield code="1p">amslerjean</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1="1" ind2="2" tag="700">
@@ -59726,7 +59726,7 @@
             <marc:subfield code="a">Grass, Günter</marc:subfield>
             <marc:subfield code="d">1927-2015</marc:subfield>
             <marc:subfield code="e">Mitwirkender</marc:subfield>
-            <marc:subfield code="4">ctb</marc:subfield>
+            <marc:subfield code="4" old="ctb">ill</marc:subfield>
             <marc:subfield code="1p">http://viaf.org/viaf/102319859</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1="1" ind2=" " tag="700">
@@ -61712,7 +61712,7 @@
             <marc:subfield code="a">Manheim, Ralph</marc:subfield>
             <marc:subfield code="d">1907-1992</marc:subfield>
             <marc:subfield code="e">Mitwirkender</marc:subfield>
-            <marc:subfield code="4">ctb</marc:subfield>
+            <marc:subfield code="4" old="ctb">trl</marc:subfield>
             <marc:subfield code="1p">http://viaf.org/viaf/9864901</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2="0" tag="830">
@@ -61926,7 +61926,7 @@
             <marc:subfield code="a">Manheim, Ralph</marc:subfield>
             <marc:subfield code="d">1907-1992</marc:subfield>
             <marc:subfield code="e">Mitwirkender</marc:subfield>
-            <marc:subfield code="4">ctb</marc:subfield>
+            <marc:subfield code="4" old="ctb">trl</marc:subfield>
             <marc:subfield code="1p">http://viaf.org/viaf/9864901</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="850">
@@ -63140,7 +63140,7 @@
             <marc:subfield code="a">Manheim, Ralph</marc:subfield>
             <marc:subfield code="d">1907-1992</marc:subfield>
             <marc:subfield code="e">Mitwirkender</marc:subfield>
-            <marc:subfield code="4">ctb</marc:subfield>
+            <marc:subfield code="4" old="ctb">trl</marc:subfield>
             <marc:subfield code="1p">http://viaf.org/viaf/9864901</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="850">
@@ -64728,7 +64728,7 @@
             <marc:subfield code="a">Boisen, Mogens</marc:subfield>
             <marc:subfield code="d">1910-1987</marc:subfield>
             <marc:subfield code="e">Mitwirkender</marc:subfield>
-            <marc:subfield code="4">ctb</marc:subfield>
+            <marc:subfield code="4" old="ctb">trl</marc:subfield>
             <marc:subfield code="1p">boisenmogens</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1="1" ind2="2" tag="700">
@@ -65395,7 +65395,7 @@
             <marc:subfield code="a">Manheim, Ralph</marc:subfield>
             <marc:subfield code="d">1907-1992</marc:subfield>
             <marc:subfield code="e">Mitwirkender</marc:subfield>
-            <marc:subfield code="4">ctb</marc:subfield>
+            <marc:subfield code="4" old="ctb">trl</marc:subfield>
             <marc:subfield code="1p">http://viaf.org/viaf/9864901</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2="0" tag="830">
@@ -67722,7 +67722,7 @@
             <marc:subfield code="a">Boisen, Mogens</marc:subfield>
             <marc:subfield code="d">1910-1987</marc:subfield>
             <marc:subfield code="e">Mitwirkender</marc:subfield>
-            <marc:subfield code="4">ctb</marc:subfield>
+            <marc:subfield code="4" old="ctb">trl</marc:subfield>
             <marc:subfield code="1p">boisenmogens</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1="1" ind2="2" tag="700">
@@ -70058,7 +70058,7 @@
             <marc:subfield code="a">Manheim, Ralph</marc:subfield>
             <marc:subfield code="d">1907-1992</marc:subfield>
             <marc:subfield code="e">Mitwirkender</marc:subfield>
-            <marc:subfield code="4">ctb</marc:subfield>
+            <marc:subfield code="4" old="ctb">trl</marc:subfield>
             <marc:subfield code="1p">http://viaf.org/viaf/9864901</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="850">

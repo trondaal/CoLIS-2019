@@ -5054,7 +5054,7 @@
       <m:P30001>sin mediación</m:P30001>
       <m:P30106>Cambridge experience readers</m:P30106>
       <m:P30165>5</m:P30165>
-      <bibframe:instanceOf rdf:resource="/sherlock/eng"/>
+      <bibframe:instanceOf rdf:resource="macandrewrichard/sherlock/eng"/>
    </bibframe:Instance>
    <bibframe:Instance rdf:about="urn:isbn:9788415089421">
       <marc:M001>a5448435</marc:M001>
@@ -5196,7 +5196,7 @@
       <m:P30169>22 cm</m:P30169>
       <m:P30001>sin mediación</m:P30001>
       <m:P30106>Clásicos ilustrados</m:P30106>
-      <bibframe:instanceOf rdf:resource="/estudioenescarlataelsignodeloscuatro/spa"/>
+      <bibframe:instanceOf rdf:resource="http://viaf.org/viaf/65283845/estudioenescarlataelsignodeloscuatro/spa"/>
    </bibframe:Instance>
    <bibframe:Instance rdf:about="urn:isbn:9788415717638">
       <marc:M001>a5431046</marc:M001>
@@ -5308,7 +5308,7 @@
       <m:P30001>sin mediación</m:P30001>
       <m:P30106>Clásicos y modernos</m:P30106>
       <m:P30165>20</m:P30165>
-      <bibframe:instanceOf rdf:resource="/enlasafuerasdelondresseguidodenuestraseoradelamuerte/spa"/>
+      <bibframe:instanceOf rdf:resource="http://viaf.org/viaf/65283845/enlasafuerasdelondresseguidodenuestraseoradelamuerte/spa"/>
    </bibframe:Instance>
    <bibframe:Instance rdf:about="urn:isbn:9788416034291">
       <marc:M001>a5675064</marc:M001>
@@ -5388,7 +5388,7 @@
       <m:P30001>sin mediación</m:P30001>
       <m:P30001>audio</m:P30001>
       <m:P30106>Audiobooks. Libros bilingües</m:P30106>
-      <bibframe:instanceOf rdf:resource="/thecaseofladysannoxelcasodeladysannoxthefinalproblemelproblemafinal/eng"/>
+      <bibframe:instanceOf rdf:resource="http://viaf.org/viaf/65283845/thecaseofladysannoxelcasodeladysannoxthefinalproblemelproblemafinal/eng"/>
    </bibframe:Instance>
    <bibframe:Instance rdf:about="urn:isbn:9788416775743">
       <marc:M001>a5994968</marc:M001>
@@ -5573,7 +5573,7 @@
       <m:P30182>152 p.</m:P30182>
       <m:P30169>32 cm</m:P30169>
       <m:P30001>sin mediación</m:P30001>
-      <bibframe:instanceOf rdf:resource="/elmundoperdido/spa"/>
+      <bibframe:instanceOf rdf:resource="becchristophe/elmundoperdido/spa"/>
    </bibframe:Instance>
    <bibframe:Instance rdf:about="urn:isbn:9788417244446">
       <marc:M001>a6287119</marc:M001>
@@ -5816,7 +5816,7 @@
       <m:P30106>1320</m:P30106>
       <m:P30106>Las novelas</m:P30106>
       <m:P30165>1</m:P30165>
-      <bibframe:instanceOf rdf:resource="/sherlockholmes/spa"/>
+      <bibframe:instanceOf rdf:resource="http://viaf.org/viaf/65283845/sherlockholmes/spa"/>
    </bibframe:Instance>
    <bibframe:Instance rdf:about="urn:isbn:9788420691312">
       <marc:M001>a4791103</marc:M001>
@@ -6421,7 +6421,7 @@
       <m:P30182>[95] p. (algunas pleg.)</m:P30182>
       <m:P30169>31 cm</m:P30169>
       <m:P30001>sin mediación</m:P30001>
-      <bibframe:instanceOf rdf:resource="/lechiendesbaskerville/spa"/>
+      <bibframe:instanceOf rdf:resource="unglikrichard/lechiendesbaskerville/spa"/>
    </bibframe:Instance>
    <bibframe:Instance rdf:about="urn:isbn:9788467722215">
       <marc:M001>a5564561</marc:M001>
@@ -6480,7 +6480,7 @@
       <m:P30169>24 cm</m:P30169>
       <m:P30001>sin mediación</m:P30001>
       <m:P30106>Clásicos a medida</m:P30106>
-      <bibframe:instanceOf rdf:resource="/estudioenescarlata/spa"/>
+      <bibframe:instanceOf rdf:resource="iguezbarrenamaralourdes/estudioenescarlata/spa"/>
    </bibframe:Instance>
    <bibframe:Instance rdf:about="urn:isbn:9788467861563">
       <marc:M001>a5555891</marc:M001>
@@ -6628,7 +6628,7 @@
       <m:P30001>sin mediación</m:P30001>
       <m:P30106>Cucaña</m:P30106>
       <m:P30165>63</m:P30165>
-      <bibframe:instanceOf rdf:resource="/elhombredellabiotorcidoelcarbuncloazul/spa"/>
+      <bibframe:instanceOf rdf:resource="http://viaf.org/viaf/65283845/elhombredellabiotorcidoelcarbuncloazul/spa"/>
    </bibframe:Instance>
    <bibframe:Instance rdf:about="urn:isbn:9788468236971">
       <marc:M001>a5813314</marc:M001>
@@ -7940,7 +7940,7 @@
       <a:P50111>Appeceix, Silvana</a:P50111>
       <a:P50145 rdf:resource="http://viaf.org/viaf/181625655/español/spa"/>
       <a:P50145 rdf:resource="http://viaf.org/viaf/179061639/español/spa"/>
-      <a:P50161 rdf:resource="http://viaf.org/viaf/174141344/spa/spa"/>
+      <a:P50145 rdf:resource="http://viaf.org/viaf/174141344/spa/spa"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="arsenallen">
       <a:P50111>Arsenal, León</a:P50111>
@@ -7988,6 +7988,7 @@
       <ex:relatorcode>aut</ex:relatorcode>
       <a:P50111>Bec, Christophe</a:P50111>
       <a:P50107>1969-</a:P50107>
+      <a:P50195 rdf:resource="becchristophe/elmundoperdido/spa"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="bernabeumornnatalia">
       <a:P50111>Bernabeu Morón, Natalia</a:P50111>
@@ -8013,7 +8014,6 @@
    <bibframe:Person rdf:about="borreguerosanchidrinsandramara">
       <a:P50111>Borreguero Sanchidrián, Sandra María</a:P50111>
       <a:P50145 rdf:resource="http://viaf.org/viaf/179061639/español/spa"/>
-      <a:P50161 rdf:resource="http://viaf.org/viaf/179061639/español/spa"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="bowentr">
       <a:P50111>Bowen, T.R</a:P50111>
@@ -8026,6 +8026,7 @@
    <bibframe:Person rdf:about="bremnclara">
       <a:P50111>Bremón, Clara</a:P50111>
       <a:P50195 rdf:resource="http://viaf.org/viaf/181625655"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/181625655/español/spa"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="brettjeremy">
       <a:P50111>Brett, Jeremy</a:P50111>
@@ -8059,7 +8060,6 @@
    <bibframe:Person rdf:about="busquetsnstor">
       <a:P50111>Busquets, Néstor</a:P50111>
       <a:P50145 rdf:resource="http://viaf.org/viaf/179061639/español/spa"/>
-      <a:P50161 rdf:resource="http://viaf.org/viaf/179061639/español/spa"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="cabraljorge">
       <a:P50111>Cabral, Jorge</a:P50111>
@@ -8079,14 +8079,10 @@
       <a:P50111>Campbell, Enrique</a:P50111>
       <a:P50145 rdf:resource="http://viaf.org/viaf/179061639/español/spa"/>
       <a:P50145 rdf:resource="http://viaf.org/viaf/184892317/español/spa"/>
-      <a:P50145 rdf:resource="http://viaf.org/viaf/186734487/español/spa"/>
       <a:P50145 rdf:resource="http://viaf.org/viaf/181625655/español/spa"/>
+      <a:P50145 rdf:resource="http://viaf.org/viaf/186734487/español/spa"/>
+      <a:P50145 rdf:resource="http://viaf.org/viaf/174141344/spa/spa"/>
       <a:P50145 rdf:resource="http://viaf.org/viaf/181625655/español-inglés/spa"/>
-      <a:P50161 rdf:resource="http://viaf.org/viaf/181625655/español/spa"/>
-      <a:P50161 rdf:resource="http://viaf.org/viaf/186734487/español/spa"/>
-      <a:P50161 rdf:resource="http://viaf.org/viaf/174141344/spa/spa"/>
-      <a:P50161 rdf:resource="http://viaf.org/viaf/179061639/español/spa"/>
-      <a:P50161 rdf:resource="http://viaf.org/viaf/184892317/español/spa"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="campuzanomara">
       <a:P50111>Campuzano, María</a:P50111>
@@ -8142,7 +8138,7 @@
    </bibframe:Person>
    <bibframe:Person rdf:about="corralmercedes">
       <a:P50111>Corral, Mercedes</a:P50111>
-      <a:P50145 rdf:resource="/lechiendesbaskerville/spa"/>
+      <a:P50145 rdf:resource="unglikrichard/lechiendesbaskerville/spa"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="costalvarezarturo">
       <a:P50111>Costa Álvarez, Arturo</a:P50111>
@@ -8150,7 +8146,7 @@
    </bibframe:Person>
    <bibframe:Person rdf:about="coulthartjohn">
       <a:P50111>Coulthart, John</a:P50111>
-      <a:P50469 rdf:resource="/estudioenescarlataelsignodeloscuatro/spa"/>
+      <a:P50469 rdf:resource="http://viaf.org/viaf/65283845/estudioenescarlataelsignodeloscuatro/spa"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="coxmichael">
       <a:P50111>Cox, Michael</a:P50111>
@@ -8203,9 +8199,9 @@
    <bibframe:Person rdf:about="delgadogallvaro">
       <a:P50111>Delgado Gal, Álvaro</a:P50111>
       <a:P50107>1953-</a:P50107>
+      <a:P50145 rdf:resource="http://viaf.org/viaf/179061639/español/spa"/>
+      <a:P50145 rdf:resource="http://viaf.org/viaf/65283845/sherlockholmes/spa"/>
       <a:P50145 rdf:resource="/sherlockholmes/spa"/>
-      <a:P50161 rdf:resource="http://viaf.org/viaf/179061639/español/spa"/>
-      <a:P50161 rdf:resource="/sherlockholmes/spa"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="dezjulin">
       <a:P50111>Díez, Julián</a:P50111>
@@ -8265,7 +8261,7 @@
    </bibframe:Person>
    <bibframe:Person rdf:about="fainafabrizio">
       <a:P50111>Faina, Fabrizio</a:P50111>
-      <a:P50469 rdf:resource="/elmundoperdido/spa"/>
+      <a:P50469 rdf:resource="becchristophe/elmundoperdido/spa"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="fbregasf">
       <a:P50111>Fábregas, F</a:P50111>
@@ -8286,16 +8282,16 @@
    <bibframe:Person rdf:about="floresenrique">
       <a:P50111>Flores, Enrique</a:P50111>
       <a:P50107>1967-</a:P50107>
-      <a:P50161 rdf:resource="http://www.wikidata.org/entity/q725752/español/spa"/>
-      <a:P50161 rdf:resource="http://www.wikidata.org/entity/q1129378/español/spa"/>
-      <a:P50161 rdf:resource="http://viaf.org/viaf/179061639/español/spa"/>
-      <a:P50161 rdf:resource="http://viaf.org/viaf/186734487/español/spa"/>
-      <a:P50161 rdf:resource="http://viaf.org/viaf/294145857904223021237/español/spa"/>
-      <a:P50161 rdf:resource="http://viaf.org/viaf/181625655/español/spa"/>
-      <a:P50161 rdf:resource="http://viaf.org/viaf/1390154501894339210002/español/spa"/>
-      <a:P50161 rdf:resource="http://www.wikidata.org/entity/q860831/español/spa"/>
-      <a:P50161 rdf:resource="http://viaf.org/viaf/184892317/español/spa"/>
+      <a:P50469 rdf:resource="http://www.wikidata.org/entity/q725752/español/spa"/>
       <a:P50469 rdf:resource="http://viaf.org/viaf/175571309/español/spa"/>
+      <a:P50469 rdf:resource="http://www.wikidata.org/entity/q1129378/español/spa"/>
+      <a:P50469 rdf:resource="http://viaf.org/viaf/179061639/español/spa"/>
+      <a:P50469 rdf:resource="http://viaf.org/viaf/186734487/español/spa"/>
+      <a:P50469 rdf:resource="http://viaf.org/viaf/294145857904223021237/español/spa"/>
+      <a:P50469 rdf:resource="http://viaf.org/viaf/181625655/español/spa"/>
+      <a:P50469 rdf:resource="http://viaf.org/viaf/1390154501894339210002/español/spa"/>
+      <a:P50469 rdf:resource="http://www.wikidata.org/entity/q860831/español/spa"/>
+      <a:P50469 rdf:resource="http://viaf.org/viaf/184892317/español/spa"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="fontcubertaigeljoan">
       <a:P50111>Fontcuberta i Gel, Joan</a:P50111>
@@ -8319,7 +8315,7 @@
    </bibframe:Person>
    <bibframe:Person rdf:about="gallardojoaqun">
       <a:P50111>Gallardo, Joaquín</a:P50111>
-      <a:P50145 rdf:resource="/enlasafuerasdelondresseguidodenuestraseoradelamuerte/spa"/>
+      <a:P50145 rdf:resource="http://viaf.org/viaf/65283845/enlasafuerasdelondresseguidodenuestraseoradelamuerte/spa"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="gallegocarlos">
       <a:P50111>Gallego, Carlos</a:P50111>
@@ -8339,7 +8335,6 @@
    <bibframe:Person rdf:about="garofalogianluca">
       <a:P50111>Garofalo, Gianluca</a:P50111>
       <a:P50107>1968-</a:P50107>
-      <a:P50161 rdf:resource="/sherlockholmesandtheredcircle/eng"/>
       <a:P50469 rdf:resource="/sherlockholmesandtheredcircle/eng"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="garretmichael">
@@ -8501,19 +8496,17 @@
       <a:P50145 rdf:resource="http://viaf.org/viaf/175571309/español/spa"/>
       <a:P50145 rdf:resource="http://viaf.org/viaf/1390154501894339210002/español/spa"/>
       <a:P50145 rdf:resource="http://www.wikidata.org/entity/q461026/español/spa"/>
-      <a:P50161 rdf:resource="http://viaf.org/viaf/174141344/spa/spa"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="http://viaf.org/viaf/2555146">
       <a:P50111>Paget, Sidney</a:P50111>
-      <a:P50161 rdf:resource="http://viaf.org/viaf/181625655/español/spa"/>
-      <a:P50161 rdf:resource="http://viaf.org/viaf/186734487/español/spa"/>
-      <a:P50161 rdf:resource="http://www.wikidata.org/entity/q860831/español/spa"/>
-      <a:P50161 rdf:resource="http://www.wikidata.org/entity/q725752/español/spa"/>
-      <a:P50469 rdf:resource="http://viaf.org/viaf/186734487/español/spa"/>
       <a:P50469 rdf:resource="http://viaf.org/viaf/181625655/español/spa"/>
+      <a:P50469 rdf:resource="http://viaf.org/viaf/186734487/español/spa"/>
+      <a:P50469 rdf:resource="http://www.wikidata.org/entity/q860831/español/spa"/>
+      <a:P50469 rdf:resource="http://www.wikidata.org/entity/q725752/español/spa"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="http://viaf.org/viaf/305867914">
       <a:P50111>Briggent, Benjamin</a:P50111>
+      <a:P50145 rdf:resource="http://viaf.org/viaf/175571309/español/spa"/>
       <a:P50145 rdf:resource="http://viaf.org/viaf/186734487/español/spa"/>
       <a:P50145 rdf:resource="http://viaf.org/viaf/184892317/español/spa"/>
       <a:P50145 rdf:resource="http://viaf.org/viaf/186734487/español-inglés/spa"/>
@@ -8526,7 +8519,6 @@
       <a:P50145 rdf:resource="http://www.wikidata.org/entity/q1129378/español/spa"/>
       <a:P50145 rdf:resource="http://www.wikidata.org/entity/q860831/español/spa"/>
       <a:P50145 rdf:resource="http://viaf.org/viaf/179061639/español-inglés/spa"/>
-      <a:P50161 rdf:resource="http://viaf.org/viaf/175571309/español/spa"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="http://viaf.org/viaf/51519824">
       <a:P50111>Salcedo, Rufo G</a:P50111>
@@ -8543,27 +8535,65 @@
       <a:P50111>Doyle, Arthur Conan</a:P50111>
       <a:P50107>1859-1930</a:P50107>
       <ex:relatorcode>aut</ex:relatorcode>
-      <a:P50111>The case of Lady Sannox</a:P50111>
-      <a:P50111>Beyond the City</a:P50111>
-      <a:P50161 rdf:resource="/enlasafuerasdelondresseguidodenuestraseoradelamuerte/spa"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/186734487/eng"/>
       <a:P50195 rdf:resource="http://www.wikidata.org/entity/q1129378"/>
+      <a:P50195 rdf:resource="http://www.wikidata.org/entity/q1129378/español/spa"/>
       <a:P50195 rdf:resource="http://viaf.org/viaf/1390154501894339210002"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/1390154501894339210002/español/spa"/>
       <a:P50195 rdf:resource="http://viaf.org/viaf/294145857904223021237"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/294145857904223021237/español/spa"/>
       <a:P50195 rdf:resource="http://viaf.org/viaf/184892317"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/184892317/español/spa"/>
       <a:P50195 rdf:resource="http://viaf.org/viaf/186734487"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/186734487/español/spa"/>
       <a:P50195 rdf:resource="http://viaf.org/viaf/310212942"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/310212942/spa/spa"/>
       <a:P50195 rdf:resource="http://viaf.org/viaf/179061639"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/179061639/español/spa"/>
       <a:P50195 rdf:resource="http://www.wikidata.org/entity/q725752"/>
+      <a:P50195 rdf:resource="http://www.wikidata.org/entity/q725752/español/spa"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/181625655/eng"/>
       <a:P50195 rdf:resource="http://viaf.org/viaf/175571309"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/175571309/español/spa"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/186734487/spa/spa"/>
+      <a:P50195 rdf:resource="http://www.wikidata.org/entity/q725752/eng"/>
       <a:P50195 rdf:resource="http://www.wikidata.org/entity/q860831"/>
+      <a:P50195 rdf:resource="http://www.wikidata.org/entity/q860831/español/spa"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/179061639/eng"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/175571309/eng"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/184892317/eng"/>
       <a:P50195 rdf:resource="http://viaf.org/viaf/174141344"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/174141344/spa/spa"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/186734487/español-inglés/spa"/>
       <a:P50195 rdf:resource="http://viaf.org/viaf/181625655"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/181625655/español/spa"/>
       <a:P50195 rdf:resource="http://viaf.org/viaf/309272292"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/309272292/español/spa"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/175571309/spa/spa"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/174141344/francés-inglés/eng"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/65283845/sherlockholmes/spa"/>
       <a:P50195 rdf:resource="http://www.wikidata.org/entity/q4449924"/>
+      <a:P50195 rdf:resource="http://www.wikidata.org/entity/q4449924/español/spa"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/65283845/enlasafuerasdelondresseguidodenuestraseoradelamuerte/spa"/>
       <a:P50195 rdf:resource="http://viaf.org/viaf/"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf//español/spa"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/179061639/español-inglés/spa"/>
       <a:P50195 rdf:resource="http://viaf.org/viaf/3283155226707084490002"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/3283155226707084490002/español-inglés/spa"/>
       <a:P50195 rdf:resource="http://www.wikidata.org/entity/q1150069"/>
+      <a:P50195 rdf:resource="http://www.wikidata.org/entity/q1150069/spa/spa"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/65283845/thecaseofladysannoxelcasodeladysannoxthefinalproblemelproblemafinal/eng"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/184892317/spa/spa"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/181625655/español-inglés/spa"/>
+      <a:P50195 rdf:resource="http://www.wikidata.org/entity/q1129378/spa/spa"/>
+      <a:P50195 rdf:resource="http://www.wikidata.org/entity/q860831/eng"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/184892317/español-inglés/spa"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/294145857904223021237/español-inglés/spa"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/65283845/estudioenescarlataelsignodeloscuatro/spa"/>
       <a:P50195 rdf:resource="http://www.wikidata.org/entity/q2616869"/>
+      <a:P50195 rdf:resource="http://www.wikidata.org/entity/q2616869/español/spa"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/65283845/elhombredellabiotorcidoelcarbuncloazul/spa"/>
+      <a:P50195 rdf:resource="http://www.wikidata.org/entity/q1129378/eng"/>
       <a:P50204 rdf:resource="http://viaf.org/viaf/186734487"/>
       <a:P50204 rdf:resource="http://viaf.org/viaf/186734487/español/spa"/>
       <a:P50204 rdf:resource="http://viaf.org/viaf/1390154501894339210002"/>
@@ -8629,8 +8659,6 @@
       <a:P50204 rdf:resource="/elmisteriodelosbailarineslucerodeplata/spa"/>
       <a:P50204 rdf:resource="http://www.wikidata.org/entity/q1151761/spa/spa"/>
       <a:P50204 rdf:resource="/elvalledelterrorestudioenescarlata/spa"/>
-      <a:P50204 rdf:resource="/thecaseofladysannoxelcasodeladysannoxthefinalproblemelproblemafinal/eng"/>
-      <a:P50204 rdf:resource="/thefinalproblem/eng"/>
       <a:P50204 rdf:resource="http://viaf.org/viaf/310211956"/>
       <a:P50204 rdf:resource="http://viaf.org/viaf/310211956/spa/spa"/>
       <a:P50204 rdf:resource="http://www.wikidata.org/entity/q2616869/eng"/>
@@ -8681,18 +8709,15 @@
       <a:P50111>Tusquets, Esther</a:P50111>
       <a:P50107>1936-2012</a:P50107>
       <a:P50145 rdf:resource="http://viaf.org/viaf/186734487/español/spa"/>
-      <a:P50145 rdf:resource="http://viaf.org/viaf/174141344/spa/spa"/>
+      <a:P50145 rdf:resource="http://viaf.org/viaf/181625655/español/spa"/>
       <a:P50145 rdf:resource="http://viaf.org/viaf/179061639/español/spa"/>
-      <a:P50161 rdf:resource="http://viaf.org/viaf/186734487/español/spa"/>
-      <a:P50161 rdf:resource="http://viaf.org/viaf/181625655/español/spa"/>
-      <a:P50161 rdf:resource="http://viaf.org/viaf/179061639/español/spa"/>
-      <a:P50161 rdf:resource="http://viaf.org/viaf/184892317/español/spa"/>
-      <a:P50161 rdf:resource="http://www.wikidata.org/entity/q860831/español/spa"/>
+      <a:P50145 rdf:resource="http://viaf.org/viaf/184892317/español/spa"/>
+      <a:P50145 rdf:resource="http://viaf.org/viaf/174141344/spa/spa"/>
+      <a:P50145 rdf:resource="http://www.wikidata.org/entity/q860831/español/spa"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="huanquilourdes">
       <a:P50111>Huanqui, Lourdes</a:P50111>
       <a:P50145 rdf:resource="http://viaf.org/viaf/181625655/español/spa"/>
-      <a:P50161 rdf:resource="http://viaf.org/viaf/181625655/español/spa"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="hutchinsongeo">
       <a:P50111>Hutchinson, Geo</a:P50111>
@@ -8706,9 +8731,11 @@
    <bibframe:Person rdf:about="iguezbarrenamaralourdes">
       <ex:relatorcode>aut</ex:relatorcode>
       <a:P50111>Íñiguez Barrena, María Lourdes</a:P50111>
+      <a:P50195 rdf:resource="iguezbarrenamaralourdes/estudioenescarlata/spa"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="ingbergpablo">
       <a:P50111>Ingberg, Pablo</a:P50111>
+      <a:P50145 rdf:resource="http://viaf.org/viaf/1390154501894339210002/español/spa"/>
       <a:P50145 rdf:resource="http://www.wikidata.org/entity/q1129378/español/spa"/>
       <a:P50145 rdf:resource="http://www.wikidata.org/entity/q860831/español/spa"/>
       <a:P50189 rdf:resource="http://viaf.org/viaf/1390154501894339210002/español/spa"/>
@@ -8815,6 +8842,7 @@
    <bibframe:Person rdf:about="macandrewrichard">
       <ex:relatorcode>aut</ex:relatorcode>
       <a:P50111>MacAndrew, Richard</a:P50111>
+      <a:P50195 rdf:resource="macandrewrichard/sherlock/eng"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="machadomanuel">
       <a:P50111>Machado, Manuel</a:P50111>
@@ -8824,7 +8852,6 @@
    <bibframe:Person rdf:about="mahieujosagustn">
       <a:P50111>Mahieu, José Agustín</a:P50111>
       <a:P50145 rdf:resource="http://viaf.org/viaf/294145857904223021237/español/spa"/>
-      <a:P50161 rdf:resource="http://viaf.org/viaf/294145857904223021237/español/spa"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="malecandrew">
       <a:P50111>Malec, Andrew</a:P50111>
@@ -8852,6 +8879,7 @@
       <a:P50111>Martínez, Rodolfo</a:P50111>
       <a:P50107>1965-</a:P50107>
       <a:P50145 rdf:resource="http://viaf.org/viaf/184892317/español/spa"/>
+      <a:P50189 rdf:resource="http://viaf.org/viaf/184892317/español/spa"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="martnm">
       <a:P50111>Martín, M</a:P50111>
@@ -8892,14 +8920,15 @@
    <bibframe:Person rdf:about="molinafoixjuanantonio">
       <a:P50111>Molina Foix, Juan Antonio</a:P50111>
       <a:P50145 rdf:resource="http://www.wikidata.org/entity/q1129378/español/spa"/>
+      <a:P50145 rdf:resource="http://www.wikidata.org/entity/q725752/español/spa"/>
+      <a:P50145 rdf:resource="http://viaf.org/viaf/184892317/español/spa"/>
       <a:P50145 rdf:resource="http://viaf.org/viaf/1390154501894339210002/español/spa"/>
-      <a:P50161 rdf:resource="http://www.wikidata.org/entity/q725752/español/spa"/>
-      <a:P50161 rdf:resource="http://viaf.org/viaf/184892317/español/spa"/>
-      <a:P50161 rdf:resource="http://viaf.org/viaf/175571309/español/spa"/>
-      <a:P50161 rdf:resource="http://viaf.org/viaf/179061639/español/spa"/>
-      <a:P50161 rdf:resource="http://viaf.org/viaf/181625655/español/spa"/>
-      <a:P50161 rdf:resource="http://viaf.org/viaf/186734487/español/spa"/>
-      <a:P50161 rdf:resource="http://www.wikidata.org/entity/q860831/español/spa"/>
+      <a:P50145 rdf:resource="http://viaf.org/viaf/175571309/español/spa"/>
+      <a:P50145 rdf:resource="http://viaf.org/viaf/179061639/español/spa"/>
+      <a:P50145 rdf:resource="http://viaf.org/viaf/181625655/español/spa"/>
+      <a:P50145 rdf:resource="http://viaf.org/viaf/186734487/español/spa"/>
+      <a:P50145 rdf:resource="http://www.wikidata.org/entity/q860831/español/spa"/>
+      <a:P50189 rdf:resource="http://www.wikidata.org/entity/q1129378/español/spa"/>
       <a:P50189 rdf:resource="http://viaf.org/viaf/1390154501894339210002/español/spa"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="morellandr">
@@ -8916,19 +8945,20 @@
       <a:P50111>Márquez de la Plata, Lucía</a:P50111>
       <a:P50145 rdf:resource="http://viaf.org/viaf/186734487/español/spa"/>
       <a:P50145 rdf:resource="http://www.wikidata.org/entity/q860831/español/spa"/>
-      <a:P50161 rdf:resource="http://viaf.org/viaf/174141344/spa/spa"/>
+      <a:P50145 rdf:resource="http://viaf.org/viaf/174141344/spa/spa"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="muozadolfo">
       <a:P50111>Muñoz, Adolfo</a:P50111>
       <a:P50107>1964-</a:P50107>
+      <a:P50145 rdf:resource="/elmisteriodelosbailarineslucerodeplata/spa"/>
       <a:P50145 rdf:resource="http://www.wikidata.org/entity/q1150069/spa/spa"/>
-      <a:P50145 rdf:resource="/elhombredellabiotorcidoelcarbuncloazul/spa"/>
-      <a:P50161 rdf:resource="/elmisteriodelosbailarineslucerodeplata/spa"/>
+      <a:P50145 rdf:resource="http://viaf.org/viaf/65283845/elhombredellabiotorcidoelcarbuncloazul/spa"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="muozpuellesvicente">
       <a:P50111>Muñoz Puelles, Vicente</a:P50111>
       <a:P50107>1948-</a:P50107>
-      <a:P50161 rdf:resource="http://viaf.org/viaf/179061639/español/spa"/>
+      <a:P50528 rdf:resource="http://viaf.org/viaf/175571309/español/spa"/>
+      <a:P50528 rdf:resource="http://viaf.org/viaf/179061639/español/spa"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="nashjulie">
       <a:P50111>Nash, Julie</a:P50111>
@@ -8964,12 +8994,10 @@
    </bibframe:Person>
    <bibframe:Person rdf:about="parejaalejandro">
       <a:P50111>Pareja, Alejandro</a:P50111>
-      <a:P50145 rdf:resource="http://viaf.org/viaf/181625655/español/spa"/>
       <a:P50145 rdf:resource="http://viaf.org/viaf/186734487/español/spa"/>
-      <a:P50145 rdf:resource="/estudioenescarlataelsignodeloscuatro/spa"/>
-      <a:P50161 rdf:resource="http://viaf.org/viaf/186734487/español/spa"/>
-      <a:P50161 rdf:resource="http://viaf.org/viaf/179061639/español/spa"/>
-      <a:P50161 rdf:resource="http://viaf.org/viaf/181625655/español/spa"/>
+      <a:P50145 rdf:resource="http://viaf.org/viaf/179061639/español/spa"/>
+      <a:P50145 rdf:resource="http://viaf.org/viaf/181625655/español/spa"/>
+      <a:P50145 rdf:resource="http://viaf.org/viaf/65283845/estudioenescarlataelsignodeloscuatro/spa"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="parejangel">
       <ex:relatorcode>art</ex:relatorcode>
@@ -9072,16 +9100,16 @@
    <bibframe:Person rdf:about="prezprezmiguelngel">
       <a:P50111>Pérez Pérez, Miguel Ángel</a:P50111>
       <a:P50107>1963-</a:P50107>
-      <a:P50145 rdf:resource="/sherlockholmes/spa"/>
+      <a:P50145 rdf:resource="http://viaf.org/viaf/65283845/sherlockholmes/spa"/>
       <a:P50195 rdf:resource="http://viaf.org/viaf/175571309"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/175571309/español/spa"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="pujalsmaraengracia">
       <a:P50111>Pujals, María Engracia</a:P50111>
       <a:P50145 rdf:resource="http://www.wikidata.org/entity/q860831/español/spa"/>
-      <a:P50161 rdf:resource="http://viaf.org/viaf/186734487/español/spa"/>
-      <a:P50161 rdf:resource="http://www.wikidata.org/entity/q860831/español/spa"/>
-      <a:P50161 rdf:resource="http://viaf.org/viaf/174141344/spa/spa"/>
-      <a:P50161 rdf:resource="http://www.wikidata.org/entity/q1151761/spa/spa"/>
+      <a:P50145 rdf:resource="http://viaf.org/viaf/186734487/español/spa"/>
+      <a:P50145 rdf:resource="http://viaf.org/viaf/174141344/spa/spa"/>
+      <a:P50145 rdf:resource="http://www.wikidata.org/entity/q1151761/spa/spa"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="rabinowitzharry">
       <a:P50111>Rabinowitz, Harry</a:P50111>
@@ -9096,12 +9124,12 @@
       <a:P50111>Richardson, Ian</a:P50111>
       <a:P50107>1934-2007</a:P50107>
       <a:P50071 rdf:resource="/thehoundofthebaskervillespelculacinematogrfica1959/spa"/>
-      <a:P50161 rdf:resource="/thesignoffour/spa"/>
+      <a:P50071 rdf:resource="/thesignoffour/spa"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="riescoxavier">
       <a:P50111>Riesco, Xavier</a:P50111>
       <a:P50107>1972-</a:P50107>
-      <a:P50145 rdf:resource="/thecaseofladysannoxelcasodeladysannoxthefinalproblemelproblemafinal/eng"/>
+      <a:P50145 rdf:resource="http://viaf.org/viaf/65283845/thecaseofladysannoxelcasodeladysannoxthefinalproblemelproblemafinal/eng"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="riverofristrnpaula">
       <a:P50111>Rivero Friströn, Paula</a:P50111>
@@ -9118,11 +9146,10 @@
    </bibframe:Person>
    <bibframe:Person rdf:about="salvatorimauro">
       <a:P50111>Salvatori, Mauro</a:P50111>
-      <a:P50469 rdf:resource="/elmundoperdido/spa"/>
+      <a:P50469 rdf:resource="becchristophe/elmundoperdido/spa"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="sanchidrincidconsuelo">
       <a:P50111>Sanchidrián Cid, Consuelo</a:P50111>
-      <a:P50161 rdf:resource="http://viaf.org/viaf/179061639/español/spa"/>
       <a:P50189 rdf:resource="http://viaf.org/viaf/179061639/español/spa"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="santerbssantiagor">
@@ -9160,8 +9187,8 @@
    </bibframe:Person>
    <bibframe:Person rdf:about="snchezsanzramiro">
       <a:P50111>Sánchez Sanz, Ramiro</a:P50111>
-      <a:P50161 rdf:resource="http://viaf.org/viaf/181625655/español/spa"/>
       <a:P50195 rdf:resource="http://viaf.org/viaf/181625655"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/181625655/español/spa"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="steanerobert">
       <a:P50111>Steane, Robert</a:P50111>
@@ -9170,11 +9197,6 @@
    <bibframe:Person rdf:about="steelefredericdorr">
       <a:P50111>Steele, Frederic Dorr</a:P50111>
       <a:P50161 rdf:resource="http://www.wikidata.org/entity/q725752/spa/spa"/>
-   </bibframe:Person>
-   <bibframe:Person rdf:about="stevensonrobertlouis">
-      <a:P50111>Stevenson, Robert Louis</a:P50111>
-      <a:P50107>1850-1894</a:P50107>
-      <a:P50161 rdf:resource="/olalla/spa"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="stibane">
       <a:P50111>Stibane</a:P50111>
@@ -9197,9 +9219,9 @@
    <bibframe:Person rdf:about="tha">
       <a:P50111>Tha</a:P50111>
       <a:P50107>1956-</a:P50107>
-      <a:P50161 rdf:resource="/elmisteriodelosbailarineslucerodeplata/spa"/>
-      <a:P50161 rdf:resource="http://viaf.org/viaf/181625655/español/spa"/>
-      <a:P50469 rdf:resource="/elhombredellabiotorcidoelcarbuncloazul/spa"/>
+      <a:P50469 rdf:resource="/elmisteriodelosbailarineslucerodeplata/spa"/>
+      <a:P50469 rdf:resource="http://viaf.org/viaf/181625655/español/spa"/>
+      <a:P50469 rdf:resource="http://viaf.org/viaf/65283845/elhombredellabiotorcidoelcarbuncloazul/spa"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="timminsnancy">
       <ex:relatorcode>cre</ex:relatorcode>
@@ -9225,7 +9247,9 @@
       <a:P50111>Unglik, Richard</a:P50111>
       <a:P50107>1973?-</a:P50107>
       <a:P50195 rdf:resource="/lechiendesbaskerville"/>
-      <a:P50469 rdf:resource="/lechiendesbaskerville/spa"/>
+      <a:P50195 rdf:resource="unglikrichard/lechiendesbaskerville/spa"/>
+      <a:P50469 rdf:resource="/lechiendesbaskerville"/>
+      <a:P50469 rdf:resource="unglikrichard/lechiendesbaskerville/spa"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="urceloyjess">
       <a:P50111>Urceloy, Jesús</a:P50111>
@@ -9239,15 +9263,15 @@
    </bibframe:Person>
    <bibframe:Person rdf:about="veraguardiolaluisa">
       <a:P50111>Vera Guardiola, Luisa</a:P50111>
-      <a:P50469 rdf:resource="/estudioenescarlata/spa"/>
+      <a:P50469 rdf:resource="iguezbarrenamaralourdes/estudioenescarlata/spa"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="vicentefernando">
       <a:P50111>Vicente, Fernando</a:P50111>
       <a:P50107>1963-</a:P50107>
-      <a:P50161 rdf:resource="http://viaf.org/viaf/175571309/español/spa"/>
-      <a:P50161 rdf:resource="http://viaf.org/viaf/179061639/español/spa"/>
+      <a:P50469 rdf:resource="http://viaf.org/viaf/175571309/español/spa"/>
       <a:P50469 rdf:resource="http://viaf.org/viaf/181625655/español/spa"/>
       <a:P50469 rdf:resource="http://viaf.org/viaf/186734487/español/spa"/>
+      <a:P50469 rdf:resource="http://viaf.org/viaf/179061639/español/spa"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="vidalitubaujordi">
       <a:P50111>Vidal i Tubau, Jordi</a:P50111>
@@ -9330,17 +9354,6 @@
       <bibframe:translationOf rdf:resource="http://viaf.org/viaf/179668970"/>
       <w:P10065 rdf:resource="http://viaf.org/viaf/65283845"/>
    </bibframe:Work>
-   <bibframe:Work rdf:about="/elhombredellabiotorcidoelcarbuncloazul/spa">
-      <e:P20006>spa</e:P20006>
-      <w:P10088>El hombre del labio torcido ;</w:P10088>
-      <w:P10088>El carbunclo azul</w:P10088>
-      <w:P30117>Arthur Conan Doyle ; ilustraciones Tha ; traducción Adolfo Muñoz ; notas y actividades Rebeca Martín</w:P30117>
-      <bibframe:hasInstance rdf:resource="urn:isbn:9788468222134"/>
-      <bibframe:hasPart rdf:resource="http://www.wikidata.org/entity/q1140678/spa/spa"/>
-      <bibframe:hasPart rdf:resource="http://www.wikidata.org/entity/q1151748/spa/spa"/>
-      <e:P20037 rdf:resource="muozadolfo"/>
-      <m:P30321 rdf:resource="tha"/>
-   </bibframe:Work>
    <bibframe:Work rdf:about="/elmastndelosbaskervilleymemoriasdesherlockholmes/spa">
       <e:P20006>spa</e:P20006>
       <w:P10088>El mastín de los Baskerville</w:P10088>
@@ -9360,19 +9373,10 @@
       <w:P30117>Arthur Conan Doyle ; ilustraciones, Tha ; traducción, Adolfo Muñoz ; actividades, Jesús Jiménez Reinaldo</w:P30117>
       <bibframe:hasInstance rdf:resource="urn:isbn:9788468201108"/>
       <bibframe:hasPart rdf:resource="http://www.wikidata.org/entity/q1151761/spa/spa"/>
-      <e:P20053 rdf:resource="tha"/>
-      <e:P20053 rdf:resource="muozadolfo"/>
+      <e:P20037 rdf:resource="muozadolfo"/>
       <e:P20053 rdf:resource="jimnezreinaldojess"/>
+      <m:P30321 rdf:resource="tha"/>
       <w:P10065 rdf:resource="http://viaf.org/viaf/65283845"/>
-   </bibframe:Work>
-   <bibframe:Work rdf:about="/elmundoperdido/spa">
-      <e:P20006>spa</e:P20006>
-      <w:P10088>El mundo perdido</w:P10088>
-      <w:P30117>guión, Christophe Bec ; dibujo, Fabrizio Faina y Mauro Salvatori ; color, Andrea Scoppetta, Digikore Studios, Axel Gonzalbo</w:P30117>
-      <bibframe:hasInstance rdf:resource="urn:isbn:9788417085384"/>
-      <m:P30321 rdf:resource="fainafabrizio"/>
-      <m:P30321 rdf:resource="salvatorimauro"/>
-      <w:adaptationOfWork.en rdf:resource="http://viaf.org/viaf/294145857904223021237"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="/elperrodelosbaskerville/spa">
       <e:P20006>spa</e:P20006>
@@ -9482,24 +9486,6 @@
       <e:P20053 rdf:resource="burgosfunesjorgelen"/>
       <w:P10065 rdf:resource="http://viaf.org/viaf/65283845"/>
    </bibframe:Work>
-   <bibframe:Work rdf:about="/enlasafuerasdelondresseguidodenuestraseoradelamuerte/spa">
-      <e:P20006>spa</e:P20006>
-      <w:P10088>En las afueras de Londres ;</w:P10088>
-      <w:P10088>seguido de Nuestra señora de la muerte</w:P10088>
-      <w:P30117>Arthur Conan Doyle ; traducción de Joaquín Gallardo</w:P30117>
-      <bibframe:hasInstance rdf:resource="urn:isbn:9788416034208"/>
-      <bibframe:hasPart rdf:resource="/unclejeremyshousehold/spa"/>
-      <e:P20037 rdf:resource="gallardojoaqun"/>
-      <e:P20053 rdf:resource="http://viaf.org/viaf/65283845"/>
-   </bibframe:Work>
-   <bibframe:Work rdf:about="/estudioenescarlata/spa">
-      <e:P20006>spa</e:P20006>
-      <w:P10088>Estudio en escarlata</w:P10088>
-      <w:P30117>Arthur Conan Doyle ; adaptación de Lourdes Íñiguez ; ilustraciones de Luisa Vera</w:P30117>
-      <bibframe:hasInstance rdf:resource="urn:isbn:9788467860948"/>
-      <m:P30321 rdf:resource="veraguardiolaluisa"/>
-      <w:adaptationOfWork.en rdf:resource="http://viaf.org/viaf/179061639"/>
-   </bibframe:Work>
    <bibframe:Work rdf:about="/estudioenescarlataelsignodeloscuatro/spa">
       <e:P20006>spa</e:P20006>
       <w:P10088>Estudio en escarlata</w:P10088>
@@ -9508,20 +9494,15 @@
       <w:P30117>Sir Arthur Conan Doyle ; [traducción del inglés, Carlos Millet]</w:P30117>
       <w:P30117>Arthur Conan Doyle ; [traducciones, Armando Lázaro Ros ; autor de la semblanza biográfica, Ramón Sumoy]</w:P30117>
       <w:P30117>Arthur Conan Doyle ; [edición de, Alberto Laiseca ; traducción, Jorge León Burgos Funes]</w:P30117>
-      <w:P10088>Estudio en escarlata ;</w:P10088>
-      <w:P30117>Sir Arhtur Conan Doyle ; ilustraciones de John Coulthart ; [traducción, Alejandro Pareja Rodríguez]</w:P30117>
       <bibframe:hasInstance rdf:resource="urn:isbn:9788467241846"/>
       <bibframe:hasInstance rdf:resource="http://example.org/mimo0000966746"/>
       <bibframe:hasInstance rdf:resource="urn:isbn:8447304930"/>
       <bibframe:hasInstance rdf:resource="urn:isbn:9788497637954"/>
-      <bibframe:hasInstance rdf:resource="urn:isbn:9788415618874"/>
       <bibframe:hasPart rdf:resource="http://viaf.org/viaf/184892317/spa/spa"/>
       <bibframe:hasPart rdf:resource="http://viaf.org/viaf/179061639/spa/spa"/>
       <e:P20037 rdf:resource="http://viaf.org/viaf/120203535"/>
-      <e:P20037 rdf:resource="parejaalejandro"/>
       <e:P20053 rdf:resource="laisecaalberto"/>
       <e:P20053 rdf:resource="burgosfunesjorgelen"/>
-      <m:P30321 rdf:resource="coulthartjohn"/>
       <w:P10065 rdf:resource="http://viaf.org/viaf/65283845"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="/estudioenescarlataunanovelagrficadesherlockholmes/spa">
@@ -9614,7 +9595,9 @@
    </bibframe:Work>
    <bibframe:Work rdf:about="/lechiendesbaskerville">
       <w:P10088>Le chien des Baskerville</w:P10088>
+      <bibframe:translation rdf:resource="unglikrichard/lechiendesbaskerville/spa"/>
       <bibframe:translation rdf:resource="/lechiendesbaskerville/spa"/>
+      <m:P30321 rdf:resource="unglikrichard"/>
       <w:P10061 rdf:resource="unglikrichard"/>
       <w:P10065 rdf:resource="duchteauandrpaul"/>
       <w:P10142 rdf:resource="http://viaf.org/viaf/181625655"/>
@@ -9623,17 +9606,11 @@
       <e:P20006>spa</e:P20006>
       <w:P10088>Le chien des Baskerville</w:P10088>
       <e:P20006>Español</e:P20006>
-      <w:P10088>Sherlock Holmes y el perro de los Baskerville</w:P10088>
-      <w:P10088>adaptación playmobilesca de la novela de Sir Arthur Conan Doyle</w:P10088>
-      <w:P30117>Richard Unglik ; [traducción del francés, Mercedes Corral]</w:P30117>
       <w:P10088>El perro de los Baskerville</w:P10088>
       <w:P30117>de Sir Arthur Conan Doyle ; ambientación, André-Paul Duchâteau ; dibujos, Stibane ; [traducción, Mireia Porta i Arnau]</w:P30117>
-      <bibframe:hasInstance rdf:resource="urn:isbn:9788467580198"/>
       <bibframe:hasInstance rdf:resource="urn:isbn:8477229317"/>
       <bibframe:translationOf rdf:resource="/lechiendesbaskerville"/>
-      <e:P20037 rdf:resource="corralmercedes"/>
       <e:P20053 rdf:resource="stibane"/>
-      <m:P30321 rdf:resource="unglikrichard"/>
       <w:P10065 rdf:resource="duchteauandrpaul"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="/lordjim/spa">
@@ -9668,30 +9645,23 @@
       <w:P30117>R.L. Stevenson. El valle del terror / A. Conan Doyle. Una pariente pobre / Madame Bourdon</w:P30117>
       <bibframe:hasInstance rdf:resource="http://example.org/mimo0002144306"/>
       <bibframe:hasPart rdf:resource="http://viaf.org/viaf/175571309/spa/spa"/>
+      <bibframe:hasPart rdf:resource="/olalla/spa"/>
       <bibframe:hasPart rdf:resource="/uneparentepauvre/spa"/>
-      <e:P20053 rdf:resource="stevensonrobertlouis"/>
+      <bibframe:partOf rdf:resource="/olalla/spa"/>
+      <bibframe:translationOf rdf:resource="http://viaf.org/viaf/175571309"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="/satanundischariot/spa">
       <w:P10088>Satan und Ischariot</w:P10088>
       <bibframe:partOf rdf:resource="/trescorazones/spa"/>
       <bibframe:translationOf rdf:resource="http://www.wikidata.org/entity/q19086389"/>
    </bibframe:Work>
-   <bibframe:Work rdf:about="/sherlock/eng">
-      <e:P20006>eng</e:P20006>
-      <w:P10088>Sherlock</w:P10088>
-      <w:P30117>by Sir Arthur Conan Doyle ; retold by Richard MacAndrew</w:P30117>
-      <bibframe:hasInstance rdf:resource="urn:isbn:9781107621862"/>
-      <w:adaptationOfWork.en rdf:resource="http://viaf.org/viaf/186734487"/>
-   </bibframe:Work>
    <bibframe:Work rdf:about="/sherlockholmes/spa">
       <e:P20006>spa</e:P20006>
       <w:P10088>Sherlock Holmes</w:P10088>
       <w:P30117>Arthur Conan Doyle ; traducción y notas de Juan Manuel Ibeas Delgado y José Luis López Muñoz</w:P30117>
-      <w:P30117>Arthur Conan Doyle ; traducción y notas de Álvaro Delgado Gal y Miguel Ángel Pérez Pérez</w:P30117>
       <w:P30117>[adaptación de textos, Núria Ochoa ; ilustraciones, Cristina Picazo]</w:P30117>
       <w:P30117>Arthur Conan Doyle ; traducción y notas de Álvaro Delgado Gal y Juan Manuel Ibeas Delgado</w:P30117>
       <bibframe:hasInstance rdf:resource="urn:isbn:9788420666464"/>
-      <bibframe:hasInstance rdf:resource="urn:isbn:9788420689760"/>
       <bibframe:hasInstance rdf:resource="urn:isbn:9788498155488"/>
       <bibframe:hasInstance rdf:resource="urn:isbn:9788420666488"/>
       <bibframe:hasInstance rdf:resource="urn:isbn:9788420691312"/>
@@ -9701,10 +9671,8 @@
       <bibframe:hasPart rdf:resource="http://viaf.org/viaf/179061639/spa/spa"/>
       <e:P20037 rdf:resource="http://viaf.org/viaf/170913932"/>
       <e:P20037 rdf:resource="lpezmuozjosluis"/>
-      <e:P20037 rdf:resource="prezprezmiguelngel"/>
       <e:P20037 rdf:resource="delgadogallvaro"/>
       <e:P20053 rdf:resource="picazocristina"/>
-      <e:P20053 rdf:resource="delgadogallvaro"/>
       <w:P10065 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10065 rdf:resource="ochoanria"/>
       <w:adaptationOfWork.en rdf:resource="http://viaf.org/viaf/186734487"/>
@@ -9716,7 +9684,6 @@
       <w:P30117>Sir Arthur Conan Doyle ; illustrated by Gianluca Garofalo ; retold by Gina D.B. Clemen</w:P30117>
       <bibframe:hasInstance rdf:resource="urn:isbn:9788431693732"/>
       <bibframe:hasPart rdf:resource="http://viaf.org/viaf/1390154501894339210002/eng"/>
-      <e:P20053 rdf:resource="garofalogianluca"/>
       <m:P30321 rdf:resource="garofalogianluca"/>
       <w:P10065 rdf:resource="clemenginadb"/>
       <w:adaptationOfWork.en rdf:resource="http://www.wikidata.org/entity/q3041819"/>
@@ -9817,16 +9784,6 @@
       <w:creatorAgentOfWork.en rdf:resource="tomschaterry"/>
       <w:creatorAgentOfWork.en rdf:resource="alberspeggy"/>
    </bibframe:Work>
-   <bibframe:Work rdf:about="/thecaseofladysannoxelcasodeladysannoxthefinalproblemelproblemafinal/eng">
-      <e:P20006>eng</e:P20006>
-      <w:P10088>The case of Lady Sannox =</w:P10088>
-      <w:P10088>El caso de Lady Sannox ; The final problem = El problema final</w:P10088>
-      <w:P30117>Arthur Conan Doyle ; [traducción de Xavier Riesco]</w:P30117>
-      <bibframe:hasInstance rdf:resource="urn:isbn:9788416774524"/>
-      <bibframe:hasPart rdf:resource="/thefinalproblem/eng"/>
-      <e:P20037 rdf:resource="riescoxavier"/>
-      <w:P10065 rdf:resource="http://viaf.org/viaf/65283845"/>
-   </bibframe:Work>
    <bibframe:Work rdf:about="/thefartheradventuresofrobinsoncrusoe/spa">
       <w:P10088>The farther adventures of Robinson Crusoe</w:P10088>
       <bibframe:partOf rdf:resource="/trescorazones/spa"/>
@@ -9834,8 +9791,8 @@
    </bibframe:Work>
    <bibframe:Work rdf:about="/thefinalproblem/eng">
       <w:P10088>The final problem</w:P10088>
-      <bibframe:partOf rdf:resource="/thecaseofladysannoxelcasodeladysannoxthefinalproblemelproblemafinal/eng"/>
-      <w:P10065 rdf:resource="http://viaf.org/viaf/65283845"/>
+      <bibframe:partOf rdf:resource="http://viaf.org/viaf/65283845/thecaseofladysannoxelcasodeladysannoxthefinalproblemelproblemafinal/eng"/>
+      <bibframe:translationOf rdf:resource="http://www.wikidata.org/entity/q18546597"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="/theflayedhandotherfamousmysteries/eng">
       <e:P20006>eng</e:P20006>
@@ -9987,15 +9944,14 @@
       <w:P30117>director, Desmond Davies ; music composed and conducted by Harry Rabinowitz ; screenplay by Charles Edward Pogue</w:P30117>
       <bibframe:hasInstance rdf:resource="http://example.org/bivi0000008331"/>
       <bibframe:hasInstance rdf:resource="http://example.org/bivi0000004423"/>
-      <bibframe:hasPart rdf:resource="http://viaf.org/viaf/184892317/spa/spa"/>
       <bibframe:translationOf rdf:resource="/thesignoffour"/>
       <e:P20012 rdf:resource="brettjeremy"/>
       <e:P20012 rdf:resource="hardwickeedward"/>
       <e:P20012 rdf:resource="seagrovejenny"/>
+      <e:P20012 rdf:resource="richardsonian"/>
       <e:P20053 rdf:resource="davisdesmond"/>
       <e:P20053 rdf:resource="rabinowitzharry"/>
       <e:P20053 rdf:resource="poguecharlesedward"/>
-      <e:P20053 rdf:resource="richardsonian"/>
       <e:P20053 rdf:resource="healydavid"/>
       <e:P20053 rdf:resource="waltersthorley"/>
       <w:P10013 rdf:resource="hammondpeter"/>
@@ -10024,7 +9980,7 @@
    </bibframe:Work>
    <bibframe:Work rdf:about="/unclejeremyshousehold/spa">
       <w:P10088>Uncle Jeremy's Household</w:P10088>
-      <bibframe:partOf rdf:resource="/enlasafuerasdelondresseguidodenuestraseoradelamuerte/spa"/>
+      <bibframe:partOf rdf:resource="http://viaf.org/viaf/65283845/enlasafuerasdelondresseguidodenuestraseoradelamuerte/spa"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="/uneparentepauvre/spa">
       <w:P10088>Une parente pauvre</w:P10088>
@@ -10056,6 +10012,16 @@
       <w:P10053 rdf:resource="gowerspatrick"/>
       <w:P10064 rdf:resource="wyndhamdaviesjune"/>
    </bibframe:Work>
+   <bibframe:Work rdf:about="becchristophe/elmundoperdido/spa">
+      <e:P20006>spa</e:P20006>
+      <w:P10088>El mundo perdido</w:P10088>
+      <w:P30117>guión, Christophe Bec ; dibujo, Fabrizio Faina y Mauro Salvatori ; color, Andrea Scoppetta, Digikore Studios, Axel Gonzalbo</w:P30117>
+      <bibframe:hasInstance rdf:resource="urn:isbn:9788417085384"/>
+      <m:P30321 rdf:resource="fainafabrizio"/>
+      <m:P30321 rdf:resource="salvatorimauro"/>
+      <w:P10061 rdf:resource="becchristophe"/>
+      <w:adaptationOfWork.en rdf:resource="http://viaf.org/viaf/294145857904223021237"/>
+   </bibframe:Work>
    <bibframe:Work rdf:about="http://viaf.org/viaf/">
       <w:P10088>Uncle Bernac</w:P10088>
       <bibframe:translation rdf:resource="http://viaf.org/viaf//español/spa"/>
@@ -10078,6 +10044,7 @@
       <bibframe:hasInstance rdf:resource="urn:isbn:9788415177982"/>
       <bibframe:translationOf rdf:resource="http://viaf.org/viaf/"/>
       <e:P20037 rdf:resource="machadomanuel"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://viaf.org/viaf/1390154501894339210002">
       <w:P10088>His last bow</w:P10088>
@@ -10130,13 +10097,15 @@
       <bibframe:hasInstance rdf:resource="urn:isbn:9788420665672"/>
       <bibframe:hasInstance rdf:resource="urn:isbn:9788490329719"/>
       <bibframe:translationOf rdf:resource="http://viaf.org/viaf/1390154501894339210002"/>
+      <e:P20037 rdf:resource="ingbergpablo"/>
       <e:P20037 rdf:resource="molinafoixjuanantonio"/>
       <e:P20037 rdf:resource="http://viaf.org/viaf/120203535"/>
       <e:P20037 rdf:resource="http://viaf.org/viaf/170913932"/>
       <e:P20037 rdf:resource="camargojuan"/>
-      <e:P20053 rdf:resource="floresenrique"/>
+      <m:P30321 rdf:resource="floresenrique"/>
       <w:P10055 rdf:resource="ingbergpablo"/>
       <w:P10055 rdf:resource="molinafoixjuanantonio"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10065 rdf:resource="http://viaf.org/viaf/65283845"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://viaf.org/viaf/1390154501894339210002/spa/spa">
@@ -10167,6 +10136,7 @@
       <bibframe:hasInstance rdf:resource="urn:isbn:9788416774012"/>
       <bibframe:translationOf rdf:resource="http://viaf.org/viaf/174141344"/>
       <e:P20037 rdf:resource="polignacjeannede"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://viaf.org/viaf/174141344/spa/spa">
       <e:P20006>spa</e:P20006>
@@ -10225,14 +10195,14 @@
       <bibframe:translationOf rdf:resource="http://viaf.org/viaf/174141344"/>
       <e:P20037 rdf:resource="http://viaf.org/viaf/120203535"/>
       <e:P20037 rdf:resource="http://viaf.org/viaf/170913932"/>
+      <e:P20037 rdf:resource="campbellenrique"/>
+      <e:P20037 rdf:resource="pujalsmaraengracia"/>
       <e:P20037 rdf:resource="http://viaf.org/viaf/84477527"/>
       <e:P20037 rdf:resource="camargojuan"/>
-      <e:P20053 rdf:resource="http://viaf.org/viaf/170913932"/>
-      <e:P20053 rdf:resource="campbellenrique"/>
-      <e:P20053 rdf:resource="pujalsmaraengracia"/>
+      <e:P20037 rdf:resource="mrquezdelaplataluca"/>
+      <e:P20037 rdf:resource="appeceixsilvana"/>
       <e:P20053 rdf:resource="klingerleslies"/>
-      <e:P20053 rdf:resource="mrquezdelaplataluca"/>
-      <e:P20053 rdf:resource="appeceixsilvana"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10065 rdf:resource="http://viaf.org/viaf/65283845"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://viaf.org/viaf/175571309">
@@ -10243,6 +10213,7 @@
       <bibframe:translation rdf:resource="http://viaf.org/viaf/181625655/spa/spa"/>
       <bibframe:translation rdf:resource="http://viaf.org/viaf/179061639/spa/spa"/>
       <bibframe:translation rdf:resource="http://viaf.org/viaf/1390154501894339210002/spa/spa"/>
+      <bibframe:translation rdf:resource="/olalla/spa"/>
       <bibframe:translation rdf:resource="/uneparentepauvre/spa"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10061 rdf:resource="prezprezmiguelngel"/>
@@ -10255,6 +10226,7 @@
       <w:P30117>Arthur Conan Doyle</w:P30117>
       <bibframe:hasInstance rdf:resource="urn:isbn:9788417079406"/>
       <bibframe:hasInstance rdf:resource="urn:isbn:9788490019245"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://viaf.org/viaf/175571309/español/spa">
       <e:P20006>spa</e:P20006>
@@ -10307,15 +10279,18 @@
       <bibframe:hasInstance rdf:resource="urn:isbn:8485957938"/>
       <bibframe:translationOf rdf:resource="http://viaf.org/viaf/175571309"/>
       <e:P20037 rdf:resource="ibeasaltamirajuanmanuel"/>
+      <e:P20037 rdf:resource="http://viaf.org/viaf/305867914"/>
       <e:P20037 rdf:resource="http://viaf.org/viaf/120203535"/>
+      <e:P20037 rdf:resource="molinafoixjuanantonio"/>
       <e:P20037 rdf:resource="http://viaf.org/viaf/170913932"/>
       <e:P20053 rdf:resource="manerojimnezlaura"/>
-      <e:P20053 rdf:resource="vicentefernando"/>
-      <e:P20053 rdf:resource="http://viaf.org/viaf/305867914"/>
       <e:P20053 rdf:resource="cusfrancisco"/>
       <e:P20053 rdf:resource="portabaldomero"/>
-      <e:P20053 rdf:resource="molinafoixjuanantonio"/>
+      <m:P30321 rdf:resource="vicentefernando"/>
       <m:P30321 rdf:resource="floresenrique"/>
+      <m:P30327 rdf:resource="muozpuellesvicente"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
+      <w:P10061 rdf:resource="prezprezmiguelngel"/>
       <w:P10065 rdf:resource="http://viaf.org/viaf/65283845"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://viaf.org/viaf/175571309/spa/spa">
@@ -10332,8 +10307,9 @@
       <bibframe:partOf rdf:resource="/elvalledelmiedounanovelagrficadesherlockholmesadaptacindelanovelaoriginaldesirarthurconandoyle/spa"/>
       <bibframe:partOf rdf:resource="/sultimosaludoenelescenarioelvalledelterror/spa"/>
       <bibframe:partOf rdf:resource="/elsabuesodelosbaskervilleelvalledelterror/spa"/>
-      <bibframe:partOf rdf:resource="/sherlockholmes/spa"/>
+      <bibframe:partOf rdf:resource="http://viaf.org/viaf/65283845/sherlockholmes/spa"/>
       <bibframe:partOf rdf:resource="/elvalledelterrorestudioenescarlata/spa"/>
+      <bibframe:partOf rdf:resource="/sherlockholmes/spa"/>
       <bibframe:partOf rdf:resource="/elvalledelterroryrecuerdosdesherlockholmes/spa"/>
       <bibframe:partOf rdf:resource="/olalla/spa"/>
       <bibframe:translationOf rdf:resource="http://viaf.org/viaf/175571309"/>
@@ -10341,6 +10317,7 @@
       <bibframe:translationOf rdf:resource="http://viaf.org/viaf/179061639"/>
       <bibframe:translationOf rdf:resource="http://viaf.org/viaf/1390154501894339210002"/>
       <e:P20053 rdf:resource="portabaldomero"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10065 rdf:resource="culbardian"/>
       <w:P10065 rdf:resource="http://viaf.org/viaf/65283845"/>
    </bibframe:Work>
@@ -10372,6 +10349,7 @@
       <bibframe:hasInstance rdf:resource="urn:isbn:9788494543913"/>
       <bibframe:hasInstance rdf:resource="urn:isbn:9788490019146"/>
       <bibframe:hasInstance rdf:resource="urn:isbn:8497940369"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10065 rdf:resource="http://viaf.org/viaf/65283845"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://viaf.org/viaf/179061639/español-inglés/spa">
@@ -10385,6 +10363,7 @@
       <bibframe:hasInstance rdf:resource="urn:isbn:9788417079963"/>
       <bibframe:translationOf rdf:resource="http://viaf.org/viaf/179061639"/>
       <e:P20037 rdf:resource="http://viaf.org/viaf/305867914"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://viaf.org/viaf/179061639/español/spa">
       <e:P20006>spa</e:P20006>
@@ -10489,39 +10468,35 @@
       <bibframe:hasInstance rdf:resource="urn:isbn:9788491053507"/>
       <bibframe:translationOf rdf:resource="http://viaf.org/viaf/179061639"/>
       <e:P20037 rdf:resource="http://viaf.org/viaf/120203535"/>
+      <e:P20037 rdf:resource="delgadogallvaro"/>
       <e:P20037 rdf:resource="campbellenrique"/>
-      <e:P20037 rdf:resource="borreguerosanchidrinsandramara"/>
-      <e:P20037 rdf:resource="http://viaf.org/viaf/305867914"/>
-      <e:P20037 rdf:resource="appeceixsilvana"/>
       <e:P20037 rdf:resource="http://viaf.org/viaf/84477527"/>
       <e:P20037 rdf:resource="busquetsnstor"/>
+      <e:P20037 rdf:resource="parejaalejandro"/>
+      <e:P20037 rdf:resource="borreguerosanchidrinsandramara"/>
+      <e:P20037 rdf:resource="http://viaf.org/viaf/305867914"/>
+      <e:P20037 rdf:resource="molinafoixjuanantonio"/>
+      <e:P20037 rdf:resource="appeceixsilvana"/>
       <e:P20053 rdf:resource="torresburgoszoraidade"/>
       <e:P20053 rdf:resource="escribcarmela"/>
       <e:P20053 rdf:resource="casanovasjosmara"/>
       <e:P20053 rdf:resource="millsjuanjos"/>
       <e:P20053 rdf:resource="hutchinsongeo"/>
-      <e:P20053 rdf:resource="delgadogallvaro"/>
-      <e:P20053 rdf:resource="http://viaf.org/viaf/84477527"/>
-      <e:P20053 rdf:resource="busquetsnstor"/>
-      <e:P20053 rdf:resource="parejaalejandro"/>
       <e:P20053 rdf:resource="senmartnatalia"/>
       <e:P20053 rdf:resource="lijmaersusana"/>
       <e:P20053 rdf:resource="portabaldomero"/>
       <e:P20053 rdf:resource="bastidaramn"/>
       <e:P20053 rdf:resource="http://viaf.org/viaf/51519824"/>
       <e:P20053 rdf:resource="agrsfrancisco"/>
-      <e:P20053 rdf:resource="floresenrique"/>
-      <e:P20053 rdf:resource="campbellenrique"/>
-      <e:P20053 rdf:resource="molinafoixjuanantonio"/>
-      <e:P20053 rdf:resource="sanchidrincidconsuelo"/>
-      <e:P20053 rdf:resource="borreguerosanchidrinsandramara"/>
-      <e:P20053 rdf:resource="muozpuellesvicente"/>
       <e:P20053 rdf:resource="sezfernando"/>
       <e:P20053 rdf:resource="losadadazeva"/>
       <e:P20053 rdf:resource="espinetalfonso"/>
-      <e:P20053 rdf:resource="vicentefernando"/>
+      <m:P30321 rdf:resource="floresenrique"/>
+      <m:P30321 rdf:resource="vicentefernando"/>
       <m:P30321 rdf:resource="fristondh"/>
+      <m:P30327 rdf:resource="muozpuellesvicente"/>
       <w:P10055 rdf:resource="sanchidrincidconsuelo"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10065 rdf:resource="http://viaf.org/viaf/65283845"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://viaf.org/viaf/179061639/spa/spa">
@@ -10555,8 +10530,10 @@
       <bibframe:partOf rdf:resource="/arthurconandoyleestudioenescarlatasolucionario/spa"/>
       <bibframe:partOf rdf:resource="/estudioenescarlataelsignodeloscuatro/spa"/>
       <bibframe:partOf rdf:resource="/trafalgar/spa"/>
-      <bibframe:partOf rdf:resource="/sherlockholmes/spa"/>
+      <bibframe:partOf rdf:resource="http://viaf.org/viaf/65283845/sherlockholmes/spa"/>
       <bibframe:partOf rdf:resource="/elvalledelterrorestudioenescarlata/spa"/>
+      <bibframe:partOf rdf:resource="/sherlockholmes/spa"/>
+      <bibframe:partOf rdf:resource="http://viaf.org/viaf/65283845/estudioenescarlataelsignodeloscuatro/spa"/>
       <bibframe:partOf rdf:resource="/negra/spa"/>
       <bibframe:translationOf rdf:resource="http://viaf.org/viaf/179061639"/>
       <bibframe:translationOf rdf:resource="http://viaf.org/viaf/184892317"/>
@@ -10631,9 +10608,9 @@
       <bibframe:translation rdf:resource="http://viaf.org/viaf/181625655/catalán/spa"/>
       <w:P10025 rdf:resource="/thehoundofthebaskervillespelculacinematogrfica1959"/>
       <w:P10025 rdf:resource="/thehoundofthebaskervilles"/>
+      <w:P10061 rdf:resource="snchezsanzramiro"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10061 rdf:resource="bremnclara"/>
-      <w:P10061 rdf:resource="snchezsanzramiro"/>
       <w:P10065 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10155 rdf:resource="/lechiendesbaskerville"/>
       <x:P00014 rdf:resource="/laffaireduchiendesbaskerville"/>
@@ -10663,6 +10640,7 @@
       <bibframe:hasInstance rdf:resource="urn:isbn:8497891058"/>
       <bibframe:hasInstance rdf:resource="http://example.org/bimo0001748854"/>
       <bibframe:hasInstance rdf:resource="urn:isbn:9788490019269"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10065 rdf:resource="http://viaf.org/viaf/65283845"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://viaf.org/viaf/181625655/español-inglés/spa">
@@ -10679,6 +10657,7 @@
       <e:P20037 rdf:resource="http://viaf.org/viaf/305867914"/>
       <e:P20037 rdf:resource="campbellenrique"/>
       <w:P10055 rdf:resource="cardonacastrofranciscoluis"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://viaf.org/viaf/181625655/español/spa">
       <e:P20006>spa</e:P20006>
@@ -10836,26 +10815,21 @@
       <bibframe:hasInstance rdf:resource="urn:isbn:9788420665689"/>
       <bibframe:translationOf rdf:resource="http://viaf.org/viaf/181625655"/>
       <e:P20037 rdf:resource="http://viaf.org/viaf/120203535"/>
+      <e:P20037 rdf:resource="http://viaf.org/viaf/84477527"/>
+      <e:P20037 rdf:resource="campbellenrique"/>
       <e:P20037 rdf:resource="lpezmuozjosluis"/>
+      <e:P20037 rdf:resource="huanquilourdes"/>
       <e:P20037 rdf:resource="parejaalejandro"/>
       <e:P20037 rdf:resource="appeceixsilvana"/>
-      <e:P20037 rdf:resource="campbellenrique"/>
       <e:P20037 rdf:resource="gasolanna"/>
-      <e:P20037 rdf:resource="huanquilourdes"/>
+      <e:P20037 rdf:resource="molinafoixjuanantonio"/>
       <e:P20053 rdf:resource="olivaresjavier"/>
-      <e:P20053 rdf:resource="http://viaf.org/viaf/84477527"/>
-      <e:P20053 rdf:resource="campbellenrique"/>
-      <e:P20053 rdf:resource="snchezsanzramiro"/>
-      <e:P20053 rdf:resource="http://viaf.org/viaf/2555146"/>
       <e:P20053 rdf:resource="doyagueluism"/>
       <e:P20053 rdf:resource="lazcanoalessia"/>
       <e:P20053 rdf:resource="santerbssantiagor"/>
-      <e:P20053 rdf:resource="huanquilourdes"/>
       <e:P20053 rdf:resource="bonannoantonio"/>
-      <e:P20053 rdf:resource="parejaalejandro"/>
       <e:P20053 rdf:resource="costalvarezarturo"/>
       <e:P20053 rdf:resource="bernabeumornnatalia"/>
-      <e:P20053 rdf:resource="tha"/>
       <e:P20053 rdf:resource="http://viaf.org/viaf/51519824"/>
       <e:P20053 rdf:resource="portabaldomero"/>
       <e:P20053 rdf:resource="bastidaramn"/>
@@ -10867,15 +10841,18 @@
       <e:P20053 rdf:resource="escribcarmela"/>
       <e:P20053 rdf:resource="vidalitubaujordi"/>
       <e:P20053 rdf:resource="maletoriol"/>
-      <e:P20053 rdf:resource="floresenrique"/>
       <e:P20053 rdf:resource="garcapavnfrancisco"/>
-      <e:P20053 rdf:resource="molinafoixjuanantonio"/>
+      <m:P30321 rdf:resource="http://viaf.org/viaf/2555146"/>
       <m:P30321 rdf:resource="ghiuseleviassen"/>
       <m:P30321 rdf:resource="vicentefernando"/>
       <m:P30321 rdf:resource="senzdetejadacarlos"/>
-      <m:P30321 rdf:resource="http://viaf.org/viaf/2555146"/>
+      <m:P30321 rdf:resource="tha"/>
+      <m:P30321 rdf:resource="floresenrique"/>
       <w:P10055 rdf:resource="dezjulin"/>
       <w:P10055 rdf:resource="cardonacastrofranciscoluis"/>
+      <w:P10061 rdf:resource="snchezsanzramiro"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
+      <w:P10061 rdf:resource="bremnclara"/>
       <w:P10065 rdf:resource="http://viaf.org/viaf/65283845"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://viaf.org/viaf/181625655/spa/spa">
@@ -10901,6 +10878,10 @@
       <e:P20053 rdf:resource="http://viaf.org/viaf/51519824"/>
       <e:P20053 rdf:resource="portabaldomero"/>
       <w:P10065 rdf:resource="http://viaf.org/viaf/65283845"/>
+   </bibframe:Work>
+   <bibframe:Work rdf:about="http://viaf.org/viaf/181810457/spa">
+      <w:P10088>Beyond the City</w:P10088>
+      <bibframe:partOf rdf:resource="http://viaf.org/viaf/65283845/enlasafuerasdelondresseguidodenuestraseoradelamuerte/spa"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://viaf.org/viaf/181846531">
       <w:P10088>The speckled band</w:P10088>
@@ -10945,6 +10926,7 @@
       <bibframe:hasInstance rdf:resource="urn:isbn:8486182425"/>
       <bibframe:partOf rdf:resource="/theflayedhandotherfamousmysteries/eng"/>
       <e:P20053 rdf:resource="garretmichael"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10065 rdf:resource="http://viaf.org/viaf/65283845"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://viaf.org/viaf/184892317/español-inglés/spa">
@@ -10957,6 +10939,7 @@
       <bibframe:hasInstance rdf:resource="urn:isbn:9788494653131"/>
       <bibframe:translationOf rdf:resource="http://viaf.org/viaf/184892317"/>
       <e:P20037 rdf:resource="http://viaf.org/viaf/305867914"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://viaf.org/viaf/184892317/español/spa">
       <e:P20006>spa</e:P20006>
@@ -11027,18 +11010,19 @@
       <e:P20037 rdf:resource="campbellenrique"/>
       <e:P20037 rdf:resource="http://viaf.org/viaf/305867914"/>
       <e:P20037 rdf:resource="http://viaf.org/viaf/120203535"/>
+      <e:P20037 rdf:resource="molinafoixjuanantonio"/>
+      <e:P20037 rdf:resource="http://viaf.org/viaf/84477527"/>
       <e:P20037 rdf:resource="martnezrodolfo"/>
       <e:P20037 rdf:resource="santoyojuliocsar"/>
       <e:P20053 rdf:resource="capitainesnchezanabeatriz"/>
-      <e:P20053 rdf:resource="molinafoixjuanantonio"/>
-      <e:P20053 rdf:resource="http://viaf.org/viaf/84477527"/>
       <e:P20053 rdf:resource="portabaldomero"/>
       <e:P20053 rdf:resource="http://viaf.org/viaf/51519824"/>
       <e:P20053 rdf:resource="bastidaramn"/>
-      <e:P20053 rdf:resource="floresenrique"/>
-      <e:P20053 rdf:resource="campbellenrique"/>
+      <m:P30321 rdf:resource="floresenrique"/>
       <m:P30321 rdf:resource="svetlin"/>
+      <w:P10055 rdf:resource="martnezrodolfo"/>
       <w:P10055 rdf:resource="martnrebeca"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10065 rdf:resource="http://viaf.org/viaf/65283845"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://viaf.org/viaf/184892317/spa/spa">
@@ -11052,10 +11036,11 @@
       <bibframe:hasInstance rdf:resource="urn:isbn:8475741290"/>
       <bibframe:partOf rdf:resource="/sherlockholmes/spa"/>
       <bibframe:partOf rdf:resource="/estudioenescarlataelsignodeloscuatro/spa"/>
-      <bibframe:partOf rdf:resource="/thesignoffour/spa"/>
+      <bibframe:partOf rdf:resource="http://viaf.org/viaf/65283845/estudioenescarlataelsignodeloscuatro/spa"/>
       <bibframe:translationOf rdf:resource="http://viaf.org/viaf/181625655"/>
       <bibframe:translationOf rdf:resource="http://viaf.org/viaf/184892317"/>
       <bibframe:translationOf rdf:resource="http://viaf.org/viaf/179061639"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10065 rdf:resource="http://viaf.org/viaf/65283845"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://viaf.org/viaf/186734487">
@@ -11085,6 +11070,7 @@
       <bibframe:hasInstance rdf:resource="urn:isbn:9788417079352"/>
       <bibframe:hasInstance rdf:resource="urn:isbn:0863076785"/>
       <e:P20053 rdf:resource="messingsimon"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10065 rdf:resource="http://viaf.org/viaf/65283845"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://viaf.org/viaf/186734487/español-inglés/spa">
@@ -11096,6 +11082,7 @@
       <bibframe:hasInstance rdf:resource="urn:isbn:9788494510328"/>
       <bibframe:translationOf rdf:resource="http://viaf.org/viaf/186734487"/>
       <e:P20037 rdf:resource="http://viaf.org/viaf/305867914"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://viaf.org/viaf/186734487/español/spa">
       <e:P20006>spa</e:P20006>
@@ -11271,23 +11258,20 @@
       <bibframe:translationOf rdf:resource="http://viaf.org/viaf/186734487"/>
       <e:P20037 rdf:resource="http://viaf.org/viaf/120203535"/>
       <e:P20037 rdf:resource="mrquezdelaplataluca"/>
+      <e:P20037 rdf:resource="http://viaf.org/viaf/84477527"/>
       <e:P20037 rdf:resource="http://viaf.org/viaf/170913932"/>
       <e:P20037 rdf:resource="http://viaf.org/viaf/305867914"/>
-      <e:P20037 rdf:resource="http://viaf.org/viaf/84477527"/>
-      <e:P20037 rdf:resource="campbellenrique"/>
       <e:P20037 rdf:resource="parejaalejandro"/>
+      <e:P20037 rdf:resource="campbellenrique"/>
+      <e:P20037 rdf:resource="pujalsmaraengracia"/>
+      <e:P20037 rdf:resource="molinafoixjuanantonio"/>
       <e:P20053 rdf:resource="riambauesteve"/>
       <e:P20053 rdf:resource="jlb"/>
       <e:P20053 rdf:resource="aguilar"/>
-      <e:P20053 rdf:resource="http://viaf.org/viaf/84477527"/>
-      <e:P20053 rdf:resource="parejaalejandro"/>
-      <e:P20053 rdf:resource="campbellenrique"/>
       <e:P20053 rdf:resource="urceloyjess"/>
-      <e:P20053 rdf:resource="pujalsmaraengracia"/>
       <e:P20053 rdf:resource="almudvarmaraelena"/>
       <e:P20053 rdf:resource="gmezreajavier"/>
       <e:P20053 rdf:resource="fbregasf"/>
-      <e:P20053 rdf:resource="http://viaf.org/viaf/2555146"/>
       <e:P20053 rdf:resource="portabaldomero"/>
       <e:P20053 rdf:resource="tejerocorrecherj"/>
       <e:P20053 rdf:resource="eguillorjuancarlos"/>
@@ -11300,18 +11284,18 @@
       <e:P20053 rdf:resource="laisecaalberto"/>
       <e:P20053 rdf:resource="burgosfunesjorgelen"/>
       <e:P20053 rdf:resource="francsjos"/>
-      <e:P20053 rdf:resource="floresenrique"/>
       <e:P20053 rdf:resource="gimnezgraciamaraluisa"/>
       <e:P20053 rdf:resource="ferrerjim"/>
-      <e:P20053 rdf:resource="molinafoixjuanantonio"/>
       <e:P20053 rdf:resource="clubjoseph"/>
       <e:P20053 rdf:resource="capdevilaf"/>
       <e:P20053 rdf:resource="maraluisa"/>
       <e:P20053 rdf:resource="pradosisrael"/>
       <e:P20053 rdf:resource="prezandrsmaradolores"/>
       <m:P30321 rdf:resource="http://viaf.org/viaf/2555146"/>
+      <m:P30321 rdf:resource="floresenrique"/>
       <m:P30321 rdf:resource="vicentefernando"/>
       <w:P10055 rdf:resource="cardonacastrofranciscoluis"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10065 rdf:resource="http://viaf.org/viaf/65283845"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://viaf.org/viaf/186734487/spa/spa">
@@ -11337,6 +11321,7 @@
       <bibframe:translationOf rdf:resource="http://www.wikidata.org/entity/q860831"/>
       <e:P20037 rdf:resource="izquierdomaritza"/>
       <e:P20037 rdf:resource="http://viaf.org/viaf/120203535"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10065 rdf:resource="prezgaldsbenito"/>
       <w:P10065 rdf:resource="http://viaf.org/viaf/65283845"/>
    </bibframe:Work>
@@ -11380,6 +11365,7 @@
       <bibframe:hasInstance rdf:resource="urn:isbn:9788494510465"/>
       <bibframe:translationOf rdf:resource="http://viaf.org/viaf/294145857904223021237"/>
       <e:P20037 rdf:resource="http://viaf.org/viaf/305867914"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://viaf.org/viaf/294145857904223021237/español/spa">
       <e:P20006>spa</e:P20006>
@@ -11448,15 +11434,15 @@
       <e:P20053 rdf:resource="yezsolanamanuel"/>
       <e:P20053 rdf:resource="alarcnjusto"/>
       <e:P20053 rdf:resource="pazpilardela"/>
-      <e:P20053 rdf:resource="mahieujosagustn"/>
       <e:P20053 rdf:resource="cuestapamiesmargarita"/>
       <e:P20053 rdf:resource="joverluis"/>
       <e:P20053 rdf:resource="dazsantanderrafael"/>
       <e:P20053 rdf:resource="gutirrezgerardo"/>
       <e:P20053 rdf:resource="morenofrancisco"/>
-      <e:P20053 rdf:resource="floresenrique"/>
       <m:P30321 rdf:resource="rountreeharry"/>
+      <m:P30321 rdf:resource="floresenrique"/>
       <w:P10055 rdf:resource="cardonacastrofranciscoluis"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10065 rdf:resource="http://viaf.org/viaf/65283845"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://viaf.org/viaf/308560745">
@@ -11496,6 +11482,7 @@
       <w:P30117>Arthur Conan Doyle</w:P30117>
       <bibframe:hasInstance rdf:resource="urn:isbn:9788416034178"/>
       <bibframe:translationOf rdf:resource="http://viaf.org/viaf/309272292"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://viaf.org/viaf/309533947">
       <w:P10088>The naval treaty</w:P10088>
@@ -11564,6 +11551,7 @@
       <bibframe:translationOf rdf:resource="http://viaf.org/viaf/310212942"/>
       <e:P20037 rdf:resource="matosjos"/>
       <m:P30321 rdf:resource="pitzhenryc"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://viaf.org/viaf/310218668/eng">
       <e:P20006>eng</e:P20006>
@@ -11589,6 +11577,7 @@
       <w:P30117>Arthur Conan Doyle ; [traducción, Vosgos]</w:P30117>
       <bibframe:hasInstance rdf:resource="urn:isbn:9788494292354"/>
       <bibframe:translationOf rdf:resource="http://viaf.org/viaf/3283155226707084490002"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://viaf.org/viaf/3283155226707084490002/español/spa">
       <e:P20006>spa</e:P20006>
@@ -11649,6 +11638,63 @@
       <e:P20037 rdf:resource="http://viaf.org/viaf/120203535"/>
       <w:P10065 rdf:resource="http://viaf.org/viaf/65283845"/>
    </bibframe:Work>
+   <bibframe:Work rdf:about="http://viaf.org/viaf/65283845/elhombredellabiotorcidoelcarbuncloazul/spa">
+      <e:P20006>spa</e:P20006>
+      <w:P10088>El hombre del labio torcido ;</w:P10088>
+      <w:P10088>El carbunclo azul</w:P10088>
+      <w:P30117>Arthur Conan Doyle ; ilustraciones Tha ; traducción Adolfo Muñoz ; notas y actividades Rebeca Martín</w:P30117>
+      <bibframe:hasInstance rdf:resource="urn:isbn:9788468222134"/>
+      <bibframe:hasPart rdf:resource="http://www.wikidata.org/entity/q1140678/spa/spa"/>
+      <bibframe:hasPart rdf:resource="http://www.wikidata.org/entity/q1151748/spa/spa"/>
+      <e:P20037 rdf:resource="muozadolfo"/>
+      <m:P30321 rdf:resource="tha"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
+   </bibframe:Work>
+   <bibframe:Work rdf:about="http://viaf.org/viaf/65283845/enlasafuerasdelondresseguidodenuestraseoradelamuerte/spa">
+      <e:P20006>spa</e:P20006>
+      <w:P10088>En las afueras de Londres ;</w:P10088>
+      <w:P10088>seguido de Nuestra señora de la muerte</w:P10088>
+      <w:P30117>Arthur Conan Doyle ; traducción de Joaquín Gallardo</w:P30117>
+      <bibframe:hasInstance rdf:resource="urn:isbn:9788416034208"/>
+      <bibframe:hasPart rdf:resource="/unclejeremyshousehold/spa"/>
+      <bibframe:hasPart rdf:resource="http://viaf.org/viaf/181810457/spa"/>
+      <e:P20037 rdf:resource="gallardojoaqun"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
+   </bibframe:Work>
+   <bibframe:Work rdf:about="http://viaf.org/viaf/65283845/estudioenescarlataelsignodeloscuatro/spa">
+      <e:P20006>spa</e:P20006>
+      <w:P10088>Estudio en escarlata ;</w:P10088>
+      <w:P10088>El signo de los cuatro</w:P10088>
+      <w:P30117>Sir Arhtur Conan Doyle ; ilustraciones de John Coulthart ; [traducción, Alejandro Pareja Rodríguez]</w:P30117>
+      <bibframe:hasInstance rdf:resource="urn:isbn:9788415618874"/>
+      <bibframe:hasPart rdf:resource="http://viaf.org/viaf/184892317/spa/spa"/>
+      <bibframe:hasPart rdf:resource="http://viaf.org/viaf/179061639/spa/spa"/>
+      <e:P20037 rdf:resource="parejaalejandro"/>
+      <m:P30321 rdf:resource="coulthartjohn"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
+   </bibframe:Work>
+   <bibframe:Work rdf:about="http://viaf.org/viaf/65283845/sherlockholmes/spa">
+      <e:P20006>spa</e:P20006>
+      <w:P10088>Sherlock Holmes</w:P10088>
+      <w:P30117>Arthur Conan Doyle ; traducción y notas de Álvaro Delgado Gal y Miguel Ángel Pérez Pérez</w:P30117>
+      <bibframe:hasInstance rdf:resource="urn:isbn:9788420689760"/>
+      <bibframe:hasPart rdf:resource="http://viaf.org/viaf/175571309/spa/spa"/>
+      <bibframe:hasPart rdf:resource="http://viaf.org/viaf/179061639/spa/spa"/>
+      <e:P20037 rdf:resource="prezprezmiguelngel"/>
+      <e:P20037 rdf:resource="delgadogallvaro"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
+   </bibframe:Work>
+   <bibframe:Work rdf:about="http://viaf.org/viaf/65283845/thecaseofladysannoxelcasodeladysannoxthefinalproblemelproblemafinal/eng">
+      <e:P20006>eng</e:P20006>
+      <w:P10088>The case of Lady Sannox =</w:P10088>
+      <w:P10088>El caso de Lady Sannox ; The final problem = El problema final</w:P10088>
+      <w:P30117>Arthur Conan Doyle ; [traducción de Xavier Riesco]</w:P30117>
+      <bibframe:hasInstance rdf:resource="urn:isbn:9788416774524"/>
+      <bibframe:hasPart rdf:resource="/thefinalproblem/eng"/>
+      <bibframe:hasPart rdf:resource="http://www.wikidata.org/entity/q18546597/español-inglés/eng"/>
+      <e:P20037 rdf:resource="riescoxavier"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
+   </bibframe:Work>
    <bibframe:Work rdf:about="http://www.wikidata.org/entity/q1129378">
       <w:P10088>The case book of Sherlock Holmes</w:P10088>
       <w:P10004>Selección</w:P10004>
@@ -11666,6 +11712,7 @@
       <w:P30117>Arthur Conan Doyle</w:P30117>
       <bibframe:hasInstance rdf:resource="http://example.org/bimo0001749812"/>
       <bibframe:hasInstance rdf:resource="urn:isbn:9788490019351"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10065 rdf:resource="http://viaf.org/viaf/65283845"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://www.wikidata.org/entity/q1129378/español/spa">
@@ -11721,14 +11768,16 @@
       <e:P20037 rdf:resource="http://viaf.org/viaf/170913932"/>
       <e:P20037 rdf:resource="ingbergpablo"/>
       <e:P20037 rdf:resource="http://viaf.org/viaf/305867914"/>
-      <e:P20053 rdf:resource="floresenrique"/>
       <e:P20053 rdf:resource="laisecaalberto"/>
       <e:P20053 rdf:resource="burgosfunesjorgelen"/>
       <e:P20053 rdf:resource="http://viaf.org/viaf/51519824"/>
       <e:P20053 rdf:resource="elcockhk"/>
       <e:P20053 rdf:resource="gilberta"/>
       <e:P20053 rdf:resource="wilesf"/>
+      <m:P30321 rdf:resource="floresenrique"/>
+      <w:P10055 rdf:resource="molinafoixjuanantonio"/>
       <w:P10055 rdf:resource="ingbergpablo"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10065 rdf:resource="http://viaf.org/viaf/65283845"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://www.wikidata.org/entity/q1129378/spa/spa">
@@ -11739,6 +11788,7 @@
       <w:P30117>Arthur Conan Doyle; [traducción, Amando Lázaro Ros ; ilustración, Miguel Angel Pratico]</w:P30117>
       <bibframe:hasInstance rdf:resource="urn:isbn:8475743455"/>
       <bibframe:translationOf rdf:resource="http://www.wikidata.org/entity/q1129378"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://www.wikidata.org/entity/q1140678">
       <w:P10088>The adventure of the blue carbuncle</w:P10088>
@@ -11748,7 +11798,7 @@
    <bibframe:Work rdf:about="http://www.wikidata.org/entity/q1140678/spa/spa">
       <e:P20006>spa</e:P20006>
       <w:P10088>The adventure of the blue carbuncle</w:P10088>
-      <bibframe:partOf rdf:resource="/elhombredellabiotorcidoelcarbuncloazul/spa"/>
+      <bibframe:partOf rdf:resource="http://viaf.org/viaf/65283845/elhombredellabiotorcidoelcarbuncloazul/spa"/>
       <bibframe:translationOf rdf:resource="http://www.wikidata.org/entity/q1140678"/>
       <bibframe:translationOf rdf:resource="http://www.wikidata.org/entity/q1151748"/>
    </bibframe:Work>
@@ -11784,6 +11834,7 @@
       <e:P20037 rdf:resource="muozadolfo"/>
       <m:P30321 rdf:resource="ambrusvictorg"/>
       <w:P10055 rdf:resource="martnrebeca"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://www.wikidata.org/entity/q1151748">
       <w:P10088>The man with the twisted lip</w:P10088>
@@ -11793,7 +11844,7 @@
    <bibframe:Work rdf:about="http://www.wikidata.org/entity/q1151748/spa/spa">
       <e:P20006>spa</e:P20006>
       <w:P10088>The man with the twisted lip</w:P10088>
-      <bibframe:partOf rdf:resource="/elhombredellabiotorcidoelcarbuncloazul/spa"/>
+      <bibframe:partOf rdf:resource="http://viaf.org/viaf/65283845/elhombredellabiotorcidoelcarbuncloazul/spa"/>
       <bibframe:translationOf rdf:resource="http://www.wikidata.org/entity/q1140678"/>
       <bibframe:translationOf rdf:resource="http://www.wikidata.org/entity/q1151748"/>
    </bibframe:Work>
@@ -11813,11 +11864,22 @@
       <bibframe:hasInstance rdf:resource="urn:isbn:8479691530"/>
       <bibframe:partOf rdf:resource="/elmisteriodelosbailarineslucerodeplata/spa"/>
       <bibframe:translationOf rdf:resource="http://www.wikidata.org/entity/q1151761"/>
-      <e:P20053 rdf:resource="pujalsmaraengracia"/>
+      <e:P20037 rdf:resource="pujalsmaraengracia"/>
       <w:P10065 rdf:resource="http://viaf.org/viaf/65283845"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://www.wikidata.org/entity/q1192541">
       <w:P10088>The Boscombe valley mystery</w:P10088>
+   </bibframe:Work>
+   <bibframe:Work rdf:about="http://www.wikidata.org/entity/q18546597">
+      <w:P10088>The case of Lady Sannox</w:P10088>
+      <bibframe:translation rdf:resource="/thefinalproblem/eng"/>
+      <bibframe:translation rdf:resource="http://www.wikidata.org/entity/q18546597/español-inglés/eng"/>
+   </bibframe:Work>
+   <bibframe:Work rdf:about="http://www.wikidata.org/entity/q18546597/español-inglés/eng">
+      <e:P20006>Español-Inglés</e:P20006>
+      <w:P10088>The case of Lady Sannox</w:P10088>
+      <bibframe:partOf rdf:resource="http://viaf.org/viaf/65283845/thecaseofladysannoxelcasodeladysannoxthefinalproblemelproblemafinal/eng"/>
+      <bibframe:translationOf rdf:resource="http://www.wikidata.org/entity/q18546597"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://www.wikidata.org/entity/q19086389">
       <w:P10088>The exploits of brigadier Gerard</w:P10088>
@@ -11933,6 +11995,7 @@
       <bibframe:hasInstance rdf:resource="urn:isbn:9788416034291"/>
       <bibframe:translationOf rdf:resource="http://www.wikidata.org/entity/q2616869"/>
       <e:P20037 rdf:resource="dazretgenrique"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://www.wikidata.org/entity/q265546">
       <w:P10088>A scandal in Bohemia</w:P10088>
@@ -12008,6 +12071,7 @@
       <bibframe:hasInstance rdf:resource="urn:isbn:9788416034307"/>
       <bibframe:translationOf rdf:resource="http://www.wikidata.org/entity/q4449924"/>
       <e:P20037 rdf:resource="litrncristbal"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://www.wikidata.org/entity/q4461047/eng">
       <e:P20006>eng</e:P20006>
@@ -12101,6 +12165,7 @@
       <bibframe:hasInstance rdf:resource="urn:isbn:9788417079383"/>
       <bibframe:hasInstance rdf:resource="urn:isbn:9788490019382"/>
       <bibframe:hasInstance rdf:resource="http://example.org/bimo0001749025"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10065 rdf:resource="http://viaf.org/viaf/65283845"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://www.wikidata.org/entity/q725752/español/spa">
@@ -12158,15 +12223,16 @@
       <bibframe:translationOf rdf:resource="http://www.wikidata.org/entity/q725752"/>
       <e:P20037 rdf:resource="http://viaf.org/viaf/120203535"/>
       <e:P20037 rdf:resource="http://viaf.org/viaf/170913932"/>
+      <e:P20037 rdf:resource="molinafoixjuanantonio"/>
       <e:P20037 rdf:resource="camargojuan"/>
       <e:P20037 rdf:resource="http://viaf.org/viaf/305867914"/>
-      <e:P20053 rdf:resource="floresenrique"/>
-      <e:P20053 rdf:resource="molinafoixjuanantonio"/>
-      <e:P20053 rdf:resource="http://viaf.org/viaf/2555146"/>
       <e:P20053 rdf:resource="laisecaalberto"/>
       <e:P20053 rdf:resource="burgosfunesjorgelen"/>
       <e:P20053 rdf:resource="salgadopufog"/>
       <e:P20053 rdf:resource="almudvarmaraelena"/>
+      <m:P30321 rdf:resource="floresenrique"/>
+      <m:P30321 rdf:resource="http://viaf.org/viaf/2555146"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10065 rdf:resource="http://viaf.org/viaf/65283845"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://www.wikidata.org/entity/q725752/spa/spa">
@@ -12204,6 +12270,7 @@
       <bibframe:hasInstance rdf:resource="urn:isbn:9788417079376"/>
       <bibframe:hasInstance rdf:resource="http://example.org/a4649146"/>
       <bibframe:hasInstance rdf:resource="urn:isbn:9788490019191"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10065 rdf:resource="http://viaf.org/viaf/65283845"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://www.wikidata.org/entity/q860831/español/spa">
@@ -12256,13 +12323,13 @@
       <e:P20037 rdf:resource="mrquezdelaplataluca"/>
       <e:P20037 rdf:resource="ingbergpablo"/>
       <e:P20037 rdf:resource="http://viaf.org/viaf/305867914"/>
+      <e:P20037 rdf:resource="molinafoixjuanantonio"/>
+      <e:P20037 rdf:resource="http://viaf.org/viaf/84477527"/>
       <e:P20053 rdf:resource="http://viaf.org/viaf/51519824"/>
-      <e:P20053 rdf:resource="pujalsmaraengracia"/>
       <e:P20053 rdf:resource="millsjuanjos"/>
-      <e:P20053 rdf:resource="http://viaf.org/viaf/2555146"/>
-      <e:P20053 rdf:resource="molinafoixjuanantonio"/>
-      <e:P20053 rdf:resource="floresenrique"/>
-      <e:P20053 rdf:resource="http://viaf.org/viaf/84477527"/>
+      <m:P30321 rdf:resource="http://viaf.org/viaf/2555146"/>
+      <m:P30321 rdf:resource="floresenrique"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10065 rdf:resource="http://viaf.org/viaf/65283845"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://www.wikidata.org/entity/q860831/spa/spa">
@@ -12286,5 +12353,35 @@
       <e:P20037 rdf:resource="http://viaf.org/viaf/120203535"/>
       <e:P20053 rdf:resource="espinetalfonso"/>
       <w:P10065 rdf:resource="http://viaf.org/viaf/65283845"/>
+   </bibframe:Work>
+   <bibframe:Work rdf:about="iguezbarrenamaralourdes/estudioenescarlata/spa">
+      <e:P20006>spa</e:P20006>
+      <w:P10088>Estudio en escarlata</w:P10088>
+      <w:P30117>Arthur Conan Doyle ; adaptación de Lourdes Íñiguez ; ilustraciones de Luisa Vera</w:P30117>
+      <bibframe:hasInstance rdf:resource="urn:isbn:9788467860948"/>
+      <m:P30321 rdf:resource="veraguardiolaluisa"/>
+      <w:P10061 rdf:resource="iguezbarrenamaralourdes"/>
+      <w:adaptationOfWork.en rdf:resource="http://viaf.org/viaf/179061639"/>
+   </bibframe:Work>
+   <bibframe:Work rdf:about="macandrewrichard/sherlock/eng">
+      <e:P20006>eng</e:P20006>
+      <w:P10088>Sherlock</w:P10088>
+      <w:P30117>by Sir Arthur Conan Doyle ; retold by Richard MacAndrew</w:P30117>
+      <bibframe:hasInstance rdf:resource="urn:isbn:9781107621862"/>
+      <w:P10061 rdf:resource="macandrewrichard"/>
+      <w:adaptationOfWork.en rdf:resource="http://viaf.org/viaf/186734487"/>
+   </bibframe:Work>
+   <bibframe:Work rdf:about="unglikrichard/lechiendesbaskerville/spa">
+      <e:P20006>spa</e:P20006>
+      <w:P10088>Le chien des Baskerville</w:P10088>
+      <e:P20006>Español</e:P20006>
+      <w:P10088>Sherlock Holmes y el perro de los Baskerville</w:P10088>
+      <w:P10088>adaptación playmobilesca de la novela de Sir Arthur Conan Doyle</w:P10088>
+      <w:P30117>Richard Unglik ; [traducción del francés, Mercedes Corral]</w:P30117>
+      <bibframe:hasInstance rdf:resource="urn:isbn:9788467580198"/>
+      <bibframe:translationOf rdf:resource="/lechiendesbaskerville"/>
+      <e:P20037 rdf:resource="corralmercedes"/>
+      <m:P30321 rdf:resource="unglikrichard"/>
+      <w:P10061 rdf:resource="unglikrichard"/>
    </bibframe:Work>
 </rdf:RDF>

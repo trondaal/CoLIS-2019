@@ -92,8 +92,6 @@
       <w:P10088>His last Bow</w:P10088>
       <w:P10088>His last bow</w:P10088>
       <w:P10004>Selections.</w:P10004>
-      <w:P10055 rdf:resource="gatissmark"/>
-      <w:P10055 rdf:resource="moffatsteven"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/1390154501894339210002/eng/text"/>
       <w:P10261 rdf:resource="http://viaf.org/viaf/173636607"/>
@@ -153,12 +151,10 @@
       <e:P20049 rdf:resource="nobespatrick"/>
       <e:P20327 rdf:resource="mouldchris"/>
       <e:P20327 rdf:resource="kimberlymarion"/>
-      <w:P10055 rdf:resource="gatissmark"/>
-      <w:P10055 rdf:resource="moffatsteven"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10061 rdf:resource="unglikrichard"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/181625655/eng/text"/>
-      <w:P10155 rdf:resource="koplpetr/pesbaskervillsky"/>
+      <w:P10251 rdf:resource="koplpetr/pesbaskervillsky"/>
       <w:P10261 rdf:resource="http://viaf.org/viaf/173636607"/>
       <w:P10261 rdf:resource="http://viaf.org/viaf/308763542"/>
       <w:P10291 rdf:resource="bayardpierre/affaireduchiendesbaskerville"/>
@@ -177,8 +173,8 @@
       <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10061 rdf:resource="dobbsfrank"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/181846531/eng/text"/>
-      <w:P10155 rdf:resource="koplpetr/skandalvcechach"/>
       <w:P10155 rdf:resource="bakkerhelene/gespikkeldeband"/>
+      <w:P10251 rdf:resource="koplpetr/skandalvcechach"/>
       <w:P10261 rdf:resource="http://viaf.org/viaf/173636607"/>
       <w:P10261 rdf:resource="http://viaf.org/viaf/308763542"/>
       <w:P10261 rdf:resource="napoleon"/>
@@ -302,7 +298,7 @@
    <c:C10001 rdf:about="http://viaf.org/viaf/65283845/inthenameoftheking">
       <w:P10088>In the name of the king</w:P10088>
       <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
-      <w:P10155 rdf:resource="koplpetr/skandalvcechach"/>
+      <w:P10251 rdf:resource="koplpetr/skandalvcechach"/>
    </c:C10001>
    <c:C10001 rdf:about="http://viaf.org/viaf/65283845/stockbrokersclerk">
       <w:P10088>Stock-broker's clerk</w:P10088>
@@ -522,9 +518,7 @@
       <w:P10088>The Devil's foot</w:P10088>
       <w:P10088>Adventure of the devil's foot</w:P10088>
       <w:P10088>Adventure of the Devil's foot</w:P10088>
-      <w:P10055 rdf:resource="joneskelvini"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
-      <w:P10061 rdf:resource="joneskelvini"/>
       <w:P10078 rdf:resource="http://www.wikidata.org/entity/q2466799/eng/text"/>
       <w:P10261 rdf:resource="http://viaf.org/viaf/173636607"/>
       <w:P10261 rdf:resource="http://viaf.org/viaf/308763542"/>
@@ -542,7 +536,6 @@
       <w:P10088>Scandal in Bohemia</w:P10088>
       <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10078 rdf:resource="http://www.wikidata.org/entity/q265546/eng/text"/>
-      <w:P10155 rdf:resource="koplpetr/skandalvcechach"/>
       <w:P10261 rdf:resource="http://viaf.org/viaf/173636607"/>
       <w:P10261 rdf:resource="http://viaf.org/viaf/308763542"/>
    </c:C10001>
@@ -650,8 +643,6 @@
       <w:P10088>The Memoirs of Sherlock Holmes</w:P10088>
       <w:P10088>Memoirs of Sherlock Holmes</w:P10088>
       <w:P10004>Selections.</w:P10004>
-      <w:P10055 rdf:resource="gatissmark"/>
-      <w:P10055 rdf:resource="moffatsteven"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10078 rdf:resource="http://www.wikidata.org/entity/q860831/eng/text"/>
       <w:P10261 rdf:resource="http://viaf.org/viaf/173636607"/>
@@ -668,7 +659,7 @@
       <w:P10088>Pes Baskervillský</w:P10088>
       <w:P10061 rdf:resource="koplpetr"/>
       <w:P10078 rdf:resource="koplpetr/pesbaskervillsky/eng/text"/>
-      <w:P10142 rdf:resource="http://viaf.org/viaf/181625655"/>
+      <w:P10252 rdf:resource="http://viaf.org/viaf/181625655"/>
       <w:P10261 rdf:resource="http://viaf.org/viaf/173636607"/>
       <w:P10261 rdf:resource="http://viaf.org/viaf/308763542"/>
    </c:C10001>
@@ -676,9 +667,8 @@
       <w:P10088>Skandál v Čechách</w:P10088>
       <w:P10061 rdf:resource="koplpetr"/>
       <w:P10078 rdf:resource="koplpetr/skandalvcechach/eng/text"/>
-      <w:P10142 rdf:resource="http://www.wikidata.org/entity/q265546"/>
-      <w:P10142 rdf:resource="http://viaf.org/viaf/181846531"/>
-      <w:P10142 rdf:resource="http://viaf.org/viaf/65283845/inthenameoftheking"/>
+      <w:P10252 rdf:resource="http://viaf.org/viaf/181846531"/>
+      <w:P10252 rdf:resource="http://viaf.org/viaf/65283845/inthenameoftheking"/>
       <w:P10261 rdf:resource="http://viaf.org/viaf/173636607"/>
       <w:P10261 rdf:resource="adlerirene"/>
       <w:P10261 rdf:resource="http://viaf.org/viaf/308763542"/>
@@ -750,6 +740,7 @@
    <c:C10004 rdf:about="aitchisonmartin">
       <a:P50094>aitchisonmartin</a:P50094>
       <a:P50111>Aitchison, Martin</a:P50111>
+      <a:P50469 rdf:resource="urn:isbn:0721407110"/>
       <a:P50469 rdf:resource="urn:isbn:0721452566"/>
    </c:C10004>
    <c:C10004 rdf:about="asburyanna">
@@ -1006,6 +997,11 @@
       <a:P50111>Frayling, Christopher</a:P50111>
       <a:P50161 rdf:resource="http://viaf.org/viaf/181625655/eng/text"/>
    </c:C10004>
+   <c:C10004 rdf:about="gabbyterry">
+      <a:P50094>gabbyterry</a:P50094>
+      <a:P50111>Gabby, Terry</a:P50111>
+      <a:P50469 rdf:resource="urn:isbn:0361066872"/>
+   </c:C10004>
    <c:C10004 rdf:about="gatessusan">
       <a:P50094>gatessusan</a:P50094>
       <a:P50111>Gates, Susan</a:P50111>
@@ -1013,9 +1009,7 @@
    <c:C10004 rdf:about="gatissmark">
       <a:P50094>gatissmark</a:P50094>
       <a:P50111>Gatiss, Mark</a:P50111>
-      <a:P50189 rdf:resource="http://www.wikidata.org/entity/q860831"/>
-      <a:P50189 rdf:resource="http://viaf.org/viaf/181625655"/>
-      <a:P50189 rdf:resource="http://viaf.org/viaf/1390154501894339210002"/>
+      <a:P50189 rdf:resource="urn:isbn:9781785942457"/>
    </c:C10004>
    <c:C10004 rdf:about="gillettewilliam">
       <a:P50094>gillettewilliam</a:P50094>
@@ -1132,12 +1126,13 @@
       <a:P50094>http://viaf.org/viaf/2555146</a:P50094>
       <a:P50111>Paget, Sidney</a:P50111>
       <a:P50107>1860-1908</a:P50107>
-      <a:P50161 rdf:resource="http://viaf.org/viaf/181625655/eng/text"/>
       <a:P50469 rdf:resource="urn:isbn:9781909621282"/>
       <a:P50469 rdf:resource="urn:isbn:9781849311380"/>
+      <a:P50469 rdf:resource="urn:isbn:9781905716661"/>
       <a:P50469 rdf:resource="urn:isbn:9781509827015"/>
       <a:P50469 rdf:resource="urn:isbn:9781909621794"/>
       <a:P50469 rdf:resource="urn:isbn:9781435162051"/>
+      <a:P50469 rdf:resource="urn:isbn:9781782010128"/>
    </c:C10004>
    <c:C10004 rdf:about="http://viaf.org/viaf/308763542">
       <a:P50094>http://viaf.org/viaf/308763542</a:P50094>
@@ -1295,13 +1290,14 @@
       <a:P50094>joneskelley</a:P50094>
       <a:P50111>Jones, Kelley</a:P50111>
       <a:P50107>1962-</a:P50107>
+      <a:P50469 rdf:resource="urn:isbn:9781600107832"/>
       <a:P50469 rdf:resource="urn:isbn:9781600106590"/>
    </c:C10004>
    <c:C10004 rdf:about="joneskelvini">
       <a:P50094>joneskelvini</a:P50094>
       <a:P50111>Jones, Kelvin I</a:P50111>
-      <a:P50189 rdf:resource="http://www.wikidata.org/entity/q2466799"/>
-      <a:P50195 rdf:resource="http://www.wikidata.org/entity/q2466799"/>
+      <a:P50189 rdf:resource="urn:isbn:0952016656"/>
+      <a:P50528 rdf:resource="urn:isbn:0952016656"/>
    </c:C10004>
    <c:C10004 rdf:about="jonesmatt">
       <a:P50094>jonesmatt</a:P50094>
@@ -1442,9 +1438,7 @@
       <a:P50094>moffatsteven</a:P50094>
       <a:P50111>Moffat, Steven</a:P50111>
       <a:P50107>1961-</a:P50107>
-      <a:P50189 rdf:resource="http://www.wikidata.org/entity/q860831"/>
-      <a:P50189 rdf:resource="http://viaf.org/viaf/181625655"/>
-      <a:P50189 rdf:resource="http://viaf.org/viaf/1390154501894339210002"/>
+      <a:P50189 rdf:resource="urn:isbn:9781785942457"/>
    </c:C10004>
    <c:C10004 rdf:about="moffettcleveland">
       <a:P50094>moffettcleveland</a:P50094>
@@ -1485,8 +1479,9 @@
    <c:C10004 rdf:about="newshamian">
       <a:P50094>newshamian</a:P50094>
       <a:P50111>Newsham, Ian</a:P50111>
-      <a:P50161 rdf:resource="http://viaf.org/viaf/294145857904223021237/eng/text"/>
       <a:P50469 rdf:resource="urn:isbn:9780141944296"/>
+      <a:P50469 rdf:resource="urn:isbn:0140313850"/>
+      <a:P50469 rdf:resource="urn:isbn:0140350136"/>
    </c:C10004>
    <c:C10004 rdf:about="nobespatrick">
       <a:P50094>nobespatrick</a:P50094>
@@ -1588,6 +1583,7 @@
       <a:P50469 rdf:resource="urn:isbn:9780761370963"/>
       <a:P50469 rdf:resource="urn:isbn:9780761370956"/>
       <a:P50469 rdf:resource="urn:isbn:9780761370949"/>
+      <a:P50469 rdf:resource="urn:isbn:9780761370987"/>
    </c:C10004>
    <c:C10004 rdf:about="ronaldsonalan">
       <a:P50094>ronaldsonalan</a:P50094>
@@ -1597,6 +1593,7 @@
    <c:C10004 rdf:about="rowenaakinyemi">
       <a:P50094>rowenaakinyemi</a:P50094>
       <a:P50111>Akinyemi, Rowena</a:P50111>
+      <a:P50528 rdf:resource="urn:isbn:0582096790"/>
    </c:C10004>
    <c:C10004 rdf:about="salem">
       <a:P50094>salem</a:P50094>
@@ -1719,7 +1716,6 @@
       <a:P50094>williamsanthony</a:P50094>
       <a:P50111>Williams, Anthony</a:P50111>
       <a:P50107>1964-</a:P50107>
-      <a:P50469 rdf:resource="urn:isbn:9781784043575"/>
    </c:C10004>
    <c:C10004 rdf:about="williamssimon">
       <a:P50094>williamssimon</a:P50094>
@@ -2046,7 +2042,6 @@
       <e:P20053 rdf:resource="jonesmatt"/>
       <e:P20053 rdf:resource="danlyjames"/>
       <e:P20053 rdf:resource="ronaldsonalan"/>
-      <e:P20053 rdf:resource="http://viaf.org/viaf/2555146"/>
       <e:P20053 rdf:resource="smypam"/>
       <e:P20053 rdf:resource="bennettandrew"/>
       <e:P20053 rdf:resource="lejeuneanthony"/>
@@ -2148,7 +2143,6 @@
       <e:P20059 rdf:resource="urn:isbn:9781446417287"/>
       <e:P20059 rdf:resource="urn:isbn:9781843441229"/>
       <e:P20059 rdf:resource="urn:isbn:0435126091"/>
-      <e:P20059 rdf:resource="urn:isbn:9781784043575"/>
       <e:P20059 rdf:resource="urn:isbn:9781907081071"/>
       <e:P20059 rdf:resource="urn:isbn:9789384225384"/>
       <e:P20059 rdf:resource="urn:isbn:9780955731204"/>
@@ -2345,7 +2339,6 @@
       <e:P20312>Lost world.</e:P20312>
       <e:P20312>The Lost World</e:P20312>
       <e:P20053 rdf:resource="duncanian"/>
-      <e:P20053 rdf:resource="newshamian"/>
       <e:P20053 rdf:resource="matthewssarah"/>
       <e:P20059 rdf:resource="urn:isbn:0224016474"/>
       <e:P20059 rdf:resource="urn:isbn:9781509858507"/>
@@ -4102,6 +4095,7 @@
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
       <m:P30139 rdf:resource="http://viaf.org/viaf/294145857904223021237/eng/text"/>
+      <m:P30321 rdf:resource="newshamian"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:0140315578">
       <marc:M001>011929473</marc:M001>
@@ -4133,6 +4127,7 @@
       <m:P30002>volume</m:P30002>
       <m:P30106>Puffin classics</m:P30106>
       <m:P30139 rdf:resource="http://viaf.org/viaf/294145857904223021237/eng/text"/>
+      <m:P30321 rdf:resource="newshamian"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:0140350640">
       <marc:M001>011009120</marc:M001>
@@ -5359,6 +5354,7 @@
       <m:P30002>volume</m:P30002>
       <m:P30106>A Purnell de luxe classic</m:P30106>
       <m:P30139 rdf:resource="http://viaf.org/viaf/181625655/eng/text"/>
+      <m:P30321 rdf:resource="gabbyterry"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:0361085621">
       <marc:M001>011327682</marc:M001>
@@ -5614,6 +5610,7 @@
       <m:P30182>ix,69p.</m:P30182>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
+      <m:P30327 rdf:resource="rowenaakinyemi"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:0582275148">
       <marc:M001>013256772</marc:M001>
@@ -6187,6 +6184,7 @@
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
       <m:P30106>Series 740. Ladybird children's classics</m:P30106>
+      <m:P30321 rdf:resource="aitchisonmartin"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:0721407196">
       <marc:M001>008771352</marc:M001>
@@ -7041,6 +7039,8 @@
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
       <m:P30139 rdf:resource="http://www.wikidata.org/entity/q2466799/eng/text"/>
+      <m:P30327 rdf:resource="joneskelvini"/>
+      <w:P10055 rdf:resource="joneskelvini"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:0953483819">
       <marc:M001>013083164</marc:M001>
@@ -9386,6 +9386,7 @@
       <m:P30002>volume</m:P30002>
       <m:P30106>On the case with Holmes and Watson ;</m:P30106>
       <m:P30165>#12</m:P30165>
+      <m:P30321 rdf:resource="rohrbachsophie"/>
       <m:P30321 rdf:resource="morrowjt"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9780843962956">
@@ -10400,6 +10401,7 @@
       <m:P30139 rdf:resource="http://viaf.org/viaf/65283845/stockbrokersclerk/eng/text"/>
       <m:P30139 rdf:resource="http://viaf.org/viaf/309533947/eng/text"/>
       <m:P30139 rdf:resource="http://viaf.org/viaf/65283845/adventureoftheengineersthumb/eng/text"/>
+      <m:P30321 rdf:resource="joneskelley"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9781606600887">
       <marc:M001>018037858</marc:M001>
@@ -10944,6 +10946,7 @@
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
       <m:P30139 rdf:resource="http://viaf.org/viaf/181625655/eng/text"/>
+      <m:P30321 rdf:resource="http://viaf.org/viaf/2555146"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9781782340515">
       <marc:M001>018631437</marc:M001>
@@ -11018,8 +11021,6 @@
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
       <m:P30106>Graphic novel classics</m:P30106>
-      <m:P30139 rdf:resource="http://viaf.org/viaf/181625655/eng/text"/>
-      <m:P30321 rdf:resource="williamsanthony"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9781784046439">
       <marc:M001>017459811</marc:M001>
@@ -11144,6 +11145,8 @@
       <m:P30139 rdf:resource="http://www.wikidata.org/entity/q860831/eng/text"/>
       <m:P30139 rdf:resource="http://viaf.org/viaf/181625655/eng/text"/>
       <m:P30139 rdf:resource="http://viaf.org/viaf/1390154501894339210002/eng/text"/>
+      <w:P10055 rdf:resource="gatissmark"/>
+      <w:P10055 rdf:resource="moffatsteven"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9781786645449">
       <marc:M001>018367858</marc:M001>
@@ -12055,6 +12058,7 @@
       <m:P30139 rdf:resource="http://viaf.org/viaf/184892317/eng/text"/>
       <m:P30139 rdf:resource="http://viaf.org/viaf/179061639/eng/text"/>
       <m:P30139 rdf:resource="http://viaf.org/viaf/175571309/eng/text"/>
+      <m:P30321 rdf:resource="http://viaf.org/viaf/2555146"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9781906059927">
       <marc:M001>015334719</marc:M001>
