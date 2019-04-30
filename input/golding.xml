@@ -72,25 +72,23 @@
             <marc:subfield code="t">Spire.</marc:subfield>
             <marc:subfield code="1p">http://viaf.org/viaf/89500102</marc:subfield>
             <marc:subfield code="1w">http://viaf.org/viaf/178994871</marc:subfield>
-        <marc:subfield code="l">ger</marc:subfield></marc:datafield>
+            <marc:subfield code="l">ger</marc:subfield>
+        </marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2="2">
             <marc:subfield code="a">Seifert, Jaroslav</marc:subfield>
             <marc:subfield code="d">1901-1986.</marc:subfield>
             <marc:subfield code="t">Deštník z Piccadilly.</marc:subfield>
-            
             <marc:subfield code="1p">seifertjaroslav</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2="2">
             <marc:subfield code="a">Seifert, Jaroslav</marc:subfield>
             <marc:subfield code="d">1901-1986.</marc:subfield>
             <marc:subfield code="t">Morový sloup.</marc:subfield>
-            
             <marc:subfield code="1p">seifertjaroslav</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2="2">
             <marc:subfield code="a">Simon, Claude.</marc:subfield>
             <marc:subfield code="t">Route des Flandres.</marc:subfield>
-            
             <marc:subfield code="1p">simonclaude</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="740" ind1="0" ind2="2">
@@ -347,11 +345,13 @@
         </marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Gregor, Ian.</marc:subfield>
+            <marc:subfield code="4">aui</marc:subfield>
             <marc:subfield code="1p">gregorian</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Kinkead-Weekes, Mark.</marc:subfield>
             <marc:subfield code="1p">kinkeadweekesmark</marc:subfield>
+            <marc:subfield code="4">aui</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="852" ind1="4" ind2="1">
             <marc:subfield code="a">British Library</marc:subfield>
@@ -1622,7 +1622,7 @@
         <marc:datafield tag="100" ind1="1" ind2=" ">
             <marc:subfield code="a">Golding, William</marc:subfield>
             <marc:subfield code="d">1911-1993,</marc:subfield>
-            <marc:subfield code="e">author.</marc:subfield>
+            <marc:subfield code="4">aut</marc:subfield>
             <marc:subfield code="1p">http://viaf.org/viaf/89500102</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="240" ind1="1" ind2="0">
@@ -1702,10 +1702,10 @@
             <marc:subfield code="0">(OCoLC)fst01423787</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
-            <marc:subfield code="a">Gray, David B.</marc:subfield>
-            <marc:subfield code="q">(David Burtt),</marc:subfield>
+            <marc:subfield code="a">Mullan, John</marc:subfield>
             <marc:subfield code="d">1931-</marc:subfield>
-            <marc:subfield code="1p">graydavidb</marc:subfield>
+            <marc:subfield code="1p">mullanjohn</marc:subfield>
+            <marc:subfield code="4">aui</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="859" ind1=" " ind2=" ">
             <marc:subfield code="a">ELD</marc:subfield>
@@ -2465,14 +2465,10 @@
             <marc:subfield code="2">20</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="100" ind1="1" ind2=" ">
-            <marc:subfield code="a">Golding, William</marc:subfield>
-            <marc:subfield code="d">1911-1993.</marc:subfield>
-            <marc:subfield code="1p">http://viaf.org/viaf/89500102</marc:subfield>
-        </marc:datafield>
-        <marc:datafield tag="240" ind1="1" ind2="0">
-            <marc:subfield code="a">Lord of the Flies</marc:subfield>
-            <marc:subfield code="1w">http://viaf.org/viaf/119144648592107423604</marc:subfield>
-            <marc:subfield code="2">generated from 245</marc:subfield>
+            <marc:subfield code="a">Williams, Nigel</marc:subfield>
+            <marc:subfield code="d">1948-</marc:subfield>
+            <marc:subfield code="1p">williamsnigel</marc:subfield>
+            <marc:subfield code="4">aus</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="245" ind1="1" ind2="0">
             <marc:subfield code="a">William Golding's "Lord of the flies" /</marc:subfield>
@@ -2519,9 +2515,13 @@
             <marc:subfield code="v">Drama.</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
-            <marc:subfield code="a">Williams, Nigel</marc:subfield>
-            <marc:subfield code="d">1948-</marc:subfield>
-            <marc:subfield code="1p">williamsnigel</marc:subfield>
+            <marc:subfield code="a">Golding, William</marc:subfield>
+            <marc:subfield code="d">1911-1993.</marc:subfield>
+            <marc:subfield code="1p">http://viaf.org/viaf/89500102</marc:subfield>
+            <marc:subfield code="t">Lord of the Flies</marc:subfield>
+            <marc:subfield code="1w">http://viaf.org/viaf/119144648592107423604</marc:subfield>
+            <marc:subfield code="2">generated from 245</marc:subfield>
+            <marc:subfield code="4">http://rdaregistry.info/Elements/w/dramatizationOfWork.en</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="740" ind1="0" ind2=" ">
             <marc:subfield code="a">Lord of the flies.</marc:subfield>
@@ -3424,6 +3424,7 @@
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Gregory, Philippa.</marc:subfield>
             <marc:subfield code="1p">gregoryphilippa</marc:subfield>
+            <marc:subfield code="4">aft</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="859" ind1=" " ind2=" ">
             <marc:subfield code="a">ELD</marc:subfield>
@@ -4350,12 +4351,14 @@
             <marc:subfield code="2">rdacarrier</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
-            <marc:subfield code="a">Ziegler, A. P.</marc:subfield>
-            <marc:subfield code="1p">zieglerap</marc:subfield>
+            <marc:subfield code="a">Ziegler, Arthur P.</marc:subfield>
+            <marc:subfield code="1p">zieglerarthurp</marc:subfield>
+            <marc:subfield code="4">edt</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Baker, J. R.</marc:subfield>
             <marc:subfield code="1p">bakerjr</marc:subfield>
+            <marc:subfield code="4">edt</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="852" ind1="4" ind2=" ">
             <marc:subfield code="a">British Library</marc:subfield>
@@ -4409,12 +4412,14 @@
             <marc:subfield code="2">rdacarrier</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
-            <marc:subfield code="a">Baker, James R.</marc:subfield>
-            <marc:subfield code="1p">bakerjamesr</marc:subfield>
-        </marc:datafield>
-        <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Ziegler, Arthur P.</marc:subfield>
             <marc:subfield code="1p">zieglerarthurp</marc:subfield>
+            <marc:subfield code="4">edt</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Baker, J. R.</marc:subfield>
+            <marc:subfield code="1p">bakerjr</marc:subfield>
+            <marc:subfield code="4">edt</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="852" ind1="4" ind2=" ">
             <marc:subfield code="a">British Library</marc:subfield>
@@ -4521,8 +4526,14 @@
             <marc:subfield code="a">Casebook Edition</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
-            <marc:subfield code="a">Baker, James R.</marc:subfield>
-            <marc:subfield code="1p">bakerjamesr</marc:subfield>
+            <marc:subfield code="a">Ziegler, Arthur P.</marc:subfield>
+            <marc:subfield code="1p">zieglerarthurp</marc:subfield>
+            <marc:subfield code="4">edt</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Baker, J. R.</marc:subfield>
+            <marc:subfield code="1p">bakerjr</marc:subfield>
+            <marc:subfield code="4">edt</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="852" ind1="4" ind2=" ">
             <marc:subfield code="a">British Library</marc:subfield>
@@ -5010,10 +5021,12 @@
         </marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Gregor, Ian.</marc:subfield>
+            <marc:subfield code="4">aui</marc:subfield>
             <marc:subfield code="1p">gregorian</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Kinkead-Weekes, Mark.</marc:subfield>
+            <marc:subfield code="4">aui</marc:subfield>
             <marc:subfield code="1p">kinkeadweekesmark</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="852" ind1="4" ind2="1">
@@ -5406,6 +5419,11 @@
             <marc:subfield code="a">823/.914</marc:subfield>
             <marc:subfield code="2">19</marc:subfield>
         </marc:datafield>
+        <marc:datafield tag="100" ind1="1" ind2=" ">
+            <marc:subfield code="a">Self, David</marc:subfield>
+            <marc:subfield code="d">1940-</marc:subfield>
+            <marc:subfield code="1p">selfdavid</marc:subfield>
+        </marc:datafield>
         <marc:datafield tag="245" ind1="0" ind2="0">
             <marc:subfield code="a">Lord of the flies, William Golding /</marc:subfield>
             <marc:subfield code="c">devised by David Self.</marc:subfield>
@@ -5450,12 +5468,6 @@
             <marc:subfield code="1p">http://viaf.org/viaf/89500102</marc:subfield>
             <marc:subfield code="1w">http://viaf.org/viaf/119144648592107423604</marc:subfield>
             <marc:subfield code="4">http://rdaregistry.info/Elements/w/guideToWork.en</marc:subfield>
-            <marc:subfield code="4">http://rdaregistry.info/Elements/w/guideToWork.en</marc:subfield>
-        </marc:datafield>
-        <marc:datafield tag="700" ind1="1" ind2=" ">
-            <marc:subfield code="a">Self, David</marc:subfield>
-            <marc:subfield code="d">1940-</marc:subfield>
-            <marc:subfield code="1p">selfdavid</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="830" ind1=" " ind2="0">
             <marc:subfield code="a">New guidelines (Mary Glasgow Publications)</marc:subfield>
@@ -5553,6 +5565,7 @@
         </marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Quijada, Encarna.</marc:subfield>
+            <marc:subfield code="4">trl</marc:subfield>
             <marc:subfield code="1p">quijadaencarna</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="852" ind1="4" ind2="1">
@@ -7217,6 +7230,7 @@
             <marc:subfield code="q">(David Burtt),</marc:subfield>
             <marc:subfield code="d">1931-</marc:subfield>
             <marc:subfield code="1p">graydavidb</marc:subfield>
+            <marc:subfield code="4">aui</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="852" ind1="4" ind2="1">
             <marc:subfield code="a">British Library</marc:subfield>
@@ -8624,6 +8638,7 @@
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Stiehl, Hermann.</marc:subfield>
             <marc:subfield code="1p">stiehlhermann</marc:subfield>
+            <marc:subfield code="4">trl</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="852" ind1="4" ind2="1">
             <marc:subfield code="a">British Library</marc:subfield>
@@ -9185,6 +9200,7 @@
             <marc:subfield code="a">Mahoney, John</marc:subfield>
             <marc:subfield code="d">1940 February 23-</marc:subfield>
             <marc:subfield code="1p">mahoneyjohn</marc:subfield>
+            <marc:subfield code="4">aut</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="245" ind1="1" ind2="0">
             <marc:subfield code="a">Lord of the flies, William Golding :</marc:subfield>
@@ -9241,6 +9257,7 @@
             <marc:subfield code="a">Martin, Stewart</marc:subfield>
             <marc:subfield code="d">1948-</marc:subfield>
             <marc:subfield code="1p">martinstewart</marc:subfield>
+            <marc:subfield code="4">aut</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="830" ind1=" " ind2="0">
             <marc:subfield code="a">Guide to literature</marc:subfield>
@@ -9673,6 +9690,7 @@
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Serrat Mulà, Carles.</marc:subfield>
             <marc:subfield code="1p">serratmulacarles</marc:subfield>
+            <marc:subfield code="4">trl</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="830" ind1=" " ind2="0">
             <marc:subfield code="a">Millenium.</marc:subfield>
@@ -9766,6 +9784,7 @@
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Vergara, Carmen.</marc:subfield>
             <marc:subfield code="1p">http://viaf.org/viaf/86744222</marc:subfield>
+            <marc:subfield code="4">trl</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="852" ind1="4" ind2="1">
             <marc:subfield code="a">British Library</marc:subfield>
@@ -9860,26 +9879,26 @@
             <marc:subfield code="a">Golding, William</marc:subfield>
             <marc:subfield code="d">1911-1993.</marc:subfield>
             <marc:subfield code="t">Clonk clonk.</marc:subfield>
-            
             <marc:subfield code="1p">http://viaf.org/viaf/89500102</marc:subfield>
             <marc:subfield code="1w">http://viaf.org/viaf/180585027</marc:subfield>
-        <marc:subfield code="l">spa</marc:subfield></marc:datafield>
+            <marc:subfield code="l">spa</marc:subfield>
+        </marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2="2">
             <marc:subfield code="a">Golding, William</marc:subfield>
             <marc:subfield code="d">1911-1993.</marc:subfield>
             <marc:subfield code="t">Envoy extraordinary.</marc:subfield>
-            
             <marc:subfield code="1p">http://viaf.org/viaf/89500102</marc:subfield>
             <marc:subfield code="1w">http://viaf.org/viaf/177762289</marc:subfield>
-        <marc:subfield code="l">spa</marc:subfield></marc:datafield>
+            <marc:subfield code="l">spa</marc:subfield>
+        </marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2="2">
             <marc:subfield code="a">Golding, William</marc:subfield>
             <marc:subfield code="d">1911-1993.</marc:subfield>
             <marc:subfield code="t">Scorpion god.</marc:subfield>
-            
             <marc:subfield code="1p">http://viaf.org/viaf/89500102</marc:subfield>
             <marc:subfield code="1w">http://viaf.org/viaf/308018847</marc:subfield>
-        <marc:subfield code="l">spa</marc:subfield></marc:datafield>
+            <marc:subfield code="l">spa</marc:subfield>
+        </marc:datafield>
         <marc:datafield tag="852" ind1="4" ind2="1">
             <marc:subfield code="a">British Library</marc:subfield>
             <marc:subfield code="b">HMNTS</marc:subfield>
@@ -11209,6 +11228,7 @@
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Stiehl, Hermann.</marc:subfield>
             <marc:subfield code="1p">stiehlhermann</marc:subfield>
+            <marc:subfield code="4">trl</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="852" ind1="4" ind2="1">
             <marc:subfield code="a">British Library</marc:subfield>
@@ -11622,6 +11642,7 @@
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Vergara, Carmen</marc:subfield>
             <marc:subfield code="1p">http://viaf.org/viaf/86744222</marc:subfield>
+            <marc:subfield code="4">trl</marc:subfield>
         </marc:datafield>
     </marc:record>
     <marc:record source="1983-BNE-UK-William-Golding.xml">
@@ -11736,6 +11757,8 @@
             <marc:subfield code="a">Janés, Clara</marc:subfield>
             <marc:subfield code="d">1940-</marc:subfield>
             <marc:subfield code="1p">jansclara</marc:subfield>
+            <marc:subfield code="4">aui</marc:subfield>
+            <marc:subfield code="4">trl</marc:subfield>
         </marc:datafield>
     </marc:record>
     <marc:record source="1983-BNE-UK-William-Golding.xml">
@@ -11887,6 +11910,7 @@
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Goligorsky, Eduardo</marc:subfield>
             <marc:subfield code="1p">goligorskyeduardo</marc:subfield>
+            <marc:subfield code="4">trl</marc:subfield>
         </marc:datafield>
     </marc:record>
     <marc:record source="1983-BNE-UK-William-Golding.xml">
@@ -12035,42 +12059,50 @@
             <marc:subfield code="a">Cine de aventuras y acción </marc:subfield>
             <marc:subfield code="2">tgfbne</marc:subfield>
         </marc:datafield>
-        <marc:datafield tag="700" ind1="1" ind2="2">
+        <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Golding, William</marc:subfield>
             <marc:subfield code="d">1911-1993</marc:subfield>
             <marc:subfield code="t">Lord of the flies </marc:subfield>
             <marc:subfield code="1p">http://viaf.org/viaf/89500102</marc:subfield>
             <marc:subfield code="1w">http://viaf.org/viaf/119144648592107423604</marc:subfield>
             <marc:subfield code="4">http://rdaregistry.info/Elements/w/motionPictureAdaptationOfWork.en</marc:subfield>
-        <marc:subfield code="l">spa</marc:subfield></marc:datafield>
+            <marc:subfield code="l">spa</marc:subfield>
+        </marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
-            <marc:subfield code="a">Hook, Harry </marc:subfield>
+            <marc:subfield code="a">Hook, Harry</marc:subfield>
             <marc:subfield code="1p">hookharry</marc:subfield>
+            <marc:subfield code="4">drt</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
-            <marc:subfield code="a">Milloy, Ross </marc:subfield>
+            <marc:subfield code="a">Milloy, Ross</marc:subfield>
             <marc:subfield code="1p">milloyross</marc:subfield>
+            <marc:subfield code="4">pro</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
-            <marc:subfield code="a">Schiff, Sara </marc:subfield>
+            <marc:subfield code="a">Schiff, Sara</marc:subfield>
             <marc:subfield code="1p">schiffsara</marc:subfield>
+            <marc:subfield code="4">aus</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Fuhrer, Martin </marc:subfield>
             <marc:subfield code="1p">fuhrermartin</marc:subfield>
+            <marc:subfield code="4">pht</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Getty, Balthazar</marc:subfield>
             <marc:subfield code="d">1975- </marc:subfield>
             <marc:subfield code="1p">gettybalthazar</marc:subfield>
+            <marc:subfield code="4">act</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Furth, Chris </marc:subfield>
             <marc:subfield code="1p">furthchris</marc:subfield>
+            <marc:subfield code="4">act</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Pipoly, Daniel </marc:subfield>
             <marc:subfield code="1p">pipolydaniel</marc:subfield>
+            <marc:subfield code="4">act</marc:subfield>
         </marc:datafield>
     </marc:record>
     <marc:record source="1983-BNE-UK-William-Golding.xml">
@@ -12149,42 +12181,50 @@
             <marc:subfield code="a">Cine de aventuras y acción</marc:subfield>
             <marc:subfield code="2">tgfbne</marc:subfield>
         </marc:datafield>
-        <marc:datafield tag="700" ind1="1" ind2="2">
+        <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Golding, William</marc:subfield>
             <marc:subfield code="d">1911-1993</marc:subfield>
             <marc:subfield code="t">Lord of the flies</marc:subfield>
             <marc:subfield code="1p">http://viaf.org/viaf/89500102</marc:subfield>
             <marc:subfield code="1w">http://viaf.org/viaf/119144648592107423604</marc:subfield>
             <marc:subfield code="4">http://rdaregistry.info/Elements/w/motionPictureAdaptationOfWork.en</marc:subfield>
-        <marc:subfield code="l">spa</marc:subfield></marc:datafield>
+            <marc:subfield code="l">spa</marc:subfield>
+        </marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Hook, Harry</marc:subfield>
             <marc:subfield code="1p">hookharry</marc:subfield>
+            <marc:subfield code="4">drt</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Milloy, Ross</marc:subfield>
             <marc:subfield code="1p">milloyross</marc:subfield>
+            <marc:subfield code="4">pro</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Schiff, Sara</marc:subfield>
             <marc:subfield code="1p">schiffsara</marc:subfield>
+            <marc:subfield code="4">aus</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Fuhrer, Martin</marc:subfield>
             <marc:subfield code="1p">fuhrermartin</marc:subfield>
+            <marc:subfield code="4">pht</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Getty, Balthazar</marc:subfield>
             <marc:subfield code="d">1975-</marc:subfield>
             <marc:subfield code="1p">gettybalthazar</marc:subfield>
+            <marc:subfield code="4">act</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Furth, Chris</marc:subfield>
             <marc:subfield code="1p">furthchris</marc:subfield>
+            <marc:subfield code="4">act</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Pipoly, Daniel</marc:subfield>
             <marc:subfield code="1p">pipolydaniel</marc:subfield>
+            <marc:subfield code="4">act</marc:subfield>
         </marc:datafield>
     </marc:record>
     <marc:record source="1983-BNE-UK-William-Golding.xml">
@@ -12263,47 +12303,56 @@
             <marc:subfield code="a">Cine de aventuras y acción</marc:subfield>
             <marc:subfield code="2">tgfbne</marc:subfield>
         </marc:datafield>
-        <marc:datafield tag="700" ind1="1" ind2="2">
+        <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Golding, William</marc:subfield>
             <marc:subfield code="d">1911-1993</marc:subfield>
             <marc:subfield code="t">Lord of the flies</marc:subfield>
             <marc:subfield code="1p">http://viaf.org/viaf/89500102</marc:subfield>
             <marc:subfield code="1w">http://viaf.org/viaf/119144648592107423604</marc:subfield>
             <marc:subfield code="4">http://rdaregistry.info/Elements/w/motionPictureAdaptationOfWork.en</marc:subfield>
-        <marc:subfield code="l">spa</marc:subfield></marc:datafield>
+            <marc:subfield code="l">spa</marc:subfield>
+        </marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Hook, Harry</marc:subfield>
             <marc:subfield code="1p">hookharry</marc:subfield>
+            <marc:subfield code="4">drt</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Milloy, Ross</marc:subfield>
             <marc:subfield code="1p">milloyross</marc:subfield>
+            <marc:subfield code="4">pro</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Schiff, Sara</marc:subfield>
             <marc:subfield code="1p">schiffsara</marc:subfield>
+            <marc:subfield code="4">aus</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Fuhrer, Martin</marc:subfield>
             <marc:subfield code="1p">fuhrermartin</marc:subfield>
+            <marc:subfield code="4">pht</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Sarde, Philippe</marc:subfield>
             <marc:subfield code="d">1945-</marc:subfield>
             <marc:subfield code="1p">sardephilippe</marc:subfield>
+            <marc:subfield code="4">cmp</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Getty, Balthazar</marc:subfield>
             <marc:subfield code="d">1975-</marc:subfield>
             <marc:subfield code="1p">gettybalthazar</marc:subfield>
+            <marc:subfield code="4">act</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Furth, Chris</marc:subfield>
             <marc:subfield code="1p">furthchris</marc:subfield>
+            <marc:subfield code="4">act</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Pipoly, Daniel</marc:subfield>
             <marc:subfield code="1p">pipolydaniel</marc:subfield>
+            <marc:subfield code="4">act</marc:subfield>
         </marc:datafield>
     </marc:record>
     <marc:record source="1983-BNE-UK-William-Golding.xml">
@@ -12374,6 +12423,7 @@
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Vergara, Carmen</marc:subfield>
             <marc:subfield code="1p">http://viaf.org/viaf/86744222</marc:subfield>
+            <marc:subfield code="4">trl</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="830" ind1=" " ind2="3">
             <marc:subfield code="a">El libro de bolsillo (Alianza Editorial).</marc:subfield>
@@ -12457,6 +12507,7 @@
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Santos Fontenla, Fernando</marc:subfield>
             <marc:subfield code="1p">santosfontenlafernando</marc:subfield>
+            <marc:subfield code="4">trl</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="830" ind1=" " ind2="3">
             <marc:subfield code="a">El libro de bolsillo.</marc:subfield>
@@ -12650,6 +12701,7 @@
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Goligorsky, Eduardo</marc:subfield>
             <marc:subfield code="1p">goligorskyeduardo</marc:subfield>
+            <marc:subfield code="4">trl</marc:subfield>
         </marc:datafield>
     </marc:record>
     <marc:record source="1983-BNE-UK-William-Golding.xml">
@@ -12721,6 +12773,7 @@
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Vergara, Carmen</marc:subfield>
             <marc:subfield code="1p">http://viaf.org/viaf/86744222</marc:subfield>
+            <marc:subfield code="4">trl</marc:subfield>
         </marc:datafield>
     </marc:record>
     <marc:record source="1983-BNE-UK-William-Golding.xml">
@@ -12793,6 +12846,7 @@
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Laurora, Horacio</marc:subfield>
             <marc:subfield code="1p">laurorahoracio</marc:subfield>
+            <marc:subfield code="4">trl</marc:subfield>
         </marc:datafield>
     </marc:record>
     <marc:record source="1983-BNE-UK-William-Golding.xml">
@@ -13139,6 +13193,7 @@
             <marc:subfield code="a">Champourcin, Ernestina de</marc:subfield>
             <marc:subfield code="d">1905-1999</marc:subfield>
             <marc:subfield code="1p">champourcinernestinade</marc:subfield>
+            <marc:subfield code="4">trl</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="740" ind1="0" ind2="2">
             <marc:subfield code="a">Clonc, clonc</marc:subfield>
@@ -13220,6 +13275,7 @@
             <marc:subfield code="a">Champourcin, Ernestina de</marc:subfield>
             <marc:subfield code="d">1905-1999</marc:subfield>
             <marc:subfield code="1p">champourcinernestinade</marc:subfield>
+            <marc:subfield code="4">trl</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="740" ind1="0" ind2="0">
             <marc:subfield code="a">Clonc Clonc.</marc:subfield>
@@ -13366,6 +13422,7 @@
             <marc:subfield code="a">Bosch, Andrés</marc:subfield>
             <marc:subfield code="d">1926-1984</marc:subfield>
             <marc:subfield code="1p">boschandrs</marc:subfield>
+            <marc:subfield code="4">trl</marc:subfield>
         </marc:datafield>
     </marc:record>
     <marc:record source="1983-BNE-UK-William-Golding.xml">
@@ -13434,6 +13491,7 @@
         <marc:datafield tag="700" ind1="1" ind2="1">
             <marc:subfield code="a">Goligorsky, Eduardo</marc:subfield>
             <marc:subfield code="1p">goligorskyeduardo</marc:subfield>
+            <marc:subfield code="4">trl</marc:subfield>
         </marc:datafield>
     </marc:record>
     <marc:record source="1983-BNE-UK-William-Golding.xml">
@@ -13505,6 +13563,8 @@
             <marc:subfield code="a">Janés, Clara</marc:subfield>
             <marc:subfield code="d">1940-</marc:subfield>
             <marc:subfield code="1p">jansclara</marc:subfield>
+            <marc:subfield code="4">trl</marc:subfield>
+            <marc:subfield code="4">aui</marc:subfield>
         </marc:datafield>
     </marc:record>
     <marc:record source="1983-BNE-UK-William-Golding.xml">
@@ -13575,6 +13635,7 @@
             <marc:subfield code="a">Champourcin, Ernestina de</marc:subfield>
             <marc:subfield code="d">1905-1999</marc:subfield>
             <marc:subfield code="1p">champourcinernestinade</marc:subfield>
+            <marc:subfield code="4">trl</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="740" ind1="0" ind2="0">
             <marc:subfield code="a">Clonc Clonc.</marc:subfield>
@@ -13642,6 +13703,7 @@
             <marc:subfield code="a">Bosch, Andrés</marc:subfield>
             <marc:subfield code="d">1926-1984</marc:subfield>
             <marc:subfield code="1p">boschandrs</marc:subfield>
+            <marc:subfield code="4">trl</marc:subfield>
         </marc:datafield>
     </marc:record>
     <marc:record source="1983-BNE-UK-William-Golding.xml">
@@ -13706,6 +13768,7 @@
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Golygorsky, Eduardo</marc:subfield>
             <marc:subfield code="1p">golygorskyeduardo</marc:subfield>
+            <marc:subfield code="4">trl</marc:subfield>
         </marc:datafield>
     </marc:record>
     <marc:record source="1983-BNE-UK-William-Golding.xml">
@@ -13830,6 +13893,7 @@
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Vergara, Carmen</marc:subfield>
             <marc:subfield code="1p">http://viaf.org/viaf/86744222</marc:subfield>
+            <marc:subfield code="4">trl</marc:subfield>
         </marc:datafield>
     </marc:record>
     <marc:record source="1983-BNE-UK-William-Golding.xml">
@@ -13899,6 +13963,7 @@
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Vergara, Carmen</marc:subfield>
             <marc:subfield code="1p">http://viaf.org/viaf/86744222</marc:subfield>
+            <marc:subfield code="4">trl</marc:subfield>
         </marc:datafield>
     </marc:record>
     <marc:record source="1983-BNE-UK-William-Golding.xml">
@@ -13969,6 +14034,7 @@
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Santos Fontenla, Fernando</marc:subfield>
             <marc:subfield code="1p">santosfontenlafernando</marc:subfield>
+            <marc:subfield code="4">trl</marc:subfield>
         </marc:datafield>
     </marc:record>
     <marc:record source="1983-BNE-UK-William-Golding.xml">
@@ -14043,6 +14109,7 @@
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Santos Fontenla, Fernando</marc:subfield>
             <marc:subfield code="1p">santosfontenlafernando</marc:subfield>
+            <marc:subfield code="4">trl</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="830" ind1=" " ind2="3">
             <marc:subfield code="a">El libro de bolsillo.</marc:subfield>
@@ -14111,6 +14178,7 @@
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Golygorsky, Eduardo</marc:subfield>
             <marc:subfield code="1p">golygorskyeduardo</marc:subfield>
+            <marc:subfield code="4">trl</marc:subfield>
         </marc:datafield>
     </marc:record>
     <marc:record source="1983-BNE-UK-William-Golding.xml">
@@ -14180,6 +14248,7 @@
             <marc:subfield code="a">Echávarri, Luis</marc:subfield>
             <marc:subfield code="q">Luis G. de</marc:subfield>
             <marc:subfield code="1p">echvarriluis</marc:subfield>
+            <marc:subfield code="4">trl</marc:subfield>
         </marc:datafield>
     </marc:record>
     <marc:record source="1983-BNE-UK-William-Golding.xml">
@@ -14307,6 +14376,7 @@
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Vergara, Carmen</marc:subfield>
             <marc:subfield code="1p">http://viaf.org/viaf/86744222</marc:subfield>
+            <marc:subfield code="4">trl</marc:subfield>
         </marc:datafield>
     </marc:record>
     <marc:record source="1983-BNE-UK-William-Golding.xml">
@@ -14377,6 +14447,7 @@
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Vergara, Carmen</marc:subfield>
             <marc:subfield code="1p">http://viaf.org/viaf/86744222</marc:subfield>
+            <marc:subfield code="4">trl</marc:subfield>
         </marc:datafield>
     </marc:record>
     <marc:record source="1983-BNE-UK-William-Golding.xml">
@@ -14458,6 +14529,7 @@
             <marc:subfield code="a">Crespo, Manuel</marc:subfield>
             <marc:subfield code="q">Crespo Veigas</marc:subfield>
             <marc:subfield code="1p">crespomanuel</marc:subfield>
+            <marc:subfield code="4">trl</marc:subfield>
         </marc:datafield>
     </marc:record>
     <marc:record source="1983-BNE-UK-William-Golding.xml">
@@ -14531,6 +14603,7 @@
             <marc:subfield code="a">Fernández, Javier</marc:subfield>
             <marc:subfield code="d">1971-</marc:subfield>
             <marc:subfield code="1p">fernndezjavier</marc:subfield>
+            <marc:subfield code="4">trl</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="830" ind1=" " ind2="0">
             <marc:subfield code="a">Letras universales</marc:subfield>
@@ -14695,6 +14768,7 @@
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Franco Aixelá, Javier</marc:subfield>
             <marc:subfield code="1p">francoaixeljavier</marc:subfield>
+            <marc:subfield code="4">trl</marc:subfield>
         </marc:datafield>
     </marc:record>
     <marc:record source="1983-BNE-UK-William-Golding.xml">
@@ -14763,6 +14837,7 @@
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Goligorsky, Eduardo</marc:subfield>
             <marc:subfield code="1p">goligorskyeduardo</marc:subfield>
+            <marc:subfield code="4">trl</marc:subfield>
         </marc:datafield>
     </marc:record>
     <marc:record source="1983-BNE-UK-William-Golding.xml">
@@ -14838,6 +14913,7 @@
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Vergara, Carmen</marc:subfield>
             <marc:subfield code="1p">http://viaf.org/viaf/86744222</marc:subfield>
+            <marc:subfield code="4">trl</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="830" ind1=" " ind2="3">
             <marc:subfield code="a">El libro de bolsillo.</marc:subfield>
@@ -15040,10 +15116,12 @@
             <marc:subfield code="a">Salvador, Tomás</marc:subfield>
             <marc:subfield code="d">1921-1984</marc:subfield>
             <marc:subfield code="1p">salvadortoms</marc:subfield>
+            <marc:subfield code="4">pre</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Vergara, Carmen</marc:subfield>
             <marc:subfield code="1p">http://viaf.org/viaf/86744222</marc:subfield>
+            <marc:subfield code="4">trl</marc:subfield>
         </marc:datafield>
     </marc:record>
     <marc:record source="1983-BNE-UK-William-Golding.xml">
@@ -15245,6 +15323,7 @@
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Vergara, Carmen</marc:subfield>
             <marc:subfield code="1p">http://viaf.org/viaf/86744222</marc:subfield>
+            <marc:subfield code="4">trl</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="830" ind1=" " ind2="3">
             <marc:subfield code="a">El libro de bolsillo (Alianza Editorial)</marc:subfield>
@@ -15325,6 +15404,7 @@
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Vergara, Carmen</marc:subfield>
             <marc:subfield code="1p">http://viaf.org/viaf/86744222</marc:subfield>
+            <marc:subfield code="4">trl</marc:subfield>
         </marc:datafield>
     </marc:record>
     <marc:record source="1983-BNE-UK-William-Golding.xml">
@@ -15399,6 +15479,7 @@
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Santos Fontenla, Fernando</marc:subfield>
             <marc:subfield code="1p">santosfontenlafernando</marc:subfield>
+            <marc:subfield code="4">trl</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="830" ind1=" " ind2="3">
             <marc:subfield code="a">El libro de bolsillo.</marc:subfield>
@@ -15472,6 +15553,7 @@
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Santos Fontenla, Fernando</marc:subfield>
             <marc:subfield code="1p">santosfontenlafernando</marc:subfield>
+            <marc:subfield code="4">trl</marc:subfield>
         </marc:datafield>
     </marc:record>
     <marc:record source="1983-BNE-UK-William-Golding.xml">
@@ -15631,20 +15713,25 @@
             <marc:subfield code="a">Brook, Peter</marc:subfield>
             <marc:subfield code="d">1925-</marc:subfield>
             <marc:subfield code="1p">brookpeter</marc:subfield>
+            <marc:subfield code="4">drt</marc:subfield>
+            <marc:subfield code="4">aus</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Leppard, Raymond</marc:subfield>
             <marc:subfield code="d">1927-</marc:subfield>
             <marc:subfield code="1p">leppardraymond</marc:subfield>
+            <marc:subfield code="4">cmp</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Hollyman, Tom</marc:subfield>
             <marc:subfield code="1p">hollymantom</marc:subfield>
+            <marc:subfield code="4">pht</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Allen, Lewis M.</marc:subfield>
             <marc:subfield code="d">1922-2003</marc:subfield>
             <marc:subfield code="1p">allenlewism</marc:subfield>
+            <marc:subfield code="4">pro</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Golding, William</marc:subfield>
@@ -15658,25 +15745,18 @@
             <marc:subfield code="a">Aubrey, James</marc:subfield>
             <marc:subfield code="d">1947-2010</marc:subfield>
             <marc:subfield code="1p">aubreyjames</marc:subfield>
+            <marc:subfield code="4">act</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Chapin, Tom</marc:subfield>
             <marc:subfield code="1p">chapintom</marc:subfield>
+            <marc:subfield code="4">act</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Edwards, Hugh</marc:subfield>
             <marc:subfield code="d">1951-</marc:subfield>
             <marc:subfield code="1p">edwardshugh</marc:subfield>
-        </marc:datafield>
-        <marc:datafield tag="700" ind1="1" ind2=" ">
-            <marc:subfield code="a">Foster, John</marc:subfield>
-            <marc:subfield code="c">(director)</marc:subfield>
-            <marc:subfield code="1p">fosterjohn</marc:subfield>
-        </marc:datafield>
-        <marc:datafield tag="700" ind1="1" ind2=" ">
-            <marc:subfield code="a">Rufle, George</marc:subfield>
-            <marc:subfield code="d">1901-1974</marc:subfield>
-            <marc:subfield code="1p">ruflegeorge</marc:subfield>
+            <marc:subfield code="4">act</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="730" ind1="0" ind2="2">
             <marc:subfield code="a">Plane dumb</marc:subfield>
@@ -15756,6 +15836,7 @@
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Vergara, Carmen</marc:subfield>
             <marc:subfield code="1p">http://viaf.org/viaf/86744222</marc:subfield>
+            <marc:subfield code="4">trl</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="830" ind1=" " ind2="3">
             <marc:subfield code="a">El libro de bolsillo (Alianza Editorial)</marc:subfield>
@@ -15833,6 +15914,7 @@
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Vergara, Carmen</marc:subfield>
             <marc:subfield code="1p">http://viaf.org/viaf/86744222</marc:subfield>
+            <marc:subfield code="4">trl</marc:subfield>
         </marc:datafield>
     </marc:record>
     <marc:record source="1983-BNE-UK-William-Golding.xml">
@@ -15900,6 +15982,7 @@
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Santos Fontenla, Fernando</marc:subfield>
             <marc:subfield code="1p">santosfontenlafernando</marc:subfield>
+            <marc:subfield code="4">trl</marc:subfield>
         </marc:datafield>
     </marc:record>
     <marc:record source="1983-BNE-UK-William-Golding.xml">
@@ -15972,6 +16055,7 @@
             <marc:subfield code="a">Champourcin, Ernestina de</marc:subfield>
             <marc:subfield code="d">1905-1999</marc:subfield>
             <marc:subfield code="1p">champourcinernestinade</marc:subfield>
+            <marc:subfield code="4">trl</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="740" ind1="0" ind2="0">
             <marc:subfield code="a">Clonc clonc.</marc:subfield>
@@ -16041,6 +16125,7 @@
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Vergara, Carmen</marc:subfield>
             <marc:subfield code="1p">http://viaf.org/viaf/86744222</marc:subfield>
+            <marc:subfield code="4">trl</marc:subfield>
         </marc:datafield>
     </marc:record>
     <marc:record source="1983-BNE-UK-William-Golding.xml">
@@ -16115,6 +16200,7 @@
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Vergara, Carmen</marc:subfield>
             <marc:subfield code="1p">http://viaf.org/viaf/86744222</marc:subfield>
+            <marc:subfield code="4">trl</marc:subfield>
         </marc:datafield>
     </marc:record>
     <marc:record source="1983-BNE-UK-William-Golding.xml">
@@ -16185,6 +16271,7 @@
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Santos Fontenla, Fernando</marc:subfield>
             <marc:subfield code="1p">santosfontenlafernando</marc:subfield>
+            <marc:subfield code="4">trl</marc:subfield>
         </marc:datafield>
     </marc:record>
     <marc:record source="1983-BNE-UK-William-Golding.xml">
@@ -16254,11 +16341,13 @@
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Vergara, Carmen</marc:subfield>
             <marc:subfield code="1p">http://viaf.org/viaf/86744222</marc:subfield>
+            <marc:subfield code="4">trl</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Salvador, Tomás</marc:subfield>
             <marc:subfield code="d">1921-1984</marc:subfield>
             <marc:subfield code="1p">salvadortoms</marc:subfield>
+            <marc:subfield code="4">pre</marc:subfield>
         </marc:datafield>
     </marc:record>
     <marc:record source="1983-BNE-UK-William-Golding.xml">
@@ -16323,10 +16412,12 @@
             <marc:subfield code="a">Salvador, Tomás</marc:subfield>
             <marc:subfield code="d">1921-1984</marc:subfield>
             <marc:subfield code="1p">salvadortoms</marc:subfield>
+            <marc:subfield code="4">pre</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Vergara, Carmen</marc:subfield>
             <marc:subfield code="1p">http://viaf.org/viaf/86744222</marc:subfield>
+            <marc:subfield code="4">trl</marc:subfield>
         </marc:datafield>
     </marc:record>
     <marc:record source="1983-BNE-UK-William-Golding.xml">
@@ -16398,6 +16489,7 @@
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Santos Fontenla, Fernando</marc:subfield>
             <marc:subfield code="1p">santosfontenlafernando</marc:subfield>
+            <marc:subfield code="4">trl</marc:subfield>
         </marc:datafield>
     </marc:record>
     <marc:record type="Bibliographic" source="1983-DNB-UK-William-Golding.xml">
@@ -16723,7 +16815,8 @@
         <marc:datafield ind1="1" ind2="2" tag="240">
             <marc:subfield code="a">An Egyptian journal</marc:subfield>
             <marc:subfield code="1w">http://oslomet.workid.no/wg/01</marc:subfield>
-        <marc:subfield code="l">ger</marc:subfield></marc:datafield>
+            <marc:subfield code="l">ger</marc:subfield>
+        </marc:datafield>
         <marc:datafield ind1="0" ind2="0" tag="245">
             <marc:subfield code="a">Ein ägyptisches Tagebuch</marc:subfield>
             <marc:subfield code="c">William Golding. Aus d. Engl. von Renate Orth-Guttmann</marc:subfield>
@@ -17280,7 +17373,8 @@
         <marc:datafield ind1="1" ind2="2" tag="240">
             <marc:subfield code="a">Rites of passage</marc:subfield>
             <marc:subfield code="1w">http://viaf.org/viaf/176165653</marc:subfield>
-        <marc:subfield code="l">ger</marc:subfield></marc:datafield>
+            <marc:subfield code="l">ger</marc:subfield>
+        </marc:datafield>
         <marc:datafield ind1="0" ind2="0" tag="245">
             <marc:subfield code="a">Äquatortaufe</marc:subfield>
             <marc:subfield code="b">Roman</marc:subfield>
@@ -25309,7 +25403,8 @@
         <marc:datafield ind1="1" ind2="2" tag="240">
             <marc:subfield code="a">The paper men</marc:subfield>
             <marc:subfield code="1w">http://viaf.org/viaf/188302088</marc:subfield>
-        <marc:subfield code="l">ger</marc:subfield></marc:datafield>
+            <marc:subfield code="l">ger</marc:subfield>
+        </marc:datafield>
         <marc:datafield ind1="0" ind2="0" tag="245">
             <marc:subfield code="a">Papier-Männer</marc:subfield>
             <marc:subfield code="b">Roman</marc:subfield>
@@ -25416,7 +25511,8 @@
         <marc:datafield ind1="1" ind2="2" tag="240">
             <marc:subfield code="a">Rites of passage</marc:subfield>
             <marc:subfield code="1w">http://viaf.org/viaf/176165653</marc:subfield>
-        <marc:subfield code="l">ger</marc:subfield></marc:datafield>
+            <marc:subfield code="l">ger</marc:subfield>
+        </marc:datafield>
         <marc:datafield ind1="0" ind2="0" tag="245">
             <marc:subfield code="a">Äquatortaufe</marc:subfield>
             <marc:subfield code="b">Roman</marc:subfield>
@@ -25708,7 +25804,8 @@
         <marc:datafield ind1="1" ind2="2" tag="240">
             <marc:subfield code="a">The paper men</marc:subfield>
             <marc:subfield code="1w">http://viaf.org/viaf/188302088</marc:subfield>
-        <marc:subfield code="l">ger</marc:subfield></marc:datafield>
+            <marc:subfield code="l">ger</marc:subfield>
+        </marc:datafield>
         <marc:datafield ind1="0" ind2="0" tag="245">
             <marc:subfield code="a">Papier-Männer</marc:subfield>
             <marc:subfield code="b">Roman</marc:subfield>
@@ -26958,7 +27055,8 @@
         <marc:datafield ind1="1" ind2="2" tag="240">
             <marc:subfield code="a">Rites of passage</marc:subfield>
             <marc:subfield code="1w">http://viaf.org/viaf/176165653</marc:subfield>
-        <marc:subfield code="l">ger</marc:subfield></marc:datafield>
+            <marc:subfield code="l">ger</marc:subfield>
+        </marc:datafield>
         <marc:datafield ind1="0" ind2="0" tag="245">
             <marc:subfield code="a">Äquatortaufe</marc:subfield>
             <marc:subfield code="b">Roman</marc:subfield>
@@ -29441,7 +29539,8 @@
         <marc:datafield ind1="1" ind2="2" tag="240">
             <marc:subfield code="a">The paper men</marc:subfield>
             <marc:subfield code="1w">http://viaf.org/viaf/188302088</marc:subfield>
-        <marc:subfield code="l">ger</marc:subfield></marc:datafield>
+            <marc:subfield code="l">ger</marc:subfield>
+        </marc:datafield>
         <marc:datafield ind1="0" ind2="0" tag="245">
             <marc:subfield code="a">Papier-Männer</marc:subfield>
             <marc:subfield code="b">Roman</marc:subfield>
@@ -30058,7 +30157,8 @@
             <marc:subfield code="g">dt.</marc:subfield>
             <marc:subfield code="1p">http://viaf.org/viaf/89500102</marc:subfield>
             <marc:subfield code="1w">http://viaf.org/viaf/177762289</marc:subfield>
-        <marc:subfield code="l">ger</marc:subfield></marc:datafield>
+            <marc:subfield code="l">ger</marc:subfield>
+        </marc:datafield>
         <marc:datafield ind1="1" ind2="2" tag="700">
             <marc:subfield code="a">Golding, William</marc:subfield>
             <marc:subfield code="d">1911-1993</marc:subfield>
@@ -30068,8 +30168,8 @@
             <marc:subfield code="t">The Scorpion God</marc:subfield>
             <marc:subfield code="1w">http://viaf.org/viaf/308018847</marc:subfield>
             <marc:subfield code="2">generated from 245</marc:subfield>
-            
-        <marc:subfield code="l">ger</marc:subfield></marc:datafield>
+            <marc:subfield code="l">ger</marc:subfield>
+        </marc:datafield>
         <marc:datafield ind1=" " ind2="0" tag="830">
             <marc:subfield code="a">Goldmann</marc:subfield>
             <marc:subfield code="v">6694</marc:subfield>
@@ -35478,7 +35578,7 @@
         <marc:datafield ind1="1" ind2=" " tag="700">
             <marc:subfield code="a">Broch, Nicolai Cleve</marc:subfield>
             <marc:subfield code="d">1975-</marc:subfield>
-            <marc:subfield code="e">medarb.</marc:subfield>
+            <marc:subfield code="4">nrt</marc:subfield>
             <marc:subfield code="0">(NO-TrBIB)1079752</marc:subfield>
             <marc:subfield code="1p">brochnicolaicleve</marc:subfield>
         </marc:datafield>

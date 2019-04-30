@@ -204,6 +204,17 @@
       <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10078 rdf:resource="http://www.wikidata.org/entity/q860831/eng/"/>
    </c:C10001>
+   <c:C10004 rdf:about="gillettewilliamhooker">
+      <a:P50094>gillettewilliamhooker</a:P50094>
+      <a:P50111>Gillette, William Hooker</a:P50111>
+      <a:P50161 rdf:resource="http://viaf.org/viaf/174141344/nob/"/>
+   </c:C10004>
+   <c:C10004 rdf:about="http://viaf.org/viaf/2555146">
+      <a:P50094>http://viaf.org/viaf/2555146</a:P50094>
+      <a:P50111>Paget, Sidney</a:P50111>
+      <a:P50107>1860-1908</a:P50107>
+      <a:P50161 rdf:resource="http://viaf.org/viaf/179668970/eng/"/>
+   </c:C10004>
    <c:C10004 rdf:about="http://viaf.org/viaf/65283845">
       <a:P50094>http://viaf.org/viaf/65283845</a:P50094>
       <a:P50111>Doyle, Arthur Conan</a:P50111>
@@ -242,6 +253,11 @@
       <a:P50195 rdf:resource="http://viaf.org/viaf/174141344"/>
       <a:P50195 rdf:resource="http://viaf.org/viaf/309272292"/>
    </c:C10004>
+   <c:C10004 rdf:about="mijewskaeugenia">
+      <a:P50094>mijewskaeugenia</a:P50094>
+      <a:P50111>Żmijewska, Eugenia</a:P50111>
+      <a:P50161 rdf:resource="http://viaf.org/viaf/181625655/eng/"/>
+   </c:C10004>
    <c:C10006 rdf:about="http://viaf.org/viaf/1390154501894339210002/eng/">
       <e:P20006>eng</e:P20006>
       <e:P20059 rdf:resource="http://example.org/999920608219902201"/>
@@ -251,6 +267,7 @@
    </c:C10006>
    <c:C10006 rdf:about="http://viaf.org/viaf/174141344/nob/">
       <e:P20006>nob</e:P20006>
+      <e:P20053 rdf:resource="gillettewilliamhooker"/>
       <e:P20059 rdf:resource="http://example.org/991427867644702201"/>
       <e:P20231 rdf:resource="http://viaf.org/viaf/174141344"/>
    </c:C10006>
@@ -269,6 +286,7 @@
    </c:C10006>
    <c:C10006 rdf:about="http://viaf.org/viaf/179668970/eng/">
       <e:P20006>eng</e:P20006>
+      <e:P20053 rdf:resource="http://viaf.org/viaf/2555146"/>
       <e:P20059 rdf:resource="http://example.org/999920605580102201"/>
       <e:P20059 rdf:resource="http://example.org/999920608165702201"/>
       <e:P20231 rdf:resource="http://viaf.org/viaf/179668970"/>
@@ -281,6 +299,7 @@
    </c:C10006>
    <c:C10006 rdf:about="http://viaf.org/viaf/181625655/eng/">
       <e:P20006>eng</e:P20006>
+      <e:P20053 rdf:resource="mijewskaeugenia"/>
       <e:P20059 rdf:resource="urn:isbn:014043786"/>
       <e:P20059 rdf:resource="urn:isbn:0585099448"/>
       <e:P20059 rdf:resource="http://example.org/999920608770802201"/>

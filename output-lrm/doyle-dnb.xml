@@ -5,14 +5,15 @@
          xmlns:xs="http://www.w3.org/2001/XMLSchema"
          xmlns:c="http://rdaregistry.info/Elements/c/"
          xmlns:w="http://rdaregistry.info/Elements/w/"
-         xmlns:a="http://rdaregistry.info/Elements/a/"
          xmlns:e="http://rdaregistry.info/Elements/e/"
+         xmlns:a="http://rdaregistry.info/Elements/a/"
          xmlns:marc="http://marc21rdf.info/elements/marc/"
          xmlns:m="http://rdaregistry.info/Elements/m/"
          xml:base="http://example.org/rda/">
    <c:C10001 rdf:about="http://viaf.org/viaf/">
       <w:P10002>http://viaf.org/viaf/</w:P10002>
       <w:P10088>Uncle Bernac</w:P10088>
+      <w:P10055 rdf:resource="http://viaf.org/viaf/92881077"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf//ger/text"/>
    </c:C10001>
@@ -27,7 +28,6 @@
       <w:P10088>His last bow</w:P10088>
       <w:P10088>His last Bow</w:P10088>
       <w:P10088>His Last Bow</w:P10088>
-      <w:P10019 rdf:resource="http://viaf.org/viaf/174141344"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10061 rdf:resource="blakesheba"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/1390154501894339210002/ger/text"/>
@@ -36,28 +36,15 @@
    <c:C10001 rdf:about="http://viaf.org/viaf/174141344">
       <w:P10002>http://viaf.org/viaf/174141344</w:P10002>
       <w:P10088>Sherlock Holmes</w:P10088>
-      <w:P10003>[...]</w:P10003>
-      <w:P10088>Sherlock Holmes : Romane</w:P10088>
-      <w:P10088>Sherlock Holmes : Erzählungen</w:P10088>
       <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
+      <w:P10061 rdf:resource="gillettewilliam"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/174141344/ger/text"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/174141344/eng/text"/>
-      <w:P10147 rdf:resource="http://viaf.org/viaf/179061639"/>
-      <w:P10147 rdf:resource="http://viaf.org/viaf/184892317"/>
-      <w:P10147 rdf:resource="http://www.wikidata.org/entity/q1129378"/>
-      <w:P10147 rdf:resource="http://viaf.org/viaf/186734487"/>
-      <w:P10147 rdf:resource="http://viaf.org/viaf/181625655"/>
-      <w:P10147 rdf:resource="http://www.wikidata.org/entity/q725752"/>
-      <w:P10147 rdf:resource="http://www.wikidata.org/entity/q860831"/>
-      <w:P10147 rdf:resource="http://viaf.org/viaf/1390154501894339210002"/>
-      <w:P10147 rdf:resource="http://viaf.org/viaf/175571309"/>
-      <w:P10147 rdf:resource="http://www.wikidata.org/entity/q2740092"/>
    </c:C10001>
    <c:C10001 rdf:about="http://viaf.org/viaf/175571309">
       <w:P10002>http://viaf.org/viaf/175571309</w:P10002>
       <w:P10088>The Valley of Fear</w:P10088>
       <w:P10088>The valley of fear</w:P10088>
-      <w:P10019 rdf:resource="http://viaf.org/viaf/174141344"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/175571309/ger/text"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/175571309/eng/text"/>
@@ -67,7 +54,8 @@
       <w:P10088>A Study in Scarlet</w:P10088>
       <w:P10088>The study in scarlet</w:P10088>
       <w:P10088>A study in scarlet</w:P10088>
-      <w:P10019 rdf:resource="http://viaf.org/viaf/174141344"/>
+      <w:P10055 rdf:resource="http://personid.no/10296"/>
+      <w:P10055 rdf:resource="guthkarlmaria"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10061 rdf:resource="blakesheba"/>
       <w:P10061 rdf:resource="rademacherfalko"/>
@@ -81,6 +69,8 @@
       <w:P10088>The Tragedy of the Korosko</w:P10088>
       <w:P10088>The tragedy of the Korosko</w:P10088>
       <w:P10088>The tragedy of the korosko</w:P10088>
+      <w:P10055 rdf:resource="hillichreinhard"/>
+      <w:P10055 rdf:resource="http://viaf.org/viaf/92881077"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/179668970/ger/text"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/179668970/eng/text"/>
@@ -92,8 +82,10 @@
       <w:P10088>The hound of Baskervilles</w:P10088>
       <w:P10013 rdf:resource="zimbercorinna"/>
       <w:P10013 rdf:resource="pastewkabastian"/>
-      <w:P10019 rdf:resource="http://viaf.org/viaf/174141344"/>
+      <w:P10053 rdf:resource="albrechthenrik"/>
+      <w:P10055 rdf:resource="nobespatrick"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
+      <w:P10064 rdf:resource="audiobuchverlag"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/181625655/eng/text"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/181625655/ger/text"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/181625655/ger/gesprocheneswort"/>
@@ -104,6 +96,7 @@
    <c:C10001 rdf:about="http://viaf.org/viaf/181810457">
       <w:P10002>http://viaf.org/viaf/181810457</w:P10002>
       <w:P10088>Beyond the city</w:P10088>
+      <w:P10055 rdf:resource="http://viaf.org/viaf/92881077"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/181810457/ger/text"/>
    </c:C10001>
@@ -111,6 +104,7 @@
       <w:P10002>http://viaf.org/viaf/181846531</w:P10002>
       <w:P10088>The speckled band</w:P10088>
       <w:P10088>The adventure of the speckled band</w:P10088>
+      <w:P10055 rdf:resource="degeringklaus"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/181846531/eng/text"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/181846531/eng/"/>
@@ -125,7 +119,6 @@
       <w:P10088>The sign of the four</w:P10088>
       <w:P10088>The Sign of four</w:P10088>
       <w:P10088>The Sign of the four</w:P10088>
-      <w:P10019 rdf:resource="http://viaf.org/viaf/174141344"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10061 rdf:resource="trotsenkovladislav"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/184892317/ger/text"/>
@@ -137,15 +130,14 @@
       <w:P10088>The adventures of Sherlock Holmes</w:P10088>
       <w:P10088>Adventures of Sherlock Holmes</w:P10088>
       <w:P10088>The Adventures of Sherlock Holmes</w:P10088>
-      <w:P10088>Die Abenteuer des Sherlock Holmes</w:P10088>
-      <w:P10019 rdf:resource="http://viaf.org/viaf/174141344"/>
+      <w:P10055 rdf:resource="degeringklaus"/>
+      <w:P10055 rdf:resource="http://personid.no/10296"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/186734487/eng/text"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/186734487/ger/gesprocheneswort"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/186734487/ger/text"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/186734487/spa/text"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/186734487/eng/gesprocheneswort"/>
-      <w:P10147 rdf:resource="http://www.wikidata.org/entity/q1140678"/>
    </c:C10001>
    <c:C10001 rdf:about="http://viaf.org/viaf/206144898662550290126">
       <w:P10002>http://viaf.org/viaf/206144898662550290126</w:P10002>
@@ -159,7 +151,13 @@
       <w:P10088>The lost world</w:P10088>
       <w:P10088>The lost World</w:P10088>
       <w:P10013 rdf:resource="marschallvonbibersteinmatern"/>
+      <w:P10019 rdf:resource="http://viaf.org/viaf/65283845/theprofessorchallengerstoriesthelostworld"/>
+      <w:P10019 rdf:resource="http://viaf.org/viaf/65283845/theprofessorchallengerstories"/>
+      <w:P10055 rdf:resource="http://viaf.org/viaf/92881077"/>
+      <w:P10055 rdf:resource="guthkarlmaria"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
+      <w:P10061 rdf:resource="albeeaprahamb"/>
+      <w:P10064 rdf:resource="audiobuchverlag"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/294145857904223021237/ger/text"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/294145857904223021237/eng/text"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/294145857904223021237/ger/gesprocheneswort"/>
@@ -167,6 +165,7 @@
    <c:C10001 rdf:about="http://viaf.org/viaf/308560745">
       <w:P10002>http://viaf.org/viaf/308560745</w:P10002>
       <w:P10088>The great shadow</w:P10088>
+      <w:P10055 rdf:resource="http://viaf.org/viaf/92881077"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/308560745/ger/text"/>
    </c:C10001>
@@ -174,6 +173,7 @@
       <w:P10002>http://viaf.org/viaf/309258340</w:P10002>
       <w:P10088>A Duet, with an Occasional Chorus</w:P10088>
       <w:P10088>A duet with an occasional chorus</w:P10088>
+      <w:P10055 rdf:resource="http://viaf.org/viaf/92881077"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/309258340/eng/text"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/309258340/ger/text"/>
@@ -181,6 +181,7 @@
    <c:C10001 rdf:about="http://viaf.org/viaf/309272292">
       <w:P10002>http://viaf.org/viaf/309272292</w:P10002>
       <w:P10088>The doings of Raffles Haw</w:P10088>
+      <w:P10055 rdf:resource="http://viaf.org/viaf/92881077"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/309272292/ger/text"/>
    </c:C10001>
@@ -188,12 +189,14 @@
       <w:P10002>http://viaf.org/viaf/309533947</w:P10002>
       <w:P10088>The naval Treaty</w:P10088>
       <w:P10088>The Naval Treaty</w:P10088>
+      <e:P20049 rdf:resource="zeidlerkurt"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/309533947/ger/text"/>
    </c:C10001>
    <c:C10001 rdf:about="http://viaf.org/viaf/310211956">
       <w:P10002>http://viaf.org/viaf/310211956</w:P10002>
       <w:P10088>Rodney Stone</w:P10088>
+      <w:P10055 rdf:resource="http://viaf.org/viaf/92881077"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/310211956/ger/text"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/310211956/eng/text"/>
@@ -201,6 +204,7 @@
    <c:C10001 rdf:about="http://viaf.org/viaf/310212942">
       <w:P10002>http://viaf.org/viaf/310212942</w:P10002>
       <w:P10088>Micah Clarke</w:P10088>
+      <w:P10055 rdf:resource="http://viaf.org/viaf/92881077"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/310212942/eng/text"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/310212942/ger/text"/>
@@ -222,6 +226,7 @@
       <w:P10002>http://viaf.org/viaf/3904151051822033530005</w:P10002>
       <w:P10088>The white company</w:P10088>
       <w:P10088>The White Company</w:P10088>
+      <w:P10055 rdf:resource="http://viaf.org/viaf/92881077"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10061 rdf:resource="trotsenkovladislav"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/3904151051822033530005/ger/text"/>
@@ -234,11 +239,26 @@
       <w:P10078 rdf:resource="http://viaf.org/viaf/6035152865746704940001/eng/text"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/6035152865746704940001/ger/text"/>
    </c:C10001>
+   <c:C10001 rdf:about="http://viaf.org/viaf/65283845/theadventuresofthethreegarridebs">
+      <w:P10088>The adventures of the three garridebs</w:P10088>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
+      <w:P10078 rdf:resource="http://viaf.org/viaf/65283845/theadventuresofthethreegarridebs/ger/text"/>
+   </c:C10001>
+   <c:C10001 rdf:about="http://viaf.org/viaf/65283845/theprofessorchallengerstories">
+      <w:P10088>The professor Challenger stories</w:P10088>
+      <w:P10088>The Professor Challenger stories</w:P10088>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
+      <w:P10147 rdf:resource="http://viaf.org/viaf/294145857904223021237"/>
+   </c:C10001>
+   <c:C10001 rdf:about="http://viaf.org/viaf/65283845/theprofessorchallengerstoriesthelostworld">
+      <w:P10088>The Professor Challenger stories, the lost world</w:P10088>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
+      <w:P10147 rdf:resource="http://viaf.org/viaf/294145857904223021237"/>
+   </c:C10001>
    <c:C10001 rdf:about="http://www.wikidata.org/entity/q1129378">
       <w:P10002>http://www.wikidata.org/entity/Q1129378</w:P10002>
       <w:P10088>The Case-Book of Sherlock Holmes</w:P10088>
       <w:P10088>The case book of Sherlock Holmes</w:P10088>
-      <w:P10019 rdf:resource="http://viaf.org/viaf/174141344"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10078 rdf:resource="http://www.wikidata.org/entity/q1129378/ger/text"/>
    </c:C10001>
@@ -246,7 +266,6 @@
       <w:P10002>http://www.wikidata.org/entity/Q1140678</w:P10002>
       <w:P10088>The Adventure of the Blue Carbuncle</w:P10088>
       <w:P10088>The Adventure of the blue carbuncle</w:P10088>
-      <w:P10019 rdf:resource="http://viaf.org/viaf/186734487"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10078 rdf:resource="http://www.wikidata.org/entity/q1140678/ger/text"/>
       <w:P10078 rdf:resource="http://www.wikidata.org/entity/q1140678/ger/gesprocheneswort"/>
@@ -257,6 +276,7 @@
       <w:P10088>The Musgrave Ritual</w:P10088>
       <w:P10088>The Adventure of the Musgrave Ritual</w:P10088>
       <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
+      <w:P10064 rdf:resource="audiobuchverlag"/>
       <w:P10078 rdf:resource="http://www.wikidata.org/entity/q1150069/ger/text"/>
       <w:P10078 rdf:resource="http://www.wikidata.org/entity/q1150069/eng/text"/>
       <w:P10078 rdf:resource="http://www.wikidata.org/entity/q1150069/ger/gesprocheneswort"/>
@@ -307,6 +327,7 @@
    <c:C10001 rdf:about="http://www.wikidata.org/entity/q18546597">
       <w:P10002>http://www.wikidata.org/entity/Q18546597</w:P10002>
       <w:P10088>The Case of Lady Sannox</w:P10088>
+      <w:P10055 rdf:resource="http://viaf.org/viaf/92881077"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10078 rdf:resource="http://www.wikidata.org/entity/q18546597/ger/text"/>
    </c:C10001>
@@ -321,6 +342,7 @@
    <c:C10001 rdf:about="http://www.wikidata.org/entity/q1963997">
       <w:P10002>http://www.wikidata.org/entity/Q1963997</w:P10002>
       <w:P10088>Sir Nigel</w:P10088>
+      <w:P10055 rdf:resource="http://viaf.org/viaf/92881077"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10078 rdf:resource="http://www.wikidata.org/entity/q1963997/eng/text"/>
       <w:P10078 rdf:resource="http://www.wikidata.org/entity/q1963997/ger/text"/>
@@ -328,6 +350,7 @@
    <c:C10001 rdf:about="http://www.wikidata.org/entity/q22090538">
       <w:P10002>http://www.wikidata.org/entity/Q22090538</w:P10002>
       <w:P10088>The crime of the Congo</w:P10088>
+      <w:P10055 rdf:resource="http://viaf.org/viaf/92881077"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10078 rdf:resource="http://www.wikidata.org/entity/q22090538/ger/text"/>
    </c:C10001>
@@ -367,6 +390,7 @@
    <c:C10001 rdf:about="http://www.wikidata.org/entity/q2616869">
       <w:P10002>http://www.wikidata.org/entity/Q2616869</w:P10002>
       <w:P10088>The Land of Mist</w:P10088>
+      <w:P10055 rdf:resource="http://viaf.org/viaf/92881077"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10078 rdf:resource="http://www.wikidata.org/entity/q2616869/ger/text"/>
    </c:C10001>
@@ -383,6 +407,8 @@
       <w:P10002>http://www.wikidata.org/entity/Q2660166</w:P10002>
       <w:P10088>The Poison Belt</w:P10088>
       <w:P10088>The poison belt</w:P10088>
+      <w:P10055 rdf:resource="hopperonald"/>
+      <w:P10055 rdf:resource="http://viaf.org/viaf/92881077"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10078 rdf:resource="http://www.wikidata.org/entity/q2660166/ger/text"/>
       <w:P10078 rdf:resource="http://www.wikidata.org/entity/q2660166/eng/text"/>
@@ -390,7 +416,6 @@
    <c:C10001 rdf:about="http://www.wikidata.org/entity/q2740092">
       <w:P10002>http://www.wikidata.org/entity/Q2740092</w:P10002>
       <w:P10088>The Adventure of the Sussex Vampire</w:P10088>
-      <w:P10019 rdf:resource="http://viaf.org/viaf/174141344"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10078 rdf:resource="http://www.wikidata.org/entity/q2740092/eng/text"/>
       <w:P10078 rdf:resource="http://www.wikidata.org/entity/q2740092/ger/text"/>
@@ -426,6 +451,7 @@
       <w:P10002>http://www.wikidata.org/entity/Q3492113</w:P10002>
       <w:P10088>Round the Red Lamp</w:P10088>
       <w:P10088>Round the red lamp</w:P10088>
+      <w:P10055 rdf:resource="http://viaf.org/viaf/92881077"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10078 rdf:resource="http://www.wikidata.org/entity/q3492113/ger/text"/>
    </c:C10001>
@@ -433,6 +459,7 @@
       <w:P10002>http://www.wikidata.org/entity/Q4449924</w:P10002>
       <w:P10088>The Mystery of Cloomber</w:P10088>
       <w:P10088>The mystery of Cloomber</w:P10088>
+      <w:P10055 rdf:resource="http://viaf.org/viaf/92881077"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10078 rdf:resource="http://www.wikidata.org/entity/q4449924/eng/text"/>
       <w:P10078 rdf:resource="http://www.wikidata.org/entity/q4449924/ger/text"/>
@@ -440,6 +467,7 @@
    <c:C10001 rdf:about="http://www.wikidata.org/entity/q4461047">
       <w:P10002>http://www.wikidata.org/entity/Q4461047</w:P10002>
       <w:P10088>The firm of Girdlestone</w:P10088>
+      <w:P10055 rdf:resource="http://viaf.org/viaf/92881077"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10078 rdf:resource="http://www.wikidata.org/entity/q4461047/ger/text"/>
    </c:C10001>
@@ -454,12 +482,14 @@
    <c:C10001 rdf:about="http://www.wikidata.org/entity/q5295444">
       <w:P10002>http://www.wikidata.org/entity/Q5295444</w:P10002>
       <w:P10088>The Refugees</w:P10088>
+      <w:P10055 rdf:resource="http://viaf.org/viaf/92881077"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10078 rdf:resource="http://www.wikidata.org/entity/q5295444/ger/text"/>
    </c:C10001>
    <c:C10001 rdf:about="http://www.wikidata.org/entity/q5295669">
       <w:P10002>http://www.wikidata.org/entity/Q5295669</w:P10002>
       <w:P10088>The parasite</w:P10088>
+      <w:P10055 rdf:resource="http://viaf.org/viaf/92881077"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10078 rdf:resource="http://www.wikidata.org/entity/q5295669/ger/text"/>
    </c:C10001>
@@ -467,6 +497,7 @@
       <w:P10002>http://www.wikidata.org/entity/Q5295849</w:P10002>
       <w:P10088>The Stark Munro Letters</w:P10088>
       <w:P10088>The Stark Munro letters</w:P10088>
+      <w:P10055 rdf:resource="http://viaf.org/viaf/92881077"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10078 rdf:resource="http://www.wikidata.org/entity/q5295849/ger/text"/>
    </c:C10001>
@@ -474,7 +505,6 @@
       <w:P10002>http://www.wikidata.org/entity/Q725752</w:P10002>
       <w:P10088>The return of Sherlock Holmes</w:P10088>
       <w:P10088>The Return of Sherlock Holmes</w:P10088>
-      <w:P10019 rdf:resource="http://viaf.org/viaf/174141344"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10078 rdf:resource="http://www.wikidata.org/entity/q725752/ger/text"/>
       <w:P10078 rdf:resource="http://www.wikidata.org/entity/q725752/eng/text"/>
@@ -491,7 +521,6 @@
       <w:P10002>http://www.wikidata.org/entity/Q860831</w:P10002>
       <w:P10088>The Memoirs of Sherlock Holmes</w:P10088>
       <w:P10088>The memoirs of Sherlock Holmes</w:P10088>
-      <w:P10019 rdf:resource="http://viaf.org/viaf/174141344"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10078 rdf:resource="http://www.wikidata.org/entity/q860831/ger/text"/>
       <w:P10078 rdf:resource="http://www.wikidata.org/entity/q860831/eng/text"/>
@@ -510,16 +539,50 @@
       <a:P50094>abelmusgravecurt</a:P50094>
       <a:P50111>Abel-Musgrave, Curt</a:P50111>
       <a:P50107>1860-1938</a:P50107>
+      <a:P50145 rdf:resource="http://www.wikidata.org/entity/q22090538/ger/text"/>
+   </c:C10004>
+   <c:C10004 rdf:about="albeeaprahamb">
+      <a:P50094>albeeaprahamb</a:P50094>
+      <a:P50111>Albee, Apraham B</a:P50111>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/294145857904223021237"/>
+   </c:C10004>
+   <c:C10004 rdf:about="albrechthenrik">
+      <a:P50094>albrechthenrik</a:P50094>
+      <a:P50111>Albrecht, Henrik</a:P50111>
+      <a:P50187 rdf:resource="http://viaf.org/viaf/181625655"/>
    </c:C10004>
    <c:C10004 rdf:about="arnoniemerabcde">
       <a:P50094>arnoniemerabcde</a:P50094>
       <a:P50111>arno.niemer@abc.de</a:P50111>
       <a:P50145 rdf:resource="http://viaf.org/viaf/184892317/ger/text"/>
    </c:C10004>
+   <c:C10004 rdf:about="aschenbornhansanton">
+      <a:P50094>aschenbornhansanton</a:P50094>
+      <a:P50111>Aschenborn, Hans Anton</a:P50111>
+      <a:P50469 rdf:resource="urn:isbn:9783954181094"/>
+      <a:P50469 rdf:resource="urn:isbn:9783954181100"/>
+   </c:C10004>
+   <c:C10004 rdf:about="audiobuchverlag">
+      <a:P50094>audiobuchverlag</a:P50094>
+      <a:P50111>Audiobuch, Verlag</a:P50111>
+      <a:P50213 rdf:resource="http://viaf.org/viaf/181625655"/>
+      <a:P50213 rdf:resource="http://viaf.org/viaf/294145857904223021237"/>
+      <a:P50213 rdf:resource="http://www.wikidata.org/entity/q1150069"/>
+   </c:C10004>
+   <c:C10004 rdf:about="bachcarl">
+      <a:P50094>bachcarl</a:P50094>
+      <a:P50111>Bach, Carl</a:P50111>
+      <a:P50107>1898-1968</a:P50107>
+   </c:C10004>
    <c:C10004 rdf:about="bagherimandana">
       <a:P50094>bagherimandana</a:P50094>
       <a:P50111>Bagheri, Mandana</a:P50111>
       <a:P50145 rdf:resource="http://viaf.org/viaf/310211956/ger/text"/>
+   </c:C10004>
+   <c:C10004 rdf:about="bennettfelix">
+      <a:P50094>bennettfelix</a:P50094>
+      <a:P50111>Bennett, Felix</a:P50111>
+      <a:P50469 rdf:resource="urn:isbn:9783129090084"/>
    </c:C10004>
    <c:C10004 rdf:about="blakesheba">
       <a:P50094>blakesheba</a:P50094>
@@ -532,15 +595,19 @@
       <a:P50111>Böcking, Silvia</a:P50111>
       <a:P50145 rdf:resource="http://viaf.org/viaf/186734487/ger/text"/>
    </c:C10004>
+   <c:C10004 rdf:about="bohnergisela">
+      <a:P50094>bohnergisela</a:P50094>
+      <a:P50111>Bohner, Gisela</a:P50111>
+   </c:C10004>
    <c:C10004 rdf:about="brenchleychaz">
       <a:P50094>brenchleychaz</a:P50094>
       <a:P50111>Brenchley, Chaz</a:P50111>
-      <a:P50608 rdf:resource="http://viaf.org/viaf/294145857904223021237/eng/text"/>
+      <a:P50081 rdf:resource="http://viaf.org/viaf/294145857904223021237/eng/text"/>
    </c:C10004>
    <c:C10004 rdf:about="clarinhans">
       <a:P50094>clarinhans</a:P50094>
       <a:P50111>Clarin, Hans</a:P50111>
-      <a:P50608 rdf:resource="http://www.wikidata.org/entity/q265546/ger/gesprocheneswort"/>
+      <a:P50081 rdf:resource="http://www.wikidata.org/entity/q265546/ger/gesprocheneswort"/>
    </c:C10004>
    <c:C10004 rdf:about="clearymaria">
       <a:P50094>clearymaria</a:P50094>
@@ -550,16 +617,27 @@
    <c:C10004 rdf:about="collbert">
       <a:P50094>collbert</a:P50094>
       <a:P50111>Cöll, Bert</a:P50111>
-      <a:P50608 rdf:resource="http://www.wikidata.org/entity/q3235556/ger/"/>
-      <a:P50608 rdf:resource="http://www.wikidata.org/entity/q3235556/ger/gesprocheneswort"/>
-      <a:P50608 rdf:resource="http://www.wikidata.org/entity/q1193379/ger/gesprocheneswort"/>
-      <a:P50608 rdf:resource="http://www.wikidata.org/entity/q1193379/ger/"/>
+      <a:P50081 rdf:resource="http://www.wikidata.org/entity/q3235556/ger/"/>
+      <a:P50081 rdf:resource="http://www.wikidata.org/entity/q3235556/ger/gesprocheneswort"/>
+      <a:P50081 rdf:resource="http://www.wikidata.org/entity/q1193379/ger/gesprocheneswort"/>
+      <a:P50081 rdf:resource="http://www.wikidata.org/entity/q1193379/ger/"/>
    </c:C10004>
    <c:C10004 rdf:about="darnocheinrich">
       <a:P50094>darnocheinrich</a:P50094>
       <a:P50111>Darnoc, Heinrich</a:P50111>
       <a:P50145 rdf:resource="http://viaf.org/viaf/181625655/ger/text"/>
       <a:P50145 rdf:resource="http://viaf.org/viaf/174141344/ger/text"/>
+   </c:C10004>
+   <c:C10004 rdf:about="degeringklaus">
+      <a:P50094>degeringklaus</a:P50094>
+      <a:P50111>Degering, Klaus</a:P50111>
+      <a:P50107>1947-</a:P50107>
+      <a:P50189 rdf:resource="http://viaf.org/viaf/181846531"/>
+      <a:P50189 rdf:resource="http://viaf.org/viaf/186734487"/>
+   </c:C10004>
+   <c:C10004 rdf:about="dietrichernst">
+      <a:P50094>dietrichernst</a:P50094>
+      <a:P50111>Dietrich, Ernst</a:P50111>
    </c:C10004>
    <c:C10004 rdf:about="eisenhoferhalimhannelore">
       <a:P50094>eisenhoferhalimhannelore</a:P50094>
@@ -598,12 +676,22 @@
       <a:P50111>Erler, Nadine</a:P50111>
       <a:P50107>1978-</a:P50107>
       <a:P50145 rdf:resource="http://viaf.org/viaf/3904151051822033530005/ger/text"/>
+      <a:P50145 rdf:resource="http://www.wikidata.org/entity/q3492113/ger/text"/>
       <a:P50145 rdf:resource="http://www.wikidata.org/entity/q1963997/ger/text"/>
+   </c:C10004>
+   <c:C10004 rdf:about="ernenino">
+      <a:P50094>ernenino</a:P50094>
+      <a:P50111>Erné, Nino</a:P50111>
+      <a:P50107>1921-1994</a:P50107>
    </c:C10004>
    <c:C10004 rdf:about="feintrude">
       <a:P50094>feintrude</a:P50094>
       <a:P50111>Fein, Trude</a:P50111>
       <a:P50145 rdf:resource="http://www.wikidata.org/entity/q1140678/ger/text"/>
+   </c:C10004>
+   <c:C10004 rdf:about="fesslerkarl">
+      <a:P50094>fesslerkarl</a:P50094>
+      <a:P50111>Fessler, Karl</a:P50111>
    </c:C10004>
    <c:C10004 rdf:about="fischerdetlef">
       <a:P50094>fischerdetlef</a:P50094>
@@ -613,7 +701,7 @@
    <c:C10004 rdf:about="fischerheinzleo">
       <a:P50094>fischerheinzleo</a:P50094>
       <a:P50111>Fischer, Heinz Leo</a:P50111>
-      <a:P50608 rdf:resource="http://www.wikidata.org/entity/q3041826/ger/gesprocheneswort"/>
+      <a:P50081 rdf:resource="http://www.wikidata.org/entity/q3041826/ger/gesprocheneswort"/>
    </c:C10004>
    <c:C10004 rdf:about="fischermartin">
       <a:P50094>fischermartin</a:P50094>
@@ -633,16 +721,16 @@
    <c:C10004 rdf:about="garbersgerhard">
       <a:P50094>garbersgerhard</a:P50094>
       <a:P50111>Garbers, Gerhard</a:P50111>
-      <a:P50608 rdf:resource="http://viaf.org/viaf/181625655/ger/gesprocheneswort"/>
-      <a:P50608 rdf:resource="http://viaf.org/viaf/181625655/ger/"/>
+      <a:P50081 rdf:resource="http://viaf.org/viaf/181625655/ger/gesprocheneswort"/>
+      <a:P50081 rdf:resource="http://viaf.org/viaf/181625655/ger/"/>
    </c:C10004>
    <c:C10004 rdf:about="gertzenhubertus">
       <a:P50094>gertzenhubertus</a:P50094>
       <a:P50111>Gertzen, Hubertus</a:P50111>
-      <a:P50608 rdf:resource="http://viaf.org/viaf/181625655/ger/gesprocheneswort"/>
-      <a:P50608 rdf:resource="http://viaf.org/viaf/294145857904223021237/ger/gesprocheneswort"/>
-      <a:P50608 rdf:resource="http://www.wikidata.org/entity/q1140678/ger/gesprocheneswort"/>
-      <a:P50608 rdf:resource="http://www.wikidata.org/entity/q1150069/ger/gesprocheneswort"/>
+      <a:P50081 rdf:resource="http://viaf.org/viaf/181625655/ger/gesprocheneswort"/>
+      <a:P50081 rdf:resource="http://viaf.org/viaf/294145857904223021237/ger/gesprocheneswort"/>
+      <a:P50081 rdf:resource="http://www.wikidata.org/entity/q1140678/ger/gesprocheneswort"/>
+      <a:P50081 rdf:resource="http://www.wikidata.org/entity/q1150069/ger/gesprocheneswort"/>
    </c:C10004>
    <c:C10004 rdf:about="gigerleslie">
       <a:P50094>gigerleslie</a:P50094>
@@ -654,16 +742,36 @@
       <a:P50094>gillettewilliam</a:P50094>
       <a:P50111>Gillette, William</a:P50111>
       <a:P50107>1853-1937</a:P50107>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/174141344"/>
    </c:C10004>
    <c:C10004 rdf:about="greatronny">
       <a:P50094>greatronny</a:P50094>
       <a:P50111>Great, Ronny</a:P50111>
-      <a:P50608 rdf:resource="http://www.wikidata.org/entity/q860831/ger/gesprocheneswort"/>
+      <a:P50081 rdf:resource="http://www.wikidata.org/entity/q860831/ger/gesprocheneswort"/>
+   </c:C10004>
+   <c:C10004 rdf:about="grunewaldwilhelm">
+      <a:P50094>grunewaldwilhelm</a:P50094>
+      <a:P50111>Grünewald, Wilhelm</a:P50111>
+   </c:C10004>
+   <c:C10004 rdf:about="guthkarlmaria">
+      <a:P50094>guthkarlmaria</a:P50094>
+      <a:P50111>Guth, Karl-Maria</a:P50111>
+      <a:P50189 rdf:resource="http://viaf.org/viaf/294145857904223021237"/>
+      <a:P50189 rdf:resource="http://viaf.org/viaf/179061639"/>
    </c:C10004>
    <c:C10004 rdf:about="hartmannjohannes">
       <a:P50094>hartmannjohannes</a:P50094>
       <a:P50111>Hartmann, Johannes</a:P50111>
       <a:P50145 rdf:resource="http://viaf.org/viaf/174141344/ger/text"/>
+   </c:C10004>
+   <c:C10004 rdf:about="herlinhans">
+      <a:P50094>herlinhans</a:P50094>
+      <a:P50111>Herlin, Hans</a:P50111>
+      <a:P50107>1925-1994</a:P50107>
+   </c:C10004>
+   <c:C10004 rdf:about="hermlinhans">
+      <a:P50094>hermlinhans</a:P50094>
+      <a:P50111>Hermlin, Hans</a:P50111>
    </c:C10004>
    <c:C10004 rdf:about="herzogho">
       <a:P50094>herzogho</a:P50094>
@@ -676,6 +784,8 @@
       <a:P50111>Hillich, Reinhard</a:P50111>
       <a:P50107>1948-</a:P50107>
       <a:P50145 rdf:resource="http://www.wikidata.org/entity/q18546597/ger/text"/>
+      <a:P50145 rdf:resource="http://www.wikidata.org/entity/q5295849/ger/text"/>
+      <a:P50189 rdf:resource="http://viaf.org/viaf/179668970"/>
    </c:C10004>
    <c:C10004 rdf:about="holtschheike">
       <a:P50094>holtschheike</a:P50094>
@@ -685,7 +795,18 @@
    <c:C10004 rdf:about="holzmannmatthiasernst">
       <a:P50094>holzmannmatthiasernst</a:P50094>
       <a:P50111>Holzmann, Matthias Ernst</a:P50111>
-      <a:P50608 rdf:resource="http://viaf.org/viaf/181625655/ger/gesprocheneswort"/>
+      <a:P50081 rdf:resource="http://viaf.org/viaf/181625655/ger/gesprocheneswort"/>
+   </c:C10004>
+   <c:C10004 rdf:about="hopperonald">
+      <a:P50094>hopperonald</a:P50094>
+      <a:P50111>Hoppe, Ronald</a:P50111>
+      <a:P50189 rdf:resource="http://www.wikidata.org/entity/q2660166"/>
+   </c:C10004>
+   <c:C10004 rdf:about="http://personid.no/10296">
+      <a:P50094>http://personid.no/10296</a:P50094>
+      <a:P50111>Schulze, Jürgen</a:P50111>
+      <a:P50189 rdf:resource="http://viaf.org/viaf/179061639"/>
+      <a:P50189 rdf:resource="http://viaf.org/viaf/186734487"/>
    </c:C10004>
    <c:C10004 rdf:about="http://personid.no/10374">
       <a:P50094>http://personid.no/10374</a:P50094>
@@ -726,10 +847,18 @@
       <a:P50145 rdf:resource="http://viaf.org/viaf/181625655/ger/gesprocheneswort"/>
       <a:P50145 rdf:resource="http://viaf.org/viaf/181625655/ger/"/>
    </c:C10004>
+   <c:C10004 rdf:about="http://viaf.org/viaf/2555146">
+      <a:P50094>http://viaf.org/viaf/2555146</a:P50094>
+      <a:P50111>Paget, Sidney</a:P50111>
+      <a:P50469 rdf:resource="urn:isbn:9783954180769"/>
+      <a:P50469 rdf:resource="urn:isbn:9783940597922"/>
+      <a:P50469 rdf:resource="urn:isbn:9783954180752"/>
+   </c:C10004>
    <c:C10004 rdf:about="http://viaf.org/viaf/305118865">
       <a:P50094>http://viaf.org/viaf/305118865</a:P50094>
       <a:P50111>Berger, Alice</a:P50111>
       <a:P50145 rdf:resource="http://www.wikidata.org/entity/q2466799/ger/text"/>
+      <a:P50145 rdf:resource="http://www.wikidata.org/entity/q725752/ger/text"/>
       <a:P50145 rdf:resource="http://www.wikidata.org/entity/q1150069/ger/text"/>
       <a:P50145 rdf:resource="http://www.wikidata.org/entity/q1151761/ger/text"/>
       <a:P50145 rdf:resource="http://www.wikidata.org/entity/q3041819/ger/text"/>
@@ -749,8 +878,8 @@
    <c:C10004 rdf:about="http://viaf.org/viaf/55039969">
       <a:P50094>http://viaf.org/viaf/55039969</a:P50094>
       <a:P50111>Pasetti, Peter</a:P50111>
-      <a:P50608 rdf:resource="http://www.wikidata.org/entity/q1150069/ger/gesprocheneswort"/>
-      <a:P50608 rdf:resource="http://viaf.org/viaf/181625655/ger/gesprocheneswort"/>
+      <a:P50081 rdf:resource="http://www.wikidata.org/entity/q1150069/ger/gesprocheneswort"/>
+      <a:P50081 rdf:resource="http://viaf.org/viaf/181625655/ger/gesprocheneswort"/>
    </c:C10004>
    <c:C10004 rdf:about="http://viaf.org/viaf/65283845">
       <a:P50094>http://viaf.org/viaf/65283845</a:P50094>
@@ -769,7 +898,6 @@
       <a:P50195 rdf:resource="http://viaf.org/viaf/184892317"/>
       <a:P50195 rdf:resource="http://viaf.org/viaf/175571309"/>
       <a:P50195 rdf:resource="http://viaf.org/viaf/179061639"/>
-      <a:P50195 rdf:resource="http://viaf.org/viaf/174141344"/>
       <a:P50195 rdf:resource="http://viaf.org/viaf/294145857904223021237"/>
       <a:P50195 rdf:resource="http://www.wikidata.org/entity/q19086389"/>
       <a:P50195 rdf:resource="http://www.wikidata.org/entity/q1129378"/>
@@ -786,10 +914,12 @@
       <a:P50195 rdf:resource="http://www.wikidata.org/entity/q2379601"/>
       <a:P50195 rdf:resource="http://viaf.org/viaf/309258340"/>
       <a:P50195 rdf:resource="http://www.wikidata.org/entity/q3041819"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/65283845/theadventuresofthethreegarridebs"/>
       <a:P50195 rdf:resource="http://viaf.org/viaf/179668970"/>
       <a:P50195 rdf:resource="http://viaf.org/viaf/"/>
       <a:P50195 rdf:resource="http://www.wikidata.org/entity/q860831"/>
       <a:P50195 rdf:resource="http://www.wikidata.org/entity/q725752"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/174141344"/>
       <a:P50195 rdf:resource="http://www.wikidata.org/entity/q961957"/>
       <a:P50195 rdf:resource="http://viaf.org/viaf/310211956"/>
       <a:P50195 rdf:resource="http://www.wikidata.org/entity/q1150069"/>
@@ -802,6 +932,7 @@
       <a:P50195 rdf:resource="http://www.wikidata.org/entity/q3041826"/>
       <a:P50195 rdf:resource="http://www.wikidata.org/entity/q1193379"/>
       <a:P50195 rdf:resource="http://www.wikidata.org/entity/q1963997"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/65283845/theprofessorchallengerstoriesthelostworld"/>
       <a:P50195 rdf:resource="http://www.wikidata.org/entity/q1192541"/>
       <a:P50195 rdf:resource="http://viaf.org/viaf/3904151051822033530005"/>
       <a:P50195 rdf:resource="http://www.wikidata.org/entity/q3492113"/>
@@ -812,9 +943,14 @@
       <a:P50195 rdf:resource="http://www.wikidata.org/entity/q5295669"/>
       <a:P50195 rdf:resource="http://www.wikidata.org/entity/q1201796"/>
       <a:P50195 rdf:resource="http://www.wikidata.org/entity/q2446784"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/65283845/theprofessorchallengerstories"/>
       <a:P50195 rdf:resource="http://viaf.org/viaf/309272292"/>
       <a:P50195 rdf:resource="http://viaf.org/viaf/308560745"/>
       <a:P50195 rdf:resource="http://www.wikidata.org/entity/q1201451"/>
+   </c:C10004>
+   <c:C10004 rdf:about="http://viaf.org/viaf/66556484">
+      <a:P50094>http://viaf.org/viaf/66556484</a:P50094>
+      <a:P50111>Weidert, Werner K</a:P50111>
    </c:C10004>
    <c:C10004 rdf:about="http://viaf.org/viaf/66691825">
       <a:P50094>http://viaf.org/viaf/66691825</a:P50094>
@@ -842,14 +978,44 @@
    <c:C10004 rdf:about="http://viaf.org/viaf/77045939">
       <a:P50094>http://viaf.org/viaf/77045939</a:P50094>
       <a:P50111>Kalkofe, Oliver</a:P50111>
-      <a:P50608 rdf:resource="http://viaf.org/viaf/186734487/ger/gesprocheneswort"/>
-      <a:P50608 rdf:resource="http://www.wikidata.org/entity/q860831/ger/gesprocheneswort"/>
+      <a:P50081 rdf:resource="http://viaf.org/viaf/186734487/ger/gesprocheneswort"/>
+      <a:P50081 rdf:resource="http://www.wikidata.org/entity/q860831/ger/gesprocheneswort"/>
+   </c:C10004>
+   <c:C10004 rdf:about="http://viaf.org/viaf/80840676">
+      <a:P50094>http://viaf.org/viaf/80840676</a:P50094>
+      <a:P50111>Gutschmidt, Richard</a:P50111>
+      <a:P50469 rdf:resource="urn:isbn:9783954181506"/>
+      <a:P50469 rdf:resource="urn:isbn:9783954185719"/>
+      <a:P50469 rdf:resource="urn:isbn:9783849608132"/>
+      <a:P50469 rdf:resource="urn:isbn:9783849608194"/>
+      <a:P50469 rdf:resource="urn:isbn:9783849608200"/>
    </c:C10004>
    <c:C10004 rdf:about="http://viaf.org/viaf/92881077">
       <a:P50094>http://viaf.org/viaf/92881077</a:P50094>
       <a:P50111>Spittel, Olaf R</a:P50111>
       <a:P50107>1953-</a:P50107>
       <a:P50145 rdf:resource="http://viaf.org/viaf/181810457/ger/text"/>
+      <a:P50189 rdf:resource="http://viaf.org/viaf/294145857904223021237"/>
+      <a:P50189 rdf:resource="http://www.wikidata.org/entity/q18546597"/>
+      <a:P50189 rdf:resource="http://viaf.org/viaf/181810457"/>
+      <a:P50189 rdf:resource="http://www.wikidata.org/entity/q22090538"/>
+      <a:P50189 rdf:resource="http://www.wikidata.org/entity/q5295849"/>
+      <a:P50189 rdf:resource="http://viaf.org/viaf/3904151051822033530005"/>
+      <a:P50189 rdf:resource="http://www.wikidata.org/entity/q3492113"/>
+      <a:P50189 rdf:resource="http://www.wikidata.org/entity/q2616869"/>
+      <a:P50189 rdf:resource="http://www.wikidata.org/entity/q4461047"/>
+      <a:P50189 rdf:resource="http://www.wikidata.org/entity/q5295669"/>
+      <a:P50189 rdf:resource="http://viaf.org/viaf/310211956"/>
+      <a:P50189 rdf:resource="http://www.wikidata.org/entity/q5295444"/>
+      <a:P50189 rdf:resource="http://viaf.org/viaf/310212942"/>
+      <a:P50189 rdf:resource="http://www.wikidata.org/entity/q4449924"/>
+      <a:P50189 rdf:resource="http://viaf.org/viaf/309258340"/>
+      <a:P50189 rdf:resource="http://www.wikidata.org/entity/q1963997"/>
+      <a:P50189 rdf:resource="http://viaf.org/viaf/"/>
+      <a:P50189 rdf:resource="http://www.wikidata.org/entity/q2660166"/>
+      <a:P50189 rdf:resource="http://viaf.org/viaf/309272292"/>
+      <a:P50189 rdf:resource="http://viaf.org/viaf/308560745"/>
+      <a:P50189 rdf:resource="http://viaf.org/viaf/179668970"/>
    </c:C10004>
    <c:C10004 rdf:about="jacobimaragrete">
       <a:P50094>jacobimaragrete</a:P50094>
@@ -864,8 +1030,8 @@
    <c:C10004 rdf:about="jordanpeter">
       <a:P50094>jordanpeter</a:P50094>
       <a:P50111>Jordan, Peter</a:P50111>
-      <a:P50608 rdf:resource="http://viaf.org/viaf/181625655/ger/gesprocheneswort"/>
-      <a:P50608 rdf:resource="http://viaf.org/viaf/181625655/ger/"/>
+      <a:P50081 rdf:resource="http://viaf.org/viaf/181625655/ger/gesprocheneswort"/>
+      <a:P50081 rdf:resource="http://viaf.org/viaf/181625655/ger/"/>
    </c:C10004>
    <c:C10004 rdf:about="jurgenskatharina">
       <a:P50094>jurgenskatharina</a:P50094>
@@ -875,16 +1041,21 @@
    <c:C10004 rdf:about="kerstalexander">
       <a:P50094>kerstalexander</a:P50094>
       <a:P50111>Kerst, Alexander</a:P50111>
-      <a:P50608 rdf:resource="http://www.wikidata.org/entity/q3041826/ger/gesprocheneswort"/>
+      <a:P50081 rdf:resource="http://www.wikidata.org/entity/q3041826/ger/gesprocheneswort"/>
    </c:C10004>
    <c:C10004 rdf:about="kiliankai">
       <a:P50094>kiliankai</a:P50094>
       <a:P50111>Kilian, Kai</a:P50111>
       <a:P50145 rdf:resource="http://viaf.org/viaf/174141344/ger/text"/>
    </c:C10004>
+   <c:C10004 rdf:about="kleinschmidtmax">
+      <a:P50094>kleinschmidtmax</a:P50094>
+      <a:P50111>Kleinschmidt, Max</a:P50111>
+   </c:C10004>
    <c:C10004 rdf:about="koenigrobert">
       <a:P50094>koenigrobert</a:P50094>
       <a:P50111>Koenig, Robert</a:P50111>
+      <a:P50145 rdf:resource="http://viaf.org/viaf/310212942/ger/text"/>
    </c:C10004>
    <c:C10004 rdf:about="kohlerbritta">
       <a:P50094>kohlerbritta</a:P50094>
@@ -907,6 +1078,10 @@
       <a:P50111>Kotthaus, Heinz</a:P50111>
       <a:P50145 rdf:resource="http://viaf.org/viaf/181625655/ger/text"/>
    </c:C10004>
+   <c:C10004 rdf:about="kottirafranz">
+      <a:P50094>kottirafranz</a:P50094>
+      <a:P50111>Kottira, Franz</a:P50111>
+   </c:C10004>
    <c:C10004 rdf:about="lautenbachr">
       <a:P50094>lautenbachr</a:P50094>
       <a:P50111>Lautenbach, R</a:P50111>
@@ -920,16 +1095,38 @@
    <c:C10004 rdf:about="ludwigbastian">
       <a:P50094>ludwigbastian</a:P50094>
       <a:P50111>Ludwig, Bastian</a:P50111>
+      <a:P50145 rdf:resource="http://viaf.org/viaf/309272292/ger/text"/>
+   </c:C10004>
+   <c:C10004 rdf:about="mangoldferdinand">
+      <a:P50094>mangoldferdinand</a:P50094>
+      <a:P50111>Mangold, Ferdinand</a:P50111>
    </c:C10004>
    <c:C10004 rdf:about="marschallvonbibersteinmatern">
       <a:P50094>marschallvonbibersteinmatern</a:P50094>
       <a:P50111>Marschall von Biberstein, Matern</a:P50111>
       <a:P50048 rdf:resource="http://viaf.org/viaf/294145857904223021237"/>
    </c:C10004>
+   <c:C10004 rdf:about="meffertmartha">
+      <a:P50094>meffertmartha</a:P50094>
+      <a:P50111>Meffert, Martha</a:P50111>
+   </c:C10004>
    <c:C10004 rdf:about="mundtkristina">
       <a:P50094>mundtkristina</a:P50094>
       <a:P50111>Mundt, Kristina</a:P50111>
       <a:P50145 rdf:resource="http://viaf.org/viaf/310211956/ger/text"/>
+   </c:C10004>
+   <c:C10004 rdf:about="nobespatrick">
+      <a:P50094>nobespatrick</a:P50094>
+      <a:P50111>Nobes, Patrick</a:P50111>
+      <a:P50189 rdf:resource="http://viaf.org/viaf/181625655"/>
+   </c:C10004>
+   <c:C10004 rdf:about="orbanmartin">
+      <a:P50094>orbanmartin</a:P50094>
+      <a:P50111>Orban, Martin</a:P50111>
+   </c:C10004>
+   <c:C10004 rdf:about="ottmannl">
+      <a:P50094>ottmannl</a:P50094>
+      <a:P50111>Ottmann, L</a:P50111>
    </c:C10004>
    <c:C10004 rdf:about="ottmannlouis">
       <a:P50094>ottmannlouis</a:P50094>
@@ -941,22 +1138,31 @@
       <a:P50111>Pastewka, Bastian</a:P50111>
       <a:P50048 rdf:resource="http://viaf.org/viaf/181625655"/>
    </c:C10004>
+   <c:C10004 rdf:about="poewechristian">
+      <a:P50094>poewechristian</a:P50094>
+      <a:P50111>Poewe, Christian</a:P50111>
+   </c:C10004>
    <c:C10004 rdf:about="rademacherfalko">
       <a:P50094>rademacherfalko</a:P50094>
       <a:P50111>Rademacher, Falko</a:P50111>
       <a:P50195 rdf:resource="http://viaf.org/viaf/179061639"/>
    </c:C10004>
+   <c:C10004 rdf:about="reimershans">
+      <a:P50094>reimershans</a:P50094>
+      <a:P50111>Reimers, Hans</a:P50111>
+   </c:C10004>
    <c:C10004 rdf:about="renneisenwalter">
       <a:P50094>renneisenwalter</a:P50094>
       <a:P50111>Renneisen, Walter</a:P50111>
-      <a:P50608 rdf:resource="http://viaf.org/viaf/184892317/ger/gesprocheneswort"/>
-      <a:P50608 rdf:resource="http://viaf.org/viaf/179061639/ger/gesprocheneswort"/>
-      <a:P50608 rdf:resource="http://www.wikidata.org/entity/q265546/ger/gesprocheneswort"/>
+      <a:P50081 rdf:resource="http://viaf.org/viaf/184892317/ger/gesprocheneswort"/>
+      <a:P50081 rdf:resource="http://viaf.org/viaf/179061639/ger/gesprocheneswort"/>
+      <a:P50081 rdf:resource="http://www.wikidata.org/entity/q265546/ger/gesprocheneswort"/>
    </c:C10004>
    <c:C10004 rdf:about="rosenzweigleopold">
       <a:P50094>rosenzweigleopold</a:P50094>
       <a:P50111>Rosenzweig, Leopold</a:P50111>
       <a:P50107>1857-</a:P50107>
+      <a:P50145 rdf:resource="http://viaf.org/viaf/309258340/ger/text"/>
    </c:C10004>
    <c:C10004 rdf:about="scharenbergeva">
       <a:P50094>scharenbergeva</a:P50094>
@@ -984,6 +1190,11 @@
       <a:P50111>Schulze, J</a:P50111>
       <a:P50145 rdf:resource="http://viaf.org/viaf/294145857904223021237/ger/text"/>
    </c:C10004>
+   <c:C10004 rdf:about="schumachertheo">
+      <a:P50094>schumachertheo</a:P50094>
+      <a:P50111>Schumacher, Theo</a:P50111>
+      <a:P50107>1925-1990</a:P50107>
+   </c:C10004>
    <c:C10004 rdf:about="schwartzjennifer">
       <a:P50094>schwartzjennifer</a:P50094>
       <a:P50111>Schwartz, Jennifer</a:P50111>
@@ -998,8 +1209,22 @@
    <c:C10004 rdf:about="striebeckjochen">
       <a:P50094>striebeckjochen</a:P50094>
       <a:P50111>Striebeck, Jochen</a:P50111>
-      <a:P50608 rdf:resource="http://viaf.org/viaf/181625655/ger/gesprocheneswort"/>
-      <a:P50608 rdf:resource="http://viaf.org/viaf/181625655/ger/"/>
+      <a:P50081 rdf:resource="http://viaf.org/viaf/181625655/ger/gesprocheneswort"/>
+      <a:P50081 rdf:resource="http://viaf.org/viaf/181625655/ger/"/>
+   </c:C10004>
+   <c:C10004 rdf:about="sweeneygeraldine">
+      <a:P50094>sweeneygeraldine</a:P50094>
+      <a:P50111>Sweeney, Geraldine</a:P50111>
+   </c:C10004>
+   <c:C10004 rdf:about="terektanja">
+      <a:P50094>terektanja</a:P50094>
+      <a:P50111>Terek, Tanja</a:P50111>
+   </c:C10004>
+   <c:C10004 rdf:about="thalmannroland">
+      <a:P50094>thalmannroland</a:P50094>
+      <a:P50111>Thalmann, Roland</a:P50111>
+      <a:P50107>1935-2013</a:P50107>
+      <a:P50469 rdf:resource="urn:isbn:9783857171048"/>
    </c:C10004>
    <c:C10004 rdf:about="thomasjennifer">
       <a:P50094>thomasjennifer</a:P50094>
@@ -1012,6 +1237,7 @@
       <a:P50195 rdf:resource="http://www.wikidata.org/entity/q19086389"/>
       <a:P50195 rdf:resource="http://viaf.org/viaf/184892317"/>
       <a:P50195 rdf:resource="http://viaf.org/viaf/3904151051822033530005"/>
+      <a:P50469 rdf:resource="urn:isbn:9783963764721"/>
    </c:C10004>
    <c:C10004 rdf:about="walczyksara">
       <a:P50094>walczyksara</a:P50094>
@@ -1028,10 +1254,24 @@
       <a:P50111>Weiß, Zita</a:P50111>
       <a:P50145 rdf:resource="http://viaf.org/viaf/310211956/ger/text"/>
    </c:C10004>
+   <c:C10004 rdf:about="werkmannelse">
+      <a:P50094>werkmannelse</a:P50094>
+      <a:P50111>Werkmann, Else</a:P50111>
+      <a:P50107>1897-</a:P50107>
+   </c:C10004>
    <c:C10004 rdf:about="weuffenfabienne">
       <a:P50094>weuffenfabienne</a:P50094>
       <a:P50111>Weuffen, Fabienne</a:P50111>
       <a:P50145 rdf:resource="http://viaf.org/viaf/310211956/ger/text"/>
+   </c:C10004>
+   <c:C10004 rdf:about="wittmannmano">
+      <a:P50094>wittmannmano</a:P50094>
+      <a:P50111>Wittmann, Mano</a:P50111>
+      <a:P50170 rdf:resource="urn:isbn:9783927578395"/>
+   </c:C10004>
+   <c:C10004 rdf:about="wlassowtatjana">
+      <a:P50094>wlassowtatjana</a:P50094>
+      <a:P50111>Wlassow, Tatjana</a:P50111>
    </c:C10004>
    <c:C10004 rdf:about="wolfhans">
       <a:P50094>wolfhans</a:P50094>
@@ -1040,15 +1280,24 @@
       <a:P50145 rdf:resource="http://www.wikidata.org/entity/q1129378/ger/text"/>
       <a:P50145 rdf:resource="http://viaf.org/viaf/175571309/ger/text"/>
    </c:C10004>
+   <c:C10004 rdf:about="wolflingleop">
+      <a:P50094>wolflingleop</a:P50094>
+      <a:P50111>Wölfling, Leop</a:P50111>
+   </c:C10004>
    <c:C10004 rdf:about="wylerrenate">
       <a:P50094>wylerrenate</a:P50094>
       <a:P50111>Wyler, Renate</a:P50111>
       <a:P50145 rdf:resource="http://viaf.org/viaf/184892317/ger/text"/>
    </c:C10004>
+   <c:C10004 rdf:about="zeidlerkurt">
+      <a:P50094>zeidlerkurt</a:P50094>
+      <a:P50111>Zeidler, Kurt</a:P50111>
+      <a:P50157 rdf:resource="http://viaf.org/viaf/309533947"/>
+   </c:C10004>
    <c:C10004 rdf:about="ziegleradolf">
       <a:P50094>ziegleradolf</a:P50094>
       <a:P50111>Ziegler, Adolf</a:P50111>
-      <a:P50608 rdf:resource="http://www.wikidata.org/entity/q3041826/ger/gesprocheneswort"/>
+      <a:P50081 rdf:resource="http://www.wikidata.org/entity/q3041826/ger/gesprocheneswort"/>
    </c:C10004>
    <c:C10004 rdf:about="zimbercorinna">
       <a:P50094>zimbercorinna</a:P50094>
@@ -1199,10 +1448,10 @@
    <c:C10006 rdf:about="http://viaf.org/viaf/179061639/ger/gesprocheneswort">
       <e:P20006>ger</e:P20006>
       <e:P20001>gesprochenes Wort</e:P20001>
+      <e:P20022 rdf:resource="renneisenwalter"/>
       <e:P20059 rdf:resource="urn:ian:4057664026989"/>
       <e:P20059 rdf:resource="urn:isbn:9783742402820"/>
       <e:P20231 rdf:resource="http://viaf.org/viaf/179061639"/>
-      <e:P20378 rdf:resource="renneisenwalter"/>
    </c:C10006>
    <c:C10006 rdf:about="http://viaf.org/viaf/179061639/ger/text">
       <e:P20006>ger</e:P20006>
@@ -1307,28 +1556,28 @@
    </c:C10006>
    <c:C10006 rdf:about="http://viaf.org/viaf/181625655/ger/">
       <e:P20006>ger</e:P20006>
+      <e:P20022 rdf:resource="garbersgerhard"/>
+      <e:P20022 rdf:resource="jordanpeter"/>
+      <e:P20022 rdf:resource="striebeckjochen"/>
       <e:P20037 rdf:resource="http://viaf.org/viaf/19783700"/>
       <e:P20059 rdf:resource="urn:isbn:9783844515947"/>
       <e:P20231 rdf:resource="http://viaf.org/viaf/181625655"/>
-      <e:P20378 rdf:resource="garbersgerhard"/>
-      <e:P20378 rdf:resource="jordanpeter"/>
-      <e:P20378 rdf:resource="striebeckjochen"/>
    </c:C10006>
    <c:C10006 rdf:about="http://viaf.org/viaf/181625655/ger/gesprocheneswort">
       <e:P20006>ger</e:P20006>
       <e:P20001>gesprochenes Wort</e:P20001>
+      <e:P20022 rdf:resource="gertzenhubertus"/>
+      <e:P20022 rdf:resource="garbersgerhard"/>
+      <e:P20022 rdf:resource="jordanpeter"/>
+      <e:P20022 rdf:resource="striebeckjochen"/>
+      <e:P20022 rdf:resource="http://viaf.org/viaf/55039969"/>
+      <e:P20022 rdf:resource="holzmannmatthiasernst"/>
       <e:P20037 rdf:resource="http://viaf.org/viaf/19783700"/>
       <e:P20059 rdf:resource="urn:isbn:9783899645064"/>
       <e:P20059 rdf:resource="urn:isbn:9783844515947"/>
       <e:P20059 rdf:resource="urn:isbn:9783742402844"/>
       <e:P20059 rdf:resource="urn:isbn:9783959951111"/>
       <e:P20231 rdf:resource="http://viaf.org/viaf/181625655"/>
-      <e:P20378 rdf:resource="gertzenhubertus"/>
-      <e:P20378 rdf:resource="garbersgerhard"/>
-      <e:P20378 rdf:resource="jordanpeter"/>
-      <e:P20378 rdf:resource="striebeckjochen"/>
-      <e:P20378 rdf:resource="http://viaf.org/viaf/55039969"/>
-      <e:P20378 rdf:resource="holzmannmatthiasernst"/>
    </c:C10006>
    <c:C10006 rdf:about="http://viaf.org/viaf/181625655/ger/taktilertext">
       <e:P20006>ger</e:P20006>
@@ -1480,9 +1729,9 @@
    <c:C10006 rdf:about="http://viaf.org/viaf/184892317/ger/gesprocheneswort">
       <e:P20006>ger</e:P20006>
       <e:P20001>gesprochenes Wort</e:P20001>
+      <e:P20022 rdf:resource="renneisenwalter"/>
       <e:P20059 rdf:resource="urn:isbn:9783742402837"/>
       <e:P20231 rdf:resource="http://viaf.org/viaf/184892317"/>
-      <e:P20378 rdf:resource="renneisenwalter"/>
    </c:C10006>
    <c:C10006 rdf:about="http://viaf.org/viaf/184892317/ger/text">
       <e:P20006>ger</e:P20006>
@@ -1549,6 +1798,7 @@
    <c:C10006 rdf:about="http://viaf.org/viaf/186734487/ger/gesprocheneswort">
       <e:P20006>ger</e:P20006>
       <e:P20001>gesprochenes Wort</e:P20001>
+      <e:P20022 rdf:resource="http://viaf.org/viaf/77045939"/>
       <e:P20037 rdf:resource="http://viaf.org/viaf/19783700"/>
       <e:P20059 rdf:resource="urn:isbn:9783844509571"/>
       <e:P20059 rdf:resource="urn:isbn:9783844510621"/>
@@ -1558,7 +1808,6 @@
       <e:P20059 rdf:resource="urn:isbn:9783844510638"/>
       <e:P20059 rdf:resource="urn:isbn:9783844509588"/>
       <e:P20231 rdf:resource="http://viaf.org/viaf/186734487"/>
-      <e:P20378 rdf:resource="http://viaf.org/viaf/77045939"/>
    </c:C10006>
    <c:C10006 rdf:about="http://viaf.org/viaf/186734487/ger/text">
       <e:P20006>ger</e:P20006>
@@ -1624,6 +1873,7 @@
    <c:C10006 rdf:about="http://viaf.org/viaf/294145857904223021237/eng/text">
       <e:P20006>eng</e:P20006>
       <e:P20001>Text</e:P20001>
+      <e:P20022 rdf:resource="brenchleychaz"/>
       <e:P20059 rdf:resource="urn:isbn:9783129090084"/>
       <e:P20059 rdf:resource="urn:isbn:9781537813837"/>
       <e:P20059 rdf:resource="urn:isbn:9783962555528"/>
@@ -1635,16 +1885,15 @@
       <e:P20059 rdf:resource="urn:isbn:9783736818347"/>
       <e:P20059 rdf:resource="urn:isbn:9789626348529"/>
       <e:P20231 rdf:resource="http://viaf.org/viaf/294145857904223021237"/>
-      <e:P20378 rdf:resource="brenchleychaz"/>
    </c:C10006>
    <c:C10006 rdf:about="http://viaf.org/viaf/294145857904223021237/ger/gesprocheneswort">
       <e:P20006>ger</e:P20006>
       <e:P20001>gesprochenes Wort</e:P20001>
+      <e:P20022 rdf:resource="gertzenhubertus"/>
       <e:P20037 rdf:resource="engelwerner"/>
       <e:P20059 rdf:resource="urn:isbn:9783899645927"/>
       <e:P20059 rdf:resource="urn:isbn:9783958625150"/>
       <e:P20231 rdf:resource="http://viaf.org/viaf/294145857904223021237"/>
-      <e:P20378 rdf:resource="gertzenhubertus"/>
    </c:C10006>
    <c:C10006 rdf:about="http://viaf.org/viaf/294145857904223021237/ger/text">
       <e:P20006>ger</e:P20006>
@@ -1700,6 +1949,7 @@
       <e:P20001>Text</e:P20001>
       <e:P20312>dt.</e:P20312>
       <e:P20312>A duet with an occasional chorus</e:P20312>
+      <e:P20037 rdf:resource="rosenzweigleopold"/>
       <e:P20059 rdf:resource="http://example.org/579672492"/>
       <e:P20059 rdf:resource="urn:isbn:9783940597090"/>
       <e:P20231 rdf:resource="http://viaf.org/viaf/309258340"/>
@@ -1709,6 +1959,7 @@
       <e:P20001>Text</e:P20001>
       <e:P20312>dt.</e:P20312>
       <e:P20312>The doings of Raffles Haw</e:P20312>
+      <e:P20037 rdf:resource="ludwigbastian"/>
       <e:P20059 rdf:resource="urn:isbn:9783940597731"/>
       <e:P20231 rdf:resource="http://viaf.org/viaf/309272292"/>
    </c:C10006>
@@ -1766,6 +2017,7 @@
       <e:P20312>dt.</e:P20312>
       <e:P20312>Micah Clarke</e:P20312>
       <e:P20037 rdf:resource="konigrobert"/>
+      <e:P20037 rdf:resource="koenigrobert"/>
       <e:P20059 rdf:resource="urn:isbn:9783849608156"/>
       <e:P20059 rdf:resource="urn:isbn:9783940597083"/>
       <e:P20231 rdf:resource="http://viaf.org/viaf/310212942"/>
@@ -1815,6 +2067,12 @@
       <e:P20059 rdf:resource="http://example.org/579672255"/>
       <e:P20231 rdf:resource="http://viaf.org/viaf/6035152865746704940001"/>
    </c:C10006>
+   <c:C10006 rdf:about="http://viaf.org/viaf/65283845/theadventuresofthethreegarridebs/ger/text">
+      <e:P20006>ger</e:P20006>
+      <e:P20001>Text</e:P20001>
+      <e:P20059 rdf:resource="http://example.org/456484418"/>
+      <e:P20231 rdf:resource="http://viaf.org/viaf/65283845/theadventuresofthethreegarridebs"/>
+   </c:C10006>
    <c:C10006 rdf:about="http://www.wikidata.org/entity/q1129378/ger/text">
       <e:P20006>ger</e:P20006>
       <e:P20001>Text</e:P20001>
@@ -1840,9 +2098,9 @@
    <c:C10006 rdf:about="http://www.wikidata.org/entity/q1140678/ger/gesprocheneswort">
       <e:P20006>ger</e:P20006>
       <e:P20001>gesprochenes Wort</e:P20001>
+      <e:P20022 rdf:resource="gertzenhubertus"/>
       <e:P20059 rdf:resource="urn:isbn:9783899645026"/>
       <e:P20231 rdf:resource="http://www.wikidata.org/entity/q1140678"/>
-      <e:P20378 rdf:resource="gertzenhubertus"/>
    </c:C10006>
    <c:C10006 rdf:about="http://www.wikidata.org/entity/q1140678/ger/text">
       <e:P20006>ger</e:P20006>
@@ -1872,11 +2130,11 @@
    <c:C10006 rdf:about="http://www.wikidata.org/entity/q1150069/ger/gesprocheneswort">
       <e:P20006>ger</e:P20006>
       <e:P20001>gesprochenes Wort</e:P20001>
+      <e:P20022 rdf:resource="http://viaf.org/viaf/55039969"/>
+      <e:P20022 rdf:resource="gertzenhubertus"/>
       <e:P20059 rdf:resource="urn:isbn:9783742405609"/>
       <e:P20059 rdf:resource="urn:isbn:9783899645019"/>
       <e:P20231 rdf:resource="http://www.wikidata.org/entity/q1150069"/>
-      <e:P20378 rdf:resource="http://viaf.org/viaf/55039969"/>
-      <e:P20378 rdf:resource="gertzenhubertus"/>
    </c:C10006>
    <c:C10006 rdf:about="http://www.wikidata.org/entity/q1150069/ger/text">
       <e:P20006>ger</e:P20006>
@@ -1926,16 +2184,16 @@
    </c:C10006>
    <c:C10006 rdf:about="http://www.wikidata.org/entity/q1193379/ger/">
       <e:P20006>ger</e:P20006>
+      <e:P20022 rdf:resource="collbert"/>
       <e:P20059 rdf:resource="urn:isbn:9783837112221"/>
       <e:P20231 rdf:resource="http://www.wikidata.org/entity/q1193379"/>
-      <e:P20378 rdf:resource="collbert"/>
    </c:C10006>
    <c:C10006 rdf:about="http://www.wikidata.org/entity/q1193379/ger/gesprocheneswort">
       <e:P20006>ger</e:P20006>
       <e:P20001>gesprochenes Wort</e:P20001>
+      <e:P20022 rdf:resource="collbert"/>
       <e:P20059 rdf:resource="urn:isbn:9783837112221"/>
       <e:P20231 rdf:resource="http://www.wikidata.org/entity/q1193379"/>
-      <e:P20378 rdf:resource="collbert"/>
    </c:C10006>
    <c:C10006 rdf:about="http://www.wikidata.org/entity/q1193379/ger/text">
       <e:P20006>ger</e:P20006>
@@ -2005,6 +2263,7 @@
       <e:P20001>Text</e:P20001>
       <e:P20312>dt.</e:P20312>
       <e:P20312>The crime of the Congo</e:P20312>
+      <e:P20037 rdf:resource="abelmusgravecurt"/>
       <e:P20059 rdf:resource="urn:isbn:9783940597298"/>
       <e:P20059 rdf:resource="urn:isbn:9783434460510"/>
       <e:P20231 rdf:resource="http://www.wikidata.org/entity/q22090538"/>
@@ -2090,11 +2349,11 @@
    <c:C10006 rdf:about="http://www.wikidata.org/entity/q265546/ger/gesprocheneswort">
       <e:P20006>ger</e:P20006>
       <e:P20001>gesprochenes Wort</e:P20001>
+      <e:P20022 rdf:resource="clarinhans"/>
+      <e:P20022 rdf:resource="renneisenwalter"/>
       <e:P20059 rdf:resource="urn:isbn:9783742402851"/>
       <e:P20059 rdf:resource="urn:ian:4057664026972"/>
       <e:P20231 rdf:resource="http://www.wikidata.org/entity/q265546"/>
-      <e:P20378 rdf:resource="clarinhans"/>
-      <e:P20378 rdf:resource="renneisenwalter"/>
    </c:C10006>
    <c:C10006 rdf:about="http://www.wikidata.org/entity/q265546/ger/text">
       <e:P20006>ger</e:P20006>
@@ -2165,11 +2424,11 @@
    <c:C10006 rdf:about="http://www.wikidata.org/entity/q3041826/ger/gesprocheneswort">
       <e:P20006>ger</e:P20006>
       <e:P20001>gesprochenes Wort</e:P20001>
+      <e:P20022 rdf:resource="kerstalexander"/>
+      <e:P20022 rdf:resource="fischerheinzleo"/>
+      <e:P20022 rdf:resource="ziegleradolf"/>
       <e:P20059 rdf:resource="urn:isbn:9783742408532"/>
       <e:P20231 rdf:resource="http://www.wikidata.org/entity/q3041826"/>
-      <e:P20378 rdf:resource="kerstalexander"/>
-      <e:P20378 rdf:resource="fischerheinzleo"/>
-      <e:P20378 rdf:resource="ziegleradolf"/>
    </c:C10006>
    <c:C10006 rdf:about="http://www.wikidata.org/entity/q3041826/ger/text">
       <e:P20006>ger</e:P20006>
@@ -2187,16 +2446,16 @@
    </c:C10006>
    <c:C10006 rdf:about="http://www.wikidata.org/entity/q3235556/ger/">
       <e:P20006>ger</e:P20006>
+      <e:P20022 rdf:resource="collbert"/>
       <e:P20059 rdf:resource="urn:isbn:9783837112276"/>
       <e:P20231 rdf:resource="http://www.wikidata.org/entity/q3235556"/>
-      <e:P20378 rdf:resource="collbert"/>
    </c:C10006>
    <c:C10006 rdf:about="http://www.wikidata.org/entity/q3235556/ger/gesprocheneswort">
       <e:P20006>ger</e:P20006>
       <e:P20001>gesprochenes Wort</e:P20001>
+      <e:P20022 rdf:resource="collbert"/>
       <e:P20059 rdf:resource="urn:isbn:9783837112276"/>
       <e:P20231 rdf:resource="http://www.wikidata.org/entity/q3235556"/>
-      <e:P20378 rdf:resource="collbert"/>
    </c:C10006>
    <c:C10006 rdf:about="http://www.wikidata.org/entity/q3235556/ger/text">
       <e:P20006>ger</e:P20006>
@@ -2211,6 +2470,7 @@
       <e:P20001>Text</e:P20001>
       <e:P20312>dt.</e:P20312>
       <e:P20312>Round the red lamp</e:P20312>
+      <e:P20037 rdf:resource="erlernadine"/>
       <e:P20059 rdf:resource="http://example.org/579672905"/>
       <e:P20059 rdf:resource="urn:isbn:9783940597335"/>
       <e:P20231 rdf:resource="http://www.wikidata.org/entity/q3492113"/>
@@ -2278,6 +2538,7 @@
       <e:P20001>Text</e:P20001>
       <e:P20312>dt.</e:P20312>
       <e:P20312>The Stark Munro letters</e:P20312>
+      <e:P20037 rdf:resource="hillichreinhard"/>
       <e:P20059 rdf:resource="urn:isbn:9783940597397"/>
       <e:P20059 rdf:resource="http://example.org/362789770"/>
       <e:P20231 rdf:resource="http://www.wikidata.org/entity/q5295849"/>
@@ -2295,6 +2556,7 @@
       <e:P20001>Text</e:P20001>
       <e:P20312>dt.</e:P20312>
       <e:P20312>The return of Sherlock Holmes</e:P20312>
+      <e:P20037 rdf:resource="http://viaf.org/viaf/305118865"/>
       <e:P20037 rdf:resource="http://viaf.org/viaf/66691825"/>
       <e:P20037 rdf:resource="schmitzwerner"/>
       <e:P20059 rdf:resource="urn:isbn:9783746611860"/>
@@ -2342,6 +2604,8 @@
    <c:C10006 rdf:about="http://www.wikidata.org/entity/q860831/ger/gesprocheneswort">
       <e:P20006>ger</e:P20006>
       <e:P20001>gesprochenes Wort</e:P20001>
+      <e:P20022 rdf:resource="greatronny"/>
+      <e:P20022 rdf:resource="http://viaf.org/viaf/77045939"/>
       <e:P20037 rdf:resource="http://personid.no/10374"/>
       <e:P20059 rdf:resource="urn:isbn:9783836807708"/>
       <e:P20059 rdf:resource="urn:isbn:9783844516050"/>
@@ -2350,8 +2614,6 @@
       <e:P20059 rdf:resource="urn:isbn:9783844516043"/>
       <e:P20059 rdf:resource="urn:isbn:9783866676039"/>
       <e:P20231 rdf:resource="http://www.wikidata.org/entity/q860831"/>
-      <e:P20378 rdf:resource="greatronny"/>
-      <e:P20378 rdf:resource="http://viaf.org/viaf/77045939"/>
    </c:C10006>
    <c:C10006 rdf:about="http://www.wikidata.org/entity/q860831/ger/text">
       <e:P20006>ger</e:P20006>
@@ -2430,6 +2692,7 @@
       <m:P30156>Das gefleckte Band</m:P30156>
       <m:P30117>Arthur Conan Doyle. [Ins Dt. übertr. von Reinhard Hillich. Ill. von Jörn Hennig]</m:P30117>
       <m:P30182>30 S.</m:P30182>
+      <marc:M30000b>Ill.</marc:M30000b>
       <m:P30169>20 cm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -2442,6 +2705,7 @@
       <m:P30156>Silver Blaze</m:P30156>
       <m:P30117>Arthur Conan Doyle. [Ins Dt. übertr. von Reinhard Hillich. Mit Ill. von Johannes-Christian Rost]</m:P30117>
       <m:P30182>30 S.</m:P30182>
+      <marc:M30000b>Ill.</marc:M30000b>
       <m:P30169>20 cm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -2922,6 +3186,7 @@
       <m:P30002>Band</m:P30002>
       <m:P30106>Huebers fremdsprachliche Texte</m:P30106>
       <m:P30165>Nr. 88</m:P30165>
+      <m:P30139 rdf:resource="http://viaf.org/viaf/65283845/theadventuresofthethreegarridebs/ger/text"/>
    </c:C10007>
    <c:C10007 rdf:about="http://example.org/456484434">
       <marc:M001>456484434</marc:M001>
@@ -3621,6 +3886,7 @@
       <m:P30117>Arthur Conan Doyle</m:P30117>
       <m:P30107>2. Aufl.</m:P30107>
       <m:P30182>370 S.</m:P30182>
+      <marc:M30000b>Ill.</marc:M30000b>
       <m:P30169>24 cm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -3631,6 +3897,7 @@
       <m:P30156>Sherlock Holmes : 17 Detektivgeschichten</m:P30156>
       <m:P30117>Arthur Conan Doyle. [Übertr. von Reinhard Hillich ...]</m:P30117>
       <m:P30182>370 S.</m:P30182>
+      <marc:M30000b>Ill.</marc:M30000b>
       <m:P30169>24 cm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -3651,6 +3918,7 @@
       <m:P30156>Sherlock Holmes : 17 Detektivgeschichten</m:P30156>
       <m:P30117>Arthur Conan Doyle</m:P30117>
       <m:P30182>370 S.</m:P30182>
+      <marc:M30000b>Ill.</marc:M30000b>
       <m:P30169>24 cm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -3682,6 +3950,7 @@
       <m:P30117>Arthur Conan Doyle</m:P30117>
       <m:P30107>3. Aufl.</m:P30107>
       <m:P30182>370 S.</m:P30182>
+      <marc:M30000b>Ill.</marc:M30000b>
       <m:P30169>24 cm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -3793,6 +4062,7 @@
       <m:P30156>Die Memoiren des Sherlock Holmes</m:P30156>
       <m:P30117>Arthur Conan Doyle. Neu übers. von Nikolaus Stingl</m:P30117>
       <m:P30182>407 S.</m:P30182>
+      <marc:M30000b>Ill.</marc:M30000b>
       <m:P30169>19 cm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -3806,6 +4076,7 @@
       <m:P30156>Die Rückkehr des Sherlock Holmes</m:P30156>
       <m:P30117>Arthur Conan Doyle. Neu übers. von Werner Schmitz</m:P30117>
       <m:P30182>536 S.</m:P30182>
+      <marc:M30000b>Ill.</marc:M30000b>
       <m:P30169>19 cm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -3819,6 +4090,7 @@
       <m:P30156>Die Abenteuer des Sherlock Holmes</m:P30156>
       <m:P30117>Arthur Conan Doyle. Neu übers. von Gisbert Haefs</m:P30117>
       <m:P30182>495 S.</m:P30182>
+      <marc:M30000b>Ill.</marc:M30000b>
       <m:P30169>19 cm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -3832,6 +4104,7 @@
       <m:P30156>Das Zeichen der Vier</m:P30156>
       <m:P30117>Arthur Conan Doyle. Neu übers. von Leslie Giger</m:P30117>
       <m:P30182>207 S.</m:P30182>
+      <marc:M30000b>Ill.</marc:M30000b>
       <m:P30169>19 cm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -3845,6 +4118,7 @@
       <m:P30156>Der Hund der Baskervilles</m:P30156>
       <m:P30117>Arthur Conan Doyle. Neu übers. von Gisbert Haefs</m:P30117>
       <m:P30182>293 S.</m:P30182>
+      <marc:M30000b>Ill.</marc:M30000b>
       <m:P30169>19 cm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -3865,6 +4139,7 @@
       <m:P30156>Eine Studie in Scharlachrot</m:P30156>
       <m:P30117>Arthur Conan Doyle. Neu übers. von Gisbert Haefs</m:P30117>
       <m:P30182>219 S.</m:P30182>
+      <marc:M30000b>Ill.</marc:M30000b>
       <m:P30169>19 cm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -3878,6 +4153,7 @@
       <m:P30156>Seine Abschiedsvorstellung</m:P30156>
       <m:P30117>Arthur Conan Doyle. Neu übers. von Leslie Giger</m:P30117>
       <m:P30182>350 S.</m:P30182>
+      <marc:M30000b>Ill.</marc:M30000b>
       <m:P30169>19 cm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -3891,6 +4167,7 @@
       <m:P30156>Das Tal der Angst</m:P30156>
       <m:P30117>Arthur Conan Doyle. Neu übers. von Hans Wolf</m:P30117>
       <m:P30182>286 S.</m:P30182>
+      <marc:M30000b>Ill.</marc:M30000b>
       <m:P30169>19 cm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -3904,6 +4181,7 @@
       <m:P30156>Sherlock Holmes' Buch der Fälle</m:P30156>
       <m:P30117>Arthur Conan Doyle. Neu übers. von Hans Wolf</m:P30117>
       <m:P30182>414 S.</m:P30182>
+      <marc:M30000b>Ill.</marc:M30000b>
       <m:P30169>19 cm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -4469,6 +4747,7 @@
       <m:P30156>The red circle</m:P30156>
       <m:P30117>Sir Arthur Conan Doyle. [Ed.: Solveig Odland Portisch]</m:P30117>
       <m:P30182>47 S.</m:P30182>
+      <marc:M30000b>Ill.</marc:M30000b>
       <m:P30169>19 cm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -4514,6 +4793,7 @@
       <m:P30106>Real Reads</m:P30106>
       <m:P30165>1</m:P30165>
       <m:P30139 rdf:resource="http://viaf.org/viaf/294145857904223021237/eng/text"/>
+      <m:P30321 rdf:resource="bennettfelix"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9783129090091">
       <marc:M001>1136359591</marc:M001>
@@ -4567,6 +4847,7 @@
       <m:P30117>Arthur Conan Doyle. Hrsg. von Klaus Degering</m:P30117>
       <m:P30107>Bibliogr. aktualisierte Ausg.</m:P30107>
       <m:P30182>184 S.</m:P30182>
+      <marc:M30000b>graph. Darst.</marc:M30000b>
       <m:P30169>15 cm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -4598,6 +4879,7 @@
       <m:P30117>Arthur Conan Doyle. Aus dem Engl. neu übers., mit einem Nachw. von Klaus Degering</m:P30117>
       <m:P30107>Bibliogr. erg. Ausg.</m:P30107>
       <m:P30182>463 S.</m:P30182>
+      <marc:M30000b>Ill.</marc:M30000b>
       <m:P30169>15 cm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -4661,6 +4943,7 @@
       <m:P30156>The lost world</m:P30156>
       <m:P30117>Arthur Conan Doyle. Retold by Anne Collins</m:P30117>
       <m:P30182>63 S.</m:P30182>
+      <marc:M30000b>Ill.</marc:M30000b>
       <m:P30169>20 cm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -4757,6 +5040,7 @@
       <m:P30156>Der Hund von Baskerville</m:P30156>
       <m:P30117>Arthur Conan Doyle. [Ins Dt. übertr. von Edda Fensch]</m:P30117>
       <m:P30182>199 S.</m:P30182>
+      <marc:M30000b>Ill.</marc:M30000b>
       <m:P30169>18 cm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -4774,6 +5058,7 @@
       <m:P30107>4. Aufl.</m:P30107>
       <m:P30107>5. Aufl.</m:P30107>
       <m:P30182>370 S.</m:P30182>
+      <marc:M30000b>Ill.</marc:M30000b>
       <m:P30169>24 cm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -4787,6 +5072,7 @@
       <m:P30117>Arthur Conan Doyle</m:P30117>
       <m:P30107>1.Aufl.</m:P30107>
       <m:P30182>271 S.</m:P30182>
+      <marc:M30000b>Ill.</marc:M30000b>
       <m:P30169>21 cm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -4875,6 +5161,7 @@
       <m:P30156>Die Maracot-Tiefe : phantast. Roman</m:P30156>
       <m:P30117>Arthur Conan Doyle. [Mit Ill. von Klaus D. Schiemann. Ins Dt. übertr. von Marcel Bieger]</m:P30117>
       <m:P30182>174 S.</m:P30182>
+      <marc:M30000b>Ill.</marc:M30000b>
       <m:P30169>18 cm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -4991,7 +5278,9 @@
       <m:P30117>Arthur Conan Doyle. Neugef. von W. K. Weidert</m:P30117>
       <m:P30107>2. Aufl., 16. - 23. Tsd.</m:P30107>
       <m:P30182>157 S.</m:P30182>
+      <marc:M30000b>Ill.</marc:M30000b>
       <m:P30169>21 cm</m:P30169>
+      <marc:M30000b>1 Ill.</marc:M30000b>
       <m:P30169>20 cm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -5028,6 +5317,7 @@
       <m:P30156>Sherlock Holmes, späte Rache</m:P30156>
       <m:P30117>Arthur Conan Doyle. Nach d. engl. Orig. neu erzählt von W. K. Weidert</m:P30117>
       <m:P30182>127 S.</m:P30182>
+      <marc:M30000b>Ill.</marc:M30000b>
       <m:P30169>20 cm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -5092,6 +5382,7 @@
       <m:P30117>Arthur Conan Doyle. Nach d. engl. Orig. neu erzählt von W. K. Weidert</m:P30117>
       <m:P30107>2. Aufl., 16. - 23. Tsd.</m:P30107>
       <m:P30182>127 S.</m:P30182>
+      <marc:M30000b>Ill.</marc:M30000b>
       <m:P30169>21 cm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -5169,6 +5460,7 @@
       <m:P30107>Ill. Neuaufl., 4. Aufl.</m:P30107>
       <m:P30107>Ill. Neuausg., 3. Aufl.</m:P30107>
       <m:P30182>223 S.</m:P30182>
+      <marc:M30000b>Ill.</marc:M30000b>
       <m:P30169>18 cm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -6539,6 +6831,7 @@
       <m:P30117>Arthur Conan Doyle</m:P30117>
       <m:P30156>Der Klub der Rothaarigen : und andere Detektivgeschichten</m:P30156>
       <m:P30182>335 Seiten</m:P30182>
+      <marc:M30000b>Illustrationen</marc:M30000b>
       <m:P30169>18 cm</m:P30169>
       <m:P30182>335 S.</m:P30182>
       <m:P30169>19 cm</m:P30169>
@@ -6560,6 +6853,7 @@
       <m:P30182>286 S.</m:P30182>
       <m:P30169>19 cm</m:P30169>
       <m:P30182>286 Seiten</m:P30182>
+      <marc:M30000b>Illustrationen</marc:M30000b>
       <m:P30169>18 cm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -6576,6 +6870,7 @@
       <m:P30117>Arthur Conan Doyle</m:P30117>
       <m:P30156>Das leere Haus : und andere Detektivgeschichten</m:P30156>
       <m:P30182>352 Seiten</m:P30182>
+      <marc:M30000b>Illustrationen</marc:M30000b>
       <m:P30169>18 cm</m:P30169>
       <m:P30182>352 S.</m:P30182>
       <m:P30169>19 cm</m:P30169>
@@ -6648,6 +6943,7 @@
       <m:P30117>Arthur Conan Doyle</m:P30117>
       <m:P30107>1. Aufl.</m:P30107>
       <m:P30182>Online-Ressource, 116 Tracks (649 Min.)</m:P30182>
+      <marc:M30000b>Laufzeit 10:49 Stunden</marc:M30000b>
       <m:P30001>Computermedien</m:P30001>
       <m:P30002>Online-Ressource</m:P30002>
       <m:P30139 rdf:resource="http://viaf.org/viaf/186734487/ger/gesprocheneswort"/>
@@ -6661,6 +6957,7 @@
       <m:P30117>Arthur Conan Doyle</m:P30117>
       <m:P30107>1. Aufl.</m:P30107>
       <m:P30182>Online-Ressource 616 Min.</m:P30182>
+      <marc:M30000b>113 Tracks, Laufzeit 10:16 Stunden</marc:M30000b>
       <m:P30001>Computermedien</m:P30001>
       <m:P30002>Online-Ressource</m:P30002>
       <m:P30139 rdf:resource="http://www.wikidata.org/entity/q860831/ger/gesprocheneswort"/>
@@ -6676,6 +6973,7 @@
       <m:P30117>Arthur Conan Doyle</m:P30117>
       <m:P30107>ungekürzte Lesung, ungek. Ausg.</m:P30107>
       <m:P30182>Online-Ressource 49 Min.</m:P30182>
+      <marc:M30000b>5 Tracks</marc:M30000b>
       <m:P30001>Computermedien</m:P30001>
       <m:P30002>Online-Ressource</m:P30002>
       <m:P30139 rdf:resource="http://www.wikidata.org/entity/q1193379/ger/gesprocheneswort"/>
@@ -6692,6 +6990,7 @@
       <m:P30117>Arthur Conan Doyle</m:P30117>
       <m:P30107>ungekürzte Lesung, ungek. Ausg.</m:P30107>
       <m:P30182>Online-Ressource 59 Min.</m:P30182>
+      <marc:M30000b>6 Tracks</marc:M30000b>
       <m:P30001>Computermedien</m:P30001>
       <m:P30002>Online-Ressource</m:P30002>
       <m:P30139 rdf:resource="http://www.wikidata.org/entity/q3235556/ger/"/>
@@ -7065,6 +7364,7 @@
       <m:P30117>Arthur Conan Doyle</m:P30117>
       <m:P30107>ungekürzte Lesung, ungek. Ausg.</m:P30107>
       <m:P30182>Online-Ressource 124 Min.</m:P30182>
+      <marc:M30000b>13 Tracks</marc:M30000b>
       <m:P30001>Computermedien</m:P30001>
       <m:P30002>Online-Ressource</m:P30002>
       <m:P30139 rdf:resource="http://viaf.org/viaf/186734487/ger/gesprocheneswort"/>
@@ -7078,6 +7378,7 @@
       <m:P30117>Arthur Conan Doyle</m:P30117>
       <m:P30107>ungekürzte Lesung, ungek. Ausg.</m:P30107>
       <m:P30182>Online-Ressource 116 Min.</m:P30182>
+      <marc:M30000b>15 Tracks</marc:M30000b>
       <m:P30001>Computermedien</m:P30001>
       <m:P30002>Online-Ressource</m:P30002>
       <m:P30139 rdf:resource="http://viaf.org/viaf/186734487/ger/gesprocheneswort"/>
@@ -7091,6 +7392,7 @@
       <m:P30117>Arthur Conan Doyle</m:P30117>
       <m:P30107>ungekürzte Lesung, ungek. Ausg.</m:P30107>
       <m:P30182>Online-Ressource 111 Min.</m:P30182>
+      <marc:M30000b>15 Tracks</marc:M30000b>
       <m:P30001>Computermedien</m:P30001>
       <m:P30002>Online-Ressource</m:P30002>
       <m:P30139 rdf:resource="http://viaf.org/viaf/186734487/ger/gesprocheneswort"/>
@@ -7104,6 +7406,7 @@
       <m:P30117>Arthur Conan Doyle</m:P30117>
       <m:P30107>ungekürzte Lesung, ungek. Ausg.</m:P30107>
       <m:P30182>Online-Ressource 127 Min.</m:P30182>
+      <marc:M30000b>16 Tracks</marc:M30000b>
       <m:P30001>Computermedien</m:P30001>
       <m:P30002>Online-Ressource</m:P30002>
       <m:P30139 rdf:resource="http://viaf.org/viaf/186734487/ger/gesprocheneswort"/>
@@ -7117,6 +7420,7 @@
       <m:P30117>Arthur Conan Doyle</m:P30117>
       <m:P30107>ungekürzte Lesung, ungek. Ausg.</m:P30107>
       <m:P30182>Online-Ressource 112 Min.</m:P30182>
+      <marc:M30000b>22 Tracks</marc:M30000b>
       <m:P30001>Computermedien</m:P30001>
       <m:P30002>Online-Ressource</m:P30002>
       <m:P30139 rdf:resource="http://viaf.org/viaf/186734487/ger/gesprocheneswort"/>
@@ -7130,6 +7434,7 @@
       <m:P30117>Arthur Conan Doyle</m:P30117>
       <m:P30107>ungekürzte Lesung, ungek. Ausg.</m:P30107>
       <m:P30182>Online-Ressource 131 Min.</m:P30182>
+      <marc:M30000b>25 Tracks</marc:M30000b>
       <m:P30001>Computermedien</m:P30001>
       <m:P30002>Online-Ressource</m:P30002>
       <m:P30139 rdf:resource="http://viaf.org/viaf/186734487/ger/gesprocheneswort"/>
@@ -7143,6 +7448,7 @@
       <m:P30117>Arthur Conan Doyle</m:P30117>
       <m:P30107>ungekürzte Lesung, ungek. Ausg.</m:P30107>
       <m:P30182>Online-Ressource 118 Min.</m:P30182>
+      <marc:M30000b>24 Tracks</marc:M30000b>
       <m:P30001>Computermedien</m:P30001>
       <m:P30002>Online-Ressource</m:P30002>
       <m:P30139 rdf:resource="http://www.wikidata.org/entity/q860831/ger/gesprocheneswort"/>
@@ -7156,6 +7462,7 @@
       <m:P30117>Arthur Conan Doyle</m:P30117>
       <m:P30107>ungekürzte Lesung, ungek. Ausg.</m:P30107>
       <m:P30182>Online-Ressource 103 Min.</m:P30182>
+      <marc:M30000b>20 Tracks</marc:M30000b>
       <m:P30001>Computermedien</m:P30001>
       <m:P30002>Online-Ressource</m:P30002>
       <m:P30139 rdf:resource="http://www.wikidata.org/entity/q860831/ger/gesprocheneswort"/>
@@ -7170,6 +7477,7 @@
       <m:P30156>Der Hund der Baskervilles</m:P30156>
       <m:P30117>Arthur Conan Doyle</m:P30117>
       <m:P30182>Online-Ressource 104 Min.</m:P30182>
+      <marc:M30000b>13 Tracks</marc:M30000b>
       <m:P30001>Computermedien</m:P30001>
       <m:P30002>Online-Ressource</m:P30002>
       <m:P30139 rdf:resource="http://viaf.org/viaf/181625655/ger/gesprocheneswort"/>
@@ -7184,6 +7492,7 @@
       <m:P30117>Arthur Conan Doyle</m:P30117>
       <m:P30107>ungekürzte Lesung, ungek. Ausg.</m:P30107>
       <m:P30182>Online-Ressource 104 Min.</m:P30182>
+      <marc:M30000b>22 Tracks</marc:M30000b>
       <m:P30001>Computermedien</m:P30001>
       <m:P30002>Online-Ressource</m:P30002>
       <m:P30139 rdf:resource="http://www.wikidata.org/entity/q860831/ger/gesprocheneswort"/>
@@ -7197,6 +7506,7 @@
       <m:P30117>Arthur Conan Doyle</m:P30117>
       <m:P30107>Ungekürzte Lesung, ungek. Ausg.</m:P30107>
       <m:P30182>Online-Ressource 94 Min.</m:P30182>
+      <marc:M30000b>20 Tracks</marc:M30000b>
       <m:P30001>Computermedien</m:P30001>
       <m:P30002>Online-Ressource</m:P30002>
       <m:P30139 rdf:resource="http://www.wikidata.org/entity/q860831/ger/gesprocheneswort"/>
@@ -7333,6 +7643,7 @@
       <m:P30001>Computermedien</m:P30001>
       <m:P30002>Online-Ressource</m:P30002>
       <m:P30139 rdf:resource="http://viaf.org/viaf/184892317/ger/text"/>
+      <m:P30321 rdf:resource="http://viaf.org/viaf/80840676"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9783849608149">
       <marc:M001>103199212X</marc:M001>
@@ -7388,6 +7699,7 @@
       <m:P30001>Computermedien</m:P30001>
       <m:P30002>Online-Ressource</m:P30002>
       <m:P30139 rdf:resource="http://viaf.org/viaf/174141344/ger/text"/>
+      <m:P30321 rdf:resource="http://viaf.org/viaf/80840676"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9783849608200">
       <marc:M001>1026957338</marc:M001>
@@ -7399,6 +7711,7 @@
       <m:P30001>Computermedien</m:P30001>
       <m:P30002>Online-Ressource</m:P30002>
       <m:P30139 rdf:resource="http://viaf.org/viaf/174141344/ger/text"/>
+      <m:P30321 rdf:resource="http://viaf.org/viaf/80840676"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9783849608217">
       <marc:M001>1026958210</marc:M001>
@@ -7443,10 +7756,12 @@
       <m:P30156>Der blaue Karfunkel</m:P30156>
       <m:P30117>Arthur Conan Doyle. Ill. von Roland Thalmann</m:P30117>
       <m:P30182>44 S.</m:P30182>
+      <marc:M30000b>Ill.</marc:M30000b>
       <m:P30169>19 cm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
       <m:P30139 rdf:resource="http://www.wikidata.org/entity/q1140678/ger/text"/>
+      <m:P30321 rdf:resource="thalmannroland"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9783861840961">
       <marc:M001>985856076</marc:M001>
@@ -7456,6 +7771,7 @@
       <m:P30117>Sir Arthur Conan Doyle. Ill. by Harry Jürgens</m:P30117>
       <m:P30107>1. ed.</m:P30107>
       <m:P30182>510 S.</m:P30182>
+      <marc:M30000b>Ill.</marc:M30000b>
       <m:P30169>7 cm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -7487,6 +7803,7 @@
       <m:P30117>Sir Arthur Conan Doyle</m:P30117>
       <m:P30107>First edition</m:P30107>
       <m:P30182>166 Seiten</m:P30182>
+      <marc:M30000b>Illustrationen</marc:M30000b>
       <m:P30169>60 mm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -7520,6 +7837,7 @@
       <m:P30117>Sir Arthur Conan Doyle</m:P30117>
       <m:P30107>First edition</m:P30107>
       <m:P30182>177 Seiten</m:P30182>
+      <marc:M30000b>Illustrationen</marc:M30000b>
       <m:P30169>60 mm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -7537,6 +7855,7 @@
       <m:P30117>Arthur Conan Doyle</m:P30117>
       <m:P30107>First edition</m:P30107>
       <m:P30182>147 Seiten</m:P30182>
+      <marc:M30000b>Illustrationen</marc:M30000b>
       <m:P30169>60 mm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -7554,6 +7873,7 @@
       <m:P30117>Sir Arthur Conan Doyle</m:P30117>
       <m:P30107>First edition</m:P30107>
       <m:P30182>172 Seiten</m:P30182>
+      <marc:M30000b>Illustrationen</marc:M30000b>
       <m:P30169>60 mm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -7587,6 +7907,7 @@
       <m:P30117>Sir Arthur Conan Doyle</m:P30117>
       <m:P30107>First edition</m:P30107>
       <m:P30182>165 Seiten</m:P30182>
+      <marc:M30000b>Illustrationen</marc:M30000b>
       <m:P30169>60 mm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -7604,6 +7925,7 @@
       <m:P30117>Sir Arthur Conan Doyle</m:P30117>
       <m:P30107>First edition</m:P30107>
       <m:P30182>174 Seiten</m:P30182>
+      <marc:M30000b>Illustrationen</marc:M30000b>
       <m:P30169>60 mm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -7621,6 +7943,7 @@
       <m:P30117>Sir Arthur Conan Doyle</m:P30117>
       <m:P30107>First edition</m:P30107>
       <m:P30182>170 Seiten</m:P30182>
+      <marc:M30000b>Illustrationen</marc:M30000b>
       <m:P30169>60 mm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -7638,6 +7961,7 @@
       <m:P30117>Sir Arthur Conan Doyle</m:P30117>
       <m:P30107>First edition</m:P30107>
       <m:P30182>179 Seiten</m:P30182>
+      <marc:M30000b>Illustrationen</marc:M30000b>
       <m:P30169>60 mm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -7655,6 +7979,7 @@
       <m:P30117>Sir Arthur Conan Doyle</m:P30117>
       <m:P30107>First edition</m:P30107>
       <m:P30182>189 Seiten</m:P30182>
+      <marc:M30000b>Illustrationen</marc:M30000b>
       <m:P30169>60 mm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -7672,6 +7997,7 @@
       <m:P30117>Sir Arthur Conan Doyle</m:P30117>
       <m:P30107>First edition</m:P30107>
       <m:P30182>188 Seiten</m:P30182>
+      <marc:M30000b>Illustrationen</marc:M30000b>
       <m:P30169>60 mm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -7686,6 +8012,7 @@
       <m:P30156>The adventure of the Musgrave ritual</m:P30156>
       <m:P30117>Sir Arthur Conan Doyle</m:P30117>
       <m:P30182>154 Seiten</m:P30182>
+      <marc:M30000b>Illustrationen</marc:M30000b>
       <m:P30169>60 mm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -7714,6 +8041,7 @@
       <m:P30156>The adventure of the six Napoleons</m:P30156>
       <m:P30117>Sir Arthur Conan Doyle</m:P30117>
       <m:P30182>158 Seiten</m:P30182>
+      <marc:M30000b>Illustrationen</marc:M30000b>
       <m:P30169>60 mm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -7729,6 +8057,7 @@
       <m:P30117>Sir Arthur Conan Doyle</m:P30117>
       <m:P30107>First edition</m:P30107>
       <m:P30182>146 Seiten</m:P30182>
+      <marc:M30000b>Illustrationen</marc:M30000b>
       <m:P30169>60 mm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -7744,6 +8073,7 @@
       <m:P30117>Sir Arthur Conan Doyle</m:P30117>
       <m:P30107>First edition</m:P30107>
       <m:P30182>185 Seiten</m:P30182>
+      <marc:M30000b>Illustrationen</marc:M30000b>
       <m:P30169>60 mm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -7759,6 +8089,7 @@
       <m:P30117>Sir Arthur Conan Doyle</m:P30117>
       <m:P30107>First edition</m:P30107>
       <m:P30182>188 Seiten</m:P30182>
+      <marc:M30000b>Illustrationen</marc:M30000b>
       <m:P30169>60 mm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -7774,6 +8105,7 @@
       <m:P30117>Sir Arthur Conan Doyle</m:P30117>
       <m:P30107>First edition</m:P30107>
       <m:P30182>173 Seiten</m:P30182>
+      <marc:M30000b>Illustrationen</marc:M30000b>
       <m:P30169>60 mm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -7789,6 +8121,7 @@
       <m:P30117>Sir Arthur Conan Doyle</m:P30117>
       <m:P30107>First edition</m:P30107>
       <m:P30182>173 Seiten</m:P30182>
+      <marc:M30000b>Illustrationen</marc:M30000b>
       <m:P30169>60 mm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -7804,6 +8137,7 @@
       <m:P30117>Sir Arthur Conan Doyle</m:P30117>
       <m:P30107>First edition</m:P30107>
       <m:P30182>138 Seiten</m:P30182>
+      <marc:M30000b>Illustrationen</marc:M30000b>
       <m:P30169>60 mm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -7819,6 +8153,7 @@
       <m:P30117>Sir Arthur Conan Doyle</m:P30117>
       <m:P30107>First edition</m:P30107>
       <m:P30182>109 Seiten</m:P30182>
+      <marc:M30000b>Illustrationen</marc:M30000b>
       <m:P30169>60 mm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -7911,6 +8246,7 @@
       <m:P30117>Arthur Conan Doyle</m:P30117>
       <m:P30107>1. Aufl.</m:P30107>
       <m:P30182>Online-Ressource, 617 Min.</m:P30182>
+      <marc:M30000b>113 Tracks, Laufzeit 10:17 Stunden</marc:M30000b>
       <m:P30001>Computermedien</m:P30001>
       <m:P30002>Online-Ressource</m:P30002>
       <m:P30139 rdf:resource="http://www.wikidata.org/entity/q860831/ger/gesprocheneswort"/>
@@ -7922,6 +8258,7 @@
       <m:P30156>Eine Studie in Scharlachrot</m:P30156>
       <m:P30117>Arthur Conan Doyle. Aus dem Engl. neu übers. von Hannelore Eisenhofer. Mit Ill. von Richard Gutschmidt</m:P30117>
       <m:P30182>200 S.</m:P30182>
+      <marc:M30000b>Ill.</marc:M30000b>
       <m:P30169>20 cm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -7934,6 +8271,7 @@
       <m:P30156>Der Hund der Baskervilles : mit Illustrationen aus dem Strand Magazine</m:P30156>
       <m:P30117>Arthur Conan Doyle. Aus dem Engl. neu übers. von Hannelore Eisenhofer</m:P30117>
       <m:P30182>274 S.</m:P30182>
+      <marc:M30000b>Ill.</marc:M30000b>
       <m:P30169>19 cm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -7946,6 +8284,7 @@
       <m:P30156>Das Tal der Angst</m:P30156>
       <m:P30117>Arthur Conan Doyle. Aus dem Engl. neu übers. von Hannelore Eisenhofer. Mit Ill. von Arthur I. Keller</m:P30117>
       <m:P30182>252 S.</m:P30182>
+      <marc:M30000b>Ill.</marc:M30000b>
       <m:P30169>20 cm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -7959,6 +8298,7 @@
       <m:P30156>Das Zeichen der Vier</m:P30156>
       <m:P30117>Arthur Conan Doyle. Aus dem Engl. neu übers. von Hannelore Eisenhofer. Mit Ill. von Richard Gutschmidt</m:P30117>
       <m:P30182>190 S.</m:P30182>
+      <marc:M30000b>Ill.</marc:M30000b>
       <m:P30169>20 cm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -8010,6 +8350,7 @@
       <m:P30004>urn:isbn:3870707895</m:P30004>
       <m:P30156>Studie in Scharlachrot</m:P30156>
       <m:P30182>343 S.</m:P30182>
+      <marc:M30000b>Ill.</marc:M30000b>
       <m:P30169>23 cm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -8023,6 +8364,7 @@
       <m:P30156>Sherlock Holmes</m:P30156>
       <m:P30117>Arthur Conan Doyle. Mit Ill. der Orig.-Ausg</m:P30117>
       <m:P30182>1023 S.</m:P30182>
+      <marc:M30000b>Ill.</marc:M30000b>
       <m:P30169>19 cm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -8039,6 +8381,7 @@
       <m:P30117>Sir Arthur Conan Doyle. [Dt. Übers.: R. Lautenbach und U. Kleiner]</m:P30117>
       <m:P30117>Arthur Conan Doyle. [Dt. Übers.: R. Lautenbach und U. Kleiner. Bearb. des Textes Martin Orban]</m:P30117>
       <m:P30182>1068 S.</m:P30182>
+      <marc:M30000b>Ill.</marc:M30000b>
       <m:P30169>22 cm</m:P30169>
       <m:P30182>667 S.</m:P30182>
       <m:P30182>763 S.</m:P30182>
@@ -8054,6 +8397,7 @@
       <m:P30117>Arthur Conan Doyle</m:P30117>
       <m:P30107>ungekürzte Ausgabe</m:P30107>
       <m:P30182>Online-Ressource 3159 Sek.</m:P30182>
+      <marc:M30000b>10 Tracks</marc:M30000b>
       <m:P30001>Computermedien</m:P30001>
       <m:P30002>Online-Ressource</m:P30002>
       <m:P30106>Sherlock Holmes</m:P30106>
@@ -8067,6 +8411,7 @@
       <m:P30117>Arthur Conan Doyle</m:P30117>
       <m:P30107>ungekürzte Ausgabe</m:P30107>
       <m:P30182>Online-Ressource 3074 Sek.</m:P30182>
+      <marc:M30000b>8 Tracks</marc:M30000b>
       <m:P30001>Computermedien</m:P30001>
       <m:P30002>Online-Ressource</m:P30002>
       <m:P30106>Sherlock Holmes</m:P30106>
@@ -8080,6 +8425,7 @@
       <m:P30117>Arthur Conan Doyle</m:P30117>
       <m:P30107>gekürzte Ausgabe</m:P30107>
       <m:P30182>Online-Ressource 11607 Sek.</m:P30182>
+      <marc:M30000b>21 Tracks</marc:M30000b>
       <m:P30001>Computermedien</m:P30001>
       <m:P30002>Online-Ressource</m:P30002>
       <m:P30106>Sherlock Holmes</m:P30106>
@@ -8093,6 +8439,7 @@
       <m:P30117>Arthur Conan Doyle</m:P30117>
       <m:P30107>gekürzte Ausgabe</m:P30107>
       <m:P30182>Online-Ressource 27497 Sek.</m:P30182>
+      <marc:M30000b>62 Tracks</marc:M30000b>
       <m:P30001>Computermedien</m:P30001>
       <m:P30002>Online-Ressource</m:P30002>
       <m:P30139 rdf:resource="http://viaf.org/viaf/294145857904223021237/ger/gesprocheneswort"/>
@@ -8132,6 +8479,7 @@
       <m:P30156>Sherlock Holmes : 17 Detektivgeschichten ; [Sammelbd.]</m:P30156>
       <m:P30117>Arthur Conan Doyle. [Hrsg. von Reinhard Hillich]</m:P30117>
       <m:P30182>370 S.</m:P30182>
+      <marc:M30000b>Ill.</marc:M30000b>
       <m:P30169>24 cm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -8185,6 +8533,7 @@
       <m:P30117>Arthur Conan Doyle. Hrsg., aus dem Engl. übers. sowie mit Anm. vers. von Reinhard Hillich. Textill. von Sidney Paget</m:P30117>
       <m:P30107>1. Aufl.</m:P30107>
       <m:P30182>235 S.</m:P30182>
+      <marc:M30000b>Ill.</marc:M30000b>
       <m:P30169>22 cm, 200 gr.</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -8309,6 +8658,7 @@
       <m:P30117>Arthur Conan Doyle. Hrsg. von Olaf R. Spittel. [Übers. aus dem Engl. von Nadine Erler]</m:P30117>
       <m:P30107>Dt. Erstveröff.</m:P30107>
       <m:P30182>327 S.</m:P30182>
+      <marc:M30000b>Ill.</marc:M30000b>
       <m:P30169>19 cm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -8324,6 +8674,7 @@
       <m:P30117>Arthur Conan Doyle. Hrsg. von Olaf R. Spittel. [Übers. aus dem Engl. von Bastian Ludwig]</m:P30117>
       <m:P30107>Dt. Erstveröff.</m:P30107>
       <m:P30182>163 S.</m:P30182>
+      <marc:M30000b>Ill.</marc:M30000b>
       <m:P30169>19 cm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -8356,6 +8707,7 @@
       <m:P30117>Sir Arthur Conan Doyle ; herausgegeben von Olaf R. Spittel ; Übersetzung aus dem Englischen von Olaf R. Spittel</m:P30117>
       <m:P30107>Deutsche Erstveröffentlichung</m:P30107>
       <m:P30182>194 Seiten</m:P30182>
+      <marc:M30000b>Illustrationen</marc:M30000b>
       <m:P30169>19 cm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -8387,12 +8739,14 @@
       <m:P30117>Sir Arthur Conan Doyle ; herausgegeben von Olaf R. Spittel ; mit Illustrationen von Sidney Paget ; Übersetzung aus dem Englischen von Mandana Bagheri [und 12 andere]</m:P30117>
       <m:P30107>Deutsche Erstveröffentlichung</m:P30107>
       <m:P30182>306 Seiten</m:P30182>
+      <marc:M30000b>Illustrationen</marc:M30000b>
       <m:P30169>20 cm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
       <m:P30106>Ausgewählte Werke / Arthur Conan Doyle</m:P30106>
       <m:P30165>Band 43</m:P30165>
       <m:P30139 rdf:resource="http://viaf.org/viaf/310211956/ger/text"/>
+      <m:P30321 rdf:resource="http://viaf.org/viaf/2555146"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9783943394153">
       <marc:M001>1032596503</marc:M001>
@@ -8430,6 +8784,7 @@
       <m:P30117>Sir Arthur Conan Doyle ; deutsche Erstübersetzung von Margarete Jacobi, vollständig neu überarbeitet von Sebastian Frenzel</m:P30117>
       <m:P30107>Ungekürzte Fassung</m:P30107>
       <m:P30182>194 Seiten</m:P30182>
+      <marc:M30000b>Illustrationen</marc:M30000b>
       <m:P30169>22 cm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -8464,6 +8819,7 @@
       <m:P30106>Sherlock Holmes bei Null Papier</m:P30106>
       <m:P30165>1</m:P30165>
       <m:P30139 rdf:resource="http://viaf.org/viaf/186734487/ger/text"/>
+      <m:P30321 rdf:resource="http://viaf.org/viaf/2555146"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9783954180769">
       <marc:M001>1021224847</marc:M001>
@@ -8484,6 +8840,7 @@
       <m:P30106>Sherlock Holmes bei Null Papier</m:P30106>
       <m:P30165>1</m:P30165>
       <m:P30139 rdf:resource="http://viaf.org/viaf/186734487/ger/text"/>
+      <m:P30321 rdf:resource="http://viaf.org/viaf/2555146"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9783954181094">
       <marc:M001>1135395721</marc:M001>
@@ -8499,6 +8856,7 @@
       <m:P30106>Sherlock Holmes bei Null Papier</m:P30106>
       <m:P30165>3</m:P30165>
       <m:P30139 rdf:resource="http://viaf.org/viaf/181625655/ger/text"/>
+      <m:P30321 rdf:resource="aschenbornhansanton"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9783954181100">
       <marc:M001>1135395780</marc:M001>
@@ -8514,6 +8872,7 @@
       <m:P30106>Sherlock Holmes bei Null Papier</m:P30106>
       <m:P30165>3</m:P30165>
       <m:P30139 rdf:resource="http://viaf.org/viaf/181625655/ger/text"/>
+      <m:P30321 rdf:resource="aschenbornhansanton"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9783954181506">
       <marc:M001>1028380887</marc:M001>
@@ -8529,6 +8888,7 @@
       <m:P30001>Computermedien</m:P30001>
       <m:P30002>Online-Ressource</m:P30002>
       <m:P30139 rdf:resource="http://viaf.org/viaf/179061639/ger/text"/>
+      <m:P30321 rdf:resource="http://viaf.org/viaf/80840676"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9783954185719">
       <marc:M001>1091080216</marc:M001>
@@ -8546,6 +8906,7 @@
       <m:P30106>Sherlock Holmes bei Null Papier</m:P30106>
       <m:P30165>6</m:P30165>
       <m:P30139 rdf:resource="http://viaf.org/viaf/179061639/ger/text"/>
+      <m:P30321 rdf:resource="http://viaf.org/viaf/80840676"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9783954186044">
       <marc:M001>1135394466</marc:M001>
@@ -8933,6 +9294,7 @@
       <m:P30117>Sir Arthur Conan Doyle ; nach der ersten deutschen Ausgabe illustriert von Richard Gutschmidt und der ersten deutschen Übersetzung von Margaret Jacobi ; neu gefasst und mit Anmerkungen versehen von Gerd Haffmans</m:P30117>
       <m:P30107>1. Auflage</m:P30107>
       <m:P30182>206 Seiten</m:P30182>
+      <marc:M30000b>Illustrationen</marc:M30000b>
       <m:P30169>19 cm, 198 g</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -8951,6 +9313,7 @@
       <m:P30001>Computermedien</m:P30001>
       <m:P30002>Online-Ressource</m:P30002>
       <m:P30139 rdf:resource="http://viaf.org/viaf/179061639/eng/text"/>
+      <m:P30321 rdf:resource="trotsenkovladislav"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9783963764738">
       <marc:M001>1177990423</marc:M001>
@@ -9232,6 +9595,7 @@
       <m:P30156>The Hound of the Baskervilles, Class Set (New Edition) : Helbling Readers Red Series/Level 1 (A1)</m:P30156>
       <m:P30117>Arthur Conan Doyle</m:P30117>
       <m:P30182>84 Seiten</m:P30182>
+      <marc:M30000b>mehrere farbige Abbildungen</marc:M30000b>
       <m:P30169>19.7 cm x 12.9 cm, 139 g</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>

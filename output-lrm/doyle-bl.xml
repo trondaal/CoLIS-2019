@@ -5,11 +5,75 @@
          xmlns:xs="http://www.w3.org/2001/XMLSchema"
          xmlns:c="http://rdaregistry.info/Elements/c/"
          xmlns:w="http://rdaregistry.info/Elements/w/"
-         xmlns:a="http://rdaregistry.info/Elements/a/"
          xmlns:e="http://rdaregistry.info/Elements/e/"
+         xmlns:a="http://rdaregistry.info/Elements/a/"
          xmlns:marc="http://marc21rdf.info/elements/marc/"
          xmlns:m="http://rdaregistry.info/Elements/m/"
          xml:base="http://example.org/rda/">
+   <c:C10001 rdf:about="bakkerhelene/gespikkeldeband">
+      <w:P10088>Gespikkelde band</w:P10088>
+      <w:P10061 rdf:resource="bakkerhelene"/>
+      <w:P10078 rdf:resource="bakkerhelene/gespikkeldeband/eng/text"/>
+      <w:P10142 rdf:resource="http://viaf.org/viaf/181846531"/>
+      <w:P10261 rdf:resource="http://viaf.org/viaf/173636607"/>
+      <w:P10261 rdf:resource="http://viaf.org/viaf/308763542"/>
+   </c:C10001>
+   <c:C10001 rdf:about="bakkerhelene/manmethetlitteken">
+      <w:P10088>Man met het litteken</w:P10088>
+      <w:P10061 rdf:resource="bakkerhelene"/>
+      <w:P10078 rdf:resource="bakkerhelene/manmethetlitteken/eng/text"/>
+      <w:P10142 rdf:resource="http://www.wikidata.org/entity/q1151748"/>
+      <w:P10261 rdf:resource="http://viaf.org/viaf/173636607"/>
+      <w:P10261 rdf:resource="http://viaf.org/viaf/308763542"/>
+   </c:C10001>
+   <c:C10001 rdf:about="bakkerhelene/tekenvanvier">
+      <w:P10088>Teken van vier</w:P10088>
+      <w:P10061 rdf:resource="bakkerhelene"/>
+      <w:P10078 rdf:resource="bakkerhelene/tekenvanvier/eng/text"/>
+      <w:P10142 rdf:resource="http://viaf.org/viaf/184892317"/>
+      <w:P10261 rdf:resource="http://viaf.org/viaf/173636607"/>
+      <w:P10261 rdf:resource="http://viaf.org/viaf/308763542"/>
+   </c:C10001>
+   <c:C10001 rdf:about="ballantynerm/coralisland">
+      <w:P10088>Coral island</w:P10088>
+      <w:P10061 rdf:resource="ballantynerm"/>
+      <w:P10078 rdf:resource="ballantynerm/coralisland/eng/text"/>
+   </c:C10001>
+   <c:C10001 rdf:about="bayardpierre/affaireduchiendesbaskerville">
+      <w:P10088>Affaire du chien des Baskerville</w:P10088>
+      <w:P10061 rdf:resource="bayardpierre"/>
+      <w:P10078 rdf:resource="bayardpierre/affaireduchiendesbaskerville/eng/text"/>
+      <w:P10261 rdf:resource="http://viaf.org/viaf/65283845"/>
+      <w:P10261 rdf:resource="http://viaf.org/viaf/173636607"/>
+      <w:P10290 rdf:resource="http://viaf.org/viaf/181625655"/>
+   </c:C10001>
+   <c:C10001 rdf:about="bensonef/roominthetower">
+      <w:P10088>Room in the tower</w:P10088>
+      <w:P10061 rdf:resource="bensonef"/>
+      <w:P10078 rdf:resource="bensonef/roominthetower/eng/text"/>
+   </c:C10001>
+   <c:C10001 rdf:about="dahlroald/mildenhalltreasure">
+      <w:P10088>Mildenhall treasure</w:P10088>
+      <w:P10061 rdf:resource="dahlroald"/>
+      <w:P10078 rdf:resource="dahlroald/mildenhalltreasure/eng/text"/>
+   </c:C10001>
+   <c:C10001 rdf:about="dobbsfrank/redwind">
+      <w:P10088>Red wind</w:P10088>
+      <w:P10061 rdf:resource="dobbsfrank"/>
+      <w:P10061 rdf:resource="chandlerraymond"/>
+      <w:P10078 rdf:resource="dobbsfrank/redwind/eng/text"/>
+   </c:C10001>
+   <c:C10001 rdf:about="dobbsfrank/thirdman">
+      <w:P10088>Third man</w:P10088>
+      <w:P10061 rdf:resource="dobbsfrank"/>
+      <w:P10061 rdf:resource="greenegraham"/>
+      <w:P10078 rdf:resource="dobbsfrank/thirdman/eng/text"/>
+   </c:C10001>
+   <c:C10001 rdf:about="gilmancharlotteperkins/yellowwallpaper">
+      <w:P10088>Yellow wallpaper</w:P10088>
+      <w:P10061 rdf:resource="gilmancharlotteperkins"/>
+      <w:P10078 rdf:resource="gilmancharlotteperkins/yellowwallpaper/eng/text"/>
+   </c:C10001>
    <c:C10001 rdf:about="http://viaf.org/viaf/">
       <w:P10002>http://viaf.org/viaf/</w:P10002>
       <w:P10088>Uncle Bernac</w:P10088>
@@ -28,11 +92,12 @@
       <w:P10088>His last Bow</w:P10088>
       <w:P10088>His last bow</w:P10088>
       <w:P10004>Selections.</w:P10004>
+      <w:P10055 rdf:resource="gatissmark"/>
+      <w:P10055 rdf:resource="moffatsteven"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/1390154501894339210002/eng/text"/>
       <w:P10261 rdf:resource="http://viaf.org/viaf/173636607"/>
       <w:P10261 rdf:resource="http://viaf.org/viaf/308763542"/>
-      <w:partOfWork.en rdf:resource="http://www.wikidata.org/entity/q1129378"/>
    </c:C10001>
    <c:C10001 rdf:about="http://viaf.org/viaf/174141344">
       <w:P10002>http://viaf.org/viaf/174141344</w:P10002>
@@ -75,6 +140,8 @@
       <w:P10088>The cardboard box</w:P10088>
       <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/180817010/eng/text"/>
+      <w:P10261 rdf:resource="http://viaf.org/viaf/173636607"/>
+      <w:P10261 rdf:resource="http://viaf.org/viaf/308763542"/>
    </c:C10001>
    <c:C10001 rdf:about="http://viaf.org/viaf/181625655">
       <w:P10002>http://viaf.org/viaf/181625655</w:P10002>
@@ -83,15 +150,23 @@
       <w:P10088>The hound of the Baskervilles</w:P10088>
       <w:P10004>Adaptations.</w:P10004>
       <w:P10088>Hound of Baskervilles</w:P10088>
+      <e:P20049 rdf:resource="nobespatrick"/>
+      <e:P20327 rdf:resource="mouldchris"/>
+      <e:P20327 rdf:resource="kimberlymarion"/>
+      <w:P10055 rdf:resource="gatissmark"/>
+      <w:P10055 rdf:resource="moffatsteven"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10061 rdf:resource="unglikrichard"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/181625655/eng/text"/>
+      <w:P10155 rdf:resource="koplpetr/pesbaskervillsky"/>
       <w:P10261 rdf:resource="http://viaf.org/viaf/173636607"/>
       <w:P10261 rdf:resource="http://viaf.org/viaf/308763542"/>
+      <w:P10291 rdf:resource="bayardpierre/affaireduchiendesbaskerville"/>
    </c:C10001>
    <c:C10001 rdf:about="http://viaf.org/viaf/181810457">
       <w:P10002>http://viaf.org/viaf/181810457</w:P10002>
       <w:P10088>Beyond the City</w:P10088>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/181810457/eng/text"/>
    </c:C10001>
    <c:C10001 rdf:about="http://viaf.org/viaf/181846531">
@@ -100,9 +175,13 @@
       <w:P10088>Adventure of the speckled band</w:P10088>
       <w:P10088>Speckled band</w:P10088>
       <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
+      <w:P10061 rdf:resource="dobbsfrank"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/181846531/eng/text"/>
+      <w:P10155 rdf:resource="koplpetr/skandalvcechach"/>
+      <w:P10155 rdf:resource="bakkerhelene/gespikkeldeband"/>
       <w:P10261 rdf:resource="http://viaf.org/viaf/173636607"/>
       <w:P10261 rdf:resource="http://viaf.org/viaf/308763542"/>
+      <w:P10261 rdf:resource="napoleon"/>
    </c:C10001>
    <c:C10001 rdf:about="http://viaf.org/viaf/184892317">
       <w:P10002>http://viaf.org/viaf/184892317</w:P10002>
@@ -111,6 +190,7 @@
       <w:P10088>Sign of the four</w:P10088>
       <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/184892317/eng/text"/>
+      <w:P10155 rdf:resource="bakkerhelene/tekenvanvier"/>
       <w:P10261 rdf:resource="http://viaf.org/viaf/173636607"/>
       <w:P10261 rdf:resource="http://viaf.org/viaf/308763542"/>
    </c:C10001>
@@ -156,6 +236,8 @@
       <w:P10088>The naval treaty</w:P10088>
       <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/309533947/eng/text"/>
+      <w:P10261 rdf:resource="http://viaf.org/viaf/173636607"/>
+      <w:P10261 rdf:resource="http://viaf.org/viaf/308763542"/>
    </c:C10001>
    <c:C10001 rdf:about="http://viaf.org/viaf/310211956">
       <w:P10002>http://viaf.org/viaf/310211956</w:P10002>
@@ -195,6 +277,125 @@
       <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/6035152865746704940001/eng/text"/>
    </c:C10001>
+   <c:C10001 rdf:about="http://viaf.org/viaf/65283845/adventureoftheengineersthumb">
+      <w:P10088>Adventure of the engineer's thumb</w:P10088>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
+      <w:P10078 rdf:resource="http://viaf.org/viaf/65283845/adventureoftheengineersthumb/eng/text"/>
+      <w:P10261 rdf:resource="http://viaf.org/viaf/173636607"/>
+      <w:P10261 rdf:resource="http://viaf.org/viaf/308763542"/>
+   </c:C10001>
+   <c:C10001 rdf:about="http://viaf.org/viaf/65283845/caseofidentity">
+      <w:P10088>Case of identity</w:P10088>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
+      <w:P10078 rdf:resource="http://viaf.org/viaf/65283845/caseofidentity/eng/text"/>
+      <w:P10261 rdf:resource="http://viaf.org/viaf/173636607"/>
+      <w:P10261 rdf:resource="http://viaf.org/viaf/308763542"/>
+   </c:C10001>
+   <c:C10001 rdf:about="http://viaf.org/viaf/65283845/caseofmistakenidentity">
+      <w:P10088>Case of [mistaken?] identity</w:P10088>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
+      <w:P10061 rdf:resource="cannadinedavid"/>
+      <w:P10078 rdf:resource="http://viaf.org/viaf/65283845/caseofmistakenidentity/eng/text"/>
+      <w:P10261 rdf:resource="http://viaf.org/viaf/173636607"/>
+      <w:P10261 rdf:resource="http://viaf.org/viaf/308763542"/>
+   </c:C10001>
+   <c:C10001 rdf:about="http://viaf.org/viaf/65283845/inthenameoftheking">
+      <w:P10088>In the name of the king</w:P10088>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
+      <w:P10155 rdf:resource="koplpetr/skandalvcechach"/>
+   </c:C10001>
+   <c:C10001 rdf:about="http://viaf.org/viaf/65283845/stockbrokersclerk">
+      <w:P10088>Stock-broker's clerk</w:P10088>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
+      <w:P10078 rdf:resource="http://viaf.org/viaf/65283845/stockbrokersclerk/eng/text"/>
+      <w:P10261 rdf:resource="http://viaf.org/viaf/173636607"/>
+      <w:P10261 rdf:resource="http://viaf.org/viaf/308763542"/>
+   </c:C10001>
+   <c:C10001 rdf:about="http://viaf.org/viaf/65283845/strangecaseofmissfaulkner">
+      <w:P10088>Strange case of Miss Faulkner</w:P10088>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
+   </c:C10001>
+   <c:C10001 rdf:about="http://viaf.org/viaf/65283845/theadventureofshoscombeoldplace">
+      <w:P10088>The adventure of Shoscombe Old Place</w:P10088>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
+      <w:P10078 rdf:resource="http://viaf.org/viaf/65283845/theadventureofshoscombeoldplace/eng/text"/>
+   </c:C10001>
+   <c:C10001 rdf:about="http://viaf.org/viaf/65283845/thecreepingman">
+      <w:P10088>The creeping man</w:P10088>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
+      <w:P10078 rdf:resource="http://viaf.org/viaf/65283845/thecreepingman/eng/text"/>
+   </c:C10001>
+   <c:C10001 rdf:about="http://viaf.org/viaf/65283845/thecrookedman">
+      <w:P10088>The crooked man</w:P10088>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
+      <w:P10078 rdf:resource="http://viaf.org/viaf/65283845/thecrookedman/eng/text"/>
+      <w:P10261 rdf:resource="http://viaf.org/viaf/173636607"/>
+      <w:P10261 rdf:resource="http://viaf.org/viaf/308763542"/>
+   </c:C10001>
+   <c:C10001 rdf:about="http://viaf.org/viaf/65283845/thefinalproblem">
+      <w:P10088>The final problem</w:P10088>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
+      <w:P10078 rdf:resource="http://viaf.org/viaf/65283845/thefinalproblem/eng/text"/>
+      <w:P10261 rdf:resource="http://viaf.org/viaf/173636607"/>
+      <w:P10261 rdf:resource="http://viaf.org/viaf/308763542"/>
+   </c:C10001>
+   <c:C10001 rdf:about="http://viaf.org/viaf/65283845/thegloriascott">
+      <w:P10088>The "Gloria Scott"</w:P10088>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
+      <w:P10078 rdf:resource="http://viaf.org/viaf/65283845/thegloriascott/eng/text"/>
+      <w:P10261 rdf:resource="http://viaf.org/viaf/173636607"/>
+      <w:P10261 rdf:resource="http://viaf.org/viaf/308763542"/>
+   </c:C10001>
+   <c:C10001 rdf:about="http://viaf.org/viaf/65283845/thegreekinterpreter">
+      <w:P10088>The Greek interpreter</w:P10088>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
+      <w:P10078 rdf:resource="http://viaf.org/viaf/65283845/thegreekinterpreter/eng/text"/>
+      <w:P10261 rdf:resource="http://viaf.org/viaf/173636607"/>
+      <w:P10261 rdf:resource="http://viaf.org/viaf/308763542"/>
+   </c:C10001>
+   <c:C10001 rdf:about="http://viaf.org/viaf/65283845/thereigatesquires">
+      <w:P10088>The Reigate squires</w:P10088>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
+      <w:P10078 rdf:resource="http://viaf.org/viaf/65283845/thereigatesquires/eng/text"/>
+      <w:P10261 rdf:resource="http://viaf.org/viaf/173636607"/>
+      <w:P10261 rdf:resource="http://viaf.org/viaf/308763542"/>
+   </c:C10001>
+   <c:C10001 rdf:about="http://viaf.org/viaf/65283845/theresidentpatient">
+      <w:P10088>The resident patient</w:P10088>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
+      <w:P10078 rdf:resource="http://viaf.org/viaf/65283845/theresidentpatient/eng/text"/>
+      <w:P10261 rdf:resource="http://viaf.org/viaf/173636607"/>
+      <w:P10261 rdf:resource="http://viaf.org/viaf/308763542"/>
+   </c:C10001>
+   <c:C10001 rdf:about="http://viaf.org/viaf/65283845/theslappingsal">
+      <w:P10088>The Slapping Sal</w:P10088>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
+      <w:P10078 rdf:resource="http://viaf.org/viaf/65283845/theslappingsal/eng/text"/>
+   </c:C10001>
+   <c:C10001 rdf:about="http://viaf.org/viaf/65283845/thestockbrokersclerk">
+      <w:P10088>The stockbroker's clerk</w:P10088>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
+      <w:P10078 rdf:resource="http://viaf.org/viaf/65283845/thestockbrokersclerk/eng/text"/>
+      <w:P10261 rdf:resource="http://viaf.org/viaf/173636607"/>
+      <w:P10261 rdf:resource="http://viaf.org/viaf/308763542"/>
+   </c:C10001>
+   <c:C10001 rdf:about="http://viaf.org/viaf/65283845/thesussexvampire">
+      <w:P10088>The Sussex vampire</w:P10088>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
+      <w:P10078 rdf:resource="http://viaf.org/viaf/65283845/thesussexvampire/eng/text"/>
+   </c:C10001>
+   <c:C10001 rdf:about="http://viaf.org/viaf/65283845/theveiledlodger">
+      <w:P10088>The veiled lodger</w:P10088>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
+      <w:P10078 rdf:resource="http://viaf.org/viaf/65283845/theveiledlodger/eng/text"/>
+   </c:C10001>
+   <c:C10001 rdf:about="http://viaf.org/viaf/65283845/theyellowface">
+      <w:P10088>The yellow face</w:P10088>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
+      <w:P10078 rdf:resource="http://viaf.org/viaf/65283845/theyellowface/eng/text"/>
+      <w:P10261 rdf:resource="http://viaf.org/viaf/173636607"/>
+      <w:P10261 rdf:resource="http://viaf.org/viaf/308763542"/>
+   </c:C10001>
    <c:C10001 rdf:about="http://www.wikidata.org/entity/q1129378">
       <w:P10002>http://www.wikidata.org/entity/Q1129378</w:P10002>
       <w:P10088>The Case-Book of Sherlock Holmes</w:P10088>
@@ -220,6 +421,8 @@
       <w:P10088>The Musgrave ritual</w:P10088>
       <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10078 rdf:resource="http://www.wikidata.org/entity/q1150069/eng/text"/>
+      <w:P10261 rdf:resource="http://viaf.org/viaf/173636607"/>
+      <w:P10261 rdf:resource="http://viaf.org/viaf/308763542"/>
    </c:C10001>
    <c:C10001 rdf:about="http://www.wikidata.org/entity/q1151748">
       <w:P10002>http://www.wikidata.org/entity/Q1151748</w:P10002>
@@ -227,6 +430,7 @@
       <w:P10088>Man with the twisted lip</w:P10088>
       <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10078 rdf:resource="http://www.wikidata.org/entity/q1151748/eng/text"/>
+      <w:P10155 rdf:resource="bakkerhelene/manmethetlitteken"/>
       <w:P10261 rdf:resource="http://viaf.org/viaf/173636607"/>
       <w:P10261 rdf:resource="http://viaf.org/viaf/308763542"/>
    </c:C10001>
@@ -237,6 +441,8 @@
       <w:P10088>Silver Blaze</w:P10088>
       <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10078 rdf:resource="http://www.wikidata.org/entity/q1151761/eng/text"/>
+      <w:P10261 rdf:resource="http://viaf.org/viaf/173636607"/>
+      <w:P10261 rdf:resource="http://viaf.org/viaf/308763542"/>
    </c:C10001>
    <c:C10001 rdf:about="http://www.wikidata.org/entity/q1192541">
       <w:P10002>http://www.wikidata.org/entity/Q1192541</w:P10002>
@@ -265,6 +471,7 @@
       <w:P10002>http://www.wikidata.org/entity/Q1201796</w:P10002>
       <w:P10088>The Adventure of the Beryl Coronet</w:P10088>
       <w:P10088>Adventure of the Beryl Coronet</w:P10088>
+      <w:P10061 rdf:resource="hardygouldjanet"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10078 rdf:resource="http://www.wikidata.org/entity/q1201796/eng/text"/>
       <w:P10261 rdf:resource="http://viaf.org/viaf/173636607"/>
@@ -292,11 +499,13 @@
    <c:C10001 rdf:about="http://www.wikidata.org/entity/q2360365">
       <w:P10002>http://www.wikidata.org/entity/Q2360365</w:P10002>
       <w:P10088>Abbey Grange</w:P10088>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
    </c:C10001>
    <c:C10001 rdf:about="http://www.wikidata.org/entity/q2379601">
       <w:P10002>http://www.wikidata.org/entity/Q2379601</w:P10002>
       <w:P10088>Priory School</w:P10088>
       <w:P10088>Priory school</w:P10088>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
    </c:C10001>
    <c:C10001 rdf:about="http://www.wikidata.org/entity/q2446784">
       <w:P10002>http://www.wikidata.org/entity/Q2446784</w:P10002>
@@ -313,7 +522,9 @@
       <w:P10088>The Devil's foot</w:P10088>
       <w:P10088>Adventure of the devil's foot</w:P10088>
       <w:P10088>Adventure of the Devil's foot</w:P10088>
+      <w:P10055 rdf:resource="joneskelvini"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
+      <w:P10061 rdf:resource="joneskelvini"/>
       <w:P10078 rdf:resource="http://www.wikidata.org/entity/q2466799/eng/text"/>
       <w:P10261 rdf:resource="http://viaf.org/viaf/173636607"/>
       <w:P10261 rdf:resource="http://viaf.org/viaf/308763542"/>
@@ -331,6 +542,7 @@
       <w:P10088>Scandal in Bohemia</w:P10088>
       <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10078 rdf:resource="http://www.wikidata.org/entity/q265546/eng/text"/>
+      <w:P10155 rdf:resource="koplpetr/skandalvcechach"/>
       <w:P10261 rdf:resource="http://viaf.org/viaf/173636607"/>
       <w:P10261 rdf:resource="http://viaf.org/viaf/308763542"/>
    </c:C10001>
@@ -430,6 +642,7 @@
    <c:C10001 rdf:about="http://www.wikidata.org/entity/q7748730">
       <w:P10002>http://www.wikidata.org/entity/Q7748730</w:P10002>
       <w:P10088>Lost special</w:P10088>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10078 rdf:resource="http://www.wikidata.org/entity/q7748730/eng/text"/>
    </c:C10001>
    <c:C10001 rdf:about="http://www.wikidata.org/entity/q860831">
@@ -437,6 +650,8 @@
       <w:P10088>The Memoirs of Sherlock Holmes</w:P10088>
       <w:P10088>Memoirs of Sherlock Holmes</w:P10088>
       <w:P10004>Selections.</w:P10004>
+      <w:P10055 rdf:resource="gatissmark"/>
+      <w:P10055 rdf:resource="moffatsteven"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10078 rdf:resource="http://www.wikidata.org/entity/q860831/eng/text"/>
       <w:P10261 rdf:resource="http://viaf.org/viaf/173636607"/>
@@ -449,22 +664,123 @@
       <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10078 rdf:resource="http://www.wikidata.org/entity/q961957/eng/text"/>
    </c:C10001>
+   <c:C10001 rdf:about="koplpetr/pesbaskervillsky">
+      <w:P10088>Pes Baskervillský</w:P10088>
+      <w:P10061 rdf:resource="koplpetr"/>
+      <w:P10078 rdf:resource="koplpetr/pesbaskervillsky/eng/text"/>
+      <w:P10142 rdf:resource="http://viaf.org/viaf/181625655"/>
+      <w:P10261 rdf:resource="http://viaf.org/viaf/173636607"/>
+      <w:P10261 rdf:resource="http://viaf.org/viaf/308763542"/>
+   </c:C10001>
+   <c:C10001 rdf:about="koplpetr/skandalvcechach">
+      <w:P10088>Skandál v Čechách</w:P10088>
+      <w:P10061 rdf:resource="koplpetr"/>
+      <w:P10078 rdf:resource="koplpetr/skandalvcechach/eng/text"/>
+      <w:P10142 rdf:resource="http://www.wikidata.org/entity/q265546"/>
+      <w:P10142 rdf:resource="http://viaf.org/viaf/181846531"/>
+      <w:P10142 rdf:resource="http://viaf.org/viaf/65283845/inthenameoftheking"/>
+      <w:P10261 rdf:resource="http://viaf.org/viaf/173636607"/>
+      <w:P10261 rdf:resource="adlerirene"/>
+      <w:P10261 rdf:resource="http://viaf.org/viaf/308763542"/>
+   </c:C10001>
+   <c:C10001 rdf:about="lefanujosephsheridan/carmilla">
+      <w:P10088>Carmilla</w:P10088>
+      <w:P10061 rdf:resource="lefanujosephsheridan"/>
+      <w:P10078 rdf:resource="lefanujosephsheridan/carmilla/eng/text"/>
+   </c:C10001>
+   <c:C10001 rdf:about="maupassantguyde/horla">
+      <w:P10088>Horla</w:P10088>
+      <w:P10061 rdf:resource="maupassantguyde"/>
+      <w:P10078 rdf:resource="maupassantguyde/horla/eng/text"/>
+   </c:C10001>
+   <c:C10001 rdf:about="moffettcleveland/mysteriouscard">
+      <w:P10088>Mysterious card</w:P10088>
+      <w:P10061 rdf:resource="moffettcleveland"/>
+      <w:P10078 rdf:resource="moffettcleveland/mysteriouscard/eng/text"/>
+   </c:C10001>
+   <c:C10001 rdf:about="polidorijohnwilliam/vampyre">
+      <w:P10088>Vampyre</w:P10088>
+      <w:P10061 rdf:resource="polidorijohnwilliam"/>
+      <w:P10078 rdf:resource="polidorijohnwilliam/vampyre/eng/text"/>
+   </c:C10001>
+   <c:C10001 rdf:about="quinntim/bluecarbuncle">
+      <w:P10088>Blue carbuncle</w:P10088>
+      <w:P10061 rdf:resource="quinntim"/>
+      <w:P10061 rdf:resource="searsgeorge"/>
+      <w:P10078 rdf:resource="quinntim/bluecarbuncle/eng/text"/>
+   </c:C10001>
+   <c:C10001 rdf:about="scottn/russianconnectionandothernewadventures">
+      <w:P10088>Russian connection and other new adventures</w:P10088>
+      <w:P10061 rdf:resource="scottn"/>
+      <w:P10078 rdf:resource="scottn/russianconnectionandothernewadventures/eng/text"/>
+      <w:P10261 rdf:resource="http://viaf.org/viaf/173636607"/>
+      <w:P10261 rdf:resource="http://viaf.org/viaf/308763542"/>
+   </c:C10001>
+   <c:C10001 rdf:about="stevensonrobertlouis/treasureisland">
+      <w:P10088>Treasure island</w:P10088>
+      <w:P10061 rdf:resource="stevensonrobertlouis"/>
+      <w:P10078 rdf:resource="stevensonrobertlouis/treasureisland/eng/text"/>
+   </c:C10001>
+   <c:C10001 rdf:about="stocktonfrankrichard/ladyorthetiger">
+      <w:P10088>Lady or the tiger?</w:P10088>
+      <w:P10061 rdf:resource="stocktonfrankrichard"/>
+      <w:P10078 rdf:resource="stocktonfrankrichard/ladyorthetiger/eng/text"/>
+   </c:C10001>
+   <c:C10001 rdf:about="stokerbram/draculasguest">
+      <w:P10088>Dracula's guest</w:P10088>
+      <w:P10061 rdf:resource="stokerbram"/>
+      <w:P10078 rdf:resource="stokerbram/draculasguest/eng/text"/>
+   </c:C10001>
    <c:C10004 rdf:about="adamsjennifer">
       <a:P50094>adamsjennifer</a:P50094>
       <a:P50111>Adams, Jennifer</a:P50111>
       <a:P50107>1970-</a:P50107>
    </c:C10004>
+   <c:C10004 rdf:about="adamsrichard">
+      <a:P50094>adamsrichard</a:P50094>
+      <a:P50111>Adams, Richard</a:P50111>
+      <a:P50107>1938-</a:P50107>
+      <a:P50161 rdf:resource="http://viaf.org/viaf/175571309/eng/text"/>
+   </c:C10004>
    <c:C10004 rdf:about="adlerirene">
       <a:P50094>adlerirene</a:P50094>
       <a:P50111>Adler, Irene</a:P50111>
+      <a:P50249 rdf:resource="koplpetr/skandalvcechach"/>
+   </c:C10004>
+   <c:C10004 rdf:about="aitchisonmartin">
+      <a:P50094>aitchisonmartin</a:P50094>
+      <a:P50111>Aitchison, Martin</a:P50111>
+      <a:P50469 rdf:resource="urn:isbn:0721452566"/>
    </c:C10004>
    <c:C10004 rdf:about="asburyanna">
       <a:P50094>asburyanna</a:P50094>
       <a:P50111>Asbury, Anna</a:P50111>
+      <a:P50145 rdf:resource="bakkerhelene/tekenvanvier/eng/text"/>
+      <a:P50145 rdf:resource="bakkerhelene/manmethetlitteken/eng/text"/>
+      <a:P50145 rdf:resource="bakkerhelene/gespikkeldeband/eng/text"/>
    </c:C10004>
    <c:C10004 rdf:about="bakkerhelene">
       <a:P50094>bakkerhelene</a:P50094>
       <a:P50111>Bakker, Helene</a:P50111>
+      <a:P50195 rdf:resource="bakkerhelene/tekenvanvier"/>
+      <a:P50195 rdf:resource="bakkerhelene/manmethetlitteken"/>
+      <a:P50195 rdf:resource="bakkerhelene/gespikkeldeband"/>
+   </c:C10004>
+   <c:C10004 rdf:about="ballantynerm">
+      <a:P50094>ballantynerm</a:P50094>
+      <a:P50111>Ballantyne, R. M</a:P50111>
+      <a:P50107>1825-1894</a:P50107>
+      <a:P50195 rdf:resource="ballantynerm/coralisland"/>
+   </c:C10004>
+   <c:C10004 rdf:about="barberdaniel">
+      <a:P50094>barberdaniel</a:P50094>
+      <a:P50111>Barber, Daniel</a:P50111>
+      <a:P50107>1972-</a:P50107>
+   </c:C10004>
+   <c:C10004 rdf:about="barlingtom">
+      <a:P50094>barlingtom</a:P50094>
+      <a:P50111>Barling, Tom</a:P50111>
+      <a:P50469 rdf:resource="urn:isbn:0330251325"/>
    </c:C10004>
    <c:C10004 rdf:about="bassettjennifer">
       <a:P50094>bassettjennifer</a:P50094>
@@ -474,6 +790,50 @@
       <a:P50094>bayardpierre</a:P50094>
       <a:P50111>Bayard, Pierre</a:P50111>
       <a:P50107>1954-</a:P50107>
+      <a:P50195 rdf:resource="bayardpierre/affaireduchiendesbaskerville"/>
+   </c:C10004>
+   <c:C10004 rdf:about="beechmark">
+      <a:P50094>beechmark</a:P50094>
+      <a:P50111>Beech, Mark</a:P50111>
+      <a:P50107>1971-</a:P50107>
+      <a:P50469 rdf:resource="urn:isbn:9780198448730"/>
+      <a:P50469 rdf:resource="urn:isbn:9780199117703"/>
+   </c:C10004>
+   <c:C10004 rdf:about="bennettandrew">
+      <a:P50094>bennettandrew</a:P50094>
+      <a:P50111>Bennett, Andrew</a:P50111>
+      <a:P50107>1949-</a:P50107>
+      <a:P50161 rdf:resource="http://viaf.org/viaf/181625655/eng/text"/>
+   </c:C10004>
+   <c:C10004 rdf:about="bennettfelix">
+      <a:P50094>bennettfelix</a:P50094>
+      <a:P50111>Bennett, Felix</a:P50111>
+      <a:P50469 rdf:resource="urn:isbn:9781906230494"/>
+      <a:P50469 rdf:resource="urn:isbn:9781906230586"/>
+      <a:P50469 rdf:resource="urn:isbn:9781906230579"/>
+   </c:C10004>
+   <c:C10004 rdf:about="bensonef">
+      <a:P50094>bensonef</a:P50094>
+      <a:P50111>Benson, E. F</a:P50111>
+      <a:P50107>1867-1940</a:P50107>
+      <a:P50195 rdf:resource="bensonef/roominthetower"/>
+   </c:C10004>
+   <c:C10004 rdf:about="berkeleyjon">
+      <a:P50094>berkeleyjon</a:P50094>
+      <a:P50111>Berkeley, Jon</a:P50111>
+      <a:P50469 rdf:resource="urn:isbn:9780195462425"/>
+   </c:C10004>
+   <c:C10004 rdf:about="bollingermax">
+      <a:P50094>bollingermax</a:P50094>
+      <a:P50111>Bollinger, Max</a:P50111>
+      <a:P50107>1974-</a:P50107>
+      <a:P50161 rdf:resource="http://viaf.org/viaf/181625655/eng/text"/>
+      <a:P50161 rdf:resource="http://viaf.org/viaf/184892317/eng/text"/>
+      <a:P50161 rdf:resource="http://www.wikidata.org/entity/q860831/eng/text"/>
+      <a:P50161 rdf:resource="http://viaf.org/viaf/179061639/eng/text"/>
+      <a:P50161 rdf:resource="http://www.wikidata.org/entity/q725752/eng/text"/>
+      <a:P50161 rdf:resource="http://viaf.org/viaf/175571309/eng/text"/>
+      <a:P50161 rdf:resource="http://viaf.org/viaf/1390154501894339210002/eng/text"/>
    </c:C10004>
    <c:C10004 rdf:about="bowlerbill">
       <a:P50094>bowlerbill</a:P50094>
@@ -493,14 +853,35 @@
       <a:P50111>Brown, Terence</a:P50111>
       <a:P50107>1944-</a:P50107>
    </c:C10004>
+   <c:C10004 rdf:about="cannadinedavid">
+      <a:P50094>cannadinedavid</a:P50094>
+      <a:P50111>Cannadine, David</a:P50111>
+      <a:P50107>1950-</a:P50107>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/65283845/caseofmistakenidentity"/>
+   </c:C10004>
    <c:C10004 rdf:about="challengergeorgeedward">
       <a:P50094>challengergeorgeedward</a:P50094>
       <a:P50111>Challenger, George Edward</a:P50111>
       <a:P50249 rdf:resource="http://www.wikidata.org/entity/q2660166"/>
    </c:C10004>
+   <c:C10004 rdf:about="chandlerraymond">
+      <a:P50094>chandlerraymond</a:P50094>
+      <a:P50111>Chandler, Raymond</a:P50111>
+      <a:P50107>1888-1959</a:P50107>
+      <a:P50195 rdf:resource="dobbsfrank/redwind"/>
+   </c:C10004>
+   <c:C10004 rdf:about="chasejamie">
+      <a:P50094>chasejamie</a:P50094>
+      <a:P50111>Chase, Jamie</a:P50111>
+      <a:P50469 rdf:resource="urn:isbn:9781616551100"/>
+   </c:C10004>
    <c:C10004 rdf:about="chesterbm">
       <a:P50094>chesterbm</a:P50094>
       <a:P50111>Chester, B. M</a:P50111>
+   </c:C10004>
+   <c:C10004 rdf:about="cheungdavid">
+      <a:P50094>cheungdavid</a:P50094>
+      <a:P50111>Cheung, David</a:P50111>
    </c:C10004>
    <c:C10004 rdf:about="colbournstephen">
       <a:P50094>colbournstephen</a:P50094>
@@ -516,13 +897,80 @@
       <a:P50111>Collins, Joan</a:P50111>
       <a:P50107>1917-</a:P50107>
    </c:C10004>
+   <c:C10004 rdf:about="cortesdaniel">
+      <a:P50094>cortesdaniel</a:P50094>
+      <a:P50111>Cortes, Daniel</a:P50111>
+      <a:P50107>1982-</a:P50107>
+      <a:P50469 rdf:resource="urn:isbn:9781780922461"/>
+   </c:C10004>
+   <c:C10004 rdf:about="corvinolucy">
+      <a:P50094>corvinolucy</a:P50094>
+      <a:P50111>Corvino, Lucy</a:P50111>
+   </c:C10004>
+   <c:C10004 rdf:about="cossonmj">
+      <a:P50094>cossonmj</a:P50094>
+      <a:P50111>Cosson, M. J</a:P50111>
+   </c:C10004>
+   <c:C10004 rdf:about="culbardian">
+      <a:P50094>culbardian</a:P50094>
+      <a:P50111>Culbard, Ian</a:P50111>
+      <a:P50469 rdf:resource="urn:isbn:9781906838041"/>
+      <a:P50469 rdf:resource="urn:isbn:9781906838058"/>
+   </c:C10004>
+   <c:C10004 rdf:about="dahlroald">
+      <a:P50094>dahlroald</a:P50094>
+      <a:P50111>Dahl, Roald</a:P50111>
+      <a:P50195 rdf:resource="dahlroald/mildenhalltreasure"/>
+   </c:C10004>
+   <c:C10004 rdf:about="danlyjames">
+      <a:P50094>danlyjames</a:P50094>
+      <a:P50111>Danly, James</a:P50111>
+      <a:P50161 rdf:resource="http://viaf.org/viaf/181625655/eng/text"/>
+   </c:C10004>
+   <c:C10004 rdf:about="daviesdavidstuart">
+      <a:P50094>daviesdavidstuart</a:P50094>
+      <a:P50111>Davies, David Stuart</a:P50111>
+      <a:P50107>1946-</a:P50107>
+      <a:P50161 rdf:resource="http://viaf.org/viaf/174141344/eng/text"/>
+   </c:C10004>
+   <c:C10004 rdf:about="dewsnaprobert">
+      <a:P50094>dewsnaprobert</a:P50094>
+      <a:P50111>Dewsnap, Robert</a:P50111>
+      <a:P50161 rdf:resource="http://viaf.org/viaf/181846531/eng/text"/>
+   </c:C10004>
+   <c:C10004 rdf:about="dirdamichael">
+      <a:P50094>dirdamichael</a:P50094>
+      <a:P50111>Dirda, Michael</a:P50111>
+   </c:C10004>
    <c:C10004 rdf:about="dobbsfrank">
       <a:P50094>dobbsfrank</a:P50094>
       <a:P50111>Dobbs, Frank</a:P50111>
+      <a:P50195 rdf:resource="dobbsfrank/redwind"/>
+      <a:P50195 rdf:resource="dobbsfrank/thirdman"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/181846531"/>
+   </c:C10004>
+   <c:C10004 rdf:about="dooleyjenny">
+      <a:P50094>dooleyjenny</a:P50094>
+      <a:P50111>Dooley, Jenny</a:P50111>
+   </c:C10004>
+   <c:C10004 rdf:about="duncanian">
+      <a:P50094>duncanian</a:P50094>
+      <a:P50111>Duncan, Ian</a:P50111>
+      <a:P50107>1955-</a:P50107>
+      <a:P50161 rdf:resource="http://viaf.org/viaf/294145857904223021237/eng/text"/>
    </c:C10004>
    <c:C10004 rdf:about="edgintonian">
       <a:P50094>edgintonian</a:P50094>
       <a:P50111>Edginton, Ian</a:P50111>
+   </c:C10004>
+   <c:C10004 rdf:about="edmondsmartin">
+      <a:P50094>edmondsmartin</a:P50094>
+      <a:P50111>Edmonds, Martin</a:P50111>
+      <a:P50161 rdf:resource="http://www.wikidata.org/entity/q5295669/eng/text"/>
+   </c:C10004>
+   <c:C10004 rdf:about="escottjohn">
+      <a:P50094>escottjohn</a:P50094>
+      <a:P50111>Escott, John</a:P50111>
    </c:C10004>
    <c:C10004 rdf:about="evanstony">
       <a:P50094>evanstony</a:P50094>
@@ -545,31 +993,76 @@
       <a:P50094>folldavid</a:P50094>
       <a:P50111>Foll, David</a:P50111>
    </c:C10004>
+   <c:C10004 rdf:about="fotosjay">
+      <a:P50094>fotosjay</a:P50094>
+      <a:P50111>Fotos, Jay</a:P50111>
+   </c:C10004>
    <c:C10004 rdf:about="francispauline">
       <a:P50094>francispauline</a:P50094>
       <a:P50111>Francis, Pauline</a:P50111>
    </c:C10004>
+   <c:C10004 rdf:about="fraylingchristopher">
+      <a:P50094>fraylingchristopher</a:P50094>
+      <a:P50111>Frayling, Christopher</a:P50111>
+      <a:P50161 rdf:resource="http://viaf.org/viaf/181625655/eng/text"/>
+   </c:C10004>
    <c:C10004 rdf:about="gatessusan">
       <a:P50094>gatessusan</a:P50094>
       <a:P50111>Gates, Susan</a:P50111>
+   </c:C10004>
+   <c:C10004 rdf:about="gatissmark">
+      <a:P50094>gatissmark</a:P50094>
+      <a:P50111>Gatiss, Mark</a:P50111>
+      <a:P50189 rdf:resource="http://www.wikidata.org/entity/q860831"/>
+      <a:P50189 rdf:resource="http://viaf.org/viaf/181625655"/>
+      <a:P50189 rdf:resource="http://viaf.org/viaf/1390154501894339210002"/>
    </c:C10004>
    <c:C10004 rdf:about="gillettewilliam">
       <a:P50094>gillettewilliam</a:P50094>
       <a:P50111>Gillette, William</a:P50111>
       <a:P50107>1853-1937</a:P50107>
    </c:C10004>
+   <c:C10004 rdf:about="gilmancharlotteperkins">
+      <a:P50094>gilmancharlotteperkins</a:P50094>
+      <a:P50111>Gilman, Charlotte Perkins</a:P50111>
+      <a:P50107>1860-1935</a:P50107>
+      <a:P50195 rdf:resource="gilmancharlotteperkins/yellowwallpaper"/>
+   </c:C10004>
    <c:C10004 rdf:about="goodenoughsimon">
       <a:P50094>goodenoughsimon</a:P50094>
       <a:P50111>Goodenough, Simon</a:P50111>
+   </c:C10004>
+   <c:C10004 rdf:about="greenegraham">
+      <a:P50094>greenegraham</a:P50094>
+      <a:P50111>Greene, Graham</a:P50111>
+      <a:P50107>1904-1991</a:P50107>
+      <a:P50195 rdf:resource="dobbsfrank/thirdman"/>
    </c:C10004>
    <c:C10004 rdf:about="greenjohn">
       <a:P50094>greenjohn</a:P50094>
       <a:P50111>Green, John</a:P50111>
       <a:P50107>1948-</a:P50107>
    </c:C10004>
+   <c:C10004 rdf:about="hainingpeter">
+      <a:P50094>hainingpeter</a:P50094>
+      <a:P50111>Haining, Peter</a:P50111>
+      <a:P50161 rdf:resource="http://www.wikidata.org/entity/q2740092/eng/text"/>
+   </c:C10004>
+   <c:C10004 rdf:about="hajdinjakkrecmarsela">
+      <a:P50094>hajdinjakkrecmarsela</a:P50094>
+      <a:P50111>Hajdinjak-Kreč, Marsela</a:P50111>
+      <a:P50469 rdf:resource="urn:isbn:9780194244527"/>
+      <a:P50469 rdf:resource="urn:isbn:9780194247627"/>
+   </c:C10004>
    <c:C10004 rdf:about="hardygouldjanet">
       <a:P50094>hardygouldjanet</a:P50094>
       <a:P50111>Hardy-Gould, Janet</a:P50111>
+      <a:P50195 rdf:resource="http://www.wikidata.org/entity/q1201796"/>
+   </c:C10004>
+   <c:C10004 rdf:about="harveybob">
+      <a:P50094>harveybob</a:P50094>
+      <a:P50111>Harvey, Bob</a:P50111>
+      <a:P50469 rdf:resource="urn:isbn:9780746084243"/>
    </c:C10004>
    <c:C10004 rdf:about="hindsanthony">
       <a:P50094>hindsanthony</a:P50094>
@@ -579,59 +1072,135 @@
       <a:P50094>holmesmycroft</a:P50094>
       <a:P50111>Holmes, Mycroft</a:P50111>
    </c:C10004>
+   <c:C10004 rdf:about="holtronald">
+      <a:P50094>holtronald</a:P50094>
+      <a:P50111>Holt, Ronald</a:P50111>
+      <a:P50107>1932-</a:P50107>
+      <a:P50161 rdf:resource="http://www.wikidata.org/entity/q265546/eng/text"/>
+   </c:C10004>
    <c:C10004 rdf:about="http://viaf.org/viaf/173636607">
       <a:P50094>http://viaf.org/viaf/173636607</a:P50094>
       <a:P50111>Holmes, Sherlock</a:P50111>
       <a:P50249 rdf:resource="http://www.wikidata.org/entity/q860831"/>
       <a:P50249 rdf:resource="http://www.wikidata.org/entity/q1129378"/>
       <a:P50249 rdf:resource="http://viaf.org/viaf/181625655"/>
+      <a:P50249 rdf:resource="http://viaf.org/viaf/186734487"/>
       <a:P50249 rdf:resource="http://viaf.org/viaf/181846531"/>
       <a:P50249 rdf:resource="http://viaf.org/viaf/175571309"/>
       <a:P50249 rdf:resource="http://www.wikidata.org/entity/q3041826"/>
       <a:P50249 rdf:resource="http://www.wikidata.org/entity/q725752"/>
-      <a:P50249 rdf:resource="http://viaf.org/viaf/186734487"/>
       <a:P50249 rdf:resource="http://www.wikidata.org/entity/q2466799"/>
       <a:P50249 rdf:resource="http://www.wikidata.org/entity/q3041819"/>
       <a:P50249 rdf:resource="http://viaf.org/viaf/184892317"/>
       <a:P50249 rdf:resource="http://viaf.org/viaf/179061639"/>
+      <a:P50249 rdf:resource="http://viaf.org/viaf/1390154501894339210002"/>
+      <a:P50249 rdf:resource="bayardpierre/affaireduchiendesbaskerville"/>
       <a:P50249 rdf:resource="http://viaf.org/viaf/174141344"/>
       <a:P50249 rdf:resource="http://www.wikidata.org/entity/q1140678"/>
+      <a:P50249 rdf:resource="koplpetr/pesbaskervillsky"/>
       <a:P50249 rdf:resource="http://www.wikidata.org/entity/q461026"/>
       <a:P50249 rdf:resource="http://viaf.org/viaf/3283155226707084490002"/>
-      <a:P50249 rdf:resource="http://viaf.org/viaf/1390154501894339210002"/>
-      <a:P50249 rdf:resource="http://www.wikidata.org/entity/q1151748"/>
+      <a:P50249 rdf:resource="http://www.wikidata.org/entity/q1151761"/>
       <a:P50249 rdf:resource="http://www.wikidata.org/entity/q265546"/>
-      <a:P50249 rdf:resource="http://www.wikidata.org/entity/q1201796"/>
+      <a:P50249 rdf:resource="http://viaf.org/viaf/180817010"/>
+      <a:P50249 rdf:resource="http://www.wikidata.org/entity/q1151748"/>
+      <a:P50249 rdf:resource="http://viaf.org/viaf/65283845/caseofidentity"/>
       <a:P50249 rdf:resource="http://www.wikidata.org/entity/q1193379"/>
       <a:P50249 rdf:resource="http://www.wikidata.org/entity/q1192541"/>
+      <a:P50249 rdf:resource="http://viaf.org/viaf/65283845/stockbrokersclerk"/>
+      <a:P50249 rdf:resource="http://viaf.org/viaf/309533947"/>
+      <a:P50249 rdf:resource="http://viaf.org/viaf/65283845/adventureoftheengineersthumb"/>
+      <a:P50249 rdf:resource="http://viaf.org/viaf/65283845/caseofmistakenidentity"/>
+      <a:P50249 rdf:resource="bakkerhelene/tekenvanvier"/>
+      <a:P50249 rdf:resource="bakkerhelene/manmethetlitteken"/>
+      <a:P50249 rdf:resource="http://www.wikidata.org/entity/q1201796"/>
+      <a:P50249 rdf:resource="http://viaf.org/viaf/65283845/theyellowface"/>
+      <a:P50249 rdf:resource="http://viaf.org/viaf/65283845/thegreekinterpreter"/>
+      <a:P50249 rdf:resource="koplpetr/skandalvcechach"/>
+      <a:P50249 rdf:resource="http://viaf.org/viaf/65283845/thestockbrokersclerk"/>
+      <a:P50249 rdf:resource="http://viaf.org/viaf/65283845/thegloriascott"/>
+      <a:P50249 rdf:resource="http://www.wikidata.org/entity/q1150069"/>
+      <a:P50249 rdf:resource="http://viaf.org/viaf/65283845/thereigatesquires"/>
+      <a:P50249 rdf:resource="http://viaf.org/viaf/65283845/thecrookedman"/>
+      <a:P50249 rdf:resource="http://viaf.org/viaf/65283845/theresidentpatient"/>
+      <a:P50249 rdf:resource="http://viaf.org/viaf/65283845/thefinalproblem"/>
+      <a:P50249 rdf:resource="scottn/russianconnectionandothernewadventures"/>
       <a:P50249 rdf:resource="http://www.wikidata.org/entity/q2446784"/>
+      <a:P50249 rdf:resource="bakkerhelene/gespikkeldeband"/>
+   </c:C10004>
+   <c:C10004 rdf:about="http://viaf.org/viaf/2555146">
+      <a:P50094>http://viaf.org/viaf/2555146</a:P50094>
+      <a:P50111>Paget, Sidney</a:P50111>
+      <a:P50107>1860-1908</a:P50107>
+      <a:P50161 rdf:resource="http://viaf.org/viaf/181625655/eng/text"/>
+      <a:P50469 rdf:resource="urn:isbn:9781909621282"/>
+      <a:P50469 rdf:resource="urn:isbn:9781849311380"/>
+      <a:P50469 rdf:resource="urn:isbn:9781509827015"/>
+      <a:P50469 rdf:resource="urn:isbn:9781909621794"/>
+      <a:P50469 rdf:resource="urn:isbn:9781435162051"/>
    </c:C10004>
    <c:C10004 rdf:about="http://viaf.org/viaf/308763542">
       <a:P50094>http://viaf.org/viaf/308763542</a:P50094>
       <a:P50111>Watson, John H</a:P50111>
       <a:P50249 rdf:resource="http://www.wikidata.org/entity/q860831"/>
+      <a:P50249 rdf:resource="http://www.wikidata.org/entity/q1129378"/>
+      <a:P50249 rdf:resource="http://viaf.org/viaf/186734487"/>
       <a:P50249 rdf:resource="http://viaf.org/viaf/181846531"/>
       <a:P50249 rdf:resource="http://viaf.org/viaf/181625655"/>
       <a:P50249 rdf:resource="http://www.wikidata.org/entity/q3041826"/>
       <a:P50249 rdf:resource="http://www.wikidata.org/entity/q725752"/>
-      <a:P50249 rdf:resource="http://viaf.org/viaf/186734487"/>
       <a:P50249 rdf:resource="http://www.wikidata.org/entity/q2466799"/>
       <a:P50249 rdf:resource="http://www.wikidata.org/entity/q3041819"/>
       <a:P50249 rdf:resource="http://viaf.org/viaf/184892317"/>
-      <a:P50249 rdf:resource="http://viaf.org/viaf/175571309"/>
       <a:P50249 rdf:resource="http://viaf.org/viaf/179061639"/>
+      <a:P50249 rdf:resource="http://viaf.org/viaf/175571309"/>
+      <a:P50249 rdf:resource="http://viaf.org/viaf/1390154501894339210002"/>
       <a:P50249 rdf:resource="http://viaf.org/viaf/174141344"/>
       <a:P50249 rdf:resource="http://www.wikidata.org/entity/q1140678"/>
+      <a:P50249 rdf:resource="koplpetr/pesbaskervillsky"/>
       <a:P50249 rdf:resource="http://www.wikidata.org/entity/q461026"/>
       <a:P50249 rdf:resource="http://viaf.org/viaf/3283155226707084490002"/>
-      <a:P50249 rdf:resource="http://viaf.org/viaf/1390154501894339210002"/>
-      <a:P50249 rdf:resource="http://www.wikidata.org/entity/q1129378"/>
-      <a:P50249 rdf:resource="http://www.wikidata.org/entity/q1151748"/>
+      <a:P50249 rdf:resource="http://www.wikidata.org/entity/q1151761"/>
       <a:P50249 rdf:resource="http://www.wikidata.org/entity/q265546"/>
-      <a:P50249 rdf:resource="http://www.wikidata.org/entity/q1201796"/>
+      <a:P50249 rdf:resource="http://viaf.org/viaf/180817010"/>
+      <a:P50249 rdf:resource="http://www.wikidata.org/entity/q1151748"/>
+      <a:P50249 rdf:resource="http://viaf.org/viaf/65283845/caseofidentity"/>
       <a:P50249 rdf:resource="http://www.wikidata.org/entity/q1193379"/>
       <a:P50249 rdf:resource="http://www.wikidata.org/entity/q1192541"/>
+      <a:P50249 rdf:resource="http://viaf.org/viaf/65283845/stockbrokersclerk"/>
+      <a:P50249 rdf:resource="http://viaf.org/viaf/309533947"/>
+      <a:P50249 rdf:resource="http://viaf.org/viaf/65283845/adventureoftheengineersthumb"/>
+      <a:P50249 rdf:resource="http://viaf.org/viaf/65283845/caseofmistakenidentity"/>
+      <a:P50249 rdf:resource="bakkerhelene/tekenvanvier"/>
+      <a:P50249 rdf:resource="bakkerhelene/manmethetlitteken"/>
+      <a:P50249 rdf:resource="http://www.wikidata.org/entity/q1201796"/>
+      <a:P50249 rdf:resource="http://viaf.org/viaf/65283845/theyellowface"/>
+      <a:P50249 rdf:resource="http://viaf.org/viaf/65283845/thegreekinterpreter"/>
+      <a:P50249 rdf:resource="koplpetr/skandalvcechach"/>
+      <a:P50249 rdf:resource="http://viaf.org/viaf/65283845/thestockbrokersclerk"/>
+      <a:P50249 rdf:resource="http://viaf.org/viaf/65283845/thegloriascott"/>
+      <a:P50249 rdf:resource="http://www.wikidata.org/entity/q1150069"/>
+      <a:P50249 rdf:resource="http://viaf.org/viaf/65283845/thereigatesquires"/>
+      <a:P50249 rdf:resource="http://viaf.org/viaf/65283845/thecrookedman"/>
+      <a:P50249 rdf:resource="http://viaf.org/viaf/65283845/theresidentpatient"/>
+      <a:P50249 rdf:resource="http://viaf.org/viaf/65283845/thefinalproblem"/>
+      <a:P50249 rdf:resource="scottn/russianconnectionandothernewadventures"/>
       <a:P50249 rdf:resource="http://www.wikidata.org/entity/q2446784"/>
+      <a:P50249 rdf:resource="bakkerhelene/gespikkeldeband"/>
+   </c:C10004>
+   <c:C10004 rdf:about="http://viaf.org/viaf/44372717">
+      <a:P50094>http://viaf.org/viaf/44372717</a:P50094>
+      <a:P50111>Green, Richard Lancelyn</a:P50111>
+      <a:P50161 rdf:resource="http://viaf.org/viaf/186734487/eng/text"/>
+      <a:P50161 rdf:resource="http://www.wikidata.org/entity/q725752/eng/text"/>
+   </c:C10004>
+   <c:C10004 rdf:about="http://viaf.org/viaf/6111475">
+      <a:P50094>http://viaf.org/viaf/6111475</a:P50094>
+      <a:P50111>Edwards, Owen Dudley</a:P50111>
+      <a:P50161 rdf:resource="http://viaf.org/viaf/175571309/eng/text"/>
+      <a:P50161 rdf:resource="http://viaf.org/viaf/179061639/eng/text"/>
+      <a:P50161 rdf:resource="http://viaf.org/viaf/1390154501894339210002/eng/text"/>
+      <a:P50161 rdf:resource="http://www.wikidata.org/entity/q19086389/eng/text"/>
    </c:C10004>
    <c:C10004 rdf:about="http://viaf.org/viaf/65283845">
       <a:P50094>http://viaf.org/viaf/65283845</a:P50094>
@@ -642,28 +1211,38 @@
       <a:P50195 rdf:resource="http://www.wikidata.org/entity/q860831"/>
       <a:P50195 rdf:resource="http://www.wikidata.org/entity/q1129378"/>
       <a:P50195 rdf:resource="http://viaf.org/viaf/181625655"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/186734487"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/65283845/thesussexvampire"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/65283845/thecreepingman"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/65283845/theadventureofshoscombeoldplace"/>
       <a:P50195 rdf:resource="http://www.wikidata.org/entity/q3041826"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/65283845/theveiledlodger"/>
       <a:P50195 rdf:resource="http://www.wikidata.org/entity/q2466799"/>
       <a:P50195 rdf:resource="http://viaf.org/viaf/180817010"/>
       <a:P50195 rdf:resource="http://viaf.org/viaf/181846531"/>
       <a:P50195 rdf:resource="http://viaf.org/viaf/1139147270541635700005"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/179061639"/>
       <a:P50195 rdf:resource="http://viaf.org/viaf/174141344"/>
       <a:P50195 rdf:resource="http://viaf.org/viaf/175571309"/>
       <a:P50195 rdf:resource="http://www.wikidata.org/entity/q725752"/>
-      <a:P50195 rdf:resource="http://viaf.org/viaf/186734487"/>
       <a:P50195 rdf:resource="http://www.wikidata.org/entity/q3041819"/>
       <a:P50195 rdf:resource="http://viaf.org/viaf/"/>
       <a:P50195 rdf:resource="http://viaf.org/viaf/184892317"/>
-      <a:P50195 rdf:resource="http://viaf.org/viaf/179061639"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/1390154501894339210002"/>
       <a:P50195 rdf:resource="http://viaf.org/viaf/310218668"/>
+      <a:P50195 rdf:resource="http://www.wikidata.org/entity/q1201796"/>
       <a:P50195 rdf:resource="http://www.wikidata.org/entity/q1963997"/>
+      <a:P50195 rdf:resource="http://www.wikidata.org/entity/q1192541"/>
       <a:P50195 rdf:resource="http://www.wikidata.org/entity/q2740092"/>
       <a:P50195 rdf:resource="http://www.wikidata.org/entity/q961957"/>
       <a:P50195 rdf:resource="http://www.wikidata.org/entity/q19086389"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/65283845/strangecaseofmissfaulkner"/>
       <a:P50195 rdf:resource="http://www.wikidata.org/entity/q1140678"/>
       <a:P50195 rdf:resource="http://viaf.org/viaf/179668970"/>
       <a:P50195 rdf:resource="http://viaf.org/viaf/310212942"/>
-      <a:P50195 rdf:resource="http://viaf.org/viaf/1390154501894339210002"/>
+      <a:P50195 rdf:resource="http://www.wikidata.org/entity/q2616869"/>
+      <a:P50195 rdf:resource="http://www.wikidata.org/entity/q2660166"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/6035152865746704940001"/>
       <a:P50195 rdf:resource="http://viaf.org/viaf/308560745"/>
       <a:P50195 rdf:resource="http://www.wikidata.org/entity/q461026"/>
       <a:P50195 rdf:resource="http://viaf.org/viaf/3283155226707084490002"/>
@@ -673,30 +1252,61 @@
       <a:P50195 rdf:resource="http://www.wikidata.org/entity/q5295849"/>
       <a:P50195 rdf:resource="http://www.wikidata.org/entity/q3492113"/>
       <a:P50195 rdf:resource="http://www.wikidata.org/entity/q265546"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/181810457"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/65283845/theslappingsal"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/309272292"/>
       <a:P50195 rdf:resource="http://www.wikidata.org/entity/q4461047"/>
       <a:P50195 rdf:resource="http://viaf.org/viaf/309258340"/>
-      <a:P50195 rdf:resource="http://www.wikidata.org/entity/q2616869"/>
+      <a:P50195 rdf:resource="http://www.wikidata.org/entity/q7748730"/>
       <a:P50195 rdf:resource="http://www.wikidata.org/entity/q5295669"/>
-      <a:P50195 rdf:resource="http://www.wikidata.org/entity/q1193379"/>
-      <a:P50195 rdf:resource="http://viaf.org/viaf/309272292"/>
-      <a:P50195 rdf:resource="http://viaf.org/viaf/6035152865746704940001"/>
-      <a:P50195 rdf:resource="http://www.wikidata.org/entity/q2660166"/>
+      <a:P50195 rdf:resource="http://www.wikidata.org/entity/q2379601"/>
       <a:P50195 rdf:resource="http://www.wikidata.org/entity/q1151761"/>
+      <a:P50195 rdf:resource="http://www.wikidata.org/entity/q1193379"/>
       <a:P50195 rdf:resource="http://www.wikidata.org/entity/q1151748"/>
-      <a:P50195 rdf:resource="http://www.wikidata.org/entity/q1192541"/>
+      <a:P50195 rdf:resource="http://www.wikidata.org/entity/q2360365"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/65283845/caseofidentity"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/65283845/stockbrokersclerk"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/309533947"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/65283845/adventureoftheengineersthumb"/>
       <a:P50195 rdf:resource="http://www.wikidata.org/entity/q3235556"/>
       <a:P50195 rdf:resource="http://www.wikidata.org/entity/q1201451"/>
-      <a:P50195 rdf:resource="http://www.wikidata.org/entity/q22090538"/>
-      <a:P50195 rdf:resource="http://www.wikidata.org/entity/q1201796"/>
-      <a:P50195 rdf:resource="http://www.wikidata.org/entity/q1150069"/>
-      <a:P50195 rdf:resource="http://viaf.org/viaf/309533947"/>
       <a:P50195 rdf:resource="http://www.wikidata.org/entity/q2446784"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/65283845/caseofmistakenidentity"/>
+      <a:P50195 rdf:resource="http://www.wikidata.org/entity/q22090538"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/65283845/theyellowface"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/65283845/thegreekinterpreter"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/65283845/inthenameoftheking"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/65283845/thestockbrokersclerk"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/65283845/thegloriascott"/>
+      <a:P50195 rdf:resource="http://www.wikidata.org/entity/q1150069"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/65283845/thereigatesquires"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/65283845/thecrookedman"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/65283845/theresidentpatient"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/65283845/thefinalproblem"/>
+      <a:P50249 rdf:resource="bayardpierre/affaireduchiendesbaskerville"/>
       <a:P50249 rdf:resource="http://viaf.org/viaf/179061639"/>
    </c:C10004>
    <c:C10004 rdf:about="johnsonhelen">
       <a:P50094>johnsonhelen</a:P50094>
       <a:P50111>Johnson, Helen</a:P50111>
       <a:P50107>1955-</a:P50107>
+   </c:C10004>
+   <c:C10004 rdf:about="joneskelley">
+      <a:P50094>joneskelley</a:P50094>
+      <a:P50111>Jones, Kelley</a:P50111>
+      <a:P50107>1962-</a:P50107>
+      <a:P50469 rdf:resource="urn:isbn:9781600106590"/>
+   </c:C10004>
+   <c:C10004 rdf:about="joneskelvini">
+      <a:P50094>joneskelvini</a:P50094>
+      <a:P50111>Jones, Kelvin I</a:P50111>
+      <a:P50189 rdf:resource="http://www.wikidata.org/entity/q2466799"/>
+      <a:P50195 rdf:resource="http://www.wikidata.org/entity/q2466799"/>
+   </c:C10004>
+   <c:C10004 rdf:about="jonesmatt">
+      <a:P50094>jonesmatt</a:P50094>
+      <a:P50111>Jones, Matt</a:P50111>
+      <a:P50161 rdf:resource="http://viaf.org/viaf/181625655/eng/text"/>
    </c:C10004>
    <c:C10004 rdf:about="kellytim">
       <a:P50094>kellytim</a:P50094>
@@ -707,63 +1317,235 @@
       <a:P50094>kerrjyk</a:P50094>
       <a:P50111>Kerr, J. Y. K</a:P50111>
    </c:C10004>
+   <c:C10004 rdf:about="kimberlymarion">
+      <a:P50094>kimberlymarion</a:P50094>
+      <a:P50111>Kimberly, Marion</a:P50111>
+      <a:P50447 rdf:resource="http://viaf.org/viaf/181625655"/>
+   </c:C10004>
+   <c:C10004 rdf:about="kincaideric">
+      <a:P50094>kincaideric</a:P50094>
+      <a:P50111>Kincaid, Eric</a:P50111>
+      <a:P50161 rdf:resource="http://viaf.org/viaf/186734487/eng/text"/>
+   </c:C10004>
    <c:C10004 rdf:about="kingsleysusan">
       <a:P50094>kingsleysusan</a:P50094>
       <a:P50111>Kingsley, Susan</a:P50111>
       <a:P50107>1960-</a:P50107>
    </c:C10004>
+   <c:C10004 rdf:about="klingerleslies">
+      <a:P50094>klingerleslies</a:P50094>
+      <a:P50111>Klinger, Leslie S</a:P50111>
+   </c:C10004>
    <c:C10004 rdf:about="koplpetr">
       <a:P50094>koplpetr</a:P50094>
       <a:P50111>Kopl, Petr</a:P50111>
       <a:P50107>1976-</a:P50107>
+      <a:P50195 rdf:resource="koplpetr/pesbaskervillsky"/>
+      <a:P50195 rdf:resource="koplpetr/skandalvcechach"/>
+   </c:C10004>
+   <c:C10004 rdf:about="laudeanthony">
+      <a:P50094>laudeanthony</a:P50094>
+      <a:P50111>Laude, Anthony</a:P50111>
+      <a:P50161 rdf:resource="http://viaf.org/viaf/184892317/eng/text"/>
+      <a:P50161 rdf:resource="http://viaf.org/viaf/179061639/eng/text"/>
+   </c:C10004>
+   <c:C10004 rdf:about="lefanujosephsheridan">
+      <a:P50094>lefanujosephsheridan</a:P50094>
+      <a:P50111>Le Fanu, Joseph Sheridan</a:P50111>
+      <a:P50107>1814-1873</a:P50107>
+      <a:P50195 rdf:resource="lefanujosephsheridan/carmilla"/>
    </c:C10004>
    <c:C10004 rdf:about="leighpeter">
       <a:P50094>leighpeter</a:P50094>
       <a:P50111>Leigh, Peter</a:P50111>
       <a:P50107>1944-</a:P50107>
    </c:C10004>
+   <c:C10004 rdf:about="lejeuneanthony">
+      <a:P50094>lejeuneanthony</a:P50094>
+      <a:P50111>Lejeune, Anthony</a:P50111>
+      <a:P50161 rdf:resource="http://viaf.org/viaf/181625655/eng/text"/>
+   </c:C10004>
+   <c:C10004 rdf:about="lellenbergjonl">
+      <a:P50094>lellenbergjonl</a:P50094>
+      <a:P50111>Lellenberg, Jon L</a:P50111>
+   </c:C10004>
    <c:C10004 rdf:about="ludwigken">
       <a:P50094>ludwigken</a:P50094>
       <a:P50111>Ludwig, Ken</a:P50111>
+   </c:C10004>
+   <c:C10004 rdf:about="lycettandrew">
+      <a:P50094>lycettandrew</a:P50094>
+      <a:P50111>Lycett, Andrew</a:P50111>
+   </c:C10004>
+   <c:C10004 rdf:about="macalusopjames">
+      <a:P50094>macalusopjames</a:P50094>
+      <a:P50111>Macaluso, P. James</a:P50111>
+      <a:P50469 rdf:resource="urn:isbn:9781780928821"/>
+      <a:P50469 rdf:resource="urn:isbn:9781780927947"/>
+      <a:P50469 rdf:resource="urn:isbn:9781780926247"/>
+      <a:P50469 rdf:resource="urn:isbn:9781780929095"/>
+      <a:P50469 rdf:resource="urn:isbn:9781780926988"/>
+      <a:P50469 rdf:resource="urn:isbn:9781780926049"/>
+      <a:P50469 rdf:resource="urn:isbn:9781780929125"/>
+      <a:P50469 rdf:resource="urn:isbn:9781780926926"/>
+      <a:P50469 rdf:resource="urn:isbn:9781780926957"/>
+   </c:C10004>
+   <c:C10004 rdf:about="mackayjohn">
+      <a:P50094>mackayjohn</a:P50094>
+      <a:P50111>Mackay, John</a:P50111>
+      <a:P50107>1910-</a:P50107>
+      <a:P50161 rdf:resource="http://viaf.org/viaf//eng/text"/>
+   </c:C10004>
+   <c:C10004 rdf:about="mackintoshdavid">
+      <a:P50094>mackintoshdavid</a:P50094>
+      <a:P50111>Mackintosh, David</a:P50111>
+      <a:P50469 rdf:resource="urn:isbn:9781847494962"/>
+      <a:P50469 rdf:resource="urn:isbn:9781847497444"/>
+   </c:C10004>
+   <c:C10004 rdf:about="mandellcharlotte">
+      <a:P50094>mandellcharlotte</a:P50094>
+      <a:P50111>Mandell, Charlotte</a:P50111>
+      <a:P50161 rdf:resource="bayardpierre/affaireduchiendesbaskerville/eng/text"/>
+   </c:C10004>
+   <c:C10004 rdf:about="martinecksophia">
+      <a:P50094>martinecksophia</a:P50094>
+      <a:P50111>Martineck, Sophia</a:P50111>
+      <a:P50107>1981-</a:P50107>
+      <a:P50469 rdf:resource="urn:isbn:9781592539888"/>
    </c:C10004>
    <c:C10004 rdf:about="martinpc">
       <a:P50094>martinpc</a:P50094>
       <a:P50111>Martin, P. C</a:P50111>
    </c:C10004>
+   <c:C10004 rdf:about="matthewssarah">
+      <a:P50094>matthewssarah</a:P50094>
+      <a:P50111>Matthews, Sarah</a:P50111>
+      <a:P50107>1947-</a:P50107>
+      <a:P50161 rdf:resource="http://viaf.org/viaf/294145857904223021237/eng/text"/>
+   </c:C10004>
+   <c:C10004 rdf:about="maupassantguyde">
+      <a:P50094>maupassantguyde</a:P50094>
+      <a:P50111>Maupassant, Guy de</a:P50111>
+      <a:P50107>1850-1893</a:P50107>
+      <a:P50195 rdf:resource="maupassantguyde/horla"/>
+   </c:C10004>
+   <c:C10004 rdf:about="mcraejohn">
+      <a:P50094>mcraejohn</a:P50094>
+      <a:P50111>McRae, John</a:P50111>
+      <a:P50161 rdf:resource="http://viaf.org/viaf/181625655/eng/text"/>
+   </c:C10004>
    <c:C10004 rdf:about="millercarey">
       <a:P50094>millercarey</a:P50094>
       <a:P50111>Miller, Carey</a:P50111>
+   </c:C10004>
+   <c:C10004 rdf:about="moffatsteven">
+      <a:P50094>moffatsteven</a:P50094>
+      <a:P50111>Moffat, Steven</a:P50111>
+      <a:P50107>1961-</a:P50107>
+      <a:P50189 rdf:resource="http://www.wikidata.org/entity/q860831"/>
+      <a:P50189 rdf:resource="http://viaf.org/viaf/181625655"/>
+      <a:P50189 rdf:resource="http://viaf.org/viaf/1390154501894339210002"/>
+   </c:C10004>
+   <c:C10004 rdf:about="moffettcleveland">
+      <a:P50094>moffettcleveland</a:P50094>
+      <a:P50111>Moffett, Cleveland</a:P50111>
+      <a:P50107>1863-1926</a:P50107>
+      <a:P50195 rdf:resource="moffettcleveland/mysteriouscard"/>
    </c:C10004>
    <c:C10004 rdf:about="moriarty">
       <a:P50094>moriarty</a:P50094>
       <a:P50111>Moriarty</a:P50111>
       <a:P50249 rdf:resource="http://viaf.org/viaf/175571309"/>
    </c:C10004>
+   <c:C10004 rdf:about="morrowjt">
+      <a:P50094>morrowjt</a:P50094>
+      <a:P50111>Morrow, J. T</a:P50111>
+      <a:P50469 rdf:resource="urn:isbn:9780761370970"/>
+      <a:P50469 rdf:resource="urn:isbn:9780761370963"/>
+      <a:P50469 rdf:resource="urn:isbn:9780761370956"/>
+      <a:P50469 rdf:resource="urn:isbn:9780761370949"/>
+      <a:P50469 rdf:resource="urn:isbn:9780761370987"/>
+   </c:C10004>
+   <c:C10004 rdf:about="moskowitzseymour">
+      <a:P50094>moskowitzseymour</a:P50094>
+      <a:P50111>Moskowitz, Seymour</a:P50111>
+      <a:P50469 rdf:resource="urn:isbn:9781910619698"/>
+   </c:C10004>
    <c:C10004 rdf:about="mouldchris">
       <a:P50094>mouldchris</a:P50094>
       <a:P50111>Mould, Chris</a:P50111>
+      <a:P50447 rdf:resource="http://viaf.org/viaf/181625655"/>
    </c:C10004>
    <c:C10004 rdf:about="napoleon">
       <a:P50094>napoleon</a:P50094>
       <a:P50111>Napoleon</a:P50111>
       <a:P50107>1769-1821</a:P50107>
+      <a:P50249 rdf:resource="http://viaf.org/viaf/181846531"/>
+   </c:C10004>
+   <c:C10004 rdf:about="newshamian">
+      <a:P50094>newshamian</a:P50094>
+      <a:P50111>Newsham, Ian</a:P50111>
+      <a:P50161 rdf:resource="http://viaf.org/viaf/294145857904223021237/eng/text"/>
+      <a:P50469 rdf:resource="urn:isbn:9780141944296"/>
    </c:C10004>
    <c:C10004 rdf:about="nobespatrick">
       <a:P50094>nobespatrick</a:P50094>
       <a:P50111>Nobes, Patrick</a:P50111>
+      <a:P50157 rdf:resource="http://viaf.org/viaf/181625655"/>
    </c:C10004>
    <c:C10004 rdf:about="oconnorjohn">
       <a:P50094>oconnorjohn</a:P50094>
       <a:P50111>O'Connor, John</a:P50111>
       <a:P50107>1947 February 19-</a:P50107>
    </c:C10004>
+   <c:C10004 rdf:about="oliveralison">
+      <a:P50094>oliveralison</a:P50094>
+      <a:P50111>Oliver, Alison</a:P50111>
+      <a:P50469 rdf:resource="urn:isbn:9781423634119"/>
+   </c:C10004>
+   <c:C10004 rdf:about="pagephilip">
+      <a:P50094>pagephilip</a:P50094>
+      <a:P50111>Page, Philip</a:P50111>
+      <a:P50107>1945-</a:P50107>
+      <a:P50161 rdf:resource="http://viaf.org/viaf/181625655/eng/text"/>
+   </c:C10004>
    <c:C10004 rdf:about="pauljeremy">
       <a:P50094>pauljeremy</a:P50094>
       <a:P50111>Paul, Jeremy</a:P50111>
    </c:C10004>
+   <c:C10004 rdf:about="pearcets">
+      <a:P50094>pearcets</a:P50094>
+      <a:P50111>Pearce, T. S</a:P50111>
+      <a:P50107>1939-</a:P50107>
+      <a:P50161 rdf:resource="http://viaf.org/viaf/175571309/eng/text"/>
+   </c:C10004>
+   <c:C10004 rdf:about="perezdaniel">
+      <a:P50094>perezdaniel</a:P50094>
+      <a:P50111>Pérez, Daniel</a:P50111>
+      <a:P50107>1977-</a:P50107>
+      <a:P50469 rdf:resource="urn:isbn:9781406212563"/>
+      <a:P50469 rdf:resource="urn:isbn:9781496500359"/>
+   </c:C10004>
+   <c:C10004 rdf:about="pettitmarilyn">
+      <a:P50094>pettitmarilyn</a:P50094>
+      <a:P50111>Pettit, Marilyn</a:P50111>
+      <a:P50161 rdf:resource="http://viaf.org/viaf/181625655/eng/text"/>
+   </c:C10004>
    <c:C10004 rdf:about="pichettedavid">
       <a:P50094>pichettedavid</a:P50094>
       <a:P50111>Pichette, David</a:P50111>
+   </c:C10004>
+   <c:C10004 rdf:about="pietro">
+      <a:P50094>pietro</a:P50094>
+      <a:P50111>Pietro</a:P50111>
+      <a:P50107>1980-</a:P50107>
+      <a:P50469 rdf:resource="urn:isbn:9781474751360"/>
+   </c:C10004>
+   <c:C10004 rdf:about="polidorijohnwilliam">
+      <a:P50094>polidorijohnwilliam</a:P50094>
+      <a:P50111>Polidori, John William</a:P50111>
+      <a:P50107>1795-1821</a:P50107>
+      <a:P50195 rdf:resource="polidorijohnwilliam/vampyre"/>
    </c:C10004>
    <c:C10004 rdf:about="powellmartin">
       <a:P50094>powellmartin</a:P50094>
@@ -774,15 +1556,47 @@
       <a:P50094>quinntim</a:P50094>
       <a:P50111>Quinn, Tim</a:P50111>
       <a:P50107>1953-</a:P50107>
+      <a:P50195 rdf:resource="quinntim/bluecarbuncle"/>
+   </c:C10004>
+   <c:C10004 rdf:about="robsonww">
+      <a:P50094>robsonww</a:P50094>
+      <a:P50111>Robson, W. W</a:P50111>
+      <a:P50107>1923-1993</a:P50107>
+      <a:P50161 rdf:resource="http://viaf.org/viaf/181625655/eng/text"/>
+      <a:P50161 rdf:resource="http://www.wikidata.org/entity/q1129378/eng/text"/>
+   </c:C10004>
+   <c:C10004 rdf:about="rodenchristopher">
+      <a:P50094>rodenchristopher</a:P50094>
+      <a:P50111>Roden, Christopher</a:P50111>
+      <a:P50161 rdf:resource="http://www.wikidata.org/entity/q860831/eng/text"/>
+      <a:P50161 rdf:resource="http://viaf.org/viaf/184892317/eng/text"/>
    </c:C10004>
    <c:C10004 rdf:about="rodriguezdavid">
       <a:P50094>rodriguezdavid</a:P50094>
       <a:P50111>Rodriguez, David</a:P50111>
       <a:P50107>1965-</a:P50107>
    </c:C10004>
+   <c:C10004 rdf:about="rohrbachsophie">
+      <a:P50094>rohrbachsophie</a:P50094>
+      <a:P50111>Rohrbach, Sophie</a:P50111>
+      <a:P50469 rdf:resource="urn:isbn:9780761362029"/>
+      <a:P50469 rdf:resource="urn:isbn:9780761362012"/>
+      <a:P50469 rdf:resource="urn:isbn:9780761362005"/>
+      <a:P50469 rdf:resource="urn:isbn:9780761361985"/>
+      <a:P50469 rdf:resource="urn:isbn:9780761361978"/>
+      <a:P50469 rdf:resource="urn:isbn:9780761370970"/>
+      <a:P50469 rdf:resource="urn:isbn:9780761370963"/>
+      <a:P50469 rdf:resource="urn:isbn:9780761370956"/>
+      <a:P50469 rdf:resource="urn:isbn:9780761370949"/>
+   </c:C10004>
    <c:C10004 rdf:about="ronaldsonalan">
       <a:P50094>ronaldsonalan</a:P50094>
       <a:P50111>Ronaldson, Alan</a:P50111>
+      <a:P50161 rdf:resource="http://viaf.org/viaf/181625655/eng/text"/>
+   </c:C10004>
+   <c:C10004 rdf:about="rowenaakinyemi">
+      <a:P50094>rowenaakinyemi</a:P50094>
+      <a:P50111>Akinyemi, Rowena</a:P50111>
    </c:C10004>
    <c:C10004 rdf:about="salem">
       <a:P50094>salem</a:P50094>
@@ -795,10 +1609,24 @@
    <c:C10004 rdf:about="scottn">
       <a:P50094>scottn</a:P50094>
       <a:P50111>Scott, N</a:P50111>
+      <a:P50195 rdf:resource="scottn/russianconnectionandothernewadventures"/>
+   </c:C10004>
+   <c:C10004 rdf:about="scottsusan">
+      <a:P50094>scottsusan</a:P50094>
+      <a:P50111>Scott, Susan</a:P50111>
+      <a:P50107>1962-</a:P50107>
+      <a:P50469 rdf:resource="urn:isbn:9780194247238"/>
+      <a:P50469 rdf:resource="urn:isbn:0194243400"/>
    </c:C10004>
    <c:C10004 rdf:about="searsgeorge">
       <a:P50094>searsgeorge</a:P50094>
       <a:P50111>Sears, George</a:P50111>
+      <a:P50195 rdf:resource="quinntim/bluecarbuncle"/>
+   </c:C10004>
+   <c:C10004 rdf:about="sharmanavin">
+      <a:P50094>sharmanavin</a:P50094>
+      <a:P50111>Sharma, Navin</a:P50111>
+      <a:P50161 rdf:resource="http://viaf.org/viaf/181625655/eng/text"/>
    </c:C10004>
    <c:C10004 rdf:about="shawmurray">
       <a:P50094>shawmurray</a:P50094>
@@ -811,18 +1639,63 @@
    <c:C10004 rdf:about="simpsonjana">
       <a:P50094>simpsonjana</a:P50094>
       <a:P50111>Simpson, Jana</a:P50111>
+      <a:P50145 rdf:resource="koplpetr/pesbaskervillsky/eng/text"/>
+      <a:P50145 rdf:resource="koplpetr/skandalvcechach/eng/text"/>
    </c:C10004>
    <c:C10004 rdf:about="simpsonpaulmichael">
       <a:P50094>simpsonpaulmichael</a:P50094>
       <a:P50111>Simpson, Paul Michael</a:P50111>
+      <a:P50145 rdf:resource="koplpetr/pesbaskervillsky/eng/text"/>
+      <a:P50145 rdf:resource="koplpetr/skandalvcechach/eng/text"/>
+   </c:C10004>
+   <c:C10004 rdf:about="smypam">
+      <a:P50094>smypam</a:P50094>
+      <a:P50111>Smy, Pam</a:P50111>
+      <a:P50161 rdf:resource="http://viaf.org/viaf/181625655/eng/text"/>
    </c:C10004>
    <c:C10004 rdf:about="spellmansabrina">
       <a:P50094>spellmansabrina</a:P50094>
       <a:P50111>Spellman, Sabrina</a:P50111>
    </c:C10004>
+   <c:C10004 rdf:about="stevensonrobertlouis">
+      <a:P50094>stevensonrobertlouis</a:P50094>
+      <a:P50111>Stevenson, Robert Louis</a:P50111>
+      <a:P50107>1850-1894</a:P50107>
+      <a:P50195 rdf:resource="stevensonrobertlouis/treasureisland"/>
+   </c:C10004>
+   <c:C10004 rdf:about="stocktonfrankrichard">
+      <a:P50094>stocktonfrankrichard</a:P50094>
+      <a:P50111>Stockton, Frank Richard</a:P50111>
+      <a:P50107>1834-1902</a:P50107>
+      <a:P50195 rdf:resource="stocktonfrankrichard/ladyorthetiger"/>
+   </c:C10004>
+   <c:C10004 rdf:about="stokerbram">
+      <a:P50094>stokerbram</a:P50094>
+      <a:P50111>Stoker, Bram</a:P50111>
+      <a:P50107>1847-1912</a:P50107>
+      <a:P50195 rdf:resource="stokerbram/draculasguest"/>
+   </c:C10004>
    <c:C10004 rdf:about="theakersw">
       <a:P50094>theakersw</a:P50094>
       <a:P50111>Theaker, S. W</a:P50111>
+   </c:C10004>
+   <c:C10004 rdf:about="tieckludwig">
+      <a:P50094>tieckludwig</a:P50094>
+      <a:P50111>Tieck, Ludwig</a:P50111>
+      <a:P50107>1773-1853</a:P50107>
+   </c:C10004>
+   <c:C10004 rdf:about="tinerron">
+      <a:P50094>tinerron</a:P50094>
+      <a:P50111>Tiner, Ron</a:P50111>
+      <a:P50469 rdf:resource="urn:isbn:9780194789196"/>
+      <a:P50469 rdf:resource="urn:isbn:9780194789202"/>
+      <a:P50469 rdf:resource="urn:isbn:0194229610"/>
+   </c:C10004>
+   <c:C10004 rdf:about="towheedshafquat">
+      <a:P50094>towheedshafquat</a:P50094>
+      <a:P50111>Towheed, Shafquat</a:P50111>
+      <a:P50107>1973-</a:P50107>
+      <a:P50161 rdf:resource="http://viaf.org/viaf/184892317/eng/text"/>
    </c:C10004>
    <c:C10004 rdf:about="unglikrichard">
       <a:P50094>unglikrichard</a:P50094>
@@ -837,14 +1710,109 @@
       <a:P50094>westclare</a:P50094>
       <a:P50111>West, Clare</a:P50111>
    </c:C10004>
+   <c:C10004 rdf:about="wilkspeter">
+      <a:P50094>wilkspeter</a:P50094>
+      <a:P50111>Wilks, Peter</a:P50111>
+      <a:P50469 rdf:resource="urn:isbn:0435213881"/>
+   </c:C10004>
+   <c:C10004 rdf:about="williamsanthony">
+      <a:P50094>williamsanthony</a:P50094>
+      <a:P50111>Williams, Anthony</a:P50111>
+      <a:P50107>1964-</a:P50107>
+      <a:P50469 rdf:resource="urn:isbn:9781784043575"/>
+   </c:C10004>
    <c:C10004 rdf:about="williamssimon">
       <a:P50094>williamssimon</a:P50094>
       <a:P50111>Williams, Simon</a:P50111>
       <a:P50107>1946 June 16-</a:P50107>
    </c:C10004>
+   <c:C10004 rdf:about="wilsonkaymary">
+      <a:P50094>wilsonkaymary</a:P50094>
+      <a:P50111>Wilson, Kay Mary</a:P50111>
+      <a:P50469 rdf:resource="urn:isbn:0435270915"/>
+   </c:C10004>
+   <c:C10004 rdf:about="wrightrhamilton">
+      <a:P50094>wrightrhamilton</a:P50094>
+      <a:P50111>Wright, R. Hamilton</a:P50111>
+   </c:C10004>
+   <c:C10006 rdf:about="bakkerhelene/gespikkeldeband/eng/text">
+      <e:P20006>eng</e:P20006>
+      <e:P20006>English</e:P20006>
+      <e:P20001>text</e:P20001>
+      <e:P20037 rdf:resource="asburyanna"/>
+      <e:P20059 rdf:resource="urn:isbn:9781783225354"/>
+      <e:P20231 rdf:resource="bakkerhelene/gespikkeldeband"/>
+   </c:C10006>
+   <c:C10006 rdf:about="bakkerhelene/manmethetlitteken/eng/text">
+      <e:P20006>eng</e:P20006>
+      <e:P20006>English</e:P20006>
+      <e:P20001>text</e:P20001>
+      <e:P20001>still image</e:P20001>
+      <e:P20037 rdf:resource="asburyanna"/>
+      <e:P20059 rdf:resource="urn:isbn:9781783225385"/>
+      <e:P20231 rdf:resource="bakkerhelene/manmethetlitteken"/>
+   </c:C10006>
+   <c:C10006 rdf:about="bakkerhelene/tekenvanvier/eng/text">
+      <e:P20006>eng</e:P20006>
+      <e:P20006>English</e:P20006>
+      <e:P20001>text</e:P20001>
+      <e:P20037 rdf:resource="asburyanna"/>
+      <e:P20059 rdf:resource="urn:isbn:9781783225361"/>
+      <e:P20231 rdf:resource="bakkerhelene/tekenvanvier"/>
+   </c:C10006>
+   <c:C10006 rdf:about="ballantynerm/coralisland/eng/text">
+      <e:P20006>eng</e:P20006>
+      <e:P20001>text</e:P20001>
+      <e:P20312>Coral island.</e:P20312>
+      <e:P20059 rdf:resource="urn:isbn:9781910486085"/>
+      <e:P20231 rdf:resource="ballantynerm/coralisland"/>
+   </c:C10006>
+   <c:C10006 rdf:about="bayardpierre/affaireduchiendesbaskerville/eng/text">
+      <e:P20006>eng</e:P20006>
+      <e:P20006>English</e:P20006>
+      <e:P20001>text</e:P20001>
+      <e:P20053 rdf:resource="mandellcharlotte"/>
+      <e:P20059 rdf:resource="urn:isbn:9781608192441"/>
+      <e:P20231 rdf:resource="bayardpierre/affaireduchiendesbaskerville"/>
+   </c:C10006>
+   <c:C10006 rdf:about="bensonef/roominthetower/eng/text">
+      <e:P20006>eng</e:P20006>
+      <e:P20001>text</e:P20001>
+      <e:P20059 rdf:resource="urn:isbn:9781780280165"/>
+      <e:P20231 rdf:resource="bensonef/roominthetower"/>
+   </c:C10006>
+   <c:C10006 rdf:about="dahlroald/mildenhalltreasure/eng/text">
+      <e:P20006>eng</e:P20006>
+      <e:P20001>text</e:P20001>
+      <e:P20312>Mildenhall treasure.</e:P20312>
+      <e:P20059 rdf:resource="urn:isbn:9780230441200"/>
+      <e:P20231 rdf:resource="dahlroald/mildenhalltreasure"/>
+   </c:C10006>
+   <c:C10006 rdf:about="dobbsfrank/redwind/eng/text">
+      <e:P20006>eng</e:P20006>
+      <e:P20001>text</e:P20001>
+      <e:P20312>Red wind</e:P20312>
+      <e:P20059 rdf:resource="urn:isbn:008006695"/>
+      <e:P20231 rdf:resource="dobbsfrank/redwind"/>
+   </c:C10006>
+   <c:C10006 rdf:about="dobbsfrank/thirdman/eng/text">
+      <e:P20006>eng</e:P20006>
+      <e:P20001>text</e:P20001>
+      <e:P20312>Third man.</e:P20312>
+      <e:P20059 rdf:resource="urn:isbn:008006695"/>
+      <e:P20231 rdf:resource="dobbsfrank/thirdman"/>
+   </c:C10006>
+   <c:C10006 rdf:about="gilmancharlotteperkins/yellowwallpaper/eng/text">
+      <e:P20006>eng</e:P20006>
+      <e:P20001>text</e:P20001>
+      <e:P20312>Yellow wallpaper.</e:P20312>
+      <e:P20059 rdf:resource="urn:isbn:9780230441200"/>
+      <e:P20231 rdf:resource="gilmancharlotteperkins/yellowwallpaper"/>
+   </c:C10006>
    <c:C10006 rdf:about="http://viaf.org/viaf//eng/text">
       <e:P20006>eng</e:P20006>
       <e:P20001>text</e:P20001>
+      <e:P20053 rdf:resource="mackayjohn"/>
       <e:P20059 rdf:resource="urn:isbn:9781781669891"/>
       <e:P20059 rdf:resource="http://example.org/010289718"/>
       <e:P20059 rdf:resource="urn:isbn:0719517877"/>
@@ -866,6 +1834,8 @@
       <e:P20001>text</e:P20001>
       <e:P20312>His last Bow</e:P20312>
       <e:P20312>His last bow.</e:P20312>
+      <e:P20053 rdf:resource="http://viaf.org/viaf/6111475"/>
+      <e:P20053 rdf:resource="bollingermax"/>
       <e:P20059 rdf:resource="urn:isbn:9780141034348"/>
       <e:P20059 rdf:resource="urn:isbn:9781435114944"/>
       <e:P20059 rdf:resource="urn:isbn:071953691"/>
@@ -900,6 +1870,7 @@
       <e:P20006>eng</e:P20006>
       <e:P20001>text</e:P20001>
       <e:P20001>still image</e:P20001>
+      <e:P20053 rdf:resource="daviesdavidstuart"/>
       <e:P20059 rdf:resource="urn:isbn:185152536"/>
       <e:P20059 rdf:resource="urn:isbn:1851520589"/>
       <e:P20059 rdf:resource="urn:isbn:9781592539888"/>
@@ -916,6 +1887,10 @@
       <e:P20001>text</e:P20001>
       <e:P20312>Valley of fear.</e:P20312>
       <e:P20312>The Valley of Fear</e:P20312>
+      <e:P20053 rdf:resource="http://viaf.org/viaf/6111475"/>
+      <e:P20053 rdf:resource="pearcets"/>
+      <e:P20053 rdf:resource="adamsrichard"/>
+      <e:P20053 rdf:resource="bollingermax"/>
       <e:P20059 rdf:resource="urn:isbn:9781907727436"/>
       <e:P20059 rdf:resource="urn:isbn:9781853756825"/>
       <e:P20059 rdf:resource="urn:isbn:9780141035444"/>
@@ -969,6 +1944,9 @@
       <e:P20001>text</e:P20001>
       <e:P20312>A Study in Scarlet</e:P20312>
       <e:P20312>Study in scarlet.</e:P20312>
+      <e:P20053 rdf:resource="http://viaf.org/viaf/6111475"/>
+      <e:P20053 rdf:resource="laudeanthony"/>
+      <e:P20053 rdf:resource="bollingermax"/>
       <e:P20059 rdf:resource="http://example.org/012486744"/>
       <e:P20059 rdf:resource="urn:isbn:9781853756825"/>
       <e:P20059 rdf:resource="urn:isbn:9780141034331"/>
@@ -1058,6 +2036,20 @@
       <e:P20312>Hound of the Baskervilles.</e:P20312>
       <e:P20312>Hound of Baskervilles.</e:P20312>
       <e:P20312>The Hound of the Baskervilles</e:P20312>
+      <e:P20053 rdf:resource="fraylingchristopher"/>
+      <e:P20053 rdf:resource="robsonww"/>
+      <e:P20053 rdf:resource="pagephilip"/>
+      <e:P20053 rdf:resource="pettitmarilyn"/>
+      <e:P20053 rdf:resource="bollingermax"/>
+      <e:P20053 rdf:resource="mcraejohn"/>
+      <e:P20053 rdf:resource="sharmanavin"/>
+      <e:P20053 rdf:resource="jonesmatt"/>
+      <e:P20053 rdf:resource="danlyjames"/>
+      <e:P20053 rdf:resource="ronaldsonalan"/>
+      <e:P20053 rdf:resource="http://viaf.org/viaf/2555146"/>
+      <e:P20053 rdf:resource="smypam"/>
+      <e:P20053 rdf:resource="bennettandrew"/>
+      <e:P20053 rdf:resource="lejeuneanthony"/>
       <e:P20059 rdf:resource="urn:isbn:9780141920412"/>
       <e:P20059 rdf:resource="urn:isbn:9781909621282"/>
       <e:P20059 rdf:resource="urn:isbn:9780141199177"/>
@@ -1184,6 +2176,7 @@
       <e:P20001>still image</e:P20001>
       <e:P20312>Speckled band.</e:P20312>
       <e:P20312>Adventure of the speckled band.</e:P20312>
+      <e:P20053 rdf:resource="dewsnaprobert"/>
       <e:P20059 rdf:resource="urn:isbn:9781780928821"/>
       <e:P20059 rdf:resource="urn:isbn:8742973015"/>
       <e:P20059 rdf:resource="urn:isbn:008006695"/>
@@ -1200,6 +2193,10 @@
       <e:P20001>cartographic image</e:P20001>
       <e:P20312>Sign of four.</e:P20312>
       <e:P20312>Sign of the four.</e:P20312>
+      <e:P20053 rdf:resource="bollingermax"/>
+      <e:P20053 rdf:resource="rodenchristopher"/>
+      <e:P20053 rdf:resource="towheedshafquat"/>
+      <e:P20053 rdf:resource="laudeanthony"/>
       <e:P20059 rdf:resource="urn:isbn:9781787375147"/>
       <e:P20059 rdf:resource="urn:isbn:9781853756825"/>
       <e:P20059 rdf:resource="urn:isbn:9780141034379"/>
@@ -1265,6 +2262,8 @@
       <e:P20001>cartographic image</e:P20001>
       <e:P20312>Adventures of Sherlock Holmes.</e:P20312>
       <e:P20312>The adventures of Sherlock Holmes</e:P20312>
+      <e:P20053 rdf:resource="http://viaf.org/viaf/44372717"/>
+      <e:P20053 rdf:resource="kincaideric"/>
       <e:P20059 rdf:resource="urn:isbn:9789386410009"/>
       <e:P20059 rdf:resource="urn:isbn:9781444807059"/>
       <e:P20059 rdf:resource="urn:isbn:0192835084"/>
@@ -1345,6 +2344,9 @@
       <e:P20001>still image</e:P20001>
       <e:P20312>Lost world.</e:P20312>
       <e:P20312>The Lost World</e:P20312>
+      <e:P20053 rdf:resource="duncanian"/>
+      <e:P20053 rdf:resource="newshamian"/>
+      <e:P20053 rdf:resource="matthewssarah"/>
       <e:P20059 rdf:resource="urn:isbn:0224016474"/>
       <e:P20059 rdf:resource="urn:isbn:9781509858507"/>
       <e:P20059 rdf:resource="urn:isbn:9781509858491"/>
@@ -1483,12 +2485,138 @@
       <e:P20059 rdf:resource="urn:isbn:0224011391"/>
       <e:P20231 rdf:resource="http://viaf.org/viaf/6035152865746704940001"/>
    </c:C10006>
+   <c:C10006 rdf:about="http://viaf.org/viaf/65283845/adventureoftheengineersthumb/eng/text">
+      <e:P20006>eng</e:P20006>
+      <e:P20001>text</e:P20001>
+      <e:P20312>Adventure of the engineer's thumb.</e:P20312>
+      <e:P20059 rdf:resource="urn:isbn:9781600107832"/>
+      <e:P20231 rdf:resource="http://viaf.org/viaf/65283845/adventureoftheengineersthumb"/>
+   </c:C10006>
+   <c:C10006 rdf:about="http://viaf.org/viaf/65283845/caseofidentity/eng/text">
+      <e:P20006>eng</e:P20006>
+      <e:P20001>text</e:P20001>
+      <e:P20312>Case of identity.</e:P20312>
+      <e:P20059 rdf:resource="urn:isbn:9781600107832"/>
+      <e:P20231 rdf:resource="http://viaf.org/viaf/65283845/caseofidentity"/>
+   </c:C10006>
+   <c:C10006 rdf:about="http://viaf.org/viaf/65283845/caseofmistakenidentity/eng/text">
+      <e:P20006>eng</e:P20006>
+      <e:P20001>text</e:P20001>
+      <e:P20312>Case of [mistaken?] identity.</e:P20312>
+      <e:P20059 rdf:resource="urn:isbn:9780141395562"/>
+      <e:P20231 rdf:resource="http://viaf.org/viaf/65283845/caseofmistakenidentity"/>
+   </c:C10006>
+   <c:C10006 rdf:about="http://viaf.org/viaf/65283845/stockbrokersclerk/eng/text">
+      <e:P20006>eng</e:P20006>
+      <e:P20001>text</e:P20001>
+      <e:P20312>Stock-broker's clerk.</e:P20312>
+      <e:P20059 rdf:resource="urn:isbn:9781600107832"/>
+      <e:P20231 rdf:resource="http://viaf.org/viaf/65283845/stockbrokersclerk"/>
+   </c:C10006>
+   <c:C10006 rdf:about="http://viaf.org/viaf/65283845/theadventureofshoscombeoldplace/eng/text">
+      <e:P20006>eng</e:P20006>
+      <e:P20001>text</e:P20001>
+      <e:P20001>still image</e:P20001>
+      <e:P20312>The adventure of Shoscombe Old Place</e:P20312>
+      <e:P20059 rdf:resource="urn:isbn:9781909621282"/>
+      <e:P20231 rdf:resource="http://viaf.org/viaf/65283845/theadventureofshoscombeoldplace"/>
+   </c:C10006>
+   <c:C10006 rdf:about="http://viaf.org/viaf/65283845/thecreepingman/eng/text">
+      <e:P20006>eng</e:P20006>
+      <e:P20001>text</e:P20001>
+      <e:P20001>still image</e:P20001>
+      <e:P20312>The creeping man</e:P20312>
+      <e:P20059 rdf:resource="urn:isbn:9781909621282"/>
+      <e:P20231 rdf:resource="http://viaf.org/viaf/65283845/thecreepingman"/>
+   </c:C10006>
+   <c:C10006 rdf:about="http://viaf.org/viaf/65283845/thecrookedman/eng/text">
+      <e:P20006>eng</e:P20006>
+      <e:P20001>text</e:P20001>
+      <e:P20312>The crooked man</e:P20312>
+      <e:P20059 rdf:resource="urn:isbn:9781446417270"/>
+      <e:P20231 rdf:resource="http://viaf.org/viaf/65283845/thecrookedman"/>
+   </c:C10006>
+   <c:C10006 rdf:about="http://viaf.org/viaf/65283845/thefinalproblem/eng/text">
+      <e:P20006>eng</e:P20006>
+      <e:P20001>text</e:P20001>
+      <e:P20312>The final problem.</e:P20312>
+      <e:P20059 rdf:resource="urn:isbn:9781446417270"/>
+      <e:P20231 rdf:resource="http://viaf.org/viaf/65283845/thefinalproblem"/>
+   </c:C10006>
+   <c:C10006 rdf:about="http://viaf.org/viaf/65283845/thegloriascott/eng/text">
+      <e:P20006>eng</e:P20006>
+      <e:P20001>text</e:P20001>
+      <e:P20312>The "Gloria Scott"</e:P20312>
+      <e:P20059 rdf:resource="urn:isbn:9781446417270"/>
+      <e:P20231 rdf:resource="http://viaf.org/viaf/65283845/thegloriascott"/>
+   </c:C10006>
+   <c:C10006 rdf:about="http://viaf.org/viaf/65283845/thegreekinterpreter/eng/text">
+      <e:P20006>eng</e:P20006>
+      <e:P20001>text</e:P20001>
+      <e:P20312>The Greek interpreter</e:P20312>
+      <e:P20059 rdf:resource="urn:isbn:9781600106590"/>
+      <e:P20059 rdf:resource="urn:isbn:9781446417270"/>
+      <e:P20231 rdf:resource="http://viaf.org/viaf/65283845/thegreekinterpreter"/>
+   </c:C10006>
+   <c:C10006 rdf:about="http://viaf.org/viaf/65283845/thereigatesquires/eng/text">
+      <e:P20006>eng</e:P20006>
+      <e:P20001>text</e:P20001>
+      <e:P20312>The Reigate squires</e:P20312>
+      <e:P20059 rdf:resource="urn:isbn:9781446417270"/>
+      <e:P20231 rdf:resource="http://viaf.org/viaf/65283845/thereigatesquires"/>
+   </c:C10006>
+   <c:C10006 rdf:about="http://viaf.org/viaf/65283845/theresidentpatient/eng/text">
+      <e:P20006>eng</e:P20006>
+      <e:P20001>text</e:P20001>
+      <e:P20312>The resident patient</e:P20312>
+      <e:P20059 rdf:resource="urn:isbn:9781446417270"/>
+      <e:P20231 rdf:resource="http://viaf.org/viaf/65283845/theresidentpatient"/>
+   </c:C10006>
+   <c:C10006 rdf:about="http://viaf.org/viaf/65283845/theslappingsal/eng/text">
+      <e:P20006>eng</e:P20006>
+      <e:P20001>text</e:P20001>
+      <e:P20312>The Slapping Sal</e:P20312>
+      <e:P20059 rdf:resource="urn:isbn:9781847189462"/>
+      <e:P20231 rdf:resource="http://viaf.org/viaf/65283845/theslappingsal"/>
+   </c:C10006>
+   <c:C10006 rdf:about="http://viaf.org/viaf/65283845/thestockbrokersclerk/eng/text">
+      <e:P20006>eng</e:P20006>
+      <e:P20001>text</e:P20001>
+      <e:P20312>The stockbroker's clerk</e:P20312>
+      <e:P20059 rdf:resource="urn:isbn:9781446417270"/>
+      <e:P20231 rdf:resource="http://viaf.org/viaf/65283845/thestockbrokersclerk"/>
+   </c:C10006>
+   <c:C10006 rdf:about="http://viaf.org/viaf/65283845/thesussexvampire/eng/text">
+      <e:P20006>eng</e:P20006>
+      <e:P20001>text</e:P20001>
+      <e:P20001>still image</e:P20001>
+      <e:P20312>The Sussex vampire</e:P20312>
+      <e:P20059 rdf:resource="urn:isbn:9781909621282"/>
+      <e:P20231 rdf:resource="http://viaf.org/viaf/65283845/thesussexvampire"/>
+   </c:C10006>
+   <c:C10006 rdf:about="http://viaf.org/viaf/65283845/theveiledlodger/eng/text">
+      <e:P20006>eng</e:P20006>
+      <e:P20001>text</e:P20001>
+      <e:P20001>still image</e:P20001>
+      <e:P20312>The veiled lodger</e:P20312>
+      <e:P20059 rdf:resource="urn:isbn:9781909621282"/>
+      <e:P20231 rdf:resource="http://viaf.org/viaf/65283845/theveiledlodger"/>
+   </c:C10006>
+   <c:C10006 rdf:about="http://viaf.org/viaf/65283845/theyellowface/eng/text">
+      <e:P20006>eng</e:P20006>
+      <e:P20001>text</e:P20001>
+      <e:P20312>The yellow face</e:P20312>
+      <e:P20059 rdf:resource="urn:isbn:9781600106590"/>
+      <e:P20059 rdf:resource="urn:isbn:9781446417270"/>
+      <e:P20231 rdf:resource="http://viaf.org/viaf/65283845/theyellowface"/>
+   </c:C10006>
    <c:C10006 rdf:about="http://www.wikidata.org/entity/q1129378/eng/text">
       <e:P20006>eng</e:P20006>
       <e:P20001>text</e:P20001>
       <e:P20001>still image</e:P20001>
       <e:P20312>Case-book of Sherlock Holmes.</e:P20312>
       <e:P20312>Casebook of Sherlock Holmes.</e:P20312>
+      <e:P20053 rdf:resource="robsonww"/>
       <e:P20059 rdf:resource="urn:isbn:0585065330"/>
       <e:P20059 rdf:resource="urn:isbn:9789386410016"/>
       <e:P20059 rdf:resource="urn:isbn:0192123114"/>
@@ -1595,6 +2723,7 @@
       <e:P20006>eng</e:P20006>
       <e:P20001>text</e:P20001>
       <e:P20312>Exploits of Brigadier Gerard.</e:P20312>
+      <e:P20053 rdf:resource="http://viaf.org/viaf/6111475"/>
       <e:P20059 rdf:resource="urn:isbn:9781444816037"/>
       <e:P20059 rdf:resource="urn:isbn:0862415349"/>
       <e:P20059 rdf:resource="urn:isbn:9781847189431"/>
@@ -1665,6 +2794,7 @@
       <e:P20001>text</e:P20001>
       <e:P20001>still image</e:P20001>
       <e:P20312>Scandal in Bohemia.</e:P20312>
+      <e:P20053 rdf:resource="holtronald"/>
       <e:P20059 rdf:resource="urn:isbn:0582275326"/>
       <e:P20059 rdf:resource="urn:isbn:9781600107832"/>
       <e:P20059 rdf:resource="urn:isbn:9781780926049"/>
@@ -1688,6 +2818,7 @@
    <c:C10006 rdf:about="http://www.wikidata.org/entity/q2740092/eng/text">
       <e:P20006>eng</e:P20006>
       <e:P20001>text</e:P20001>
+      <e:P20053 rdf:resource="hainingpeter"/>
       <e:P20059 rdf:resource="urn:isbn:0727808834"/>
       <e:P20059 rdf:resource="urn:isbn:0006918859"/>
       <e:P20059 rdf:resource="urn:isbn:9781780280165"/>
@@ -1757,6 +2888,7 @@
    <c:C10006 rdf:about="http://www.wikidata.org/entity/q5295669/eng/text">
       <e:P20006>eng</e:P20006>
       <e:P20001>text</e:P20001>
+      <e:P20053 rdf:resource="edmondsmartin"/>
       <e:P20059 rdf:resource="urn:isbn:0953483819"/>
       <e:P20231 rdf:resource="http://www.wikidata.org/entity/q5295669"/>
    </c:C10006>
@@ -1771,6 +2903,8 @@
       <e:P20006>eng</e:P20006>
       <e:P20001>text</e:P20001>
       <e:P20312>Return of Sherlock Holmes.</e:P20312>
+      <e:P20053 rdf:resource="http://viaf.org/viaf/44372717"/>
+      <e:P20053 rdf:resource="bollingermax"/>
       <e:P20059 rdf:resource="urn:isbn:9780486478739"/>
       <e:P20059 rdf:resource="urn:isbn:9780141034362"/>
       <e:P20059 rdf:resource="urn:isbn:9781435114944"/>
@@ -1823,6 +2957,8 @@
       <e:P20001>text</e:P20001>
       <e:P20001>still image</e:P20001>
       <e:P20312>Memoirs of Sherlock Holmes.</e:P20312>
+      <e:P20053 rdf:resource="rodenchristopher"/>
+      <e:P20053 rdf:resource="bollingermax"/>
       <e:P20059 rdf:resource="urn:isbn:9781848378926"/>
       <e:P20059 rdf:resource="urn:isbn:9781444807066"/>
       <e:P20059 rdf:resource="urn:isbn:9780141035437"/>
@@ -1874,6 +3010,84 @@
       <e:P20001>text</e:P20001>
       <e:P20059 rdf:resource="urn:isbn:090600523"/>
       <e:P20231 rdf:resource="http://www.wikidata.org/entity/q961957"/>
+   </c:C10006>
+   <c:C10006 rdf:about="koplpetr/pesbaskervillsky/eng/text">
+      <e:P20006>eng</e:P20006>
+      <e:P20006>English</e:P20006>
+      <e:P20001>text</e:P20001>
+      <e:P20001>still image</e:P20001>
+      <e:P20037 rdf:resource="simpsonpaulmichael"/>
+      <e:P20037 rdf:resource="simpsonjana"/>
+      <e:P20059 rdf:resource="urn:isbn:9781780927237"/>
+      <e:P20231 rdf:resource="koplpetr/pesbaskervillsky"/>
+   </c:C10006>
+   <c:C10006 rdf:about="koplpetr/skandalvcechach/eng/text">
+      <e:P20006>eng</e:P20006>
+      <e:P20006>English</e:P20006>
+      <e:P20001>text</e:P20001>
+      <e:P20037 rdf:resource="simpsonpaulmichael"/>
+      <e:P20037 rdf:resource="simpsonjana"/>
+      <e:P20059 rdf:resource="urn:isbn:9781780926803"/>
+      <e:P20231 rdf:resource="koplpetr/skandalvcechach"/>
+   </c:C10006>
+   <c:C10006 rdf:about="lefanujosephsheridan/carmilla/eng/text">
+      <e:P20006>eng</e:P20006>
+      <e:P20001>text</e:P20001>
+      <e:P20059 rdf:resource="urn:isbn:9781780280165"/>
+      <e:P20231 rdf:resource="lefanujosephsheridan/carmilla"/>
+   </c:C10006>
+   <c:C10006 rdf:about="maupassantguyde/horla/eng/text">
+      <e:P20006>eng</e:P20006>
+      <e:P20001>text</e:P20001>
+      <e:P20059 rdf:resource="urn:isbn:9781780280165"/>
+      <e:P20231 rdf:resource="maupassantguyde/horla"/>
+   </c:C10006>
+   <c:C10006 rdf:about="moffettcleveland/mysteriouscard/eng/text">
+      <e:P20006>eng</e:P20006>
+      <e:P20001>text</e:P20001>
+      <e:P20312>Mysterious card.</e:P20312>
+      <e:P20059 rdf:resource="urn:isbn:9780230441200"/>
+      <e:P20231 rdf:resource="moffettcleveland/mysteriouscard"/>
+   </c:C10006>
+   <c:C10006 rdf:about="polidorijohnwilliam/vampyre/eng/text">
+      <e:P20006>eng</e:P20006>
+      <e:P20001>text</e:P20001>
+      <e:P20059 rdf:resource="urn:isbn:9781780280165"/>
+      <e:P20231 rdf:resource="polidorijohnwilliam/vampyre"/>
+   </c:C10006>
+   <c:C10006 rdf:about="quinntim/bluecarbuncle/eng/text">
+      <e:P20006>eng</e:P20006>
+      <e:P20001>text</e:P20001>
+      <e:P20312>Blue carbuncle.</e:P20312>
+      <e:P20059 rdf:resource="urn:isbn:0006940609"/>
+      <e:P20231 rdf:resource="quinntim/bluecarbuncle"/>
+   </c:C10006>
+   <c:C10006 rdf:about="scottn/russianconnectionandothernewadventures/eng/text">
+      <e:P20006>eng</e:P20006>
+      <e:P20001>text</e:P20001>
+      <e:P20312>Russian connection and other new adventures.</e:P20312>
+      <e:P20059 rdf:resource="urn:isbn:9780750542159"/>
+      <e:P20231 rdf:resource="scottn/russianconnectionandothernewadventures"/>
+   </c:C10006>
+   <c:C10006 rdf:about="stevensonrobertlouis/treasureisland/eng/text">
+      <e:P20006>eng</e:P20006>
+      <e:P20001>text</e:P20001>
+      <e:P20312>Treasure island.</e:P20312>
+      <e:P20059 rdf:resource="urn:isbn:9781910486085"/>
+      <e:P20231 rdf:resource="stevensonrobertlouis/treasureisland"/>
+   </c:C10006>
+   <c:C10006 rdf:about="stocktonfrankrichard/ladyorthetiger/eng/text">
+      <e:P20006>eng</e:P20006>
+      <e:P20001>text</e:P20001>
+      <e:P20312>Lady or the tiger?</e:P20312>
+      <e:P20059 rdf:resource="urn:isbn:9780230441200"/>
+      <e:P20231 rdf:resource="stocktonfrankrichard/ladyorthetiger"/>
+   </c:C10006>
+   <c:C10006 rdf:about="stokerbram/draculasguest/eng/text">
+      <e:P20006>eng</e:P20006>
+      <e:P20001>text</e:P20001>
+      <e:P20059 rdf:resource="urn:isbn:9781780280165"/>
+      <e:P20231 rdf:resource="stokerbram/draculasguest"/>
    </c:C10006>
    <c:C10007 rdf:about="http://example.org/006971588">
       <marc:M001>006971588</marc:M001>
@@ -1944,6 +3158,7 @@
       <marc:M001>008997472</marc:M001>
       <m:P30156>The lost world : a shortened version edited with notes and exercises by Kenneth Pinnock, illustrated by Will H.Maile</m:P30156>
       <m:P30182>225 pages :</m:P30182>
+      <marc:M30000b>illustrations ;</marc:M30000b>
       <m:P30169>18 cm</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -1954,6 +3169,7 @@
       <m:P30156>Rodney Stone</m:P30156>
       <m:P30117>a shortened version edited with notes and exercises by Kenneth Pinnock, illustrated by Kathleen M.Morris</m:P30117>
       <m:P30182>224 pages :</m:P30182>
+      <marc:M30000b>illustrations ;</marc:M30000b>
       <m:P30169>18 cm</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -2004,6 +3220,7 @@
       <m:P30117>with notes and exercises by A.E.Smith ; illustrated by John Mackay</m:P30117>
       <m:P30107>Slightly abridged ed!.</m:P30107>
       <m:P30182>209 pages :</m:P30182>
+      <marc:M30000b>illustrations ;</marc:M30000b>
       <m:P30169>18 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -2016,6 +3233,7 @@
       <m:P30117>by Sir Arthur Conan Doyle ; illustrated by Bruce Drysdale</m:P30117>
       <m:P30107>Slightly abridged ed.</m:P30107>
       <m:P30182>297 pages :</m:P30182>
+      <marc:M30000b>illustrations ;</marc:M30000b>
       <m:P30169>18 cm</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -2029,6 +3247,7 @@
       <m:P30083>Folio Society</m:P30083>
       <m:P30011>1977</m:P30011>
       <m:P30182>195p.,[11]leaves of plates :</m:P30182>
+      <marc:M30000b>ill., 1map ;</marc:M30000b>
       <m:P30169>23cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -2066,6 +3285,7 @@
       <m:P30156>The sign of four</m:P30156>
       <m:P30117>with an introduction by A.E.Smith and illustrations by Anne Linton</m:P30117>
       <m:P30182>162 pages :</m:P30182>
+      <marc:M30000b>illustrations ;</marc:M30000b>
       <m:P30169>18 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -2089,6 +3309,7 @@
       <m:P30083>Folio</m:P30083>
       <m:P30011>1987</m:P30011>
       <m:P30182>182p. :</m:P30182>
+      <marc:M30000b>ill. ;</marc:M30000b>
       <m:P30169>23cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -2100,6 +3321,7 @@
       <m:P30117>with notes and exercises by A.E.Smith;illustrated by Bruce Drysdale</m:P30117>
       <m:P30107>(Slightly abridged ed.).</m:P30107>
       <m:P30182>310 pages :</m:P30182>
+      <marc:M30000b>illustrations ;</marc:M30000b>
       <m:P30169>18 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -2174,6 +3396,7 @@
       <m:P30083>Reader's Digest</m:P30083>
       <m:P30011>c1991</m:P30011>
       <m:P30182>301p. :</m:P30182>
+      <marc:M30000b>ill. ;</marc:M30000b>
       <m:P30169>24cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -2619,6 +3842,7 @@
       <m:P30011>c2011</m:P30011>
       <m:P30182>319 p. ;</m:P30182>
       <m:P30169>24 cm. +</m:P30169>
+      <marc:M30000e>1 pamphlet (4 p. : ill. ; 22 cm.).</marc:M30000e>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
       <m:P30106>The world's best reading</m:P30106>
@@ -2634,6 +3858,7 @@
       <m:P30083>Collins ELT</m:P30083>
       <m:P30011>1988</m:P30011>
       <m:P30182>79p. :</m:P30182>
+      <marc:M30000b>ill. ;</marc:M30000b>
       <m:P30169>18cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -2649,6 +3874,7 @@
       <m:P30083>Armada</m:P30083>
       <m:P30011>1981</m:P30011>
       <m:P30182>159p. :</m:P30182>
+      <marc:M30000b>ill. ;</marc:M30000b>
       <m:P30169>18cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -2663,6 +3889,7 @@
       <m:P30083>Collins Lions</m:P30083>
       <m:P30011>1991</m:P30011>
       <m:P30182>[48]p. :</m:P30182>
+      <marc:M30000b>chiefly ill. ;</marc:M30000b>
       <m:P30169>30cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -2677,10 +3904,12 @@
       <m:P30083>Collins Lions</m:P30083>
       <m:P30011>1991</m:P30011>
       <m:P30182>[48]p. :</m:P30182>
+      <marc:M30000b>chiefly ill. ;</marc:M30000b>
       <m:P30169>30cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
       <m:P30106>Graphic novel</m:P30106>
+      <m:P30139 rdf:resource="quinntim/bluecarbuncle/eng/text"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:006075883">
       <marc:M001>013458973</marc:M001>
@@ -2707,10 +3936,13 @@
       <m:P30083>Pergamon</m:P30083>
       <m:P30011>1970</m:P30011>
       <m:P30182>[5],169p.,7 leaves :</m:P30182>
+      <marc:M30000b>ill. ;</marc:M30000b>
       <m:P30169>21cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
       <m:P30106>The Pergamon English library</m:P30106>
+      <m:P30139 rdf:resource="dobbsfrank/redwind/eng/text"/>
+      <m:P30139 rdf:resource="dobbsfrank/thirdman/eng/text"/>
       <m:P30139 rdf:resource="http://viaf.org/viaf/181846531/eng/text"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:0099300702">
@@ -2822,6 +4054,7 @@
       <m:P30083>Penguin</m:P30083>
       <m:P30011>1981</m:P30011>
       <m:P30182>179p. :</m:P30182>
+      <marc:M30000b>ill. ;</marc:M30000b>
       <m:P30169>19cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -2864,6 +4097,7 @@
       <m:P30083>Puffin</m:P30083>
       <m:P30011>1981</m:P30011>
       <m:P30182>263p. :</m:P30182>
+      <marc:M30000b>ill., maps ;</marc:M30000b>
       <m:P30169>18cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -2893,6 +4127,7 @@
       <m:P30011>1981</m:P30011>
       <m:P30109>(1982 [printing])</m:P30109>
       <m:P30182>263p. :</m:P30182>
+      <marc:M30000b>ill. ;</marc:M30000b>
       <m:P30169>18cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -3058,6 +4293,7 @@
       <m:P30083>Penguin English</m:P30083>
       <m:P30011>1991</m:P30011>
       <m:P30182>47p. :</m:P30182>
+      <marc:M30000b>ill. ;</marc:M30000b>
       <m:P30169>20cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -3072,6 +4308,7 @@
       <m:P30083>Penguin</m:P30083>
       <m:P30011>1991</m:P30011>
       <m:P30182>45p. :</m:P30182>
+      <marc:M30000b>ill., 1 map ;</marc:M30000b>
       <m:P30169>20cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -3258,6 +4495,7 @@
       <m:P30011>1999</m:P30011>
       <m:P30109>(2001 [printing])</m:P30109>
       <m:P30182>[28] p. :</m:P30182>
+      <marc:M30000b>col. ill. ;</marc:M30000b>
       <m:P30169>22 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -3272,6 +4510,7 @@
       <m:P30083>Oxford University Press</m:P30083>
       <m:P30011>1999</m:P30011>
       <m:P30182>[33]p. :</m:P30182>
+      <marc:M30000b>chiefly col. ill. ;</marc:M30000b>
       <m:P30169>28cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -3440,6 +4679,7 @@
       <m:P30083>Oxford University Press</m:P30083>
       <m:P30011>1995</m:P30011>
       <m:P30182>xxiii,189p. :</m:P30182>
+      <marc:M30000b>ill., 1map ;</marc:M30000b>
       <m:P30169>20cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -3486,6 +4726,7 @@
       <m:P30083>Oxford University Press</m:P30083>
       <m:P30011>1989</m:P30011>
       <m:P30182>91p. :</m:P30182>
+      <marc:M30000b>ill. ;</marc:M30000b>
       <m:P30169>20cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -3501,10 +4742,12 @@
       <m:P30083>Oxford University Press</m:P30083>
       <m:P30011>2002</m:P30011>
       <m:P30182>56 p. :</m:P30182>
+      <marc:M30000b>ill., 1 map ;</marc:M30000b>
       <m:P30169>20 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
       <m:P30106>Oxford bookworms library. Crime &amp; mystery. Stage 1</m:P30106>
+      <m:P30321 rdf:resource="tinerron"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:0194243400">
       <marc:M001>011944396</marc:M001>
@@ -3515,10 +4758,12 @@
       <m:P30083>Oxford University Press</m:P30083>
       <m:P30011>2002</m:P30011>
       <m:P30182>44 p. :</m:P30182>
+      <marc:M30000b>ill. (some col.), ports. ;</marc:M30000b>
       <m:P30169>21 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
       <m:P30106>Dominoes. One</m:P30106>
+      <m:P30321 rdf:resource="scottsusan"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:0195852575">
       <marc:M001>012596097</marc:M001>
@@ -3544,6 +4789,7 @@
       <m:P30083>Oxford University Press</m:P30083>
       <m:P30011>1992</m:P30011>
       <m:P30182>89p. :</m:P30182>
+      <marc:M30000b>ill. ;</marc:M30000b>
       <m:P30169>21cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -3560,6 +4806,7 @@
       <m:P30083>Oxford University Press</m:P30083>
       <m:P30011>1973</m:P30011>
       <m:P30182>[9],113p. :</m:P30182>
+      <marc:M30000b>col ill., 1map ;</marc:M30000b>
       <m:P30169>22cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -3575,6 +4822,7 @@
       <m:P30083>Oxford University Press</m:P30083>
       <m:P30011>2004</m:P30011>
       <m:P30182>128 p. :</m:P30182>
+      <marc:M30000b>ill., 1 port. ;</marc:M30000b>
       <m:P30169>22 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -3592,6 +4840,7 @@
       <m:P30083>Cape</m:P30083>
       <m:P30011>1974</m:P30011>
       <m:P30182>196p. :</m:P30182>
+      <marc:M30000b>ill(on lining papers) ;</marc:M30000b>
       <m:P30169>21cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -3625,6 +4874,7 @@
       <m:P30083>Cape</m:P30083>
       <m:P30011>1974</m:P30011>
       <m:P30182>134p. :</m:P30182>
+      <marc:M30000b>ill(on lining papers) ;</marc:M30000b>
       <m:P30169>21cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -3658,6 +4908,7 @@
       <m:P30083>Cape</m:P30083>
       <m:P30011>1974</m:P30011>
       <m:P30182>261p. :</m:P30182>
+      <marc:M30000b>ill(on lining papers) ;</marc:M30000b>
       <m:P30169>21cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -3675,6 +4926,7 @@
       <m:P30083>Cape</m:P30083>
       <m:P30011>1974</m:P30011>
       <m:P30182>266p. :</m:P30182>
+      <marc:M30000b>ill., 1plan ;</marc:M30000b>
       <m:P30169>21cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -3692,6 +4944,7 @@
       <m:P30083>Cape</m:P30083>
       <m:P30011>1974</m:P30011>
       <m:P30182>344p. :</m:P30182>
+      <marc:M30000b>ill(on lining papers) ;</marc:M30000b>
       <m:P30169>21cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -3709,6 +4962,7 @@
       <m:P30083>Cape</m:P30083>
       <m:P30011>1974</m:P30011>
       <m:P30182>212p. :</m:P30182>
+      <marc:M30000b>ill(on lining papers) ;</marc:M30000b>
       <m:P30169>21cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -3726,6 +4980,7 @@
       <m:P30083>Cape</m:P30083>
       <m:P30011>1974</m:P30011>
       <m:P30182>317p. :</m:P30182>
+      <marc:M30000b>ill(on lining papers) ;</marc:M30000b>
       <m:P30169>21cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -3759,6 +5014,7 @@
       <m:P30083>Cape</m:P30083>
       <m:P30011>1975</m:P30011>
       <m:P30182>377p. :</m:P30182>
+      <marc:M30000b>maps ;</marc:M30000b>
       <m:P30169>21cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -3775,6 +5031,7 @@
       <m:P30083>Cape</m:P30083>
       <m:P30011>1975</m:P30011>
       <m:P30182>441p. :</m:P30182>
+      <marc:M30000b>1map ;</marc:M30000b>
       <m:P30169>21cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -3809,6 +5066,7 @@
       <m:P30083>Cape</m:P30083>
       <m:P30011>1979</m:P30011>
       <m:P30182>241p. :</m:P30182>
+      <marc:M30000b>ill., maps ;</marc:M30000b>
       <m:P30169>21cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -3971,6 +5229,7 @@
       <m:P30083>Pan Books</m:P30083>
       <m:P30011>1976</m:P30011>
       <m:P30182>335p. :</m:P30182>
+      <marc:M30000b>maps ;</marc:M30000b>
       <m:P30169>18cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -3986,6 +5245,7 @@
       <m:P30083>Pan Books</m:P30083>
       <m:P30011>1976</m:P30011>
       <m:P30182>382p. :</m:P30182>
+      <marc:M30000b>maps ;</marc:M30000b>
       <m:P30169>18cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -4017,6 +5277,7 @@
       <m:P30011>1980</m:P30011>
       <m:P30011>1977</m:P30011>
       <m:P30182>[7],214p. :</m:P30182>
+      <marc:M30000b>1 ill., 2 maps ;</marc:M30000b>
       <m:P30169>18cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -4045,10 +5306,12 @@
       <m:P30083>Pan Books</m:P30083>
       <m:P30011>1977</m:P30011>
       <m:P30182>123p. :</m:P30182>
+      <marc:M30000b>ill. ;</marc:M30000b>
       <m:P30169>20cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
       <m:P30106>Piccolo adventure library</m:P30106>
+      <m:P30321 rdf:resource="barlingtom"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:0340774649">
       <marc:M001>011318511</marc:M001>
@@ -4059,6 +5322,7 @@
       <m:P30083>Hodder &amp; Stoughton</m:P30083>
       <m:P30011>2000</m:P30011>
       <m:P30182>28 p. :</m:P30182>
+      <marc:M30000b>ill., 1 port. ;</marc:M30000b>
       <m:P30169>22 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -4073,6 +5337,7 @@
       <m:P30083>Hodder &amp; Stoughton in association with the Basic Skills Agency</m:P30083>
       <m:P30011>2001</m:P30011>
       <m:P30182>vi, 58 p. :</m:P30182>
+      <marc:M30000b>ill. ;</marc:M30000b>
       <m:P30169>25 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -4088,6 +5353,7 @@
       <m:P30083>Purnell</m:P30083>
       <m:P30011>1985</m:P30011>
       <m:P30182>194p. :</m:P30182>
+      <marc:M30000b>ill. ;</marc:M30000b>
       <m:P30169>21cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -4103,6 +5369,7 @@
       <m:P30083>Purnell</m:P30083>
       <m:P30011>c1989</m:P30011>
       <m:P30182>236p. :</m:P30182>
+      <marc:M30000b>ill. ;</marc:M30000b>
       <m:P30169>21cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -4138,6 +5405,7 @@
       <m:P30083>W. W. Norton</m:P30083>
       <m:P30011>c2006</m:P30011>
       <m:P30182>xiv, 907 p. :</m:P30182>
+      <marc:M30000b>ill. ;</marc:M30000b>
       <m:P30169>26 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -4155,6 +5423,7 @@
       <m:P30083>Methuen Children's</m:P30083>
       <m:P30011>1989</m:P30011>
       <m:P30182>239p. :</m:P30182>
+      <marc:M30000b>ill. ;</marc:M30000b>
       <m:P30169>18cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -4183,10 +5452,12 @@
       <m:P30083>Heinemann</m:P30083>
       <m:P30011>2000</m:P30011>
       <m:P30182>32 p. :</m:P30182>
+      <marc:M30000b>ill. ;</marc:M30000b>
       <m:P30169>20 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
       <m:P30106>High impact</m:P30106>
+      <m:P30321 rdf:resource="wilkspeter"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:0435270915">
       <marc:M001>007375715</marc:M001>
@@ -4197,11 +5468,13 @@
       <m:P30083>Heinemann Educational</m:P30083>
       <m:P30011>1983</m:P30011>
       <m:P30182>58p. :</m:P30182>
+      <marc:M30000b>ill. ;</marc:M30000b>
       <m:P30169>18cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
       <m:P30106>Heinemann guided readers. Intermediate level ;</m:P30106>
       <m:P30165>32</m:P30165>
+      <m:P30321 rdf:resource="wilsonkaymary"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:0435271075">
       <marc:M001>007375719</marc:M001>
@@ -4212,6 +5485,7 @@
       <m:P30083>Heinemann Educational</m:P30083>
       <m:P30011>1986</m:P30011>
       <m:P30182>73p. :</m:P30182>
+      <marc:M30000b>ill. ;</marc:M30000b>
       <m:P30169>18cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -4309,6 +5583,7 @@
       <m:P30083>French</m:P30083>
       <m:P30011>1976</m:P30011>
       <m:P30182>72p. :</m:P30182>
+      <marc:M30000b>1plan ;</marc:M30000b>
       <m:P30169>19cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -4323,6 +5598,7 @@
       <m:P30083>French</m:P30083>
       <m:P30011>1976</m:P30011>
       <m:P30182>144p. :</m:P30182>
+      <marc:M30000b>plans ;</marc:M30000b>
       <m:P30169>19cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -4365,6 +5641,7 @@
       <m:P30083>Longman</m:P30083>
       <m:P30011>1996</m:P30011>
       <m:P30182>ii, 90 p. :</m:P30182>
+      <marc:M30000b>ill. ;</marc:M30000b>
       <m:P30169>20 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -4381,6 +5658,7 @@
       <m:P30083>Pearson Education</m:P30083>
       <m:P30011>1999, c1991</m:P30011>
       <m:P30182>vii, 38 p. :</m:P30182>
+      <marc:M30000b>ill., 1 map ;</marc:M30000b>
       <m:P30169>20 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -4490,6 +5768,7 @@
       <m:P30083>Longman</m:P30083>
       <m:P30011>1980</m:P30011>
       <m:P30182>xxxix,290p. :</m:P30182>
+      <marc:M30000b>1 ill. ;</marc:M30000b>
       <m:P30169>19cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -4505,6 +5784,7 @@
       <m:P30083>Longman</m:P30083>
       <m:P30011>1980</m:P30011>
       <m:P30182>xxxix,371p. :</m:P30182>
+      <marc:M30000b>ill., 1map ;</marc:M30000b>
       <m:P30169>19cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -4535,6 +5815,7 @@
       <m:P30083>Longman</m:P30083>
       <m:P30011>1980</m:P30011>
       <m:P30182>xxx,254p. :</m:P30182>
+      <marc:M30000b>maps ;</marc:M30000b>
       <m:P30169>19cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -4777,6 +6058,7 @@
       <m:P30083>Hamlyn</m:P30083>
       <m:P30011>1986</m:P30011>
       <m:P30182>191p. :</m:P30182>
+      <marc:M30000b>ill. ;</marc:M30000b>
       <m:P30169>22cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -4854,6 +6136,7 @@
       <m:P30004>urn:isbn:0719517850</m:P30004>
       <m:P30156>The White Company</m:P30156>
       <m:P30182>370 pages :</m:P30182>
+      <marc:M30000b>illustrations ;</marc:M30000b>
       <m:P30169>18 cm</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -4866,6 +6149,7 @@
       <m:P30117>by Sir Arthue Conan Doyle ; illustrated by John Mackay</m:P30117>
       <m:P30107>Slightlly abridged ed.</m:P30107>
       <m:P30182>194 pages :</m:P30182>
+      <marc:M30000b>illustrations ;</marc:M30000b>
       <m:P30169>18 cm</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -4881,6 +6165,7 @@
       <m:P30083>Cape</m:P30083>
       <m:P30011>1979</m:P30011>
       <m:P30182>388 p. :</m:P30182>
+      <marc:M30000b>ill. ;</marc:M30000b>
       <m:P30169>24 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -4897,6 +6182,7 @@
       <m:P30083>Ladybird</m:P30083>
       <m:P30011>c1981</m:P30011>
       <m:P30182>51 p. :</m:P30182>
+      <marc:M30000b>col. ill. ;</marc:M30000b>
       <m:P30169>18 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -4911,6 +6197,7 @@
       <m:P30083>Ladybird</m:P30083>
       <m:P30011>c1982</m:P30011>
       <m:P30182>51p. :</m:P30182>
+      <marc:M30000b>col.ill. ;</marc:M30000b>
       <m:P30169>18cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -4922,10 +6209,12 @@
       <m:P30156>The lost world</m:P30156>
       <m:P30117>by Sir Arthur Conan Doyle ; retold by Joan Collins ; illustrated by Martin Aitchison</m:P30117>
       <m:P30182>51 pages :</m:P30182>
+      <marc:M30000b>illustrations (colour) ;</marc:M30000b>
       <m:P30169>17 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
       <m:P30106>Ladybird children's classics</m:P30106>
+      <m:P30321 rdf:resource="aitchisonmartin"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:0727808834">
       <marc:M001>009432776</marc:M001>
@@ -4936,6 +6225,7 @@
       <m:P30083>Severn</m:P30083>
       <m:P30011>1983, c1981</m:P30011>
       <m:P30182>159p. :</m:P30182>
+      <marc:M30000b>ill. ;</marc:M30000b>
       <m:P30169>21cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -4965,6 +6255,7 @@
       <m:P30083>Stanley Thornes</m:P30083>
       <m:P30011>1996</m:P30011>
       <m:P30182>243p. :</m:P30182>
+      <marc:M30000b>ill. ;</marc:M30000b>
       <m:P30169>24cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -4980,6 +6271,7 @@
       <m:P30083>A. Sutton</m:P30083>
       <m:P30011>1995</m:P30011>
       <m:P30182>vii,291p. :</m:P30182>
+      <marc:M30000b>maps ;</marc:M30000b>
       <m:P30169>20cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -5024,6 +6316,7 @@
       <m:P30011>1987</m:P30011>
       <m:P30109>(2001 [printing])</m:P30109>
       <m:P30182>496 p. :</m:P30182>
+      <marc:M30000b>ill. ;</marc:M30000b>
       <m:P30169>22 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -5094,6 +6387,7 @@
       <m:P30083>House of Stratus</m:P30083>
       <m:P30011>2001</m:P30011>
       <m:P30182>iv, 362 p. :</m:P30182>
+      <marc:M30000b>ill. ;</marc:M30000b>
       <m:P30169>21 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -5284,6 +6578,7 @@
       <m:P30083>Garland Publishing, Inc</m:P30083>
       <m:P30011>1976</m:P30011>
       <m:P30182>[10],249p.,[7] leaves of plates :</m:P30182>
+      <marc:M30000b>ill. ;</marc:M30000b>
       <m:P30169>23cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -5393,6 +6688,7 @@
       <m:P30083>Ian Henry</m:P30083>
       <m:P30011>c1991</m:P30011>
       <m:P30182>50p. :</m:P30182>
+      <marc:M30000b>ill. ;</marc:M30000b>
       <m:P30169>21cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -5408,6 +6704,7 @@
       <m:P30083>Ian Henry</m:P30083>
       <m:P30011>c1991</m:P30011>
       <m:P30182>45p. :</m:P30182>
+      <marc:M30000b>ill., ports. ;</marc:M30000b>
       <m:P30169>21cm.</m:P30169>
       <m:P30182>42p. :</m:P30182>
       <m:P30001>unmediated</m:P30001>
@@ -5468,6 +6765,7 @@
       <m:P30083>Alan Sutton</m:P30083>
       <m:P30011>1983</m:P30011>
       <m:P30182>vii,199p. :</m:P30182>
+      <marc:M30000b>ill. ;</marc:M30000b>
       <m:P30169>17cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -5497,6 +6795,7 @@
       <m:P30083>Marshall Cavendish</m:P30083>
       <m:P30011>c1987</m:P30011>
       <m:P30182>1 portfolio :</m:P30182>
+      <marc:M30000b>ill.(some col.), ports.(some col.),facsims. ;</marc:M30000b>
       <m:P30169>30cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>sheet</m:P30002>
@@ -5511,6 +6810,7 @@
       <m:P30083>New Playwrights' Network</m:P30083>
       <m:P30011>[1991?]</m:P30011>
       <m:P30182>69p. :</m:P30182>
+      <marc:M30000b>plans ;</marc:M30000b>
       <m:P30169>18cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -5524,6 +6824,7 @@
       <m:P30083>Webb &amp; Bower</m:P30083>
       <m:P30011>1985</m:P30011>
       <m:P30182>1 portfolio :</m:P30182>
+      <marc:M30000b>ill., facsims.,1map,ports.,samples ;</marc:M30000b>
       <m:P30169>27cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>sheet</m:P30002>
@@ -5538,6 +6839,7 @@
       <m:P30083>Webb &amp; Bower</m:P30083>
       <m:P30011>1984</m:P30011>
       <m:P30182>1 portfolio :</m:P30182>
+      <marc:M30000b>ill., facsims. ;</marc:M30000b>
       <m:P30169>27cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>sheet</m:P30002>
@@ -5555,6 +6857,7 @@
       <m:P30182>1 v ;</m:P30182>
       <m:P30169>3 mm.</m:P30169>
       <m:P30182>1 v :</m:P30182>
+      <marc:M30000b>ill. ;</marc:M30000b>
       <m:P30169>28mm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -5601,6 +6904,7 @@
       <m:P30083>Webb &amp; Bower</m:P30083>
       <m:P30011>1983</m:P30011>
       <m:P30182>1 v. :</m:P30182>
+      <marc:M30000b>ill. ;</marc:M30000b>
       <m:P30169>27cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -5614,6 +6918,7 @@
       <m:P30083>Chancellor</m:P30083>
       <m:P30011>1985</m:P30011>
       <m:P30182>986p. :</m:P30182>
+      <marc:M30000b>ill. ;</marc:M30000b>
       <m:P30169>22cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -5628,6 +6933,7 @@
       <m:P30083>Hanbury Plays</m:P30083>
       <m:P30011>c1977</m:P30011>
       <m:P30182>70p. :</m:P30182>
+      <marc:M30000b>plans ;</marc:M30000b>
       <m:P30169>22cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -5700,6 +7006,7 @@
       <m:P30083>Hawk Books</m:P30083>
       <m:P30011>1990</m:P30011>
       <m:P30182>1 v :</m:P30182>
+      <marc:M30000b>col ill. ;</marc:M30000b>
       <m:P30169>28cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -5714,6 +7021,7 @@
       <m:P30083>Michael O'Mara</m:P30083>
       <m:P30011>1987</m:P30011>
       <m:P30182>304p.,[12]leaves of plates :</m:P30182>
+      <marc:M30000b>ill(some col.) ;</marc:M30000b>
       <m:P30169>26cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -5728,6 +7036,7 @@
       <m:P30083>Oakmagic</m:P30083>
       <m:P30011>1996</m:P30011>
       <m:P30182>[26] p. :</m:P30182>
+      <marc:M30000b>ill., 1 map, 1 port. ;</marc:M30000b>
       <m:P30169>21 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -5771,6 +7080,7 @@
       <m:P30083>Chris Lloyd [distributor]</m:P30083>
       <m:P30011>2005</m:P30011>
       <m:P30182>151 p. :</m:P30182>
+      <marc:M30000b>ill. ;</marc:M30000b>
       <m:P30169>20 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -5864,6 +7174,7 @@
       <m:P30083>Express Publishing</m:P30083>
       <m:P30011>2003</m:P30011>
       <m:P30182>31 p. :</m:P30182>
+      <marc:M30000b>col. ill. ;</marc:M30000b>
       <m:P30169>25 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -5879,6 +7190,7 @@
       <m:P30083>Peerage Books</m:P30083>
       <m:P30011>1985, c1983</m:P30011>
       <m:P30182>[270]p. :</m:P30182>
+      <marc:M30000b>ill., facsims.,maps ;</marc:M30000b>
       <m:P30169>27cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -5929,6 +7241,7 @@
       <m:P30011>1985</m:P30011>
       <m:P30109>(1994 [printing])</m:P30109>
       <m:P30182>992p. :</m:P30182>
+      <marc:M30000b>ill., ports. ;</marc:M30000b>
       <m:P30169>22cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -5946,6 +7259,7 @@
       <m:P30109>(1993[printing])</m:P30109>
       <m:P30109>(1995 [printing])</m:P30109>
       <m:P30182>446 p. :</m:P30182>
+      <marc:M30000b>ill. ;</marc:M30000b>
       <m:P30169>18 cm.</m:P30169>
       <m:P30182>446p. :</m:P30182>
       <m:P30169>18cm.</m:P30169>
@@ -5965,6 +7279,7 @@
       <m:P30083>Wordsworth</m:P30083>
       <m:P30011>1993</m:P30011>
       <m:P30182>309p. :</m:P30182>
+      <marc:M30000b>ill. ;</marc:M30000b>
       <m:P30169>18cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -5980,6 +7295,7 @@
       <m:P30083>Wordsworth</m:P30083>
       <m:P30011>1993</m:P30011>
       <m:P30182>1 v. (various pagings) :</m:P30182>
+      <marc:M30000b>ill. ;</marc:M30000b>
       <m:P30169>18cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -6007,6 +7323,7 @@
       <m:P30083>Wordsworth Classics</m:P30083>
       <m:P30011>1995</m:P30011>
       <m:P30182>p448-741 :</m:P30182>
+      <marc:M30000b>ill. ;</marc:M30000b>
       <m:P30169>25cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -6103,6 +7420,7 @@
       <m:P30083>Murray</m:P30083>
       <m:P30011>c1980</m:P30011>
       <m:P30182>96p. :</m:P30182>
+      <marc:M30000b>ill. ;</marc:M30000b>
       <m:P30169>19cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -6127,6 +7445,7 @@
       <m:P30083>Murray</m:P30083>
       <m:P30011>c1980</m:P30011>
       <m:P30182>45p. :</m:P30182>
+      <marc:M30000b>ill. ;</marc:M30000b>
       <m:P30169>19cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -6384,6 +7703,7 @@
       <m:P30083>Vintage Classic</m:P30083>
       <m:P30011>2011</m:P30011>
       <m:P30182>244 p. :</m:P30182>
+      <marc:M30000b>1 map ;</marc:M30000b>
       <m:P30169>20 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -6595,6 +7915,7 @@
       <m:P30083>Penguin</m:P30083>
       <m:P30011>2012</m:P30011>
       <m:P30182>335 p. :</m:P30182>
+      <marc:M30000b>ill. ;</marc:M30000b>
       <m:P30169>20 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -6688,6 +8009,7 @@
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
       <m:P30106>Penguin English library</m:P30106>
+      <m:P30139 rdf:resource="http://viaf.org/viaf/65283845/caseofmistakenidentity/eng/text"/>
       <m:P30139 rdf:resource="http://viaf.org/viaf/175571309/eng/text"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9780141395579">
@@ -6806,10 +8128,12 @@
       <m:P30083>Puffin Books</m:P30083>
       <m:P30011>2003, ©1994</m:P30011>
       <m:P30182>1 online resource (280 pages) :</m:P30182>
+      <marc:M30000b>illustrations, map.</marc:M30000b>
       <m:P30001>computer</m:P30001>
       <m:P30002>online resource</m:P30002>
       <m:P30106>Puffin classics</m:P30106>
       <m:P30139 rdf:resource="http://viaf.org/viaf/294145857904223021237/eng/text"/>
+      <m:P30321 rdf:resource="newshamian"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9780141972312">
       <marc:M001>018513666</marc:M001>
@@ -6939,6 +8263,7 @@
       <m:P30117>Sir Arthur Conan Doyle ; retold by John Escott</m:P30117>
       <m:P30107>Simplified edition.</m:P30107>
       <m:P30182>56 pages :</m:P30182>
+      <marc:M30000b>illustrations (black and white) ;</marc:M30000b>
       <m:P30169>20 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -6950,11 +8275,13 @@
       <m:P30156>Sherlock Holmes : the emerald crown</m:P30156>
       <m:P30117>Sir Arthur Conan Doyle ; text adaptation by Janet Hardy-Gould ; illustrated by Marcela Hajdinjak-Krec</m:P30117>
       <m:P30182>44 pages :</m:P30182>
+      <marc:M30000b>illustrations (black and white, and colour) ;</marc:M30000b>
       <m:P30169>21 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
       <m:P30106>Dominoes one</m:P30106>
       <m:P30139 rdf:resource="http://www.wikidata.org/entity/q1201796/eng/text"/>
+      <m:P30321 rdf:resource="hajdinjakkrecmarsela"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9780194247238">
       <marc:M001>015520489</marc:M001>
@@ -6965,12 +8292,15 @@
       <m:P30117>Sir Arthur Conan Doyle ; text adaptation by Bill Bowler ; illustrated by Susan Scott</m:P30117>
       <m:P30107>[New edition].</m:P30107>
       <m:P30182>51 pages :</m:P30182>
+      <marc:M30000b>illustrations (black and white, and colour) ;</marc:M30000b>
       <m:P30169>21 cm +</m:P30169>
+      <marc:M30000e>1 CD-ROM.</marc:M30000e>
       <m:P30001>unmediated</m:P30001>
       <m:P30001>computer</m:P30001>
       <m:P30002>volume</m:P30002>
       <m:P30002>computer disc</m:P30002>
       <m:P30106>Dominoes. Level one</m:P30106>
+      <m:P30321 rdf:resource="scottsusan"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9780194247627">
       <marc:M001>015520507</marc:M001>
@@ -6979,10 +8309,12 @@
       <m:P30117>Sir Arthur Conan Doyle ; text adaptation by Janet Hardy-Gould ; illustrated by Marcela Hajdinjak-Krec</m:P30117>
       <m:P30107>[New edition].</m:P30107>
       <m:P30182>51 pages :</m:P30182>
+      <marc:M30000b>illustrations (colour) ;</marc:M30000b>
       <m:P30169>21 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
       <m:P30106>Dominoes. One</m:P30106>
+      <m:P30321 rdf:resource="hajdinjakkrecmarsela"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9780194248808">
       <marc:M001>015520588</marc:M001>
@@ -6991,6 +8323,7 @@
       <m:P30117>Sir Arthur Conan Doyle ; text adaptation by Susan Kingsley ; illustrated by Anders Westerberg</m:P30117>
       <m:P30107>[New edition].</m:P30107>
       <m:P30182>65 pages :</m:P30182>
+      <marc:M30000b>illustrations (colour) ;</marc:M30000b>
       <m:P30169>21 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -7003,10 +8336,12 @@
       <m:P30117>Sir Arthur Conan Doyle ; retold by Jennifer Bassett ; illustrated by Ron Tiner</m:P30117>
       <m:P30107>Simplified edition.</m:P30107>
       <m:P30182>56 pages :</m:P30182>
+      <marc:M30000b>illustrations (black and white), map (black and white) ;</marc:M30000b>
       <m:P30169>20 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
       <m:P30106>Oxford bookworms library. Crime &amp; mystery. Stage 1</m:P30106>
+      <m:P30321 rdf:resource="tinerron"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9780194789202">
       <marc:M001>014533922</marc:M001>
@@ -7015,10 +8350,12 @@
       <m:P30117>retold by Jennifer Bassett ; illustrated by Ron Tiner</m:P30117>
       <m:P30107>Simplified edtion.</m:P30107>
       <m:P30182>56 pages :</m:P30182>
+      <marc:M30000b>illustrations (black and white) ;</marc:M30000b>
       <m:P30169>20 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
       <m:P30106>Oxford bookworms library. Crime &amp; mystery. Stage 1</m:P30106>
+      <m:P30321 rdf:resource="tinerron"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9780194790710">
       <marc:M001>014620354</marc:M001>
@@ -7027,6 +8364,7 @@
       <m:P30117>Sir Arthur Conan Doyle ; retold by Clare West ; illustrated by Alan Marks</m:P30117>
       <m:P30107>Simplified edition.</m:P30107>
       <m:P30182>56 pages :</m:P30182>
+      <marc:M30000b>illustrations (black and white) ;</marc:M30000b>
       <m:P30169>20 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -7043,6 +8381,7 @@
       <m:P30083>Oxford University Press</m:P30083>
       <m:P30011>2008</m:P30011>
       <m:P30182>104 p. :</m:P30182>
+      <marc:M30000b>ill. ;</marc:M30000b>
       <m:P30169>20 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -7055,11 +8394,13 @@
       <m:P30117>Sir Arthur Conan Doyle ; illustrated by Jon Berkeley</m:P30117>
       <m:P30107>Second edition.</m:P30107>
       <m:P30182>vii, 92 pages :</m:P30182>
+      <marc:M30000b>illustrations (black and white) ;</marc:M30000b>
       <m:P30169>20 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
       <m:P30106>Oxford progressive English readers. Level 3</m:P30106>
       <m:P30139 rdf:resource="http://viaf.org/viaf/181625655/eng/text"/>
+      <m:P30321 rdf:resource="berkeleyjon"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9780198355359">
       <marc:M001>017389118</marc:M001>
@@ -7090,11 +8431,13 @@
       <m:P30156>The lost world</m:P30156>
       <m:P30117>by Arthur Conan Doyle, Susan Gates ; illustrated by Mark Beech</m:P30117>
       <m:P30182>96 pages :</m:P30182>
+      <marc:M30000b>illustrations (black and white) ;</marc:M30000b>
       <m:P30169>20 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
       <m:P30106>TreeTops classics, book band 14 blue</m:P30106>
       <m:P30106>Oxford reading tree</m:P30106>
+      <m:P30321 rdf:resource="beechmark"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9780199117703">
       <marc:M001>014637478</marc:M001>
@@ -7103,10 +8446,12 @@
       <m:P30156>The lost world</m:P30156>
       <m:P30117>written by Arthur Conan Doyle ; adapted by Susan Gates ; illustrated by Mark Beech</m:P30117>
       <m:P30182>96 pages :</m:P30182>
+      <marc:M30000b>illustrations (black and white) ;</marc:M30000b>
       <m:P30169>20 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
       <m:P30106>Treetops classics. Stage 15</m:P30106>
+      <m:P30321 rdf:resource="beechmark"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9780199536955">
       <marc:M001>014614000</marc:M001>
@@ -7185,6 +8530,7 @@
       <m:P30083>Oxford University Press</m:P30083>
       <m:P30011>2009</m:P30011>
       <m:P30182>lvii, 321 p. :</m:P30182>
+      <marc:M30000b>ill. ;</marc:M30000b>
       <m:P30169>20 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -7219,6 +8565,10 @@
       <m:P30002>volume</m:P30002>
       <m:P30106>Macmillan literature collections</m:P30106>
       <m:P30139 rdf:resource="http://www.wikidata.org/entity/q7748730/eng/text"/>
+      <m:P30139 rdf:resource="moffettcleveland/mysteriouscard/eng/text"/>
+      <m:P30139 rdf:resource="dahlroald/mildenhalltreasure/eng/text"/>
+      <m:P30139 rdf:resource="gilmancharlotteperkins/yellowwallpaper/eng/text"/>
+      <m:P30139 rdf:resource="stocktonfrankrichard/ladyorthetiger/eng/text"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9780237532772">
       <marc:M001>013578050</marc:M001>
@@ -7231,7 +8581,9 @@
       <m:P30083>Evans</m:P30083>
       <m:P30011>2007</m:P30011>
       <m:P30182>48, 7 p. :</m:P30182>
+      <marc:M30000b>ill. ;</marc:M30000b>
       <m:P30169>21 cm. +</m:P30169>
+      <marc:M30000e>1 audio CD.</marc:M30000e>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
       <m:P30106>Fast track classics</m:P30106>
@@ -7466,7 +8818,9 @@
       <m:P30156>The hound of the Baskervilles</m:P30156>
       <m:P30117>retold by Pauline Francis</m:P30117>
       <m:P30182>48, 7 pages :</m:P30182>
+      <marc:M30000b>illustrations ;</marc:M30000b>
       <m:P30169>21 cm +</m:P30169>
+      <marc:M30000e>1 CD.</marc:M30000e>
       <m:P30001>unmediated</m:P30001>
       <m:P30001>audio</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -7549,6 +8903,7 @@
       <m:P30156>The hound of the Baskervilles</m:P30156>
       <m:P30117>Sir Arthur Conan Doyle ; adapted and illustrated by John Green</m:P30117>
       <m:P30182>1 volume :</m:P30182>
+      <marc:M30000b>chiefly illustrations ;</marc:M30000b>
       <m:P30169>23 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -7624,10 +8979,12 @@
       <m:P30083>Usborne</m:P30083>
       <m:P30011>2007</m:P30011>
       <m:P30182>1 v. :</m:P30182>
+      <marc:M30000b>ill. ;</marc:M30000b>
       <m:P30169>20 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
       <m:P30106>Usborne classics retold</m:P30106>
+      <m:P30321 rdf:resource="harveybob"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9780750542159">
       <marc:M001>017999463</marc:M001>
@@ -7640,6 +8997,7 @@
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
       <m:P30106>Sherlock Holmes</m:P30106>
+      <m:P30139 rdf:resource="scottn/russianconnectionandothernewadventures/eng/text"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9780753180488">
       <marc:M001>014100776</marc:M001>
@@ -7851,11 +9209,13 @@
       <m:P30083>Graphic Universe</m:P30083>
       <m:P30011>2011</m:P30011>
       <m:P30182>48 p. :</m:P30182>
+      <marc:M30000b>col. ill. ;</marc:M30000b>
       <m:P30169>25 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
       <m:P30106>On the case with Holmes and Watson ;</m:P30106>
       <m:P30165>#1</m:P30165>
+      <m:P30321 rdf:resource="rohrbachsophie"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9780761361985">
       <marc:M001>015757906</marc:M001>
@@ -7867,11 +9227,13 @@
       <m:P30083>Graphic Universe</m:P30083>
       <m:P30011>c2011</m:P30011>
       <m:P30182>48 p. :</m:P30182>
+      <marc:M30000b>col. ill., col. map ;</marc:M30000b>
       <m:P30169>25 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
       <m:P30106>On the case with Holmes and Watson ;</m:P30106>
       <m:P30165>#5</m:P30165>
+      <m:P30321 rdf:resource="rohrbachsophie"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9780761362005">
       <marc:M001>015757908</marc:M001>
@@ -7883,11 +9245,13 @@
       <m:P30083>Graphic Universe</m:P30083>
       <m:P30011>c2011</m:P30011>
       <m:P30182>48 p. :</m:P30182>
+      <marc:M30000b>col. ill. ;</marc:M30000b>
       <m:P30169>25 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
       <m:P30106>On the case with Holmes and Watson ;</m:P30106>
       <m:P30165>#2</m:P30165>
+      <m:P30321 rdf:resource="rohrbachsophie"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9780761362012">
       <marc:M001>015757909</marc:M001>
@@ -7899,11 +9263,13 @@
       <m:P30083>Graphic Universe</m:P30083>
       <m:P30011>c2011</m:P30011>
       <m:P30182>48 p. :</m:P30182>
+      <marc:M30000b>col. ill., col. map ;</marc:M30000b>
       <m:P30169>25 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
       <m:P30106>On the case with Holmes and Watson ;</m:P30106>
       <m:P30165>#6</m:P30165>
+      <m:P30321 rdf:resource="rohrbachsophie"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9780761362029">
       <marc:M001>015757910</marc:M001>
@@ -7915,11 +9281,13 @@
       <m:P30083>Graphic Universe</m:P30083>
       <m:P30011>c2011</m:P30011>
       <m:P30182>48 p. :</m:P30182>
+      <marc:M30000b>col. ill. ;</marc:M30000b>
       <m:P30169>25 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
       <m:P30106>On the case with Holmes and Watson ;</m:P30106>
       <m:P30165>#3</m:P30165>
+      <m:P30321 rdf:resource="rohrbachsophie"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9780761370949">
       <marc:M001>015884726</marc:M001>
@@ -7932,11 +9300,14 @@
       <m:P30083>Graphic Universe</m:P30083>
       <m:P30011>c2012</m:P30011>
       <m:P30182>48 p. :</m:P30182>
+      <marc:M30000b>col. ill., 1 map ;</marc:M30000b>
       <m:P30169>24 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
       <m:P30106>On the case with Holmes and Watson ;</m:P30106>
       <m:P30165>#7</m:P30165>
+      <m:P30321 rdf:resource="rohrbachsophie"/>
+      <m:P30321 rdf:resource="morrowjt"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9780761370956">
       <marc:M001>015884727</marc:M001>
@@ -7949,11 +9320,14 @@
       <m:P30083>Graphic Universe</m:P30083>
       <m:P30011>c2012</m:P30011>
       <m:P30182>48 p. :</m:P30182>
+      <marc:M30000b>col. ill. ;</marc:M30000b>
       <m:P30169>24 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
       <m:P30106>On the case with Holmes and Watson ;</m:P30106>
       <m:P30165>#8</m:P30165>
+      <m:P30321 rdf:resource="morrowjt"/>
+      <m:P30321 rdf:resource="rohrbachsophie"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9780761370963">
       <marc:M001>015884728</marc:M001>
@@ -7966,11 +9340,14 @@
       <m:P30083>Graphic Universe</m:P30083>
       <m:P30011>c2012</m:P30011>
       <m:P30182>48 p. :</m:P30182>
+      <marc:M30000b>col. ill. ;</marc:M30000b>
       <m:P30169>24 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
       <m:P30106>On the case with Holmes and Watson ;</m:P30106>
       <m:P30165>#9</m:P30165>
+      <m:P30321 rdf:resource="rohrbachsophie"/>
+      <m:P30321 rdf:resource="morrowjt"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9780761370970">
       <marc:M001>015884729</marc:M001>
@@ -7983,11 +9360,14 @@
       <m:P30083>Graphic Universe</m:P30083>
       <m:P30011>c2012</m:P30011>
       <m:P30182>48 p. :</m:P30182>
+      <marc:M30000b>col. ill. ;</marc:M30000b>
       <m:P30169>24 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
       <m:P30106>On the case with Holmes and Watson ;</m:P30106>
       <m:P30165>#10</m:P30165>
+      <m:P30321 rdf:resource="rohrbachsophie"/>
+      <m:P30321 rdf:resource="morrowjt"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9780761370987">
       <marc:M001>016082050</marc:M001>
@@ -8000,11 +9380,13 @@
       <m:P30083>Graphic Universe</m:P30083>
       <m:P30011>c2012</m:P30011>
       <m:P30182>48 p. :</m:P30182>
+      <marc:M30000b>col. ill., col. map ;</marc:M30000b>
       <m:P30169>25 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
       <m:P30106>On the case with Holmes and Watson ;</m:P30106>
       <m:P30165>#12</m:P30165>
+      <m:P30321 rdf:resource="morrowjt"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9780843962956">
       <marc:M001>015366361</marc:M001>
@@ -8100,6 +9482,7 @@
       <m:P30156>The adventures of Sherlock Holmes</m:P30156>
       <m:P30117>by Sir Arthur Conan Doyle</m:P30117>
       <m:P30182>1 volume :</m:P30182>
+      <marc:M30000b>illustrations ;</marc:M30000b>
       <m:P30169>30 cm</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -8171,7 +9554,9 @@
       <m:P30083>Macmillan</m:P30083>
       <m:P30011>c2005</m:P30011>
       <m:P30182>70 p. :</m:P30182>
+      <marc:M30000b>ill. ;</marc:M30000b>
       <m:P30169>20 cm. +</m:P30169>
+      <marc:M30000e>1 audio CD.</marc:M30000e>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
       <m:P30106>Macmillan readers. Elementary level</m:P30106>
@@ -8197,6 +9582,7 @@
       <m:P30117>Sir Arthur Conan Doyle ; retold by J.Y.K. Kerr</m:P30117>
       <m:P30107>[New edition].</m:P30107>
       <m:P30182>vii, 45 pages :</m:P30182>
+      <marc:M30000b>illustrations (black and white) ;</marc:M30000b>
       <m:P30169>20 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -8212,10 +9598,12 @@
       <m:P30083>Raintree</m:P30083>
       <m:P30011>2009</m:P30011>
       <m:P30182>63 p. :</m:P30182>
+      <marc:M30000b>chiefly col. ill. ;</marc:M30000b>
       <m:P30169>23 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
       <m:P30106>Graphic revolve</m:P30106>
+      <m:P30321 rdf:resource="perezdaniel"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9781407016894">
       <marc:M001>018514762</marc:M001>
@@ -8298,6 +9686,7 @@
       <m:P30083>Nelson Thornes</m:P30083>
       <m:P30011>2012</m:P30011>
       <m:P30182>vi, 90 p. :</m:P30182>
+      <marc:M30000b>ill. ;</marc:M30000b>
       <m:P30169>22 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -8370,11 +9759,13 @@
       <m:P30156>Sherlock Holmes in the Hound of the Baskervilles</m:P30156>
       <m:P30117>author, Jennifer Adams ; artist, Alison Oliver</m:P30117>
       <m:P30182>1 volume :</m:P30182>
+      <marc:M30000b>chiefly illustrations (colour) ;</marc:M30000b>
       <m:P30169>18 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
       <m:P30106>Babylit</m:P30106>
       <m:P30106>Little master Conan Doyle</m:P30106>
+      <m:P30321 rdf:resource="oliveralison"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9781435114944">
       <marc:M001>015781215</marc:M001>
@@ -8386,6 +9777,7 @@
       <m:P30083>Barnes &amp; Noble</m:P30083>
       <m:P30011>2009</m:P30011>
       <m:P30182>xvi, 1077 p. :</m:P30182>
+      <marc:M30000b>ill. ;</marc:M30000b>
       <m:P30169>24 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -8405,11 +9797,13 @@
       <m:P30156>The adventures of Sherlock Holmes</m:P30156>
       <m:P30117>Arthur Conan Doyle ; illustrated by Sidney Paget</m:P30117>
       <m:P30182>1 volume :</m:P30182>
+      <marc:M30000b>illustrations ;</marc:M30000b>
       <m:P30169>21 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
       <m:P30106>Barnes &amp; Noble leatherbound children's classics</m:P30106>
       <m:P30139 rdf:resource="http://viaf.org/viaf/186734487/eng/text"/>
+      <m:P30321 rdf:resource="http://viaf.org/viaf/2555146"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9781443806084">
       <marc:M001>015352119</marc:M001>
@@ -8707,8 +10101,16 @@
       <m:P30001>computer</m:P30001>
       <m:P30002>online resource</m:P30002>
       <m:P30139 rdf:resource="http://www.wikidata.org/entity/q1151761/eng/text"/>
+      <m:P30139 rdf:resource="http://viaf.org/viaf/65283845/theyellowface/eng/text"/>
+      <m:P30139 rdf:resource="http://viaf.org/viaf/65283845/thestockbrokersclerk/eng/text"/>
+      <m:P30139 rdf:resource="http://viaf.org/viaf/65283845/thegloriascott/eng/text"/>
       <m:P30139 rdf:resource="http://www.wikidata.org/entity/q1150069/eng/text"/>
+      <m:P30139 rdf:resource="http://viaf.org/viaf/65283845/thereigatesquires/eng/text"/>
+      <m:P30139 rdf:resource="http://viaf.org/viaf/65283845/thecrookedman/eng/text"/>
+      <m:P30139 rdf:resource="http://viaf.org/viaf/65283845/theresidentpatient/eng/text"/>
+      <m:P30139 rdf:resource="http://viaf.org/viaf/65283845/thegreekinterpreter/eng/text"/>
       <m:P30139 rdf:resource="http://viaf.org/viaf/309533947/eng/text"/>
+      <m:P30139 rdf:resource="http://viaf.org/viaf/65283845/thefinalproblem/eng/text"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9781446417287">
       <marc:M001>018574970</marc:M001>
@@ -8771,9 +10173,11 @@
       <m:P30156>Sir Arthur Conan Doyle's The lost world : a graphic novel</m:P30156>
       <m:P30117>by David Rodriguez &amp; Pietro</m:P30117>
       <m:P30182>78 pages :</m:P30182>
+      <marc:M30000b>illustrations (colour) ;</marc:M30000b>
       <m:P30169>23 cm</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
+      <m:P30321 rdf:resource="pietro"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9781496500359">
       <marc:M001>018355732</marc:M001>
@@ -8781,9 +10185,11 @@
       <m:P30156>The hound of Baskervilles</m:P30156>
       <m:P30117>by Sir Arthur Conan Doyle ; retold by Martin Powell illustrated by Daniel Pérez</m:P30117>
       <m:P30182>1 volume :</m:P30182>
+      <marc:M30000b>chiefly illustrations ;</marc:M30000b>
       <m:P30169>23 cm</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
+      <m:P30321 rdf:resource="perezdaniel"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9781509826940">
       <marc:M001>017872718</marc:M001>
@@ -8858,11 +10264,13 @@
       <m:P30117>Arthur Conan Doyle ; illustrated by Sidney Paget</m:P30117>
       <m:P30107>New edition /</m:P30107>
       <m:P30182>1 online resource :</m:P30182>
+      <marc:M30000b>illustrations.</marc:M30000b>
       <m:P30001>computer</m:P30001>
       <m:P30002>online resource</m:P30002>
       <m:P30106>Macmillan Collector's Library</m:P30106>
       <m:P30165>31</m:P30165>
       <m:P30139 rdf:resource="http://viaf.org/viaf/174141344/eng/text"/>
+      <m:P30321 rdf:resource="http://viaf.org/viaf/2555146"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9781509858491">
       <marc:M001>018408243</marc:M001>
@@ -8919,6 +10327,7 @@
       <m:P30083>Broadview Press</m:P30083>
       <m:P30011>c2010</m:P30011>
       <m:P30182>218 p. :</m:P30182>
+      <marc:M30000b>port., map ;</marc:M30000b>
       <m:P30169>22 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -8931,11 +10340,13 @@
       <m:P30156>Sherlock Holmes</m:P30156>
       <m:P30117>by Arthur Conan Doyle ; illustrated by Sophia Martineck</m:P30117>
       <m:P30182>1 volume :</m:P30182>
+      <marc:M30000b>illustrations ;</marc:M30000b>
       <m:P30169>26 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
       <m:P30106>Classics reimagined</m:P30106>
       <m:P30139 rdf:resource="http://viaf.org/viaf/174141344/eng/text"/>
+      <m:P30321 rdf:resource="martinecksophia"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9781600106590">
       <marc:M001>015479385</marc:M001>
@@ -8947,6 +10358,7 @@
       <m:P30083>IDW</m:P30083>
       <m:P30011>2010</m:P30011>
       <m:P30182>302 p. :</m:P30182>
+      <marc:M30000b>col. ill. ;</marc:M30000b>
       <m:P30169>23 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -8955,6 +10367,9 @@
       <m:P30139 rdf:resource="http://viaf.org/viaf/184892317/eng/text"/>
       <m:P30139 rdf:resource="http://viaf.org/viaf/175571309/eng/text"/>
       <m:P30139 rdf:resource="http://viaf.org/viaf/3283155226707084490002/eng/text"/>
+      <m:P30139 rdf:resource="http://viaf.org/viaf/65283845/theyellowface/eng/text"/>
+      <m:P30139 rdf:resource="http://viaf.org/viaf/65283845/thegreekinterpreter/eng/text"/>
+      <m:P30321 rdf:resource="joneskelley"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9781600107832">
       <marc:M001>015612770</marc:M001>
@@ -8968,6 +10383,7 @@
       <m:P30083>Diamond [distributor]</m:P30083>
       <m:P30011>2010</m:P30011>
       <m:P30182>223 p. :</m:P30182>
+      <marc:M30000b>col. ill. ;</marc:M30000b>
       <m:P30169>23 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -8977,10 +10393,13 @@
       <m:P30139 rdf:resource="http://www.wikidata.org/entity/q265546/eng/text"/>
       <m:P30139 rdf:resource="http://viaf.org/viaf/180817010/eng/text"/>
       <m:P30139 rdf:resource="http://www.wikidata.org/entity/q1151748/eng/text"/>
+      <m:P30139 rdf:resource="http://viaf.org/viaf/65283845/caseofidentity/eng/text"/>
       <m:P30139 rdf:resource="http://www.wikidata.org/entity/q1140678/eng/text"/>
       <m:P30139 rdf:resource="http://www.wikidata.org/entity/q1193379/eng/text"/>
       <m:P30139 rdf:resource="http://www.wikidata.org/entity/q1192541/eng/text"/>
+      <m:P30139 rdf:resource="http://viaf.org/viaf/65283845/stockbrokersclerk/eng/text"/>
       <m:P30139 rdf:resource="http://viaf.org/viaf/309533947/eng/text"/>
+      <m:P30139 rdf:resource="http://viaf.org/viaf/65283845/adventureoftheengineersthumb/eng/text"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9781606600887">
       <marc:M001>018037858</marc:M001>
@@ -9005,6 +10424,7 @@
       <m:P30182>1 online resource (xii, 193 pages).</m:P30182>
       <m:P30001>computer</m:P30001>
       <m:P30002>online resource</m:P30002>
+      <m:P30139 rdf:resource="bayardpierre/affaireduchiendesbaskerville/eng/text"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9781616551100">
       <marc:M001>016199873</marc:M001>
@@ -9017,9 +10437,11 @@
       <m:P30083>Diamond [distributor]</m:P30083>
       <m:P30011>2013</m:P30011>
       <m:P30182>63 pages :</m:P30182>
+      <marc:M30000b>illustrations ;</marc:M30000b>
       <m:P30169>27 cm</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
+      <m:P30321 rdf:resource="chasejamie"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:97816310607481">
       <marc:M001>017019509</marc:M001>
@@ -9078,7 +10500,12 @@
       <m:P30169>19 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
+      <m:P30139 rdf:resource="polidorijohnwilliam/vampyre/eng/text"/>
+      <m:P30139 rdf:resource="stokerbram/draculasguest/eng/text"/>
+      <m:P30139 rdf:resource="lefanujosephsheridan/carmilla/eng/text"/>
       <m:P30139 rdf:resource="http://www.wikidata.org/entity/q2740092/eng/text"/>
+      <m:P30139 rdf:resource="maupassantguyde/horla/eng/text"/>
+      <m:P30139 rdf:resource="bensonef/roominthetower/eng/text"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9781780922461">
       <marc:M001>016119940</marc:M001>
@@ -9091,9 +10518,11 @@
       <m:P30083>MX Pub</m:P30083>
       <m:P30011>2012</m:P30011>
       <m:P30182>143 p. :</m:P30182>
+      <marc:M30000b>ill. ;</marc:M30000b>
       <m:P30169>22 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
+      <m:P30321 rdf:resource="cortesdaniel"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9781780926049">
       <marc:M001>016717828</marc:M001>
@@ -9102,11 +10531,13 @@
       <m:P30117>by Sir Arthur Conan Doyle ; illustrated by P. James Macaluso, Jr</m:P30117>
       <m:P30107>First edition.</m:P30107>
       <m:P30182>1 volume :</m:P30182>
+      <marc:M30000b>illustrations (colour) ;</marc:M30000b>
       <m:P30169>22 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
       <m:P30106>The adventures of Sherlock Holmes</m:P30106>
       <m:P30139 rdf:resource="http://www.wikidata.org/entity/q265546/eng/text"/>
+      <m:P30321 rdf:resource="macalusopjames"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9781780926247">
       <marc:M001>016745640</marc:M001>
@@ -9115,11 +10546,13 @@
       <m:P30117>by Sir Arthur Conan Doyle ; illustrated by P. James Macaluso, Jr</m:P30117>
       <m:P30107>First edition.</m:P30107>
       <m:P30182>1 volume :</m:P30182>
+      <marc:M30000b>illustrations (colour) ;</marc:M30000b>
       <m:P30169>22 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
       <m:P30106>The adventures of Sherlock Holmes</m:P30106>
       <m:P30139 rdf:resource="http://www.wikidata.org/entity/q461026/eng/text"/>
+      <m:P30321 rdf:resource="macalusopjames"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9781780926803">
       <marc:M001>016870903</marc:M001>
@@ -9127,10 +10560,12 @@
       <m:P30156>Sherlock Holmes</m:P30156>
       <m:P30117>Petrl Kopl ; translation: Paul and Jana Simpson</m:P30117>
       <m:P30182>159 pages :</m:P30182>
+      <marc:M30000b>chiefly illustrations (colour) ;</marc:M30000b>
       <m:P30169>21 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
       <m:P30106>Victoria Regina (Series)</m:P30106>
+      <m:P30139 rdf:resource="koplpetr/skandalvcechach/eng/text"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9781780926926">
       <marc:M001>016870898</marc:M001>
@@ -9139,11 +10574,13 @@
       <m:P30117>by Arthur Conan Doyle ; illustrated by P. James Macaluso, Jr</m:P30117>
       <m:P30107>First edition.</m:P30107>
       <m:P30182>1 volume (unpaged) :</m:P30182>
+      <marc:M30000b>illustrations (colour) ;</marc:M30000b>
       <m:P30169>22 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
       <m:P30106>The adventures of Sherlock Holmes</m:P30106>
       <m:P30139 rdf:resource="http://www.wikidata.org/entity/q1192541/eng/text"/>
+      <m:P30321 rdf:resource="macalusopjames"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9781780926957">
       <marc:M001>016944892</marc:M001>
@@ -9151,11 +10588,13 @@
       <m:P30156>The five orange pips</m:P30156>
       <m:P30117>by Sir Arthur Conan Doyle ; illustrated by P. James Macaluso Jr</m:P30117>
       <m:P30182>1 volume (unpaged) :</m:P30182>
+      <marc:M30000b>illustrations (colour) ;</marc:M30000b>
       <m:P30169>22 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
       <m:P30106>The adventures of Sherlock Holmes</m:P30106>
       <m:P30139 rdf:resource="http://www.wikidata.org/entity/q1193379/eng/text"/>
+      <m:P30321 rdf:resource="macalusopjames"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9781780926988">
       <marc:M001>016968491</marc:M001>
@@ -9163,11 +10602,13 @@
       <m:P30156>The man with the twisted lip</m:P30156>
       <m:P30117>by Sir Arthur Conan Doyle ; illustrated by P. James Macaluso, Jr</m:P30117>
       <m:P30182>1 volume (unpaged) :</m:P30182>
+      <marc:M30000b>illustrations (colour) ;</marc:M30000b>
       <m:P30169>22 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
       <m:P30106>The adventures of Sherlock Holmes</m:P30106>
       <m:P30139 rdf:resource="http://www.wikidata.org/entity/q1151748/eng/text"/>
+      <m:P30321 rdf:resource="macalusopjames"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9781780927237">
       <marc:M001>017015581</marc:M001>
@@ -9176,10 +10617,12 @@
       <m:P30156>The adventure of the hound of the Baskervilles</m:P30156>
       <m:P30117>Petr Kopl ; translated by P&amp;J Simpson</m:P30117>
       <m:P30182>approximately 159 unnumbered pages :</m:P30182>
+      <marc:M30000b>chiefly illustrations (colour) ;</marc:M30000b>
       <m:P30169>21 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
       <m:P30106>The Victoria Regina series</m:P30106>
+      <m:P30139 rdf:resource="koplpetr/pesbaskervillsky/eng/text"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9781780927947">
       <marc:M001>017360736</marc:M001>
@@ -9188,11 +10631,13 @@
       <m:P30117>by Sir Arthur Conan Doyle ; illustrated by P. James Macaluso Jr</m:P30117>
       <m:P30107>First edition.</m:P30107>
       <m:P30182>1 volume (unpaged) :</m:P30182>
+      <marc:M30000b>illustrations (colour) ;</marc:M30000b>
       <m:P30169>22 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
       <m:P30106>The adventures of Sherlock Holmes</m:P30106>
       <m:P30139 rdf:resource="http://www.wikidata.org/entity/q1140678/eng/text"/>
+      <m:P30321 rdf:resource="macalusopjames"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9781780928821">
       <marc:M001>017672601</marc:M001>
@@ -9201,11 +10646,13 @@
       <m:P30117>by Sir Arthur Conan Doyle ; illustrated by P. James Macaluso, Jr</m:P30117>
       <m:P30107>First edition.</m:P30107>
       <m:P30182>1 volume (unpaged) :</m:P30182>
+      <marc:M30000b>illustrations (colour) ;</marc:M30000b>
       <m:P30169>22 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
       <m:P30106>The adventures of Sherlock Holmes</m:P30106>
       <m:P30139 rdf:resource="http://viaf.org/viaf/181846531/eng/text"/>
+      <m:P30321 rdf:resource="macalusopjames"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9781780929095">
       <marc:M001>017847106</marc:M001>
@@ -9214,11 +10661,13 @@
       <m:P30117>by Sir Arthur Conan Doyle ; illustrated by P. James Macaluso, Jr</m:P30117>
       <m:P30107>First edition.</m:P30107>
       <m:P30182>1 volume (unpaged) :</m:P30182>
+      <marc:M30000b>illustrations (colour) ;</marc:M30000b>
       <m:P30169>22 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
       <m:P30106>The adventures of Sherlock Holmes</m:P30106>
       <m:P30139 rdf:resource="http://viaf.org/viaf/3283155226707084490002/eng/text"/>
+      <m:P30321 rdf:resource="macalusopjames"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9781780929125">
       <marc:M001>018082385</marc:M001>
@@ -9227,11 +10676,13 @@
       <m:P30117>by Sir Arthur Conan Doyle</m:P30117>
       <m:P30107>First edition /</m:P30107>
       <m:P30182>1 volume (unpaged) :</m:P30182>
+      <marc:M30000b>illustrations (colour) ;</marc:M30000b>
       <m:P30169>22 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
       <m:P30106>The adventures of Sherlock Holmes</m:P30106>
       <m:P30139 rdf:resource="http://www.wikidata.org/entity/q1201796/eng/text"/>
+      <m:P30321 rdf:resource="macalusopjames"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9781780929255">
       <marc:M001>017846204</marc:M001>
@@ -9239,6 +10690,7 @@
       <m:P30156>The lost world</m:P30156>
       <m:P30117>[based on the stories by] Sir Arthur Conan Doyle ; [created and illustrated by] Petr Kopl ; translated by P&amp;J Simpson</m:P30117>
       <m:P30182>112 pages :</m:P30182>
+      <marc:M30000b>chiefly illustrations (colour) ;</marc:M30000b>
       <m:P30169>23 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -9487,6 +10939,7 @@
       <m:P30083>Evertype</m:P30083>
       <m:P30011>2012</m:P30011>
       <m:P30182>vii, 210 pages :</m:P30182>
+      <marc:M30000b>illustrations ;</marc:M30000b>
       <m:P30169>22 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -9528,6 +10981,7 @@
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
       <m:P30106>Easy read Sherlock Holmes</m:P30106>
+      <m:P30139 rdf:resource="bakkerhelene/gespikkeldeband/eng/text"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9781783225361">
       <marc:M001>016984350</marc:M001>
@@ -9539,6 +10993,7 @@
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
       <m:P30106>Easy read Sherlock Holmes</m:P30106>
+      <m:P30139 rdf:resource="bakkerhelene/tekenvanvier/eng/text"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9781783225385">
       <marc:M001>016984352</marc:M001>
@@ -9550,6 +11005,7 @@
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
       <m:P30106>Easy-to-read Sherlock Holmes</m:P30106>
+      <m:P30139 rdf:resource="bakkerhelene/manmethetlitteken/eng/text"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9781784043575">
       <marc:M001>016738600</marc:M001>
@@ -9557,11 +11013,13 @@
       <m:P30156>The hound of the Baskervilles</m:P30156>
       <m:P30117>illustrated by Anthony Williams ; original story by Sir Arthur Conan Doyle</m:P30117>
       <m:P30182>1 volume :</m:P30182>
+      <marc:M30000b>chiefly illustrations (colour) ;</marc:M30000b>
       <m:P30169>27 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
       <m:P30106>Graphic novel classics</m:P30106>
       <m:P30139 rdf:resource="http://viaf.org/viaf/181625655/eng/text"/>
+      <m:P30321 rdf:resource="williamsanthony"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9781784046439">
       <marc:M001>017459811</marc:M001>
@@ -9876,6 +11334,7 @@
       <m:P30083>Walker</m:P30083>
       <m:P30011>2006</m:P30011>
       <m:P30182>271 p. :</m:P30182>
+      <marc:M30000b>ill. (some col.) ;</marc:M30000b>
       <m:P30169>23 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -9972,6 +11431,7 @@
       <m:P30002>volume</m:P30002>
       <m:P30139 rdf:resource="http://viaf.org/viaf/308560745/eng/text"/>
       <m:P30139 rdf:resource="http://viaf.org/viaf/181810457/eng/text"/>
+      <m:P30139 rdf:resource="http://viaf.org/viaf/65283845/theslappingsal/eng/text"/>
       <m:P30139 rdf:resource="http://viaf.org/viaf/309272292/eng/text"/>
       <m:P30139 rdf:resource="http://www.wikidata.org/entity/q3041826/eng/text"/>
    </c:C10007>
@@ -10238,10 +11698,12 @@
       <m:P30117>Sir Arthur Conan Doyle ; illustrations by David Mackintosh</m:P30117>
       <m:P30107>New edition.</m:P30107>
       <m:P30182>225 pages :</m:P30182>
+      <marc:M30000b>illustrations ;</marc:M30000b>
       <m:P30169>20 cm</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
       <m:P30139 rdf:resource="http://viaf.org/viaf/181625655/eng/text"/>
+      <m:P30321 rdf:resource="mackintoshdavid"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9781847496508">
       <marc:M001>018395802</marc:M001>
@@ -10249,6 +11711,7 @@
       <m:P30156>The lost world</m:P30156>
       <m:P30117>Arthur Conan Doyle</m:P30117>
       <m:P30182>vii, 246 pages :</m:P30182>
+      <marc:M30000b>1 illustration (black and white), 1 map ;</marc:M30000b>
       <m:P30169>20 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -10266,6 +11729,7 @@
       <m:P30002>volume</m:P30002>
       <m:P30106>Alma classics junior</m:P30106>
       <m:P30139 rdf:resource="http://www.wikidata.org/entity/q860831/eng/text"/>
+      <m:P30321 rdf:resource="mackintoshdavid"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9781847679192">
       <marc:M001>015589897</marc:M001>
@@ -10357,6 +11821,7 @@
       <m:P30083>Worth</m:P30083>
       <m:P30011>c2009</m:P30011>
       <m:P30182>xxxvii, [8], 227 p. :</m:P30182>
+      <marc:M30000b>ill. (chiefly col.), 1 col. map ;</marc:M30000b>
       <m:P30169>23 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -10370,6 +11835,7 @@
       <m:P30156>The hound of the Baskervilles and other stories</m:P30156>
       <m:P30117>Arthur Conan Doyle ; illustrations: colored by Barbara Frith</m:P30117>
       <m:P30182>xxxvii, 344 pages :</m:P30182>
+      <marc:M30000b>illustrations (black and white, and colour), 1 map (colour) ;</marc:M30000b>
       <m:P30169>22 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -10377,6 +11843,7 @@
       <m:P30139 rdf:resource="http://viaf.org/viaf/181625655/eng/text"/>
       <m:P30139 rdf:resource="http://viaf.org/viaf/184892317/eng/text"/>
       <m:P30139 rdf:resource="http://viaf.org/viaf/186734487/eng/text"/>
+      <m:P30321 rdf:resource="http://viaf.org/viaf/2555146"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9781849891936">
       <marc:M001>018627991</marc:M001>
@@ -10504,6 +11971,7 @@
       <m:P30083>Wordsworth editions</m:P30083>
       <m:P30011>2010</m:P30011>
       <m:P30182>xxiv, 446 p. :</m:P30182>
+      <marc:M30000b>ill. ;</marc:M30000b>
       <m:P30169>20 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -10520,6 +11988,7 @@
       <m:P30083>Prion</m:P30083>
       <m:P30011>2008</m:P30011>
       <m:P30182>652 p. :</m:P30182>
+      <marc:M30000b>ill. ;</marc:M30000b>
       <m:P30169>23 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -10538,6 +12007,7 @@
       <m:P30083>Prion</m:P30083>
       <m:P30011>2013</m:P30011>
       <m:P30182>652 pages :</m:P30182>
+      <marc:M30000b>ill. ;</marc:M30000b>
       <m:P30169>22 cm</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -10556,6 +12026,7 @@
       <m:P30083>Prion</m:P30083>
       <m:P30011>2013</m:P30011>
       <m:P30182>1 v. :</m:P30182>
+      <marc:M30000b>ill. ;</marc:M30000b>
       <m:P30169>22 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -10571,6 +12042,7 @@
       <m:P30083>CRW Pub./Collector's Library Omnibus Editions</m:P30083>
       <m:P30011>2009</m:P30011>
       <m:P30182>855 p. :</m:P30182>
+      <marc:M30000b>ill. ;</marc:M30000b>
       <m:P30169>26 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -10609,9 +12081,11 @@
       <m:P30083>Real Reads</m:P30083>
       <m:P30011>2011</m:P30011>
       <m:P30182>64 p. :</m:P30182>
+      <marc:M30000b>col. ill. ;</marc:M30000b>
       <m:P30169>20 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
+      <m:P30321 rdf:resource="bennettfelix"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9781906230579">
       <marc:M001>016134010</marc:M001>
@@ -10619,10 +12093,12 @@
       <m:P30156>A study in scarlet</m:P30156>
       <m:P30117>Arthur Conan Doyle ; retold by Tony Evans ; illustrated by Felix Bennett</m:P30117>
       <m:P30182>64 pages :</m:P30182>
+      <marc:M30000b>illustrations (colour) ;</marc:M30000b>
       <m:P30169>20 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
       <m:P30106>Real reads</m:P30106>
+      <m:P30321 rdf:resource="bennettfelix"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9781906230586">
       <marc:M001>016134011</marc:M001>
@@ -10630,10 +12106,12 @@
       <m:P30156>The sign of the four</m:P30156>
       <m:P30117>Arthur Conan Doyle ; retold by Tony Evans ; illustrated by Felix Bennett</m:P30117>
       <m:P30182>64 pages :</m:P30182>
+      <marc:M30000b>illustrations (colour) ;</marc:M30000b>
       <m:P30169>20 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
       <m:P30106>Real reads</m:P30106>
+      <m:P30321 rdf:resource="bennettfelix"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9781906838041">
       <marc:M001>015523312</marc:M001>
@@ -10645,10 +12123,12 @@
       <m:P30083>SelfMadeHero</m:P30083>
       <m:P30011>2010</m:P30011>
       <m:P30182>124 p., v. :</m:P30182>
+      <marc:M30000b>chiefly col. ill. ;</marc:M30000b>
       <m:P30169>25 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
       <m:P30106>A Sherlock Holmes graphic novel</m:P30106>
+      <m:P30321 rdf:resource="culbardian"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9781906838058">
       <marc:M001>015716981</marc:M001>
@@ -10660,10 +12140,12 @@
       <m:P30083>SelfMadeHero</m:P30083>
       <m:P30011>2011</m:P30011>
       <m:P30182>124 p. :</m:P30182>
+      <marc:M30000b>chiefly col. ill. ;</marc:M30000b>
       <m:P30169>25 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
       <m:P30106>A Sherlock Holmes graphic novel</m:P30106>
+      <m:P30321 rdf:resource="culbardian"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9781907081071">
       <marc:M001>016562867</marc:M001>
@@ -10671,6 +12153,7 @@
       <m:P30156>Sir Arthur Conan Doyle's The sign of four ; : The hound of the Baskervilles ; Sir Nigel ; The lost world</m:P30156>
       <m:P30117>with an introduction by Norman Wright</m:P30117>
       <m:P30182>137 pages :</m:P30182>
+      <marc:M30000b>chiefly illustrations (black and white) ;</marc:M30000b>
       <m:P30169>28 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -10920,13 +12403,19 @@
       <m:P30156>Sherlock Holmes : the dark mysteries</m:P30156>
       <m:P30117>Sir Arthur Conan Doyle ; introduced and selected by David Stuart Davies</m:P30117>
       <m:P30182>459 pages :</m:P30182>
+      <marc:M30000b>illustrations (black and white) ;</marc:M30000b>
       <m:P30169>16 cm</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
       <m:P30139 rdf:resource="http://viaf.org/viaf/181625655/eng/text"/>
+      <m:P30139 rdf:resource="http://viaf.org/viaf/65283845/thesussexvampire/eng/text"/>
+      <m:P30139 rdf:resource="http://viaf.org/viaf/65283845/thecreepingman/eng/text"/>
+      <m:P30139 rdf:resource="http://viaf.org/viaf/65283845/theadventureofshoscombeoldplace/eng/text"/>
       <m:P30139 rdf:resource="http://www.wikidata.org/entity/q3041826/eng/text"/>
+      <m:P30139 rdf:resource="http://viaf.org/viaf/65283845/theveiledlodger/eng/text"/>
       <m:P30139 rdf:resource="http://www.wikidata.org/entity/q2466799/eng/text"/>
       <m:P30139 rdf:resource="http://viaf.org/viaf/180817010/eng/text"/>
+      <m:P30321 rdf:resource="http://viaf.org/viaf/2555146"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9781909621732">
       <marc:M001>017871314</marc:M001>
@@ -11009,10 +12498,12 @@
       <m:P30117>Arthur Conan Doyle ; illustrated by Sidney Paget</m:P30117>
       <m:P30107>New edition /</m:P30107>
       <m:P30182>459 pages :</m:P30182>
+      <marc:M30000b>illustrations ;</marc:M30000b>
       <m:P30169>15 cm</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
       <m:P30139 rdf:resource="http://viaf.org/viaf/174141344/eng/text"/>
+      <m:P30321 rdf:resource="http://viaf.org/viaf/2555146"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9781910486085">
       <marc:M001>017033381</marc:M001>
@@ -11021,6 +12512,8 @@
       <m:P30182>1 online resource</m:P30182>
       <m:P30001>computer</m:P30001>
       <m:P30002>online resource</m:P30002>
+      <m:P30139 rdf:resource="stevensonrobertlouis/treasureisland/eng/text"/>
+      <m:P30139 rdf:resource="ballantynerm/coralisland/eng/text"/>
       <m:P30139 rdf:resource="http://viaf.org/viaf/294145857904223021237/eng/text"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9781910619698">
@@ -11030,10 +12523,12 @@
       <m:P30117>by Arthur Conan Doyle ; adaptation, Kenneth W. Fitch ; illustrated by Seymour Moskowitz</m:P30117>
       <m:P30107>First CCS Books edition: January 2016.</m:P30107>
       <m:P30182>51 pages :</m:P30182>
+      <marc:M30000b>chiefly illustrations (colour) ;</marc:M30000b>
       <m:P30169>25 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
       <m:P30106>Classics illustrated</m:P30106>
+      <m:P30321 rdf:resource="moskowitzseymour"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9781911547419">
       <marc:M001>019086835</marc:M001>
@@ -11082,6 +12577,7 @@
       <m:P30156>The Hound of the Baskervilles</m:P30156>
       <m:P30117>Sir Arthur Conan Doyle ; abridged by Navin Sharma</m:P30117>
       <m:P30182>240 pages :</m:P30182>
+      <marc:M30000b>illustrations (black and white) ;</marc:M30000b>
       <m:P30169>14 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -11135,6 +12631,7 @@
       <m:P30156>Lost world</m:P30156>
       <m:P30117>Pegasus</m:P30117>
       <m:P30182>1 volume :</m:P30182>
+      <marc:M30000b>illustrations ;</marc:M30000b>
       <m:P30169>22 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -11147,6 +12644,7 @@
       <m:P30156>The memoirs of Sherlock Holmes</m:P30156>
       <m:P30117>Arthur Conan Doyle</m:P30117>
       <m:P30182>1 volume :</m:P30182>
+      <marc:M30000b>illustrations ;</marc:M30000b>
       <m:P30169>20 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -11159,6 +12657,7 @@
       <m:P30156>The hound of the Baskervilles</m:P30156>
       <m:P30117>Arthur Conan Doyle</m:P30117>
       <m:P30182>1 volume :</m:P30182>
+      <marc:M30000b>illustrations ;</marc:M30000b>
       <m:P30169>20 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -11171,6 +12670,7 @@
       <m:P30156>The lost world</m:P30156>
       <m:P30117>Sir Arthur Conan Doyle</m:P30117>
       <m:P30182>1 volume :</m:P30182>
+      <marc:M30000b>illustrations ;</marc:M30000b>
       <m:P30169>20 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -11183,6 +12683,7 @@
       <m:P30156>Adventures of Sherlock Holmes</m:P30156>
       <m:P30117>Arthur Conan Doyle</m:P30117>
       <m:P30182>1 volume :</m:P30182>
+      <marc:M30000b>illustrations ;</marc:M30000b>
       <m:P30169>20 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -11195,6 +12696,7 @@
       <m:P30156>The case book of Sherlock Holmes</m:P30156>
       <m:P30117>Arthur Conan Doyle</m:P30117>
       <m:P30182>1 volume :</m:P30182>
+      <marc:M30000b>illustrations ;</marc:M30000b>
       <m:P30169>20 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>

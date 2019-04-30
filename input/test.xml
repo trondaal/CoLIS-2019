@@ -5,33 +5,19 @@
         <marc:controlfield tag="003">Uk</marc:controlfield>
         <marc:controlfield tag="005">20170720144246.0</marc:controlfield>
         <marc:controlfield tag="008">040628s2004    enk    e      000 1 eng  </marc:controlfield>
-        <marc:datafield tag="015" ind1=" " ind2=" ">
-            <marc:subfield code="a">GBA449641</marc:subfield>
-            <marc:subfield code="2">bnb</marc:subfield>
-        </marc:datafield>
-        <marc:datafield tag="016" ind1="7" ind2=" ">
-            <marc:subfield code="a">012947022</marc:subfield>
-            <marc:subfield code="2">Uk</marc:subfield>
-        </marc:datafield>
         <marc:datafield tag="020" ind1=" " ind2=" ">
             <marc:subfield code="a">1904633722 :</marc:subfield>
             <marc:subfield code="c">£5.99</marc:subfield>
-        </marc:datafield>
-        <marc:datafield tag="040" ind1=" " ind2=" ">
-            <marc:subfield code="a">StDuBDS</marc:subfield>
-            <marc:subfield code="d">Uk</marc:subfield>
-        </marc:datafield>
-        <marc:datafield tag="042" ind1=" " ind2=" ">
-            <marc:subfield code="a">ukblsr</marc:subfield>
-        </marc:datafield>
-        <marc:datafield tag="082" ind1="0" ind2="4">
-            <marc:subfield code="a">823.8</marc:subfield>
-            <marc:subfield code="2">23</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="100" ind1="1" ind2=" ">
             <marc:subfield code="a">Doyle, Arthur Conan</marc:subfield>
             <marc:subfield code="d">1859-1930.</marc:subfield>
             <marc:subfield code="1p">http://viaf.org/viaf/65283845</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="240" ind1="1" ind2=" ">
+            <marc:subfield code="a">The Hound of the Baskervilles</marc:subfield>
+            <marc:subfield code="1w">http://viaf.org/viaf/181625655</marc:subfield>
+            <marc:subfield code="2">generated from 245</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="245" ind1="1" ind2="4">
             <marc:subfield code="a">The hound of the Baskervilles ;</marc:subfield>
@@ -59,38 +45,14 @@
             <marc:subfield code="a">volume</marc:subfield>
             <marc:subfield code="2">rdacarrier</marc:subfield>
         </marc:datafield>
-        <marc:datafield tag="500" ind1=" " ind2=" ">
-            <marc:subfield code="a">Formerly CIP.</marc:subfield>
-            <marc:subfield code="5">Uk</marc:subfield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Elton John</marc:subfield>
+            <marc:subfield code="1p">http://viaf.org/viaf/testidpersonemne</marc:subfield>
+            <marc:subfield code="4">ill</marc:subfield>
         </marc:datafield>
-        <marc:datafield tag="600" ind1="1" ind2="0">
-            <marc:subfield code="a">Holmes, Sherlock</marc:subfield>
-            <marc:subfield code="v">Fiction.</marc:subfield>
-            <marc:subfield code="1p">http://viaf.org/viaf/173636607</marc:subfield>
-        </marc:datafield>
-        <marc:datafield tag="600" ind1="1" ind2="0">
-            <marc:subfield code="a">Watson, John H.</marc:subfield>
-            <marc:subfield code="c">(Fictitious character)</marc:subfield>
-            <marc:subfield code="v">Fiction.</marc:subfield>
-            <marc:subfield code="1p">http://viaf.org/viaf/308763542</marc:subfield>
-        </marc:datafield>
-        <marc:datafield tag="650" ind1=" " ind2="0">
-            <marc:subfield code="a">Detective and mystery stories, English.</marc:subfield>
-        </marc:datafield>
-        <marc:datafield tag="700" ind1="1" ind2="2">
-            <marc:subfield code="a">Doyle, Arthur Conan</marc:subfield>
-            <marc:subfield code="d">1859-1930.</marc:subfield>
-            <marc:subfield code="t">Valley of fear.</marc:subfield>
-            <marc:subfield code="1p">http://viaf.org/viaf/65283845</marc:subfield>
-            <marc:subfield code="1w">http://viaf.org/viaf/175571309</marc:subfield>
-        </marc:datafield>
-        <marc:datafield tag="700" ind1="1" ind2="2">
-            <marc:subfield code="a">Doyle, Arthur Conan</marc:subfield>
-            <marc:subfield code="d">1859-1930.</marc:subfield>
-            <marc:subfield code="1p">http://viaf.org/viaf/65283845</marc:subfield>
-            <marc:subfield code="t">The Hound of the Baskervilles</marc:subfield>
-            <marc:subfield code="1w">http://viaf.org/viaf/181625655</marc:subfield>
-            <marc:subfield code="2">generated from 245</marc:subfield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Son of Elton John</marc:subfield>
+            <marc:subfield code="1p">http://viaf.org/viaf/testidpersonemne2</marc:subfield>
         </marc:datafield>
     </marc:record>
 </marc:collection>

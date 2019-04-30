@@ -10,6 +10,24 @@
          xmlns:marc="http://marc21rdf.info/elements/marc/"
          xmlns:m="http://rdaregistry.info/Elements/m/"
          xml:base="http://example.org/rda/">
+   <c:C10001 rdf:about="/noidentifier">
+      <w:P10088>Die Blechtrommel</w:P10088>
+      <w:P10013 rdf:resource="schlndorffvolker"/>
+      <w:P10053 rdf:resource="jarremaurice"/>
+      <w:P10064 rdf:resource="daumananatole"/>
+      <w:P10064 rdf:resource="seitzfranz"/>
+      <w:P10068 rdf:resource="lutherigor"/>
+      <w:P10078 rdf:resource="/noidentifier/spa/"/>
+      <w:P10129 rdf:resource="http://www.wikidata.org/entity/q899334"/>
+      <w:P10203 rdf:resource="schlndorffvolker"/>
+      <w:P10203 rdf:resource="carrirejeanclaude"/>
+      <w:P10203 rdf:resource="seitzfranz"/>
+   </c:C10001>
+   <c:C10001 rdf:about="grimmelshausenhansjakobchristophvon/dielandstrzerincourasche">
+      <w:P10088>Die Landstörzerin Courasche</w:P10088>
+      <w:P10061 rdf:resource="grimmelshausenhansjakobchristophvon"/>
+      <w:P10078 rdf:resource="grimmelshausenhansjakobchristophvon/dielandstrzerincourasche/spa/texto(visual)"/>
+   </c:C10001>
    <c:C10001 rdf:about="http://oslomet.workid.no/gg/01">
       <w:P10002>http://oslomet.workid.no/gg/01</w:P10002>
       <w:P10088>Die bösen Köche</w:P10088>
@@ -39,6 +57,7 @@
    <c:C10001 rdf:about="http://oslomet.workid.no/gg/08">
       <w:P10002>http://oslomet.workid.no/gg/08</w:P10002>
       <w:P10088>Aus dem Tagebuch einer Schnecke</w:P10088>
+      <w:P10055 rdf:resource="http://viaf.org/viaf/61606726"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/102319859"/>
       <w:P10078 rdf:resource="http://oslomet.workid.no/gg/08/eng/text"/>
       <w:P10078 rdf:resource="http://oslomet.workid.no/gg/08/spa/"/>
@@ -70,6 +89,7 @@
       <w:P10002>http://oslomet.workid.no/gg/1002</w:P10002>
       <w:P10088>Fünf Jahrzehnte</w:P10088>
       <w:P10088>Fünf Jahrzehnte</w:P10088>
+      <w:P10055 rdf:resource="margullgfritze"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/102319859"/>
       <w:P10078 rdf:resource="http://oslomet.workid.no/gg/1002/ger/text"/>
       <w:P10078 rdf:resource="http://oslomet.workid.no/gg/1002/ger/"/>
@@ -130,12 +150,12 @@
       <w:P10061 rdf:resource="http://viaf.org/viaf/102319859"/>
       <w:P10078 rdf:resource="http://oslomet.workid.no/gg/13/ger/text"/>
       <w:P10257 rdf:resource="http://oslomet.workid.no/gg/13"/>
-      <w:P10261 rdf:resource="http://viaf.org/viaf/102319859"/>
       <w:P10264 rdf:resource="http://oslomet.workid.no/gg/13"/>
    </c:C10001>
    <c:C10001 rdf:about="http://oslomet.workid.no/gg/15">
       <w:P10002>http://oslomet.workid.no/gg/15</w:P10002>
       <w:P10088>Lyrische Beute</w:P10088>
+      <w:P10055 rdf:resource="http://viaf.org/viaf/114089092"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/102319859"/>
       <w:P10078 rdf:resource="http://oslomet.workid.no/gg/15/ger/text"/>
       <w:P10078 rdf:resource="http://oslomet.workid.no/gg/15/spa/"/>
@@ -167,6 +187,11 @@
       <w:P10078 rdf:resource="http://oslomet.workid.no/gg/24/ger/text"/>
       <w:P10078 rdf:resource="http://oslomet.workid.no/gg/24/spa/"/>
       <w:P10078 rdf:resource="http://oslomet.workid.no/gg/24/spa/text"/>
+   </c:C10001>
+   <c:C10001 rdf:about="http://viaf.org/viaf/102319859/lernendelehrer">
+      <w:P10088>Lernende Lehrer</w:P10088>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/102319859"/>
+      <w:P10078 rdf:resource="http://viaf.org/viaf/102319859/lernendelehrer/ger/text"/>
    </c:C10001>
    <c:C10001 rdf:about="http://viaf.org/viaf/12146937706213831421">
       <w:P10002>http://viaf.org/viaf/12146937706213831421</w:P10002>
@@ -200,6 +225,7 @@
    <c:C10001 rdf:about="http://viaf.org/viaf/198560112">
       <w:P10002>http://viaf.org/viaf/198560112</w:P10002>
       <w:P10088>Unkenrufe</w:P10088>
+      <w:P10055 rdf:resource="http://viaf.org/viaf/114089092"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/102319859"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/198560112/ger/text"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/198560112/eng/text"/>
@@ -226,6 +252,7 @@
       <w:P10088>Butt</w:P10088>
       <w:P10004>Selección</w:P10004>
       <w:P10088>&#x98;Der&#x9c; Butt</w:P10088>
+      <w:P10055 rdf:resource="http://viaf.org/viaf/114089092"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/102319859"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/213148121/eng/text"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/213148121/spa/text"/>
@@ -267,8 +294,6 @@
       <w:P10088>Gestern, vor 50 Jahren</w:P10088>
       <w:P10061 rdf:resource="http://viaf.org/viaf/102319859"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/316730448/ger/text"/>
-      <w:P10261 rdf:resource="http://viaf.org/viaf/102319859"/>
-      <w:P10261 rdf:resource="oekenzaburo"/>
    </c:C10001>
    <c:C10001 rdf:about="http://viaf.org/viaf/317273079">
       <w:P10002>http://viaf.org/viaf/317273079</w:P10002>
@@ -281,6 +306,7 @@
       <w:P10002>http://viaf.org/viaf/6194148269702405230001</w:P10002>
       <w:P10088>Grimms Wörter</w:P10088>
       <w:P10088>Grimms Wörter</w:P10088>
+      <w:P10055 rdf:resource="http://viaf.org/viaf/114089092"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/102319859"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/6194148269702405230001/ger/text"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/6194148269702405230001/ger/gesprocheneswort"/>
@@ -302,6 +328,7 @@
    <c:C10001 rdf:about="http://www.wikidata.org/entity/q1460598">
       <w:P10002>http://www.wikidata.org/entity/Q1460598</w:P10002>
       <w:P10088>Im Krebsgang</w:P10088>
+      <w:P10055 rdf:resource="http://viaf.org/viaf/114089092"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/102319859"/>
       <w:P10078 rdf:resource="http://www.wikidata.org/entity/q1460598/eng/text"/>
       <w:P10078 rdf:resource="http://www.wikidata.org/entity/q1460598/ger/text"/>
@@ -318,7 +345,6 @@
       <w:P10078 rdf:resource="http://www.wikidata.org/entity/q15805843/ger/text"/>
       <w:P10257 rdf:resource="http://www.wikidata.org/entity/q15805843"/>
       <w:P10261 rdf:resource="grutzkejohannes"/>
-      <w:P10261 rdf:resource="http://viaf.org/viaf/102319859"/>
       <w:P10264 rdf:resource="http://www.wikidata.org/entity/q15805843"/>
    </c:C10001>
    <c:C10001 rdf:about="http://www.wikidata.org/entity/q1669964">
@@ -337,7 +363,6 @@
       <w:P10088>Katz und Maus</w:P10088>
       <w:P10088>Katz und maus</w:P10088>
       <w:P10088>Katz und Maus. English</w:P10088>
-      <w:P10019 rdf:resource="http://www.wikidata.org/entity/q989760"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/102319859"/>
       <w:P10078 rdf:resource="http://www.wikidata.org/entity/q1736859/eng/text"/>
       <w:P10078 rdf:resource="http://www.wikidata.org/entity/q1736859/spa/"/>
@@ -361,6 +386,8 @@
       <w:P10002>http://www.wikidata.org/entity/Q320933</w:P10002>
       <w:P10088>Das Treffen in Telgte</w:P10088>
       <w:P10088>&#x98;Das&#x9c; Treffen in Telgte</w:P10088>
+      <w:P10055 rdf:resource="mayeriswandyclaudia"/>
+      <w:P10055 rdf:resource="http://viaf.org/viaf/114089092"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/102319859"/>
       <w:P10078 rdf:resource="http://www.wikidata.org/entity/q320933/eng/text"/>
       <w:P10078 rdf:resource="http://www.wikidata.org/entity/q320933/ger/text"/>
@@ -374,7 +401,6 @@
       <w:P10002>http://www.wikidata.org/entity/Q499564</w:P10002>
       <w:P10088>Hundejahre</w:P10088>
       <w:P10088>Hundejahre. English</w:P10088>
-      <w:P10019 rdf:resource="http://www.wikidata.org/entity/q989760"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/102319859"/>
       <w:P10078 rdf:resource="http://www.wikidata.org/entity/q499564/eng/text"/>
       <w:P10078 rdf:resource="http://www.wikidata.org/entity/q499564/spa/"/>
@@ -386,6 +412,7 @@
       <w:P10002>http://www.wikidata.org/entity/Q6663949</w:P10002>
       <w:P10088>Örtlich betäubt</w:P10088>
       <w:P10088>Örtlich betäubt</w:P10088>
+      <w:P10055 rdf:resource="http://viaf.org/viaf/61606726"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/102319859"/>
       <w:P10078 rdf:resource="http://www.wikidata.org/entity/q6663949/ger/text"/>
       <w:P10078 rdf:resource="http://www.wikidata.org/entity/q6663949/eng/text"/>
@@ -425,6 +452,7 @@
       <w:P10088>Beim Häuten der Zwiebel</w:P10088>
       <w:P10088>Beim Häuten der Zwiebel</w:P10088>
       <w:P10088>Beim Haüten der Zwiebel</w:P10088>
+      <w:P10055 rdf:resource="http://viaf.org/viaf/114089092"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/102319859"/>
       <w:P10078 rdf:resource="http://www.wikidata.org/entity/q814761/eng/text"/>
       <w:P10078 rdf:resource="http://www.wikidata.org/entity/q814761/ger/text"/>
@@ -440,8 +468,13 @@
       <w:P10088>Blechtrommel</w:P10088>
       <w:P10088>&#x98;Die&#x9c; Blechtrommel</w:P10088>
       <w:P10088>Blechtrommel. English</w:P10088>
-      <w:P10019 rdf:resource="http://www.wikidata.org/entity/q989760"/>
+      <w:P10013 rdf:resource="schlndorffvolker"/>
+      <w:P10025 rdf:resource="/noidentifier"/>
+      <w:P10053 rdf:resource="jarremaurice"/>
+      <w:P10055 rdf:resource="http://viaf.org/viaf/61606726"/>
+      <w:P10055 rdf:resource="http://viaf.org/viaf/114089092"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/102319859"/>
+      <w:P10068 rdf:resource="lutherigor"/>
       <w:P10078 rdf:resource="http://www.wikidata.org/entity/q899334/eng/text"/>
       <w:P10078 rdf:resource="http://www.wikidata.org/entity/q899334/ger/text"/>
       <w:P10078 rdf:resource="http://www.wikidata.org/entity/q899334/spa/"/>
@@ -451,29 +484,36 @@
       <w:P10078 rdf:resource="http://www.wikidata.org/entity/q899334/nor/text"/>
       <w:P10078 rdf:resource="http://www.wikidata.org/entity/q899334/spa/text"/>
       <w:P10078 rdf:resource="http://www.wikidata.org/entity/q899334/ger/gesprocheneswort"/>
+      <w:P10203 rdf:resource="schlndorffvolker"/>
+      <w:P10203 rdf:resource="carrirejeanclaude"/>
+      <w:P10203 rdf:resource="seitzfranz"/>
    </c:C10001>
    <c:C10001 rdf:about="http://www.wikidata.org/entity/q989760">
       <w:P10002>http://www.wikidata.org/entity/Q989760</w:P10002>
       <w:P10088>Danziger Trilogie</w:P10088>
       <w:P10061 rdf:resource="http://viaf.org/viaf/102319859"/>
-      <w:P10078 rdf:resource="http://www.wikidata.org/entity/q989760/eng/text"/>
       <w:P10078 rdf:resource="http://www.wikidata.org/entity/q989760/ger/text"/>
-      <w:P10147 rdf:resource="http://www.wikidata.org/entity/q1736859"/>
-      <w:P10147 rdf:resource="http://www.wikidata.org/entity/q899334"/>
-      <w:P10147 rdf:resource="http://www.wikidata.org/entity/q499564"/>
    </c:C10001>
    <c:C10004 rdf:about="abbensethcarlos">
       <a:P50094>abbensethcarlos</a:P50094>
       <a:P50111>Abbenseth, Carlos</a:P50111>
+      <a:P50145 rdf:resource="http://www.wikidata.org/entity/q765047/ger/text"/>
    </c:C10004>
    <c:C10004 rdf:about="adorfmario">
       <a:P50094>adorfmario</a:P50094>
       <a:P50111>Adorf, Mario</a:P50111>
       <a:P50107>1930-</a:P50107>
+      <a:P50071 rdf:resource="/noidentifier/spa/"/>
+      <a:P50071 rdf:resource="http://www.wikidata.org/entity/q899334/spa/"/>
    </c:C10004>
    <c:C10004 rdf:about="alveslucio">
       <a:P50094>alveslucio</a:P50094>
       <a:P50111>Alves, Lúcio</a:P50111>
+      <a:P50145 rdf:resource="http://www.wikidata.org/entity/q899334/fre/text"/>
+   </c:C10004>
+   <c:C10004 rdf:about="amslerjean">
+      <a:P50094>amslerjean</a:P50094>
+      <a:P50111>Amsler, Jean</a:P50111>
    </c:C10004>
    <c:C10004 rdf:about="amsterjean">
       <a:P50094>amsterjean</a:P50094>
@@ -483,6 +523,7 @@
    <c:C10004 rdf:about="antfusun">
       <a:P50094>antfusun</a:P50094>
       <a:P50111>Ant, Füsun</a:P50111>
+      <a:P50145 rdf:resource="http://oslomet.workid.no/gg/10/ger/text"/>
    </c:C10004>
    <c:C10004 rdf:about="arkerdieter">
       <a:P50094>arkerdieter</a:P50094>
@@ -501,29 +542,64 @@
       <a:P50094>aznavourcharles</a:P50094>
       <a:P50111>Aznavour, Charles</a:P50111>
       <a:P50107>1924-</a:P50107>
+      <a:P50071 rdf:resource="/noidentifier/spa/"/>
    </c:C10004>
    <c:C10004 rdf:about="bennentdavid">
       <a:P50094>bennentdavid</a:P50094>
       <a:P50111>Bennent, David</a:P50111>
       <a:P50107>1966-</a:P50107>
+      <a:P50071 rdf:resource="/noidentifier/spa/"/>
+      <a:P50071 rdf:resource="http://www.wikidata.org/entity/q899334/spa/"/>
    </c:C10004>
    <c:C10004 rdf:about="bianchibruna">
       <a:P50094>bianchibruna</a:P50094>
       <a:P50111>Bianchi, Bruna</a:P50111>
       <a:P50107>1942-</a:P50107>
+      <a:P50145 rdf:resource="http://oslomet.workid.no/gg/08/ger/text"/>
    </c:C10004>
    <c:C10004 rdf:about="bollheinrich">
       <a:P50094>bollheinrich</a:P50094>
       <a:P50111>Böll, Heinrich</a:P50111>
       <a:P50107>1917-1985</a:P50107>
    </c:C10004>
+   <c:C10004 rdf:about="bradyphilip">
+      <a:P50094>bradyphilip</a:P50094>
+      <a:P50111>Brady, Philip</a:P50111>
+   </c:C10004>
+   <c:C10004 rdf:about="brookeshedwigf">
+      <a:P50094>brookeshedwigf</a:P50094>
+      <a:P50111>Brookes, Hedwig F</a:P50111>
+      <a:P50107>1911-</a:P50107>
+   </c:C10004>
+   <c:C10004 rdf:about="caihongjun">
+      <a:P50094>caihongjun</a:P50094>
+      <a:P50111>Cai, Hongjun</a:P50111>
+   </c:C10004>
+   <c:C10004 rdf:about="carrirejeanclaude">
+      <a:P50094>carrirejeanclaude</a:P50094>
+      <a:P50111>Carrière, Jean-Claude</a:P50111>
+      <a:P50107>1931-</a:P50107>
+      <a:P50223 rdf:resource="/noidentifier"/>
+      <a:P50223 rdf:resource="http://www.wikidata.org/entity/q899334"/>
+   </c:C10004>
    <c:C10004 rdf:about="chrysostomodesousajehovanira">
       <a:P50094>chrysostomodesousajehovanira</a:P50094>
       <a:P50111>Chrysóstomo de Sousa, Jehovanira</a:P50111>
+      <a:P50145 rdf:resource="http://viaf.org/viaf/213148121/ger/text"/>
    </c:C10004>
    <c:C10004 rdf:about="cosgrovemary">
       <a:P50094>cosgrovemary</a:P50094>
       <a:P50111>Cosgrove, Mary</a:P50111>
+   </c:C10004>
+   <c:C10004 rdf:about="coustinelucde">
+      <a:P50094>coustinelucde</a:P50094>
+      <a:P50111>Coustine, Luc &#x98;de&#x9c;</a:P50111>
+   </c:C10004>
+   <c:C10004 rdf:about="daumananatole">
+      <a:P50094>daumananatole</a:P50094>
+      <a:P50111>Dauman, Anatole</a:P50111>
+      <a:P50107>1925-1998</a:P50107>
+      <a:P50213 rdf:resource="/noidentifier"/>
    </c:C10004>
    <c:C10004 rdf:about="davidsonanika">
       <a:P50094>davidsonanika</a:P50094>
@@ -534,12 +610,24 @@
       <a:P50111>Delaney, Antoinette T</a:P50111>
       <a:P50107>1938-</a:P50107>
    </c:C10004>
+   <c:C10004 rdf:about="deteringheinrich">
+      <a:P50094>deteringheinrich</a:P50094>
+      <a:P50111>Detering, Heinrich</a:P50111>
+      <a:P50107>1959-</a:P50107>
+   </c:C10004>
+   <c:C10004 rdf:about="dieterichantn">
+      <a:P50094>dieterichantn</a:P50094>
+      <a:P50111>Dieterich, Antón</a:P50111>
+      <a:P50107>1944-</a:P50107>
+      <a:P50161 rdf:resource="http://oslomet.workid.no/gg/12/spa/"/>
+   </c:C10004>
    <c:C10004 rdf:about="dieterichgenoveva">
       <a:P50094>dieterichgenoveva</a:P50094>
       <a:P50111>Dieterich, Genoveva</a:P50111>
       <a:P50107>1941-</a:P50107>
       <a:P50145 rdf:resource="http://www.wikidata.org/entity/q320933/spa/texto(visual)"/>
       <a:P50145 rdf:resource="http://www.wikidata.org/entity/q320933/spa/text"/>
+      <a:P50161 rdf:resource="http://www.wikidata.org/entity/q320933/spa/"/>
    </c:C10004>
    <c:C10004 rdf:about="durrenmattfriedrich">
       <a:P50094>durrenmattfriedrich</a:P50094>
@@ -551,21 +639,47 @@
       <a:P50111>Engels, Benedikt</a:P50111>
       <a:P50107>1966-</a:P50107>
    </c:C10004>
+   <c:C10004 rdf:about="estebanjosmanuel">
+      <a:P50094>estebanjosmanuel</a:P50094>
+      <a:P50111>Esteban, José Manuel</a:P50111>
+      <a:P50107>1967-</a:P50107>
+   </c:C10004>
+   <c:C10004 rdf:about="filippinienrico">
+      <a:P50094>filippinienrico</a:P50094>
+      <a:P50111>Filippini, Enrico</a:P50111>
+   </c:C10004>
    <c:C10004 rdf:about="forteacarlos">
       <a:P50094>forteacarlos</a:P50094>
       <a:P50111>Fortea, Carlos</a:P50111>
       <a:P50107>1963-</a:P50107>
       <a:P50145 rdf:resource="http://oslomet.workid.no/gg/21/spa/texto(visual)"/>
       <a:P50145 rdf:resource="http://oslomet.workid.no/gg/21/spa/text"/>
+      <a:P50161 rdf:resource="http://oslomet.workid.no/gg/21/spa/texto(visual)"/>
+      <a:P50161 rdf:resource="http://oslomet.workid.no/gg/21/spa/"/>
+   </c:C10004>
+   <c:C10004 rdf:about="fraenkelcharlotteelisabeth">
+      <a:P50094>fraenkelcharlotteelisabeth</a:P50094>
+      <a:P50111>Fraenkel, Charlotte Elisabeth</a:P50111>
    </c:C10004>
    <c:C10004 rdf:about="friesfritzrudolf">
       <a:P50094>friesfritzrudolf</a:P50094>
       <a:P50111>Fries, Fritz Rudolf</a:P50111>
       <a:P50107>1935-2014</a:P50107>
    </c:C10004>
+   <c:C10004 rdf:about="fritzemargullg">
+      <a:P50094>fritzemargullg</a:P50094>
+      <a:P50111>Fritze Margull, G</a:P50111>
+      <a:P50161 rdf:resource="http://oslomet.workid.no/gg/1002/spa/"/>
+   </c:C10004>
    <c:C10004 rdf:about="furnadzievanadja">
       <a:P50094>furnadzievanadja</a:P50094>
       <a:P50111>Furnadžieva, Nadja</a:P50111>
+      <a:P50145 rdf:resource="http://www.wikidata.org/entity/q899334/ger/text"/>
+   </c:C10004>
+   <c:C10004 rdf:about="fusselstephan">
+      <a:P50094>fusselstephan</a:P50094>
+      <a:P50111>Füssel, Stephan</a:P50111>
+      <a:P50107>1952-</a:P50107>
    </c:C10004>
    <c:C10004 rdf:about="gardebarbara">
       <a:P50094>gardebarbara</a:P50094>
@@ -576,7 +690,16 @@
       <a:P50094>gomringernora</a:P50094>
       <a:P50111>Gomringer, Nora</a:P50111>
       <a:P50107>1980-</a:P50107>
-      <a:P50608 rdf:resource="http://viaf.org/viaf/6194148269702405230001/ger/gesprocheneswort"/>
+      <a:P50081 rdf:resource="http://viaf.org/viaf/6194148269702405230001/ger/gesprocheneswort"/>
+   </c:C10004>
+   <c:C10004 rdf:about="greifftrygve">
+      <a:P50094>greifftrygve</a:P50094>
+      <a:P50111>Greiff, Trygve</a:P50111>
+   </c:C10004>
+   <c:C10004 rdf:about="grimmelshausenhansjakobchristophvon">
+      <a:P50094>grimmelshausenhansjakobchristophvon</a:P50094>
+      <a:P50111>Grimmelshausen, Hans Jakob Christoph von</a:P50111>
+      <a:P50195 rdf:resource="grimmelshausenhansjakobchristophvon/dielandstrzerincourasche"/>
    </c:C10004>
    <c:C10004 rdf:about="grimmjacob">
       <a:P50094>grimmjacob</a:P50094>
@@ -624,6 +747,10 @@
       <a:P50111>Hildesheimer, Wolfgang</a:P50111>
       <a:P50107>1916-1991</a:P50107>
    </c:C10004>
+   <c:C10004 rdf:about="hrgaardper">
+      <a:P50094>hrgaardper</a:P50094>
+      <a:P50111>Øhrgaard, Per</a:P50111>
+   </c:C10004>
    <c:C10004 rdf:about="http://viaf.org/viaf/102319859">
       <a:P50094>http://viaf.org/viaf/102319859</a:P50094>
       <a:P50111>Grass, Günter</a:P50111>
@@ -670,6 +797,7 @@
       <a:P50195 rdf:resource="http://oslomet.workid.no/gg/01"/>
       <a:P50195 rdf:resource="http://oslomet.workid.no/gg/1006"/>
       <a:P50195 rdf:resource="http://oslomet.workid.no/gg/1003http://oslomet.workid.no/gg/1004"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/102319859/lernendelehrer"/>
       <a:P50195 rdf:resource="http://oslomet.workid.no/gg/1002"/>
       <a:P50195 rdf:resource="http://viaf.org/viaf/316730448"/>
       <a:P50195 rdf:resource="http://viaf.org/viaf/1659148997630759870001"/>
@@ -687,13 +815,22 @@
       <a:P50249 rdf:resource="http://oslomet.workid.no/gg/1005"/>
       <a:P50249 rdf:resource="http://oslomet.workid.no/gg/21"/>
       <a:P50249 rdf:resource="http://oslomet.workid.no/gg/1002"/>
-      <a:P50249 rdf:resource="http://viaf.org/viaf/316730448"/>
       <a:P50249 rdf:resource="http://viaf.org/viaf/1659148997630759870001"/>
       <a:P50249 rdf:resource="http://viaf.org/viaf/198568192"/>
       <a:P50249 rdf:resource="http://oslomet.workid.no/gg/08"/>
-      <a:P50249 rdf:resource="http://oslomet.workid.no/gg/13"/>
       <a:P50249 rdf:resource="http://oslomet.workid.no/gg/1003http://oslomet.workid.no/gg/1004"/>
-      <a:P50249 rdf:resource="http://www.wikidata.org/entity/q15805843"/>
+   </c:C10004>
+   <c:C10004 rdf:about="http://viaf.org/viaf/114089092">
+      <a:P50094>http://viaf.org/viaf/114089092</a:P50094>
+      <a:P50111>Kogel, Jörg-Dieter</a:P50111>
+      <a:P50189 rdf:resource="http://viaf.org/viaf/6194148269702405230001"/>
+      <a:P50189 rdf:resource="http://viaf.org/viaf/198560112"/>
+      <a:P50189 rdf:resource="http://oslomet.workid.no/gg/15"/>
+      <a:P50189 rdf:resource="http://viaf.org/viaf/213148121"/>
+      <a:P50189 rdf:resource="http://www.wikidata.org/entity/q1460598"/>
+      <a:P50189 rdf:resource="http://www.wikidata.org/entity/q814761"/>
+      <a:P50189 rdf:resource="http://www.wikidata.org/entity/q320933"/>
+      <a:P50189 rdf:resource="http://www.wikidata.org/entity/q899334"/>
    </c:C10004>
    <c:C10004 rdf:about="http://viaf.org/viaf/22322043">
       <a:P50094>http://viaf.org/viaf/22322043</a:P50094>
@@ -710,6 +847,10 @@
       <a:P50145 rdf:resource="http://www.wikidata.org/entity/q1669964/spa/texto(visual)"/>
       <a:P50145 rdf:resource="http://oslomet.workid.no/gg/08/spa/texto(visual)"/>
       <a:P50145 rdf:resource="http://www.wikidata.org/entity/q1254354/spa/texto(visual)"/>
+      <a:P50161 rdf:resource="http://viaf.org/viaf/198560112/spa/"/>
+      <a:P50161 rdf:resource="http://viaf.org/viaf/213148121/spa/"/>
+      <a:P50161 rdf:resource="http://www.wikidata.org/entity/q765047/spa/"/>
+      <a:P50161 rdf:resource="http://www.wikidata.org/entity/q899334/spa/"/>
    </c:C10004>
    <c:C10004 rdf:about="http://viaf.org/viaf/24602065">
       <a:P50094>http://viaf.org/viaf/24602065</a:P50094>
@@ -731,6 +872,7 @@
       <a:P50145 rdf:resource="http://www.wikidata.org/entity/q499564/spa/texto(visual)"/>
       <a:P50145 rdf:resource="http://www.wikidata.org/entity/q6663949/spa/texto(visual)"/>
       <a:P50145 rdf:resource="http://www.wikidata.org/entity/q1736859/spa/texto(visual)"/>
+      <a:P50145 rdf:resource="http://www.wikidata.org/entity/q1736859/ger/text"/>
       <a:P50145 rdf:resource="http://www.wikidata.org/entity/q499564/spa/text"/>
    </c:C10004>
    <c:C10004 rdf:about="http://viaf.org/viaf/54151065">
@@ -742,6 +884,9 @@
       <a:P50094>http://viaf.org/viaf/61606726</a:P50094>
       <a:P50111>Neuhaus, Volker</a:P50111>
       <a:P50107>1943-</a:P50107>
+      <a:P50189 rdf:resource="http://www.wikidata.org/entity/q6663949"/>
+      <a:P50189 rdf:resource="http://oslomet.workid.no/gg/08"/>
+      <a:P50189 rdf:resource="http://www.wikidata.org/entity/q899334"/>
    </c:C10004>
    <c:C10004 rdf:about="http://viaf.org/viaf/9864901">
       <a:P50094>http://viaf.org/viaf/9864901</a:P50094>
@@ -764,13 +909,22 @@
       <a:P50107>1929-1995</a:P50107>
       <a:P50195 rdf:resource="http://viaf.org/viaf/317273079"/>
    </c:C10004>
+   <c:C10004 rdf:about="jarremaurice">
+      <a:P50094>jarremaurice</a:P50094>
+      <a:P50111>Jarre, Maurice</a:P50111>
+      <a:P50107>1924-2009</a:P50107>
+      <a:P50187 rdf:resource="/noidentifier"/>
+      <a:P50187 rdf:resource="http://www.wikidata.org/entity/q899334"/>
+   </c:C10004>
    <c:C10004 rdf:about="kaaijpeter">
       <a:P50094>kaaijpeter</a:P50094>
       <a:P50111>Kaaij, Peter</a:P50111>
+      <a:P50145 rdf:resource="http://oslomet.workid.no/gg/1003http://oslomet.workid.no/gg/1004/ger/text"/>
    </c:C10004>
    <c:C10004 rdf:about="kadimaavraham">
       <a:P50094>kadimaavraham</a:P50094>
       <a:P50111>Kadima, Avraham</a:P50111>
+      <a:P50145 rdf:resource="http://oslomet.workid.no/gg/08/ger/text"/>
    </c:C10004>
    <c:C10004 rdf:about="kimnuri">
       <a:P50094>kimnuri</a:P50094>
@@ -779,6 +933,11 @@
    <c:C10004 rdf:about="kimungjun">
       <a:P50094>kimungjun</a:P50094>
       <a:P50111>Kim, Ŭng-jun</a:P50111>
+      <a:P50107>1969-</a:P50107>
+   </c:C10004>
+   <c:C10004 rdf:about="kolbelmartin">
+      <a:P50094>kolbelmartin</a:P50094>
+      <a:P50111>Kölbel, Martin</a:P50111>
       <a:P50107>1969-</a:P50107>
    </c:C10004>
    <c:C10004 rdf:about="koneckerainer">
@@ -801,6 +960,7 @@
    <c:C10004 rdf:about="liljegreneva">
       <a:P50094>liljegreneva</a:P50094>
       <a:P50111>Liljegren, Eva</a:P50111>
+      <a:P50145 rdf:resource="http://www.wikidata.org/entity/q765047/ger/text"/>
    </c:C10004>
    <c:C10004 rdf:about="loebsackgrita">
       <a:P50094>loebsackgrita</a:P50094>
@@ -812,10 +972,43 @@
       <a:P50145 rdf:resource="http://www.wikidata.org/entity/q1669964/spa/texto(visual)"/>
       <a:P50145 rdf:resource="http://www.wikidata.org/entity/q7719566/spa/text"/>
    </c:C10004>
+   <c:C10004 rdf:about="lohneredgar">
+      <a:P50094>lohneredgar</a:P50094>
+      <a:P50111>Lohner, Edgar</a:P50111>
+      <a:P50107>1919-1975</a:P50107>
+      <a:P50161 rdf:resource="http://www.wikidata.org/entity/q1736859/eng/text"/>
+   </c:C10004>
+   <c:C10004 rdf:about="lutherigor">
+      <a:P50094>lutherigor</a:P50094>
+      <a:P50111>Luther, Igor</a:P50111>
+      <a:P50107>1942-</a:P50107>
+      <a:P50207 rdf:resource="/noidentifier"/>
+      <a:P50207 rdf:resource="http://www.wikidata.org/entity/q899334"/>
+   </c:C10004>
+   <c:C10004 rdf:about="margullfritze">
+      <a:P50094>margullfritze</a:P50094>
+      <a:P50111>Margull, Fritze</a:P50111>
+      <a:P50107>1945-</a:P50107>
+      <a:P50161 rdf:resource="http://viaf.org/viaf/315591424/ger/text"/>
+      <a:P50161 rdf:resource="http://oslomet.workid.no/gg/1002/ger/text"/>
+      <a:P50161 rdf:resource="http://viaf.org/viaf/1659148997630759870001/ger/text"/>
+   </c:C10004>
+   <c:C10004 rdf:about="margullgfritze">
+      <a:P50094>margullgfritze</a:P50094>
+      <a:P50111>Margull, G. Fritze</a:P50111>
+      <a:P50107>1945-</a:P50107>
+      <a:P50161 rdf:resource="http://oslomet.workid.no/gg/1002/ger/"/>
+      <a:P50189 rdf:resource="http://oslomet.workid.no/gg/1002"/>
+   </c:C10004>
    <c:C10004 rdf:about="maria">
       <a:P50094>maria</a:P50094>
       <a:P50111>Maria</a:P50111>
       <a:P50107>ca. 1.Jh.v.Chr.-1.Jh</a:P50107>
+   </c:C10004>
+   <c:C10004 rdf:about="mayeriswandyclaudia">
+      <a:P50094>mayeriswandyclaudia</a:P50094>
+      <a:P50111>Mayer-Iswandy, Claudia</a:P50111>
+      <a:P50189 rdf:resource="http://www.wikidata.org/entity/q320933"/>
    </c:C10004>
    <c:C10004 rdf:about="mccarthyjohna">
       <a:P50094>mccarthyjohna</a:P50094>
@@ -825,6 +1018,12 @@
       <a:P50094>mitchellbreon</a:P50094>
       <a:P50111>Mitchell, Breon</a:P50111>
       <a:P50145 rdf:resource="http://viaf.org/viaf/12146937706213831421/eng/text"/>
+      <a:P50161 rdf:resource="http://www.wikidata.org/entity/q899334/eng/text"/>
+   </c:C10004>
+   <c:C10004 rdf:about="mollerclaas">
+      <a:P50094>mollerclaas</a:P50094>
+      <a:P50111>Möller, Claas</a:P50111>
+      <a:P50170 rdf:resource="urn:isbn:9783882438826"/>
    </c:C10004>
    <c:C10004 rdf:about="monersisinyoljordi">
       <a:P50094>monersisinyoljordi</a:P50094>
@@ -836,6 +1035,12 @@
       <a:P50111>Morgner, Irmtraud</a:P50111>
       <a:P50107>1933-1990</a:P50107>
    </c:C10004>
+   <c:C10004 rdf:about="mortizjoaqun">
+      <a:P50094>mortizjoaqun</a:P50094>
+      <a:P50111>Mortiz, Joaquín</a:P50111>
+      <a:P50161 rdf:resource="http://www.wikidata.org/entity/q1736859/spa/"/>
+      <a:P50161 rdf:resource="http://www.wikidata.org/entity/q899334/spa/"/>
+   </c:C10004>
    <c:C10004 rdf:about="mosersabine">
       <a:P50094>mosersabine</a:P50094>
       <a:P50111>Moser, Sabine</a:P50111>
@@ -846,14 +1051,32 @@
       <a:P50111>Mo, Yan</a:P50111>
       <a:P50107>1956-</a:P50107>
    </c:C10004>
+   <c:C10004 rdf:about="nadalihernndezjordi">
+      <a:P50094>nadalihernndezjordi</a:P50094>
+      <a:P50111>Nadal i Hernàndez, Jordi</a:P50111>
+      <a:P50107>1962-</a:P50107>
+      <a:P50161 rdf:resource="http://www.wikidata.org/entity/q765047/spa/"/>
+   </c:C10004>
    <c:C10004 rdf:about="naganowskairena">
       <a:P50094>naganowskairena</a:P50094>
       <a:P50111>Naganowska, Irena</a:P50111>
+      <a:P50145 rdf:resource="http://www.wikidata.org/entity/q1736859/ger/text"/>
    </c:C10004>
    <c:C10004 rdf:about="naganowskiegon">
       <a:P50094>naganowskiegon</a:P50094>
       <a:P50111>Naganowski, Egon</a:P50111>
       <a:P50107>1913-</a:P50107>
+      <a:P50145 rdf:resource="http://www.wikidata.org/entity/q1736859/ger/text"/>
+   </c:C10004>
+   <c:C10004 rdf:about="nedreaastorborg">
+      <a:P50094>nedreaastorborg</a:P50094>
+      <a:P50111>Nedreaas, Torborg</a:P50111>
+      <a:P50107>1906-1987</a:P50107>
+   </c:C10004>
+   <c:C10004 rdf:about="negtoskar">
+      <a:P50094>negtoskar</a:P50094>
+      <a:P50111>Negt, Oskar</a:P50111>
+      <a:P50107>1934-</a:P50107>
    </c:C10004>
    <c:C10004 rdf:about="neisedgar">
       <a:P50094>neisedgar</a:P50094>
@@ -869,11 +1092,24 @@
       <a:P50111>Nietzsche, Friedrich</a:P50111>
       <a:P50107>1844-1900</a:P50107>
    </c:C10004>
+   <c:C10004 rdf:about="njaakselbull">
+      <a:P50094>njaakselbull</a:P50094>
+      <a:P50111>Nj°a, Aksel Bull</a:P50111>
+   </c:C10004>
+   <c:C10004 rdf:about="oberhammergeorg">
+      <a:P50094>oberhammergeorg</a:P50094>
+      <a:P50111>Oberhammer, Georg</a:P50111>
+   </c:C10004>
    <c:C10004 rdf:about="oekenzaburo">
       <a:P50094>oekenzaburo</a:P50094>
       <a:P50111>Ōe, Kenzaburō</a:P50111>
       <a:P50107>1935-</a:P50107>
-      <a:P50249 rdf:resource="http://viaf.org/viaf/316730448"/>
+      <a:P50161 rdf:resource="http://viaf.org/viaf/316730448/ger/text"/>
+   </c:C10004>
+   <c:C10004 rdf:about="ohsolinghilke">
+      <a:P50094>ohsolinghilke</a:P50094>
+      <a:P50111>Ohsoling, Hilke</a:P50111>
+      <a:P50161 rdf:resource="http://viaf.org/viaf/1659148997630759870001/ger/text"/>
    </c:C10004>
    <c:C10004 rdf:about="panlu">
       <a:P50094>panlu</a:P50094>
@@ -883,6 +1119,16 @@
       <a:P50094>pelstertheodor</a:P50094>
       <a:P50111>Pelster, Theodor</a:P50111>
       <a:P50107>1937-</a:P50107>
+   </c:C10004>
+   <c:C10004 rdf:about="petersenthomas">
+      <a:P50094>petersenthomas</a:P50094>
+      <a:P50111>Petersen, Thomas</a:P50111>
+      <a:P50107>1968-</a:P50107>
+   </c:C10004>
+   <c:C10004 rdf:about="pickargertrudbauer">
+      <a:P50094>pickargertrudbauer</a:P50094>
+      <a:P50111>Pickar, Gertrud Bauer</a:P50111>
+      <a:P50107>1936-</a:P50107>
    </c:C10004>
    <c:C10004 rdf:about="radojewskamarta">
       <a:P50094>radojewskamarta</a:P50094>
@@ -899,6 +1145,11 @@
       <a:P50111>Rilke, Rainer Maria</a:P50111>
       <a:P50107>1875-1926</a:P50107>
    </c:C10004>
+   <c:C10004 rdf:about="ritteralexander">
+      <a:P50094>ritteralexander</a:P50094>
+      <a:P50111>Ritter, Alexander</a:P50111>
+      <a:P50107>1939-</a:P50107>
+   </c:C10004>
    <c:C10004 rdf:about="rosellsteuerpernilla">
       <a:P50094>rosellsteuerpernilla</a:P50094>
       <a:P50111>Rosell Steuer, Pernilla</a:P50111>
@@ -906,8 +1157,13 @@
    </c:C10004>
    <c:C10004 rdf:about="saenzmiguel">
       <a:P50094>saenzmiguel</a:P50094>
+      <a:P50111>Sáenz, Miguel</a:P50111>
       <a:P50111>Sáenz, Miguel, 1932-</a:P50111>
       <a:P50145 rdf:resource="http://www.wikidata.org/entity/q7719566/spa/text"/>
+   </c:C10004>
+   <c:C10004 rdf:about="sarkozyelga">
+      <a:P50094>sarkozyelga</a:P50094>
+      <a:P50111>Sárközy, Elga</a:P50111>
    </c:C10004>
    <c:C10004 rdf:about="scherfrainer">
       <a:P50094>scherfrainer</a:P50094>
@@ -922,6 +1178,10 @@
       <a:P50094>schlndorffvolker</a:P50094>
       <a:P50111>Schlöndorff, Volker</a:P50111>
       <a:P50107>1939-</a:P50107>
+      <a:P50048 rdf:resource="/noidentifier"/>
+      <a:P50048 rdf:resource="http://www.wikidata.org/entity/q899334"/>
+      <a:P50223 rdf:resource="/noidentifier"/>
+      <a:P50223 rdf:resource="http://www.wikidata.org/entity/q899334"/>
    </c:C10004>
    <c:C10004 rdf:about="schlondorffvolker">
       <a:P50094>schlondorffvolker</a:P50094>
@@ -936,10 +1196,31 @@
       <a:P50111>Schulz, Andrej</a:P50111>
       <a:P50107>1961-</a:P50107>
    </c:C10004>
+   <c:C10004 rdf:about="schuurkaspersc">
+      <a:P50094>schuurkaspersc</a:P50094>
+      <a:P50111>Schuur-Kaspers, C</a:P50111>
+   </c:C10004>
    <c:C10004 rdf:about="sebaldwg">
       <a:P50094>sebaldwg</a:P50094>
       <a:P50111>Sebald, W. G</a:P50111>
       <a:P50107>1944-2001</a:P50107>
+   </c:C10004>
+   <c:C10004 rdf:about="seitzfranz">
+      <a:P50094>seitzfranz</a:P50094>
+      <a:P50111>Seitz, Franz</a:P50111>
+      <a:P50107>1921-2006</a:P50107>
+      <a:P50213 rdf:resource="/noidentifier"/>
+      <a:P50223 rdf:resource="http://www.wikidata.org/entity/q899334"/>
+      <a:P50223 rdf:resource="/noidentifier"/>
+   </c:C10004>
+   <c:C10004 rdf:about="sesinkjosa">
+      <a:P50094>sesinkjosa</a:P50094>
+      <a:P50111>Sesink, Josa</a:P50111>
+   </c:C10004>
+   <c:C10004 rdf:about="sommergunter">
+      <a:P50094>sommergunter</a:P50094>
+      <a:P50111>Sommer, Günter</a:P50111>
+      <a:P50107>1943-</a:P50107>
    </c:C10004>
    <c:C10004 rdf:about="sopronizsuzsa">
       <a:P50094>sopronizsuzsa</a:P50094>
@@ -950,6 +1231,17 @@
       <a:P50094>spreckelsenwolfgang</a:P50094>
       <a:P50111>Spreckelsen, Wolfgang</a:P50111>
       <a:P50107>1964-</a:P50107>
+   </c:C10004>
+   <c:C10004 rdf:about="spycherpeter">
+      <a:P50094>spycherpeter</a:P50094>
+      <a:P50111>Spycher, Peter</a:P50111>
+      <a:P50107>1921-</a:P50107>
+      <a:P50161 rdf:resource="http://oslomet.workid.no/gg/01/ger/text"/>
+   </c:C10004>
+   <c:C10004 rdf:about="steidlgerhard">
+      <a:P50094>steidlgerhard</a:P50094>
+      <a:P50111>Steidl, Gerhard</a:P50111>
+      <a:P50170 rdf:resource="urn:isbn:9783882438826"/>
    </c:C10004>
    <c:C10004 rdf:about="suskindpatrick">
       <a:P50094>suskindpatrick</a:P50094>
@@ -964,6 +1256,15 @@
    <c:C10004 rdf:about="thomasnoell">
       <a:P50094>thomasnoell</a:P50094>
       <a:P50111>Thomas, Noel L</a:P50111>
+   </c:C10004>
+   <c:C10004 rdf:about="vossenursula">
+      <a:P50094>vossenursula</a:P50094>
+      <a:P50111>Vossen, Ursula</a:P50111>
+      <a:P50107>1965-</a:P50107>
+   </c:C10004>
+   <c:C10004 rdf:about="walldenjohnw">
+      <a:P50094>walldenjohnw</a:P50094>
+      <a:P50111>Walldén, John W</a:P50111>
    </c:C10004>
    <c:C10004 rdf:about="walsermartin">
       <a:P50094>walsermartin</a:P50094>
@@ -984,6 +1285,8 @@
       <a:P50094>winklerangela</a:P50094>
       <a:P50111>Winkler, Angela</a:P50111>
       <a:P50107>1944-</a:P50107>
+      <a:P50071 rdf:resource="/noidentifier/spa/"/>
+      <a:P50071 rdf:resource="http://www.wikidata.org/entity/q899334/spa/"/>
    </c:C10004>
    <c:C10004 rdf:about="winstonkrishna">
       <a:P50094>winstonkrishna</a:P50094>
@@ -1002,10 +1305,31 @@
       <a:P50107>ca. 20./21. Jh</a:P50107>
       <a:P50145 rdf:resource="http://oslomet.workid.no/gg/12/eng/text"/>
    </c:C10004>
+   <c:C10006 rdf:about="/noidentifier/spa/">
+      <e:P20006>spa</e:P20006>
+      <e:P20006>ger</e:P20006>
+      <e:P20006>Español-Alemán</e:P20006>
+      <e:P20006>Español</e:P20006>
+      <e:P20012 rdf:resource="bennentdavid"/>
+      <e:P20012 rdf:resource="adorfmario"/>
+      <e:P20012 rdf:resource="winklerangela"/>
+      <e:P20012 rdf:resource="aznavourcharles"/>
+      <e:P20059 rdf:resource="http://example.org/bivi0000014327"/>
+      <e:P20059 rdf:resource="http://example.org/bivi0000061973"/>
+      <e:P20231 rdf:resource="/noidentifier"/>
+   </c:C10006>
+   <c:C10006 rdf:about="grimmelshausenhansjakobchristophvon/dielandstrzerincourasche/spa/texto(visual)">
+      <e:P20006>spa</e:P20006>
+      <e:P20001>Texto (visual)</e:P20001>
+      <e:P20006>Español</e:P20006>
+      <e:P20059 rdf:resource="urn:isbn:9788493770976"/>
+      <e:P20231 rdf:resource="grimmelshausenhansjakobchristophvon/dielandstrzerincourasche"/>
+   </c:C10006>
    <c:C10006 rdf:about="http://oslomet.workid.no/gg/01/ger/text">
       <e:P20006>ger</e:P20006>
       <e:P20001>text</e:P20001>
       <e:P20001>Text</e:P20001>
+      <e:P20053 rdf:resource="spycherpeter"/>
       <e:P20059 rdf:resource="urn:isbn:3472614366"/>
       <e:P20059 rdf:resource="http://example.org/1081631643"/>
       <e:P20059 rdf:resource="urn:isbn:9783150098837"/>
@@ -1081,6 +1405,8 @@
       <e:P20312>Aus dem Tagebuch einer Schnecke</e:P20312>
       <e:P20312>ital.</e:P20312>
       <e:P20312>hebr.</e:P20312>
+      <e:P20037 rdf:resource="bianchibruna"/>
+      <e:P20037 rdf:resource="kadimaavraham"/>
       <e:P20059 rdf:resource="urn:isbn:9783472613107"/>
       <e:P20059 rdf:resource="urn:isbn:9783423125932"/>
       <e:P20059 rdf:resource="http://example.org/730088626"/>
@@ -1141,6 +1467,7 @@
       <e:P20001>Text</e:P20001>
       <e:P20312>türk.</e:P20312>
       <e:P20312>Kopfgeburten oder die Deutschen sterben aus</e:P20312>
+      <e:P20037 rdf:resource="antfusun"/>
       <e:P20059 rdf:resource="http://example.org/014144734"/>
       <e:P20059 rdf:resource="urn:isbn:3472865202"/>
       <e:P20059 rdf:resource="urn:isbn:9783882432862"/>
@@ -1157,6 +1484,7 @@
    </c:C10006>
    <c:C10006 rdf:about="http://oslomet.workid.no/gg/1002/ger/">
       <e:P20006>ger</e:P20006>
+      <e:P20053 rdf:resource="margullgfritze"/>
       <e:P20059 rdf:resource="urn:isbn:3865210511"/>
       <e:P20231 rdf:resource="http://oslomet.workid.no/gg/1002"/>
    </c:C10006>
@@ -1165,6 +1493,7 @@
       <e:P20001>text</e:P20001>
       <e:P20001>Text</e:P20001>
       <e:P20001>unbewegtes Bild</e:P20001>
+      <e:P20053 rdf:resource="margullfritze"/>
       <e:P20059 rdf:resource="urn:isbn:3765723150"/>
       <e:P20059 rdf:resource="urn:isbn:9783865210517"/>
       <e:P20059 rdf:resource="urn:isbn:9783763251629"/>
@@ -1173,6 +1502,7 @@
    <c:C10006 rdf:about="http://oslomet.workid.no/gg/1002/spa/">
       <e:P20006>spa</e:P20006>
       <e:P20006>Español</e:P20006>
+      <e:P20053 rdf:resource="fritzemargullg"/>
       <e:P20059 rdf:resource="urn:isbn:8420466085"/>
       <e:P20231 rdf:resource="http://oslomet.workid.no/gg/1002"/>
    </c:C10006>
@@ -1191,6 +1521,7 @@
       <e:P20001>unbewegtes Bild</e:P20001>
       <e:P20312>niederländ.</e:P20312>
       <e:P20312>Ach Butt, dein Märchen geht böse aus</e:P20312>
+      <e:P20037 rdf:resource="kaaijpeter"/>
       <e:P20059 rdf:resource="urn:isbn:3472684704"/>
       <e:P20059 rdf:resource="urn:isbn:9783472684701"/>
       <e:P20059 rdf:resource="http://example.org/1029793689"/>
@@ -1252,6 +1583,7 @@
    </c:C10006>
    <c:C10006 rdf:about="http://oslomet.workid.no/gg/12/spa/">
       <e:P20006>spa</e:P20006>
+      <e:P20053 rdf:resource="dieterichantn"/>
       <e:P20059 rdf:resource="urn:isbn:8439716885"/>
       <e:P20231 rdf:resource="http://oslomet.workid.no/gg/12"/>
    </c:C10006>
@@ -1315,6 +1647,7 @@
    <c:C10006 rdf:about="http://oslomet.workid.no/gg/21/spa/">
       <e:P20006>spa</e:P20006>
       <e:P20006>Español</e:P20006>
+      <e:P20053 rdf:resource="forteacarlos"/>
       <e:P20059 rdf:resource="urn:isbn:9788420407371"/>
       <e:P20231 rdf:resource="http://oslomet.workid.no/gg/21"/>
    </c:C10006>
@@ -1330,6 +1663,7 @@
       <e:P20006>Español</e:P20006>
       <e:P20001>Texto (visual)</e:P20001>
       <e:P20037 rdf:resource="forteacarlos"/>
+      <e:P20053 rdf:resource="forteacarlos"/>
       <e:P20059 rdf:resource="urn:isbn:9788420407371"/>
       <e:P20059 rdf:resource="urn:isbn:9788466325868"/>
       <e:P20231 rdf:resource="http://oslomet.workid.no/gg/21"/>
@@ -1376,6 +1710,13 @@
       <e:P20059 rdf:resource="urn:isbn:8487347142"/>
       <e:P20231 rdf:resource="http://oslomet.workid.no/gg/24"/>
    </c:C10006>
+   <c:C10006 rdf:about="http://viaf.org/viaf/102319859/lernendelehrer/ger/text">
+      <e:P20006>ger</e:P20006>
+      <e:P20001>text</e:P20001>
+      <e:P20312>Lernende Lehrer.</e:P20312>
+      <e:P20059 rdf:resource="urn:isbn:3882436816"/>
+      <e:P20231 rdf:resource="http://viaf.org/viaf/102319859/lernendelehrer"/>
+   </c:C10006>
    <c:C10006 rdf:about="http://viaf.org/viaf/12146937706213831421/eng/text">
       <e:P20006>eng</e:P20006>
       <e:P20001>text</e:P20001>
@@ -1417,6 +1758,8 @@
    <c:C10006 rdf:about="http://viaf.org/viaf/1659148997630759870001/ger/text">
       <e:P20006>ger</e:P20006>
       <e:P20001>text</e:P20001>
+      <e:P20053 rdf:resource="margullfritze"/>
+      <e:P20053 rdf:resource="ohsolinghilke"/>
       <e:P20059 rdf:resource="urn:isbn:9783869308319"/>
       <e:P20231 rdf:resource="http://viaf.org/viaf/1659148997630759870001"/>
    </c:C10006>
@@ -1460,6 +1803,7 @@
    <c:C10006 rdf:about="http://viaf.org/viaf/198560112/spa/">
       <e:P20006>spa</e:P20006>
       <e:P20006>Español</e:P20006>
+      <e:P20053 rdf:resource="http://viaf.org/viaf/22322043"/>
       <e:P20059 rdf:resource="urn:isbn:8422642565"/>
       <e:P20059 rdf:resource="urn:isbn:8420426970"/>
       <e:P20059 rdf:resource="urn:isbn:8447300617"/>
@@ -1510,6 +1854,7 @@
       <e:P20001>Text</e:P20001>
       <e:P20312>portug.</e:P20312>
       <e:P20312>&#x98;Der&#x9c; Butt</e:P20312>
+      <e:P20037 rdf:resource="chrysostomodesousajehovanira"/>
       <e:P20059 rdf:resource="urn:isbn:3472864303"/>
       <e:P20059 rdf:resource="urn:isbn:9783472860693"/>
       <e:P20059 rdf:resource="http://example.org/209354569"/>
@@ -1524,6 +1869,7 @@
    <c:C10006 rdf:about="http://viaf.org/viaf/213148121/spa/">
       <e:P20006>spa</e:P20006>
       <e:P20006>Español</e:P20006>
+      <e:P20053 rdf:resource="http://viaf.org/viaf/22322043"/>
       <e:P20059 rdf:resource="urn:isbn:8420425079"/>
       <e:P20059 rdf:resource="http://example.org/a5052772"/>
       <e:P20059 rdf:resource="urn:isbn:8420441864"/>
@@ -1591,12 +1937,14 @@
    <c:C10006 rdf:about="http://viaf.org/viaf/315591424/ger/text">
       <e:P20006>ger</e:P20006>
       <e:P20001>text</e:P20001>
+      <e:P20053 rdf:resource="margullfritze"/>
       <e:P20059 rdf:resource="urn:isbn:3882431903"/>
       <e:P20231 rdf:resource="http://viaf.org/viaf/315591424"/>
    </c:C10006>
    <c:C10006 rdf:about="http://viaf.org/viaf/316730448/ger/text">
       <e:P20006>ger</e:P20006>
       <e:P20001>text</e:P20001>
+      <e:P20053 rdf:resource="oekenzaburo"/>
       <e:P20059 rdf:resource="urn:isbn:3882433868"/>
       <e:P20231 rdf:resource="http://viaf.org/viaf/316730448"/>
    </c:C10006>
@@ -1610,10 +1958,10 @@
    <c:C10006 rdf:about="http://viaf.org/viaf/6194148269702405230001/ger/gesprocheneswort">
       <e:P20006>ger</e:P20006>
       <e:P20001>gesprochenes Wort</e:P20001>
+      <e:P20022 rdf:resource="gomringernora"/>
       <e:P20059 rdf:resource="urn:isbn:9783958292208"/>
       <e:P20059 rdf:resource="urn:isbn:9783958292321"/>
       <e:P20231 rdf:resource="http://viaf.org/viaf/6194148269702405230001"/>
-      <e:P20378 rdf:resource="gomringernora"/>
    </c:C10006>
    <c:C10006 rdf:about="http://viaf.org/viaf/6194148269702405230001/ger/text">
       <e:P20006>ger</e:P20006>
@@ -1784,6 +2132,7 @@
       <e:P20001>text</e:P20001>
       <e:P20001>Text</e:P20001>
       <e:P20312>Katz und Maus. English.</e:P20312>
+      <e:P20053 rdf:resource="lohneredgar"/>
       <e:P20059 rdf:resource="urn:isbn:0436187809"/>
       <e:P20059 rdf:resource="http://example.org/014144730"/>
       <e:P20059 rdf:resource="http://example.org/014144731"/>
@@ -1804,6 +2153,9 @@
       <e:P20312>ungar.</e:P20312>
       <e:P20312>poln.</e:P20312>
       <e:P20312>ital.</e:P20312>
+      <e:P20037 rdf:resource="http://viaf.org/viaf/30910939"/>
+      <e:P20037 rdf:resource="naganowskairena"/>
+      <e:P20037 rdf:resource="naganowskiegon"/>
       <e:P20059 rdf:resource="urn:isbn:9783472611486"/>
       <e:P20059 rdf:resource="urn:isbn:9783423118224"/>
       <e:P20059 rdf:resource="urn:isbn:9783472860686"/>
@@ -1833,6 +2185,7 @@
       <e:P20006>spa</e:P20006>
       <e:P20006>Español</e:P20006>
       <e:P20037 rdf:resource="http://viaf.org/viaf/30910939"/>
+      <e:P20053 rdf:resource="mortizjoaqun"/>
       <e:P20059 rdf:resource="urn:isbn:8447300730"/>
       <e:P20059 rdf:resource="urn:isbn:8470179357"/>
       <e:P20059 rdf:resource="urn:isbn:8420425141"/>
@@ -1915,6 +2268,7 @@
    <c:C10006 rdf:about="http://www.wikidata.org/entity/q320933/spa/">
       <e:P20006>spa</e:P20006>
       <e:P20006>Español</e:P20006>
+      <e:P20053 rdf:resource="dieterichgenoveva"/>
       <e:P20059 rdf:resource="urn:isbn:8401421179"/>
       <e:P20059 rdf:resource="urn:isbn:8420425214"/>
       <e:P20231 rdf:resource="http://www.wikidata.org/entity/q320933"/>
@@ -2069,6 +2423,8 @@
       <e:P20312>portug.</e:P20312>
       <e:P20312>&#x98;Die&#x9c; Rättin</e:P20312>
       <e:P20312>schwed.</e:P20312>
+      <e:P20037 rdf:resource="abbensethcarlos"/>
+      <e:P20037 rdf:resource="liljegreneva"/>
       <e:P20059 rdf:resource="urn:isbn:3472866241"/>
       <e:P20059 rdf:resource="urn:isbn:9783499122002"/>
       <e:P20059 rdf:resource="http://example.org/1030233713"/>
@@ -2079,6 +2435,8 @@
    <c:C10006 rdf:about="http://www.wikidata.org/entity/q765047/spa/">
       <e:P20006>spa</e:P20006>
       <e:P20006>Español</e:P20006>
+      <e:P20053 rdf:resource="http://viaf.org/viaf/22322043"/>
+      <e:P20053 rdf:resource="nadalihernndezjordi"/>
       <e:P20059 rdf:resource="urn:isbn:8420424846"/>
       <e:P20059 rdf:resource="urn:isbn:8466316450"/>
       <e:P20059 rdf:resource="urn:isbn:842262981"/>
@@ -2195,6 +2553,7 @@
       <e:P20001>Text</e:P20001>
       <e:P20312>Blechtrommel. English.</e:P20312>
       <e:P20037 rdf:resource="http://viaf.org/viaf/9864901"/>
+      <e:P20053 rdf:resource="mitchellbreon"/>
       <e:P20059 rdf:resource="urn:isbn:0749394757"/>
       <e:P20059 rdf:resource="urn:isbn:0436187833"/>
       <e:P20059 rdf:resource="urn:isbn:9781846553172"/>
@@ -2214,6 +2573,7 @@
       <e:P20001>Text</e:P20001>
       <e:P20312>portug.</e:P20312>
       <e:P20312>&#x98;Die&#x9c; Blechtrommel</e:P20312>
+      <e:P20037 rdf:resource="alveslucio"/>
       <e:P20059 rdf:resource="http://example.org/1029800022"/>
       <e:P20059 rdf:resource="urn:isbn:2020054108"/>
       <e:P20059 rdf:resource="urn:isbn:2724206126"/>
@@ -2246,6 +2606,7 @@
       <e:P20312>finn.</e:P20312>
       <e:P20312>hebr.</e:P20312>
       <e:P20312>bulg.</e:P20312>
+      <e:P20037 rdf:resource="furnadzievanadja"/>
       <e:P20059 rdf:resource="http://example.org/014144712"/>
       <e:P20059 rdf:resource="http://example.org/366017144"/>
       <e:P20059 rdf:resource="http://example.org/456795308"/>
@@ -2293,7 +2654,12 @@
       <e:P20006>spa</e:P20006>
       <e:P20006>Español</e:P20006>
       <e:P20312>Die Blechtrommel</e:P20312>
+      <e:P20012 rdf:resource="adorfmario"/>
+      <e:P20012 rdf:resource="winklerangela"/>
+      <e:P20012 rdf:resource="bennentdavid"/>
       <e:P20037 rdf:resource="http://viaf.org/viaf/30910939"/>
+      <e:P20053 rdf:resource="http://viaf.org/viaf/22322043"/>
+      <e:P20053 rdf:resource="mortizjoaqun"/>
       <e:P20059 rdf:resource="urn:isbn:8422681064"/>
       <e:P20059 rdf:resource="urn:isbn:8402066852"/>
       <e:P20059 rdf:resource="urn:isbn:8420425087"/>
@@ -2326,13 +2692,6 @@
       <e:P20037 rdf:resource="http://viaf.org/viaf/22322043"/>
       <e:P20059 rdf:resource="urn:isbn:9788420423562"/>
       <e:P20231 rdf:resource="http://www.wikidata.org/entity/q899334"/>
-   </c:C10006>
-   <c:C10006 rdf:about="http://www.wikidata.org/entity/q989760/eng/text">
-      <e:P20006>eng</e:P20006>
-      <e:P20006>English</e:P20006>
-      <e:P20001>text</e:P20001>
-      <e:P20059 rdf:resource="urn:isbn:043618771"/>
-      <e:P20231 rdf:resource="http://www.wikidata.org/entity/q989760"/>
    </c:C10006>
    <c:C10006 rdf:about="http://www.wikidata.org/entity/q989760/ger/text">
       <e:P20006>ger</e:P20006>
@@ -2397,6 +2756,7 @@
       <m:P30083>Zweitausendeins</m:P30083>
       <m:P30011>1979</m:P30011>
       <m:P30182>177p.[108]p. of plates :</m:P30182>
+      <marc:M30000b>chiefly ill(some col.), facsims.,ports. ;</marc:M30000b>
       <m:P30169>31cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -2490,6 +2850,7 @@
       <m:P30156>Ach bot, je sprookje loopt slecht af : gedichten en grafiek</m:P30156>
       <m:P30117>Günter Grass. Vert. [uit het Duits] door Peter Kaaij</m:P30117>
       <m:P30182>110 S.</m:P30182>
+      <marc:M30000b>Ill.</marc:M30000b>
       <m:P30169>20 cm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -2522,7 +2883,6 @@
       <m:P30182>182 S.</m:P30182>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
-      <m:P30020 rdf:resource="http://example.org/de1011029798001"/>
       <m:P30139 rdf:resource="http://www.wikidata.org/entity/q899334/ger/text"/>
    </c:C10007>
    <c:C10007 rdf:about="http://example.org/1029800022">
@@ -2688,6 +3048,7 @@
       <m:P30156>From the Diary of a snail</m:P30156>
       <m:P30117>Günter Grass. Transl. by Ralph Manheim</m:P30117>
       <m:P30182>310 S.</m:P30182>
+      <marc:M30000b>1 Titelb.</marc:M30000b>
       <m:P30169>8</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -2715,7 +3076,6 @@
       <m:P30002>Band</m:P30002>
       <m:P30106>Le livre de poche</m:P30106>
       <m:P30165>2614</m:P30165>
-      <m:P30020 rdf:resource="http://example.org/de10156052269x"/>
       <m:P30139 rdf:resource="http://www.wikidata.org/entity/q899334/ger/text"/>
    </c:C10007>
    <c:C10007 rdf:about="http://example.org/366017144">
@@ -2727,13 +3087,13 @@
       <m:P30002>Band</m:P30002>
       <m:P30106>Le livre de poche</m:P30106>
       <m:P30165>2673</m:P30165>
-      <m:P30020 rdf:resource="http://example.org/de10156052269x"/>
       <m:P30139 rdf:resource="http://www.wikidata.org/entity/q899334/ger/text"/>
    </c:C10007>
    <c:C10007 rdf:about="http://example.org/368944840">
       <marc:M001>368944840</marc:M001>
       <m:P30156>Koški-myški : povestʹ</m:P30156>
       <m:P30182>410 S.</m:P30182>
+      <marc:M30000b>Ill.</marc:M30000b>
       <m:P30169>21 cm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -2856,6 +3216,7 @@
       <m:P30156>&#x98;Die&#x9c; Blechtrommel : Günter Grass liest aus seinem Roman. Falter und Glühbirnen (Oskars Geburt). Fernwirkender Gesang vom Stockturm aus gesungen</m:P30156>
       <m:P30117>Günter Grass</m:P30117>
       <m:P30182>Sprechplatte</m:P30182>
+      <marc:M30000b>33 UpM</marc:M30000b>
       <m:P30169>25 cm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -2866,6 +3227,7 @@
       <m:P30156>&#x98;Die&#x9c; Vorzüge der Windhühner</m:P30156>
       <m:P30117>Günter Grass</m:P30117>
       <m:P30182>64 S.</m:P30182>
+      <marc:M30000b>mit Abb.</marc:M30000b>
       <m:P30169>8</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -2877,6 +3239,7 @@
       <m:P30117>Günter Grass</m:P30117>
       <m:P30107>2. Aufl.</m:P30107>
       <m:P30182>64 S.</m:P30182>
+      <marc:M30000b>mit Abb.</marc:M30000b>
       <m:P30169>8</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -2968,6 +3331,7 @@
       <m:P30117>Günter Grass</m:P30117>
       <m:P30107>2. Aufl.</m:P30107>
       <m:P30182>107 S.</m:P30182>
+      <marc:M30000b>mit Abb.</marc:M30000b>
       <m:P30169>4</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -3122,6 +3486,7 @@
       <m:P30156>Katz und Maus</m:P30156>
       <m:P30117>Günter Grass. Ed. by Edgar Lohner</m:P30117>
       <m:P30182>XV, 197 S.</m:P30182>
+      <marc:M30000b>1 Kt.</marc:M30000b>
       <m:P30169>8</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -3133,6 +3498,7 @@
       <m:P30156>&#x98;Die&#x9c; Schweine-Kopfsülze</m:P30156>
       <m:P30117>Günter Grass</m:P30117>
       <m:P30182>1 gef. Bl.</m:P30182>
+      <marc:M30000b>mit Abb.</marc:M30000b>
       <m:P30169>2</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Blatt</m:P30002>
@@ -3249,6 +3615,7 @@
       <m:P30156>&#x98;A&#x9c; bádogdob</m:P30156>
       <m:P30117>Günter Grass. [Ford.: Szíjgyártó László. A szöveget az eredetivel egybevetette és az előszót írta Pók Lajos]</m:P30117>
       <m:P30182>712 S.</m:P30182>
+      <marc:M30000b>1 Bildn.</marc:M30000b>
       <m:P30169>8</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -3323,6 +3690,7 @@
       <marc:M001>820146560</marc:M001>
       <m:P30156>&#x98;Die&#x9c; Blechtrommel</m:P30156>
       <m:P30182>1 Schallpl.</m:P30182>
+      <marc:M30000b>33 UpM, Stereo</marc:M30000b>
       <m:P30169>30 cm</m:P30169>
       <m:P30001>audio</m:P30001>
       <m:P30002>Audiodisk</m:P30002>
@@ -3344,7 +3712,9 @@
       <m:P30156>&#x98;Die&#x9c; Blechtrommel : Roman</m:P30156>
       <m:P30117>Günter Grass</m:P30117>
       <m:P30182>714 S.</m:P30182>
+      <marc:M30000b>1 Ill.</marc:M30000b>
       <m:P30169>21 cm</m:P30169>
+      <marc:M30000e>Beil. (15 S.)</marc:M30000e>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
       <m:P30106>Bibliothek des 20. Jahrhunderts</m:P30106>
@@ -3357,6 +3727,7 @@
       <m:P30107>Ungekürzte Lizenzausg.</m:P30107>
       <m:P30182>666 S.</m:P30182>
       <m:P30169>21 cm</m:P30169>
+      <marc:M30000e>Beil. (14 S. : Ill.)</marc:M30000e>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
       <m:P30106>Jahrhundert-Edition</m:P30106>
@@ -3368,6 +3739,7 @@
       <m:P30117>Günter Grass</m:P30117>
       <m:P30107>Ungekürzte Lizenzausg.</m:P30107>
       <m:P30182>299 S.</m:P30182>
+      <marc:M30000b>Ill.</marc:M30000b>
       <m:P30169>22 cm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -3379,6 +3751,7 @@
       <m:P30117>Günter Grass</m:P30117>
       <m:P30107>Ungekürzte Lizenzausg.</m:P30107>
       <m:P30182>409 S.</m:P30182>
+      <marc:M30000b>Ill.</marc:M30000b>
       <m:P30169>32 cm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -3413,7 +3786,6 @@
       <m:P30182>123 S.</m:P30182>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
-      <m:P30020 rdf:resource="http://example.org/de101964041774"/>
       <m:P30139 rdf:resource="http://www.wikidata.org/entity/q899334/ger/taktilertext"/>
    </c:C10007>
    <c:C10007 rdf:about="http://example.org/964042053">
@@ -3423,7 +3795,6 @@
       <m:P30182>137 S.</m:P30182>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
-      <m:P30020 rdf:resource="http://example.org/de101964041774"/>
       <m:P30139 rdf:resource="http://www.wikidata.org/entity/q899334/ger/taktilertext"/>
    </c:C10007>
    <c:C10007 rdf:about="http://example.org/964042096">
@@ -3433,7 +3804,6 @@
       <m:P30182>127 S.</m:P30182>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
-      <m:P30020 rdf:resource="http://example.org/de101964041774"/>
       <m:P30139 rdf:resource="http://www.wikidata.org/entity/q899334/ger/taktilertext"/>
    </c:C10007>
    <c:C10007 rdf:about="http://example.org/964042142">
@@ -3443,7 +3813,6 @@
       <m:P30182>123 S.</m:P30182>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
-      <m:P30020 rdf:resource="http://example.org/de101964041774"/>
       <m:P30139 rdf:resource="http://www.wikidata.org/entity/q899334/ger/taktilertext"/>
    </c:C10007>
    <c:C10007 rdf:about="http://example.org/964042150">
@@ -3453,7 +3822,6 @@
       <m:P30182>145 S.</m:P30182>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
-      <m:P30020 rdf:resource="http://example.org/de101964041774"/>
       <m:P30139 rdf:resource="http://www.wikidata.org/entity/q899334/ger/taktilertext"/>
    </c:C10007>
    <c:C10007 rdf:about="http://example.org/972881204">
@@ -3462,6 +3830,7 @@
       <m:P30117>Günter Grass</m:P30117>
       <m:P30107>Ungekürzte Lizenzausg.</m:P30107>
       <m:P30182>253 S.</m:P30182>
+      <marc:M30000b>Ill.</marc:M30000b>
       <m:P30169>25 cm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -3473,6 +3842,7 @@
       <m:P30117>Günter Grass</m:P30117>
       <m:P30107>Ungekürzte Lizenzausg.</m:P30107>
       <m:P30182>215 S.</m:P30182>
+      <marc:M30000b>Ill.</marc:M30000b>
       <m:P30169>21 cm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -3488,6 +3858,7 @@
       <m:P30083>Límite</m:P30083>
       <m:P30011>2011</m:P30011>
       <m:P30182>1 h. pleg. (7 p.)</m:P30182>
+      <marc:M30000b>il. col. y n.</marc:M30000b>
       <m:P30169>22 cm</m:P30169>
       <m:P30106>La casa del tiempo</m:P30106>
       <m:P30165>2</m:P30165>
@@ -3537,6 +3908,8 @@
       <m:P30083>Sogedasa</m:P30083>
       <m:P30011>D.L. 2001</m:P30011>
       <m:P30182>1 videodisco (DVD) (ca. 140 min)</m:P30182>
+      <marc:M30000b>son., col.</marc:M30000b>
+      <m:P30139 rdf:resource="/noidentifier/spa/"/>
    </c:C10007>
    <c:C10007 rdf:about="http://example.org/bivi0000061583">
       <marc:M001>bivi0000061583</marc:M001>
@@ -3546,6 +3919,7 @@
       <m:P30083>Filmax Home Video</m:P30083>
       <m:P30011>D.L. 2000</m:P30011>
       <m:P30182>1 videocasete (VHS) (ca. 140 min)</m:P30182>
+      <marc:M30000b>son., col.</marc:M30000b>
       <m:P30106>El siglo XX a través del cine: las cien películas de nuestra vida</m:P30106>
       <m:P30106>El delirio nazi</m:P30106>
       <m:P30165>39.</m:P30165>
@@ -3559,6 +3933,7 @@
       <m:P30083>Filmax Group</m:P30083>
       <m:P30011>D.L. 1994</m:P30011>
       <m:P30182>1 videocasete (VHS) (140 min)</m:P30182>
+      <marc:M30000b>son., col.</marc:M30000b>
       <m:P30139 rdf:resource="http://www.wikidata.org/entity/q899334/spa/"/>
    </c:C10007>
    <c:C10007 rdf:about="http://example.org/bivi0000061973">
@@ -3569,35 +3944,8 @@
       <m:P30083>Videogram</m:P30083>
       <m:P30011>D.L. 1984</m:P30011>
       <m:P30182>1 videocasete (Beta) (140 min)</m:P30182>
-   </c:C10007>
-   <c:C10007 rdf:about="http://example.org/de1011029798001">
-      <m:P30004>(DE-101)1029798001</m:P30004>
-      <m:P30033 rdf:resource="http://example.org/1029798133"/>
-   </c:C10007>
-   <c:C10007 rdf:about="http://example.org/de101551844833">
-      <m:P30004>(DE-101)551844833</m:P30004>
-      <m:P30033 rdf:resource="urn:isbn:9783353007063"/>
-   </c:C10007>
-   <c:C10007 rdf:about="http://example.org/de101551868457">
-      <m:P30004>(DE-101)551868457</m:P30004>
-      <m:P30033 rdf:resource="urn:isbn:9783353006417"/>
-   </c:C10007>
-   <c:C10007 rdf:about="http://example.org/de10156052269x">
-      <m:P30004>(DE-101)56052269X</m:P30004>
-      <m:P30033 rdf:resource="http://example.org/366017144"/>
-      <m:P30033 rdf:resource="http://example.org/366017136"/>
-   </c:C10007>
-   <c:C10007 rdf:about="http://example.org/de101960025677">
-      <m:P30004>(DE-101)960025677</m:P30004>
-      <m:P30033 rdf:resource="urn:isbn:9783882437409"/>
-   </c:C10007>
-   <c:C10007 rdf:about="http://example.org/de101964041774">
-      <m:P30004>(DE-101)964041774</m:P30004>
-      <m:P30033 rdf:resource="http://example.org/964042053"/>
-      <m:P30033 rdf:resource="http://example.org/964042029"/>
-      <m:P30033 rdf:resource="http://example.org/964042096"/>
-      <m:P30033 rdf:resource="http://example.org/964042142"/>
-      <m:P30033 rdf:resource="http://example.org/964042150"/>
+      <marc:M30000b>son., col.</marc:M30000b>
+      <m:P30139 rdf:resource="/noidentifier/spa/"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:009946604">
       <marc:M001>010663429</marc:M001>
@@ -3785,6 +4133,7 @@
       <m:P30156>Show your tongue</m:P30156>
       <m:P30117>Günter Grass. Translated by John E. Woods</m:P30117>
       <m:P30182>224 p., 7 p. of plates</m:P30182>
+      <marc:M30000b>ill.</marc:M30000b>
       <m:P30169>28 cm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -3822,6 +4171,7 @@
       <m:P30083>Secker &amp; Warburg</m:P30083>
       <m:P30011>1989</m:P30011>
       <m:P30182>224p. :</m:P30182>
+      <marc:M30000b>ill. ;</marc:M30000b>
       <m:P30169>28cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -3838,7 +4188,6 @@
       <m:P30182>1 v.</m:P30182>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
-      <m:P30139 rdf:resource="http://www.wikidata.org/entity/q989760/eng/text"/>
       <m:P30139 rdf:resource="http://www.wikidata.org/entity/q1736859/eng/text"/>
       <m:P30139 rdf:resource="http://www.wikidata.org/entity/q499564/eng/text"/>
       <m:P30139 rdf:resource="http://www.wikidata.org/entity/q899334/eng/text"/>
@@ -4004,6 +4353,7 @@
       <m:P30083>Secker &amp; Warburg</m:P30083>
       <m:P30011>1992</m:P30011>
       <m:P30182>248p. :</m:P30182>
+      <marc:M30000b>ill. ;</marc:M30000b>
       <m:P30169>23cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -4249,7 +4599,9 @@
       <m:P30083>Aufbau-Verlag</m:P30083>
       <m:P30011>2005</m:P30011>
       <m:P30182>175 p. :</m:P30182>
+      <marc:M30000b>col. ill. ;</marc:M30000b>
       <m:P30169>22 x 28 cm +</m:P30169>
+      <marc:M30000e>1 videodisc (4 3/4 in.)</marc:M30000e>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
    </c:C10007>
@@ -4319,6 +4671,7 @@
       <m:P30083>Luchterhand</m:P30083>
       <m:P30011>1983</m:P30011>
       <m:P30182>111p. :</m:P30182>
+      <marc:M30000b>ill.</marc:M30000b>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
       <m:P30106>Sammlung Luchterhand ;</m:P30106>
@@ -4436,6 +4789,7 @@
       <m:P30117>von Ingrid Hasselbach</m:P30117>
       <m:P30107>1. Aufl.</m:P30107>
       <m:P30182>128 S.</m:P30182>
+      <marc:M30000b>1 Ill.</marc:M30000b>
       <m:P30169>20 cm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -4499,6 +4853,7 @@
       <m:P30083>Luchterhand Literaturverlag</m:P30083>
       <m:P30011>c1988</m:P30011>
       <m:P30182>230p. :</m:P30182>
+      <marc:M30000b>ill. ;</marc:M30000b>
       <m:P30169>28cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -4513,6 +4868,7 @@
       <m:P30083>Edition Welttag</m:P30083>
       <m:P30011>c2001</m:P30011>
       <m:P30182>127 p. :</m:P30182>
+      <marc:M30000b>ill. ;</marc:M30000b>
       <m:P30169>23 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -4542,6 +4898,7 @@
       <m:P30083>Fink</m:P30083>
       <m:P30011>1982</m:P30011>
       <m:P30182>v,118p.,12p. of plates :</m:P30182>
+      <marc:M30000b>ill. ;</marc:M30000b>
       <m:P30169>23cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -4572,6 +4929,7 @@
       <m:P30083>Steidl</m:P30083>
       <m:P30011>2004</m:P30011>
       <m:P30182>471 p.</m:P30182>
+      <marc:M30000b>il.</marc:M30000b>
       <m:P30169>32 cm</m:P30169>
       <m:P30139 rdf:resource="http://oslomet.workid.no/gg/1002/ger/"/>
    </c:C10007>
@@ -4585,6 +4943,7 @@
       <m:P30083>Steidl</m:P30083>
       <m:P30011>2004</m:P30011>
       <m:P30182>409 p.</m:P30182>
+      <marc:M30000b>il. col.</marc:M30000b>
       <m:P30169>25 cm</m:P30169>
       <m:P30139 rdf:resource="http://www.wikidata.org/entity/q1669964/ger/"/>
    </c:C10007>
@@ -4599,6 +4958,7 @@
       <m:P30083>Steidl</m:P30083>
       <m:P30011>2006</m:P30011>
       <m:P30182>479 p. :</m:P30182>
+      <marc:M30000b>ill. ;</marc:M30000b>
       <m:P30169>21 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -4613,6 +4973,7 @@
       <m:P30083>Steidl</m:P30083>
       <m:P30011>1990</m:P30011>
       <m:P30182>110 p. :</m:P30182>
+      <marc:M30000b>chiefly ill. ;</marc:M30000b>
       <m:P30169>28 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -4628,6 +4989,7 @@
       <m:P30083>Steidl</m:P30083>
       <m:P30011>1991</m:P30011>
       <m:P30182>343 p. :</m:P30182>
+      <marc:M30000b>ill. (some col.) ;</marc:M30000b>
       <m:P30169>32 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -4643,6 +5005,7 @@
       <m:P30083>Steidl</m:P30083>
       <m:P30011>1992</m:P30011>
       <m:P30182>299 p. :</m:P30182>
+      <marc:M30000b>ill. ;</marc:M30000b>
       <m:P30169>21 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -4658,6 +5021,7 @@
       <m:P30083>Steidl</m:P30083>
       <m:P30011>c1992</m:P30011>
       <m:P30182>58 p., [5] p. of plates :</m:P30182>
+      <marc:M30000b>ill. ;</marc:M30000b>
       <m:P30169>18 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -4675,6 +5039,7 @@
       <m:P30083>Steidl</m:P30083>
       <m:P30011>1993</m:P30011>
       <m:P30182>31 p. :</m:P30182>
+      <marc:M30000b>ill. ;</marc:M30000b>
       <m:P30169>23 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -4703,6 +5068,7 @@
       <m:P30083>Steidl</m:P30083>
       <m:P30011>1995</m:P30011>
       <m:P30182>108 p. :</m:P30182>
+      <marc:M30000b>ill., 1 port. ;</marc:M30000b>
       <m:P30169>18cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -4718,6 +5084,7 @@
       <m:P30083>Steidl</m:P30083>
       <m:P30011>1997</m:P30011>
       <m:P30182>239 p. :</m:P30182>
+      <marc:M30000b>col. ill. ;</marc:M30000b>
       <m:P30169>32 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -4732,6 +5099,7 @@
       <m:P30083>Steidl</m:P30083>
       <m:P30011>c1997</m:P30011>
       <m:P30182>60 p. :</m:P30182>
+      <marc:M30000b>ill. ;</marc:M30000b>
       <m:P30169>18 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -4763,6 +5131,7 @@
       <m:P30011>1993</m:P30011>
       <m:P30109>(1999 [printing])</m:P30109>
       <m:P30182>94 p. :</m:P30182>
+      <marc:M30000b>ill. ;</marc:M30000b>
       <m:P30169>18 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -4784,6 +5153,7 @@
       <m:P30002>volume</m:P30002>
       <m:P30106>Steidl Taschenbuch ;</m:P30106>
       <m:P30165>146</m:P30165>
+      <m:P30139 rdf:resource="http://viaf.org/viaf/102319859/lernendelehrer/ger/text"/>
       <m:P30139 rdf:resource="http://oslomet.workid.no/gg/1005/ger/text"/>
       <m:P30139 rdf:resource="http://oslomet.workid.no/gg/24/ger/text"/>
    </c:C10007>
@@ -4829,6 +5199,7 @@
       <m:P30083>Steidl</m:P30083>
       <m:P30011>2004</m:P30011>
       <m:P30182>253 p. :</m:P30182>
+      <marc:M30000b>ill. ;</marc:M30000b>
       <m:P30169>25 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -5214,8 +5585,10 @@
       <m:P30083>Alfaguara</m:P30083>
       <m:P30011>[2003]</m:P30011>
       <m:P30182>127 p.</m:P30182>
+      <marc:M30000b>il.</marc:M30000b>
       <m:P30169>23 cm</m:P30169>
       <m:P30182>127 S.</m:P30182>
+      <marc:M30000b>Ill.</marc:M30000b>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
       <m:P30139 rdf:resource="http://oslomet.workid.no/gg/1002/spa/"/>
@@ -5331,6 +5704,7 @@
       <m:P30156>Sacar la lengua</m:P30156>
       <m:P30117>Günter Grass. Trad. de Anton Dieterich</m:P30117>
       <m:P30182>231 S.</m:P30182>
+      <marc:M30000b>Ill.</marc:M30000b>
       <m:P30169>28 cm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -5396,6 +5770,7 @@
       <m:P30083>Mondadori</m:P30083>
       <m:P30011>D.L. 1990</m:P30011>
       <m:P30182>236 p.</m:P30182>
+      <marc:M30000b>il.</marc:M30000b>
       <m:P30169>28 cm</m:P30169>
       <m:P30139 rdf:resource="http://oslomet.workid.no/gg/12/spa/"/>
    </c:C10007>
@@ -5627,6 +6002,7 @@
       <m:P30083>Galaxia Gutenberg</m:P30083>
       <m:P30011>[2005]</m:P30011>
       <m:P30182>95 p.</m:P30182>
+      <marc:M30000b>il. col.</marc:M30000b>
       <m:P30169>32 cm</m:P30169>
       <m:P30139 rdf:resource="http://www.wikidata.org/entity/q18336311/spa/"/>
    </c:C10007>
@@ -5652,6 +6028,7 @@
       <m:P30117>Günter Grass. Trad. de Miguel Sáenz</m:P30117>
       <m:P30107>2. ed.</m:P30107>
       <m:P30182>239 S.</m:P30182>
+      <marc:M30000b>zahlr. Ill.</marc:M30000b>
       <m:P30169>32 cm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -5715,6 +6092,7 @@
       <m:P30083>Bartleby</m:P30083>
       <m:P30011>[2006]</m:P30011>
       <m:P30182>336 p.</m:P30182>
+      <marc:M30000b>il.</marc:M30000b>
       <m:P30169>21 cm</m:P30169>
       <m:P30139 rdf:resource="http://oslomet.workid.no/gg/15/spa/"/>
    </c:C10007>
@@ -5827,6 +6205,7 @@
       <m:P30083>Rodopi</m:P30083>
       <m:P30011>2006</m:P30011>
       <m:P30182>373 p.</m:P30182>
+      <marc:M30000b>il.</marc:M30000b>
       <m:P30169>24 cm</m:P30169>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9100473251">
@@ -5835,6 +6214,7 @@
       <m:P30156>Rättinnan</m:P30156>
       <m:P30117>Günter Grass. Övers. av Eva Liljegren</m:P30117>
       <m:P30182>412 S.</m:P30182>
+      <marc:M30000b>Ill.</marc:M30000b>
       <m:P30169>22 cm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -5895,6 +6275,7 @@
       <m:P30156>Vesztfál csevely</m:P30156>
       <m:P30117>Günter Grass. [Ford. Márton László. Ill. Egyed László]</m:P30117>
       <m:P30182>235 S.</m:P30182>
+      <marc:M30000b>Ill.</marc:M30000b>
       <m:P30169>19 cm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -5907,6 +6288,7 @@
       <m:P30117>Günter Grass. [Ford. Szíjgyártó László]</m:P30117>
       <m:P30107>2. kiadás</m:P30107>
       <m:P30182>690 S.</m:P30182>
+      <marc:M30000b>1 Portr.</marc:M30000b>
       <m:P30169>19 cm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -5923,6 +6305,7 @@
       <m:P30083>Vintage Books</m:P30083>
       <m:P30011>2011</m:P30011>
       <m:P30182>205 p. :</m:P30182>
+      <marc:M30000b>ill. ;</marc:M30000b>
       <m:P30169>20 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -6078,6 +6461,7 @@
       <m:P30156>Of all that ends</m:P30156>
       <m:P30117>Günter Grass ; translated from the German by Breon Mitchell</m:P30117>
       <m:P30182>167 Seiten</m:P30182>
+      <marc:M30000b>Illustrationen</marc:M30000b>
       <m:P30169>20 cm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -6136,6 +6520,7 @@
       <m:P30156>From Germany to Germany : journal of the year 1990</m:P30156>
       <m:P30117>by Gunter Grass ; translated from the German by Krishna Winston</m:P30117>
       <m:P30182>264 pages :</m:P30182>
+      <marc:M30000b>illustrations ;</marc:M30000b>
       <m:P30169>22 cm</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -6148,6 +6533,7 @@
       <m:P30156>Nobel lecture : 7 December 1999 ; [to be continued ...]</m:P30156>
       <m:P30117>Günter Grass. [Transl. from German by Michael Henry Heim]</m:P30117>
       <m:P30182>33 S.</m:P30182>
+      <marc:M30000b>Ill.</marc:M30000b>
       <m:P30169>28 cm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -6175,6 +6561,7 @@
       <m:P30107>2. Aufl.</m:P30107>
       <m:P30182>127 S.</m:P30182>
       <m:P30169>23 cm</m:P30169>
+      <marc:M30000e>Beil. (47 S.)</marc:M30000e>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
       <m:P30106>Reihe: Stundenblätter Deutsch</m:P30106>
@@ -6190,6 +6577,7 @@
       <m:P30107>[Nachdr.]</m:P30107>
       <m:P30107>[Nachdr.], bibliogr. erg. Ausg.</m:P30107>
       <m:P30182>189 S.</m:P30182>
+      <marc:M30000b>Ill., Kt.</marc:M30000b>
       <m:P30169>15 cm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -6206,6 +6594,7 @@
       <m:P30117>Günter Grass. Mit 5 Reprod. nach Radierungen d. Autors u.e. Nachw. von Heinz Ludwig Arnold</m:P30117>
       <m:P30107>[Nachdr.]</m:P30107>
       <m:P30182>96 S.</m:P30182>
+      <marc:M30000b>Ill.</marc:M30000b>
       <m:P30169>15 cm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -6234,6 +6623,7 @@
       <m:P30156>Günter Grass, Im Krebsgang</m:P30156>
       <m:P30117>von Theodor Pelster</m:P30117>
       <m:P30182>95 S.</m:P30182>
+      <marc:M30000b>Ill.</marc:M30000b>
       <m:P30169>15 cm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -6268,11 +6658,11 @@
       <m:P30117>Günter Grass. Mit ... Radierungen von Hubertus Giebe</m:P30117>
       <m:P30107>1. Aufl.</m:P30107>
       <m:P30182>174 S.</m:P30182>
+      <marc:M30000b>Ill.</marc:M30000b>
       <m:P30182>206 S.</m:P30182>
       <m:P30182>242 S.</m:P30182>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
-      <m:P30020 rdf:resource="http://example.org/de101551868457"/>
       <m:P30139 rdf:resource="http://www.wikidata.org/entity/q899334/ger/text"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9783353007063">
@@ -6289,10 +6679,11 @@
       <m:P30117>Günter Grass. Mit ... Radierungen von Hubertus Giebe</m:P30117>
       <m:P30107>1. Aufl.</m:P30107>
       <m:P30182>242 S.</m:P30182>
+      <marc:M30000b>Ill.</marc:M30000b>
       <m:P30182>174 S.</m:P30182>
+      <marc:M30000e>1 Radierung</marc:M30000e>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
-      <m:P30020 rdf:resource="http://example.org/de101551844833"/>
       <m:P30139 rdf:resource="http://www.wikidata.org/entity/q899334/ger/text"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9783379001229">
@@ -6440,6 +6831,7 @@
       <m:P30117>Günter Grass. Mit Bildern von Jacky Gleich und einem Nachw. von Volker Neuhaus</m:P30117>
       <m:P30107>Ungekürzte Ausg.</m:P30107>
       <m:P30182>183 S.</m:P30182>
+      <marc:M30000b>Ill.</marc:M30000b>
       <m:P30169>20 cm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -6694,6 +7086,7 @@
       <m:P30117>Günter Grass</m:P30117>
       <m:P30107>Orig.-Ausg.</m:P30107>
       <m:P30182>111 S.</m:P30182>
+      <marc:M30000b>zahlr. Ill.</marc:M30000b>
       <m:P30169>18 cm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -6746,6 +7139,7 @@
       <m:P30117>Günter Grass</m:P30117>
       <m:P30107>Unveränd. Nachdr. d. Erstausg. 1956</m:P30107>
       <m:P30182>64 S.</m:P30182>
+      <marc:M30000b>Ill.</marc:M30000b>
       <m:P30169>21 cm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -6883,6 +7277,7 @@
       <m:P30156>Zunge zeigen</m:P30156>
       <m:P30117>Günter Grass</m:P30117>
       <m:P30182>156 S.</m:P30182>
+      <marc:M30000b>Ill.</marc:M30000b>
       <m:P30169>18 cm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -6898,6 +7293,7 @@
       <m:P30117>Günter Grass</m:P30117>
       <m:P30107>Unveränd. Nachdr. der Erstausg. 1956</m:P30107>
       <m:P30182>61 S.</m:P30182>
+      <marc:M30000b>Ill.</marc:M30000b>
       <m:P30169>19 cm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -6926,6 +7322,7 @@
       <m:P30156>Zunge zeigen</m:P30156>
       <m:P30117>Günter Grass</m:P30117>
       <m:P30182>230 S.</m:P30182>
+      <marc:M30000b>zahlr. Ill.</marc:M30000b>
       <m:P30169>28 cm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -7016,6 +7413,7 @@
       <m:P30117>Günter Grass</m:P30117>
       <m:P30107>Ungekürzte Autorenlesung</m:P30107>
       <m:P30182>3 CDs</m:P30182>
+      <marc:M30000e>1 Booklet (11 Seiten)</marc:M30000e>
       <m:P30001>audio</m:P30001>
       <m:P30002>Audiodisk</m:P30002>
       <m:P30139 rdf:resource="http://www.wikidata.org/entity/q899334/ger/gesprocheneswort"/>
@@ -7029,6 +7427,7 @@
       <m:P30117>Günter Grass</m:P30117>
       <m:P30107>Ungekürzte Autorenlesung</m:P30107>
       <m:P30182>1 CD</m:P30182>
+      <marc:M30000e>1 Booklet (11 Seiten)</marc:M30000e>
       <m:P30001>audio</m:P30001>
       <m:P30002>Audiodisk</m:P30002>
       <m:P30139 rdf:resource="http://viaf.org/viaf/198560112/ger/gesprocheneswort"/>
@@ -7042,6 +7441,7 @@
       <m:P30117>Günter Grass</m:P30117>
       <m:P30107>Ungekürzte Autorenlesung mit Musik</m:P30107>
       <m:P30182>1 CD</m:P30182>
+      <marc:M30000e>1 Booklet (11 Seiten)</marc:M30000e>
       <m:P30001>audio</m:P30001>
       <m:P30002>Audiodisk</m:P30002>
       <m:P30139 rdf:resource="http://www.wikidata.org/entity/q320933/ger/gesprocheneswort"/>
@@ -7055,6 +7455,7 @@
       <m:P30117>Günter Grass</m:P30117>
       <m:P30107>Ungekürzte Autorenlesung</m:P30107>
       <m:P30182>3 CDs</m:P30182>
+      <marc:M30000e>1 Booklet (11 Seiten)</marc:M30000e>
       <m:P30001>audio</m:P30001>
       <m:P30002>Audiodisk</m:P30002>
       <m:P30139 rdf:resource="http://viaf.org/viaf/213148121/ger/gesprocheneswort"/>
@@ -7068,6 +7469,7 @@
       <m:P30117>Günter Grass</m:P30117>
       <m:P30107>Ungekürzte Autorenlesung</m:P30107>
       <m:P30182>1 CD</m:P30182>
+      <marc:M30000e>1 Booklet (11 Seiten)</marc:M30000e>
       <m:P30001>audio</m:P30001>
       <m:P30002>Audiodisk</m:P30002>
       <m:P30139 rdf:resource="http://www.wikidata.org/entity/q1460598/ger/gesprocheneswort"/>
@@ -7092,6 +7494,7 @@
       <m:P30156>Fünf Jahrzehnte : ein Werkstattbericht</m:P30156>
       <m:P30117>Günter Grass. Hrsg. von G. Fritze Margull</m:P30117>
       <m:P30182>127 S.</m:P30182>
+      <marc:M30000b>zahlr. Ill.</marc:M30000b>
       <m:P30169>23 cm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -7104,6 +7507,7 @@
       <m:P30156>&#x98;Die&#x9c; Box : Dunkelkammergeschichten</m:P30156>
       <m:P30117>Günter Grass</m:P30117>
       <m:P30182>215 S.</m:P30182>
+      <marc:M30000b>Ill.</marc:M30000b>
       <m:P30169>21 cm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -7135,7 +7539,9 @@
       <m:P30107>1. Aufl.</m:P30107>
       <m:P30107>3. Aufl.</m:P30107>
       <m:P30182>128 S.</m:P30182>
+      <marc:M30000b>Ill., Kt.</marc:M30000b>
       <m:P30169>16 cm</m:P30169>
+      <marc:M30000b>Ill.</marc:M30000b>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
       <m:P30106>Königs Erläuterungen und Materialien</m:P30106>
@@ -7149,6 +7555,7 @@
       <m:P30117>von Rüdiger Bernhardt</m:P30117>
       <m:P30107>2., aktualisierte Aufl.</m:P30107>
       <m:P30182>109 S.</m:P30182>
+      <marc:M30000b>Kt.</marc:M30000b>
       <m:P30169>16 cm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -7163,6 +7570,7 @@
       <m:P30117>von Rüdiger Bernhardt</m:P30117>
       <m:P30107>3. Aufl.</m:P30107>
       <m:P30182>126 S.</m:P30182>
+      <marc:M30000b>Kt.</marc:M30000b>
       <m:P30169>16 cm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -7206,6 +7614,7 @@
       <m:P30156>"Selbst wenn die Welt unterginge, würden deine Weibergeschichten nicht aufhören" : zwischen "Butt" u. "Rättin" - Frauen u. Frauenbewegung bei Günter Grass</m:P30156>
       <m:P30117>Barbara Garde</m:P30117>
       <m:P30182>305, [13] S.</m:P30182>
+      <marc:M30000b>Ill.</marc:M30000b>
       <m:P30169>21 cm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -7246,6 +7655,7 @@
       <m:P30156>&#x98;Das&#x9c; lyrische Umfeld der "Danziger Trilogie" von Günter Grass</m:P30156>
       <m:P30117>Benedikt Engels</m:P30117>
       <m:P30182>206 S.</m:P30182>
+      <marc:M30000b>Ill.</marc:M30000b>
       <m:P30169>24 cm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -7286,6 +7696,7 @@
       <m:P30117>Günter Grass. Hrsg. von G. Fritze Margull</m:P30117>
       <m:P30107>1. Aufl.</m:P30107>
       <m:P30182>471 S.</m:P30182>
+      <marc:M30000b>zahlr. Ill.</marc:M30000b>
       <m:P30169>32 cm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -7300,6 +7711,7 @@
       <m:P30117>Günter Grass ; Zeichn. von Günter Grass</m:P30117>
       <m:P30107>1. Aufl.</m:P30107>
       <m:P30182>432 S.</m:P30182>
+      <marc:M30000b>25 Rötelzeichn. mit 1 sign. u. num. Rötel-Lithographie</marc:M30000b>
       <m:P30169>240 mm x 155 mm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -7316,6 +7728,7 @@
       <m:P30083>Steidl</m:P30083>
       <m:P30011>2007</m:P30011>
       <m:P30182>79 p. :</m:P30182>
+      <marc:M30000b>ill. ;</marc:M30000b>
       <m:P30169>31 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -7330,6 +7743,7 @@
       <m:P30117>hrsg. von Martin Kölbel</m:P30117>
       <m:P30107>1. Aufl.</m:P30107>
       <m:P30182>368 S.</m:P30182>
+      <marc:M30000b>Ill.</marc:M30000b>
       <m:P30169>18 cm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -7347,6 +7761,7 @@
       <m:P30083>Steidl</m:P30083>
       <m:P30011>2008</m:P30011>
       <m:P30182>215 p. :</m:P30182>
+      <marc:M30000b>ill. ;</marc:M30000b>
       <m:P30169>21 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -7362,6 +7777,7 @@
       <m:P30083>Steidl</m:P30083>
       <m:P30011>2009</m:P30011>
       <m:P30182>255 p. :</m:P30182>
+      <marc:M30000b>ill. ;</marc:M30000b>
       <m:P30169>21 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -7374,6 +7790,7 @@
       <m:P30156>Erzählen in Ost und West : Intertextualität bei Irmtraud Morgner und Günter Grass</m:P30156>
       <m:P30117>Zsuzsa Soproni</m:P30117>
       <m:P30182>191 S.</m:P30182>
+      <marc:M30000b>Ill.</marc:M30000b>
       <m:P30169>21 cm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -7391,6 +7808,7 @@
       <m:P30083>Steidl</m:P30083>
       <m:P30011>2010</m:P30011>
       <m:P30182>357 p. :</m:P30182>
+      <marc:M30000b>ill. (some col.) ;</marc:M30000b>
       <m:P30169>25 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -7432,6 +7850,7 @@
       <m:P30083>Steidl</m:P30083>
       <m:P30011>2014</m:P30011>
       <m:P30182>607 p. :</m:P30182>
+      <marc:M30000b>ill. (some col.), ports. ;</marc:M30000b>
       <m:P30169>25 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -7445,6 +7864,7 @@
       <m:P30117>Günter Grass</m:P30117>
       <m:P30107>1. Aufl.</m:P30107>
       <m:P30182>299 S.</m:P30182>
+      <marc:M30000b>Ill.</marc:M30000b>
       <m:P30169>20 cm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -7460,6 +7880,7 @@
       <m:P30107>Neuausg.</m:P30107>
       <m:P30107>2. Aufl.</m:P30107>
       <m:P30182>31 S.</m:P30182>
+      <marc:M30000b>zahlr. Ill.</marc:M30000b>
       <m:P30169>23 cm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -7548,6 +7969,7 @@
       <m:P30117>Oskar Negt (Hg.)</m:P30117>
       <m:P30107>Orig.-Ausg., 1. Aufl.</m:P30107>
       <m:P30182>495 S.</m:P30182>
+      <marc:M30000b>Ill.</marc:M30000b>
       <m:P30169>18 cm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -7561,6 +7983,7 @@
       <m:P30156>Rede über den Standort : [Rede am 23. Februar 1997 im Schauspielhaus Dresden im Rahmen der Reihe "Zur Sache: Deutschland"]</m:P30156>
       <m:P30117>Günter Grass</m:P30117>
       <m:P30182>60 S.</m:P30182>
+      <marc:M30000b>1 Ill.</marc:M30000b>
       <m:P30169>18 cm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -7576,6 +7999,7 @@
       <m:P30117>Günter Grass</m:P30117>
       <m:P30107>8. Aufl.</m:P30107>
       <m:P30182>409 S.</m:P30182>
+      <marc:M30000b>Ill.</marc:M30000b>
       <m:P30169>32 cm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -7588,6 +8012,7 @@
       <m:P30156>Vatertag</m:P30156>
       <m:P30117>Günter Grass</m:P30117>
       <m:P30182>94 S.</m:P30182>
+      <marc:M30000b>Ill.</marc:M30000b>
       <m:P30169>18 cm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -7604,6 +8029,7 @@
       <m:P30117>Günter Grass</m:P30117>
       <m:P30107>1. Aufl.</m:P30107>
       <m:P30182>236 S.</m:P30182>
+      <marc:M30000b>zahlr. Ill.</marc:M30000b>
       <m:P30169>32 cm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -7618,9 +8044,9 @@
       <m:P30117>Günter Grass</m:P30117>
       <m:P30107>9. Aufl.</m:P30107>
       <m:P30182>409 S.</m:P30182>
+      <marc:M30000b>Ill.</marc:M30000b>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
-      <m:P30020 rdf:resource="http://example.org/de101960025677"/>
       <m:P30139 rdf:resource="http://www.wikidata.org/entity/q1669964/ger/text"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9783882437416">
@@ -7631,6 +8057,7 @@
       <m:P30117>Günter Grass/Gerhard Steidl. Mit Fotos von Gerhard Steidl</m:P30117>
       <m:P30107>Sonderausg., 1. Aufl.</m:P30107>
       <m:P30182>135 S.</m:P30182>
+      <marc:M30000b>überw. Ill.</marc:M30000b>
       <m:P30169>32 cm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -7659,8 +8086,10 @@
       <m:P30083>Steidl</m:P30083>
       <m:P30011>2003</m:P30011>
       <m:P30182>95 p. :</m:P30182>
+      <marc:M30000b>ill. ;</marc:M30000b>
       <m:P30169>32 cm.</m:P30169>
       <m:P30182>95 S.</m:P30182>
+      <marc:M30000b>zahlr. Ill.</marc:M30000b>
       <m:P30169>32 cm, 960 gr.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
@@ -7677,6 +8106,7 @@
       <m:P30117>Günter Grass</m:P30117>
       <m:P30107>1. Aufl.</m:P30107>
       <m:P30182>253 S.</m:P30182>
+      <marc:M30000b>zahlr. Ill.</marc:M30000b>
       <m:P30169>23 cm, 400 gr.</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -7739,6 +8169,7 @@
       <m:P30156>&#x98;Die&#x9c; Vorzüge der Windhühner : Gedichte</m:P30156>
       <m:P30117>Günter Grass. Mit 3 Orig.-Lithogr. und 7 Ill. nach Bleistiftzeichn. auf Pergament von Johannes Grützke. Buchausstattung von Juergen Seuss</m:P30117>
       <m:P30182>LXXVII S.</m:P30182>
+      <marc:M30000b>Ill.</marc:M30000b>
       <m:P30169>26 cm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -7766,6 +8197,7 @@
       <m:P30156>Zerreissprobe : der neue Roman von Günter Grass "Ein weites Feld" und die Literaturkritik ; eine Dokumentation ; eine Veröffentlichung des Innsbrucker Zeitungsarchivs</m:P30156>
       <m:P30117>zsgest. von Georg Oberhammer und Georg Ostermann</m:P30117>
       <m:P30182>335 S.</m:P30182>
+      <marc:M30000b>Ill.</marc:M30000b>
       <m:P30169>30 cm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -7846,6 +8278,7 @@
       <m:P30117>von Günter Grass</m:P30117>
       <m:P30107>[1. Auflage]</m:P30107>
       <m:P30182>1 CD</m:P30182>
+      <marc:M30000e>1 Booklet (12 ungezählte Seiten)</marc:M30000e>
       <m:P30001>audio</m:P30001>
       <m:P30002>Audiodisk</m:P30002>
       <m:P30106>Steidl Hörbuch</m:P30106>
@@ -7861,6 +8294,7 @@
       <m:P30117>Günter Grass</m:P30117>
       <m:P30107>1., Aufl.</m:P30107>
       <m:P30182>Online-Ressource</m:P30182>
+      <marc:M30000b>mit Zeichn.</marc:M30000b>
       <m:P30001>Computermedien</m:P30001>
       <m:P30002>Online-Ressource</m:P30002>
       <m:P30139 rdf:resource="http://www.wikidata.org/entity/q7719566/ger/text"/>
@@ -7952,6 +8386,7 @@
       <m:P30088>[Madrid]</m:P30088>
       <m:P30011>imp. 2011</m:P30011>
       <m:P30182>257 p.</m:P30182>
+      <marc:M30000b>il.</marc:M30000b>
       <m:P30169>24 cm</m:P30169>
       <m:P30001>sin mediación</m:P30001>
       <m:P30139 rdf:resource="http://oslomet.workid.no/gg/21/spa/texto(visual)"/>
@@ -7967,6 +8402,7 @@
       <m:P30083>Alfaguara</m:P30083>
       <m:P30011>2015</m:P30011>
       <m:P30182>445 p.</m:P30182>
+      <marc:M30000b>il.</marc:M30000b>
       <m:P30169>25 cm</m:P30169>
       <m:P30001>sin mediación</m:P30001>
       <m:P30139 rdf:resource="http://www.wikidata.org/entity/q814761/spa/texto(visual)"/>
@@ -7999,8 +8435,10 @@
       <m:P30083>Alfaguara</m:P30083>
       <m:P30011>2016</m:P30011>
       <m:P30182>177 p.</m:P30182>
+      <marc:M30000b>il.</marc:M30000b>
       <m:P30169>24 cm</m:P30169>
       <m:P30182>177 Seiten</m:P30182>
+      <marc:M30000b>Illustrationen</marc:M30000b>
       <m:P30001>sin mediación</m:P30001>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -8036,6 +8474,7 @@
       <m:P30088>[Madrid]</m:P30088>
       <m:P30011>[2009]</m:P30011>
       <m:P30182>250 p.</m:P30182>
+      <marc:M30000b>il.</marc:M30000b>
       <m:P30169>24 cm</m:P30169>
       <m:P30001>sin mediación</m:P30001>
       <m:P30139 rdf:resource="http://www.wikidata.org/entity/q7719566/spa/texto(visual)"/>
@@ -8088,6 +8527,7 @@
       <m:P30083>Alfaguara</m:P30083>
       <m:P30011>2016</m:P30011>
       <m:P30182>410 p.</m:P30182>
+      <marc:M30000b>il.</marc:M30000b>
       <m:P30169>24 cm</m:P30169>
       <m:P30182>416 Seiten</m:P30182>
       <m:P30001>sin mediación</m:P30001>
@@ -8107,6 +8547,7 @@
       <m:P30083>Alfaguara</m:P30083>
       <m:P30011>[2007]</m:P30011>
       <m:P30182>445 p.</m:P30182>
+      <marc:M30000b>il.</marc:M30000b>
       <m:P30169>24 cm</m:P30169>
       <m:P30139 rdf:resource="http://www.wikidata.org/entity/q814761/spa/"/>
    </c:C10007>
@@ -8150,6 +8591,7 @@
       <m:P30083>Punto de Lectura</m:P30083>
       <m:P30011>2012</m:P30011>
       <m:P30182>255 p.</m:P30182>
+      <marc:M30000b>il.</marc:M30000b>
       <m:P30169>19 cm</m:P30169>
       <m:P30001>sin mediación</m:P30001>
       <m:P30106>Punto de lectura</m:P30106>
@@ -8278,8 +8720,10 @@
       <m:P30083>Debolsillo</m:P30083>
       <m:P30011>2015</m:P30011>
       <m:P30182>249 p.</m:P30182>
+      <marc:M30000b>il.</marc:M30000b>
       <m:P30169>19 cm</m:P30169>
       <m:P30182>249 Seiten</m:P30182>
+      <marc:M30000b>Illustrationen</marc:M30000b>
       <m:P30001>sin mediación</m:P30001>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -8336,6 +8780,7 @@
       <m:P30083>Debolsillo</m:P30083>
       <m:P30011>2016</m:P30011>
       <m:P30182>254 p.</m:P30182>
+      <marc:M30000b>il.</marc:M30000b>
       <m:P30169>19 cm</m:P30169>
       <m:P30001>sin mediación</m:P30001>
       <m:P30106>Contemporánea</m:P30106>
@@ -8390,6 +8835,7 @@
       <m:P30169>21 cm</m:P30169>
       <m:P30001>sin mediación</m:P30001>
       <m:P30106>Polifonías</m:P30106>
+      <m:P30139 rdf:resource="grimmelshausenhansjakobchristophvon/dielandstrzerincourasche/spa/texto(visual)"/>
       <m:P30139 rdf:resource="http://www.wikidata.org/entity/q320933/spa/texto(visual)"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9788493982713">
@@ -8416,6 +8862,7 @@
       <m:P30083>Bartleby</m:P30083>
       <m:P30011>[2009]</m:P30011>
       <m:P30182>130 p.</m:P30182>
+      <marc:M30000b>il.</marc:M30000b>
       <m:P30169>24 cm</m:P30169>
       <m:P30106>Bartleby poesía</m:P30106>
       <m:P30139 rdf:resource="http://viaf.org/viaf/307985080/spa/"/>
@@ -8428,6 +8875,7 @@
       <m:P30117>Junte Gelasi (Günter Grass) zhu/hui ; Cai Hongjun yi</m:P30117>
       <m:P30107>Tu wen dian cang ban, chu ban</m:P30107>
       <m:P30182>354 pages</m:P30182>
+      <marc:M30000b>color illustrations</marc:M30000b>
       <m:P30169>24 cm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>

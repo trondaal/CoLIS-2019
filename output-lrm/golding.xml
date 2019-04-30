@@ -10,6 +10,23 @@
          xmlns:marc="http://marc21rdf.info/elements/marc/"
          xmlns:m="http://rdaregistry.info/Elements/m/"
          xml:base="http://example.org/rda/">
+   <c:C10001 rdf:about="/noidentifier">
+      <w:P10088>Lord of the flies</w:P10088>
+      <w:P10088>Lord of the flies (Peter Brook)</w:P10088>
+      <w:P10013 rdf:resource="hookharry"/>
+      <w:P10013 rdf:resource="brookpeter"/>
+      <w:P10053 rdf:resource="sardephilippe"/>
+      <w:P10053 rdf:resource="leppardraymond"/>
+      <w:P10064 rdf:resource="milloyross"/>
+      <w:P10064 rdf:resource="allenlewism"/>
+      <w:P10068 rdf:resource="fuhrermartin"/>
+      <w:P10068 rdf:resource="hollymantom"/>
+      <w:P10078 rdf:resource="/noidentifier/spa/"/>
+      <w:P10078 rdf:resource="/noidentifier/eng/"/>
+      <w:P10129 rdf:resource="http://viaf.org/viaf/119144648592107423604"/>
+      <w:P10203 rdf:resource="schiffsara"/>
+      <w:P10203 rdf:resource="brookpeter"/>
+   </c:C10001>
    <c:C10001 rdf:about="http://oslomet.workid.no/wg/01">
       <w:P10002>http://oslomet.workid.no/wg/01</w:P10002>
       <w:P10088>An Egyptian Journal</w:P10088>
@@ -50,7 +67,12 @@
       <w:P10002>http://viaf.org/viaf/119144648592107423604</w:P10002>
       <w:P10088>Lord of the Flies</w:P10088>
       <w:P10088>Lord of the flies</w:P10088>
+      <w:P10025 rdf:resource="/noidentifier"/>
+      <w:P10055 rdf:resource="zieglerarthurp"/>
+      <w:P10055 rdf:resource="bakerjr"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/89500102"/>
+      <w:P10061 rdf:resource="gregorian"/>
+      <w:P10061 rdf:resource="kinkeadweekesmark"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/119144648592107423604/eng/text"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/119144648592107423604/spa/text"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/119144648592107423604/ger/text"/>
@@ -58,7 +80,6 @@
       <w:P10078 rdf:resource="http://viaf.org/viaf/119144648592107423604/spa/texto(visual)"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/119144648592107423604/nob/"/>
       <w:P10257 rdf:resource="http://viaf.org/viaf/119144648592107423604"/>
-      <w:P10261 rdf:resource="http://viaf.org/viaf/89500102"/>
       <w:P10264 rdf:resource="http://viaf.org/viaf/119144648592107423604"/>
    </c:C10001>
    <c:C10001 rdf:about="http://viaf.org/viaf/174553895">
@@ -87,6 +108,7 @@
       <w:P10078 rdf:resource="http://viaf.org/viaf/177762289/eng/text"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/177762289/spa/text"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/177762289/ger/text"/>
+      <w:P10261 rdf:resource="http://viaf.org/viaf/89500102"/>
    </c:C10001>
    <c:C10001 rdf:about="http://viaf.org/viaf/178994871">
       <w:P10002>http://viaf.org/viaf/178994871</w:P10002>
@@ -94,21 +116,30 @@
       <w:P10088>Spire</w:P10088>
       <w:P10088>The spire</w:P10088>
       <w:P10061 rdf:resource="http://viaf.org/viaf/89500102"/>
+      <w:P10061 rdf:resource="mullanjohn"/>
+      <w:P10061 rdf:resource="bunnellws"/>
+      <w:P10061 rdf:resource="graydavidb"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/178994871/ger/text"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/178994871/eng/text"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/178994871/spa/text"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/178994871/spa/"/>
+      <w:P10257 rdf:resource="http://viaf.org/viaf/178994871"/>
+      <w:P10264 rdf:resource="http://viaf.org/viaf/178994871"/>
    </c:C10001>
    <c:C10001 rdf:about="http://viaf.org/viaf/180585027">
       <w:P10002>http://viaf.org/viaf/180585027</w:P10002>
       <w:P10088>Clonk clonk</w:P10088>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/89500102"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/180585027/eng/text"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/180585027/spa/text"/>
+      <w:P10261 rdf:resource="http://viaf.org/viaf/89500102"/>
    </c:C10001>
    <c:C10001 rdf:about="http://viaf.org/viaf/184334172">
       <w:P10002>http://viaf.org/viaf/184334172</w:P10002>
       <w:P10088>Pincher Martin</w:P10088>
       <w:P10061 rdf:resource="http://viaf.org/viaf/89500102"/>
+      <w:P10061 rdf:resource="gregoryphilippa"/>
+      <w:P10061 rdf:resource="jansclara"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/184334172/eng/text"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/184334172/spa/"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/184334172/ger/text"/>
@@ -178,6 +209,7 @@
       <w:P10078 rdf:resource="http://viaf.org/viaf/308018847/spa/"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/308018847/spa/texto(visual)"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/308018847/ger/text"/>
+      <w:P10261 rdf:resource="http://viaf.org/viaf/89500102"/>
    </c:C10001>
    <c:C10001 rdf:about="http://viaf.org/viaf/309268108">
       <w:P10002>http://viaf.org/viaf/309268108</w:P10002>
@@ -199,6 +231,27 @@
       <w:P10061 rdf:resource="http://viaf.org/viaf/89500102"/>
       <w:P10078 rdf:resource="http://www.wikidata.org/entity/q4658399http://viaf.org/viaf/307973201/eng/text"/>
    </c:C10001>
+   <c:C10001 rdf:about="seifertjaroslav/detnkzpiccadilly">
+      <w:P10088>Deštník z Piccadilly</w:P10088>
+      <w:P10061 rdf:resource="seifertjaroslav"/>
+      <w:P10078 rdf:resource="seifertjaroslav/detnkzpiccadilly/ger/text"/>
+   </c:C10001>
+   <c:C10001 rdf:about="seifertjaroslav/morovsloup">
+      <w:P10088>Morový sloup</w:P10088>
+      <w:P10061 rdf:resource="seifertjaroslav"/>
+      <w:P10078 rdf:resource="seifertjaroslav/morovsloup/ger/text"/>
+   </c:C10001>
+   <c:C10001 rdf:about="simonclaude/routedesflandres">
+      <w:P10088>Route des Flandres</w:P10088>
+      <w:P10061 rdf:resource="simonclaude"/>
+      <w:P10078 rdf:resource="simonclaude/routedesflandres/ger/text"/>
+   </c:C10001>
+   <c:C10004 rdf:about="allenlewism">
+      <a:P50094>allenlewism</a:P50094>
+      <a:P50111>Allen, Lewis M</a:P50111>
+      <a:P50107>1922-2003</a:P50107>
+      <a:P50213 rdf:resource="/noidentifier"/>
+   </c:C10004>
    <c:C10004 rdf:about="amlieaxel">
       <a:P50094>amlieaxel</a:P50094>
       <a:P50111>Amlie, Axel</a:P50111>
@@ -212,6 +265,12 @@
       <a:P50111>Apollo</a:P50111>
       <a:P50249 rdf:resource="http://viaf.org/viaf/1180145424574586830081"/>
    </c:C10004>
+   <c:C10004 rdf:about="aubreyjames">
+      <a:P50094>aubreyjames</a:P50094>
+      <a:P50111>Aubrey, James</a:P50111>
+      <a:P50107>1947-2010</a:P50107>
+      <a:P50071 rdf:resource="/noidentifier/eng/"/>
+   </c:C10004>
    <c:C10004 rdf:about="aurstadoddvar">
       <a:P50094>aurstadoddvar</a:P50094>
       <a:P50111>Aurstad, Oddvar</a:P50111>
@@ -221,15 +280,128 @@
       <a:P50094>baerengeljennifer</a:P50094>
       <a:P50111>Baer-Engel, Jennifer</a:P50111>
    </c:C10004>
+   <c:C10004 rdf:about="bakerjr">
+      <a:P50094>bakerjr</a:P50094>
+      <a:P50111>Baker, J. R</a:P50111>
+      <a:P50189 rdf:resource="http://viaf.org/viaf/119144648592107423604"/>
+   </c:C10004>
    <c:C10004 rdf:about="ballantynerobertm">
       <a:P50094>ballantynerobertm</a:P50094>
       <a:P50111>Ballantyne, Robert M</a:P50111>
       <a:P50107>1825-1894</a:P50107>
    </c:C10004>
+   <c:C10004 rdf:about="boschandrs">
+      <a:P50094>boschandrs</a:P50094>
+      <a:P50111>Bosch, Andrés</a:P50111>
+      <a:P50107>1926-1984</a:P50107>
+      <a:P50145 rdf:resource="http://viaf.org/viaf/309268108/spa/"/>
+   </c:C10004>
+   <c:C10004 rdf:about="brochnicolaicleve">
+      <a:P50094>brochnicolaicleve</a:P50094>
+      <a:P50111>Broch, Nicolai Cleve</a:P50111>
+      <a:P50107>1975-</a:P50107>
+      <a:P50081 rdf:resource="http://viaf.org/viaf/119144648592107423604/nob/"/>
+   </c:C10004>
+   <c:C10004 rdf:about="brookpeter">
+      <a:P50094>brookpeter</a:P50094>
+      <a:P50111>Brook, Peter</a:P50111>
+      <a:P50107>1925-</a:P50107>
+      <a:P50048 rdf:resource="/noidentifier"/>
+      <a:P50223 rdf:resource="/noidentifier"/>
+   </c:C10004>
    <c:C10004 rdf:about="bunnellws">
       <a:P50094>bunnellws</a:P50094>
       <a:P50111>Bunnell, W. S</a:P50111>
       <a:P50107>1925-</a:P50107>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/178994871"/>
+   </c:C10004>
+   <c:C10004 rdf:about="champourcinernestinade">
+      <a:P50094>champourcinernestinade</a:P50094>
+      <a:P50111>Champourcin, Ernestina de</a:P50111>
+      <a:P50107>1905-1999</a:P50107>
+      <a:P50145 rdf:resource="http://viaf.org/viaf/308018847/spa/texto(visual)"/>
+      <a:P50145 rdf:resource="http://viaf.org/viaf/308018847/spa/"/>
+   </c:C10004>
+   <c:C10004 rdf:about="chapintom">
+      <a:P50094>chapintom</a:P50094>
+      <a:P50111>Chapin, Tom</a:P50111>
+      <a:P50071 rdf:resource="/noidentifier/eng/"/>
+   </c:C10004>
+   <c:C10004 rdf:about="crespomanuel">
+      <a:P50094>crespomanuel</a:P50094>
+      <a:P50111>Crespo, Manuel</a:P50111>
+      <a:P50145 rdf:resource="http://oslomet.workid.no/wg/01/spa/"/>
+   </c:C10004>
+   <c:C10004 rdf:about="echvarriluis">
+      <a:P50094>echvarriluis</a:P50094>
+      <a:P50111>Echávarri, Luis</a:P50111>
+      <a:P50145 rdf:resource="http://viaf.org/viaf/217036112/spa/"/>
+   </c:C10004>
+   <c:C10004 rdf:about="edwardshugh">
+      <a:P50094>edwardshugh</a:P50094>
+      <a:P50111>Edwards, Hugh</a:P50111>
+      <a:P50107>1951-</a:P50107>
+      <a:P50071 rdf:resource="/noidentifier/eng/"/>
+   </c:C10004>
+   <c:C10004 rdf:about="fernndezjavier">
+      <a:P50094>fernndezjavier</a:P50094>
+      <a:P50111>Fernández, Javier</a:P50111>
+      <a:P50107>1971-</a:P50107>
+      <a:P50145 rdf:resource="http://oslomet.workid.no/wg/05/spa/"/>
+   </c:C10004>
+   <c:C10004 rdf:about="francoaixeljavier">
+      <a:P50094>francoaixeljavier</a:P50094>
+      <a:P50111>Franco Aixelá, Javier</a:P50111>
+      <a:P50145 rdf:resource="http://viaf.org/viaf/218116512/spa/"/>
+   </c:C10004>
+   <c:C10004 rdf:about="fuhrermartin">
+      <a:P50094>fuhrermartin</a:P50094>
+      <a:P50111>Fuhrer, Martin</a:P50111>
+      <a:P50207 rdf:resource="/noidentifier"/>
+   </c:C10004>
+   <c:C10004 rdf:about="furthchris">
+      <a:P50094>furthchris</a:P50094>
+      <a:P50111>Furth, Chris</a:P50111>
+      <a:P50071 rdf:resource="/noidentifier/spa/"/>
+   </c:C10004>
+   <c:C10004 rdf:about="gettybalthazar">
+      <a:P50094>gettybalthazar</a:P50094>
+      <a:P50111>Getty, Balthazar</a:P50111>
+      <a:P50107>1975-</a:P50107>
+      <a:P50071 rdf:resource="/noidentifier/spa/"/>
+   </c:C10004>
+   <c:C10004 rdf:about="goligorskyeduardo">
+      <a:P50094>goligorskyeduardo</a:P50094>
+      <a:P50111>Goligorsky, Eduardo</a:P50111>
+      <a:P50145 rdf:resource="http://viaf.org/viaf/211743501/spa/"/>
+   </c:C10004>
+   <c:C10004 rdf:about="golygorskyeduardo">
+      <a:P50094>golygorskyeduardo</a:P50094>
+      <a:P50111>Golygorsky, Eduardo</a:P50111>
+      <a:P50145 rdf:resource="http://viaf.org/viaf/211743501/spa/"/>
+   </c:C10004>
+   <c:C10004 rdf:about="grafffinn">
+      <a:P50094>grafffinn</a:P50094>
+      <a:P50111>Graff, Finn</a:P50111>
+      <a:P50107>1938-</a:P50107>
+      <a:P50469 rdf:resource="urn:isbn:8252520308"/>
+      <a:P50469 rdf:resource="urn:isbn:8252500919"/>
+   </c:C10004>
+   <c:C10004 rdf:about="graydavidb">
+      <a:P50094>graydavidb</a:P50094>
+      <a:P50111>Gray, David B</a:P50111>
+      <a:P50107>1931-</a:P50107>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/178994871"/>
+   </c:C10004>
+   <c:C10004 rdf:about="gregorian">
+      <a:P50094>gregorian</a:P50094>
+      <a:P50111>Gregor, Ian</a:P50111>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/119144648592107423604"/>
+   </c:C10004>
+   <c:C10004 rdf:about="gregoryphilippa">
+      <a:P50094>gregoryphilippa</a:P50094>
+      <a:P50111>Gregory, Philippa</a:P50111>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/184334172"/>
    </c:C10004>
    <c:C10004 rdf:about="hagerupinger">
       <a:P50094>hagerupinger</a:P50094>
@@ -252,15 +424,32 @@
       <a:P50111>Held, Wolfgang</a:P50111>
       <a:P50145 rdf:resource="http://viaf.org/viaf/1180145424574586830081/ger/text"/>
    </c:C10004>
+   <c:C10004 rdf:about="hollymantom">
+      <a:P50094>hollymantom</a:P50094>
+      <a:P50111>Hollyman, Tom</a:P50111>
+      <a:P50207 rdf:resource="/noidentifier"/>
+   </c:C10004>
+   <c:C10004 rdf:about="hookharry">
+      <a:P50094>hookharry</a:P50094>
+      <a:P50111>Hook, Harry</a:P50111>
+      <a:P50048 rdf:resource="/noidentifier"/>
+   </c:C10004>
+   <c:C10004 rdf:about="horstsilke">
+      <a:P50094>horstsilke</a:P50094>
+      <a:P50111>Horst, Silke</a:P50111>
+   </c:C10004>
    <c:C10004 rdf:about="http://viaf.org/viaf/86744222">
       <a:P50094>http://viaf.org/viaf/86744222</a:P50094>
       <a:P50111>Vergara, Carmen</a:P50111>
+      <a:P50145 rdf:resource="http://viaf.org/viaf/119144648592107423604/spa/text"/>
+      <a:P50145 rdf:resource="http://viaf.org/viaf/119144648592107423604/spa/"/>
       <a:P50145 rdf:resource="http://viaf.org/viaf/119144648592107423604/spa/texto(visual)"/>
    </c:C10004>
    <c:C10004 rdf:about="http://viaf.org/viaf/89500102">
       <a:P50094>http://viaf.org/viaf/89500102</a:P50094>
       <a:P50111>Golding, William</a:P50111>
       <a:P50107>1911-1993</a:P50107>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/178994871"/>
       <a:P50195 rdf:resource="http://viaf.org/viaf/119144648592107423604"/>
       <a:P50195 rdf:resource="http://viaf.org/viaf/218116512"/>
       <a:P50195 rdf:resource="http://oslomet.workid.no/wg/06"/>
@@ -268,24 +457,33 @@
       <a:P50195 rdf:resource="http://viaf.org/viaf/1180145424574586830081"/>
       <a:P50195 rdf:resource="http://oslomet.workid.no/wg/05"/>
       <a:P50195 rdf:resource="http://viaf.org/viaf/188302088"/>
-      <a:P50195 rdf:resource="http://viaf.org/viaf/178994871"/>
       <a:P50195 rdf:resource="http://www.wikidata.org/entity/q4394863"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/176165653"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/187146251"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/174553895"/>
       <a:P50195 rdf:resource="http://viaf.org/viaf/308018847"/>
       <a:P50195 rdf:resource="http://viaf.org/viaf/217036112"/>
-      <a:P50195 rdf:resource="http://viaf.org/viaf/187146251"/>
-      <a:P50195 rdf:resource="http://viaf.org/viaf/176165653"/>
       <a:P50195 rdf:resource="http://oslomet.workid.no/wg/01"/>
-      <a:P50195 rdf:resource="http://viaf.org/viaf/174553895"/>
       <a:P50195 rdf:resource="http://viaf.org/viaf/184334172"/>
       <a:P50195 rdf:resource="http://viaf.org/viaf/309268108"/>
       <a:P50195 rdf:resource="http://www.wikidata.org/entity/q4658399http://viaf.org/viaf/307973201"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/180585027"/>
       <a:P50195 rdf:resource="http://viaf.org/viaf/177762289"/>
       <a:P50249 rdf:resource="http://oslomet.workid.no/wg/01"/>
-      <a:P50249 rdf:resource="http://viaf.org/viaf/119144648592107423604"/>
+      <a:P50249 rdf:resource="http://viaf.org/viaf/180585027"/>
+      <a:P50249 rdf:resource="http://viaf.org/viaf/177762289"/>
+      <a:P50249 rdf:resource="http://viaf.org/viaf/308018847"/>
    </c:C10004>
    <c:C10004 rdf:about="jahnkehansotto">
       <a:P50094>jahnkehansotto</a:P50094>
       <a:P50111>Jahnke, Hans-Otto</a:P50111>
+   </c:C10004>
+   <c:C10004 rdf:about="jansclara">
+      <a:P50094>jansclara</a:P50094>
+      <a:P50111>Janés, Clara</a:P50111>
+      <a:P50107>1940-</a:P50107>
+      <a:P50145 rdf:resource="http://viaf.org/viaf/184334172/spa/"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/184334172"/>
    </c:C10004>
    <c:C10004 rdf:about="kaisergerd">
       <a:P50094>kaisergerd</a:P50094>
@@ -299,10 +497,26 @@
       <a:P50094>kingmartin</a:P50094>
       <a:P50111>King, Martin</a:P50111>
    </c:C10004>
+   <c:C10004 rdf:about="kinkeadweekesmark">
+      <a:P50094>kinkeadweekesmark</a:P50094>
+      <a:P50111>Kinkead-Weekes, Mark</a:P50111>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/119144648592107423604"/>
+   </c:C10004>
+   <c:C10004 rdf:about="laurorahoracio">
+      <a:P50094>laurorahoracio</a:P50094>
+      <a:P50111>Laurora, Horacio</a:P50111>
+      <a:P50145 rdf:resource="http://viaf.org/viaf/178994871/spa/"/>
+   </c:C10004>
    <c:C10004 rdf:about="lausundolav">
       <a:P50094>lausundolav</a:P50094>
       <a:P50111>Lausund, Olav</a:P50111>
       <a:P50145 rdf:resource="http://viaf.org/viaf/217036112/nob/"/>
+   </c:C10004>
+   <c:C10004 rdf:about="leppardraymond">
+      <a:P50094>leppardraymond</a:P50094>
+      <a:P50111>Leppard, Raymond</a:P50111>
+      <a:P50107>1927-</a:P50107>
+      <a:P50187 rdf:resource="/noidentifier"/>
    </c:C10004>
    <c:C10004 rdf:about="machinroger">
       <a:P50094>machinroger</a:P50094>
@@ -313,9 +527,25 @@
       <a:P50111>Mahoney, John</a:P50111>
       <a:P50107>1940 February 23-</a:P50107>
    </c:C10004>
+   <c:C10004 rdf:about="martinstewart">
+      <a:P50094>martinstewart</a:P50094>
+      <a:P50111>Martin, Stewart</a:P50111>
+      <a:P50107>1948-</a:P50107>
+   </c:C10004>
    <c:C10004 rdf:about="meitckew">
       <a:P50094>meitckew</a:P50094>
       <a:P50111>Meitcke, W</a:P50111>
+   </c:C10004>
+   <c:C10004 rdf:about="milloyross">
+      <a:P50094>milloyross</a:P50094>
+      <a:P50111>Milloy, Ross</a:P50111>
+      <a:P50213 rdf:resource="/noidentifier"/>
+   </c:C10004>
+   <c:C10004 rdf:about="mullanjohn">
+      <a:P50094>mullanjohn</a:P50094>
+      <a:P50111>Mullan, John</a:P50111>
+      <a:P50107>1931-</a:P50107>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/178994871"/>
    </c:C10004>
    <c:C10004 rdf:about="neisedgar">
       <a:P50094>neisedgar</a:P50094>
@@ -329,15 +559,76 @@
       <a:P50094>peabentezpatricia</a:P50094>
       <a:P50111>Peña Benítez, Patricia</a:P50111>
    </c:C10004>
+   <c:C10004 rdf:about="pipolydaniel">
+      <a:P50094>pipolydaniel</a:P50094>
+      <a:P50111>Pipoly, Daniel</a:P50111>
+      <a:P50071 rdf:resource="/noidentifier/spa/"/>
+   </c:C10004>
    <c:C10004 rdf:about="poppereiner">
       <a:P50094>poppereiner</a:P50094>
       <a:P50111>Poppe, Reiner</a:P50111>
       <a:P50107>1939-</a:P50107>
    </c:C10004>
+   <c:C10004 rdf:about="quijadaencarna">
+      <a:P50094>quijadaencarna</a:P50094>
+      <a:P50111>Quijada, Encarna</a:P50111>
+      <a:P50145 rdf:resource="http://viaf.org/viaf/178994871/spa/text"/>
+   </c:C10004>
+   <c:C10004 rdf:about="richterirmgard">
+      <a:P50094>richterirmgard</a:P50094>
+      <a:P50111>Richter, Irmgard</a:P50111>
+   </c:C10004>
    <c:C10004 rdf:about="ryumnils">
       <a:P50094>ryumnils</a:P50094>
       <a:P50111>Ryum, Nils</a:P50111>
       <a:P50145 rdf:resource="http://viaf.org/viaf/217036112/nob/"/>
+   </c:C10004>
+   <c:C10004 rdf:about="salvadortoms">
+      <a:P50094>salvadortoms</a:P50094>
+      <a:P50111>Salvador, Tomás</a:P50111>
+      <a:P50107>1921-1984</a:P50107>
+   </c:C10004>
+   <c:C10004 rdf:about="santosfontenlafernando">
+      <a:P50094>santosfontenlafernando</a:P50094>
+      <a:P50111>Santos Fontenla, Fernando</a:P50111>
+      <a:P50145 rdf:resource="http://viaf.org/viaf/188302088/spa/texto(visual)"/>
+      <a:P50145 rdf:resource="http://viaf.org/viaf/176165653/spa/"/>
+      <a:P50145 rdf:resource="http://viaf.org/viaf/174553895/spa/"/>
+      <a:P50145 rdf:resource="http://viaf.org/viaf/187146251/spa/"/>
+      <a:P50145 rdf:resource="http://viaf.org/viaf/188302088/spa/"/>
+   </c:C10004>
+   <c:C10004 rdf:about="sardephilippe">
+      <a:P50094>sardephilippe</a:P50094>
+      <a:P50111>Sarde, Philippe</a:P50111>
+      <a:P50107>1945-</a:P50107>
+      <a:P50187 rdf:resource="/noidentifier"/>
+   </c:C10004>
+   <c:C10004 rdf:about="schiffsara">
+      <a:P50094>schiffsara</a:P50094>
+      <a:P50111>Schiff, Sara</a:P50111>
+      <a:P50223 rdf:resource="/noidentifier"/>
+   </c:C10004>
+   <c:C10004 rdf:about="seifertjaroslav">
+      <a:P50094>seifertjaroslav</a:P50094>
+      <a:P50111>Seifert, Jaroslav</a:P50111>
+      <a:P50107>1901-1986</a:P50107>
+      <a:P50195 rdf:resource="seifertjaroslav/detnkzpiccadilly"/>
+      <a:P50195 rdf:resource="seifertjaroslav/morovsloup"/>
+   </c:C10004>
+   <c:C10004 rdf:about="selfdavid">
+      <a:P50094>selfdavid</a:P50094>
+      <a:P50111>Self, David</a:P50111>
+      <a:P50107>1940-</a:P50107>
+   </c:C10004>
+   <c:C10004 rdf:about="serratmulacarles">
+      <a:P50094>serratmulacarles</a:P50094>
+      <a:P50111>Serrat Mulà, Carles</a:P50111>
+      <a:P50145 rdf:resource="http://viaf.org/viaf/119144648592107423604/spa/text"/>
+   </c:C10004>
+   <c:C10004 rdf:about="simonclaude">
+      <a:P50094>simonclaude</a:P50094>
+      <a:P50111>Simon, Claude</a:P50111>
+      <a:P50195 rdf:resource="simonclaude/routedesflandres"/>
    </c:C10004>
    <c:C10004 rdf:about="spearhildad">
       <a:P50094>spearhildad</a:P50094>
@@ -357,6 +648,11 @@
       <a:P50111>Stiehl, Hermann</a:P50111>
       <a:P50145 rdf:resource="http://viaf.org/viaf/119144648592107423604/ger/text"/>
    </c:C10004>
+   <c:C10004 rdf:about="stresauhermann">
+      <a:P50094>stresauhermann</a:P50094>
+      <a:P50111>Stresau, Hermann</a:P50111>
+      <a:P50107>1894-1964</a:P50107>
+   </c:C10004>
    <c:C10004 rdf:about="sumnerrosemary">
       <a:P50094>sumnerrosemary</a:P50094>
       <a:P50111>Sumner, Rosemary</a:P50111>
@@ -367,11 +663,41 @@
       <a:P50107>1958-</a:P50107>
       <a:P50145 rdf:resource="http://viaf.org/viaf/119144648592107423604/ger/text"/>
    </c:C10004>
+   <c:C10004 rdf:about="williamsnigel">
+      <a:P50094>williamsnigel</a:P50094>
+      <a:P50111>Williams, Nigel</a:P50111>
+      <a:P50107>1948-</a:P50107>
+   </c:C10004>
    <c:C10004 rdf:about="wilsonraymond">
       <a:P50094>wilsonraymond</a:P50094>
       <a:P50111>Wilson, Raymond</a:P50111>
       <a:P50107>1925-</a:P50107>
    </c:C10004>
+   <c:C10004 rdf:about="zieglerarthurp">
+      <a:P50094>zieglerarthurp</a:P50094>
+      <a:P50111>Ziegler, Arthur P</a:P50111>
+      <a:P50189 rdf:resource="http://viaf.org/viaf/119144648592107423604"/>
+   </c:C10004>
+   <c:C10006 rdf:about="/noidentifier/eng/">
+      <e:P20006>eng</e:P20006>
+      <e:P20012 rdf:resource="aubreyjames"/>
+      <e:P20012 rdf:resource="chapintom"/>
+      <e:P20012 rdf:resource="edwardshugh"/>
+      <e:P20059 rdf:resource="http://example.org/a4782729"/>
+      <e:P20231 rdf:resource="/noidentifier"/>
+   </c:C10006>
+   <c:C10006 rdf:about="/noidentifier/spa/">
+      <e:P20006>spa</e:P20006>
+      <e:P20006>eng</e:P20006>
+      <e:P20006>Español</e:P20006>
+      <e:P20012 rdf:resource="gettybalthazar"/>
+      <e:P20012 rdf:resource="furthchris"/>
+      <e:P20012 rdf:resource="pipolydaniel"/>
+      <e:P20059 rdf:resource="http://example.org/bivi0000058827"/>
+      <e:P20059 rdf:resource="http://example.org/bivi0000058826"/>
+      <e:P20059 rdf:resource="http://example.org/bivi0000058825"/>
+      <e:P20231 rdf:resource="/noidentifier"/>
+   </c:C10006>
    <c:C10006 rdf:about="http://oslomet.workid.no/wg/01/eng/text">
       <e:P20006>eng</e:P20006>
       <e:P20001>text</e:P20001>
@@ -388,6 +714,7 @@
    </c:C10006>
    <c:C10006 rdf:about="http://oslomet.workid.no/wg/01/spa/">
       <e:P20006>spa</e:P20006>
+      <e:P20037 rdf:resource="crespomanuel"/>
       <e:P20059 rdf:resource="urn:isbn:8476280599"/>
       <e:P20231 rdf:resource="http://oslomet.workid.no/wg/01"/>
    </c:C10006>
@@ -403,6 +730,7 @@
    <c:C10006 rdf:about="http://oslomet.workid.no/wg/05/spa/">
       <e:P20006>spa</e:P20006>
       <e:P20006>Español</e:P20006>
+      <e:P20037 rdf:resource="fernndezjavier"/>
       <e:P20059 rdf:resource="urn:isbn:9788437626703"/>
       <e:P20231 rdf:resource="http://oslomet.workid.no/wg/05"/>
    </c:C10006>
@@ -457,7 +785,6 @@
       <e:P20059 rdf:resource="urn:isbn:0571056865"/>
       <e:P20059 rdf:resource="urn:isbn:9780571295715"/>
       <e:P20059 rdf:resource="http://example.org/004146915"/>
-      <e:P20059 rdf:resource="urn:isbn:0571160565"/>
       <e:P20059 rdf:resource="urn:isbn:0571224520"/>
       <e:P20059 rdf:resource="urn:isbn:0399300023"/>
       <e:P20059 rdf:resource="http://example.org/014141167"/>
@@ -533,6 +860,7 @@
    <c:C10006 rdf:about="http://viaf.org/viaf/119144648592107423604/nob/">
       <e:P20006>nob</e:P20006>
       <e:P20006>Norsk</e:P20006>
+      <e:P20022 rdf:resource="brochnicolaicleve"/>
       <e:P20037 rdf:resource="hagerupinger"/>
       <e:P20059 rdf:resource="urn:isbn:8205131570"/>
       <e:P20059 rdf:resource="urn:isbn:8252533302"/>
@@ -548,12 +876,9 @@
    <c:C10006 rdf:about="http://viaf.org/viaf/119144648592107423604/spa/">
       <e:P20006>spa</e:P20006>
       <e:P20006>Español</e:P20006>
-      <e:P20312>Lord of the flies</e:P20312>
+      <e:P20037 rdf:resource="http://viaf.org/viaf/86744222"/>
       <e:P20059 rdf:resource="urn:isbn:8420613819"/>
       <e:P20059 rdf:resource="urn:isbn:8420666572"/>
-      <e:P20059 rdf:resource="http://example.org/bivi0000058827"/>
-      <e:P20059 rdf:resource="http://example.org/bivi0000058826"/>
-      <e:P20059 rdf:resource="http://example.org/bivi0000058825"/>
       <e:P20059 rdf:resource="urn:isbn:8420699160"/>
       <e:P20059 rdf:resource="http://example.org/bimo0001895148"/>
       <e:P20059 rdf:resource="urn:isbn:8420634115"/>
@@ -572,6 +897,8 @@
       <e:P20006>spa</e:P20006>
       <e:P20006>Spanish</e:P20006>
       <e:P20001>text</e:P20001>
+      <e:P20037 rdf:resource="serratmulacarles"/>
+      <e:P20037 rdf:resource="http://viaf.org/viaf/86744222"/>
       <e:P20059 rdf:resource="urn:isbn:8435008355"/>
       <e:P20059 rdf:resource="urn:isbn:9788481302066"/>
       <e:P20059 rdf:resource="urn:isbn:8420699160"/>
@@ -608,6 +935,7 @@
    <c:C10006 rdf:about="http://viaf.org/viaf/174553895/spa/">
       <e:P20006>spa</e:P20006>
       <e:P20006>Español</e:P20006>
+      <e:P20037 rdf:resource="santosfontenlafernando"/>
       <e:P20059 rdf:resource="urn:isbn:9788420650845"/>
       <e:P20059 rdf:resource="urn:isbn:8420632643"/>
       <e:P20231 rdf:resource="http://viaf.org/viaf/174553895"/>
@@ -646,6 +974,7 @@
    <c:C10006 rdf:about="http://viaf.org/viaf/176165653/spa/">
       <e:P20006>spa</e:P20006>
       <e:P20006>Español</e:P20006>
+      <e:P20037 rdf:resource="santosfontenlafernando"/>
       <e:P20059 rdf:resource="urn:isbn:9788420674162"/>
       <e:P20059 rdf:resource="urn:isbn:8420630969"/>
       <e:P20231 rdf:resource="http://viaf.org/viaf/176165653"/>
@@ -704,6 +1033,7 @@
    <c:C10006 rdf:about="http://viaf.org/viaf/178994871/spa/">
       <e:P20006>spa</e:P20006>
       <e:P20006>Español</e:P20006>
+      <e:P20037 rdf:resource="laurorahoracio"/>
       <e:P20059 rdf:resource="urn:isbn:8435004201"/>
       <e:P20059 rdf:resource="urn:isbn:8448704541"/>
       <e:P20059 rdf:resource="urn:isbn:8432227471"/>
@@ -713,6 +1043,7 @@
       <e:P20006>spa</e:P20006>
       <e:P20006>Spanish</e:P20006>
       <e:P20001>text</e:P20001>
+      <e:P20037 rdf:resource="quijadaencarna"/>
       <e:P20059 rdf:resource="urn:isbn:9788432227479"/>
       <e:P20231 rdf:resource="http://viaf.org/viaf/178994871"/>
    </c:C10006>
@@ -760,6 +1091,7 @@
    </c:C10006>
    <c:C10006 rdf:about="http://viaf.org/viaf/184334172/spa/">
       <e:P20006>spa</e:P20006>
+      <e:P20037 rdf:resource="jansclara"/>
       <e:P20059 rdf:resource="http://example.org/bimo0000923022"/>
       <e:P20059 rdf:resource="urn:isbn:8426570615"/>
       <e:P20231 rdf:resource="http://viaf.org/viaf/184334172"/>
@@ -793,6 +1125,7 @@
    <c:C10006 rdf:about="http://viaf.org/viaf/187146251/spa/">
       <e:P20006>spa</e:P20006>
       <e:P20006>Español</e:P20006>
+      <e:P20037 rdf:resource="santosfontenlafernando"/>
       <e:P20059 rdf:resource="urn:isbn:9788420650838"/>
       <e:P20059 rdf:resource="urn:isbn:8420632430"/>
       <e:P20231 rdf:resource="http://viaf.org/viaf/187146251"/>
@@ -823,6 +1156,7 @@
    </c:C10006>
    <c:C10006 rdf:about="http://viaf.org/viaf/188302088/spa/">
       <e:P20006>spa</e:P20006>
+      <e:P20037 rdf:resource="santosfontenlafernando"/>
       <e:P20059 rdf:resource="urn:isbn:8420631477"/>
       <e:P20231 rdf:resource="http://viaf.org/viaf/188302088"/>
    </c:C10006>
@@ -830,6 +1164,7 @@
       <e:P20006>spa</e:P20006>
       <e:P20006>Español</e:P20006>
       <e:P20001>Texto (visual)</e:P20001>
+      <e:P20037 rdf:resource="santosfontenlafernando"/>
       <e:P20059 rdf:resource="urn:isbn:9788420653525"/>
       <e:P20231 rdf:resource="http://viaf.org/viaf/188302088"/>
    </c:C10006>
@@ -861,6 +1196,8 @@
    <c:C10006 rdf:about="http://viaf.org/viaf/211743501/spa/">
       <e:P20006>spa</e:P20006>
       <e:P20006>eng</e:P20006>
+      <e:P20037 rdf:resource="goligorskyeduardo"/>
+      <e:P20037 rdf:resource="golygorskyeduardo"/>
       <e:P20059 rdf:resource="urn:isbn:8475304621"/>
       <e:P20059 rdf:resource="urn:isbn:8475303749"/>
       <e:P20059 rdf:resource="urn:isbn:8420631345"/>
@@ -897,6 +1234,7 @@
    <c:C10006 rdf:about="http://viaf.org/viaf/217036112/spa/">
       <e:P20006>spa</e:P20006>
       <e:P20006>Español</e:P20006>
+      <e:P20037 rdf:resource="echvarriluis"/>
       <e:P20059 rdf:resource="urn:isbn:8445071920"/>
       <e:P20231 rdf:resource="http://viaf.org/viaf/217036112"/>
    </c:C10006>
@@ -924,6 +1262,7 @@
    </c:C10006>
    <c:C10006 rdf:about="http://viaf.org/viaf/218116512/spa/">
       <e:P20006>spa</e:P20006>
+      <e:P20037 rdf:resource="francoaixeljavier"/>
       <e:P20059 rdf:resource="urn:isbn:8420631744"/>
       <e:P20231 rdf:resource="http://viaf.org/viaf/218116512"/>
    </c:C10006>
@@ -949,6 +1288,7 @@
    </c:C10006>
    <c:C10006 rdf:about="http://viaf.org/viaf/308018847/spa/">
       <e:P20006>spa</e:P20006>
+      <e:P20037 rdf:resource="champourcinernestinade"/>
       <e:P20059 rdf:resource="http://example.org/bimo0000923021"/>
       <e:P20059 rdf:resource="urn:isbn:8420655686"/>
       <e:P20059 rdf:resource="urn:isbn:8420692131"/>
@@ -965,6 +1305,7 @@
    <c:C10006 rdf:about="http://viaf.org/viaf/308018847/spa/texto(visual)">
       <e:P20006>spa</e:P20006>
       <e:P20001>Texto (visual)</e:P20001>
+      <e:P20037 rdf:resource="champourcinernestinade"/>
       <e:P20059 rdf:resource="urn:isbn:9788420653532"/>
       <e:P20231 rdf:resource="http://viaf.org/viaf/308018847"/>
    </c:C10006>
@@ -989,6 +1330,7 @@
    </c:C10006>
    <c:C10006 rdf:about="http://viaf.org/viaf/309268108/spa/">
       <e:P20006>spa</e:P20006>
+      <e:P20037 rdf:resource="boschandrs"/>
       <e:P20059 rdf:resource="urn:isbn:842641057"/>
       <e:P20059 rdf:resource="http://example.org/bimo0000923028"/>
       <e:P20231 rdf:resource="http://viaf.org/viaf/309268108"/>
@@ -996,12 +1338,8 @@
    <c:C10006 rdf:about="http://www.wikidata.org/entity/q4394863/eng/text">
       <e:P20006>eng</e:P20006>
       <e:P20001>text</e:P20001>
-      <e:P20059 rdf:resource="urn:isbn:0571223214"/>
-      <e:P20059 rdf:resource="urn:isbn:0571164064"/>
-      <e:P20059 rdf:resource="urn:isbn:0571225411"/>
       <e:P20059 rdf:resource="urn:isbn:0571166547"/>
       <e:P20059 rdf:resource="urn:isbn:9780571267453"/>
-      <e:P20059 rdf:resource="urn:isbn:0571166989"/>
       <e:P20231 rdf:resource="http://www.wikidata.org/entity/q4394863"/>
    </c:C10006>
    <c:C10006 rdf:about="http://www.wikidata.org/entity/q4658399http://viaf.org/viaf/307973201/eng/text">
@@ -1012,6 +1350,24 @@
       <e:P20059 rdf:resource="urn:isbn:9780571265473"/>
       <e:P20059 rdf:resource="urn:isbn:0571118224"/>
       <e:P20231 rdf:resource="http://www.wikidata.org/entity/q4658399http://viaf.org/viaf/307973201"/>
+   </c:C10006>
+   <c:C10006 rdf:about="seifertjaroslav/detnkzpiccadilly/ger/text">
+      <e:P20006>ger</e:P20006>
+      <e:P20001>text</e:P20001>
+      <e:P20059 rdf:resource="http://example.org/014884342"/>
+      <e:P20231 rdf:resource="seifertjaroslav/detnkzpiccadilly"/>
+   </c:C10006>
+   <c:C10006 rdf:about="seifertjaroslav/morovsloup/ger/text">
+      <e:P20006>ger</e:P20006>
+      <e:P20001>text</e:P20001>
+      <e:P20059 rdf:resource="http://example.org/014884342"/>
+      <e:P20231 rdf:resource="seifertjaroslav/morovsloup"/>
+   </c:C10006>
+   <c:C10006 rdf:about="simonclaude/routedesflandres/ger/text">
+      <e:P20006>ger</e:P20006>
+      <e:P20001>text</e:P20001>
+      <e:P20059 rdf:resource="http://example.org/014884342"/>
+      <e:P20231 rdf:resource="simonclaude/routedesflandres"/>
    </c:C10006>
    <c:C10007 rdf:about="http://example.org/001452439">
       <marc:M001>001452439</marc:M001>
@@ -1231,13 +1587,16 @@
       <m:P30083>Coron</m:P30083>
       <m:P30011>[1994?]</m:P30011>
       <m:P30182>307, 251, 348 p. :</m:P30182>
+      <marc:M30000b>ill. ;</marc:M30000b>
       <m:P30169>22 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
       <m:P30106>Nobelpreis für Literatur ;</m:P30106>
       <m:P30165>1983-1985</m:P30165>
-      <m:P30020 rdf:resource="http://example.org/demnbsb6197499"/>
       <m:P30139 rdf:resource="http://viaf.org/viaf/178994871/ger/text"/>
+      <m:P30139 rdf:resource="seifertjaroslav/detnkzpiccadilly/ger/text"/>
+      <m:P30139 rdf:resource="seifertjaroslav/morovsloup/ger/text"/>
+      <m:P30139 rdf:resource="simonclaude/routedesflandres/ger/text"/>
    </c:C10007>
    <c:C10007 rdf:about="http://example.org/015506954">
       <marc:M001>015506954</marc:M001>
@@ -1247,6 +1606,7 @@
       <m:P30083>Folio Society</m:P30083>
       <m:P30011>2009</m:P30011>
       <m:P30182>xiii, 225 p., [6] leaves of plates :</m:P30182>
+      <marc:M30000b>col. ill. ;</marc:M30000b>
       <m:P30169>23 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -1512,6 +1872,7 @@
       <m:P30156>&#x98;Der&#x9c; Turm der Kathedrale : Nobelpreis 1983 England</m:P30156>
       <m:P30117>William Golding. [Bibliogr.: Werner Martin]</m:P30117>
       <m:P30182>307 S.</m:P30182>
+      <marc:M30000b>Ill.</marc:M30000b>
       <m:P30169>23 cm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -1526,7 +1887,6 @@
       <m:P30182>158 S.</m:P30182>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
-      <m:P30020 rdf:resource="http://example.org/de101948326433"/>
       <m:P30139 rdf:resource="http://viaf.org/viaf/119144648592107423604/ger/text"/>
    </c:C10007>
    <c:C10007 rdf:about="http://example.org/94832659x">
@@ -1536,7 +1896,6 @@
       <m:P30182>176 S.</m:P30182>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
-      <m:P30020 rdf:resource="http://example.org/de101948326433"/>
       <m:P30139 rdf:resource="http://viaf.org/viaf/119144648592107423604/ger/text"/>
    </c:C10007>
    <c:C10007 rdf:about="http://example.org/961860596">
@@ -1544,6 +1903,7 @@
       <m:P30156>&#x98;Der&#x9c; Turm der Kathedrale : Nobelpreis 1983 England</m:P30156>
       <m:P30117>William Golding. [Bibliogr.: Werner Martin]</m:P30117>
       <m:P30182>307, 251, 347 S.</m:P30182>
+      <marc:M30000b>Ill.</marc:M30000b>
       <m:P30169>22 cm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -1583,8 +1943,11 @@
       <m:P30083>distribuye Avalón Distribución Audiovisual</m:P30083>
       <m:P30011>D.L. 2010</m:P30011>
       <m:P30182>1 DVD-Vídeo (92 min)</m:P30182>
+      <marc:M30000b>son., bl. y n.</marc:M30000b>
+      <marc:M30000e>1 libreto ([16] p.)</marc:M30000e>
       <m:P30106>Filmoteca FNAC</m:P30106>
       <m:P30165>102</m:P30165>
+      <m:P30139 rdf:resource="/noidentifier/eng/"/>
    </c:C10007>
    <c:C10007 rdf:about="http://example.org/bimo0000923021">
       <marc:M001>bimo0000923021</marc:M001>
@@ -1657,7 +2020,8 @@
       <m:P30083>editado y distribuido en España por PolyGram Ibérica</m:P30083>
       <m:P30011>D.L. 1998</m:P30011>
       <m:P30182>1 videocasete (VHS) (91 min)</m:P30182>
-      <m:P30139 rdf:resource="http://viaf.org/viaf/119144648592107423604/spa/"/>
+      <marc:M30000b>son., col.</marc:M30000b>
+      <m:P30139 rdf:resource="/noidentifier/spa/"/>
    </c:C10007>
    <c:C10007 rdf:about="http://example.org/bivi0000058826">
       <marc:M001>bivi0000058826</marc:M001>
@@ -1667,7 +2031,8 @@
       <m:P30083>Filmayer Video</m:P30083>
       <m:P30011>D.L. 1994</m:P30011>
       <m:P30182>1 videocasete (VHS) (90 min)</m:P30182>
-      <m:P30139 rdf:resource="http://viaf.org/viaf/119144648592107423604/spa/"/>
+      <marc:M30000b>son., col.</marc:M30000b>
+      <m:P30139 rdf:resource="/noidentifier/spa/"/>
    </c:C10007>
    <c:C10007 rdf:about="http://example.org/bivi0000058827">
       <marc:M001>bivi0000058827</marc:M001>
@@ -1677,26 +2042,8 @@
       <m:P30083>Filmayer Video</m:P30083>
       <m:P30011>D.L. 1991</m:P30011>
       <m:P30182>1 videocasete (VHS) (90 min)</m:P30182>
-      <m:P30139 rdf:resource="http://viaf.org/viaf/119144648592107423604/spa/"/>
-   </c:C10007>
-   <c:C10007 rdf:about="http://example.org/de1011026274591">
-      <m:P30004>(DE-101)1026274591</m:P30004>
-      <m:P30033 rdf:resource="urn:isbn:9783125798540"/>
-      <m:P30033 rdf:resource="urn:isbn:9783125798557"/>
-   </c:C10007>
-   <c:C10007 rdf:about="http://example.org/de101552098019">
-      <m:P30004>(DE-101)552098019</m:P30004>
-      <m:P30033 rdf:resource="urn:isbn:9783425098463"/>
-      <m:P30033 rdf:resource="urn:isbn:9783425048468"/>
-   </c:C10007>
-   <c:C10007 rdf:about="http://example.org/de101948326433">
-      <m:P30004>(DE-101)948326433</m:P30004>
-      <m:P30033 rdf:resource="http://example.org/948326581"/>
-      <m:P30033 rdf:resource="http://example.org/94832659x"/>
-   </c:C10007>
-   <c:C10007 rdf:about="http://example.org/demnbsb6197499">
-      <m:P30004>(DE-MnBSB)6197499</m:P30004>
-      <m:P30033 rdf:resource="http://example.org/014884342"/>
+      <marc:M30000b>son., col.</marc:M30000b>
+      <m:P30139 rdf:resource="/noidentifier/spa/"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:0330502956">
       <marc:M001>010047798</marc:M001>
@@ -1798,6 +2145,7 @@
       <m:P30083>Berkley Pub. Group</m:P30083>
       <m:P30011>2003</m:P30011>
       <m:P30182>xii, 315 p. :</m:P30182>
+      <marc:M30000b>ill. ;</marc:M30000b>
       <m:P30169>22 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -1812,6 +2160,7 @@
       <m:P30083>Methuen Paperbacks</m:P30083>
       <m:P30011>1981, c1980</m:P30011>
       <m:P30182>60p. :</m:P30182>
+      <marc:M30000b>1ill. ;</marc:M30000b>
       <m:P30169>20cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -2082,6 +2431,7 @@
       <m:P30083>Faber</m:P30083>
       <m:P30011>1985</m:P30011>
       <m:P30182>207p.,[32]p. of plates :</m:P30182>
+      <marc:M30000b>ill(some col.), 1map,ports.(some col.) ;</marc:M30000b>
       <m:P30169>24cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -2146,7 +2496,6 @@
       <m:P30169>20cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
-      <m:P30139 rdf:resource="http://viaf.org/viaf/119144648592107423604/eng/text"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:0571164064">
       <marc:M001>010070464</marc:M001>
@@ -2158,7 +2507,6 @@
       <m:P30182>xii,753p.</m:P30182>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
-      <m:P30139 rdf:resource="http://www.wikidata.org/entity/q4394863/eng/text"/>
       <m:P30139 rdf:resource="http://viaf.org/viaf/176165653/eng/text"/>
       <m:P30139 rdf:resource="http://viaf.org/viaf/187146251/eng/text"/>
       <m:P30139 rdf:resource="http://viaf.org/viaf/174553895/eng/text"/>
@@ -2184,7 +2532,6 @@
       <m:P30182>xii,753p.</m:P30182>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
-      <m:P30139 rdf:resource="http://www.wikidata.org/entity/q4394863/eng/text"/>
       <m:P30139 rdf:resource="http://viaf.org/viaf/176165653/eng/text"/>
       <m:P30139 rdf:resource="http://viaf.org/viaf/187146251/eng/text"/>
       <m:P30139 rdf:resource="http://viaf.org/viaf/174553895/eng/text"/>
@@ -2261,7 +2608,6 @@
       <m:P30169>24 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
-      <m:P30139 rdf:resource="http://www.wikidata.org/entity/q4394863/eng/text"/>
       <m:P30139 rdf:resource="http://viaf.org/viaf/176165653/eng/text"/>
       <m:P30139 rdf:resource="http://viaf.org/viaf/187146251/eng/text"/>
       <m:P30139 rdf:resource="http://viaf.org/viaf/174553895/eng/text"/>
@@ -2292,7 +2638,6 @@
       <m:P30169>20 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
-      <m:P30139 rdf:resource="http://www.wikidata.org/entity/q4394863/eng/text"/>
       <m:P30139 rdf:resource="http://viaf.org/viaf/176165653/eng/text"/>
       <m:P30139 rdf:resource="http://viaf.org/viaf/187146251/eng/text"/>
       <m:P30139 rdf:resource="http://viaf.org/viaf/174553895/eng/text"/>
@@ -2442,6 +2787,7 @@
       <m:P30083>Letts</m:P30083>
       <m:P30011>1987</m:P30011>
       <m:P30182>79p. :</m:P30182>
+      <marc:M30000b>ill., 1map ;</marc:M30000b>
       <m:P30169>30cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -2636,6 +2982,7 @@
       <m:P30083>Lydbokforl</m:P30083>
       <m:P30011>2001</m:P30011>
       <m:P30182>6 plater (CD) (7 t, 48 min)</m:P30182>
+      <marc:M30000b>digital</marc:M30000b>
       <m:P30169>12 cm, i eske</m:P30169>
       <m:P30139 rdf:resource="http://viaf.org/viaf/119144648592107423604/nob/"/>
    </c:C10007>
@@ -2649,6 +2996,7 @@
       <m:P30011>[1968]</m:P30011>
       <m:P30182>234 s.</m:P30182>
       <m:P30139 rdf:resource="http://viaf.org/viaf/119144648592107423604/nob/"/>
+      <m:P30321 rdf:resource="grafffinn"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:8252520308">
       <marc:M001>999106285054702201</marc:M001>
@@ -2659,8 +3007,10 @@
       <m:P30083>Den norske bokklubben</m:P30083>
       <m:P30011>1991</m:P30011>
       <m:P30182>211 s.</m:P30182>
+      <marc:M30000b>ill.</marc:M30000b>
       <m:P30169>22 cm</m:P30169>
       <m:P30139 rdf:resource="http://viaf.org/viaf/119144648592107423604/nob/"/>
+      <m:P30321 rdf:resource="grafffinn"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:8252533302">
       <marc:M001>999800758154702201</marc:M001>
@@ -3183,6 +3533,7 @@
       <m:P30011>1986</m:P30011>
       <m:P30109>1989</m:P30109>
       <m:P30182>218 p.</m:P30182>
+      <marc:M30000b>map.</marc:M30000b>
       <m:P30169>21 cm</m:P30169>
       <m:P30139 rdf:resource="http://oslomet.workid.no/wg/01/spa/"/>
    </c:C10007>
@@ -3250,6 +3601,7 @@
       <m:P30156>An Egyptian journal</m:P30156>
       <m:P30117>William Golding</m:P30117>
       <m:P30182>1 online resource :</m:P30182>
+      <marc:M30000b>illustrations (some color)</marc:M30000b>
       <m:P30001>computer</m:P30001>
       <m:P30002>online resource</m:P30002>
       <m:P30139 rdf:resource="http://oslomet.workid.no/wg/01/eng/text"/>
@@ -3746,10 +4098,10 @@
       <m:P30117>William Golding. [Hrsg. von Jennifer Baer-Engel und Hartmut K. Selke]</m:P30117>
       <m:P30107>1. Aufl.</m:P30107>
       <m:P30182>263 S.</m:P30182>
+      <marc:M30000b>Ill.</marc:M30000b>
       <m:P30169>20 cm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
-      <m:P30020 rdf:resource="http://example.org/de1011026274591"/>
       <m:P30139 rdf:resource="http://viaf.org/viaf/119144648592107423604/eng/text"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9783125798557">
@@ -3759,10 +4111,10 @@
       <m:P30117>William Golding. [Hrsg. von Jennifer Baer-Engel und Hartmut K. Selke]</m:P30117>
       <m:P30107>1. Aufl.</m:P30107>
       <m:P30182>64 S.</m:P30182>
+      <marc:M30000b>Ill.</marc:M30000b>
       <m:P30169>30 cm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
-      <m:P30020 rdf:resource="http://example.org/de1011026274591"/>
       <m:P30139 rdf:resource="http://viaf.org/viaf/119144648592107423604/ger/text"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9783129222225">
@@ -3797,6 +4149,7 @@
       <m:P30107>3. Aufl.</m:P30107>
       <m:P30182>144 S.</m:P30182>
       <m:P30169>23 cm</m:P30169>
+      <marc:M30000e>Beil. (42 S.)</marc:M30000e>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
       <m:P30106>Reihe: Stundenblätter Englisch</m:P30106>
@@ -3947,7 +4300,6 @@
       <m:P30182>207 S.</m:P30182>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
-      <m:P30020 rdf:resource="http://example.org/de101552098019"/>
       <m:P30139 rdf:resource="http://viaf.org/viaf/119144648592107423604/ger/text"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9783425098463">
@@ -3959,7 +4311,6 @@
       <m:P30182>63 S.</m:P30182>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
-      <m:P30020 rdf:resource="http://example.org/de101552098019"/>
       <m:P30139 rdf:resource="http://viaf.org/viaf/119144648592107423604/ger/text"/>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9783436018832">
@@ -4181,6 +4532,7 @@
       <m:P30156>Lord of the flies, William Golding : Inhalt, Hintergrund, Interpretation ; auf Deutsch - mit englischen Formulierungshilfen!</m:P30156>
       <m:P30117>Astrid Stannat</m:P30117>
       <m:P30182>64 S.</m:P30182>
+      <marc:M30000b>Ill.</marc:M30000b>
       <m:P30169>18 cm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -4443,6 +4795,7 @@
       <m:P30107>1. Aufl.</m:P30107>
       <m:P30107>3. Aufl.</m:P30107>
       <m:P30182>95 S.</m:P30182>
+      <marc:M30000b>graph. Darst.</marc:M30000b>
       <m:P30169>16 cm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -4556,6 +4909,7 @@
       <m:P30156>William Golding, Herr der Fliegen, Die Koralleninsel (R. M. Ballantyne) : Interpretationen und Anmerkungen</m:P30156>
       <m:P30117>Reiner Poppe</m:P30117>
       <m:P30182>82 S.</m:P30182>
+      <marc:M30000b>graph. Darst.</marc:M30000b>
       <m:P30169>18 cm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
@@ -4797,6 +5151,7 @@
       <m:P30083>Ediped</m:P30083>
       <m:P30011>2008</m:P30011>
       <m:P30182>1 CD-ROM (3 p.)</m:P30182>
+      <marc:M30000b>col.</marc:M30000b>
       <m:P30169>12 cm</m:P30169>
    </c:C10007>
    <c:C10007 rdf:about="urn:isbn:9788494164507">
@@ -4811,6 +5166,7 @@
       <m:P30083>Libros del Zorro Rojo</m:P30083>
       <m:P30011>2014</m:P30011>
       <m:P30182>269 p.</m:P30182>
+      <marc:M30000b>il. col. y n.</marc:M30000b>
       <m:P30169>25 cm</m:P30169>
       <m:P30001>sin mediación</m:P30001>
       <m:P30106>Illustrata</m:P30106>

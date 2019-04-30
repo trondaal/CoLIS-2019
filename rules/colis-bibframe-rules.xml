@@ -6,18 +6,46 @@
     <!-- keyfilter is used to remove punctuation etc. from the values that are used in the keystring -->
     <keyfilter>lower-case(replace($key, ' ', ''))</keyfilter>
     
-    
     <!--***************************-->
     <!-- TEMPLATES FOR 100 entries -->
     <!--***************************--> 
     
-    <entity tag="100" condition="*:subfield/@code = '1p'" type="http://id.loc.gov/ontologies/bibframe/Person" templatename="MARC21-100-Person" label="Person">
+    
+    <!-- Person entries with $4 -->
+    <entity tag="100" code='4' type="http://id.loc.gov/ontologies/bibframe/Person" templatename="MARC21-100-Person-specified" label="Person">
         <note>Creator identified with the help of field 100</note>
         <attributes>
             <datafield tag="100">
                 <subfield code="a" type="http://rdaregistry.info/Elements/a/P50111" select="frbrizer:trim(.)" label="has name of the person"/>
                 <subfield code="d" type="http://rdaregistry.info/Elements/a/P50107" select="frbrizer:trim(.)" label="has date associated with the person"/>
-                <subfield code="1p" type="http://rdaregistry.info/Elements/a/P50094" label="has identifier for person"/>
+                <subfield code="1p" type="identifier" label="has identifier for person"/>
+                <subfield code="4" type="http://example.org/ex/relatorcode"/>
+            </datafield>
+        </attributes>
+        <key order="1">
+            <element>frbrizer:create-personid(*:datafield[@tag='100'])</element>
+        </key>
+        <relationships>       
+            <relationship condition="$relmap/rels/rel[$this_subfield = k and domain='Original bf:Work']" type="{$relmap/rels/rel[k = $this_subfield]/reverse}" itype="{$relmap/rels/rel[k = $this_subfield]/forward}">
+                <target entity="MARC21-130240-Bibframe-Work-Original"/>
+            </relationship>
+            <relationship condition="$relmap/rels/rel[$this_subfield = k and domain='bf:Work']" type="{$relmap/rels/rel[k = $this_subfield]/reverse}" itype="{$relmap/rels/rel[k = $this_subfield]/forward}">
+                <target entity="MARC21-245-Bibframe-Work"/>
+            </relationship>
+            <relationship condition="$relmap/rels/rel[$this_subfield = k and domain='bf:Instance']" type="{$relmap/rels/rel[k = $this_subfield]/reverse}" itype="{$relmap/rels/rel[k = $this_subfield]/forward}">
+                <target entity="MARC21-245-Bibframe-Instance"/>
+            </relationship>
+        </relationships>
+    </entity>
+    
+    <!-- Person entries without $4 -->  
+    <entity tag="100" condition="not(*:subfield/@code = '4')" type="http://id.loc.gov/ontologies/bibframe/Person" templatename="MARC21-100-Person-unspecified" label="Person">
+        <note>Creator identified with the help of field 100</note>
+        <attributes>
+            <datafield tag="100">
+                <subfield code="a" type="http://rdaregistry.info/Elements/a/P50111" select="frbrizer:trim(.)" label="has name of the person"/>
+                <subfield code="d" type="http://rdaregistry.info/Elements/a/P50107" select="frbrizer:trim(.)" label="has date associated with the person"/>
+                <subfield code="1p" type="identifier" label="has identifier for person"/>
                 <subfield code="4" type="http://example.org/ex/relatorcode"/>
             </datafield>
         </attributes>
@@ -25,17 +53,10 @@
             <element>frbrizer:create-personid(*:datafield[@tag='100'])</element>
         </key>
         <relationships>
-            <relationship condition="not(*:subfield/@code = '4') " type="http://rdaregistry.info/Elements/a/P50195" itype="http://rdaregistry.info/Elements/w/P10061">
-                <target entity="MARC21-240-Bibframe-Work-Original"/>
+            <relationship type="http://rdaregistry.info/Elements/a/P50204" itype="http://rdaregistry.info/Elements/w/P10065">
+                <target entity="MARC21-130240-Bibframe-Work-Original"/>
                 <target entity="MARC21-245-Bibframe-Work"/>
-            </relationship>
-            <relationship condition="*:subfield[@code = '4'] = ('aut')" type="http://rdaregistry.info/Elements/a/P50195" itype="http://rdaregistry.info/Elements/w/P10061">
-                <target entity="MARC21-240-Bibframe-Work-Original"/>
-                <target entity="MARC21-245-Bibframe-Work"/>
-            </relationship>
-            <relationship condition="*:subfield[@code = '4'] = ('drt')" type="http://rdaregistry.info/Elements/a/P50048" itype="http://rdaregistry.info/Elements/w/P10013">
-                <target entity="MARC21-240-Bibframe-Work-Original"/>
-                <target entity="MARC21-245-Bibframe-Work"/>
+                <target entity="MARC21-700-Bibframe-Work-Analytic"/>
             </relationship>
         </relationships>
     </entity>
@@ -48,9 +69,12 @@
     
     <!--***************************-->
     <!-- TEMPLATES FOR 240 entries -->
-    <!--***************************--> 
+    <!--***************************-->
     
-    <entity tag="130, 240" condition="*:subfield/@code = 'l'"  type="http://id.loc.gov/ontologies/bibframe/Work" templatename="MARC21-240-Bibframe-Work-Original" label="Work">
+    
+   <!-- Entry for Original Work (in case the work described is a translation 130/240$l -->
+    
+    <entity tag="130, 240" condition="*:subfield/@code = 'l'"  type="http://id.loc.gov/ontologies/bibframe/Work" templatename="MARC21-130240-Bibframe-Work-Original" label="Work">
         <note>Original work identified by title in 240 or 130. The presence of $l indicates that resource described is a translation.
         This default 240 template creates a work reagardless of $l or not, and this template is used to create a work for the original, identified by the </note>
         <attributes>
@@ -59,14 +83,14 @@
                 <subfield code="f" type="http://rdaregistry.info/Elements/w/P10219" label="has date of work"/>
                 <subfield code="n" type="http://rdaregistry.info/Elements/w/P10003" label="has other distinguishing characteristic of the work"/>
                 <subfield code="k" type="http://rdaregistry.info/Elements/w/P10004" label="has form of work"/>
-                <subfield code="1w" type="http://rdaregistry.info/Elements/w/P10002" label="has identifier for work"/>
+                <subfield code="1w" type="identifier" label="has identifier for work"/>
             </datafield>
             <datafield tag="240">
                 <subfield code="a" type="http://rdaregistry.info/Elements/w/P10088" select="string-join((frbrizer:trim(.), frbrizer:trim(../*:subfield[@code = 'p'])), ' : ')" label="has title of the work"/>
                 <subfield code="f" type="http://rdaregistry.info/Elements/w/P10219" label="has date of work"/>
                 <subfield code="n" type="http://rdaregistry.info/Elements/w/P10003" label="has other distinguishing characteristic of the work"/>
                 <subfield code="k" type="http://rdaregistry.info/Elements/w/P10004" label="has form of work"/>
-                <subfield code="1w" type="http://rdaregistry.info/Elements/w/P10002" label="has identifier for work"/>
+                <subfield code="1w" type="identifier" label="has identifier for work"/>
             </datafield>
             <datafield tag="380" condition="frbrizer:linked($anchor_field, .)">
                 <subfield code="a" type="http://rdaregistry.info/Elements/w/P10004" label="has form of work"/>
@@ -79,7 +103,7 @@
             <relationship type="http://id.loc.gov/ontologies/bibframe/translation" itype="http://id.loc.gov/ontologies/bibframe/translationOf">
                 <target entity="MARC21-245-Bibframe-Work"/>
             </relationship>
-            <relationship type="{$target_field/*:subfield[@code='4']}">
+            <relationship type="{$relmap/rels/rel[k = $target_field/*:subfield[@code='4']]/forward}" itype="{$relmap/rels/rel[k = $target_field/*:subfield[@code='4']]/reverse}">
                 <target entity="MARC21-700-Bibframe-Work-Related"/>
             </relationship>
             <relationship  type="http://rdaregistry.info/Elements/w/P10256" itype="http://rdaregistry.info/Elements/x/P00014">
@@ -91,9 +115,13 @@
         </relationships>
     </entity>
     
+    
     <!--***************************-->
     <!-- TEMPLATES FOR 245 entries -->
-    <!--***************************-->    
+    <!--***************************-->
+
+    <!-- Entry for Main Work (is created for all records) -->
+
     <entity tag="245" type="http://id.loc.gov/ontologies/bibframe/Work" templatename="MARC21-245-Bibframe-Work" label="Work">
         <note>Work identified by title in 245</note>
         <attributes>
@@ -103,7 +131,7 @@
                 <subfield code="f" type="http://rdaregistry.info/Elements/w/P10219" label="has date of work"/>
                 <subfield code="n" type="http://rdaregistry.info/Elements/w/P10003" label="has other distinguishing characteristic of the work"/>
                 <subfield code="k" type="http://rdaregistry.info/Elements/w/P10004" label="has form of work"/>
-                <subfield code="1w" type="http://rdaregistry.info/Elements/w/P10002" select="string-join((., ../*:subfield[@code='l']), '/')" label="has identifier for work"/>
+                <subfield code="1w" type="identifier" select="string-join((., ../*:subfield[@code='l']), '/')" label="has identifier for work"/>
             </datafield>
             <datafield tag="240">
                 <subfield code="a" type="http://rdaregistry.info/Elements/w/P10088" select="string-join((frbrizer:trim(.), frbrizer:trim(../*:subfield[@code = 'p'])), ' : ')" label="has title of the work"/>
@@ -111,7 +139,7 @@
                 <subfield code="n" type="http://rdaregistry.info/Elements/w/P10003" label="has other distinguishing characteristic of the work"/>
                 <subfield code="k" type="http://rdaregistry.info/Elements/w/P10004" label="has form of work"/>
                 <subfield code="l" type="http://rdaregistry.info/Elements/e/P20006" label="has language of expression" />
-                <subfield code="1w" type="http://rdaregistry.info/Elements/w/P10002" select="string-join((., ../*:subfield[@code='l']), '/')" label="has identifier for work"/>
+                <subfield code="1w" type="identifier" select="string-join((., ../*:subfield[@code='l']), '/')" label="has identifier for work"/>
             </datafield>
             <datafield tag="245">
                 <subfield code="a" type="http://rdaregistry.info/Elements/w/P10088" select="frbrizer:trim(.)" label="has title of the work"/>
@@ -146,6 +174,8 @@
             </relationship>
         </relationships>
     </entity>
+    
+    <!-- Entry for Instance (is created for all records) -->
     
     <entity tag="245" type="http://id.loc.gov/ontologies/bibframe/Instance" templatename="MARC21-245-Bibframe-Instance">
         <note>Manifestation</note>
@@ -215,7 +245,7 @@
             <datafield tag="600">
                 <subfield code="a" type="http://rdaregistry.info/Elements/a/P50111" select="frbrizer:trim(.)" label="has name of the person"/>
                 <subfield code="d" type="http://rdaregistry.info/Elements/a/P50107" select="frbrizer:trim(.)" label="has date associated with the person"/>
-                <subfield code="1p" type="http://rdaregistry.info/Elements/a/P50094" label="has identifier for person"/>
+                <subfield code="1p" type="identifier" label="has identifier for person"/>
             </datafield>
         </attributes>
         <key order="1">
@@ -242,7 +272,7 @@
                 <subfield code="f" type="http://rdaregistry.info/Elements/w/P10219" label="has date of work"/>
                 <subfield code="n" type="http://rdaregistry.info/Elements/w/P10003" label="has other distinguishing characteristic of the work"/>
                 <subfield code="k" type="http://rdaregistry.info/Elements/w/P10004" label="has form of work"/>
-                <subfield code="1w" type="http://rdaregistry.info/Elements/w/P10002" label="has identifier for work"/>
+                <subfield code="1w" type="identifier" label="has identifier for work"/>
             </datafield>
         </attributes>
         <key order="2">
@@ -254,62 +284,96 @@
     <!-- TEMPLATES FOR 700 entries -->
     <!--***************************-->  
     
-    <entity tag="700" code='4' condition="not(*:subfield/@code = 't')" type="http://id.loc.gov/ontologies/bibframe/Person" templatename="MARC21-700-Bibframe-Person-Addedentry" label="Person">
+    <!-- Person only entry with $4 -->
+    
+    <entity tag="700" code='4' condition="not(*:subfield/@code = 't')" type="http://id.loc.gov/ontologies/bibframe/Person" templatename="MARC21-700-Bibframe-Person-Addedentry-specified" label="Person">
         <note>Person in a added entry, no title field. We associate the person with either 245 Work or 130/240</note>
         <attributes>
             <datafield tag="700">
                 <subfield code="a" type="http://rdaregistry.info/Elements/a/P50111" select="frbrizer:trim(.)" label="has name of the person"/>
                 <subfield code="d" type="http://rdaregistry.info/Elements/a/P50107" select="frbrizer:trim(.)" label="has date associated with the person"/>
-                <subfield code="1p" type="http://rdaregistry.info/Elements/a/P50094" label="has identifier for person"/>
+                <subfield code="1p" type="identifier" label="has identifier for person"/>
             </datafield>
         </attributes>
         <key order="1">
             <element>frbrizer:create-personid(*:datafield[@tag='700'])</element>
         </key>
         <relationships>
-            <relationship type="http://rdaregistry.info/Elements/a/P50204" itype="http://rdaregistry.info/Elements/w/P10065">
+            <relationship condition="$relmap/rels/rel[$this_subfield = k and domain='Original bf:Work']" type="{$relmap/rels/rel[k = $this_subfield]/reverse}" itype="{$relmap/rels/rel[k = $this_subfield]/forward}">
+                <target entity="MARC21-130240-Bibframe-Work-Original"/>
+            </relationship>
+            <relationship condition="$relmap/rels/rel[$this_subfield = k and domain='bf:Work']" type="{$relmap/rels/rel[k = $this_subfield]/reverse}" itype="{$relmap/rels/rel[k = $this_subfield]/forward}">
+                <target entity="MARC21-245-Bibframe-Work"/>
+            </relationship>
+            <relationship condition="$relmap/rels/rel[$this_subfield = k and domain='bf:Instance']" type="{$relmap/rels/rel[k = $this_subfield]/reverse}" itype="{$relmap/rels/rel[k = $this_subfield]/forward}">
+                <target entity="MARC21-245-Bibframe-Instance"/>
+            </relationship>
+        </relationships>
+    </entity>
+    
+    <!-- Person only added entry without $4 -->
+    
+    <entity tag="700" condition="not(*:subfield/@code = 't') and not(*:subfield/@code = '4')" type="http://id.loc.gov/ontologies/bibframe/Person" templatename="MARC21-700-Bibframe-Person-Addedentry-unspecified" label="Person">
+        <note>Person in a added entry, no title field. We associate the person with either 245 Work or 130/240</note>
+        <attributes>
+            <datafield tag="700">
+                <subfield code="a" type="http://rdaregistry.info/Elements/a/P50111" select="frbrizer:trim(.)" label="has name of the person"/>
+                <subfield code="d" type="http://rdaregistry.info/Elements/a/P50107" select="frbrizer:trim(.)" label="has date associated with the person"/>
+                <subfield code="1p" type="identifier" label="has identifier for person"/>
+            </datafield>
+        </attributes>
+        <key order="1">
+            <element>frbrizer:create-personid(*:datafield[@tag='700'])</element>
+        </key>
+        <relationships>
+            <relationship type="http://rdaregistry.info/Elements/a/P50161" itype="http://rdaregistry.info/Elements/e/P20053">
                 <target entity="MARC21-245-Bibframe-Work"/>
             </relationship>
         </relationships>
     </entity>
     
-    <entity tag="700" condition="ind2 = '2' and *:subfield/@code = 't'" type="http://id.loc.gov/ontologies/bibframe/Person" templatename="MARC21-700-Bibframe-Person-Analytic" label="Person">
-        <note>Person in a an analyical entry</note>
+    <!-- Person in Analytic entry (with ind2='2') with $4 -->
+    
+    <entity tag="700" condition="ind2 = '2' and *:subfield/@code = 't'" code='4' type="http://id.loc.gov/ontologies/bibframe/Person" templatename="MARC21-700-Bibframe-Person-Analytic-specified" label="Person">
+        <note>Person in a an analytical entry</note>
         <attributes>
             <datafield tag="700">
                 <subfield code="a" type="http://rdaregistry.info/Elements/a/P50111" select="frbrizer:trim(.)" label="has name of the person"/>
                 <subfield code="d" type="http://rdaregistry.info/Elements/a/P50107" select="frbrizer:trim(.)" label="has date associated with the person"/>
-                <subfield code="1p" type="http://rdaregistry.info/Elements/a/P50094" label="has identifier for person"/>
+                <subfield code="1p" type="identifier" label="has identifier for person"/>
             </datafield>
         </attributes>
         <key order="1">
             <element>frbrizer:create-personid(*:datafield[@tag='700'])</element>
         </key>
         <relationships>
-            <relationship type="http://rdaregistry.info/Elements/a/P50204" itype="http://rdaregistry.info/Elements/w/P10065">
+            <relationship condition="$relmap/rels/rel[$this_subfield = k and domain=('bf:Work', 'Original bf:Work')]" type="{$relmap/rels/rel[k = $this_subfield]/reverse}" itype="{$relmap/rels/rel[k = $this_subfield]/forward}">
                 <target entity="MARC21-700-Bibframe-Work-Analytic" same-field="true"/>
             </relationship>
         </relationships>
     </entity>
     
-    <entity tag="700" condition="ind2 != '2' and *:subfield/@code = 't'" type="http://id.loc.gov/ontologies/bibframe/Person" templatename="MARC21-700-Bibframe-Person-RelatedWork" label="Person">
-        <note>Person in a an analyical entry</note>
+    <!-- Person in Analytic entry (with ind2='2') without $4 -->
+
+    <entity tag="700" condition="ind2 = '2' and *:subfield/@code = 't' and not(*:subfield/@code = '4')" type="http://id.loc.gov/ontologies/bibframe/Person" templatename="MARC21-700-Bibframe-Person-Analytic" label="Person-unspecified">
         <attributes>
             <datafield tag="700">
                 <subfield code="a" type="http://rdaregistry.info/Elements/a/P50111" select="frbrizer:trim(.)" label="has name of the person"/>
                 <subfield code="d" type="http://rdaregistry.info/Elements/a/P50107" select="frbrizer:trim(.)" label="has date associated with the person"/>
-                <subfield code="1p" type="http://rdaregistry.info/Elements/a/P50094" label="has identifier for person"/>
+                <subfield code="1p" type="identifier" label="has identifier for person"/>
             </datafield>
         </attributes>
         <key order="1">
             <element>frbrizer:create-personid(*:datafield[@tag='700'])</element>
         </key>
         <relationships>
-            <relationship type="http://rdaregistry.info/Elements/a/P50204" itype="http://rdaregistry.info/Elements/w/P10065">
-                <target entity="MARC21-700-Bibframe-Work-Related" same-field="true"/>
+            <relationship type="http://rdaregistry.info/Elements/a/P50161" itype="http://rdaregistry.info/Elements/e/P20053">
+                <target entity="MARC21-700-Bibframe-Work-Analytic" same-field="true"/>
             </relationship>
         </relationships>
     </entity>
+    
+    <!-- Work in Analytic entry (with ind2='2') -->
     
     <entity tag="700" condition="@ind2 eq '2' and *:subfield/@code='t'" type="http://id.loc.gov/ontologies/bibframe/Work" templatename="MARC21-700-Bibframe-Work-Analytic" label="Work">
         <note>Analytic Work identified by title in 700 and ind2=2</note>
@@ -321,7 +385,7 @@
                 <subfield code="n" type="http://rdaregistry.info/Elements/w/P10003" label="has other distinguishing characteristic of the work"/>
                 <subfield code="l" type="http://rdaregistry.info/Elements/e/P20006" label="has language of expression"/>                
                 <subfield code="k" type="http://rdaregistry.info/Elements/w/P10004" label="has form of work"/>
-                <subfield code="1w" type="http://rdaregistry.info/Elements/w/P10002" select="string-join((., ../*:subfield[@code='l']), '/')"  label="has identifier for work"/>
+                <subfield code="1w" type="identifier" select="string-join((., ../*:subfield[@code='l']), '/')"  label="has identifier for work"/>
             </datafield>
             <datafield tag="380" condition="frbrizer:linked($anchor_field, .)">
                 <subfield code="a" type="http://rdaregistry.info/Elements/w/P10004" label="has form of work"/>
@@ -339,6 +403,8 @@
         </relationships>
     </entity>
     
+    <!-- Original work in Analytic entry (with ind2='2') -->
+    
     <entity tag="700" condition="@ind2 eq '2' and *:subfield/@code='t' and *:subfield/@code='l'" type="http://id.loc.gov/ontologies/bibframe/Work" templatename="MARC21-700-Bibframe-Work-Analytic-Original" label="Work">
         <note>Analytic Work identified by title in 700 and ind2=2</note>
         <attributes>
@@ -348,7 +414,7 @@
                 <subfield code="f" type="http://rdaregistry.info/Elements/w/P10219" label="has date of work"/>
                 <subfield code="n" type="http://rdaregistry.info/Elements/w/P10003" label="has other distinguishing characteristic of the work"/>
                 <subfield code="k" type="http://rdaregistry.info/Elements/w/P10004" label="has form of work"/>
-                <subfield code="1w" type="http://rdaregistry.info/Elements/w/P10002" label="has identifier for work"/>
+                <subfield code="1w" type="identifier" label="has identifier for work"/>
             </datafield>
             <datafield tag="380" condition="frbrizer:linked($anchor_field, .)">
                 <subfield code="a" type="http://rdaregistry.info/Elements/w/P10004" label="has form of work"/>
@@ -364,6 +430,30 @@
         </relationships>
     </entity>
     
+    <!-- Person in Related work entry ind2!='2' -->
+    <!-- Assuming all are authors since $4 is used for work-to-work relationship -->
+    
+    <entity tag="700" condition="ind2 != '2' and *:subfield/@code = 't'" type="http://id.loc.gov/ontologies/bibframe/Person" templatename="MARC21-700-Bibframe-Person-RelatedWork" label="Person">
+        <note>Person in a an analyical entry</note>
+        <attributes>
+            <datafield tag="700">
+                <subfield code="a" type="http://rdaregistry.info/Elements/a/P50111" select="frbrizer:trim(.)" label="has name of the person"/>
+                <subfield code="d" type="http://rdaregistry.info/Elements/a/P50107" select="frbrizer:trim(.)" label="has date associated with the person"/>
+                <subfield code="1p" type="identifier" label="has identifier for person"/>
+            </datafield>
+        </attributes>
+        <key order="1">
+            <element>frbrizer:create-personid(*:datafield[@tag='700'])</element>
+        </key>
+        <relationships>
+            <relationship type="http://rdaregistry.info/Elements/a/P50204" itype="http://rdaregistry.info/Elements/w/P10065">
+                <target entity="MARC21-700-Bibframe-Work-Related" same-field="true"/>
+            </relationship>
+        </relationships>
+    </entity>
+    
+    <!-- Work in Related work entry ind2='2' -->
+    
     <entity tag="700" code="4" condition="@ind2 ne '2' and *:subfield/@code='t'" code-condition="starts-with(., 'http')" type="http://id.loc.gov/ontologies/bibframe/Work" templatename="MARC21-700-Bibframe-Work-Related" label="Work">
         <note>Work identified by title in 700</note>
         <attributes>
@@ -372,7 +462,7 @@
                 <subfield code="f" type="http://rdaregistry.info/Elements/w/P10219" label="has date of work"/>
                 <subfield code="n" type="http://rdaregistry.info/Elements/w/P10003" label="has other distinguishing characteristic of the work"/>                
                 <subfield code="k" type="http://rdaregistry.info/Elements/w/P10004" label="has form of work"/>
-                <subfield code="1w" type="http://rdaregistry.info/Elements/w/P10002" label="has identifier for work"/>
+                <subfield code="1w" type="identifier" label="has identifier for work"/>
             </datafield>
             <datafield tag="380" condition="frbrizer:linked($anchor_field, .)">
                 <subfield code="a" type="http://rdaregistry.info/Elements/w/P10004" label="has form of work"/>
@@ -480,6 +570,243 @@
                 </xsl:otherwise>
             </xsl:choose>
         </xsl:function>
-
+        <xsl:variable name="relmap">
+            <rels>
+                <rel>
+                    <k>aut</k>
+                    <k>aui</k>
+                    <k>aft</k>
+                    <k>wpr</k>
+                    <forward>http://rdaregistry.info/Elements/w/P10061</forward>
+                    <reverse>http://rdaregistry.info/Elements/a/P50195</reverse>
+                    <domain>Original bf:Work</domain>
+                    <domain>Work</domain>
+                    <range>Person</range>
+                </rel>
+                <rel>
+                    <trl>http://rdaregistry.info/Elements/e/translatorAgent.en</trl>
+                    <k>trl</k>
+                    <forward>http://rdaregistry.info/Elements/e/P20037</forward>
+                    <reverse>http://rdaregistry.info/Elements/a/P50145</reverse>
+                    <domain>bf:Work</domain>
+                    <domain>Expression</domain>
+                    <range>Person</range>
+                </rel>
+                <rel>
+                    <k>http://rdaregistry.info/Elements/e/narratorAgent.en</k>
+                    <k>nrt</k>
+                    <forward>http://rdaregistry.info/Elements/e/P20022</forward>
+                    <reverse>http://rdaregistry.info/Elements/a/P50081</reverse>
+                    <domain>bf:Work</domain>
+                    <domain>Expression</domain>
+                    <range>Person</range>
+                </rel>
+                <rel>
+                    <k>ill</k>
+                    <k>art</k>
+                    <k>http://rdaregistry.info/Elements/m/contributorAgentOfStillImage.en</k>
+                    <forward>http://rdaregistry.info/Elements/m/P30321</forward>
+                    <reverse>http://rdaregistry.info/Elements/a/P50469</reverse>
+                    <domain>bf:Work</domain>
+                    <domain>Manifestation</domain>
+                    <range>Person</range>
+                </rel>
+                <rel>
+                    <k>edt</k>
+                    <k>http://rdaregistry.info/Elements/w/compilerAgent.en</k>
+                    <forward>http://rdaregistry.info/Elements/w/P10055</forward>
+                    <reverse>http://rdaregistry.info/Elements/a/P50189</reverse>
+                    <domain>bf:Work</domain>
+                    <domain>Work</domain>
+                    <range>Person</range>
+                </rel>
+                <rel>
+                    <k>http://rdaregistry.info/Elements/w/adaptationOfWork.en</k>
+                    <k>adaptationOfWork.en</k>
+                    <k>adaptationOfWork</k>
+                    <forward>http://rdaregistry.info/Elements/w/P10142</forward>
+                    <reverse>http://rdaregistry.info/Elements/w/P10155</reverse>
+                    <domain>Work</domain>
+                    <range>Person</range>
+                </rel>
+                <rel>
+                    <k>http://rdaregistry.info/Elements/w/graphicNovelizationOfWork.en</k>
+                    <k>graphicNovelizationOfWork</k>
+                    <k>graphicNovelizationOfWork.en</k>
+                    <forward>http://rdaregistry.info/Elements/w/P10252</forward>
+                    <reverse>http://rdaregistry.info/Elements/w/P10251</reverse>
+                    <domain>Work</domain>
+                    <range>Work</range>
+                </rel>
+                <rel>
+                    <k>http://rdaregistry.info/Elements/e/actorAgent.en</k>
+                    <k>act</k>
+                    <forward>http://rdaregistry.info/Elements/e/P20012</forward>
+                    <reverse>http://rdaregistry.info/Elements/a/P50071</reverse>
+                    <domain>bf:Work</domain>
+                    <domain>Expression</domain>
+                    <range>Person</range>
+                </rel>
+                <rel>
+                    <k>pbl</k>
+                    <k>http://rdaregistry.info/Elements/m/publisherAgent.en</k>
+                    <forward>http://rdaregistry.info/Elements/m/P30083</forward>
+                    <reverse>http://rdaregistry.info/Elements/a/P50203</reverse>
+                    <domain>bf:Instance</domain>
+                    <domain>Manifestation</domain>
+                    <range>Person</range>
+                </rel>
+                <rel>
+                    <k>cre</k>
+                    <k>http://rdaregistry.info/Elements/w/P10065</k>
+                    <forward>http://rdaregistry.info/Elements/w/creatorAgentOfWork.en</forward>
+                    <reverse>http://rdaregistry.info/Elements/a/P50204</reverse>
+                    <domain>Original bf:Work</domain>
+                    <domain>bf:Work</domain>
+                    <domain>Work</domain>
+                    <range>Person</range>
+                </rel>
+                <rel>
+                    <k>http://rdaregistry.info/Elements/w/motionPictureAdaptationOfWork.en</k>
+                    <forward>http://rdaregistry.info/Elements/w/P10129</forward>
+                    <reverse>http://rdaregistry.info/Elements/w/P10025</reverse>
+                    <domain>Work</domain>
+                    <range>Person</range>
+                </rel>
+                <rel>
+                    <k>aus</k>
+                    <k>http://rdaregistry.info/Elements/w/screenwriterAgent.en</k>
+                    <forward>http://rdaregistry.info/Elements/w/P10203</forward>
+                    <reverse>http://rdaregistry.info/Elements/a/P50223</reverse>
+                    <domain>Original bf:Work</domain>
+                    <domain>bf:Work</domain>
+                    <domain>Work</domain>
+                    <range>Person</range>
+                </rel>
+                <rel count="25">
+                    <k>drt</k>
+                    <k>http://rdaregistry.info/Elements/w/filmDirectorAgent.en</k>
+                    <forward>http://rdaregistry.info/Elements/w/P10013</forward>
+                    <reverse>http://rdaregistry.info/Elements/a/P50048</reverse>
+                    <domain>Original bf:Work</domain>
+                    <domain>bf:Work</domain>
+                    <domain>Work</domain>
+                    <range>Person</range>
+                </rel>
+                <rel count="25">
+                    <k>bkd</k>
+                    <forward>paste</forward>
+                    <reverse>http://rdaregistry.info/Elements/a/P50170</reverse>
+                    <domain>bf:Work</domain>
+                    <domain>Manifestation</domain>
+                    <range>Person</range>
+                </rel>
+                <rel count="22">
+                    <k>pro</k>
+                    <k>http://rdaregistry.info/Elements/w/producerAgent.en</k>
+                    <forward>http://rdaregistry.info/Elements/w/P10064</forward>
+                    <reverse>http://rdaregistry.info/Elements/a/P50213</reverse>
+                    <domain>Original bf:Work</domain>
+                    <domain>bf:Work</domain>
+                    <domain>Work</domain>
+                    <range>Person</range>
+                </rel>
+                <rel count="21">
+                    <k>cmp</k>
+                    <k>http://rdaregistry.info/Elements/w/composerAgentOfWork.en</k>
+                    <forward>http://rdaregistry.info/Elements/w/P10053</forward>
+                    <reverse>http://rdaregistry.info/Elements/a/P50187</reverse>
+                    <domain>Original bf:Work</domain>
+                    <domain>bf:Work</domain>
+                    <domain>Work</domain>
+                    <range>Person</range>
+                </rel>
+                <rel count="12">
+                    <k>http://rdaregistry.info/Elements/w/dramatizationOfWork.en</k>
+                    <forward>http://rdaregistry.info/Elements/w/P10127</forward>
+                    <reverse>http://rdaregistry.info/Elements/w/P10016</reverse>
+                    <domain>Work</domain>
+                    <range>Person</range>
+                </rel>
+                <rel count="11">
+                    <k>pht</k>
+                    <k>http://rdaregistry.info/Elements/w/directorAgentOfPhotography.en</k>
+                    <forward>http://rdaregistry.info/Elements/w/P10068</forward>
+                    <reverse>http://rdaregistry.info/Elements/a/P50207</reverse>
+                    <domain>Original bf:Work</domain>
+                    <domain>bf:Work</domain>
+                    <domain>Work</domain>
+                    <range>Person</range>
+                </rel>
+                <rel count="10">
+                    <k>http://rdaregistry.info/Elements/w/guideToWork.en</k>
+                    <forward>http://rdaregistry.info/Elements/w/P10150</forward>
+                    <reverse>http://rdaregistry.info/Elements/w/P10124</reverse>
+                    <domain>Work</domain>
+                    <range>Person</range>
+                </rel>
+                <rel count="7">
+                    <k>adp</k>
+                    <k>http://rdaregistry.info/Elements/e/reviserAgent.en</k>
+                    <forward>http://rdaregistry.info/Elements/e/P20327</forward>
+                    <reverse>http://rdaregistry.info/Elements/a/P50447</reverse>
+                    <domain>bf:Work</domain>
+                    <domain>Work</domain>
+                    <range>Person</range>
+                </rel>
+                <rel count="6">
+                    <k>http://rdaregistry.info/Elements/w/commentaryOnWork.en</k>
+                    <forward>http://rdaregistry.info/Elements/w/P10187</forward>
+                    <reverse>http://rdaregistry.info/Elements/w/P10116</reverse>
+                    <domain>Work</domain>
+                    <range>Work</range>
+                </rel>
+                <rel count="5">
+                    <k>http://rdaregistry.info/Elements/w/basedOnWork.en</k>
+                    <forward>http://rdaregistry.info/Elements/w/P10190</forward>
+                    <reverse>http://rdaregistry.info/Elements/w/P10148</reverse>
+                    <domain>Work</domain>
+                    <range>Work</range>
+                </rel>
+                <rel count="5">
+                    <k>http://rdaregistry.info/Elements/w/critiqueOfWork.en</k>
+                    <forward>http://rdaregistry.info/Elements/w/P10182</forward>
+                    <reverse>http://rdaregistry.info/Elements/w/P10115</reverse>
+                    <domain>Work</domain>
+                    <range>Work</range>
+                </rel>
+                <rel count="5">
+                    <k>http://rdaregistry.info/Elements/w/inspiredBy.en</k>
+                    <forward>http://rdaregistry.info/Elements/w/P10290</forward>
+                    <reverse>http://rdaregistry.info/Elements/w/P10291</reverse>
+                    <domain>Work</domain>
+                    <range>Work</range>
+                </rel>
+                <rel count="5">
+                    <k>http://rdaregistry.info/Elements/w/partOfWork.en</k>
+                    <forward>http://rdaregistry.info/Elements/w/P10019</forward>
+                    <reverse>http://rdaregistry.info/Elements/w/P10147</reverse>
+                    <domain>Work</domain>
+                    <range>Work</range>
+                </rel>
+                <rel count="2">
+                    <k>abr</k>
+                    <k>abridger</k>
+                    <k>http://rdaregistry.info/Elements/e/abridgerAgent.en</k>
+                    <forward>http://rdaregistry.info/Elements/e/P20049</forward>
+                    <reverse>http://rdaregistry.info/Elements/a/P50157</reverse>
+                    <domain>bf:Work</domain>
+                    <domain>Work</domain>
+                    <range>Person</range>
+                </rel>
+                <rel>
+                    <k>http://rdaregistry.info/Elements/w/precededByWork.en</k>
+                    <forward>http://rdaregistry.info/Elements/w/P10156</forward>
+                    <reverse>http://rdaregistry.info/Elements/w/P10191</reverse>
+                    <domain>Work</domain>
+                    <range>Person</range>
+                </rel>
+            </rels>
+        </xsl:variable>
     </stylesheet>
 </templates>
