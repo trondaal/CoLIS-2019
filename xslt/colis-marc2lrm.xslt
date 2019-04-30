@@ -3103,33 +3103,6 @@
                   </xsl:if>
                </xsl:copy>
             </xsl:for-each>
-            <xsl:for-each select="$record/*:datafield[@tag='380'][frbrizer:linked($anchor_field, .)][*:subfield/@code = ('a')]">
-               <xsl:copy>
-                  <xsl:call-template name="copy-attributes"/>
-                  <xsl:if test="$include_counters">
-                     <xsl:attribute name="c" select="1"/>
-                  </xsl:if>
-                  <xsl:for-each select="*:subfield[@code = ('a')]">
-                     <xsl:if test="@code = 'a'">
-                        <xsl:copy>
-                           <xsl:call-template name="copy-content">
-                              <xsl:with-param name="type" select="'http://rdaregistry.info/Elements/w/P10004'"/>
-                              <xsl:with-param name="label" select="'has form of work'"/>
-                              <xsl:with-param name="select" select="."/>
-                           </xsl:call-template>
-                        </xsl:copy>
-                     </xsl:if>
-                  </xsl:for-each>
-                  <xsl:if test="$include_MARC001_in_subfield">
-                     <xsl:element name="frbrizer:mid">
-                        <xsl:attribute name="i" select="$marcid"/>
-                        <xsl:if test="$include_counters">
-                           <xsl:attribute name="c" select="1"/>
-                        </xsl:if>
-                     </xsl:element>
-                  </xsl:if>
-               </xsl:copy>
-            </xsl:for-each>
          </xsl:element>
       </xsl:for-each>
    </xsl:template>
@@ -3784,6 +3757,15 @@
    <xsl:function xmlns:local="http://idi.ntnu.no/frbrizer/"
                  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
                  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+                 name="local:sort-targets">
+        <xsl:param name="relationships"/>
+        <xsl:perform-sort select="$relationships">
+            <xsl:sort select="@href"/>
+        </xsl:perform-sort>
+    </xsl:function>
+   <xsl:function xmlns:local="http://idi.ntnu.no/frbrizer/"
+                 xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+                 xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
                  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                  name="local:create-personid">
             <xsl:param name="datafield"/>
@@ -3809,7 +3791,7 @@
                 </xsl:when>
                 <xsl:when test="$datafield[@tag='130']">
                     <xsl:variable name="value"
-                          select="replace(lower-case(string-join(($datafield[@tag='130']/*:subfield[@code = 'a'], $datafield/*:subfield[@code = 'k'], $datafield/*:subfield[@code = 'n'], $datafield/*:subfield[@code = 'o'], $datafield/*:subfield[@code = 'p']), '')), '[^A-Za-z0-9]', '')"/>
+                          select="replace(lower-case(string-join(($datafield/*:subfield[@code = 'a'], $datafield/*:subfield[@code = 'k'], $datafield/*:subfield[@code = 'n'], $datafield/*:subfield[@code = 'o'], $datafield/*:subfield[@code = 'p']), '')), '[^A-Za-z0-9]', '')"/>
                     <xsl:value-of select="$relationship||'/'||$value"/>
                 </xsl:when>
                 <xsl:when test="$datafield[@tag='240']">

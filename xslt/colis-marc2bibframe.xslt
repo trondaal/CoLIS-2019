@@ -4232,6 +4232,15 @@
    <xsl:function xmlns:local="http://idi.ntnu.no/frbrizer/"
                  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
                  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+                 name="local:sort-targets">
+        <xsl:param name="relationships"/>
+        <xsl:perform-sort select="$relationships">
+            <xsl:sort select="@href"/>
+        </xsl:perform-sort>
+    </xsl:function>
+   <xsl:function xmlns:local="http://idi.ntnu.no/frbrizer/"
+                 xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+                 xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
                  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                  name="local:create-personid">
             <xsl:param name="datafield"/>
