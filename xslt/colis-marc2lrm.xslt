@@ -62,6 +62,7 @@
    <xsl:template match="*:record" name="record-set">
       <xsl:variable name="step1">
          <frbrizer:record-set>
+            <xsl:call-template name="MARC21-100-Person-No-Code"/>
             <xsl:call-template name="MARC21-100-Person"/>
             <xsl:call-template name="MARC21-130240-Work"/>
             <xsl:call-template name="MARC21-130240-Expression"/>
@@ -91,9 +92,203 @@
    <xsl:template name="MARC21-100-Person">
       <xsl:variable name="this_template_name" select="'MARC21-100-Person'"/>
       <xsl:variable name="tag" as="xs:string" select="'100'"/>
+      <xsl:variable name="code" as="xs:string" select="'4'"/>
       <xsl:variable name="record" select="."/>
       <xsl:variable name="marcid" select="*:controlfield[@tag='001']"/>
-      <xsl:for-each select="node()[@tag=('100')][*:subfield/@code = '1p']">
+      <xsl:for-each select="node()[@tag=('100')]">
+         <xsl:variable name="this_field"
+                       select="(ancestor-or-self::*:datafield, ancestor-or-self::*:controlfield)"/>
+         <xsl:variable name="this"
+                       select="(ancestor-or-self::*:datafield, ancestor-or-self::*:controlfield)"/>
+         <xsl:variable name="anchor_field"
+                       select="(ancestor-or-self::*:datafield, ancestor-or-self::*:controlfield)"/>
+         <xsl:variable name="anchor"
+                       as="xs:string"
+                       select="(ancestor-or-self::*:datafield, ancestor-or-self::*:controlfield)"/>
+         <xsl:variable name="this_field_position"
+                       as="xs:string"
+                       select="string(position())"/>
+         <xsl:for-each select="node()[@code='4']">
+            <xsl:variable name="this_subfield" select="(ancestor-or-self::*:subfield)"/>
+            <xsl:variable name="anchor_subfield" select="(ancestor-or-self::*:subfield)"/>
+            <xsl:variable name="this_subfield_code" as="xs:string" select="'4'"/>
+            <xsl:variable name="anchor_subfield_code" as="xs:string" select="'4'"/>
+            <xsl:variable name="this_subfield_position"
+                          as="xs:string"
+                          select="string(position())"/>
+            <xsl:element name="{name(ancestor-or-self::*:record)}"
+                         namespace="{namespace-uri(ancestor-or-self::*:record)}">
+               <xsl:attribute name="id"
+                              select="string-join(($record/@id,$this_template_name,$tag,$this_subfield_code,$this_field_position,$this_subfield_position), ':')"/>
+               <xsl:attribute name="type" select="'http://rdaregistry.info/Elements/c/C10004'"/>
+               <xsl:if test="$include_labels">
+                  <xsl:attribute name="label" select="'Person'"/>
+               </xsl:if>
+               <xsl:attribute name="templatename" select="$this_template_name"/>
+               <xsl:if test="$include_counters">
+                  <xsl:attribute name="c" select="1"/>
+               </xsl:if>
+               <xsl:if test="$include_anchorvalues">
+                  <xsl:element name="frbrizer:anchorvalue">
+                     <xsl:if test="$include_counters">
+                        <xsl:attribute name="c" select="1"/>
+                     </xsl:if>
+                     <xsl:value-of select="."/>
+                  </xsl:element>
+               </xsl:if>
+               <xsl:if test="$include_templateinfo">
+                  <xsl:element name="frbrizer:templatename">
+                     <xsl:if test="$include_counters">
+                        <xsl:attribute name="c" select="1"/>
+                     </xsl:if>
+                     <xsl:value-of select="$this_template_name"/>
+                  </xsl:element>
+               </xsl:if>
+               <xsl:if test="$include_internal_key">
+                  <xsl:element name="frbrizer:intkey">
+                     <xsl:if test="$include_counters">
+                        <xsl:attribute name="c" select="1"/>
+                     </xsl:if>
+                     <xsl:value-of select="string-join(($record/@id,$this_template_name,$tag,$this_subfield_code,$this_field_position,$this_subfield_position), ':')"/>
+                  </xsl:element>
+               </xsl:if>
+               <xsl:if test="$include_MARC001_in_entityrecord">
+                  <xsl:element name="frbrizer:mid">
+                     <xsl:if test="$include_counters">
+                        <xsl:attribute name="c" select="1"/>
+                     </xsl:if>
+                     <xsl:attribute name="i" select="$marcid"/>
+                  </xsl:element>
+               </xsl:if>
+               <xsl:for-each select="$record/*:datafield[@tag='100'][. = $this_field][*:subfield/@code = ('a','d','1p')]">
+                  <xsl:copy>
+                     <xsl:call-template name="copy-attributes"/>
+                     <xsl:if test="$include_counters">
+                        <xsl:attribute name="c" select="1"/>
+                     </xsl:if>
+                     <xsl:for-each select="*:subfield[@code = ('a','d','1p')]">
+                        <xsl:if test="@code = 'a'">
+                           <xsl:copy>
+                              <xsl:call-template name="copy-content">
+                                 <xsl:with-param name="type" select="'http://rdaregistry.info/Elements/a/P50111'"/>
+                                 <xsl:with-param name="label" select="'has name of the person'"/>
+                                 <xsl:with-param name="select" select="frbrizer:trim(.)"/>
+                              </xsl:call-template>
+                           </xsl:copy>
+                        </xsl:if>
+                        <xsl:if test="@code = 'd'">
+                           <xsl:copy>
+                              <xsl:call-template name="copy-content">
+                                 <xsl:with-param name="type" select="'http://rdaregistry.info/Elements/a/P50107'"/>
+                                 <xsl:with-param name="label" select="'has date associated with the person'"/>
+                                 <xsl:with-param name="select" select="frbrizer:trim(.)"/>
+                              </xsl:call-template>
+                           </xsl:copy>
+                        </xsl:if>
+                        <xsl:if test="@code = '1p'">
+                           <xsl:copy>
+                              <xsl:call-template name="copy-content">
+                                 <xsl:with-param name="type" select="'http://rdaregistry.info/Elements/a/P50094'"/>
+                                 <xsl:with-param name="label" select="'has identifier for person'"/>
+                                 <xsl:with-param name="select" select="."/>
+                              </xsl:call-template>
+                           </xsl:copy>
+                        </xsl:if>
+                     </xsl:for-each>
+                     <xsl:if test="$include_MARC001_in_subfield">
+                        <xsl:element name="frbrizer:mid">
+                           <xsl:attribute name="i" select="$marcid"/>
+                           <xsl:if test="$include_counters">
+                              <xsl:attribute name="c" select="1"/>
+                           </xsl:if>
+                        </xsl:element>
+                     </xsl:if>
+                  </xsl:copy>
+               </xsl:for-each>
+               <xsl:if test="$relmap/rels/rel[$this_subfield = k and domain='Work']">
+                  <xsl:for-each select="$record/node()[@tag=('700')][@ind2='2']">
+                     <xsl:variable name="target_template_name" select="'MARC21-700-Work-Analytical'"/>
+                     <xsl:variable name="target_tag_value" select="'700'"/>
+                     <xsl:variable name="target_field"
+                                   select="(ancestor-or-self::*:datafield, ancestor-or-self::*:controlfield)"/>
+                     <xsl:variable name="target_field_position"
+                                   as="xs:string"
+                                   select="string(position())"/>
+                     <frbrizer:relationship>
+                        <xsl:attribute name="type"
+                                       select="$relmap/rels/rel[k = $this_subfield and domain='Work']/reverse"/>
+                        <xsl:attribute name="itype"
+                                       select="$relmap/rels/rel[k = $this_subfield  and domain='Work']/forward"/>
+                        <xsl:if test="$include_target_entity_type">
+                           <xsl:attribute name="target_type" select="'http://rdaregistry.info/Elements/c/C10001'"/>
+                        </xsl:if>
+                        <xsl:if test="$include_counters">
+                           <xsl:attribute name="c" select="1"/>
+                        </xsl:if>
+                        <xsl:attribute name="href"
+                                       select="string-join(($record/@id,$target_template_name,$target_tag_value,$target_field_position), ':')"/>
+                        <xsl:if test="$include_internal_key">
+                           <xsl:attribute name="intkey"
+                                          select="string-join(($record/@id,$target_template_name,$target_tag_value,$target_field_position), ':')"/>
+                        </xsl:if>
+                        <xsl:if test="$include_MARC001_in_relationships">
+                           <xsl:element name="frbrizer:mid">
+                              <xsl:attribute name="i" select="$marcid"/>
+                              <xsl:if test="$include_counters">
+                                 <xsl:attribute name="c" select="1"/>
+                              </xsl:if>
+                           </xsl:element>
+                        </xsl:if>
+                     </frbrizer:relationship>
+                  </xsl:for-each>
+               </xsl:if>
+               <xsl:if test="$relmap/rels/rel[$this_subfield = k and domain='Work']">
+                  <xsl:for-each select="$record/node()[@tag=('130','240')]">
+                     <xsl:variable name="target_template_name" select="'MARC21-130240-Work'"/>
+                     <xsl:variable name="target_tag_value" select="'130, 240'"/>
+                     <xsl:variable name="target_field"
+                                   select="(ancestor-or-self::*:datafield, ancestor-or-self::*:controlfield)"/>
+                     <xsl:variable name="target_field_position"
+                                   as="xs:string"
+                                   select="string(position())"/>
+                     <frbrizer:relationship>
+                        <xsl:attribute name="type"
+                                       select="$relmap/rels/rel[k = $this_subfield and domain='Work']/reverse"/>
+                        <xsl:attribute name="itype"
+                                       select="$relmap/rels/rel[k = $this_subfield  and domain='Work']/forward"/>
+                        <xsl:if test="$include_target_entity_type">
+                           <xsl:attribute name="target_type" select="'http://rdaregistry.info/Elements/c/C10001'"/>
+                        </xsl:if>
+                        <xsl:if test="$include_counters">
+                           <xsl:attribute name="c" select="1"/>
+                        </xsl:if>
+                        <xsl:attribute name="href"
+                                       select="string-join(($record/@id,$target_template_name,$target_tag_value,$target_field_position), ':')"/>
+                        <xsl:if test="$include_internal_key">
+                           <xsl:attribute name="intkey"
+                                          select="string-join(($record/@id,$target_template_name,$target_tag_value,$target_field_position), ':')"/>
+                        </xsl:if>
+                        <xsl:if test="$include_MARC001_in_relationships">
+                           <xsl:element name="frbrizer:mid">
+                              <xsl:attribute name="i" select="$marcid"/>
+                              <xsl:if test="$include_counters">
+                                 <xsl:attribute name="c" select="1"/>
+                              </xsl:if>
+                           </xsl:element>
+                        </xsl:if>
+                     </frbrizer:relationship>
+                  </xsl:for-each>
+               </xsl:if>
+            </xsl:element>
+         </xsl:for-each>
+      </xsl:for-each>
+   </xsl:template>
+   <xsl:template name="MARC21-100-Person-No-Code">
+      <xsl:variable name="this_template_name" select="'MARC21-100-Person-No-Code'"/>
+      <xsl:variable name="tag" as="xs:string" select="'100'"/>
+      <xsl:variable name="record" select="."/>
+      <xsl:variable name="marcid" select="*:controlfield[@tag='001']"/>
+      <xsl:for-each select="node()[@tag=('100')][not(*:subfield/@code = '4')]">
          <xsl:variable name="this_field"
                        select="(ancestor-or-self::*:datafield, ancestor-or-self::*:controlfield)"/>
          <xsl:variable name="this"
@@ -112,7 +307,7 @@
                            select="string-join(($record/@id,$this_template_name,$tag,$this_field_position), ':')"/>
             <xsl:attribute name="type" select="'http://rdaregistry.info/Elements/c/C10004'"/>
             <xsl:if test="$include_labels">
-               <xsl:attribute name="label" select="'Person'"/>
+               <xsl:attribute name="label" select="'Person No relator code'"/>
             </xsl:if>
             <xsl:attribute name="templatename" select="$this_template_name"/>
             <xsl:if test="$include_counters">
@@ -336,69 +531,6 @@
                   </xsl:call-template>
                </xsl:copy>
             </xsl:for-each>
-            <xsl:for-each select="$record/*:datafield[@tag='041'][frbrizer:linked($anchor_field, .)][*:subfield/@code = ('a','d','e','f','j')]">
-               <xsl:copy>
-                  <xsl:call-template name="copy-attributes"/>
-                  <xsl:if test="$include_counters">
-                     <xsl:attribute name="c" select="1"/>
-                  </xsl:if>
-                  <xsl:for-each select="*:subfield[@code = ('a','d','e','f','j')]">
-                     <xsl:if test="@code = 'a'">
-                        <xsl:copy>
-                           <xsl:call-template name="copy-content">
-                              <xsl:with-param name="type" select="'http://rdaregistry.info/Elements/e/P20006'"/>
-                              <xsl:with-param name="label" select="'has language of expression'"/>
-                              <xsl:with-param name="select" select="."/>
-                           </xsl:call-template>
-                        </xsl:copy>
-                     </xsl:if>
-                     <xsl:if test="@code = 'd'">
-                        <xsl:copy>
-                           <xsl:call-template name="copy-content">
-                              <xsl:with-param name="type" select="'http://rdaregistry.info/Elements/e/P20006'"/>
-                              <xsl:with-param name="label" select="'has language of expression'"/>
-                              <xsl:with-param name="select" select="."/>
-                           </xsl:call-template>
-                        </xsl:copy>
-                     </xsl:if>
-                     <xsl:if test="@code = 'e'">
-                        <xsl:copy>
-                           <xsl:call-template name="copy-content">
-                              <xsl:with-param name="type" select="'http://rdaregistry.info/Elements/e/P20006'"/>
-                              <xsl:with-param name="label" select="'has language of expression'"/>
-                              <xsl:with-param name="select" select="."/>
-                           </xsl:call-template>
-                        </xsl:copy>
-                     </xsl:if>
-                     <xsl:if test="@code = 'f'">
-                        <xsl:copy>
-                           <xsl:call-template name="copy-content">
-                              <xsl:with-param name="type" select="'http://rdaregistry.info/Elements/e/P20006'"/>
-                              <xsl:with-param name="label" select="'has language of expression'"/>
-                              <xsl:with-param name="select" select="."/>
-                           </xsl:call-template>
-                        </xsl:copy>
-                     </xsl:if>
-                     <xsl:if test="@code = 'j'">
-                        <xsl:copy>
-                           <xsl:call-template name="copy-content">
-                              <xsl:with-param name="type" select="'http://rdaregistry.info/Elements/e/P20006'"/>
-                              <xsl:with-param name="label" select="'has language of expression'"/>
-                              <xsl:with-param name="select" select="."/>
-                           </xsl:call-template>
-                        </xsl:copy>
-                     </xsl:if>
-                  </xsl:for-each>
-                  <xsl:if test="$include_MARC001_in_subfield">
-                     <xsl:element name="frbrizer:mid">
-                        <xsl:attribute name="i" select="$marcid"/>
-                        <xsl:if test="$include_counters">
-                           <xsl:attribute name="c" select="1"/>
-                        </xsl:if>
-                     </xsl:element>
-                  </xsl:if>
-               </xsl:copy>
-            </xsl:for-each>
             <xsl:for-each select="$record/*:datafield[@tag='130'][*:subfield/@code = ('s','l','g')]">
                <xsl:copy>
                   <xsl:call-template name="copy-attributes"/>
@@ -421,7 +553,7 @@
                            <xsl:call-template name="copy-content">
                               <xsl:with-param name="type" select="'http://rdaregistry.info/Elements/e/P20006'"/>
                               <xsl:with-param name="label" select="'has language of expression'"/>
-                              <xsl:with-param name="select" select="."/>
+                              <xsl:with-param name="select" select="lower-case(.)"/>
                            </xsl:call-template>
                         </xsl:copy>
                      </xsl:if>
@@ -467,7 +599,7 @@
                            <xsl:call-template name="copy-content">
                               <xsl:with-param name="type" select="'http://rdaregistry.info/Elements/e/P20006'"/>
                               <xsl:with-param name="label" select="'has language of expression'"/>
-                              <xsl:with-param name="select" select="."/>
+                              <xsl:with-param name="select" select="lower-case(.)"/>
                            </xsl:call-template>
                         </xsl:copy>
                      </xsl:if>
@@ -503,7 +635,7 @@
                            <xsl:call-template name="copy-content">
                               <xsl:with-param name="type" select="'http://rdaregistry.info/Elements/e/P20001'"/>
                               <xsl:with-param name="label" select="'has content type'"/>
-                              <xsl:with-param name="select" select="."/>
+                              <xsl:with-param name="select" select="lower-case(.)"/>
                            </xsl:call-template>
                         </xsl:copy>
                      </xsl:if>
@@ -663,7 +795,7 @@
                            <xsl:call-template name="copy-content">
                               <xsl:with-param name="type" select="'http://rdaregistry.info/Elements/w/P10004'"/>
                               <xsl:with-param name="label" select="'has form of work'"/>
-                              <xsl:with-param name="select" select="."/>
+                              <xsl:with-param name="select" select="lower-case(.)"/>
                            </xsl:call-template>
                         </xsl:copy>
                      </xsl:if>
@@ -728,7 +860,7 @@
                            <xsl:call-template name="copy-content">
                               <xsl:with-param name="type" select="'http://rdaregistry.info/Elements/w/P10004'"/>
                               <xsl:with-param name="label" select="'has form of work'"/>
-                              <xsl:with-param name="select" select="."/>
+                              <xsl:with-param name="select" select="lower-case(.)"/>
                            </xsl:call-template>
                         </xsl:copy>
                      </xsl:if>
@@ -764,7 +896,7 @@
                            <xsl:call-template name="copy-content">
                               <xsl:with-param name="type" select="'http://rdaregistry.info/Elements/w/P10004'"/>
                               <xsl:with-param name="label" select="'has form of work'"/>
-                              <xsl:with-param name="select" select="."/>
+                              <xsl:with-param name="select" select="lower-case(.)"/>
                            </xsl:call-template>
                         </xsl:copy>
                      </xsl:if>
@@ -820,7 +952,7 @@
                   </frbrizer:relationship>
                </xsl:if>
             </xsl:for-each>
-            <xsl:for-each select="$record/node()[@tag=('600')][*:subfield/@code = '1p']">
+            <xsl:for-each select="$record/node()[@tag=('600')]">
                <xsl:variable name="target_template_name" select="'MARC21-600-Person'"/>
                <xsl:variable name="target_tag_value" select="'600'"/>
                <xsl:variable name="target_field"
@@ -855,7 +987,7 @@
                   </frbrizer:relationship>
                </xsl:if>
             </xsl:for-each>
-            <xsl:for-each select="$record/node()[@tag=('600')][*:subfield/@code = '1w']">
+            <xsl:for-each select="$record/node()[@tag=('600')]">
                <xsl:variable name="target_template_name" select="'MARC21-600-Work'"/>
                <xsl:variable name="target_tag_value" select="'600'"/>
                <xsl:variable name="target_field"
@@ -1290,7 +1422,7 @@
                            <xsl:call-template name="copy-content">
                               <xsl:with-param name="type" select="'http://rdaregistry.info/Elements/m/P30001'"/>
                               <xsl:with-param name="label" select="'has carrier type'"/>
-                              <xsl:with-param name="select" select="frbrizer:trim(.)"/>
+                              <xsl:with-param name="select" select="lower-case(frbrizer:trim(.))"/>
                            </xsl:call-template>
                         </xsl:copy>
                      </xsl:if>
@@ -1317,7 +1449,7 @@
                            <xsl:call-template name="copy-content">
                               <xsl:with-param name="type" select="'http://rdaregistry.info/Elements/m/P30002'"/>
                               <xsl:with-param name="label" select="'has media type'"/>
-                              <xsl:with-param name="select" select="frbrizer:trim(.)"/>
+                              <xsl:with-param name="select" select="lower-case(frbrizer:trim(.))"/>
                            </xsl:call-template>
                         </xsl:copy>
                      </xsl:if>
@@ -1384,7 +1516,7 @@
       <xsl:variable name="tag" as="xs:string" select="'600'"/>
       <xsl:variable name="record" select="."/>
       <xsl:variable name="marcid" select="*:controlfield[@tag='001']"/>
-      <xsl:for-each select="node()[@tag=('600')][*:subfield/@code = '1p']">
+      <xsl:for-each select="node()[@tag=('600')]">
          <xsl:variable name="this_field"
                        select="(ancestor-or-self::*:datafield, ancestor-or-self::*:controlfield)"/>
          <xsl:variable name="this"
@@ -1486,7 +1618,7 @@
                   </xsl:if>
                </xsl:copy>
             </xsl:for-each>
-            <xsl:for-each select="$record/node()[@tag=('600')][*:subfield/@code = '1w']">
+            <xsl:for-each select="$record/node()[@tag=('600')]">
                <xsl:variable name="target_template_name" select="'MARC21-600-Work'"/>
                <xsl:variable name="target_tag_value" select="'600'"/>
                <xsl:variable name="target_field"
@@ -1529,7 +1661,7 @@
       <xsl:variable name="tag" as="xs:string" select="'600'"/>
       <xsl:variable name="record" select="."/>
       <xsl:variable name="marcid" select="*:controlfield[@tag='001']"/>
-      <xsl:for-each select="node()[@tag=('600')][*:subfield/@code = '1w']">
+      <xsl:for-each select="node()[@tag=('600')]">
          <xsl:variable name="this_field"
                        select="(ancestor-or-self::*:datafield, ancestor-or-self::*:controlfield)"/>
          <xsl:variable name="this"
@@ -1627,7 +1759,7 @@
                            <xsl:call-template name="copy-content">
                               <xsl:with-param name="type" select="'http://rdaregistry.info/Elements/w/P10004'"/>
                               <xsl:with-param name="label" select="'has form of work'"/>
-                              <xsl:with-param name="select" select="."/>
+                              <xsl:with-param name="select" select="lower-case(.)"/>
                            </xsl:call-template>
                         </xsl:copy>
                      </xsl:if>
@@ -1753,70 +1885,7 @@
                   </xsl:call-template>
                </xsl:copy>
             </xsl:for-each>
-            <xsl:for-each select="$record/*:datafield[@tag='041'][frbrizer:linked($anchor_field, .) and not(exists($anchor_field/*:subfield[@code = 'l']))][*:subfield/@code = ('a','d','e','f','j')]">
-               <xsl:copy>
-                  <xsl:call-template name="copy-attributes"/>
-                  <xsl:if test="$include_counters">
-                     <xsl:attribute name="c" select="1"/>
-                  </xsl:if>
-                  <xsl:for-each select="*:subfield[@code = ('a','d','e','f','j')]">
-                     <xsl:if test="@code = 'a'">
-                        <xsl:copy>
-                           <xsl:call-template name="copy-content">
-                              <xsl:with-param name="type" select="'http://rdaregistry.info/Elements/e/P20006'"/>
-                              <xsl:with-param name="label" select="'has language of expression'"/>
-                              <xsl:with-param name="select" select="."/>
-                           </xsl:call-template>
-                        </xsl:copy>
-                     </xsl:if>
-                     <xsl:if test="@code = 'd'">
-                        <xsl:copy>
-                           <xsl:call-template name="copy-content">
-                              <xsl:with-param name="type" select="'http://rdaregistry.info/Elements/e/P20006'"/>
-                              <xsl:with-param name="label" select="'has language of expression'"/>
-                              <xsl:with-param name="select" select="."/>
-                           </xsl:call-template>
-                        </xsl:copy>
-                     </xsl:if>
-                     <xsl:if test="@code = 'e'">
-                        <xsl:copy>
-                           <xsl:call-template name="copy-content">
-                              <xsl:with-param name="type" select="'http://rdaregistry.info/Elements/e/P20006'"/>
-                              <xsl:with-param name="label" select="'has language of expression'"/>
-                              <xsl:with-param name="select" select="."/>
-                           </xsl:call-template>
-                        </xsl:copy>
-                     </xsl:if>
-                     <xsl:if test="@code = 'f'">
-                        <xsl:copy>
-                           <xsl:call-template name="copy-content">
-                              <xsl:with-param name="type" select="'http://rdaregistry.info/Elements/e/P20006'"/>
-                              <xsl:with-param name="label" select="'has language of expression'"/>
-                              <xsl:with-param name="select" select="."/>
-                           </xsl:call-template>
-                        </xsl:copy>
-                     </xsl:if>
-                     <xsl:if test="@code = 'j'">
-                        <xsl:copy>
-                           <xsl:call-template name="copy-content">
-                              <xsl:with-param name="type" select="'http://rdaregistry.info/Elements/e/P20006'"/>
-                              <xsl:with-param name="label" select="'has language of expression'"/>
-                              <xsl:with-param name="select" select="."/>
-                           </xsl:call-template>
-                        </xsl:copy>
-                     </xsl:if>
-                  </xsl:for-each>
-                  <xsl:if test="$include_MARC001_in_subfield">
-                     <xsl:element name="frbrizer:mid">
-                        <xsl:attribute name="i" select="$marcid"/>
-                        <xsl:if test="$include_counters">
-                           <xsl:attribute name="c" select="1"/>
-                        </xsl:if>
-                     </xsl:element>
-                  </xsl:if>
-               </xsl:copy>
-            </xsl:for-each>
-            <xsl:for-each select="$record/*:datafield[@tag='336'][frbrizer:linked($anchor_field, .) and (not($anchor_field/*:subfield[@code='h']))][*:subfield/@code = ('a')]">
+            <xsl:for-each select="$record/*:datafield[@tag='336'][*:subfield/@code = ('a')]">
                <xsl:copy>
                   <xsl:call-template name="copy-attributes"/>
                   <xsl:if test="$include_counters">
@@ -1828,7 +1897,7 @@
                            <xsl:call-template name="copy-content">
                               <xsl:with-param name="type" select="'http://rdaregistry.info/Elements/e/P20001'"/>
                               <xsl:with-param name="label" select="'has content type'"/>
-                              <xsl:with-param name="select" select="."/>
+                              <xsl:with-param name="select" select="lower-case(.)"/>
                            </xsl:call-template>
                         </xsl:copy>
                      </xsl:if>
@@ -1864,7 +1933,7 @@
                            <xsl:call-template name="copy-content">
                               <xsl:with-param name="type" select="'http://rdaregistry.info/Elements/e/P20006'"/>
                               <xsl:with-param name="label" select="'has language of expression'"/>
-                              <xsl:with-param name="select" select="."/>
+                              <xsl:with-param name="select" select="lower-case(.)"/>
                            </xsl:call-template>
                         </xsl:copy>
                      </xsl:if>
@@ -1877,7 +1946,7 @@
                            </xsl:call-template>
                         </xsl:copy>
                      </xsl:if>
-                     <xsl:if test="@code = 't' and not(exists($record/*:datafield[@tag = '740' and frbrizer:linked($anchor_field, .)]))">
+                     <xsl:if test="@code = 't'">
                         <xsl:copy>
                            <xsl:call-template name="copy-content">
                               <xsl:with-param name="type" select="'http://rdaregistry.info/Elements/e/P20312'"/>
@@ -2083,8 +2152,10 @@
                                    as="xs:string"
                                    select="string(position())"/>
                      <frbrizer:relationship>
-                        <xsl:attribute name="type" select="$relmap/rels/rel[k = $this_subfield]/reverse"/>
-                        <xsl:attribute name="itype" select="$relmap/rels/rel[k = $this_subfield]/forward"/>
+                        <xsl:attribute name="type"
+                                       select="$relmap/rels/rel[k = $this_subfield and domain='Work']/reverse"/>
+                        <xsl:attribute name="itype"
+                                       select="$relmap/rels/rel[k = $this_subfield and domain='Work']/forward"/>
                         <xsl:if test="$include_target_entity_type">
                            <xsl:attribute name="target_type" select="'http://rdaregistry.info/Elements/c/C10001'"/>
                         </xsl:if>
@@ -2118,8 +2189,10 @@
                                    as="xs:string"
                                    select="string(position())"/>
                      <frbrizer:relationship>
-                        <xsl:attribute name="type" select="$relmap/rels/rel[k = $this_subfield]/reverse"/>
-                        <xsl:attribute name="itype" select="$relmap/rels/rel[k = $this_subfield]/forward"/>
+                        <xsl:attribute name="type"
+                                       select="$relmap/rels/rel[k = $this_subfield and domain='Work']/reverse"/>
+                        <xsl:attribute name="itype"
+                                       select="$relmap/rels/rel[k = $this_subfield and domain='Work']/forward"/>
                         <xsl:if test="$include_target_entity_type">
                            <xsl:attribute name="target_type" select="'http://rdaregistry.info/Elements/c/C10001'"/>
                         </xsl:if>
@@ -2153,8 +2226,10 @@
                                    as="xs:string"
                                    select="string(position())"/>
                      <frbrizer:relationship>
-                        <xsl:attribute name="type" select="$relmap/rels/rel[k = $this_subfield]/reverse"/>
-                        <xsl:attribute name="itype" select="$relmap/rels/rel[k = $this_subfield]/forward"/>
+                        <xsl:attribute name="type"
+                                       select="$relmap/rels/rel[k = $this_subfield and domain='Expression']/reverse"/>
+                        <xsl:attribute name="itype"
+                                       select="$relmap/rels/rel[k = $this_subfield and domain='Expression']/forward"/>
                         <xsl:if test="$include_target_entity_type">
                            <xsl:attribute name="target_type" select="'http://rdaregistry.info/Elements/c/C10006'"/>
                         </xsl:if>
@@ -2188,8 +2263,10 @@
                                    as="xs:string"
                                    select="string(position())"/>
                      <frbrizer:relationship>
-                        <xsl:attribute name="type" select="$relmap/rels/rel[k = $this_subfield]/reverse"/>
-                        <xsl:attribute name="itype" select="$relmap/rels/rel[k = $this_subfield]/forward"/>
+                        <xsl:attribute name="type"
+                                       select="$relmap/rels/rel[k = $this_subfield and domain='Expression']/reverse"/>
+                        <xsl:attribute name="itype"
+                                       select="$relmap/rels/rel[k = $this_subfield and domain='Expression']/forward"/>
                         <xsl:if test="$include_target_entity_type">
                            <xsl:attribute name="target_type" select="'http://rdaregistry.info/Elements/c/C10006'"/>
                         </xsl:if>
@@ -2223,8 +2300,10 @@
                                    as="xs:string"
                                    select="string(position())"/>
                      <frbrizer:relationship>
-                        <xsl:attribute name="type" select="$relmap/rels/rel[k = $this_subfield]/reverse"/>
-                        <xsl:attribute name="itype" select="$relmap/rels/rel[k = $this_subfield]/forward"/>
+                        <xsl:attribute name="type"
+                                       select="$relmap/rels/rel[k = $this_subfield and domain='Manifestation']/reverse"/>
+                        <xsl:attribute name="itype"
+                                       select="$relmap/rels/rel[k = $this_subfield and domain='Manifestation']/forward"/>
                         <xsl:if test="$include_target_entity_type">
                            <xsl:attribute name="target_type" select="'http://rdaregistry.info/Elements/c/C10007'"/>
                         </xsl:if>
@@ -2813,7 +2892,7 @@
                            <xsl:call-template name="copy-content">
                               <xsl:with-param name="type" select="'http://rdaregistry.info/Elements/w/P10004'"/>
                               <xsl:with-param name="label" select="'has form of work'"/>
-                              <xsl:with-param name="select" select="."/>
+                              <xsl:with-param name="select" select="lower-case(.)"/>
                            </xsl:call-template>
                         </xsl:copy>
                      </xsl:if>
@@ -2905,7 +2984,7 @@
                   </frbrizer:relationship>
                </xsl:if>
             </xsl:for-each>
-            <xsl:for-each select="$record/node()[@tag=('600')][*:subfield/@code = '1p']">
+            <xsl:for-each select="$record/node()[@tag=('600')]">
                <xsl:variable name="target_template_name" select="'MARC21-600-Person'"/>
                <xsl:variable name="target_tag_value" select="'600'"/>
                <xsl:variable name="target_field"
@@ -2940,7 +3019,7 @@
                   </frbrizer:relationship>
                </xsl:if>
             </xsl:for-each>
-            <xsl:for-each select="$record/node()[@tag=('600')][*:subfield/@code = '1w']">
+            <xsl:for-each select="$record/node()[@tag=('600')]">
                <xsl:variable name="target_template_name" select="'MARC21-600-Work'"/>
                <xsl:variable name="target_tag_value" select="'600'"/>
                <xsl:variable name="target_field"
@@ -3079,7 +3158,7 @@
                            <xsl:call-template name="copy-content">
                               <xsl:with-param name="type" select="'http://rdaregistry.info/Elements/w/P10004'"/>
                               <xsl:with-param name="label" select="'has form of work'"/>
-                              <xsl:with-param name="select" select="."/>
+                              <xsl:with-param name="select" select="lower-case(.)"/>
                            </xsl:call-template>
                         </xsl:copy>
                      </xsl:if>
@@ -3110,6 +3189,16 @@
       <frbrizer:keymap>
          <xsl:for-each select="*:record">
             <xsl:choose>
+               <xsl:when test="@templatename = 'MARC21-100-Person-No-Code'">
+                  <xsl:element name="frbrizer:keyentry">
+                     <xsl:variable name="key">
+                        <xsl:value-of select="frbrizer:sort-keys(frbrizer:create-personid(*:datafield[@tag='100']))"/>
+                     </xsl:variable>
+                     <xsl:variable name="keyvalue" select="lower-case(replace($key, ' ', ''))"/>
+                     <xsl:attribute name="key" select="$keyvalue"/>
+                     <xsl:attribute name="id" select="@id"/>
+                  </xsl:element>
+               </xsl:when>
                <xsl:when test="@templatename = 'MARC21-100-Person'">
                   <xsl:element name="frbrizer:keyentry">
                      <xsl:variable name="key">
@@ -3241,9 +3330,11 @@
                      <xsl:variable name="key">
                         <xsl:value-of select="frbrizer:sort-keys((frbrizer:sort-relationships(*:relationship[@type = 'http://rdaregistry.info/Elements/e/P20231']/@href))[1])"/>
                         <xsl:value-of select="frbrizer:sort-keys('/')"/>
-                        <xsl:value-of select="frbrizer:sort-keys(lower-case((//.[@type='http://rdaregistry.info/Elements/e/P20006'])[1]))"/>
+                        <xsl:value-of select="frbrizer:sort-keys(lower-case((*:datafield[@tag = ('130', '240', '700')]/*:subfield[@type='http://rdaregistry.info/Elements/e/P20006'])[1]))"/>
                         <xsl:value-of select="frbrizer:sort-keys('/')"/>
                         <xsl:value-of select="frbrizer:sort-keys(lower-case((*:datafield/*:subfield[@type='http://rdaregistry.info/Elements/e/P20001']/replace(., ' ', ''))[1]))"/>
+                        <xsl:value-of select="frbrizer:sort-keys('/')"/>
+                        <xsl:value-of select="frbrizer:sort-keys(string-join(frbrizer:trimsort-targets(*:relationship[@type =('http://rdaregistry.info/Elements/e/P20037', 'http://rdaregistry.info/Elements/e/P20022', 'http://rdaregistry.info/Elements/e/P20049')]/@href), '/'))"/>
                      </xsl:variable>
                      <xsl:variable name="keyvalue" select="lower-case(replace($key, ' ', ''))"/>
                      <xsl:attribute name="key" select="$keyvalue"/>
@@ -3255,9 +3346,11 @@
                      <xsl:variable name="key">
                         <xsl:value-of select="frbrizer:sort-keys((frbrizer:sort-relationships(*:relationship[@type = 'http://rdaregistry.info/Elements/e/P20231']/@href))[1])"/>
                         <xsl:value-of select="frbrizer:sort-keys('/')"/>
-                        <xsl:value-of select="frbrizer:sort-keys(lower-case((//.[@type='http://rdaregistry.info/Elements/e/P20006'])[1]))"/>
+                        <xsl:value-of select="frbrizer:sort-keys(lower-case((*:datafield[@tag = ('130', '240', '700')]/*:subfield[@type='http://rdaregistry.info/Elements/e/P20006'])[1]))"/>
                         <xsl:value-of select="frbrizer:sort-keys('/')"/>
                         <xsl:value-of select="frbrizer:sort-keys(lower-case((*:datafield/*:subfield[@type='http://rdaregistry.info/Elements/e/P20001']/replace(., ' ', ''))[1]))"/>
+                        <xsl:value-of select="frbrizer:sort-keys('/')"/>
+                        <xsl:value-of select="frbrizer:sort-keys(string-join(frbrizer:trimsort-targets(*:relationship[@type =('http://rdaregistry.info/Elements/e/P20037', 'http://rdaregistry.info/Elements/e/P20022', 'http://rdaregistry.info/Elements/e/P20049')]/@href), '/'))"/>
                      </xsl:variable>
                      <xsl:variable name="keyvalue" select="lower-case(replace($key, ' ', ''))"/>
                      <xsl:attribute name="key" select="$keyvalue"/>
@@ -3757,11 +3850,19 @@
    <xsl:function xmlns:local="http://idi.ntnu.no/frbrizer/"
                  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
                  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
-                 name="local:sort-targets">
+                 name="local:trimsort-targets">
         <xsl:param name="relationships"/>
-        <xsl:perform-sort select="$relationships">
-            <xsl:sort select="@href"/>
+        <xsl:perform-sort select="for $r in distinct-values($relationships) return local:trim-target($r)">
+            <xsl:sort select="."/>
         </xsl:perform-sort>
+    </xsl:function>
+   <xsl:function xmlns:local="http://idi.ntnu.no/frbrizer/"
+                 xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+                 xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+                 name="local:trim-target">
+        <!-- This function transforms a list of uris to a list of strings containing the last part of the uri-->
+        <xsl:param name="value" as="xs:string"/>
+        <xsl:value-of select="let $x := $value return if (matches($x, '\w+:(/?/?)[^\s]+')) then (tokenize(replace($x, '/$', ''), '/'))[last()] else $x"/>
     </xsl:function>
    <xsl:function xmlns:local="http://idi.ntnu.no/frbrizer/"
                  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -3863,252 +3964,7 @@
                 </xsl:otherwise>
             </xsl:choose>
         </xsl:function>
-   <xsl:variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="relmap">
-            <rels>
-                <rel>
-                    <k>aut</k>
-                    <forward>http://rdaregistry.info/Elements/w/P10061</forward>
-                    <reverse>http://rdaregistry.info/Elements/a/P50195</reverse>
-                    <domain>Original bf:Work</domain>
-                    <domain>bf:Work</domain>
-                    <domain>Work</domain>
-                    <range>Person</range>
-                </rel>
-                <rel>
-                    <trl>http://rdaregistry.info/Elements/e/translatorAgent.en</trl>
-                    <k>trl</k>
-                    <forward>http://rdaregistry.info/Elements/e/P20037</forward>
-                    <reverse>http://rdaregistry.info/Elements/a/P50145</reverse>
-                    <domain>bf:Work</domain>
-                    <domain>Expression</domain>
-                    <range>Person</range>
-                </rel>
-                <rel>
-                    <k>http://rdaregistry.info/Elements/e/narratorAgent.en</k>
-                    <k>nrt</k>
-                    <forward>http://rdaregistry.info/Elements/e/P20022</forward>
-                    <reverse>http://rdaregistry.info/Elements/a/P50081</reverse>
-                    <domain>bf:Work</domain>
-                    <domain>Expression</domain>
-                    <range>Person</range>
-                </rel>
-                <rel>
-                    <k>http://rdaregistry.info/Elements/m/contributorAgentOfStillImage.en</k>
-                    <k>ill</k>
-                    <k>art</k>
-                    <forward>http://rdaregistry.info/Elements/m/P30321</forward>
-                    <reverse>http://rdaregistry.info/Elements/a/P50469</reverse>
-                    <domain>bf:Work</domain>
-                    <domain>Manifestation</domain>
-                    <range>Person</range>
-                </rel>
-                <rel>
-                    <k>http://rdaregistry.info/Elements/w/compilerAgent.en</k>
-                    <k>edt</k>
-                    <forward>http://rdaregistry.info/Elements/w/P10055</forward>
-                    <reverse>http://rdaregistry.info/Elements/a/P50189</reverse>
-                    <domain>bf:Work</domain>
-                    <domain>Manifestation</domain>
-                    <range>Person</range>
-                </rel>
-                <rel>
-                    <k>http://rdaregistry.info/Elements/w/adaptationOfWork.en</k>
-                    <k>adaptationOfWork.en</k>
-                    <k>adaptationOfWork</k>
-                    <forward>http://rdaregistry.info/Elements/w/P10142</forward>
-                    <reverse>http://rdaregistry.info/Elements/w/P10155</reverse>
-                    <domain>Work</domain>
-                    <range>Person</range>
-                </rel>
-                <rel>
-                    <k>http://rdaregistry.info/Elements/w/graphicNovelizationOfWork.en</k>
-                    <k>graphicNovelizationOfWork</k>
-                    <k>graphicNovelizationOfWork.en</k>
-                    <forward>http://rdaregistry.info/Elements/w/P10252</forward>
-                    <reverse>http://rdaregistry.info/Elements/w/P10251</reverse>
-                    <domain>Work</domain>
-                    <range>Work</range>
-                </rel>
-                <rel>
-                    <k>http://rdaregistry.info/Elements/e/actorAgent.en</k>
-                    <k>act</k>
-                    <forward>http://rdaregistry.info/Elements/e/P20012</forward>
-                    <reverse>http://rdaregistry.info/Elements/a/P50071</reverse>
-                    <domain>bf:Work</domain>
-                    <domain>Expression</domain>
-                    <range>Person</range>
-                </rel>
-                <rel>
-                    <k>http://rdaregistry.info/Elements/m/publisherAgent.en</k>
-                    <k>pbl</k>
-                    <forward>http://rdaregistry.info/Elements/m/P30083</forward>
-                    <reverse>http://rdaregistry.info/Elements/a/P50203</reverse>
-                    <domain>bf:Instance</domain>
-                    <domain>Manifestation</domain>
-                    <range>Person</range>
-                </rel>
-                <rel>
-                    <forward>http://rdaregistry.info/Elements/w/creatorAgentOfWork.en</forward>
-                    <k>cre</k>
-                    <k>http://rdaregistry.info/Elements/w/P10065</k>
-                    <reverse>http://rdaregistry.info/Elements/a/P50204</reverse>
-                    <domain>Original bf:Work</domain>
-                    <domain>bf:Work</domain>
-                    <domain>Work</domain>
-                    <range>Person</range>
-                </rel>
-                <rel>
-                    <k>http://rdaregistry.info/Elements/w/motionPictureAdaptationOfWork.en</k>
-                    <forward>http://rdaregistry.info/Elements/w/P10129</forward>
-                    <reverse>http://rdaregistry.info/Elements/w/P10025</reverse>
-                    <domain>Work</domain>
-                    <range>Person</range>
-                </rel>
-                <rel>
-                    <k>http://rdaregistry.info/Elements/w/screenwriterAgent.en</k>
-                    <k>aus</k>
-                    <forward>http://rdaregistry.info/Elements/w/P10203</forward>
-                    <reverse>http://rdaregistry.info/Elements/a/P50223</reverse>
-                    <domain>Original bf:Work</domain>
-                    <domain>bf:Work</domain>
-                    <domain>Work</domain>
-                    <range>Person</range>
-                </rel>
-                <rel>
-                    <k>http://rdaregistry.info/Elements/w/filmDirectorAgent.en</k>
-                    <k>drt</k>
-                    <forward>http://rdaregistry.info/Elements/w/P10013</forward>
-                    <reverse>http://rdaregistry.info/Elements/a/P50048</reverse>
-                    <domain>Original bf:Work</domain>
-                    <domain>bf:Work</domain>
-                    <domain>Work</domain>
-                    <range>Person</range>
-                </rel>
-                <rel>
-                    <k>http://rdaregistry.info/Elements/m/contributorAgentToAggregate.en</k>
-                    <k>aui</k>
-                    <k>aft</k>
-                    <k>wpr</k>
-                    <forward>http://rdaregistry.info/Elements/m/P30327</forward>
-                    <reverse>http://rdaregistry.info/Elements/a/P50528</reverse>
-                    <domain>bf:Work</domain>
-                    <domain>Manifestation</domain>
-                    <range>Person</range>
-                </rel>   
-                <rel>
-                    <k>http://rdaregistry.info/Elements/a/bookDesignerAgentOf.en</k>
-                    <k>bkd</k>
-                    <forward>http://rdaregistry.info/Elements/m/P30069</forward>
-                    <reverse>http://rdaregistry.info/Elements/a/P50170</reverse>
-                    <domain>bf:Work</domain>
-                    <domain>Manifestation</domain>
-                    <range>Person</range>
-                </rel>
-                <rel>
-                    <k>http://rdaregistry.info/Elements/w/producerAgent.en</k>
-                    <k>pro</k>
-                    <forward>http://rdaregistry.info/Elements/w/P10064</forward>
-                    <reverse>http://rdaregistry.info/Elements/a/P50213</reverse>
-                    <domain>Original bf:Work</domain>
-                    <domain>bf:Work</domain>
-                    <domain>Work</domain>
-                    <range>Person</range>
-                </rel>
-                <rel>
-                    <k>cmp</k>
-                    <k>http://rdaregistry.info/Elements/w/composerAgentOfWork.en</k>
-                    <forward>http://rdaregistry.info/Elements/w/P10053</forward>
-                    <reverse>http://rdaregistry.info/Elements/a/P50187</reverse>
-                    <domain>Original bf:Work</domain>
-                    <domain>bf:Work</domain>
-                    <domain>Work</domain>
-                    <range>Person</range>
-                </rel>
-                <rel>
-                    <k>http://rdaregistry.info/Elements/w/dramatizationOfWork.en</k>
-                    <forward>http://rdaregistry.info/Elements/w/P10127</forward>
-                    <reverse>http://rdaregistry.info/Elements/w/P10016</reverse>
-                    <domain>Work</domain>
-                    <range>Person</range>
-                </rel>
-                <rel>
-                    <k>pht</k>
-                    <k>http://rdaregistry.info/Elements/w/directorAgentOfPhotography.en</k>
-                    <forward>http://rdaregistry.info/Elements/w/P10068</forward>
-                    <reverse>http://rdaregistry.info/Elements/a/P50207</reverse>
-                    <domain>Original bf:Work</domain>
-                    <domain>bf:Work</domain>
-                    <domain>Work</domain>
-                    <range>Person</range>
-                </rel>
-                <rel>
-                    <k>http://rdaregistry.info/Elements/w/guideToWork.en</k>
-                    <forward>http://rdaregistry.info/Elements/w/P10150</forward>
-                    <reverse>http://rdaregistry.info/Elements/w/P10124</reverse>
-                    <domain>Work</domain>
-                    <range>Person</range>
-                </rel>
-                <rel>
-                    <k>adp</k>
-                    <k>http://rdaregistry.info/Elements/e/reviserAgent.en</k>
-                    <forward>http://rdaregistry.info/Elements/e/P20327</forward>
-                    <reverse>http://rdaregistry.info/Elements/a/P50447</reverse>
-                    <domain>bf:Work</domain>
-                    <domain>Work</domain>
-                    <range>Person</range>
-                </rel>
-                <rel>
-                    <k>http://rdaregistry.info/Elements/w/commentaryOnWork.en</k>
-                    <forward>http://rdaregistry.info/Elements/w/P10187</forward>
-                    <reverse>http://rdaregistry.info/Elements/w/P10116</reverse>
-                    <domain>Work</domain>
-                    <range>Work</range>
-                </rel>
-                <rel>
-                    <k>http://rdaregistry.info/Elements/w/basedOnWork.en</k>
-                    <forward>http://rdaregistry.info/Elements/w/P10190</forward>
-                    <reverse>http://rdaregistry.info/Elements/w/P10148</reverse>
-                    <domain>Work</domain>
-                    <range>Work</range>
-                </rel>
-                <rel>
-                    <k>http://rdaregistry.info/Elements/w/critiqueOfWork.en</k>
-                    <forward>http://rdaregistry.info/Elements/w/P10182</forward>
-                    <reverse>http://rdaregistry.info/Elements/w/P10115</reverse>
-                    <domain>Work</domain>
-                    <range>Work</range>
-                </rel>
-                <rel>
-                    <k>http://rdaregistry.info/Elements/w/inspiredBy.en</k>
-                    <forward>http://rdaregistry.info/Elements/w/P10290</forward>
-                    <reverse>http://rdaregistry.info/Elements/w/P10291</reverse>
-                    <domain>Work</domain>
-                    <range>Work</range>
-                </rel>
-                <rel>
-                    <k>http://rdaregistry.info/Elements/w/partOfWork.en</k>
-                    <forward>http://rdaregistry.info/Elements/w/P10019</forward>
-                    <reverse>http://rdaregistry.info/Elements/w/P10147</reverse>
-                    <domain>Work</domain>
-                    <range>Work</range>
-                </rel>
-                <rel>
-                    <k>abr</k>
-                    <k>abridger</k>
-                    <k>http://rdaregistry.info/Elements/e/abridgerAgent.en</k>
-                    <forward>http://rdaregistry.info/Elements/e/P20049</forward>
-                    <reverse>http://rdaregistry.info/Elements/a/P50157</reverse>
-                    <domain>bf:Work</domain>
-                    <domain>Work</domain>
-                    <range>Person</range>
-                </rel>
-                <rel>
-                    <k>http://rdaregistry.info/Elements/w/precededByWork.en</k>
-                    <forward>http://rdaregistry.info/Elements/w/P10156</forward>
-                    <reverse>http://rdaregistry.info/Elements/w/P10191</reverse>
-                    <domain>Work</domain>
-                    <range>Person</range>
-                </rel>
-            </rels>
-        </xsl:variable>
+   <xsl:variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                 name="relmap"
+                 select="doc('relationships.xml')"/>
 </xsl:stylesheet>

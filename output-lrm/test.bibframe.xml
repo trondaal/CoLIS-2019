@@ -20,7 +20,7 @@
       <w:P10002>http://viaf.org/viaf/181460365</w:P10002>
       <w:P10088>Dette er orginaltittelen for en oversatt roman</w:P10088>
       <w:P10061 rdf:resource="http://viaf.org/viaf/14767431"/>
-      <w:P10078 rdf:resource="http://viaf.org/viaf/181460365/eng/text"/>
+      <w:P10078 rdf:resource="http://viaf.org/viaf/181460365/eng/text/patriciahaugaard"/>
       <w:P10142 rdf:resource="http://viaf.org/viaf/179061639"/>
       <w:P10257 rdf:resource="http://viaf.org/viaf/testidverkemne"/>
    </c:C10001>
@@ -49,9 +49,9 @@
    </c:C10004>
    <c:C10004 rdf:about="patriciahaugaard">
       <a:P50111>Patricia Haugaard</a:P50111>
-      <a:P50145 rdf:resource="http://viaf.org/viaf/181460365/eng/text"/>
+      <a:P50145 rdf:resource="http://viaf.org/viaf/181460365/eng/text/patriciahaugaard"/>
    </c:C10004>
-   <c:C10006 rdf:about="http://viaf.org/viaf/181460365/eng/text">
+   <c:C10006 rdf:about="http://viaf.org/viaf/181460365/eng/text/patriciahaugaard">
       <e:P20006>eng</e:P20006>
       <e:P20001>text</e:P20001>
       <e:P20037 rdf:resource="patriciahaugaard"/>
@@ -69,6 +69,6 @@
       <m:P30182>312p.</m:P30182>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
-      <m:P30139 rdf:resource="http://viaf.org/viaf/181460365/eng/text"/>
+      <m:P30139 rdf:resource="http://viaf.org/viaf/181460365/eng/text/patriciahaugaard"/>
    </c:C10007>
 </rdf:RDF>

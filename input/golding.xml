@@ -213,6 +213,10 @@
             <marc:subfield code="a">Keller, Rolf Heinrich.</marc:subfield>
             <marc:subfield code="1p">kellerrolfheinrich</marc:subfield>
         </marc:datafield>
+        <marc:datafield tag="240" ind1=" " ind2=" ">
+            <marc:subfield code="a">The philosophy of William Golding</marc:subfield>
+            <marc:subfield code="1w">kellerrolfheinrich/thephilosophyofwilliamgolding</marc:subfield>
+        </marc:datafield>
         <marc:datafield tag="245" ind1="1" ind2="4">
             <marc:subfield code="a">The philosophy of William Golding :</marc:subfield>
             <marc:subfield code="b">with special reference to 'Free Fall' /</marc:subfield>
@@ -238,6 +242,9 @@
         <marc:datafield tag="338" ind1=" " ind2=" ">
             <marc:subfield code="a">volume</marc:subfield>
             <marc:subfield code="2">rdacarrier</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="380" ind1=" " ind2=" ">
+            <marc:subfield code="a">thesis</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="500" ind1=" " ind2=" ">
             <marc:subfield code="a">Thesis presented to the Faculty of Arts of the University of Zurich for the degree of Doctor of Philosophy.</marc:subfield>
@@ -988,7 +995,7 @@
         </marc:datafield>
         <marc:datafield tag="240" ind1="1" ind2="0">
             <marc:subfield code="a">Double tongue.</marc:subfield>
-            <marc:subfield code="l">Spanish</marc:subfield>
+            <marc:subfield code="l">spa</marc:subfield>
             <marc:subfield code="1w">http://viaf.org/viaf/1180145424574586830081</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="245" ind1="1" ind2="3">
@@ -1340,6 +1347,10 @@
             <marc:subfield code="q">(Hilda Doris),</marc:subfield>
             <marc:subfield code="d">1926-</marc:subfield>
             <marc:subfield code="1p">spearhildad</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="240" ind1=" " ind2=" ">
+            <marc:subfield code="a">The Spire</marc:subfield>
+            <marc:subfield code="1w">spearhildad/thespire</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="245" ind1="1" ind2="4">
             <marc:subfield code="a">The spire :</marc:subfield>
@@ -2101,6 +2112,10 @@
             <marc:subfield code="a">King, Martin.</marc:subfield>
             <marc:subfield code="1p">kingmartin</marc:subfield>
         </marc:datafield>
+        <marc:datafield tag="240" ind1="1" ind2="0">
+            <marc:subfield code="a">Students' guide to Lord of the flies</marc:subfield>
+            <marc:subfield code="1w">kingmartin/studentsguidetolordoftheflies</marc:subfield>
+        </marc:datafield>
         <marc:datafield tag="245" ind1="1" ind2="0">
             <marc:subfield code="a">Students' guide to Lord of the flies.</marc:subfield>
         </marc:datafield>
@@ -2468,7 +2483,12 @@
             <marc:subfield code="a">Williams, Nigel</marc:subfield>
             <marc:subfield code="d">1948-</marc:subfield>
             <marc:subfield code="1p">williamsnigel</marc:subfield>
-            <marc:subfield code="4">aus</marc:subfield>
+            <marc:subfield code="4">aut</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="240" ind1=" " ind2=" ">
+            <marc:subfield code="a">William Golding's "Lord of the flies"</marc:subfield>
+            <marc:subfield code="k">Play</marc:subfield>
+            <marc:subfield code="1w">williamsnigel/williamgoldingslordoftheflies</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="245" ind1="1" ind2="0">
             <marc:subfield code="a">William Golding's "Lord of the flies" /</marc:subfield>
@@ -2494,6 +2514,9 @@
         <marc:datafield tag="338" ind1=" " ind2=" ">
             <marc:subfield code="a">volume</marc:subfield>
             <marc:subfield code="2">rdacarrier</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="380" ind1=" " ind2=" ">
+            <marc:subfield code="a">play</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="653" ind1="1" ind2=" ">
             <marc:subfield code="a">English drama</marc:subfield>
@@ -3701,6 +3724,10 @@
             <marc:subfield code="d">1926-</marc:subfield>
             <marc:subfield code="1p">spearhildad</marc:subfield>
         </marc:datafield>
+        <marc:datafield tag="240" ind1="1" ind2="0">
+            <marc:subfield code="a">William Golding, The inheritors : notes</marc:subfield>
+            <marc:subfield code="1w">spearhildad/williamgoldingtheinheritorsnotes</marc:subfield>
+        </marc:datafield>
         <marc:datafield tag="245" ind1="1" ind2="0">
             <marc:subfield code="a">William Golding, The inheritors :</marc:subfield>
             <marc:subfield code="b">notes /</marc:subfield>
@@ -3881,6 +3908,10 @@
         <marc:datafield tag="100" ind1="1" ind2=" ">
             <marc:subfield code="a">Sumner, Rosemary.</marc:subfield>
             <marc:subfield code="1p">sumnerrosemary</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="240" ind1="1" ind2="4">
+            <marc:subfield code="a">The spire by William Golding</marc:subfield>
+            <marc:subfield code="1w">sumnerrosemary/thespirebywilliamgolding</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="245" ind1="1" ind2="4">
             <marc:subfield code="a">The spire by William Golding /</marc:subfield>
@@ -4270,8 +4301,8 @@
             <marc:subfield code="1p">http://viaf.org/viaf/89500102</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="240" ind1="1" ind2="0">
-            <marc:subfield code="a">A Moving Target The Moving Target</marc:subfield>
-            <marc:subfield code="1w">http://www.wikidata.org/entity/Q4658399 http://viaf.org/viaf/307973201</marc:subfield>
+            <marc:subfield code="a">The Moving Target</marc:subfield>
+            <marc:subfield code="1w">http://viaf.org/viaf/307973201</marc:subfield>
             <marc:subfield code="2">generated from 245</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="245" ind1="1" ind2="2">
@@ -4916,8 +4947,8 @@
             <marc:subfield code="1p">http://viaf.org/viaf/89500102</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="240" ind1="1" ind2="0">
-            <marc:subfield code="a">A Moving Target The Moving Target</marc:subfield>
-            <marc:subfield code="1w">http://www.wikidata.org/entity/Q4658399 http://viaf.org/viaf/307973201</marc:subfield>
+            <marc:subfield code="a">The Moving Target</marc:subfield>
+            <marc:subfield code="1w">http://viaf.org/viaf/307973201</marc:subfield>
             <marc:subfield code="2">generated from 245</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="245" ind1="1" ind2="2">
@@ -5424,6 +5455,10 @@
             <marc:subfield code="d">1940-</marc:subfield>
             <marc:subfield code="1p">selfdavid</marc:subfield>
         </marc:datafield>
+        <marc:datafield tag="240" ind1="0" ind2="0">
+            <marc:subfield code="a">Lord of the flies, William Golding</marc:subfield>
+            <marc:subfield code="1w">selfdavid/lordoftheflieswilliamgolding</marc:subfield>
+        </marc:datafield>
         <marc:datafield tag="245" ind1="0" ind2="0">
             <marc:subfield code="a">Lord of the flies, William Golding /</marc:subfield>
             <marc:subfield code="c">devised by David Self.</marc:subfield>
@@ -5515,7 +5550,7 @@
         </marc:datafield>
         <marc:datafield tag="240" ind1="1" ind2="0">
             <marc:subfield code="a">Spire.</marc:subfield>
-            <marc:subfield code="l">Spanish</marc:subfield>
+            <marc:subfield code="l">spa</marc:subfield>
             <marc:subfield code="1w">http://viaf.org/viaf/178994871</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="245" ind1="1" ind2="3">
@@ -5572,100 +5607,6 @@
             <marc:subfield code="a">British Library</marc:subfield>
             <marc:subfield code="b">HMNTS</marc:subfield>
             <marc:subfield code="j">YF.2009.a.10212</marc:subfield>
-        </marc:datafield>
-    </marc:record>
-    <marc:record source="1983-BNB-UK-William-Golding.xml">
-        <marc:leader>01014 am a2200325ua 4500</marc:leader>
-        <marc:controlfield tag="001">011407729</marc:controlfield>
-        <marc:controlfield tag="005">20150521210300.0</marc:controlfield>
-        <marc:controlfield tag="008">880601s1987    enk    ||     000 ||eng  </marc:controlfield>
-        <marc:datafield tag="015" ind1=" " ind2=" ">
-            <marc:subfield code="a">GB8839488</marc:subfield>
-            <marc:subfield code="2">bnb</marc:subfield>
-        </marc:datafield>
-        <marc:datafield tag="019" ind1="y" ind2=" ">
-            <marc:subfield code="a">b8839488</marc:subfield>
-        </marc:datafield>
-        <marc:datafield tag="019" ind1="9" ind2=" ">
-            <marc:subfield code="a">1852340568</marc:subfield>
-        </marc:datafield>
-        <marc:datafield tag="019" ind1="1" ind2=" ">
-            <marc:subfield code="a">1852340568</marc:subfield>
-        </marc:datafield>
-        <marc:datafield tag="020" ind1=" " ind2=" ">
-            <marc:subfield code="a">1852340568 (unbound) :</marc:subfield>
-            <marc:subfield code="c">No price</marc:subfield>
-        </marc:datafield>
-        <marc:datafield tag="039" ind1="0" ind2=" ">
-            <marc:subfield code="a">1991</marc:subfield>
-        </marc:datafield>
-        <marc:datafield tag="040" ind1=" " ind2=" ">
-            <marc:subfield code="a">Uk</marc:subfield>
-            <marc:subfield code="c">Uk</marc:subfield>
-        </marc:datafield>
-        <marc:datafield tag="050" ind1="0" ind2="0">
-            <marc:subfield code="a">PR6013.O35L6</marc:subfield>
-        </marc:datafield>
-        <marc:datafield tag="082" ind1="0" ind2="4">
-            <marc:subfield code="a">823/.9/14</marc:subfield>
-            <marc:subfield code="2">18</marc:subfield>
-        </marc:datafield>
-        <marc:datafield tag="082" ind1="0" ind2="4">
-            <marc:subfield code="a">823/.914</marc:subfield>
-            <marc:subfield code="2">19</marc:subfield>
-        </marc:datafield>
-        <marc:datafield tag="245" ind1="0" ind2="0">
-            <marc:subfield code="a">Lord of the flies :</marc:subfield>
-            <marc:subfield code="b">teacher's notes.</marc:subfield>
-        </marc:datafield>
-        <marc:datafield tag="260" ind1=" " ind2=" ">
-            <marc:subfield code="b">Mary Glasgow,</marc:subfield>
-            <marc:subfield code="c">c1987.</marc:subfield>
-        </marc:datafield>
-        <marc:datafield tag="300" ind1=" " ind2=" ">
-            <marc:subfield code="a">7p.</marc:subfield>
-        </marc:datafield>
-        <marc:datafield tag="336" ind1=" " ind2=" ">
-            <marc:subfield code="a">text</marc:subfield>
-            <marc:subfield code="2">rdacontent</marc:subfield>
-        </marc:datafield>
-        <marc:datafield tag="337" ind1=" " ind2=" ">
-            <marc:subfield code="a">unmediated</marc:subfield>
-            <marc:subfield code="2">rdamedia</marc:subfield>
-        </marc:datafield>
-        <marc:datafield tag="338" ind1=" " ind2=" ">
-            <marc:subfield code="a">volume</marc:subfield>
-            <marc:subfield code="2">rdacarrier</marc:subfield>
-        </marc:datafield>
-        <marc:datafield tag="600" ind1="1" ind2="4">
-            <marc:subfield code="a">Golding, William</marc:subfield>
-            <marc:subfield code="d">1911-1993.</marc:subfield>
-            <marc:subfield code="t">Lord of the Flies.</marc:subfield>
-            <marc:subfield code="1p">http://viaf.org/viaf/89500102</marc:subfield>
-            <marc:subfield code="1w">http://viaf.org/viaf/119144648592107423604</marc:subfield>
-        </marc:datafield>
-        <marc:datafield tag="653" ind1=" " ind2=" ">
-            <marc:subfield code="a">Fiction in English</marc:subfield>
-            <marc:subfield code="a">Golding, William</marc:subfield>
-            <marc:subfield code="a">Lord of the Flies</marc:subfield>
-            <marc:subfield code="a">Questions &amp; answers</marc:subfield>
-            <marc:subfield code="a">For schools</marc:subfield>
-        </marc:datafield>
-        <marc:datafield tag="700" ind1="1" ind2=" ">
-            <marc:subfield code="a">Golding, William</marc:subfield>
-            <marc:subfield code="d">1911-1993.</marc:subfield>
-            <marc:subfield code="t">Lord of the flies.</marc:subfield>
-            <marc:subfield code="1p">http://viaf.org/viaf/89500102</marc:subfield>
-            <marc:subfield code="1w">http://viaf.org/viaf/119144648592107423604</marc:subfield>
-            <marc:subfield code="4">http://rdaregistry.info/Elements/w/guideToWork.en</marc:subfield>
-        </marc:datafield>
-        <marc:datafield tag="830" ind1=" " ind2="0">
-            <marc:subfield code="a">New guidelines (Mary Glasgow Publications)</marc:subfield>
-        </marc:datafield>
-        <marc:datafield tag="852" ind1="4" ind2="1">
-            <marc:subfield code="a">British Library</marc:subfield>
-            <marc:subfield code="b">HMNTS</marc:subfield>
-            <marc:subfield code="j">YC.1988.b.4532</marc:subfield>
         </marc:datafield>
     </marc:record>
     <marc:record source="1983-BNB-UK-William-Golding.xml">
@@ -5947,7 +5888,7 @@
         </marc:datafield>
         <marc:datafield tag="240" ind1="1" ind2="0">
             <marc:subfield code="a">Lord of the flies.</marc:subfield>
-            <marc:subfield code="l">Spanish</marc:subfield>
+            <marc:subfield code="l">spa</marc:subfield>
             <marc:subfield code="1w">http://viaf.org/viaf/119144648592107423604</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="245" ind1="1" ind2="3">
@@ -6700,8 +6641,8 @@
             <marc:subfield code="1p">http://viaf.org/viaf/89500102</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="240" ind1="1" ind2="0">
-            <marc:subfield code="a">A Moving Target The Moving Target</marc:subfield>
-            <marc:subfield code="1w">http://www.wikidata.org/entity/Q4658399 http://viaf.org/viaf/307973201</marc:subfield>
+            <marc:subfield code="a">The Moving Target</marc:subfield>
+            <marc:subfield code="1w">http://viaf.org/viaf/307973201</marc:subfield>
             <marc:subfield code="2">generated from 245</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="245" ind1="1" ind2="2">
@@ -8119,7 +8060,7 @@
         </marc:datafield>
         <marc:datafield tag="240" ind1="1" ind2="0">
             <marc:subfield code="a">Double tongue.</marc:subfield>
-            <marc:subfield code="l">German</marc:subfield>
+            <marc:subfield code="l">ger</marc:subfield>
             <marc:subfield code="1w">http://viaf.org/viaf/1180145424574586830081</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="245" ind1="1" ind2="0">
@@ -8600,7 +8541,7 @@
         </marc:datafield>
         <marc:datafield tag="240" ind1="1" ind2="0">
             <marc:subfield code="a">Lord of the flies.</marc:subfield>
-            <marc:subfield code="l">German</marc:subfield>
+            <marc:subfield code="l">ger</marc:subfield>
             <marc:subfield code="1w">http://viaf.org/viaf/119144648592107423604</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="245" ind1="1" ind2="0">
@@ -8859,8 +8800,8 @@
             <marc:subfield code="1p">http://viaf.org/viaf/89500102</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="240" ind1="1" ind2="0">
-            <marc:subfield code="a">A Moving Target The Moving Target</marc:subfield>
-            <marc:subfield code="1w">http://www.wikidata.org/entity/Q4658399 http://viaf.org/viaf/307973201</marc:subfield>
+            <marc:subfield code="a">The Moving Target</marc:subfield>
+            <marc:subfield code="1w">http://viaf.org/viaf/307973201</marc:subfield>
             <marc:subfield code="2">generated from 245</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="245" ind1="0" ind2="2">
@@ -8936,8 +8877,8 @@
             <marc:subfield code="1p">http://viaf.org/viaf/89500102</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="240" ind1="1" ind2="0">
-            <marc:subfield code="a">A Moving Target The Moving Target</marc:subfield>
-            <marc:subfield code="1w">http://www.wikidata.org/entity/Q4658399 http://viaf.org/viaf/307973201</marc:subfield>
+            <marc:subfield code="a">The Moving Target</marc:subfield>
+            <marc:subfield code="1w">http://viaf.org/viaf/307973201</marc:subfield>
             <marc:subfield code="2">generated from 245</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="245" ind1="1" ind2="2">
@@ -9201,6 +9142,11 @@
             <marc:subfield code="d">1940 February 23-</marc:subfield>
             <marc:subfield code="1p">mahoneyjohn</marc:subfield>
             <marc:subfield code="4">aut</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="240" ind1="1" ind2="0">
+            <marc:subfield code="a">Lord of the flies, William Golding</marc:subfield>
+            <marc:subfield code="k">guide</marc:subfield>
+            <marc:subfield code="1w">mahoneyjohn/lordoftheflieswilliamgolding</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="245" ind1="1" ind2="0">
             <marc:subfield code="a">Lord of the flies, William Golding :</marc:subfield>
@@ -9652,7 +9598,7 @@
         </marc:datafield>
         <marc:datafield tag="240" ind1="1" ind2="0">
             <marc:subfield code="a">Lord of the flies.</marc:subfield>
-            <marc:subfield code="l">Spanish</marc:subfield>
+            <marc:subfield code="l">spa</marc:subfield>
             <marc:subfield code="1w">http://viaf.org/viaf/119144648592107423604</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="245" ind1="1" ind2="3">
@@ -9747,7 +9693,7 @@
         </marc:datafield>
         <marc:datafield tag="240" ind1="1" ind2="0">
             <marc:subfield code="a">Lord of the flies.</marc:subfield>
-            <marc:subfield code="l">Spanish</marc:subfield>
+            <marc:subfield code="l">spa</marc:subfield>
             <marc:subfield code="1w">http://viaf.org/viaf/119144648592107423604</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="245" ind1="1" ind2="3">
@@ -9940,7 +9886,7 @@
         </marc:datafield>
         <marc:datafield tag="240" ind1="1" ind2="0">
             <marc:subfield code="a">Inheritors.</marc:subfield>
-            <marc:subfield code="l">Spanish</marc:subfield>
+            <marc:subfield code="l">spa</marc:subfield>
             <marc:subfield code="1w">http://viaf.org/viaf/217036112</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="245" ind1="1" ind2="4">
@@ -10200,6 +10146,10 @@
             <marc:subfield code="d">1925-</marc:subfield>
             <marc:subfield code="1p">wilsonraymond</marc:subfield>
         </marc:datafield>
+        <marc:datafield tag="240" ind1="1" ind2="0">
+            <marc:subfield code="a">Lord of the flies by William Golding</marc:subfield>
+            <marc:subfield code="1w">wilsonraymond/lordofthefliesbywilliamgolding</marc:subfield>
+        </marc:datafield>
         <marc:datafield tag="245" ind1="1" ind2="0">
             <marc:subfield code="a">Lord of the flies by William Golding /</marc:subfield>
             <marc:subfield code="c">Raymond Wilson.</marc:subfield>
@@ -10289,6 +10239,10 @@
             <marc:subfield code="a">Handley, Graham</marc:subfield>
             <marc:subfield code="d">1926-</marc:subfield>
             <marc:subfield code="1p">handleygraham</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="240" ind1="1" ind2="0">
+            <marc:subfield code="a">Brodie's notes on William Golding's Lord of the flies</marc:subfield>
+            <marc:subfield code="1w">handleygraham/brodiesnotesonwilliamgoldingslordoftheflies</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="245" ind1="1" ind2="0">
             <marc:subfield code="a">Brodie's notes on William Golding's Lord of the flies /</marc:subfield>
@@ -10500,6 +10454,11 @@
             <marc:subfield code="a">Niven, Alastair.</marc:subfield>
             <marc:subfield code="1p">nivenalastair</marc:subfield>
         </marc:datafield>
+        <marc:datafield tag="240" ind1="1" ind2="0">
+            <marc:subfield code="a">Lord of the flies</marc:subfield>
+            <marc:subfield code="k">notes</marc:subfield>
+            <marc:subfield code="1w">nivenalastair/lordoftheflies</marc:subfield>
+        </marc:datafield>
         <marc:datafield tag="245" ind1="1" ind2="0">
             <marc:subfield code="a">Lord of the flies :</marc:subfield>
             <marc:subfield code="b">notes /</marc:subfield>
@@ -10597,6 +10556,10 @@
         <marc:datafield tag="100" ind1="1" ind2=" ">
             <marc:subfield code="a">Spring, Brian.</marc:subfield>
             <marc:subfield code="1p">springbrian</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="240" ind1="1" ind2="0">
+            <marc:subfield code="a">'Lord of the Flies'/</marc:subfield>
+            <marc:subfield code="1w">springbrian/lordoftheflies</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="245" ind1="1" ind2="0">
             <marc:subfield code="a">'Lord of the Flies' /</marc:subfield>
@@ -11196,7 +11159,7 @@
         </marc:datafield>
         <marc:datafield tag="240" ind1="1" ind2="0">
             <marc:subfield code="a">Lord of the flies.</marc:subfield>
-            <marc:subfield code="l">German</marc:subfield>
+            <marc:subfield code="l">ger</marc:subfield>
             <marc:subfield code="1w">http://viaf.org/viaf/119144648592107423604</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="245" ind1="1" ind2="0">
@@ -11536,7 +11499,7 @@
         </marc:datafield>
         <marc:datafield tag="240" ind1="1" ind2="0">
             <marc:subfield code="a">Rites of passage</marc:subfield>
-            <marc:subfield code="l">Español</marc:subfield>
+            <marc:subfield code="l">spa</marc:subfield>
             <marc:subfield code="1w">http://viaf.org/viaf/176165653</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="245" ind1="1" ind2="0">
@@ -11551,6 +11514,9 @@
             <marc:subfield code="a">Madrid</marc:subfield>
             <marc:subfield code="b">Alianza Editorial</marc:subfield>
             <marc:subfield code="c">2010</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" ">
+            <marc:subfield code="a">text</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="300" ind1=" " ind2=" ">
             <marc:subfield code="a">312 p.</marc:subfield>
@@ -11614,7 +11580,7 @@
         </marc:datafield>
         <marc:datafield tag="240" ind1="1" ind2="0">
             <marc:subfield code="a">Lord of the flies</marc:subfield>
-            <marc:subfield code="l">Español</marc:subfield>
+            <marc:subfield code="l">spa</marc:subfield>
             <marc:subfield code="1w">http://viaf.org/viaf/119144648592107423604</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="245" ind1="1" ind2="3">
@@ -11633,6 +11599,9 @@
         <marc:datafield tag="300" ind1=" " ind2=" ">
             <marc:subfield code="a">239 p.</marc:subfield>
             <marc:subfield code="c">18 cm</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" ">
+            <marc:subfield code="a">text</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="490" ind1="0" ind2=" ">
             <marc:subfield code="a">El Libro de Bolsillo</marc:subfield>
@@ -11693,6 +11662,9 @@
             <marc:subfield code="a">187 p., 1 h.</marc:subfield>
             <marc:subfield code="c">18 cm</marc:subfield>
         </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" ">
+            <marc:subfield code="a">text</marc:subfield>
+        </marc:datafield>
         <marc:datafield tag="490" ind1="0" ind2=" ">
             <marc:subfield code="a">El Libro de Bolsillo. Sección: Literatura</marc:subfield>
             <marc:subfield code="v">v. 468</marc:subfield>
@@ -11749,6 +11721,9 @@
             <marc:subfield code="a">249 p. con lam.</marc:subfield>
             <marc:subfield code="c">18 cm</marc:subfield>
         </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" ">
+            <marc:subfield code="a">text</marc:subfield>
+        </marc:datafield>
         <marc:datafield tag="490" ind1="0" ind2=" ">
             <marc:subfield code="a">Novelas y Cuentos</marc:subfield>
             <marc:subfield code="v">v. 64</marc:subfield>
@@ -11801,7 +11776,7 @@
         </marc:datafield>
         <marc:datafield tag="243" ind1="1" ind2="0">
             <marc:subfield code="a">Cuentos</marc:subfield>
-            <marc:subfield code="l">Español</marc:subfield>
+            <marc:subfield code="l">spa</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="240" ind1="1" ind2="0">
             <marc:subfield code="a">The Scorpion God</marc:subfield>
@@ -11829,6 +11804,9 @@
         <marc:datafield tag="300" ind1=" " ind2=" ">
             <marc:subfield code="a">189 p.</marc:subfield>
             <marc:subfield code="c">18 cm</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" " added="true">
+            <marc:subfield code="a">text</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="440" ind1=" " ind2="3">
             <marc:subfield code="a">El libro de bolsillo.</marc:subfield>
@@ -11871,7 +11849,6 @@
         </marc:datafield>
         <marc:datafield tag="041" ind1="1" ind2=" ">
             <marc:subfield code="a">spa</marc:subfield>
-            <marc:subfield code="a">eng</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="080" ind1=" " ind2=" ">
             <marc:subfield code="a">820-31"19"</marc:subfield>
@@ -11900,6 +11877,9 @@
         <marc:datafield tag="300" ind1=" " ind2=" ">
             <marc:subfield code="a">328 p.</marc:subfield>
             <marc:subfield code="c">20 cm</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" " added="true">
+            <marc:subfield code="a">text</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="490" ind1="0" ind2=" ">
             <marc:subfield code="a">Los Premios Nobel</marc:subfield>
@@ -11953,7 +11933,7 @@
         </marc:datafield>
         <marc:datafield tag="240" ind1="1" ind2="0">
             <marc:subfield code="a">Lord of the flies</marc:subfield>
-            <marc:subfield code="l">Español</marc:subfield>
+            <marc:subfield code="l">spa</marc:subfield>
             <marc:subfield code="1w">http://viaf.org/viaf/119144648592107423604</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="245" ind1="1" ind2="3">
@@ -11969,6 +11949,9 @@
         <marc:datafield tag="300" ind1=" " ind2=" ">
             <marc:subfield code="a">341 p.</marc:subfield>
             <marc:subfield code="c">19 cm</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" " added="true">
+            <marc:subfield code="a">text</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="490" ind1="1" ind2=" ">
             <marc:subfield code="a">El libro de bolsillo</marc:subfield>
@@ -12017,7 +12000,8 @@
         </marc:datafield>
         <marc:datafield tag="130" ind1="0" ind2=" ">
             <marc:subfield code="a">Lord of the flies</marc:subfield>
-            <marc:subfield code="l">Español</marc:subfield>
+            <marc:subfield code="l">spa</marc:subfield>
+            <marc:subfield code="1w">https://www.imdb.com/title/tt0100054/</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="245" ind1="1" ind2="3">
             <marc:subfield code="a">El señor de las moscas</marc:subfield>
@@ -12034,6 +12018,18 @@
             <marc:subfield code="a">1 videocasete (VHS) (90 min)</marc:subfield>
             <marc:subfield code="b">son., col.</marc:subfield>
         </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" ">
+            <marc:subfield code="a">moving image</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="337" ind1=" " ind2=" ">
+            <marc:subfield code="a">video</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="338" ind1=" " ind2=" ">
+            <marc:subfield code="a">VHS</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="380" ind1=" " ind2=" ">
+            <marc:subfield code="a">movie</marc:subfield>
+        </marc:datafield> 
         <marc:datafield tag="500" ind1=" " ind2=" ">
             <marc:subfield code="a">Basada en la novelar de Sir William Golding</marc:subfield>
         </marc:datafield>
@@ -12142,7 +12138,8 @@
         </marc:datafield>
         <marc:datafield tag="130" ind1="0" ind2=" ">
             <marc:subfield code="a">Lord of the flies</marc:subfield>
-            <marc:subfield code="l">Español</marc:subfield>
+            <marc:subfield code="l">spa</marc:subfield>
+            <marc:subfield code="1w">https://www.imdb.com/title/tt0100054/</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="245" ind1="1" ind2="3">
             <marc:subfield code="a">El señor de las moscas</marc:subfield>
@@ -12159,6 +12156,18 @@
             <marc:subfield code="a">1 videocasete (VHS) (90 min)</marc:subfield>
             <marc:subfield code="b">son., col.</marc:subfield>
         </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" ">
+            <marc:subfield code="a">moving image</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="337" ind1=" " ind2=" ">
+            <marc:subfield code="a">video</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="338" ind1=" " ind2=" ">
+            <marc:subfield code="a">VHS</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="380" ind1=" " ind2=" ">
+            <marc:subfield code="a">movie</marc:subfield>
+        </marc:datafield> 
         <marc:datafield tag="500" ind1=" " ind2=" ">
             <marc:subfield code="a">Basada en la novelar de Sir William Golding</marc:subfield>
         </marc:datafield>
@@ -12264,7 +12273,8 @@
         </marc:datafield>
         <marc:datafield tag="130" ind1="0" ind2=" ">
             <marc:subfield code="a">Lord of the flies</marc:subfield>
-            <marc:subfield code="l">Español</marc:subfield>
+            <marc:subfield code="l">spa</marc:subfield>
+            <marc:subfield code="1w">https://www.imdb.com/title/tt0100054/</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="245" ind1="1" ind2="3">
             <marc:subfield code="a">El señor de las moscas</marc:subfield>
@@ -12281,6 +12291,18 @@
             <marc:subfield code="a">1 videocasete (VHS) (91 min)</marc:subfield>
             <marc:subfield code="b">son., col.</marc:subfield>
         </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" ">
+            <marc:subfield code="a">moving image</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="337" ind1=" " ind2=" ">
+            <marc:subfield code="a">video</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="338" ind1=" " ind2=" ">
+            <marc:subfield code="a">VHS</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="380" ind1=" " ind2=" ">
+            <marc:subfield code="a">movie</marc:subfield>
+        </marc:datafield> 
         <marc:datafield tag="500" ind1=" " ind2=" ">
             <marc:subfield code="a">Basada en la novela de Sir William Golding</marc:subfield>
         </marc:datafield>
@@ -12396,7 +12418,7 @@
         </marc:datafield>
         <marc:datafield tag="240" ind1="1" ind2="0">
             <marc:subfield code="a">Lord of the flies</marc:subfield>
-            <marc:subfield code="l">Español</marc:subfield>
+            <marc:subfield code="l">spa</marc:subfield>
             <marc:subfield code="1w">http://viaf.org/viaf/119144648592107423604</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="245" ind1="1" ind2="3">
@@ -12415,6 +12437,9 @@
         <marc:datafield tag="300" ind1=" " ind2=" ">
             <marc:subfield code="a">237 p.</marc:subfield>
             <marc:subfield code="c">18 cm</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" " added="true">
+            <marc:subfield code="a">text</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="490" ind1="0" ind2=" ">
             <marc:subfield code="a">El Libro de bolsillo : Sección Literatura</marc:subfield>
@@ -12470,7 +12495,7 @@
         </marc:datafield>
         <marc:datafield tag="240" ind1="1" ind2="4">
             <marc:subfield code="a">The paper men</marc:subfield>
-            <marc:subfield code="l">Español</marc:subfield>
+            <marc:subfield code="l">spa</marc:subfield>
             <marc:subfield code="1w">http://viaf.org/viaf/188302088</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="245" ind1="1" ind2="4">
@@ -12487,7 +12512,7 @@
             <marc:subfield code="c">18 cm</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="336" ind1=" " ind2=" ">
-            <marc:subfield code="a">Texto (visual)</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="2">isbdcontent</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="337" ind1=" " ind2=" ">
@@ -12554,7 +12579,7 @@
         </marc:datafield>
         <marc:datafield tag="240" ind1="1" ind2="0">
             <marc:subfield code="a">Lord of the flies</marc:subfield>
-            <marc:subfield code="l">Español</marc:subfield>
+            <marc:subfield code="l">spa</marc:subfield>
             <marc:subfield code="1w">http://viaf.org/viaf/119144648592107423604</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="245" ind1="1" ind2="3">
@@ -12570,6 +12595,9 @@
         <marc:datafield tag="300" ind1=" " ind2=" ">
             <marc:subfield code="a">249 p.</marc:subfield>
             <marc:subfield code="c">18 cm</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" " added="true">
+            <marc:subfield code="a">text</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="440" ind1=" " ind2="3">
             <marc:subfield code="a">El libro de bolsillo.</marc:subfield>
@@ -12612,7 +12640,7 @@
         </marc:datafield>
         <marc:datafield tag="240" ind1="1" ind2="0">
             <marc:subfield code="a">Lord of the flies</marc:subfield>
-            <marc:subfield code="l">Español</marc:subfield>
+            <marc:subfield code="l">spa</marc:subfield>
             <marc:subfield code="1w">http://viaf.org/viaf/119144648592107423604</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="245" ind1="1" ind2="3">
@@ -12628,6 +12656,9 @@
         <marc:datafield tag="300" ind1=" " ind2=" ">
             <marc:subfield code="a">249 p.</marc:subfield>
             <marc:subfield code="c">21 cm</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" " added="true">
+            <marc:subfield code="a">text</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="440" ind1=" " ind2="0">
             <marc:subfield code="a">Ganadores del premio Nobel</marc:subfield>
@@ -12695,6 +12726,9 @@
             <marc:subfield code="a">329 p.</marc:subfield>
             <marc:subfield code="c">21 cm</marc:subfield>
         </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" " added="true">
+            <marc:subfield code="a">text</marc:subfield>
+        </marc:datafield>
         <marc:datafield tag="490" ind1="0" ind2=" ">
             <marc:subfield code="a">Los Premios Nobel</marc:subfield>
         </marc:datafield>
@@ -12745,7 +12779,7 @@
         </marc:datafield>
         <marc:datafield tag="240" ind1="1" ind2="0">
             <marc:subfield code="a">Lord of the flies</marc:subfield>
-            <marc:subfield code="l">Español</marc:subfield>
+            <marc:subfield code="l">spa</marc:subfield>
             <marc:subfield code="1w">http://viaf.org/viaf/119144648592107423604</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="245" ind1="1" ind2="3">
@@ -12764,6 +12798,9 @@
         <marc:datafield tag="300" ind1=" " ind2=" ">
             <marc:subfield code="a">239 p.</marc:subfield>
             <marc:subfield code="c">18 cm</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" " added="true">
+            <marc:subfield code="a">text</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="490" ind1="0" ind2=" ">
             <marc:subfield code="a">El libro de bolsillo</marc:subfield>
@@ -12840,6 +12877,9 @@
             <marc:subfield code="a">206 p.</marc:subfield>
             <marc:subfield code="c">24 cm</marc:subfield>
         </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" " added="true">
+            <marc:subfield code="a">text</marc:subfield>
+        </marc:datafield>
         <marc:datafield tag="490" ind1="0" ind2=" ">
             <marc:subfield code="a">Narrativas/Edhasa</marc:subfield>
         </marc:datafield>
@@ -12883,6 +12923,10 @@
             <marc:subfield code="a">Peña Benítez, Patricia</marc:subfield>
             <marc:subfield code="1p">peabentezpatricia</marc:subfield>
         </marc:datafield>
+        <marc:datafield tag="240" ind1="1" ind2="0">
+            <marc:subfield code="a">Artículo de opinión "The lord of the flies"</marc:subfield>
+            <marc:subfield code="1w">peabentezpatricia/artculodeopininthelordoftheflies</marc:subfield>
+        </marc:datafield>
         <marc:datafield tag="245" ind1="1" ind2="0">
             <marc:subfield code="a">Artículo de opinión</marc:subfield>
             <marc:subfield code="h">[Recurso electrónico] :</marc:subfield>
@@ -12899,6 +12943,15 @@
             <marc:subfield code="b">col.</marc:subfield>
             <marc:subfield code="c">12 cm</marc:subfield>
         </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" ">
+            <marc:subfield code="a">text</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="338" ind1=" " ind2=" ">
+            <marc:subfield code="a">CD</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" ">
+            <marc:subfield code="a">text</marc:subfield>
+        </marc:datafield>
         <marc:datafield tag="538" ind1=" " ind2=" ">
             <marc:subfield code="a">Requisitos del sistema: Adobe Acrobat Reader</marc:subfield>
         </marc:datafield>
@@ -12909,7 +12962,7 @@
             <marc:subfield code="a">Golding, William</marc:subfield>
             <marc:subfield code="d">1911-1993</marc:subfield>
             <marc:subfield code="t">Lord of the flies</marc:subfield>
-            <marc:subfield code="2">embne</marc:subfield>
+            <marc:subfield code="2">emne</marc:subfield>
             <marc:subfield code="1p">http://viaf.org/viaf/89500102</marc:subfield>
             <marc:subfield code="1w">http://viaf.org/viaf/119144648592107423604</marc:subfield>
         </marc:datafield>
@@ -12954,7 +13007,7 @@
         </marc:datafield>
         <marc:datafield tag="240" ind1="1" ind2="0">
             <marc:subfield code="a">Lord of the flies</marc:subfield>
-            <marc:subfield code="l">Español</marc:subfield>
+            <marc:subfield code="l">spa</marc:subfield>
             <marc:subfield code="1w">http://viaf.org/viaf/119144648592107423604</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="245" ind1="1" ind2="3">
@@ -12973,6 +13026,9 @@
         <marc:datafield tag="300" ind1=" " ind2=" ">
             <marc:subfield code="a">249 p.</marc:subfield>
             <marc:subfield code="c">18 cm</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" " added="true">
+            <marc:subfield code="a">text</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="440" ind1=" " ind2="3">
             <marc:subfield code="a">El libro de bolsillo.</marc:subfield>
@@ -13023,7 +13079,7 @@
         </marc:datafield>
         <marc:datafield tag="240" ind1="1" ind2="4">
             <marc:subfield code="a">The spire</marc:subfield>
-            <marc:subfield code="l">Español</marc:subfield>
+            <marc:subfield code="l">spa</marc:subfield>
             <marc:subfield code="1w">http://viaf.org/viaf/178994871</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="245" ind1="1" ind2="3">
@@ -13038,6 +13094,9 @@
         <marc:datafield tag="300" ind1=" " ind2=" ">
             <marc:subfield code="a">246 p.</marc:subfield>
             <marc:subfield code="c">21 cm</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" ">
+            <marc:subfield code="a">text</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="440" ind1=" " ind2="0">
             <marc:subfield code="a">Maestros de la literatura contemporánea</marc:subfield>
@@ -13086,7 +13145,7 @@
         </marc:datafield>
         <marc:datafield tag="240" ind1="1" ind2="0">
             <marc:subfield code="a">Lord of the flies</marc:subfield>
-            <marc:subfield code="l">Español</marc:subfield>
+            <marc:subfield code="l">spa</marc:subfield>
             <marc:subfield code="1w">http://viaf.org/viaf/119144648592107423604</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="245" ind1="1" ind2="3">
@@ -13105,6 +13164,9 @@
         <marc:datafield tag="300" ind1=" " ind2=" ">
             <marc:subfield code="a">284 p.</marc:subfield>
             <marc:subfield code="c">20 cm</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" " added="true">
+            <marc:subfield code="a">text</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="594" ind1=" " ind2=" ">
             <marc:subfield code="a">Título original: Lord of the flies</marc:subfield>
@@ -13149,7 +13211,7 @@
         </marc:datafield>
         <marc:datafield tag="243" ind1="1" ind2="0">
             <marc:subfield code="a">Cuentos</marc:subfield>
-            <marc:subfield code="l">Español</marc:subfield>
+            <marc:subfield code="l">spa</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="240" ind1="1" ind2="0">
             <marc:subfield code="a">The Scorpion God</marc:subfield>
@@ -13175,7 +13237,7 @@
             <marc:subfield code="c">18 cm</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="336" ind1=" " ind2=" ">
-            <marc:subfield code="a">Texto (visual)</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="2">isbdcontent</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="337" ind1=" " ind2=" ">
@@ -13268,6 +13330,9 @@
             <marc:subfield code="a">189 p.</marc:subfield>
             <marc:subfield code="c">18 cm</marc:subfield>
         </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" " added="true">
+            <marc:subfield code="a">text</marc:subfield>
+        </marc:datafield>
         <marc:datafield tag="490" ind1="0" ind2=" ">
             <marc:subfield code="a">Biblioteca fundamental de nuestro tiempo ;13. Sección Literatura</marc:subfield>
         </marc:datafield>
@@ -13324,7 +13389,7 @@
         </marc:datafield>
         <marc:datafield tag="240" ind1="1" ind2="0">
             <marc:subfield code="a">Lord of the flies</marc:subfield>
-            <marc:subfield code="l">Español</marc:subfield>
+            <marc:subfield code="l">spa</marc:subfield>
             <marc:subfield code="1w">http://viaf.org/viaf/119144648592107423604</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="245" ind1="1" ind2="3">
@@ -13340,6 +13405,9 @@
         <marc:datafield tag="300" ind1=" " ind2=" ">
             <marc:subfield code="a">198 p.</marc:subfield>
             <marc:subfield code="c">21 cm</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" " added="true">
+            <marc:subfield code="a">text</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="440" ind1=" " ind2="0">
             <marc:subfield code="a">Millenium.</marc:subfield>
@@ -13415,6 +13483,9 @@
             <marc:subfield code="a">259 p.</marc:subfield>
             <marc:subfield code="c">18 cm</marc:subfield>
         </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" " added="true">
+            <marc:subfield code="a">text</marc:subfield>
+        </marc:datafield>
         <marc:datafield tag="490" ind1="0" ind2=" ">
             <marc:subfield code="a">Palabra en el tiempo ; Serie Novela</marc:subfield>
         </marc:datafield>
@@ -13483,6 +13554,9 @@
         <marc:datafield tag="300" ind1=" " ind2=" ">
             <marc:subfield code="a">329 p.</marc:subfield>
             <marc:subfield code="c">20 cm</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" " added="true">
+            <marc:subfield code="a">text</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="440" ind1=" " ind2="0">
             <marc:subfield code="a">Alianza tres</marc:subfield>
@@ -13554,6 +13628,9 @@
         <marc:datafield tag="300" ind1=" " ind2=" ">
             <marc:subfield code="a">249 p.</marc:subfield>
             <marc:subfield code="c">18 cm</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" " added="true">
+            <marc:subfield code="a">text</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="490" ind1="0" ind2=" ">
             <marc:subfield code="a">Novelas y cuentos</marc:subfield>
@@ -13628,6 +13705,9 @@
             <marc:subfield code="a">189 p.</marc:subfield>
             <marc:subfield code="c">19 cm</marc:subfield>
         </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" " added="true">
+            <marc:subfield code="a">text</marc:subfield>
+        </marc:datafield>
         <marc:datafield tag="490" ind1="0" ind2=" ">
             <marc:subfield code="a">Biblioteca fundamental de nuestro tiempo ;13. Sección literatura</marc:subfield>
         </marc:datafield>
@@ -13694,6 +13774,9 @@
         <marc:datafield tag="300" ind1=" " ind2=" ">
             <marc:subfield code="a">259 p.</marc:subfield>
             <marc:subfield code="c">19 cm</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" " added="true">
+            <marc:subfield code="a">text</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="490" ind1="0" ind2=" ">
             <marc:subfield code="a">Palabra en el Tiempo</marc:subfield>
@@ -13765,6 +13848,9 @@
             <marc:subfield code="a">329 p.</marc:subfield>
             <marc:subfield code="c">21 cm</marc:subfield>
         </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" " added="true">
+            <marc:subfield code="a">text</marc:subfield>
+        </marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Golygorsky, Eduardo</marc:subfield>
             <marc:subfield code="1p">golygorskyeduardo</marc:subfield>
@@ -13804,7 +13890,7 @@
         </marc:datafield>
         <marc:datafield tag="240" ind1="1" ind2="0">
             <marc:subfield code="a">Lord of the flies</marc:subfield>
-            <marc:subfield code="l">Español</marc:subfield>
+            <marc:subfield code="l">spa</marc:subfield>
             <marc:subfield code="1w">http://viaf.org/viaf/119144648592107423604</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="245" ind1="1" ind2="3">
@@ -13820,6 +13906,9 @@
         <marc:datafield tag="300" ind1=" " ind2=" ">
             <marc:subfield code="a">239 p.</marc:subfield>
             <marc:subfield code="c">18 cm</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" " added="true">
+            <marc:subfield code="a">text</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="490" ind1="0" ind2=" ">
             <marc:subfield code="a">El libro de Bolsillo. Sección: Literatura</marc:subfield>
@@ -13866,7 +13955,7 @@
         </marc:datafield>
         <marc:datafield tag="240" ind1="1" ind2="0">
             <marc:subfield code="a">Lord of the flies</marc:subfield>
-            <marc:subfield code="l">Español</marc:subfield>
+            <marc:subfield code="l">spa</marc:subfield>
             <marc:subfield code="1w">http://viaf.org/viaf/119144648592107423604</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="245" ind1="1" ind2="3">
@@ -13885,6 +13974,9 @@
         <marc:datafield tag="300" ind1=" " ind2=" ">
             <marc:subfield code="a">239 p.</marc:subfield>
             <marc:subfield code="c">18 cm</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" ">
+            <marc:subfield code="a">text</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="490" ind1="0" ind2=" ">
             <marc:subfield code="a">El libro de bolsillo: sección literatura</marc:subfield>
@@ -13936,7 +14028,7 @@
         </marc:datafield>
         <marc:datafield tag="240" ind1="1" ind2="0">
             <marc:subfield code="a">Lord of the flies</marc:subfield>
-            <marc:subfield code="l">Español</marc:subfield>
+            <marc:subfield code="l">spa</marc:subfield>
             <marc:subfield code="1w">http://viaf.org/viaf/119144648592107423604</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="245" ind1="1" ind2="3">
@@ -13955,6 +14047,9 @@
         <marc:datafield tag="300" ind1=" " ind2=" ">
             <marc:subfield code="a">239 p.</marc:subfield>
             <marc:subfield code="c">18 cm</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" " added="true">
+            <marc:subfield code="a">text</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="490" ind1="0" ind2=" ">
             <marc:subfield code="a">El Libro de Bolsillo</marc:subfield>
@@ -14027,6 +14122,9 @@
             <marc:subfield code="a">278 p.</marc:subfield>
             <marc:subfield code="c">20 cm</marc:subfield>
         </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" " added="true">
+            <marc:subfield code="a">text</marc:subfield>
+        </marc:datafield>
         <marc:datafield tag="490" ind1="0" ind2=" ">
             <marc:subfield code="a">Alianza Tres</marc:subfield>
             <marc:subfield code="v">96</marc:subfield>
@@ -14076,7 +14174,7 @@
         </marc:datafield>
         <marc:datafield tag="240" ind1="1" ind2="0">
             <marc:subfield code="a">Fire down below</marc:subfield>
-            <marc:subfield code="l">Español</marc:subfield>
+            <marc:subfield code="l">spa</marc:subfield>
             <marc:subfield code="1w">http://viaf.org/viaf/174553895</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="245" ind1="1" ind2="0">
@@ -14095,6 +14193,9 @@
         <marc:datafield tag="300" ind1=" " ind2=" ">
             <marc:subfield code="a">352 p.</marc:subfield>
             <marc:subfield code="c">18 cm</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" " added="true">
+            <marc:subfield code="a">text</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="490" ind1="0" ind2=" ">
             <marc:subfield code="a">Golding</marc:subfield>
@@ -14175,6 +14276,9 @@
             <marc:subfield code="a">329 p.</marc:subfield>
             <marc:subfield code="c">21 cm</marc:subfield>
         </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" " added="true">
+            <marc:subfield code="a">text</marc:subfield>
+        </marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Golygorsky, Eduardo</marc:subfield>
             <marc:subfield code="1p">golygorskyeduardo</marc:subfield>
@@ -14221,7 +14325,7 @@
         </marc:datafield>
         <marc:datafield tag="240" ind1="1" ind2="4">
             <marc:subfield code="a">The inheritors</marc:subfield>
-            <marc:subfield code="l">Español</marc:subfield>
+            <marc:subfield code="l">spa</marc:subfield>
             <marc:subfield code="1w">http://viaf.org/viaf/217036112</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="245" ind1="1" ind2="4">
@@ -14240,6 +14344,9 @@
         <marc:datafield tag="300" ind1=" " ind2=" ">
             <marc:subfield code="a">238 p.</marc:subfield>
             <marc:subfield code="c">21 cm</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" " added="true">
+            <marc:subfield code="a">text</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="594" ind1=" " ind2=" ">
             <marc:subfield code="a">Traducción de : The inheritors</marc:subfield>
@@ -14291,7 +14398,7 @@
         </marc:datafield>
         <marc:datafield tag="240" ind1="1" ind2="0">
             <marc:subfield code="a">Lord of the flies</marc:subfield>
-            <marc:subfield code="l">Español</marc:subfield>
+            <marc:subfield code="l">spa</marc:subfield>
             <marc:subfield code="1w">http://viaf.org/viaf/119144648592107423604</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="245" ind1="1" ind2="3">
@@ -14307,6 +14414,9 @@
         <marc:datafield tag="300" ind1=" " ind2=" ">
             <marc:subfield code="a">311 p.</marc:subfield>
             <marc:subfield code="c">20 cm</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" " added="true">
+            <marc:subfield code="a">text</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="440" ind1=" " ind2="0">
             <marc:subfield code="a">Narrativas contemporáneas</marc:subfield>
@@ -14356,7 +14466,7 @@
         </marc:datafield>
         <marc:datafield tag="240" ind1="1" ind2="0">
             <marc:subfield code="a">Lord of the flies</marc:subfield>
-            <marc:subfield code="l">Español</marc:subfield>
+            <marc:subfield code="l">spa</marc:subfield>
             <marc:subfield code="1w">http://viaf.org/viaf/119144648592107423604</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="245" ind1="1" ind2="3">
@@ -14372,6 +14482,9 @@
         <marc:datafield tag="300" ind1=" " ind2=" ">
             <marc:subfield code="a">253 p.</marc:subfield>
             <marc:subfield code="c">21 cm</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" " added="true">
+            <marc:subfield code="a">text</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Vergara, Carmen</marc:subfield>
@@ -14420,7 +14533,7 @@
         </marc:datafield>
         <marc:datafield tag="240" ind1="1" ind2="0">
             <marc:subfield code="a">Lord of the flies</marc:subfield>
-            <marc:subfield code="l">Español</marc:subfield>
+            <marc:subfield code="l">spa</marc:subfield>
             <marc:subfield code="1w">http://viaf.org/viaf/119144648592107423604</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="245" ind1="1" ind2="3">
@@ -14439,6 +14552,9 @@
         <marc:datafield tag="300" ind1=" " ind2=" ">
             <marc:subfield code="a">239 p.</marc:subfield>
             <marc:subfield code="c">18 cm</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" " added="true">
+            <marc:subfield code="a">text</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="490" ind1="0" ind2=" ">
             <marc:subfield code="a">El Libro de bolsillo</marc:subfield>
@@ -14513,6 +14629,9 @@
             <marc:subfield code="b">map.</marc:subfield>
             <marc:subfield code="c">21 cm</marc:subfield>
         </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" " added="true">
+            <marc:subfield code="a">text</marc:subfield>
+        </marc:datafield>
         <marc:datafield tag="440" ind1=" " ind2="0">
             <marc:subfield code="a">Avatares</marc:subfield>
             <marc:subfield code="v">1</marc:subfield>
@@ -14571,7 +14690,7 @@
         </marc:datafield>
         <marc:datafield tag="240" ind1="1" ind2="4">
             <marc:subfield code="a">The brass butterfly</marc:subfield>
-            <marc:subfield code="l">Español</marc:subfield>
+            <marc:subfield code="l">spa</marc:subfield>
             <marc:subfield code="1w">http://oslomet.workid.no/wg/05</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="245" ind1="1" ind2="3">
@@ -14591,6 +14710,9 @@
         <marc:datafield tag="300" ind1=" " ind2=" ">
             <marc:subfield code="a">159 p.</marc:subfield>
             <marc:subfield code="c">18 cm</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" " added="true">
+            <marc:subfield code="a">text</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="490" ind1="1" ind2=" ">
             <marc:subfield code="a">Letras universales</marc:subfield>
@@ -14657,7 +14779,7 @@
         </marc:datafield>
         <marc:datafield tag="240" ind1="1" ind2="0">
             <marc:subfield code="a">Lord of the flies</marc:subfield>
-            <marc:subfield code="l">Español</marc:subfield>
+            <marc:subfield code="l">spa</marc:subfield>
             <marc:subfield code="1w">http://viaf.org/viaf/119144648592107423604</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="245" ind1="1" ind2="3">
@@ -14679,7 +14801,7 @@
             <marc:subfield code="c">25 cm</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="336" ind1=" " ind2=" ">
-            <marc:subfield code="a">Texto (visual)</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="2">isbdcontent</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="337" ind1=" " ind2=" ">
@@ -14758,6 +14880,9 @@
             <marc:subfield code="a">257 p.</marc:subfield>
             <marc:subfield code="c">20 cm</marc:subfield>
         </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" " added="true">
+            <marc:subfield code="a">text</marc:subfield>
+        </marc:datafield>
         <marc:datafield tag="440" ind1=" " ind2="0">
             <marc:subfield code="a">Alianza tres</marc:subfield>
             <marc:subfield code="v">174</marc:subfield>
@@ -14830,6 +14955,9 @@
             <marc:subfield code="a">328 p.</marc:subfield>
             <marc:subfield code="c">20 cm</marc:subfield>
         </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" " added="true">
+            <marc:subfield code="a">text</marc:subfield>
+        </marc:datafield>
         <marc:datafield tag="490" ind1="0" ind2=" ">
             <marc:subfield code="a">Los premios Nobel</marc:subfield>
             <marc:subfield code="v">65</marc:subfield>
@@ -14880,7 +15008,7 @@
         </marc:datafield>
         <marc:datafield tag="240" ind1="1" ind2="0">
             <marc:subfield code="a">Lord of the flies</marc:subfield>
-            <marc:subfield code="l">Español</marc:subfield>
+            <marc:subfield code="l">spa</marc:subfield>
             <marc:subfield code="1w">http://viaf.org/viaf/119144648592107423604</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="245" ind1="1" ind2="3">
@@ -14899,6 +15027,9 @@
         <marc:datafield tag="300" ind1=" " ind2=" ">
             <marc:subfield code="a">286 p.</marc:subfield>
             <marc:subfield code="c">18 cm</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" " added="true">
+            <marc:subfield code="a">text</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="490" ind1="0" ind2=" ">
             <marc:subfield code="a">Golding</marc:subfield>
@@ -14960,7 +15091,7 @@
         </marc:datafield>
         <marc:datafield tag="240" ind1="1" ind2="4">
             <marc:subfield code="a">The double tongue</marc:subfield>
-            <marc:subfield code="l">Español</marc:subfield>
+            <marc:subfield code="l">spa</marc:subfield>
             <marc:subfield code="1w">http://viaf.org/viaf/1180145424574586830081</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="245" ind1="1" ind2="3">
@@ -14975,6 +15106,9 @@
         <marc:datafield tag="300" ind1=" " ind2=" ">
             <marc:subfield code="a">169 p.</marc:subfield>
             <marc:subfield code="c">20 cm</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" ">
+            <marc:subfield code="a">text</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="440" ind1=" " ind2="0">
             <marc:subfield code="a">Alianza tres</marc:subfield>
@@ -15024,7 +15158,7 @@
         </marc:datafield>
         <marc:datafield tag="240" ind1="1" ind2="0">
             <marc:subfield code="a">Lord of the flies</marc:subfield>
-            <marc:subfield code="l">Español</marc:subfield>
+            <marc:subfield code="l">spa</marc:subfield>
             <marc:subfield code="1w">http://viaf.org/viaf/119144648592107423604</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="245" ind1="1" ind2="3">
@@ -15040,6 +15174,9 @@
         <marc:datafield tag="300" ind1=" " ind2=" ">
             <marc:subfield code="a">198 p.</marc:subfield>
             <marc:subfield code="c">21 cm</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" " added="true">
+            <marc:subfield code="a">text</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="440" ind1=" " ind2="4">
             <marc:subfield code="a">Las joyas del milenio</marc:subfield>
@@ -15092,7 +15229,7 @@
         </marc:datafield>
         <marc:datafield tag="240" ind1="1" ind2="0">
             <marc:subfield code="a">Lord of the flies</marc:subfield>
-            <marc:subfield code="l">Español</marc:subfield>
+            <marc:subfield code="l">spa</marc:subfield>
             <marc:subfield code="1w">http://viaf.org/viaf/119144648592107423604</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="245" ind1="1" ind2="3">
@@ -15109,6 +15246,9 @@
             <marc:subfield code="a">253 p.</marc:subfield>
             <marc:subfield code="c">22 cm</marc:subfield>
         </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" " added="true">
+            <marc:subfield code="a">text</marc:subfield>
+        </marc:datafield>
         <marc:datafield tag="500" ind1=" " ind2=" ">
             <marc:subfield code="a">Traducción de: Lord of the flies</marc:subfield>
         </marc:datafield>
@@ -15116,7 +15256,7 @@
             <marc:subfield code="a">Salvador, Tomás</marc:subfield>
             <marc:subfield code="d">1921-1984</marc:subfield>
             <marc:subfield code="1p">salvadortoms</marc:subfield>
-            <marc:subfield code="4">pre</marc:subfield>
+            <marc:subfield code="4">aui</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Vergara, Carmen</marc:subfield>
@@ -15164,7 +15304,7 @@
         </marc:datafield>
         <marc:datafield tag="240" ind1="1" ind2="0">
             <marc:subfield code="a">Lord of the flies</marc:subfield>
-            <marc:subfield code="l">Español</marc:subfield>
+            <marc:subfield code="l">spa</marc:subfield>
             <marc:subfield code="1w">http://viaf.org/viaf/119144648592107423604</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="245" ind1="1" ind2="3">
@@ -15180,6 +15320,9 @@
         <marc:datafield tag="300" ind1=" " ind2=" ">
             <marc:subfield code="a">198 p.</marc:subfield>
             <marc:subfield code="c">22 cm</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" " added="true">
+            <marc:subfield code="a">text</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="594" ind1=" " ind2=" ">
             <marc:subfield code="a">Traducción de: Lord of the flies</marc:subfield>
@@ -15225,7 +15368,7 @@
         </marc:datafield>
         <marc:datafield tag="240" ind1="1" ind2="4">
             <marc:subfield code="a">The spire</marc:subfield>
-            <marc:subfield code="l">Español</marc:subfield>
+            <marc:subfield code="l">spa</marc:subfield>
             <marc:subfield code="1w">http://viaf.org/viaf/178994871</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="245" ind1="1" ind2="3">
@@ -15244,6 +15387,9 @@
         <marc:datafield tag="300" ind1=" " ind2=" ">
             <marc:subfield code="a">254 p.</marc:subfield>
             <marc:subfield code="c">23 cm</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" " added="true">
+            <marc:subfield code="a">text</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="440" ind1=" " ind2="0">
             <marc:subfield code="a">Biblioteca Formentor</marc:subfield>
@@ -15292,7 +15438,7 @@
         </marc:datafield>
         <marc:datafield tag="240" ind1="1" ind2="0">
             <marc:subfield code="a">Lord of the flies</marc:subfield>
-            <marc:subfield code="l">Español</marc:subfield>
+            <marc:subfield code="l">spa</marc:subfield>
             <marc:subfield code="1w">http://viaf.org/viaf/119144648592107423604</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="245" ind1="1" ind2="3">
@@ -15311,6 +15457,9 @@
         <marc:datafield tag="300" ind1=" " ind2=" ">
             <marc:subfield code="a">237 p.</marc:subfield>
             <marc:subfield code="c">18 cm</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" " added="true">
+            <marc:subfield code="a">text</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="490" ind1="1" ind2=" ">
             <marc:subfield code="a">El libro de bolsillo</marc:subfield>
@@ -15374,7 +15523,7 @@
         </marc:datafield>
         <marc:datafield tag="240" ind1="1" ind2="0">
             <marc:subfield code="a">Lord of the flies</marc:subfield>
-            <marc:subfield code="l">Español</marc:subfield>
+            <marc:subfield code="l">spa</marc:subfield>
             <marc:subfield code="1w">http://viaf.org/viaf/119144648592107423604</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="245" ind1="1" ind2="3">
@@ -15393,6 +15542,9 @@
         <marc:datafield tag="300" ind1=" " ind2=" ">
             <marc:subfield code="a">278 p.</marc:subfield>
             <marc:subfield code="c">21 cm</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" " added="true">
+            <marc:subfield code="a">text</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="440" ind1=" " ind2="0">
             <marc:subfield code="a">Narrativas contemporáneas</marc:subfield>
@@ -15446,7 +15598,7 @@
         </marc:datafield>
         <marc:datafield tag="240" ind1="1" ind2="0">
             <marc:subfield code="a">Close quarters</marc:subfield>
-            <marc:subfield code="l">Español</marc:subfield>
+            <marc:subfield code="l">spa</marc:subfield>
             <marc:subfield code="1w">http://viaf.org/viaf/187146251</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="245" ind1="1" ind2="0">
@@ -15465,6 +15617,9 @@
         <marc:datafield tag="300" ind1=" " ind2=" ">
             <marc:subfield code="a">310 p.</marc:subfield>
             <marc:subfield code="c">18 cm</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" " added="true">
+            <marc:subfield code="a">text</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="490" ind1="0" ind2=" ">
             <marc:subfield code="a">Golding</marc:subfield>
@@ -15526,7 +15681,7 @@
         </marc:datafield>
         <marc:datafield tag="240" ind1="1" ind2="0">
             <marc:subfield code="a">Fire down below</marc:subfield>
-            <marc:subfield code="l">Español</marc:subfield>
+            <marc:subfield code="l">spa</marc:subfield>
             <marc:subfield code="1w">http://viaf.org/viaf/174553895</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="245" ind1="1" ind2=" ">
@@ -15542,6 +15697,9 @@
         <marc:datafield tag="300" ind1=" " ind2=" ">
             <marc:subfield code="a">291 p.</marc:subfield>
             <marc:subfield code="c">20 cm</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" " added="true">
+            <marc:subfield code="a">text</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="440" ind1=" " ind2="0">
             <marc:subfield code="a">Alianza tres</marc:subfield>
@@ -15596,7 +15754,7 @@
         </marc:datafield>
         <marc:datafield tag="240" ind1="1" ind2="0">
             <marc:subfield code="a">Lord of the flies</marc:subfield>
-            <marc:subfield code="l">Español</marc:subfield>
+            <marc:subfield code="l">spa</marc:subfield>
             <marc:subfield code="1w">http://viaf.org/viaf/119144648592107423604</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="245" ind1="1" ind2="3">
@@ -15615,6 +15773,9 @@
         <marc:datafield tag="300" ind1=" " ind2=" ">
             <marc:subfield code="a">284 p.</marc:subfield>
             <marc:subfield code="c">24 cm</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" " added="true">
+            <marc:subfield code="a">text</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="594" ind1=" " ind2=" ">
             <marc:subfield code="a">Traducción de: Lord of the flies</marc:subfield>
@@ -15654,6 +15815,7 @@
         </marc:datafield>
         <marc:datafield tag="130" ind1="0" ind2=" ">
             <marc:subfield code="a">Lord of the flies (Peter Brook)</marc:subfield>
+            <marc:subfield code="1w">https://www.imdb.com/title/tt0057261/</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="245" ind1="1" ind2="3">
             <marc:subfield code="a">El señor de las moscas</marc:subfield>
@@ -15671,6 +15833,18 @@
             <marc:subfield code="b">son., bl. y n.</marc:subfield>
             <marc:subfield code="e"> 1 libreto ([16] p.)</marc:subfield>
         </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" ">
+            <marc:subfield code="a">moving image</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="337" ind1=" " ind2=" ">
+            <marc:subfield code="a">video</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="338" ind1=" " ind2=" ">
+            <marc:subfield code="a">DVD</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="380" ind1=" " ind2=" ">
+            <marc:subfield code="a">movie</marc:subfield>
+        </marc:datafield> 
         <marc:datafield tag="490" ind1="0" ind2=" ">
             <marc:subfield code="a">Filmoteca FNAC</marc:subfield>
             <marc:subfield code="v">102</marc:subfield>
@@ -15805,7 +15979,7 @@
         </marc:datafield>
         <marc:datafield tag="240" ind1="1" ind2="0">
             <marc:subfield code="a">Lord of the flies</marc:subfield>
-            <marc:subfield code="l">Español</marc:subfield>
+            <marc:subfield code="l">spa</marc:subfield>
             <marc:subfield code="1w">http://viaf.org/viaf/119144648592107423604</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="245" ind1="1" ind2="3">
@@ -15825,6 +15999,9 @@
         <marc:datafield tag="300" ind1=" " ind2=" ">
             <marc:subfield code="a">237 p.</marc:subfield>
             <marc:subfield code="c">18 cm</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" " added="true">
+            <marc:subfield code="a">text</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="490" ind1="1" ind2=" ">
             <marc:subfield code="a">El Libro de bolsillo</marc:subfield>
@@ -15887,7 +16064,7 @@
         </marc:datafield>
         <marc:datafield tag="240" ind1="1" ind2="0">
             <marc:subfield code="a">Lord of the flies</marc:subfield>
-            <marc:subfield code="l">Español</marc:subfield>
+            <marc:subfield code="l">spa</marc:subfield>
             <marc:subfield code="1w">http://viaf.org/viaf/119144648592107423604</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="245" ind1="1" ind2="3">
@@ -15903,6 +16080,9 @@
         <marc:datafield tag="300" ind1=" " ind2=" ">
             <marc:subfield code="a">274 p.</marc:subfield>
             <marc:subfield code="c">21 cm</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" " added="true">
+            <marc:subfield code="a">text</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="440" ind1=" " ind2="0">
             <marc:subfield code="a">Onda joven.</marc:subfield>
@@ -15974,6 +16154,9 @@
         <marc:datafield tag="300" ind1=" " ind2=" ">
             <marc:subfield code="a">227 p.</marc:subfield>
             <marc:subfield code="c">20 cm</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" " added="true">
+            <marc:subfield code="a">text</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="440" ind1=" " ind2="0">
             <marc:subfield code="a">Alianza tres</marc:subfield>
@@ -16047,6 +16230,9 @@
             <marc:subfield code="a">187 p.</marc:subfield>
             <marc:subfield code="c">18 cm</marc:subfield>
         </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" " added="true">
+            <marc:subfield code="a">text</marc:subfield>
+        </marc:datafield>
         <marc:datafield tag="490" ind1="0" ind2=" ">
             <marc:subfield code="a">El Libro de bolsillo</marc:subfield>
             <marc:subfield code="v">468. Sección Literatura</marc:subfield>
@@ -16105,7 +16291,7 @@
         </marc:datafield>
         <marc:datafield tag="240" ind1="1" ind2="0">
             <marc:subfield code="a">Lord of the flies</marc:subfield>
-            <marc:subfield code="l">Español</marc:subfield>
+            <marc:subfield code="l">spa</marc:subfield>
             <marc:subfield code="1w">http://viaf.org/viaf/119144648592107423604</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="245" ind1="1" ind2="3">
@@ -16121,6 +16307,9 @@
         <marc:datafield tag="300" ind1=" " ind2=" ">
             <marc:subfield code="a">253 p.</marc:subfield>
             <marc:subfield code="c">21 cm</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" " added="true">
+            <marc:subfield code="a">text</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Vergara, Carmen</marc:subfield>
@@ -16169,7 +16358,7 @@
         </marc:datafield>
         <marc:datafield tag="240" ind1="1" ind2="0">
             <marc:subfield code="a">Lord of the flies</marc:subfield>
-            <marc:subfield code="l">Español</marc:subfield>
+            <marc:subfield code="l">spa</marc:subfield>
             <marc:subfield code="1w">http://viaf.org/viaf/119144648592107423604</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="245" ind1="1" ind2="3">
@@ -16189,6 +16378,9 @@
         <marc:datafield tag="300" ind1=" " ind2=" ">
             <marc:subfield code="a">237 p.</marc:subfield>
             <marc:subfield code="c">18 cm</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" " added="true">
+            <marc:subfield code="a">text</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="490" ind1="0" ind2=" ">
             <marc:subfield code="a">El libro de bolsillo</marc:subfield>
@@ -16261,6 +16453,9 @@
             <marc:subfield code="a">235 p.</marc:subfield>
             <marc:subfield code="c">20 cm</marc:subfield>
         </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" " added="true">
+            <marc:subfield code="a">text</marc:subfield>
+        </marc:datafield>
         <marc:datafield tag="440" ind1=" " ind2="0">
             <marc:subfield code="a">Alianza tres</marc:subfield>
             <marc:subfield code="v">243</marc:subfield>
@@ -16315,7 +16510,7 @@
         </marc:datafield>
         <marc:datafield tag="240" ind1="1" ind2="0">
             <marc:subfield code="a">Lord of the flies</marc:subfield>
-            <marc:subfield code="l">Español</marc:subfield>
+            <marc:subfield code="l">spa</marc:subfield>
             <marc:subfield code="1w">http://viaf.org/viaf/119144648592107423604</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="245" ind1="1" ind2="3">
@@ -16335,6 +16530,9 @@
             <marc:subfield code="a">253 p.</marc:subfield>
             <marc:subfield code="c">21 cm</marc:subfield>
         </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" " added="true">
+            <marc:subfield code="a">text</marc:subfield>
+        </marc:datafield>
         <marc:datafield tag="500" ind1=" " ind2=" ">
             <marc:subfield code="a">Traducción de: Lord of the flies</marc:subfield>
         </marc:datafield>
@@ -16347,7 +16545,7 @@
             <marc:subfield code="a">Salvador, Tomás</marc:subfield>
             <marc:subfield code="d">1921-1984</marc:subfield>
             <marc:subfield code="1p">salvadortoms</marc:subfield>
-            <marc:subfield code="4">pre</marc:subfield>
+            <marc:subfield code="4">aui</marc:subfield>
         </marc:datafield>
     </marc:record>
     <marc:record source="1983-BNE-UK-William-Golding.xml">
@@ -16391,7 +16589,7 @@
         </marc:datafield>
         <marc:datafield tag="240" ind1="1" ind2="0">
             <marc:subfield code="a">Lord of the flies</marc:subfield>
-            <marc:subfield code="l">Español</marc:subfield>
+            <marc:subfield code="l">spa</marc:subfield>
             <marc:subfield code="1w">http://viaf.org/viaf/119144648592107423604</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="245" ind1="1" ind2="3">
@@ -16408,11 +16606,14 @@
             <marc:subfield code="a">253 p.</marc:subfield>
             <marc:subfield code="c">22 cm</marc:subfield>
         </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" " added="true">
+            <marc:subfield code="a">text</marc:subfield>
+        </marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Salvador, Tomás</marc:subfield>
             <marc:subfield code="d">1921-1984</marc:subfield>
             <marc:subfield code="1p">salvadortoms</marc:subfield>
-            <marc:subfield code="4">pre</marc:subfield>
+            <marc:subfield code="4">aui</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="700" ind1="1" ind2=" ">
             <marc:subfield code="a">Vergara, Carmen</marc:subfield>
@@ -16481,6 +16682,9 @@
         <marc:datafield tag="300" ind1=" " ind2=" ">
             <marc:subfield code="a">278 p.</marc:subfield>
             <marc:subfield code="c">20 cm</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" " added="true">
+            <marc:subfield code="a">text</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="440" ind1=" " ind2="0">
             <marc:subfield code="a">Alianza tres</marc:subfield>
@@ -16588,7 +16792,7 @@
             <marc:subfield code="c">18 cm</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -16718,7 +16922,7 @@
             <marc:subfield code="c">18 cm</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -16831,7 +17035,7 @@
             <marc:subfield code="c">21 cm</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -16987,7 +17191,7 @@
             <marc:subfield code="c">18 cm</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -17111,7 +17315,7 @@
             <marc:subfield code="c">18 cm</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -17201,6 +17405,10 @@
             <marc:subfield code="4">aut</marc:subfield>
             <marc:subfield code="1p">meitckew</marc:subfield>
         </marc:datafield>
+        <marc:datafield ind1="0" ind2="0" tag="240">
+            <marc:subfield code="a">Lektürehilfen William Golding, "Lord of the flies"</marc:subfield>
+            <marc:subfield code="1w">meitckew/lekturehilfenwilliamgoldinglordoftheflies</marc:subfield>
+        </marc:datafield>
         <marc:datafield ind1="0" ind2="0" tag="245">
             <marc:subfield code="a">Lektürehilfen William Golding, "Lord of the flies"</marc:subfield>
             <marc:subfield code="c">[Verf. dieses Bd.: W. Meitcke]</marc:subfield>
@@ -17222,7 +17430,7 @@
             <marc:subfield code="c">20 cm</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -17396,7 +17604,7 @@
             <marc:subfield code="c">20 cm</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -17514,7 +17722,7 @@
             <marc:subfield code="c">18 cm</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -17637,7 +17845,7 @@
             <marc:subfield code="c">18 cm</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -17755,7 +17963,7 @@
             <marc:subfield code="c">18 cm</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -17865,7 +18073,7 @@
             <marc:subfield code="c">kl. 8</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -17891,7 +18099,8 @@
             <marc:subfield code="0">(DE-101)105726907</marc:subfield>
             <marc:subfield code="a">Richter, Irmgard</marc:subfield>
             <marc:subfield code="e">Mitwirkender</marc:subfield>
-            <marc:subfield code="4">ctb</marc:subfield>
+            <marc:subfield code="4">edt</marc:subfield>
+            <marc:subfield code="4">aui</marc:subfield>
             <marc:subfield code="1p">richterirmgard</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="850">
@@ -17995,7 +18204,7 @@
             <marc:subfield code="c">18 cm</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -18124,7 +18333,7 @@
             <marc:subfield code="c">20 cm</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -18239,7 +18448,7 @@
             <marc:subfield code="c">18 cm</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -18368,7 +18577,7 @@
             <marc:subfield code="c">18 cm</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -18480,7 +18689,7 @@
             <marc:subfield code="c">8</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -18595,7 +18804,7 @@
             <marc:subfield code="c">17 cm</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -18706,7 +18915,7 @@
             <marc:subfield code="c">21 cm</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -18817,7 +19026,7 @@
             <marc:subfield code="c">19 cm</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -18943,7 +19152,7 @@
             <marc:subfield code="c">8</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -19079,7 +19288,7 @@
             <marc:subfield code="c">16 cm</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -19205,7 +19414,7 @@
             <marc:subfield code="c">18 cm</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -19308,7 +19517,7 @@
             <marc:subfield code="c">kl. 8</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -19338,7 +19547,7 @@
             <marc:subfield code="0">(DE-101)105726907</marc:subfield>
             <marc:subfield code="a">Richter, Irmgard</marc:subfield>
             <marc:subfield code="e">Mitwirkender</marc:subfield>
-            <marc:subfield code="4">ctb</marc:subfield>
+            <marc:subfield code="4">aui</marc:subfield>
             <marc:subfield code="1p">richterirmgard</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="850">
@@ -19417,6 +19626,10 @@
             <marc:subfield code="4">aut</marc:subfield>
             <marc:subfield code="1p">machinroger</marc:subfield>
         </marc:datafield>
+        <marc:datafield ind1="0" ind2="0" tag="240">
+            <marc:subfield code="a">"Lord of the flies"</marc:subfield>
+            <marc:subfield code="1w">machinroger/lordoftheflies</marc:subfield>
+        </marc:datafield>
         <marc:datafield ind1="0" ind2="0" tag="245">
             <marc:subfield code="a">"Lord of the flies"</marc:subfield>
             <marc:subfield code="b">[Literatur-Kartei Englisch "Lord of the flies" ; Literatur-Kartei zum Roman von William Golding]</marc:subfield>
@@ -19432,7 +19645,7 @@
             <marc:subfield code="c">31 cm</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -19614,7 +19827,7 @@
             <marc:subfield code="c">20 cm</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -19738,7 +19951,7 @@
             <marc:subfield code="c">18 cm</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -19864,7 +20077,7 @@
             <marc:subfield code="c">19 cm</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -20005,6 +20218,10 @@
             <marc:subfield code="4">aut</marc:subfield>
             <marc:subfield code="1p">neisedgar</marc:subfield>
         </marc:datafield>
+        <marc:datafield ind1="0" ind2="0" tag="240">
+            <marc:subfield code="a">Erläuterungen zu William Golding, Herr der Fliegen (Lord of the flies)</marc:subfield>
+            <marc:subfield code="1w">neisedgar/erlauterungenzuwilliamgoldingherrderfliegenlordoftheflies</marc:subfield>
+        </marc:datafield>
         <marc:datafield ind1="0" ind2="0" tag="245">
             <marc:subfield code="a">Erläuterungen zu William Golding, Herr der Fliegen (Lord of the flies)</marc:subfield>
             <marc:subfield code="c">von Edgar Neis. [Hrsg. von Klaus Bahners ...]</marc:subfield>
@@ -20025,7 +20242,7 @@
             <marc:subfield code="c">16 cm</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -20225,7 +20442,7 @@
             <marc:subfield code="c">18 cm</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -20354,7 +20571,7 @@
             <marc:subfield code="c">18 cm</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -20478,7 +20695,7 @@
             <marc:subfield code="c">18 cm</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -20580,7 +20797,7 @@
             <marc:subfield code="a">318 S.</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -20699,7 +20916,7 @@
             <marc:subfield code="c">17 cm</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -20797,6 +21014,10 @@
             <marc:subfield code="4">aut</marc:subfield>
             <marc:subfield code="1p">baerengeljennifer</marc:subfield>
         </marc:datafield>
+        <marc:datafield ind1="0" ind2="0" tag="240">
+            <marc:subfield code="a">William Golding, The Lord of the Flies</marc:subfield>
+            <marc:subfield code="1w">baerengeljennifer/williamgoldingthelordoftheflies</marc:subfield>
+        </marc:datafield>
         <marc:datafield ind1="0" ind2="0" tag="245">
             <marc:subfield code="a">William Golding, The Lord of the Flies</marc:subfield>
             <marc:subfield code="c">ann. and study aids by Jennifer Baer-Engel</marc:subfield>
@@ -20819,7 +21040,7 @@
             <marc:subfield code="c">20 cm</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -20981,6 +21202,10 @@
             <marc:subfield code="4">aut</marc:subfield>
             <marc:subfield code="1p">kaisergerd</marc:subfield>
         </marc:datafield>
+        <marc:datafield ind1="0" ind2="0" tag="240">
+            <marc:subfield code="a">Stundenblätter Golding, "Lord of the flies"</marc:subfield>
+            <marc:subfield code="1w">kaisergerd/stundenblattergoldinglordoftheflies</marc:subfield>
+        </marc:datafield>
         <marc:datafield ind1="0" ind2="0" tag="245">
             <marc:subfield code="a">Stundenblätter Golding, "Lord of the flies"</marc:subfield>
             <marc:subfield code="c">Gerd Kaiser</marc:subfield>
@@ -21002,7 +21227,7 @@
             <marc:subfield code="e">Beil. (42 S.)</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -21183,7 +21408,7 @@
             <marc:subfield code="c">2007</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -21307,7 +21532,7 @@
             <marc:subfield code="c">22 cm</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -21421,7 +21646,7 @@
             <marc:subfield code="c">15 cm</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -21548,7 +21773,7 @@
             <marc:subfield code="c">18 cm</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -21668,7 +21893,7 @@
             <marc:subfield code="c">8</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -21781,7 +22006,7 @@
             <marc:subfield code="c">19 cm</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -21897,7 +22122,7 @@
             <marc:subfield code="c">19 cm</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -22012,7 +22237,7 @@
             <marc:subfield code="c">8</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -22152,7 +22377,7 @@
             <marc:subfield code="c">18 cm</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -22271,7 +22496,7 @@
             <marc:subfield code="c">17 cm</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -22377,7 +22602,7 @@
             <marc:subfield code="c">20 cm</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -22489,7 +22714,7 @@
             <marc:subfield code="a">63 S.</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -22581,6 +22806,10 @@
             <marc:subfield code="4">aut</marc:subfield>
             <marc:subfield code="1p">kaisergerd</marc:subfield>
         </marc:datafield>
+        <marc:datafield ind1="0" ind2="0" tag="240">
+            <marc:subfield code="a">Stundenblätter Golding, "Lord of the flies"</marc:subfield>
+            <marc:subfield code="1w">kaisergerd/stundenblattergoldinglordoftheflies</marc:subfield>
+        </marc:datafield>
         <marc:datafield ind1="0" ind2="0" tag="245">
             <marc:subfield code="a">Stundenblätter Golding, "Lord of the flies"</marc:subfield>
             <marc:subfield code="c">Gerd Kaiser</marc:subfield>
@@ -22602,7 +22831,7 @@
             <marc:subfield code="e">Beil. (42 S.)</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -22785,7 +23014,7 @@
             <marc:subfield code="c">8</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -22814,7 +23043,7 @@
             <marc:subfield code="a">Stresau, Hermann</marc:subfield>
             <marc:subfield code="d">1894-1964</marc:subfield>
             <marc:subfield code="e">Mitwirkender</marc:subfield>
-            <marc:subfield code="4">ctb</marc:subfield>
+            <marc:subfield code="4">trl</marc:subfield>
             <marc:subfield code="1p">stresauhermann</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2="0" tag="830">
@@ -22924,7 +23153,7 @@
             <marc:subfield code="c">30 cm</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -23087,7 +23316,7 @@
             <marc:subfield code="c">20 cm</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -23195,7 +23424,7 @@
             <marc:subfield code="c">19 cm</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -23338,7 +23567,7 @@
             <marc:subfield code="c">18 cm</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -23449,7 +23678,7 @@
             <marc:subfield code="c">16 cm</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -23570,7 +23799,7 @@
             <marc:subfield code="c">20 cm</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -23688,7 +23917,7 @@
             <marc:subfield code="c">19 cm</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -23788,6 +24017,10 @@
             <marc:subfield code="4">aut</marc:subfield>
             <marc:subfield code="1p">kaisergerd</marc:subfield>
         </marc:datafield>
+        <marc:datafield ind1="0" ind2="0" tag="240">
+            <marc:subfield code="a">Stundenblätter Golding, "Lord of the flies"</marc:subfield>
+            <marc:subfield code="1w">kaisergerd/stundenblattergoldinglordoftheflies</marc:subfield>
+        </marc:datafield>
         <marc:datafield ind1="0" ind2="0" tag="245">
             <marc:subfield code="a">Stundenblätter Golding, "Lord of the flies"</marc:subfield>
             <marc:subfield code="c">Gerd Kaiser</marc:subfield>
@@ -23810,7 +24043,7 @@
             <marc:subfield code="e">Beil. (42 S.)</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -23986,7 +24219,7 @@
             <marc:subfield code="c">20 cm</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -24111,7 +24344,7 @@
             <marc:subfield code="c">18 cm</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -24216,7 +24449,7 @@
             <marc:subfield code="c">kl. 8</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -24347,7 +24580,7 @@
             <marc:subfield code="c">21 cm</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -24471,7 +24704,7 @@
             <marc:subfield code="c">18 cm</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -24601,7 +24834,7 @@
             <marc:subfield code="c">18 cm</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -24724,7 +24957,7 @@
             <marc:subfield code="c">20 cm.</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -24837,7 +25070,7 @@
             <marc:subfield code="c">19 cm</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -24949,7 +25182,7 @@
             <marc:subfield code="c">kl. 8</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -25063,7 +25296,7 @@
             <marc:subfield code="c">24 cm</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -25178,7 +25411,7 @@
             <marc:subfield code="a">207 S.</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -25297,7 +25530,7 @@
             <marc:subfield code="c">18 cm</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -25420,7 +25653,7 @@
             <marc:subfield code="c">22 cm</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -25528,7 +25761,7 @@
             <marc:subfield code="c">21 cm</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -25590,7 +25823,6 @@
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="041">
             <marc:subfield code="a">ger</marc:subfield>
-            <marc:subfield code="a">eng</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="043">
             <marc:subfield code="c">XA-GB</marc:subfield>
@@ -25622,6 +25854,10 @@
             <marc:subfield code="4">aut</marc:subfield>
             <marc:subfield code="1p">stannatastrid</marc:subfield>
         </marc:datafield>
+        <marc:datafield ind1="0" ind2="0" tag="240">
+            <marc:subfield code="a">Lord of the flies, William Golding</marc:subfield>
+            <marc:subfield code="1w">stannatastrid/lordoftheflieswilliamgolding</marc:subfield>
+        </marc:datafield>
         <marc:datafield ind1="0" ind2="0" tag="245">
             <marc:subfield code="a">Lord of the flies, William Golding</marc:subfield>
             <marc:subfield code="b">Inhalt, Hintergrund, Interpretation ; auf Deutsch - mit englischen Formulierungshilfen!</marc:subfield>
@@ -25638,7 +25874,7 @@
             <marc:subfield code="c">18 cm</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -25827,7 +26063,7 @@
             <marc:subfield code="c">18 cm</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -25954,7 +26190,7 @@
             <marc:subfield code="c">18 cm</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -26079,7 +26315,7 @@
             <marc:subfield code="c">15 cm</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -26188,7 +26424,7 @@
             <marc:subfield code="c">kl. 8</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -26299,7 +26535,7 @@
             <marc:subfield code="c">17 cm</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -26406,7 +26642,7 @@
             <marc:subfield code="c">kl. 8</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -26543,7 +26779,7 @@
             <marc:subfield code="c">18 cm</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -26645,7 +26881,7 @@
             <marc:subfield code="a">158 S.</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -26764,7 +27000,7 @@
             <marc:subfield code="c">18 cm</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -26866,6 +27102,10 @@
             <marc:subfield code="4">aut</marc:subfield>
             <marc:subfield code="1p">kaisergerd</marc:subfield>
         </marc:datafield>
+        <marc:datafield ind1="0" ind2="0" tag="240">
+            <marc:subfield code="a">Stundenblätter Golding, "Lord of the flies"</marc:subfield>
+            <marc:subfield code="1w">kaisergerd/stundenblattergoldinglordoftheflies</marc:subfield>
+        </marc:datafield>
         <marc:datafield ind1="0" ind2="0" tag="245">
             <marc:subfield code="a">Stundenblätter Golding, "Lord of the flies"</marc:subfield>
             <marc:subfield code="c">Gerd Kaiser</marc:subfield>
@@ -26888,7 +27128,7 @@
             <marc:subfield code="e">Beil. (42 S.)</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -27078,7 +27318,7 @@
             <marc:subfield code="c">18 cm</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -27193,7 +27433,7 @@
             <marc:subfield code="c">15 cm</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -27310,6 +27550,10 @@
             <marc:subfield code="4">aut</marc:subfield>
             <marc:subfield code="1p">poppereiner</marc:subfield>
         </marc:datafield>
+        <marc:datafield ind1="0" ind2="0" tag="240">
+            <marc:subfield code="a">William Golding, Herr der Fliegen, Die Koralleninsel (R. M. Ballantyne)</marc:subfield>
+            <marc:subfield code="1w">poppereiner/williamgoldingherrderfliegendiekoralleninselrmballantyne</marc:subfield>
+        </marc:datafield>
         <marc:datafield ind1="0" ind2="0" tag="245">
             <marc:subfield code="a">William Golding, Herr der Fliegen, Die Koralleninsel (R. M. Ballantyne)</marc:subfield>
             <marc:subfield code="b">Interpretationen und Anmerkungen</marc:subfield>
@@ -27326,7 +27570,7 @@
             <marc:subfield code="c">18 cm</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -27366,14 +27610,12 @@
             <marc:subfield code="1w">http://viaf.org/viaf/119144648592107423604</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1="1" ind2="7" tag="600">
-            <marc:subfield code="0">(DE-588)4318888-6</marc:subfield>
-            <marc:subfield code="0">http://d-nb.info/gnd/4318888-6</marc:subfield>
-            <marc:subfield code="0">(DE-101)043188885</marc:subfield>
             <marc:subfield code="a">Ballantyne, Robert M.</marc:subfield>
             <marc:subfield code="d">1825-1894</marc:subfield>
-            <marc:subfield code="t">The Coral Island</marc:subfield>
-            <marc:subfield code="2">gnd</marc:subfield>
-            <marc:subfield code="1p">ballantynerobertm</marc:subfield>
+            <marc:subfield code="t">The Coral Island</marc:subfield>
+            <marc:subfield code="2">aut</marc:subfield>
+            <marc:subfield code="1p">http://viaf.org/viaf/64050447</marc:subfield>
+            <marc:subfield code="1w">http://viaf.org/viaf/191996024</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2="7" tag="650">
             <marc:subfield code="0">(DE-588)4011975-0</marc:subfield>
@@ -27554,7 +27796,7 @@
             <marc:subfield code="c">18 cm</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -27667,7 +27909,7 @@
             <marc:subfield code="c">2005</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -27812,7 +28054,7 @@
             <marc:subfield code="c">19 cm</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -28003,7 +28245,7 @@
             <marc:subfield code="c">20 cm</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -28124,7 +28366,7 @@
             <marc:subfield code="c">18 cm</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -28248,7 +28490,7 @@
             <marc:subfield code="c">20 cm</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -28357,7 +28599,7 @@
             <marc:subfield code="c">19 cm</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -28456,7 +28698,7 @@
             <marc:subfield code="a">176 S.</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -28589,7 +28831,7 @@
             <marc:subfield code="c">18 cm</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -28822,7 +29064,7 @@
             <marc:subfield code="c">18 cm</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -29028,7 +29270,7 @@
             <marc:subfield code="c">22 cm</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -29154,7 +29396,7 @@
             <marc:subfield code="c">18 cm</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -29277,7 +29519,7 @@
             <marc:subfield code="c">20 cm</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -29367,6 +29609,10 @@
             <marc:subfield code="4">aut</marc:subfield>
             <marc:subfield code="1p">meitckew</marc:subfield>
         </marc:datafield>
+        <marc:datafield ind1="0" ind2="0" tag="240">
+            <marc:subfield code="a">Lektürehilfen William Golding, "Lord of the flies"</marc:subfield>
+            <marc:subfield code="1w">meitckew/lekturehilfenwilliamgoldinglordoftheflies</marc:subfield>
+        </marc:datafield>
         <marc:datafield ind1="0" ind2="0" tag="245">
             <marc:subfield code="a">Lektürehilfen William Golding, "Lord of the flies"</marc:subfield>
             <marc:subfield code="c">[Verf. dieses Bd.: W. Meitcke]</marc:subfield>
@@ -29388,7 +29634,7 @@
             <marc:subfield code="c">20 cm</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -29562,7 +29808,7 @@
             <marc:subfield code="c">20 cm</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -29658,7 +29904,7 @@
             <marc:subfield code="c">kl. 8</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -29772,7 +30018,7 @@
             <marc:subfield code="c">18 cm</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -29902,7 +30148,7 @@
             <marc:subfield code="c">18 cm</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -30020,7 +30266,7 @@
             <marc:subfield code="c">21 cm</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -30129,7 +30375,7 @@
             <marc:subfield code="c">18 cm</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -30254,6 +30500,10 @@
             <marc:subfield code="4">aut</marc:subfield>
             <marc:subfield code="1p">poppereiner</marc:subfield>
         </marc:datafield>
+        <marc:datafield ind1="0" ind2="0" tag="240">
+            <marc:subfield code="a">Erläuterungen zu William Golding, Herr der Fliegen (Lord of the flies)</marc:subfield>
+            <marc:subfield code="1w">poppereiner/erlauterungenzuwilliamgoldingherrderfliegenlordoftheflies</marc:subfield>
+        </marc:datafield>
         <marc:datafield ind1="0" ind2="0" tag="245">
             <marc:subfield code="a">Erläuterungen zu William Golding, Herr der Fliegen (Lord of the flies)</marc:subfield>
             <marc:subfield code="c">von Reiner Poppe</marc:subfield>
@@ -30275,7 +30525,7 @@
             <marc:subfield code="c">16 cm</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -30452,10 +30702,6 @@
             <marc:subfield code="4">aut</marc:subfield>
             <marc:subfield code="1p">http://viaf.org/viaf/89500102</marc:subfield>
         </marc:datafield>
-        <marc:datafield ind1="1" ind2="0" tag="243">
-            <marc:subfield code="a">Sammlung</marc:subfield>
-            <marc:subfield code="l">dt.</marc:subfield>
-        </marc:datafield>
         <marc:datafield tag="240" ind1="1" ind2="0">
             <marc:subfield code="a">The Scorpion God</marc:subfield>
             <marc:subfield code="1w">http://viaf.org/viaf/308018847</marc:subfield>
@@ -30482,7 +30728,7 @@
             <marc:subfield code="c">22 cm</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -30600,7 +30846,7 @@
             <marc:subfield code="c">18 cm</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -30662,7 +30908,6 @@
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="041">
             <marc:subfield code="a">ger</marc:subfield>
-            <marc:subfield code="a">eng</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="044">
             <marc:subfield code="c">XA-DE-BW</marc:subfield>
@@ -30713,7 +30958,7 @@
             <marc:subfield code="c">30 cm</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -30733,7 +30978,7 @@
             <marc:subfield code="0">(DE-101)124907172</marc:subfield>
             <marc:subfield code="a">Horst, Silke</marc:subfield>
             <marc:subfield code="e">Mitwirkender</marc:subfield>
-            <marc:subfield code="4">ctb</marc:subfield>
+            <marc:subfield code="4">aui</marc:subfield>
             <marc:subfield code="1p">horstsilke</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1="0" ind2="8" tag="773">
@@ -30829,7 +31074,7 @@
             <marc:subfield code="a">207 S.</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -30942,7 +31187,7 @@
             <marc:subfield code="c">15 cm</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -31177,7 +31422,7 @@
             <marc:subfield code="c">20 cm</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -31288,7 +31533,7 @@
             <marc:subfield code="c">21 cm</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -31524,7 +31769,7 @@
             <marc:subfield code="c">18 cm</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -31615,6 +31860,10 @@
             <marc:subfield code="4">aut</marc:subfield>
             <marc:subfield code="1p">stannatastrid</marc:subfield>
         </marc:datafield>
+        <marc:datafield ind1="0" ind2="0" tag="240">
+            <marc:subfield code="a">Lord of the flies, William Golding</marc:subfield>
+            <marc:subfield code="1w">stannatastrid/lordoftheflieswilliamgolding</marc:subfield>
+        </marc:datafield>
         <marc:datafield ind1="0" ind2="0" tag="245">
             <marc:subfield code="a">Lord of the flies, William Golding</marc:subfield>
             <marc:subfield code="b">Inhalt, Hintergrund, Interpretationen ; auf Deutsch, mit englischen Formulierungshilfen! ; mit Info-Klappe!</marc:subfield>
@@ -31630,7 +31879,7 @@
             <marc:subfield code="c">18 cm</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -31820,7 +32069,7 @@
             <marc:subfield code="c">18 cm</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -31923,6 +32172,10 @@
             <marc:subfield code="4">aut</marc:subfield>
             <marc:subfield code="1p">poppereiner</marc:subfield>
         </marc:datafield>
+        <marc:datafield ind1="0" ind2="0" tag="240">
+            <marc:subfield code="a">William Golding, Herr der Fliegen (Lord of the flies)</marc:subfield>
+            <marc:subfield code="1w">poppereiner/williamgoldingherrderfliegenlordoftheflies</marc:subfield>
+        </marc:datafield>
         <marc:datafield ind1="0" ind2="0" tag="245">
             <marc:subfield code="a">William Golding, Herr der Fliegen (Lord of the flies)</marc:subfield>
             <marc:subfield code="b">Kommentare, Diskussionsaspekte und Anregungen für produktionsorientiertes Lesen</marc:subfield>
@@ -31944,7 +32197,7 @@
             <marc:subfield code="c">17 cm</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -32112,7 +32365,7 @@
             <marc:subfield code="c">18 cm</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -32238,7 +32491,7 @@
             <marc:subfield code="c">18 cm</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -32357,7 +32610,7 @@
             <marc:subfield code="c">19 cm</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -32484,7 +32737,7 @@
             <marc:subfield code="c">18 cm</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -32597,7 +32850,7 @@
             <marc:subfield code="c">20 cm</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -32724,7 +32977,7 @@
             <marc:subfield code="c">18 cm</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -32813,6 +33066,10 @@
             <marc:subfield code="4">aut</marc:subfield>
             <marc:subfield code="1p">poppereiner</marc:subfield>
         </marc:datafield>
+        <marc:datafield ind1="0" ind2="0" tag="240">
+            <marc:subfield code="a">Erläuterungen zu William Golding, Herr der Fliegen (Lord of the flies)</marc:subfield>
+            <marc:subfield code="1w">poppereiner/erlauterungenzuwilliamgoldingherrderfliegenlordoftheflies</marc:subfield>
+        </marc:datafield>
         <marc:datafield ind1="0" ind2="0" tag="245">
             <marc:subfield code="a">Erläuterungen zu William Golding, Herr der Fliegen (Lord of the flies)</marc:subfield>
             <marc:subfield code="c">von Reiner Poppe</marc:subfield>
@@ -32834,7 +33091,7 @@
             <marc:subfield code="c">16 cm</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -33024,7 +33281,7 @@
             <marc:subfield code="c">18 cm</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -33135,7 +33392,7 @@
             <marc:subfield code="c">19 cm</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -33248,7 +33505,7 @@
             <marc:subfield code="a">Online-Ressource</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -33451,7 +33708,7 @@
             <marc:subfield code="c">18 cm</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -33569,7 +33826,7 @@
             <marc:subfield code="c">23 cm</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -33687,7 +33944,7 @@
             <marc:subfield code="c">18 cm</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -33788,6 +34045,10 @@
             <marc:subfield code="4">aut</marc:subfield>
             <marc:subfield code="1p">jahnkehansotto</marc:subfield>
         </marc:datafield>
+        <marc:datafield ind1="0" ind2="0" tag="240">
+            <marc:subfield code="a">William Golding, Lord of the flies</marc:subfield>
+            <marc:subfield code="1w">jahnkehansotto/williamgoldinglordoftheflies</marc:subfield>
+        </marc:datafield>
         <marc:datafield ind1="0" ind2="0" tag="245">
             <marc:subfield code="a">William Golding, Lord of the flies</marc:subfield>
             <marc:subfield code="c">erl. von Hans-Otto Jahnke</marc:subfield>
@@ -33808,7 +34069,7 @@
             <marc:subfield code="c">18 cm</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -33991,7 +34252,7 @@
             <marc:subfield code="c">20 cm</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="336">
-            <marc:subfield code="a">Text</marc:subfield>
+            <marc:subfield code="a">text</marc:subfield>
             <marc:subfield code="b">txt</marc:subfield>
             <marc:subfield code="2">rdacontent</marc:subfield>
         </marc:datafield>
@@ -34086,6 +34347,9 @@
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="300">
             <marc:subfield code="a">221 s.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" ">
+            <marc:subfield code="a">text</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="653">
             <marc:subfield code="a">engelske</marc:subfield>
@@ -34182,6 +34446,9 @@
             <marc:subfield code="a">247 s.</marc:subfield>
             <marc:subfield code="c">22 cm</marc:subfield>
         </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" ">
+            <marc:subfield code="a">text</marc:subfield>
+        </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="500">
             <marc:subfield code="a">Originaltittel: Fire down below</marc:subfield>
         </marc:datafield>
@@ -34261,7 +34528,7 @@
         </marc:datafield>
         <marc:datafield ind1="1" ind2="4" tag="240">
             <marc:subfield code="a">The paper men</marc:subfield>
-            <marc:subfield code="l">Norsk</marc:subfield>
+            <marc:subfield code="l">nob</marc:subfield>
             <marc:subfield code="1w">http://viaf.org/viaf/188302088</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1="1" ind2="0" tag="245">
@@ -34276,6 +34543,9 @@
         <marc:datafield ind1=" " ind2=" " tag="300">
             <marc:subfield code="a">200 s.</marc:subfield>
             <marc:subfield code="c">22 cm</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" ">
+            <marc:subfield code="a">text</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1="0" ind2=" " tag="506">
             <marc:subfield code="f">Åpen tilgang</marc:subfield>
@@ -34369,6 +34639,9 @@
         <marc:datafield ind1=" " ind2=" " tag="300">
             <marc:subfield code="a">231 s.</marc:subfield>
         </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" ">
+            <marc:subfield code="a">text</marc:subfield>
+        </marc:datafield>
         <marc:datafield ind1="0" ind2=" " tag="490">
             <marc:subfield code="a">Lanterne-bøkene</marc:subfield>
             <marc:subfield code="v">481</marc:subfield>
@@ -34460,6 +34733,9 @@
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="300">
             <marc:subfield code="a">211 s.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" ">
+            <marc:subfield code="a">text</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="500">
             <marc:subfield code="a">1. norske utg. Oslo: Gyldendal, 1960</marc:subfield>
@@ -34566,6 +34842,9 @@
             <marc:subfield code="b">ill.</marc:subfield>
             <marc:subfield code="c">22 cm</marc:subfield>
         </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" ">
+            <marc:subfield code="a">text</marc:subfield>
+        </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="500">
             <marc:subfield code="a">1. norske utg. Oslo : Gyldendal, 1960</marc:subfield>
         </marc:datafield>
@@ -34648,7 +34927,7 @@
         </marc:datafield>
         <marc:datafield ind1="1" ind2="0" tag="240">
             <marc:subfield code="a">Lord of the flies</marc:subfield>
-            <marc:subfield code="l">Norsk</marc:subfield>
+            <marc:subfield code="l">nob</marc:subfield>
             <marc:subfield code="1w">http://viaf.org/viaf/119144648592107423604</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1="1" ind2="0" tag="245">
@@ -34663,6 +34942,9 @@
         <marc:datafield ind1=" " ind2=" " tag="300">
             <marc:subfield code="a">231 s.</marc:subfield>
             <marc:subfield code="c">24 cm</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" ">
+            <marc:subfield code="a">text</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1="0" ind2=" " tag="490">
             <marc:subfield code="a">Gyldendal magnum</marc:subfield>
@@ -34761,6 +35043,9 @@
         <marc:datafield ind1=" " ind2=" " tag="300">
             <marc:subfield code="a">211 s.</marc:subfield>
         </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" ">
+            <marc:subfield code="a">text</marc:subfield>
+        </marc:datafield>
         <marc:datafield ind1="1" ind2=" " tag="490">
             <marc:subfield code="a">Gyldendal klassiker</marc:subfield>
         </marc:datafield>
@@ -34845,7 +35130,7 @@
         </marc:datafield>
         <marc:datafield ind1="1" ind2="0" tag="240">
             <marc:subfield code="a">Lord of the flies</marc:subfield>
-            <marc:subfield code="l">Norsk</marc:subfield>
+            <marc:subfield code="l">nob</marc:subfield>
             <marc:subfield code="1w">http://viaf.org/viaf/119144648592107423604</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1="1" ind2="0" tag="245">
@@ -34863,6 +35148,9 @@
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="300">
             <marc:subfield code="a">232 s.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" ">
+            <marc:subfield code="a">text</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1="0" ind2=" " tag="490">
             <marc:subfield code="a">Gyldendals Gyldne Bibliotek</marc:subfield>
@@ -34941,7 +35229,7 @@
         </marc:datafield>
         <marc:datafield ind1="1" ind2="0" tag="240">
             <marc:subfield code="a">Pincher Martin</marc:subfield>
-            <marc:subfield code="l">Norsk</marc:subfield>
+            <marc:subfield code="l">nob</marc:subfield>
             <marc:subfield code="1w">http://viaf.org/viaf/184334172</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1="1" ind2="0" tag="245">
@@ -34960,6 +35248,9 @@
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="300">
             <marc:subfield code="a">167 s.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" ">
+            <marc:subfield code="a">text</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1="0" ind2=" " tag="490">
             <marc:subfield code="a">Pax-bøkene</marc:subfield>
@@ -35039,7 +35330,7 @@
         </marc:datafield>
         <marc:datafield ind1="1" ind2="0" tag="240">
             <marc:subfield code="a">Rites of passage</marc:subfield>
-            <marc:subfield code="l">Norsk</marc:subfield>
+            <marc:subfield code="l">nob</marc:subfield>
             <marc:subfield code="1w">http://viaf.org/viaf/176165653</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1="1" ind2="0" tag="245">
@@ -35057,6 +35348,9 @@
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="300">
             <marc:subfield code="a">199 s.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" ">
+            <marc:subfield code="a">text</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1="0" ind2=" " tag="506">
             <marc:subfield code="f">Åpen tilgang</marc:subfield>
@@ -35152,6 +35446,9 @@
         <marc:datafield ind1=" " ind2=" " tag="300">
             <marc:subfield code="a">234 s.</marc:subfield>
         </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" ">
+            <marc:subfield code="a">text</marc:subfield>
+        </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="500">
             <marc:subfield code="a">1. norske utg. Oslo : Gyldendal, 1960</marc:subfield>
         </marc:datafield>
@@ -35241,7 +35538,7 @@
         </marc:datafield>
         <marc:datafield ind1="1" ind2="0" tag="240">
             <marc:subfield code="a">Darkness visible</marc:subfield>
-            <marc:subfield code="l">Norsk</marc:subfield>
+            <marc:subfield code="l">nob</marc:subfield>
             <marc:subfield code="1w">http://viaf.org/viaf/211743501</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1="1" ind2="0" tag="245">
@@ -35259,6 +35556,9 @@
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="300">
             <marc:subfield code="a">294 s.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" ">
+            <marc:subfield code="a">text</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1="0" ind2=" " tag="490">
             <marc:subfield code="a">Nova</marc:subfield>
@@ -35364,6 +35664,9 @@
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="300">
             <marc:subfield code="a">231 s.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" ">
+            <marc:subfield code="a">text</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="500">
             <marc:subfield code="a">1. norske utg. 1960</marc:subfield>
@@ -35471,6 +35774,9 @@
         <marc:datafield ind1=" " ind2=" " tag="300">
             <marc:subfield code="a">216 s.</marc:subfield>
         </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" ">
+            <marc:subfield code="a">text</marc:subfield>
+        </marc:datafield>
         <marc:datafield ind1="0" ind2=" " tag="506">
             <marc:subfield code="f">Åpen tilgang</marc:subfield>
         </marc:datafield>
@@ -35571,6 +35877,15 @@
             <marc:subfield code="a">6 plater (CD) (7 t, 48 min)</marc:subfield>
             <marc:subfield code="b">digital</marc:subfield>
             <marc:subfield code="c">12 cm, i eske</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" ">
+            <marc:subfield code="a">spoken word</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="337" ind1=" " ind2=" ">
+            <marc:subfield code="a">audio book</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="338" ind1=" " ind2=" ">
+            <marc:subfield code="a">CD</marc:subfield>
         </marc:datafield>
         <marc:datafield ind1=" " ind2=" " tag="500">
             <marc:subfield code="a">Oversatt av Inger Hagerup ; lest av Nicolai Cleve Broch</marc:subfield>
