@@ -4,7 +4,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
     xsi:noNamespaceSchemaLocation="../../marc2frbr/xsd/marc2lrm.rules.xsd">
     <!-- keyfilter is used to remove punctuation etc. from the values that are used in the keystring -->
-    <keyfilter>lower-case(replace($key, ' ', ''))</keyfilter>
+    <keyfilter>replace($key, ' ', '')</keyfilter>
 
     <!-- **************************--> 
     <!--          100 Field        -->
@@ -25,7 +25,7 @@
         <relationships>
             <relationship type="http://rdaregistry.info/Elements/a/P50195" itype="http://rdaregistry.info/Elements/w/P10061">
                 <target entity="MARC21-130240-Work"/>   
-                <target entity="MARC21-700-Work-Analytical"/>  
+                <!--<target entity="MARC21-700-Work-Analytical"/>  -->
             </relationship>
         </relationships>
     </entity> 
@@ -44,8 +44,12 @@
         </key>
         <relationships>           
             <relationship condition="$relmap/rels/rel[$this_subfield = k and domain='Work']" type="{$relmap/rels/rel[k = $this_subfield and domain='Work']/reverse}" itype="{$relmap/rels/rel[k = $this_subfield  and domain='Work']/forward}">
-                <target entity="MARC21-700-Work-Analytical"/>
+                <!--<target entity="MARC21-700-Work-Analytical"/>-->
                 <target entity="MARC21-130240-Work"/>
+            </relationship>
+            <relationship condition="$relmap/rels/rel[$this_subfield = k and domain='Expression']" type="{$relmap/rels/rel[k = $this_subfield and domain='Work']/reverse}" itype="{$relmap/rels/rel[k = $this_subfield  and domain='Expression']/forward}">
+                <target entity="MARC21-700-Expression-Analytical"/>
+                <target entity="MARC21-130240-Expression"/>
             </relationship>
         </relationships>
     </entity>
@@ -94,7 +98,7 @@
         </relationships>
     </entity>
     
-    <entity tag="130, 240" condition="not($record/*:datafield[@tag='700' and @ind2 = '2'])" type="http://rdaregistry.info/Elements/c/C10006" templatename="MARC21-130240-Expression" label="Expression">
+    <entity tag="130, 240" condition="not($record/*:datafield[@tag='700' and @ind2 = '2' and *:subfield/@code = 't'])" type="http://rdaregistry.info/Elements/c/C10006" templatename="MARC21-130240-Expression" label="Expression">
         <note>Expression for the title in the 130 or 240, we only create this expression if there is no analytical entries, otherwise we
               assume that it is the parts that are embodied and directly the whole</note>
         <attributes>
@@ -107,11 +111,13 @@
                 <subfield code="j" type="http://rdaregistry.info/Elements/e/P20006" label="has language of expression"/>
             </datafield>-->
             <datafield tag="130">
+                <subfield code="a" type="http://rdaregistry.info/Elements/e/P20312" label="has title"/>
                 <subfield code="s" type="http://rdaregistry.info/Elements/e/P20003" label="has other distinguishing characteristic of the expression"/>
                 <subfield code="l" select="lower-case(.)" type="http://rdaregistry.info/Elements/e/P20006" label="has language of expression"/>
                 <subfield code="g" type="http://rdaregistry.info/Elements/e/P20312" label="has title"/>
             </datafield>
             <datafield tag="240">
+                <subfield code="a" type="http://rdaregistry.info/Elements/e/P20312" label="has title"/>
                 <subfield code="s" type="http://rdaregistry.info/Elements/e/P20003" label="has other distinguishing characteristic of the expression"/>
                 <subfield code="l" select="lower-case(.)" type="http://rdaregistry.info/Elements/e/P20006" label="has language of expression"/>
                 <subfield code="g" type="http://rdaregistry.info/Elements/e/P20312" label="has title"/>
@@ -124,7 +130,7 @@
         <key order="3">
             <element>(frbrizer:sort-relationships(*:relationship[@type = 'http://rdaregistry.info/Elements/e/P20231']/@href))[1]</element>
             <element>'/'</element>
-            <element>lower-case((*:datafield[@tag = ('130', '240', '700')]/*:subfield[@type='http://rdaregistry.info/Elements/e/P20006'])[1])</element>
+            <element>lower-case((*:datafield[@tag = ('130', '240')]/*:subfield[@type='http://rdaregistry.info/Elements/e/P20006'], *:controlfield[@tag = '008'][@type='http://rdaregistry.info/Elements/e/P20006'] )[1])</element>
             <element>'/'</element>
             <element>lower-case((*:datafield/*:subfield[@type='http://rdaregistry.info/Elements/e/P20001']/replace(., ' ', ''))[1])</element>
             <element>'/'</element>
@@ -191,7 +197,7 @@
             </datafield>
         </attributes>
         <key order="1">
-            <element>if ((*:datafield[@tag=("020","024")][1]/*:subfield[@code='a'])[1]) then (*:datafield[@tag=("020","024")][1]/*:subfield[@code='a'])[1]/replace(., '\(.*\)', '') else concat('http://example.org/', *:controlfield[@tag='001'])</element>
+            <element>if ((*:datafield[@tag=("020","024")][1]/*:subfield[@code='a'])[1]) then (*:datafield[@tag=("020","024")][1]/*:subfield[@code='a'])[1]/replace(., '\(.*\)', '') else *:controlfield[@tag='001']</element>
         </key>
         <relationships>
             <!--<relationship type="http://rdaregistry.info/Elements/m/P30020" itype="http://rdaregistry.info/Elements/m/P30033" label="is contained in (manifestation)" ilabel="is container for (manifestation)">
@@ -225,7 +231,7 @@
         </relationships>
     </entity>
     
-    <entity tag="600"  type="http://rdaregistry.info/Elements/c/C10001" templatename="MARC21-600-Work" label="Work">
+    <entity tag="600" condition="*:subfield/@code = 't'" type="http://rdaregistry.info/Elements/c/C10001" templatename="MARC21-600-Work" label="Work">
         <note>Work identified by title in 600</note>
         <attributes>
             <datafield tag="600">
@@ -289,6 +295,9 @@
             <element>frbrizer:create-workid(*:datafield[@tag='700'], frbrizer:sort-relationships(*:relationship[@type = 'http://rdaregistry.info/Elements/w/P10061']/@href)[1])</element>
         </key>
         <relationships>
+            <relationship type="http://rdaregistry.info/Elements/w/P10019" itype="http://rdaregistry.info/Elements/w/P10147" label="part of work">
+                <target entity="MARC21-130240-Work"/>
+            </relationship>
             <relationship type="http://rdaregistry.info/Elements/w/P10078" itype="http://rdaregistry.info/Elements/e/P20231" label="has expression of work" ilabel="has work expressed">
                 <target entity="MARC21-700-Expression-Analytical" same-field="true"/>
             </relationship>
@@ -326,7 +335,7 @@
         <key order="3">
             <element>(frbrizer:sort-relationships(*:relationship[@type = 'http://rdaregistry.info/Elements/e/P20231']/@href))[1]</element>
             <element>'/'</element>
-            <element>lower-case((*:datafield[@tag = ('130', '240', '700')]/*:subfield[@type='http://rdaregistry.info/Elements/e/P20006'])[1])</element>
+            <element>lower-case((*:datafield[@tag = ('130', '240', '700')]/*:subfield[@type='http://rdaregistry.info/Elements/e/P20006'], *:controlfield[@tag = '008'][@type='http://rdaregistry.info/Elements/e/P20006'])[1])</element>
             <element>'/'</element>
             <element>lower-case((*:datafield/*:subfield[@type='http://rdaregistry.info/Elements/e/P20001']/replace(., ' ', ''))[1])</element>
             <element>'/'</element>

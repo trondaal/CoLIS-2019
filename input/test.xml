@@ -1,85 +1,115 @@
 <marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
-    <marc:record source="doyle.bne.national.library.xml">
-        <marc:leader>01610nam a22003617b 4500</marc:leader>
-        <marc:controlfield tag="001">Mimo0002269428</marc:controlfield>
-        <marc:controlfield tag="003">SpMaBN</marc:controlfield>
-        <marc:controlfield tag="005">20071128000000.4</marc:controlfield>
-        <marc:controlfield tag="008">071019s2007    sp |          ||| ||spa  </marc:controlfield>
-        <marc:datafield tag="015" ind1=" " ind2=" ">
-            <marc:subfield code="a">MON0710</marc:subfield>
+    <marc:record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd" source="1983-NOR-UK-William-Golding.xml">
+        <marc:leader>01458cam a2200373 c 4500</marc:leader>
+        <marc:controlfield tag="005">20160622162826.0</marc:controlfield>
+        <marc:controlfield tag="007">ta</marc:controlfield>
+        <marc:controlfield tag="007">cr||||||||||||</marc:controlfield>
+        <marc:controlfield tag="008">150112s1991    no#||||| |||||000|1|nob|d</marc:controlfield>
+        <marc:controlfield tag="001">999106285054702201</marc:controlfield>
+        <marc:datafield ind1=" " ind2=" " tag="015">
+            <marc:subfield code="a">9100478</marc:subfield>
+            <marc:subfield code="2">nbf</marc:subfield>
         </marc:datafield>
-        <marc:datafield tag="016" ind1="7" ind2=" ">
-            <marc:subfield code="a">bimoBNE20070709567</marc:subfield>
-            <marc:subfield code="2">SpMaBN</marc:subfield>
+        <marc:datafield ind1=" " ind2=" " tag="020">
+            <marc:subfield code="a">8252520308</marc:subfield>
+            <marc:subfield code="q">ib.</marc:subfield>
+            <marc:subfield code="c">Nkr 135.00</marc:subfield>
         </marc:datafield>
-        <marc:datafield tag="017" ind1=" " ind2=" ">
-            <marc:subfield code="a">M 49774-2006</marc:subfield>
-            <marc:subfield code="b">Oficina Depósito Legal Madrid</marc:subfield>
+        <marc:datafield ind1=" " ind2=" " tag="035">
+            <marc:subfield code="a">910628505-47bibsys_network</marc:subfield>
         </marc:datafield>
-        <marc:datafield tag="020" ind1=" " ind2=" ">
-            <marc:subfield code="a">978-84-9815-548-8</marc:subfield>
+        <marc:datafield ind1=" " ind2=" " tag="035">
+            <marc:subfield code="a">(NO-TrBIB)910628505</marc:subfield>
         </marc:datafield>
-        <marc:datafield tag="035" ind1=" " ind2=" ">
-            <marc:subfield code="a">(OCoLC)434509132</marc:subfield>
+        <marc:datafield ind1=" " ind2=" " tag="035">
+            <marc:subfield code="a">(NO-TrBIB)100713750</marc:subfield>
         </marc:datafield>
-        <marc:datafield tag="040" ind1=" " ind2=" ">
-            <marc:subfield code="a">SpMaBN</marc:subfield>
-            <marc:subfield code="b">spa</marc:subfield>
-            <marc:subfield code="c">SpMaBN</marc:subfield>
-            <marc:subfield code="e">rdc</marc:subfield>
+        <marc:datafield ind1=" " ind2=" " tag="040">
+            <marc:subfield code="a">NO-TrBIB</marc:subfield>
+            <marc:subfield code="b">nob</marc:subfield>
+            <marc:subfield code="e">katreg</marc:subfield>
         </marc:datafield>
-        <marc:datafield tag="080" ind1=" " ind2="0">
-            <marc:subfield code="a">087.5:82</marc:subfield>
+        <marc:datafield ind1="1" ind2=" " tag="041">
+            <marc:subfield code="h">eng</marc:subfield>
         </marc:datafield>
-        <marc:datafield tag="100" ind1="1" ind2=" ">
-            <marc:subfield code="a">Ochoa, Núria</marc:subfield>
-            <marc:subfield code="1p">ochoanria</marc:subfield>
+        <marc:datafield ind1=" " ind2=" " tag="044">
+            <marc:subfield code="c">no</marc:subfield>
         </marc:datafield>
-        <marc:datafield tag="240" ind1=" " ind2=" " auto="true">
-            <marc:subfield code="a">Sherlock Holmes</marc:subfield>
-            <marc:subfield code="l">spa</marc:subfield>
-            <marc:subfield code="1w">ochoanria/sherlockholmes</marc:subfield>
+        <marc:datafield ind1=" " ind2=" " tag="080">
+            <marc:subfield code="a">h</marc:subfield>
         </marc:datafield>
-        <marc:datafield tag="245" ind1="1" ind2="0">
-            <marc:subfield code="a">Sherlock Holmes</marc:subfield>
-            <marc:subfield code="h">[Texto impreso]</marc:subfield>
-            <marc:subfield code="c">[adaptación de textos, Núria Ochoa ; ilustraciones, Cristina
-                Picazo]</marc:subfield>
+        <marc:datafield ind1="7" ind2="4" tag="082">
+            <marc:subfield code="a">823</marc:subfield>
+            <marc:subfield code="q">NO-OsNB</marc:subfield>
+            <marc:subfield code="2">4/nor</marc:subfield>
         </marc:datafield>
-        <marc:datafield tag="260" ind1=" " ind2=" ">
-            <marc:subfield code="a">Madrid</marc:subfield>
-            <marc:subfield code="b">El País</marc:subfield>
-            <marc:subfield code="c">[2007]</marc:subfield>
+        <marc:datafield ind1="1" ind2=" " tag="100">
+            <marc:subfield code="a">Golding, William</marc:subfield>
+            <marc:subfield code="d">1911-1993</marc:subfield>
+            <marc:subfield code="0">(NO-TrBIB)90079780</marc:subfield>
+            <marc:subfield code="1p">http://viaf.org/viaf/89500102</marc:subfield>
         </marc:datafield>
-        <marc:datafield tag="300" ind1=" " ind2=" ">
-            <marc:subfield code="a">[28] p.</marc:subfield>
-            <marc:subfield code="b">il. col.</marc:subfield>
-            <marc:subfield code="c">31 cm</marc:subfield>
+        <marc:datafield tag="240" ind1="1" ind2="0">
+            <marc:subfield code="a">Lord of the flies</marc:subfield>
+            <marc:subfield code="1w">http://viaf.org/viaf/119144648592107423604</marc:subfield>
+            <marc:subfield code="l">nob</marc:subfield>
         </marc:datafield>
-        <marc:datafield tag="490" ind1="0" ind2=" ">
-            <marc:subfield code="a">Mis primeros clásicos</marc:subfield>
-            <marc:subfield code="v">29</marc:subfield>
+        <marc:datafield ind1="1" ind2="0" tag="245">
+            <marc:subfield code="a">Fluenes herre</marc:subfield>
+            <marc:subfield code="c">William Golding ; oversatt av Inger Hagerup ; etterord av Haagen Ringnes ; illustrasjoner av Finn Graff</marc:subfield>
         </marc:datafield>
-        <marc:datafield tag="500" ind1=" " ind2=" ">
-            <marc:subfield code="a">"Un tren de valores, Renfe"</marc:subfield>
+        <marc:datafield ind1="1" ind2=" " tag="246">
+            <marc:subfield code="a">Lord of the flies</marc:subfield>
+            <marc:subfield code="i">Originaltittel</marc:subfield>
         </marc:datafield>
-        <marc:datafield tag="594" ind1=" " ind2=" ">
-            <marc:subfield code="a">Adaptación de: The adventures of Sherlock Holmes / Arthur Conan
-                Doyle</marc:subfield>
+        <marc:datafield ind1=" " ind2=" " tag="260">
+            <marc:subfield code="a">[Stabekk]</marc:subfield>
+            <marc:subfield code="b">Den norske bokklubben</marc:subfield>
+            <marc:subfield code="c">1991</marc:subfield>
         </marc:datafield>
-        <marc:datafield tag="700" ind1="1" ind2=" ">
-            <marc:subfield code="a">Doyle, Arthur Conan</marc:subfield>
-            <marc:subfield code="c">Sir</marc:subfield>
-            <marc:subfield code="d">1859-1930</marc:subfield>
-            <marc:subfield code="t">The adventures of Sherlock Holmes</marc:subfield>
-            <marc:subfield code="1p">http://viaf.org/viaf/65283845</marc:subfield>
-            <marc:subfield code="1w">http://viaf.org/viaf/186734487</marc:subfield>
-            <marc:subfield code="4">http://rdaregistry.info/Elements/w/adaptationOfWork.en</marc:subfield>
+        <marc:datafield ind1=" " ind2=" " tag="300">
+            <marc:subfield code="a">211 s.</marc:subfield>
+            <marc:subfield code="b">ill.</marc:subfield>
+            <marc:subfield code="c">22 cm</marc:subfield>
         </marc:datafield>
-        <marc:datafield tag="700" ind1="1" ind2=" ">
-            <marc:subfield code="a">Picazo, Cristina</marc:subfield>
-            <marc:subfield code="1p">picazocristina</marc:subfield>
+        <marc:datafield tag="336" ind1=" " ind2=" ">
+            <marc:subfield code="a">text</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="500">
+            <marc:subfield code="a">1. norske utg. Oslo : Gyldendal, 1960</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="0" ind2=" " tag="506">
+            <marc:subfield code="f">Åpen tilgang</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1=" " ind2=" " tag="533">
+            <marc:subfield code="a">Elektronisk reproduksjon</marc:subfield>
+            <marc:subfield code="b">[Norge]</marc:subfield>
+            <marc:subfield code="c">Nasjonalbiblioteket Digital</marc:subfield>
+            <marc:subfield code="d">2010-03-24</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="1" ind2=" " tag="700">
+            <marc:subfield code="a">Hagerup, Inger</marc:subfield>
+            <marc:subfield code="d">1905-1985</marc:subfield>
+            <marc:subfield code="4">trl</marc:subfield>
+            <marc:subfield code="0">(NO-TrBIB)90534304</marc:subfield>
+            <marc:subfield code="1p">hagerupinger</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="1" ind2=" " tag="700">
+            <marc:subfield code="a">Graff, Finn</marc:subfield>
+            <marc:subfield code="d">1938-</marc:subfield>
             <marc:subfield code="4">ill</marc:subfield>
+            <marc:subfield code="0">(NO-TrBIB)90137408</marc:subfield>
+            <marc:subfield code="1p">grafffinn</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="4" ind2="2" tag="856">
+            <marc:subfield code="3">Beskrivelse fra Forlagssentralen</marc:subfield>
+            <marc:subfield code="u">http://content.bibsys.no/content/?type=descr_forlagssentr&amp;isbn=8252520308</marc:subfield>
+        </marc:datafield>
+        <marc:datafield ind1="4" ind2="0" tag="856">
+            <marc:subfield code="3">Fulltekst</marc:subfield>
+            <marc:subfield code="u">http://urn.nb.no/URN:NBN:no-nb_digibok_2007081001013</marc:subfield>
+            <marc:subfield code="y">NB digitalisert</marc:subfield>
+            <marc:subfield code="z">Elektronisk reproduksjon. Gratis. For norske IP-adresser</marc:subfield>
         </marc:datafield>
     </marc:record>
 </marc:collection>

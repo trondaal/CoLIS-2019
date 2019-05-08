@@ -9,7 +9,6 @@
          xmlns:a="http://rdaregistry.info/Elements/a/"
          xmlns:w="http://rdaregistry.info/Elements/w/"
          xmlns:e="http://rdaregistry.info/Elements/e/"
-         xmlns:x="http://rdaregistry.info/Elements/x/"
          xml:base="http://example.org/rda/">
    <bibframe:Instance rdf:about="urn:isbn:0704370492">
       <marc:M001>011985302</marc:M001>
@@ -22,13 +21,12 @@
       <m:P30182>312p.</m:P30182>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
-      <bibframe:instanceOf rdf:resource="http://viaf.org/viaf/181460365/eng/text/14767431/patriciahaugaard"/>
+      <bibframe:instanceOf rdf:resource="http://viaf.org/viaf/181460365/eng"/>
    </bibframe:Instance>
    <bibframe:Person rdf:about="http://viaf.org/viaf/14767431">
       <a:P50111>Cela, Camilo José</a:P50111>
       <a:P50107>1916-2002</a:P50107>
-      <a:P50204 rdf:resource="http://viaf.org/viaf/181460365/original"/>
-      <a:P50204 rdf:resource="http://viaf.org/viaf/181460365/eng/text/14767431/patriciahaugaard"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/181460365/eng"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="http://viaf.org/viaf/65283845">
       <a:P50111>Doyle, Arthur Conan</a:P50111>
@@ -41,36 +39,24 @@
    </bibframe:Person>
    <bibframe:Person rdf:about="patriciahaugaard">
       <a:P50111>Patricia Haugaard</a:P50111>
-      <a:P50145 rdf:resource="http://viaf.org/viaf/181460365/eng/text/14767431/patriciahaugaard"/>
+      <a:P50145 rdf:resource="http://viaf.org/viaf/181460365/eng"/>
    </bibframe:Person>
    <bibframe:Work rdf:about="http://viaf.org/viaf/179061639">
       <w:P10088>Dette er tittel til et relatert verk</w:P10088>
-      <a:P50204 rdf:resource="http://viaf.org/viaf/179061639"/>
       <w:P10065 rdf:resource="http://viaf.org/viaf/65283845"/>
-      <w:P10065 rdf:resource="http://viaf.org/viaf/179061639"/>
-      <w:P10155 rdf:resource="http://viaf.org/viaf/181460365/original"/>
    </bibframe:Work>
-   <bibframe:Work rdf:about="http://viaf.org/viaf/181460365/eng/text/14767431/patriciahaugaard">
+   <bibframe:Work rdf:about="http://viaf.org/viaf/181460365/eng">
       <e:P20006>eng</e:P20006>
       <w:P10088>Dette er orginaltittelen for en oversatt roman</w:P10088>
       <m:P30156>Dette er tittelen som står på boka /</m:P30156>
       <m:P30117>Camilo José Cela ; translated by Patricia Haugaard.</m:P30117>
       <e:P20001>text</e:P20001>
       <bibframe:hasInstance rdf:resource="urn:isbn:0704370492"/>
-      <bibframe:translationOf rdf:resource="http://viaf.org/viaf/181460365/original"/>
       <e:P20037 rdf:resource="patriciahaugaard"/>
-      <w:P10065 rdf:resource="http://viaf.org/viaf/14767431"/>
-   </bibframe:Work>
-   <bibframe:Work rdf:about="http://viaf.org/viaf/181460365/original">
-      <w:P10088>Dette er orginaltittelen for en oversatt roman</w:P10088>
-      <bibframe:translation rdf:resource="http://viaf.org/viaf/181460365/eng/text/14767431/patriciahaugaard"/>
-      <w:P10065 rdf:resource="http://viaf.org/viaf/14767431"/>
-      <w:P10142 rdf:resource="http://viaf.org/viaf/179061639"/>
-      <w:P10256 rdf:resource="http://viaf.org/viaf/testidverkemne"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/14767431"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://viaf.org/viaf/testidverkemne">
       <w:P10088>Dette er tittel til et relatert verk</w:P10088>
       <w:P10061 rdf:resource="http://viaf.org/viaf/testidpersonemne"/>
-      <x:P00014 rdf:resource="http://viaf.org/viaf/181460365/original"/>
    </bibframe:Work>
 </rdf:RDF>

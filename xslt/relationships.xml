@@ -37,7 +37,6 @@
         <forward>http://rdaregistry.info/Elements/e/P20022</forward>
         <reverse>http://rdaregistry.info/Elements/a/P50081</reverse>
         <domain>bf:Work</domain>
-        <domain>Record bf:Work</domain>
         <domain>Expression</domain>
         <range>Person</range>
     </rel>
@@ -52,13 +51,21 @@
         <range>Person</range>
     </rel>
     <rel>
-        <k>http://rdaregistry.info/Elements/w/compilerAgent.en</k>
+        <k>http://rdaregistry.info/Elements/e/editorAgentOfText.en</k>
         <k>edt</k>
         <forward>http://rdaregistry.info/Elements/e/P20330</forward>
         <reverse>http://rdaregistry.info/Elements/a/P50450</reverse>
         <domain>bf:Work</domain>
-        <domain>Record bf:Work</domain>
         <domain>Manifestation</domain>
+        <range>Person</range>
+    </rel>
+    <rel>
+        <k>http://rdaregistry.info/Elements/w/compilerAgent.en</k>
+        <k>com</k>
+        <forward>http://rdaregistry.info/Elements/w/P10055</forward>
+        <reverse>http://rdaregistry.info/Elements/a/P50189</reverse>
+        <domain>bf:Work</domain>
+        <domain>Work</domain>
         <range>Person</range>
     </rel>
     <rel>
@@ -127,11 +134,21 @@
         <range>Person</range>
     </rel>
     <rel>
+        <k>http://rdaregistry.info/Elements/e/stageDirectorPerson.en</k>
+        <k>rdd</k>
+        <forward>http://rdaregistry.info/Elements/e/P20364</forward>
+        <reverse>http://rdaregistry.info/Elements/a/P50139</reverse>
+        <domain>bf:Work</domain>
+        <domain>Expression</domain>
+        <range>Person</range>
+    </rel>
+    <rel>
         <k>http://rdaregistry.info/Elements/m/contributorAgentToAggregate.en</k>
         <k>aui</k>
         <k>aft</k>
         <k>wpr</k>
         <k>ctb</k>
+        <k>ann</k>
         <forward>http://rdaregistry.info/Elements/m/P30327</forward>
         <reverse>http://rdaregistry.info/Elements/a/P50528</reverse>
         <domain>bf:Work</domain>
@@ -153,9 +170,17 @@
         <forward>http://rdaregistry.info/Elements/w/P10064</forward>
         <reverse>http://rdaregistry.info/Elements/a/P50213</reverse>
         <domain>Original bf:Work</domain>
-        <domain>Record bf:Work</domain>
         <domain>bf:Work</domain>
         <domain>Work</domain>
+        <range>Person</range>
+    </rel>
+    <rel>
+        <k>http://rdaregistry.info/Elements/w/producerAgent.en</k>
+        <k>rpc</k>
+        <forward>http://rdaregistry.info/Elements/w/P10064</forward>
+        <reverse>http://rdaregistry.info/Elements/a/P50213</reverse>
+        <domain>bf:Work</domain>
+        <domain>Expression</domain>
         <range>Person</range>
     </rel>
     <rel>
@@ -163,9 +188,8 @@
         <k>http://rdaregistry.info/Elements/w/composerAgentOfWork.en</k>
         <forward>http://rdaregistry.info/Elements/w/P10053</forward>
         <reverse>http://rdaregistry.info/Elements/a/P50187</reverse>
-        <domain>Original bf:Work</domain>
         <domain>bf:Work</domain>
-        <domain>Work</domain>
+        <domain>Expression</domain>
         <range>Person</range>
     </rel>
     <rel>
@@ -200,15 +224,8 @@
         <reverse>http://rdaregistry.info/Elements/a/P50447</reverse>
         <domain>bf:Work</domain>
         <domain>Record bf:Work</domain>
-        <domain>Work</domain>
+        <domain>Expression</domain>
         <range>Person</range>
-    </rel>
-    <rel>
-        <k>http://rdaregistry.info/Elements/w/commentaryOnWork.en</k>
-        <forward>http://rdaregistry.info/Elements/w/P10187</forward>
-        <reverse>http://rdaregistry.info/Elements/w/P10116</reverse>
-        <domain>Work</domain>
-        <range>Work</range>
     </rel>
     <rel>
         <k>http://rdaregistry.info/Elements/w/basedOnWork.en</k>
@@ -255,5 +272,12 @@
         <reverse>http://rdaregistry.info/Elements/w/P10191</reverse>
         <domain>Work</domain>
         <range>Person</range>
+    </rel>
+    <rel>
+        <k>http://rdaregistry.info/Elements/w/commentaryOnWork.en</k>
+        <forward>http://rdaregistry.info/Elements/w/P10187</forward>
+        <reverse>http://rdaregistry.info/Elements/w/P10116</reverse>
+        <domain>Work</domain>
+        <range>Work</range>
     </rel>
 </rels>
