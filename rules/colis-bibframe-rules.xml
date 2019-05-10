@@ -70,7 +70,7 @@
     
    <!-- Entry for Original Work (in case the work described is a translation 130/240$l -->
     
-    <entity tag="130, 240" condition="false() and *:subfield/@code = 'l'"  type="http://id.loc.gov/ontologies/bibframe/Work" templatename="MARC21-130240-Bibframe-Work-Original" label="Work">
+    <entity tag="130, 240" condition="*:subfield/@code = 'l'"  type="http://id.loc.gov/ontologies/bibframe/Work" templatename="MARC21-130240-Bibframe-Work-Original" label="Work">
         <note>Original work identified by title in 240 or 130. The presence of $l indicates that resource described is a translation.
         This default 240 template creates a work reagardless of $l or not, and this template is used to create a work for the original, identified by the </note>
         <attributes>
@@ -108,7 +108,7 @@
                 <target entity="MARC21-700-Bibframe-Work-Related"/>
             </relationship>
             <relationship  type="http://rdaregistry.info/Elements/w/P10257" itype="http://rdaregistry.info/Elements/w/P10264">
-                <target entity="MARC21-600-Bibframe-Work-Subject"/>
+                <target entity="MARC21-600-Bibframe-Work-Subject" condition="$this_field/*:subfield[@code = '1w'] ne $target_field/*:subfield[@code = '1w']"/>
             </relationship>
             <relationship type="http://rdaregistry.info/Elements/w/P10261" itype="http://rdaregistry.info/Elements/a/P50249">
                 <target entity="MARC21-600-Bibframe-Person-Subject" condition="not($target_field/*:subfield/@code = 't')"/>
@@ -155,9 +155,9 @@
         </attributes>
         <key order="3">
             <element>frbrizer:create-workid(*:datafield[@tag=('130', '240', '245')], frbrizer:sort-relationships(*:relationship[@type = ('http://rdaregistry.info/Elements/w/P10061', 'http://rdaregistry.info/Elements/w/P10065')]/@href)[1])</element>
-            <!--<element>if (//.[@type='http://rdaregistry.info/Elements/e/P20001']) then '/'||lower-case((//.[@type='http://rdaregistry.info/Elements/e/P20001'])[1]) else ()</element>-->
+            <element>if (//.[@type='http://rdaregistry.info/Elements/e/P20001']) then '/'||lower-case((//.[@type='http://rdaregistry.info/Elements/e/P20001'])[1]) else ()</element>
             <element>if (//.[@type='http://rdaregistry.info/Elements/e/P20006']) then '/'||lower-case((//.[@type='http://rdaregistry.info/Elements/e/P20006'])[1]) else ()</element> 
-            <!--<element>if (*:relationship[@type = $relmap/rels/rel[domain = 'bf:Work']/forward]) then '/'||string-join(frbrizer:trimsort-targets(*:relationship[@type = $relmap/rels/rel[domain = 'bf:Work']/forward]/@href), '/') else ()</element>-->
+            <element>if (*:relationship[@type = $relmap/rels/rel[domain = 'bf:Work']/forward]) then '/'||string-join(frbrizer:trimsort-targets(*:relationship[@type = $relmap/rels/rel[domain = 'bf:Work']/forward]/@href), '/') else ()</element>
         </key>
         <relationships>
             <relationship type="http://id.loc.gov/ontologies/bibframe/hasInstance" itype="http://id.loc.gov/ontologies/bibframe/instanceOf">
@@ -401,9 +401,9 @@
         <key order="2">
             <element>*:datafield[@tag='700']/*:subfield[@code='1w']</element>
             <!--<element>frbrizer:create-workid(*:datafield[@tag='700'], frbrizer:sort-relationships(*:relationship[@type = ('http://rdaregistry.info/Elements/w/P10061', 'http://rdaregistry.info/Elements/w/P10065')]/@href)[1])</element>-->
-            <!--<element>if (//.[@type='http://rdaregistry.info/Elements/e/P20001']) then '/'||lower-case((//.[@type='http://rdaregistry.info/Elements/e/P20001'])[1]) else ()</element>-->
+            <element>if (//.[@type='http://rdaregistry.info/Elements/e/P20001']) then '/'||lower-case((//.[@type='http://rdaregistry.info/Elements/e/P20001'])[1]) else ()</element>
             <element>if (//.[@type='http://rdaregistry.info/Elements/e/P20006']) then '/'||lower-case((//.[@type='http://rdaregistry.info/Elements/e/P20006'])[1]) else ()</element>
-            <!--<element>if (*:relationship[@type = $relmap/rels/rel[domain = 'bf:Work']/forward]) then '/'||string-join(frbrizer:trimsort-targets(*:relationship[@type = $relmap/rels/rel[domain = 'bf:Work']/forward]/@href), '/') else ()</element>-->
+            <element>if (*:relationship[@type = $relmap/rels/rel[domain = 'bf:Work']/forward]) then '/'||string-join(frbrizer:trimsort-targets(*:relationship[@type = $relmap/rels/rel[domain = 'bf:Work']/forward]/@href), '/') else ()</element>
         </key>
         <relationships>
             <relationship type="http://id.loc.gov/ontologies/bibframe/partOf" itype="http://id.loc.gov/ontologies/bibframe/hasPart">
@@ -414,7 +414,7 @@
     
     <!-- Original work in Analytic entry (with ind2='2') -->
     
-    <entity tag="700" condition="false() and @ind2 eq '2' and *:subfield/@code='t' and *:subfield/@code='l'" type="http://id.loc.gov/ontologies/bibframe/Work" templatename="MARC21-700-Bibframe-Work-Analytic-Original" label="Work">
+    <entity tag="700" condition="@ind2 eq '2' and *:subfield/@code='t' and *:subfield/@code='l'" type="http://id.loc.gov/ontologies/bibframe/Work" templatename="MARC21-700-Bibframe-Work-Analytic-Original" label="Work">
         <note>Analytic Work identified by title in 700 and ind2=2</note>
         <attributes>
              <datafield tag="700">
