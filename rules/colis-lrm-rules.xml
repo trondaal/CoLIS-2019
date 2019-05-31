@@ -111,19 +111,23 @@
                 <subfield code="j" type="http://rdaregistry.info/Elements/e/P20006" label="has language of expression"/>
             </datafield>-->
             <datafield tag="130">
-                <subfield code="a" type="http://rdaregistry.info/Elements/e/P20312" label="has title"/>
-                <subfield code="s" type="http://rdaregistry.info/Elements/e/P20003" label="has other distinguishing characteristic of the expression"/>
-                <subfield code="l" select="lower-case(.)" type="http://rdaregistry.info/Elements/e/P20006" label="has language of expression"/>
-                <subfield code="g" type="http://rdaregistry.info/Elements/e/P20312" label="has title"/>
+                <subfield code="a" type="http://rdaregistry.info/Elements/e/P20316" select="frbrizer:trim(.)" label="has variant title"/>
+                <subfield code="h" type="http://rdaregistry.info/Elements/e/P20001" select="lower-case(frbrizer:trim(.))" label="has content type"/>
+                <subfield code="l" type="http://rdaregistry.info/Elements/e/P20006" select="lower-case(.)" label="has language of expression"/>
             </datafield>
             <datafield tag="240">
-                <subfield code="a" type="http://rdaregistry.info/Elements/e/P20312" label="has title"/>
-                <subfield code="s" type="http://rdaregistry.info/Elements/e/P20003" label="has other distinguishing characteristic of the expression"/>
+                <subfield code="a" type="http://rdaregistry.info/Elements/e/P20316" select="frbrizer:trim(.)" label="has variant title"/>
+                <subfield code="h" type="http://rdaregistry.info/Elements/e/P20001" select="lower-case(frbrizer:trim(.))" label="has content type"/>
                 <subfield code="l" select="lower-case(.)" type="http://rdaregistry.info/Elements/e/P20006" label="has language of expression"/>
-                <subfield code="g" type="http://rdaregistry.info/Elements/e/P20312" label="has title"/>
+            </datafield>
+            <datafield tag="245">
+                <subfield code="a" type="http://rdaregistry.info/Elements/e/P20316" select="frbrizer:trim(.)" label="has variant title"/>
             </datafield>
             <datafield tag="336">
                 <subfield code="a" select="lower-case(.)" type="http://rdaregistry.info/Elements/e/P20001" label="has content type"/>
+            </datafield>
+            <datafield tag="740" condition="frbrizer:linked-strict($anchor_field, .)">
+                <subfield code="a" select="frbrizer:trim(.)"  type="http://rdaregistry.info/Elements/e/P20315" label="has preferred title"/>
             </datafield>
         </attributes>
         <label select="string-join((*:datafield[@tag='336']/*:subfield[@code='a'], *:datafield[@tag='041']/*:subfield[@code=('a', 'd')][1]), '/')"/>
@@ -135,7 +139,6 @@
             <element>lower-case((*:datafield/*:subfield[@type='http://rdaregistry.info/Elements/e/P20001']/replace(., ' ', ''))[1])</element>
             <element>'/'</element>
             <element>string-join(frbrizer:trimsort-targets(*:relationship[@type =('http://rdaregistry.info/Elements/e/P20037', 'http://rdaregistry.info/Elements/e/P20022', 'http://rdaregistry.info/Elements/e/P20049')]/@href), '/')</element>
-            
             <!--<element>frbrizer:trimsort-targets(*:relationship[$relmap/rels/rel[forward = @type and domain = "Expression"]]/@href)</element>-->
         </key>
         <relationships>
@@ -154,17 +157,16 @@
         <attributes>
             <controlfield tag="001" type="http://marc21rdf.info/elements/marc/M001"/>
             <datafield tag="020">
-                <subfield code="a" type="http://rdaregistry.info/Elements/m/P30004" select="concat('urn:isbn:', replace(., '\D', ''))" label="has identifier for the manifestation"/>
+                <subfield code="a" type="http://rdaregistry.info/Elements/m/P30004" select="concat('isbn-', replace(., '\D', ''))" label="has identifier for the manifestation"/>
             </datafield>
             <datafield tag="022">
-                <subfield code="a" type="http://rdaregistry.info/Elements/m/P30004" select="concat('urn:issn:', ./replace(., '\D', ''))" label="has identifier for the manifestation"/>
+                <subfield code="a" type="http://rdaregistry.info/Elements/m/P30004" select="concat('issn-', ./replace(., '\D', ''))" label="has identifier for the manifestation"/>
             </datafield>
             <datafield tag="024">
-                <subfield code="a" type="http://rdaregistry.info/Elements/m/P30004" select="concat('urn:',frbrizer:idprefix(../@ind1) ,':', replace(., '\D', ''))" label="has identifier for the manifestation"/>
+                <subfield code="a" type="http://rdaregistry.info/Elements/m/P30004" select="concat(frbrizer:idprefix(../@ind1) ,'-', replace(., '\D', ''))" label="has identifier for the manifestation"/>
             </datafield>
             <datafield tag="245">
                 <subfield code="a" type="http://rdaregistry.info/Elements/m/P30156" select="string-join((frbrizer:trim(.), frbrizer:trim(../*:subfield[@code = 'b'])), ' : ')" label="has title proper"/>
-                <subfield code="b" type="frbrer:P3020" label="has title of the manifestation"/>
                 <subfield code="c" type="http://rdaregistry.info/Elements/m/P30117" select="frbrizer:trim(.)" label="has statement of responsibility"/>
             </datafield>
             <datafield tag="250">
@@ -325,11 +327,12 @@
                 <subfield code="a" select="lower-case(.)" type="http://rdaregistry.info/Elements/e/P20001" label="has content type"/>
             </datafield>
             <datafield tag="700">
-                <subfield code="h" type="http://rdaregistry.info/Elements/e/P20001" label="has content type"/>
+                <subfield code="h" select="lower-case(frbrizer:trim(.))" type="http://rdaregistry.info/Elements/e/P20001" label="has content type"/>
                 <subfield code="l" select="lower-case(.)" type="http://rdaregistry.info/Elements/e/P20006" label="has language of expression"/>
-                <subfield code="g" type="http://rdaregistry.info/Elements/e/P20312" label="has title"/>
-                <subfield code="t" type="http://rdaregistry.info/Elements/e/P20312" label="has title"/>
-                <subfield code="s" type="http://rdaregistry.info/Elements/e/P20003" label="has other distinguishing characteristic of the expression"/>
+                <subfield code="t" select="frbrizer:trim(.)" type="http://rdaregistry.info/Elements/e/P20316" label="has variant title"/>
+            </datafield>
+            <datafield tag="740" condition="frbrizer:linked-strict($anchor_field, .)">
+                <subfield code="a" select="frbrizer:trim(.)" type="http://rdaregistry.info/Elements/e/P20315" label="has preferred title"/>
             </datafield>
         </attributes>
         <key order="3">

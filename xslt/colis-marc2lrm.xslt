@@ -535,29 +535,28 @@
                   </xsl:call-template>
                </xsl:copy>
             </xsl:for-each>
-            <xsl:for-each select="$record/*:datafield[@tag='130'][*:subfield/@code = ('a','s','l','g')]">
+            <xsl:for-each select="$record/*:datafield[@tag='130'][*:subfield/@code = ('a','h','l')]">
                <xsl:copy>
                   <xsl:call-template name="copy-attributes"/>
                   <xsl:if test="$include_counters">
                      <xsl:attribute name="c" select="1"/>
                   </xsl:if>
-                  <xsl:for-each select="*:subfield[@code = ('a','s','l','g')]">
+                  <xsl:for-each select="*:subfield[@code = ('a','h','l')]">
                      <xsl:if test="@code = 'a'">
                         <xsl:copy>
                            <xsl:call-template name="copy-content">
-                              <xsl:with-param name="type" select="'http://rdaregistry.info/Elements/e/P20312'"/>
-                              <xsl:with-param name="label" select="'has title'"/>
-                              <xsl:with-param name="select" select="."/>
+                              <xsl:with-param name="type" select="'http://rdaregistry.info/Elements/e/P20316'"/>
+                              <xsl:with-param name="label" select="'has variant title'"/>
+                              <xsl:with-param name="select" select="frbrizer:trim(.)"/>
                            </xsl:call-template>
                         </xsl:copy>
                      </xsl:if>
-                     <xsl:if test="@code = 's'">
+                     <xsl:if test="@code = 'h'">
                         <xsl:copy>
                            <xsl:call-template name="copy-content">
-                              <xsl:with-param name="type" select="'http://rdaregistry.info/Elements/e/P20003'"/>
-                              <xsl:with-param name="label"
-                                              select="'has other distinguishing characteristic of the expression'"/>
-                              <xsl:with-param name="select" select="."/>
+                              <xsl:with-param name="type" select="'http://rdaregistry.info/Elements/e/P20001'"/>
+                              <xsl:with-param name="label" select="'has content type'"/>
+                              <xsl:with-param name="select" select="lower-case(frbrizer:trim(.))"/>
                            </xsl:call-template>
                         </xsl:copy>
                      </xsl:if>
@@ -567,15 +566,6 @@
                               <xsl:with-param name="type" select="'http://rdaregistry.info/Elements/e/P20006'"/>
                               <xsl:with-param name="label" select="'has language of expression'"/>
                               <xsl:with-param name="select" select="lower-case(.)"/>
-                           </xsl:call-template>
-                        </xsl:copy>
-                     </xsl:if>
-                     <xsl:if test="@code = 'g'">
-                        <xsl:copy>
-                           <xsl:call-template name="copy-content">
-                              <xsl:with-param name="type" select="'http://rdaregistry.info/Elements/e/P20312'"/>
-                              <xsl:with-param name="label" select="'has title'"/>
-                              <xsl:with-param name="select" select="."/>
                            </xsl:call-template>
                         </xsl:copy>
                      </xsl:if>
@@ -590,29 +580,28 @@
                   </xsl:if>
                </xsl:copy>
             </xsl:for-each>
-            <xsl:for-each select="$record/*:datafield[@tag='240'][*:subfield/@code = ('a','s','l','g')]">
+            <xsl:for-each select="$record/*:datafield[@tag='240'][*:subfield/@code = ('a','h','l')]">
                <xsl:copy>
                   <xsl:call-template name="copy-attributes"/>
                   <xsl:if test="$include_counters">
                      <xsl:attribute name="c" select="1"/>
                   </xsl:if>
-                  <xsl:for-each select="*:subfield[@code = ('a','s','l','g')]">
+                  <xsl:for-each select="*:subfield[@code = ('a','h','l')]">
                      <xsl:if test="@code = 'a'">
                         <xsl:copy>
                            <xsl:call-template name="copy-content">
-                              <xsl:with-param name="type" select="'http://rdaregistry.info/Elements/e/P20312'"/>
-                              <xsl:with-param name="label" select="'has title'"/>
-                              <xsl:with-param name="select" select="."/>
+                              <xsl:with-param name="type" select="'http://rdaregistry.info/Elements/e/P20316'"/>
+                              <xsl:with-param name="label" select="'has variant title'"/>
+                              <xsl:with-param name="select" select="frbrizer:trim(.)"/>
                            </xsl:call-template>
                         </xsl:copy>
                      </xsl:if>
-                     <xsl:if test="@code = 's'">
+                     <xsl:if test="@code = 'h'">
                         <xsl:copy>
                            <xsl:call-template name="copy-content">
-                              <xsl:with-param name="type" select="'http://rdaregistry.info/Elements/e/P20003'"/>
-                              <xsl:with-param name="label"
-                                              select="'has other distinguishing characteristic of the expression'"/>
-                              <xsl:with-param name="select" select="."/>
+                              <xsl:with-param name="type" select="'http://rdaregistry.info/Elements/e/P20001'"/>
+                              <xsl:with-param name="label" select="'has content type'"/>
+                              <xsl:with-param name="select" select="lower-case(frbrizer:trim(.))"/>
                            </xsl:call-template>
                         </xsl:copy>
                      </xsl:if>
@@ -625,12 +614,30 @@
                            </xsl:call-template>
                         </xsl:copy>
                      </xsl:if>
-                     <xsl:if test="@code = 'g'">
+                  </xsl:for-each>
+                  <xsl:if test="$include_MARC001_in_subfield">
+                     <xsl:element name="frbrizer:mid">
+                        <xsl:attribute name="i" select="$marcid"/>
+                        <xsl:if test="$include_counters">
+                           <xsl:attribute name="c" select="1"/>
+                        </xsl:if>
+                     </xsl:element>
+                  </xsl:if>
+               </xsl:copy>
+            </xsl:for-each>
+            <xsl:for-each select="$record/*:datafield[@tag='245'][*:subfield/@code = ('a')]">
+               <xsl:copy>
+                  <xsl:call-template name="copy-attributes"/>
+                  <xsl:if test="$include_counters">
+                     <xsl:attribute name="c" select="1"/>
+                  </xsl:if>
+                  <xsl:for-each select="*:subfield[@code = ('a')]">
+                     <xsl:if test="@code = 'a'">
                         <xsl:copy>
                            <xsl:call-template name="copy-content">
-                              <xsl:with-param name="type" select="'http://rdaregistry.info/Elements/e/P20312'"/>
-                              <xsl:with-param name="label" select="'has title'"/>
-                              <xsl:with-param name="select" select="."/>
+                              <xsl:with-param name="type" select="'http://rdaregistry.info/Elements/e/P20316'"/>
+                              <xsl:with-param name="label" select="'has variant title'"/>
+                              <xsl:with-param name="select" select="frbrizer:trim(.)"/>
                            </xsl:call-template>
                         </xsl:copy>
                      </xsl:if>
@@ -658,6 +665,33 @@
                               <xsl:with-param name="type" select="'http://rdaregistry.info/Elements/e/P20001'"/>
                               <xsl:with-param name="label" select="'has content type'"/>
                               <xsl:with-param name="select" select="lower-case(.)"/>
+                           </xsl:call-template>
+                        </xsl:copy>
+                     </xsl:if>
+                  </xsl:for-each>
+                  <xsl:if test="$include_MARC001_in_subfield">
+                     <xsl:element name="frbrizer:mid">
+                        <xsl:attribute name="i" select="$marcid"/>
+                        <xsl:if test="$include_counters">
+                           <xsl:attribute name="c" select="1"/>
+                        </xsl:if>
+                     </xsl:element>
+                  </xsl:if>
+               </xsl:copy>
+            </xsl:for-each>
+            <xsl:for-each select="$record/*:datafield[@tag='740'][frbrizer:linked-strict($anchor_field, .)][*:subfield/@code = ('a')]">
+               <xsl:copy>
+                  <xsl:call-template name="copy-attributes"/>
+                  <xsl:if test="$include_counters">
+                     <xsl:attribute name="c" select="1"/>
+                  </xsl:if>
+                  <xsl:for-each select="*:subfield[@code = ('a')]">
+                     <xsl:if test="@code = 'a'">
+                        <xsl:copy>
+                           <xsl:call-template name="copy-content">
+                              <xsl:with-param name="type" select="'http://rdaregistry.info/Elements/e/P20315'"/>
+                              <xsl:with-param name="label" select="'has preferred title'"/>
+                              <xsl:with-param name="select" select="frbrizer:trim(.)"/>
                            </xsl:call-template>
                         </xsl:copy>
                      </xsl:if>
@@ -1165,7 +1199,7 @@
                            <xsl:call-template name="copy-content">
                               <xsl:with-param name="type" select="'http://rdaregistry.info/Elements/m/P30004'"/>
                               <xsl:with-param name="label" select="'has identifier for the manifestation'"/>
-                              <xsl:with-param name="select" select="concat('urn:isbn:', replace(., '\D', ''))"/>
+                              <xsl:with-param name="select" select="concat('isbn-', replace(., '\D', ''))"/>
                            </xsl:call-template>
                         </xsl:copy>
                      </xsl:if>
@@ -1192,7 +1226,7 @@
                            <xsl:call-template name="copy-content">
                               <xsl:with-param name="type" select="'http://rdaregistry.info/Elements/m/P30004'"/>
                               <xsl:with-param name="label" select="'has identifier for the manifestation'"/>
-                              <xsl:with-param name="select" select="concat('urn:issn:', ./replace(., '\D', ''))"/>
+                              <xsl:with-param name="select" select="concat('issn-', ./replace(., '\D', ''))"/>
                            </xsl:call-template>
                         </xsl:copy>
                      </xsl:if>
@@ -1220,7 +1254,7 @@
                               <xsl:with-param name="type" select="'http://rdaregistry.info/Elements/m/P30004'"/>
                               <xsl:with-param name="label" select="'has identifier for the manifestation'"/>
                               <xsl:with-param name="select"
-                                              select="concat('urn:',frbrizer:idprefix(../@ind1) ,':', replace(., '\D', ''))"/>
+                                              select="concat(frbrizer:idprefix(../@ind1) ,'-', replace(., '\D', ''))"/>
                            </xsl:call-template>
                         </xsl:copy>
                      </xsl:if>
@@ -1936,19 +1970,19 @@
                   </xsl:if>
                </xsl:copy>
             </xsl:for-each>
-            <xsl:for-each select="$record/*:datafield[@tag='700'][. = $this_field][*:subfield/@code = ('h','l','g','t','s')]">
+            <xsl:for-each select="$record/*:datafield[@tag='700'][. = $this_field][*:subfield/@code = ('h','l','t')]">
                <xsl:copy>
                   <xsl:call-template name="copy-attributes"/>
                   <xsl:if test="$include_counters">
                      <xsl:attribute name="c" select="1"/>
                   </xsl:if>
-                  <xsl:for-each select="*:subfield[@code = ('h','l','g','t','s')]">
+                  <xsl:for-each select="*:subfield[@code = ('h','l','t')]">
                      <xsl:if test="@code = 'h'">
                         <xsl:copy>
                            <xsl:call-template name="copy-content">
                               <xsl:with-param name="type" select="'http://rdaregistry.info/Elements/e/P20001'"/>
                               <xsl:with-param name="label" select="'has content type'"/>
-                              <xsl:with-param name="select" select="."/>
+                              <xsl:with-param name="select" select="lower-case(frbrizer:trim(.))"/>
                            </xsl:call-template>
                         </xsl:copy>
                      </xsl:if>
@@ -1961,31 +1995,39 @@
                            </xsl:call-template>
                         </xsl:copy>
                      </xsl:if>
-                     <xsl:if test="@code = 'g'">
-                        <xsl:copy>
-                           <xsl:call-template name="copy-content">
-                              <xsl:with-param name="type" select="'http://rdaregistry.info/Elements/e/P20312'"/>
-                              <xsl:with-param name="label" select="'has title'"/>
-                              <xsl:with-param name="select" select="."/>
-                           </xsl:call-template>
-                        </xsl:copy>
-                     </xsl:if>
                      <xsl:if test="@code = 't'">
                         <xsl:copy>
                            <xsl:call-template name="copy-content">
-                              <xsl:with-param name="type" select="'http://rdaregistry.info/Elements/e/P20312'"/>
-                              <xsl:with-param name="label" select="'has title'"/>
-                              <xsl:with-param name="select" select="."/>
+                              <xsl:with-param name="type" select="'http://rdaregistry.info/Elements/e/P20316'"/>
+                              <xsl:with-param name="label" select="'has variant title'"/>
+                              <xsl:with-param name="select" select="frbrizer:trim(.)"/>
                            </xsl:call-template>
                         </xsl:copy>
                      </xsl:if>
-                     <xsl:if test="@code = 's'">
+                  </xsl:for-each>
+                  <xsl:if test="$include_MARC001_in_subfield">
+                     <xsl:element name="frbrizer:mid">
+                        <xsl:attribute name="i" select="$marcid"/>
+                        <xsl:if test="$include_counters">
+                           <xsl:attribute name="c" select="1"/>
+                        </xsl:if>
+                     </xsl:element>
+                  </xsl:if>
+               </xsl:copy>
+            </xsl:for-each>
+            <xsl:for-each select="$record/*:datafield[@tag='740'][frbrizer:linked-strict($anchor_field, .)][*:subfield/@code = ('a')]">
+               <xsl:copy>
+                  <xsl:call-template name="copy-attributes"/>
+                  <xsl:if test="$include_counters">
+                     <xsl:attribute name="c" select="1"/>
+                  </xsl:if>
+                  <xsl:for-each select="*:subfield[@code = ('a')]">
+                     <xsl:if test="@code = 'a'">
                         <xsl:copy>
                            <xsl:call-template name="copy-content">
-                              <xsl:with-param name="type" select="'http://rdaregistry.info/Elements/e/P20003'"/>
-                              <xsl:with-param name="label"
-                                              select="'has other distinguishing characteristic of the expression'"/>
-                              <xsl:with-param name="select" select="."/>
+                              <xsl:with-param name="type" select="'http://rdaregistry.info/Elements/e/P20315'"/>
+                              <xsl:with-param name="label" select="'has preferred title'"/>
+                              <xsl:with-param name="select" select="frbrizer:trim(.)"/>
                            </xsl:call-template>
                         </xsl:copy>
                      </xsl:if>
@@ -3708,7 +3750,7 @@
                         </xsl:element>
                     </xsl:for-each-group>
                     <xsl:for-each-group select="current-group()/*:datafield"
-                                   group-by="                             normalize-space(string-join(((@tag), @type,                             (if ($ignore_indicators_in_merge) then                                 ()                             else                                 (@ind1, @ind2)), *:subfield/@code, *:subfield/@type, *:subfield/text()), ''))">
+                                   group-by="normalize-space(string-join(((@tag), @type,                             (if ($ignore_indicators_in_merge) then                                 ()                             else                                 (@ind1, @ind2)), *:subfield/@code, *:subfield/@type, *:subfield/text()), ''))">
                         <xsl:sort select="@tag"/>
                         <xsl:element name="{name(current-group()[1])}"
                                namespace="{namespace-uri(current-group()[1])}">
@@ -3851,7 +3893,7 @@
                  match="/*:collection"
                  mode="rdfify"
                  name="rdfify">
-        <rdf:RDF xml:base="http://example.org/rda/">
+        <rdf:RDF xml:base="http://example.org/">
             <xsl:for-each-group select="( //@type[starts-with(., 'http')])"
                              group-by="replace(., tokenize(., '/')[last()], '')">
                 <xsl:namespace name="{tokenize(., '/')[last() - 1]}" select="current-grouping-key()"/>
@@ -3865,9 +3907,10 @@
                 <xsl:variable name="n" select="tokenize(@type, '/')[last()]"/>
                 <xsl:element name="{concat($p, ':', $n)}"
                          namespace="{replace(@type, tokenize(@type, '/')[last()], '')}">
-                    <xsl:attribute name="rdf:about" select="@id"/>
+                    <xsl:attribute name="rdf:about"
+                              select="if (starts-with(@id, 'http')) then @id else 'http://example.org/'||@id"/>
                     <xsl:for-each-group select="current-group()//(*:subfield, *:controlfield)[starts-with(@type, 'http')]"
-                                   group-by="@type, text()"
+                                   group-by="@type, replace(lower-case(text()), '[^A-Za-z0-9]', '')"
                                    composite="yes">
                         <xsl:variable name="pre" select="tokenize(@type, '/')[last() - 1]"/>
                         <xsl:variable name="nm" select="tokenize(@type, '/')[last()]"/>
@@ -3884,7 +3927,8 @@
                         <xsl:variable name="nm" select="tokenize(@type, '/')[last()]"/>
                         <xsl:element name="{concat($pre, ':', $nm)}"
                                namespace="{replace(@type, tokenize(@type, '/')[last()], '')}">
-                            <xsl:attribute name="rdf:resource" select="current-group()[1]/@href"/>
+                            <xsl:attribute name="rdf:resource"
+                                    select="if(starts-with(current-group()[1]/@href, 'http')) then current-group()[1]/@href else 'http://example.org/'||current-group()[1]/@href"/>
                         </xsl:element>                        
                     </xsl:for-each-group>
                 </xsl:element>
