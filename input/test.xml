@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+    <marc:record>
+        <marc:leader>01484nam a22003851 4500</marc:leader>
+        <marc:controlfield tag="001">bimo0001472693</marc:controlfield>
+        <marc:controlfield tag="003">SpMaBN</marc:controlfield>
+        <marc:controlfield tag="005">20141222154916.2</marc:controlfield>
+        <marc:controlfield tag="008">990501s1960    sp                  spa  </marc:controlfield>
+        <marc:datafield tag="041" ind1="1" ind2=" ">
+            <marc:subfield code="a">spa</marc:subfield>
+            <marc:subfield code="h">eng</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="041" ind1="1" ind2=" ">
+            <marc:subfield code="a">spa</marc:subfield>
+            <marc:subfield code="9">created from marc:controlfield</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="080" ind1=" " ind2="0">
+            <marc:subfield code="a">8-822"19"</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Gitanjali</marc:subfield>
+            <marc:subfield code="c">Rabindranath Tagore. La ciudad de Segelfoss / Knut Hamsun. La risa /
+                Henri Bergson ; [traductores, Zenobia Camprubí de Jiménez, Frans Vives, Amalia Aydee
+                Raggio]</marc:subfield>
+            <marc:subfield code="h">[Texto impreso]</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Barcelona</marc:subfield>
+            <marc:subfield code="b">G. P.</marc:subfield>
+            <marc:subfield code="b">[Guada</marc:subfield>
+            <marc:subfield code="c">1960]</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="336" ind1=" " ind2=" " autocreated="true">
+            <marc:subfield code="a">text</marc:subfield>
+            <marc:subfield code="b">txt</marc:subfield>
+            <marc:subfield code="2">rdacontent</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="300" ind1=" " ind2=" ">
+            <marc:subfield code="a">509 p.</marc:subfield>
+            <marc:subfield code="c">19 cm</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="490" ind1="0" ind2=" ">
+            <marc:subfield code="a">Los Premios Novel de Literatura</marc:subfield>
+            <marc:subfield code="v">5</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="594" ind1=" " ind2=" ">
+            <marc:subfield code="a">Traducción de: Gitanjali, Segelfoss by, Le rire</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2="2">
+            <marc:subfield code="a">Tagore, Rabindranath</marc:subfield>
+            <marc:subfield code="d">1861-1941</marc:subfield>
+            <marc:subfield code="t">Gitanjali</marc:subfield>
+            <marc:subfield code="4">aut</marc:subfield>
+            <marc:subfield code="8">1</marc:subfield>
+            <marc:subfield code="1p">http://viaf.org/viaf/24608356</marc:subfield>
+            <marc:subfield code="1w">http://viaf.org/viaf/24608356/gitanjali</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Camprubí de Jiménez, Zenobia</marc:subfield>
+            <marc:subfield code="d">1887-1956</marc:subfield>
+            <marc:subfield code="4">trl</marc:subfield>
+            <marc:subfield code="8">1</marc:subfield>
+            <marc:subfield code="1p">camprubdejimnezzenobia</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2="2">
+            <marc:subfield code="a">Hamsun, Knut</marc:subfield>
+            <marc:subfield code="d">1859-1952</marc:subfield>
+            <marc:subfield code="t">Segelfoss by</marc:subfield>
+            <marc:subfield code="4">aut</marc:subfield>
+            <marc:subfield code="8">2</marc:subfield>
+            <marc:subfield code="1p">http://viaf.org/viaf/59083692</marc:subfield>
+            <marc:subfield code="1w">http://viaf.org/viaf/207944253</marc:subfield>
+            <marc:subfield code="l">spa</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Vives, Francisco</marc:subfield>
+            <marc:subfield code="4">trl</marc:subfield>
+            <marc:subfield code="8">2</marc:subfield>
+            <marc:subfield code="1p">vivesfrancisco</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2="2">
+            <marc:subfield code="a">Bergson, Henri</marc:subfield>
+            <marc:subfield code="d">1859-1941</marc:subfield>
+            <marc:subfield code="t">Le rire</marc:subfield>
+            <marc:subfield code="4">aut</marc:subfield>
+            <marc:subfield code="8">3</marc:subfield>
+            <marc:subfield code="1p">http://viaf.org/viaf/61541730</marc:subfield>
+            <marc:subfield code="1w">http://viaf.org/viaf/61541730/lerire</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Aydée Raggio, Amalia</marc:subfield>
+            <marc:subfield code="4">trl</marc:subfield>
+            <marc:subfield code="8">3</marc:subfield>
+            <marc:subfield code="1p">ayderaggioamalia</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="740">
+            <marc:subfield code="8" auto="true">2</marc:subfield>
+            <marc:subfield code="a" auto="true">La ciudad de Segelfoss</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+</marc:collection>
