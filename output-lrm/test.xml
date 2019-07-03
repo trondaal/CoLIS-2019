@@ -5,6 +5,7 @@
          xmlns:xs="http://www.w3.org/2001/XMLSchema"
          xmlns:c="http://rdaregistry.info/Elements/c/"
          xmlns:w="http://rdaregistry.info/Elements/w/"
+         xmlns:object="http://rdaregistry.info/Elements/w/object/"
          xmlns:a="http://rdaregistry.info/Elements/a/"
          xmlns:e="http://rdaregistry.info/Elements/e/"
          xmlns:marc="http://marc21rdf.info/elements/marc/"
@@ -16,12 +17,14 @@
       <w:P10004>novel</w:P10004>
       <w:P10061 rdf:resource="http://viaf.org/viaf/59083692"/>
       <w:P10078 rdf:resource="http://viaf.org/viaf/207944253/fre/text/boyerregis"/>
+      <w:P10226 rdf:resource="http://viaf.org/viaf/8450149068552765730000"/>
    </c:C10001>
    <c:C10001 rdf:about="http://viaf.org/viaf/8450149068552765730000">
       <w:P10002>http://viaf.org/viaf/8450149068552765730000</w:P10002>
       <w:P10004>novel</w:P10004>
       <w:P10088>Børn av tiden</w:P10088>
       <w:P10061 rdf:resource="http://viaf.org/viaf/59083692"/>
+      <object:P10191 rdf:resource="http://viaf.org/viaf/207944253"/>
    </c:C10001>
    <c:C10004 rdf:about="http://example.org/boyerregis">
       <a:P50094>boyerregis</a:P50094>

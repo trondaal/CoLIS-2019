@@ -256,6 +256,13 @@
         <range>Work</range>
     </rel>
     <rel>
+        <k>http://rdaregistry.info/Elements/w/continuationOfWork.en</k>
+        <forward>http://rdaregistry.info/Elements/w/P10226</forward>
+        <reverse>http://rdaregistry.info/Elements/w/P10191</reverse>
+        <domain>Work</domain>
+        <range>Work</range>
+    </rel>
+    <rel>
         <k>abr</k>
         <k>abridger</k>
         <k>http://rdaregistry.info/Elements/e/abridgerAgent.en</k>

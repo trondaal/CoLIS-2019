@@ -1269,13 +1269,13 @@
                   </xsl:if>
                </xsl:copy>
             </xsl:for-each>
-            <xsl:for-each select="$record/*:datafield[@tag='245'][. = $this_field][*:subfield/@code = ('a','b','c')]">
+            <xsl:for-each select="$record/*:datafield[@tag='245'][. = $this_field][*:subfield/@code = ('a','c')]">
                <xsl:copy>
                   <xsl:call-template name="copy-attributes"/>
                   <xsl:if test="$include_counters">
                      <xsl:attribute name="c" select="1"/>
                   </xsl:if>
-                  <xsl:for-each select="*:subfield[@code = ('a','b','c')]">
+                  <xsl:for-each select="*:subfield[@code = ('a','c')]">
                      <xsl:if test="@code = 'a'">
                         <xsl:copy>
                            <xsl:call-template name="copy-content">
@@ -1283,15 +1283,6 @@
                               <xsl:with-param name="label" select="'has title proper'"/>
                               <xsl:with-param name="select"
                                               select="string-join((frbrizer:trim(.), frbrizer:trim(../*:subfield[@code = 'b'])), ' : ')"/>
-                           </xsl:call-template>
-                        </xsl:copy>
-                     </xsl:if>
-                     <xsl:if test="@code = 'b'">
-                        <xsl:copy>
-                           <xsl:call-template name="copy-content">
-                              <xsl:with-param name="type" select="'frbrer:P3020'"/>
-                              <xsl:with-param name="label" select="'has title of the manifestation'"/>
-                              <xsl:with-param name="select" select="."/>
                            </xsl:call-template>
                         </xsl:copy>
                      </xsl:if>

@@ -68,7 +68,7 @@
     <marc:datafield tag="700" ind1="1" ind2=" ">
         <marc:subfield code="a">Hamsun, Knut</marc:subfield>
         <marc:subfield code="d">1859-1952</marc:subfield>
-        <marc:subfield code="4">http://rdaregistry.info/Elements/w/P10226</marc:subfield>
+        <marc:subfield code="4">http://rdaregistry.info/Elements/w/continuationOfWork.en</marc:subfield>
         <marc:subfield code="1p">http://viaf.org/viaf/59083692</marc:subfield>
         <marc:subfield code="t">Børn av tiden</marc:subfield>
         <marc:subfield code="k">novel</marc:subfield>

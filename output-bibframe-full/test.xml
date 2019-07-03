@@ -10,6 +10,7 @@
          xmlns:ex="http://example.org/ex/"
          xmlns:w="http://rdaregistry.info/Elements/w/"
          xmlns:e="http://rdaregistry.info/Elements/e/"
+         xmlns:object="http://rdaregistry.info/Elements/w/object/"
          xml:base="http://example.org/">
    <bibframe:Instance rdf:about="http://example.org/urn:isbn:270211301">
       <marc:M001>010161860</marc:M001>
@@ -45,6 +46,7 @@
       <e:P20001>text</e:P20001>
       <bibframe:translation rdf:resource="http://viaf.org/viaf/207944253/text/fre/59083692/boyerregis"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/59083692"/>
+      <w:P10226 rdf:resource="http://viaf.org/viaf/8450149068552765730000"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://viaf.org/viaf/207944253/text/fre/59083692/boyerregis">
       <e:P20006>fre</e:P20006>
@@ -63,5 +65,6 @@
       <w:P10004>novel</w:P10004>
       <w:P10088>Børn av tiden</w:P10088>
       <w:P10065 rdf:resource="http://viaf.org/viaf/59083692"/>
+      <object:P10191 rdf:resource="http://viaf.org/viaf/207944253"/>
    </bibframe:Work>
 </rdf:RDF>
