@@ -2,7 +2,7 @@
 <templates 
     xmlns:xsl="http://www.w3.org/1999/XSL/Transform" 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
-    xsi:noNamespaceSchemaLocation="../../marc2entities/xsd/marc2lrm.rules.xsd">
+    xsi:noNamespaceSchemaLocation="../../marc2frbr/xsd/marc2lrm.rules.xsd">
     <!-- keyfilter is used to remove punctuation etc. from the values that are used in the keystring -->
     <keyfilter>replace($key, ' ', '')</keyfilter>
     
@@ -104,17 +104,14 @@
             <relationship type="http://id.loc.gov/ontologies/bibframe/translation" itype="http://id.loc.gov/ontologies/bibframe/translationOf">
                 <target entity="MARC21-245-Bibframe-Work"/>
             </relationship>
+            <relationship type="{$relmap/rels/rel[k = $target_field/*:subfield[@code='4']]/forward}" itype="{$relmap/rels/rel[k = $target_field/*:subfield[@code='4']]/reverse}">
+                <target entity="MARC21-700-Bibframe-Work-Related"/>
+            </relationship>
             <relationship  type="http://rdaregistry.info/Elements/w/P10257" itype="http://rdaregistry.info/Elements/w/P10264">
                 <target entity="MARC21-600-Bibframe-Work-Subject" condition="$this_field/*:subfield[@code = '1w'] ne $target_field/*:subfield[@code = '1w']"/>
             </relationship>
             <relationship type="http://rdaregistry.info/Elements/w/P10261" itype="http://rdaregistry.info/Elements/a/P50249">
                 <target entity="MARC21-600-Bibframe-Person-Subject" condition="not($target_field/*:subfield/@code = 't')"/>
-            </relationship>
-            <relationship type="http://id.loc.gov/ontologies/bibframe/hasPart" itype="http://id.loc.gov/ontologies/bibframe/partOf" >
-                <target entity="MARC21-700-Bibframe-Work-Analytic-Original"/>
-            </relationship>
-            <relationship type="{$relmap/rels/rel[k = $target_field/*:subfield[@code='4']]/forward}" itype="{$relmap/rels/rel[k = $target_field/*:subfield[@code='4']]/reverse}">
-                <target entity="MARC21-700-Bibframe-Work-Related"/>
             </relationship>
         </relationships>
     </entity>
@@ -145,21 +142,15 @@
                 <subfield code="1w" type="identifier" label="has identifier for work"/>
             </datafield>
             <datafield tag="245">
-                <subfield code="a" select="frbrizer:trim(.)" type="http://rdaregistry.info/Elements/m/P30156" label="has title proper"/>
-                <subfield code="b" select="frbrizer:trim(.)" type="http://rdaregistry.info/Elements/m/P30142" label="has other title information"/>
-                <subfield code="c" select="frbrizer:trim(.)" type="http://rdaregistry.info/Elements/m/P30117" label="statement of responibility"/>
+                <subfield code="a" type="http://rdaregistry.info/Elements/m/P30156" label="has title proper"/>
+                <subfield code="b" type="http://rdaregistry.info/Elements/m/P30156" label="has title of the manifestation"/>
+                <subfield code="c" type="http://rdaregistry.info/Elements/m/P30117" label="statement of responibility"/>
             </datafield>
             <datafield tag="336">
                 <subfield code="a" type="http://rdaregistry.info/Elements/e/P20001" label="has content type"/>
             </datafield>
             <datafield tag="380" condition="frbrizer:linked($anchor_field, .)">
                 <subfield code="a" type="http://rdaregistry.info/Elements/w/P10004" label="has form of work"/>
-            </datafield>
-            <datafield tag="245">
-                <subfield code="a" condition="not($record/*:datafield[@tag=('130', '240')])" select="frbrizer:trim(.)" type="http://rdaregistry.info/Elements/w/P10088" label="has title proper"/>
-            </datafield>
-            <datafield tag="740" condition="frbrizer:linked-strict($record/*:datafield[@tag=('130','240')], .)">
-                <subfield code="a" select="frbrizer:trim(.)"  type="http://rdaregistry.info/Elements/w/P10223" label="has preferred title"/>
             </datafield>
         </attributes>
         <key order="3">
@@ -176,17 +167,14 @@
                 <target entity="MARC21-700-Bibframe-Work-Analytic"/>
             </relationship>
             <!-- Related works and subject entries are only associated to the main work if there is no separat source/original work identified (240 or 130 lacking $l) -->
-            <!--<relationship condition="not($record/*:datafield[@tag=('240', '130')]/*:subfield/@code = 'l')" type="{$target_subfield}">
+            <relationship condition="not($record/*:datafield[@tag=('240', '130')]/*:subfield/@code = 'l')" type="{$target_subfield}">
                 <target entity="MARC21-700-Bibframe-Work-Related"/>
-            </relationship>-->
+            </relationship>
             <relationship condition="not($record/*:datafield[@tag=('240', '130')]/*:subfield/@code = 'l')"  type="http://rdaregistry.info/Elements/w/P10257" itype="http://rdaregistry.info/Elements/w/P10264">
                 <target entity="MARC21-600-Bibframe-Work-Subject"  condition="$this_field/*:subfield[@code = '1w'] ne $target_field/*:subfield[@code = '1w']"/>
             </relationship>
             <relationship condition="not($record/*:datafield[@tag=('240', '130')]/*:subfield/@code = 'l') " type="http://rdaregistry.info/Elements/w/P10261" itype="http://rdaregistry.info/Elements/a/P50249">
                 <target entity="MARC21-600-Bibframe-Person-Subject" condition="not($target_field/*:subfield/@code = 't') "/>
-            </relationship>
-            <relationship type="{$relmap/rels/rel[k = $target_field/*:subfield[@code='4']]/forward}" itype="{$relmap/rels/rel[k = $target_field/*:subfield[@code='4']]/reverse}">
-                <target entity="MARC21-700-Bibframe-Work-Related"/>
             </relationship>
         </relationships>
     </entity>
@@ -309,7 +297,6 @@
                 <subfield code="a" type="http://rdaregistry.info/Elements/a/P50111" select="frbrizer:trim(.)" label="has name of the person"/>
                 <subfield code="d" type="http://rdaregistry.info/Elements/a/P50107" select="frbrizer:trim(.)" label="has date associated with the person"/>
                 <subfield code="1p" type="identifier" label="has identifier for person"/>
-                <subfield code="4" type="relator code"/>
             </datafield>
         </attributes>
         <key order="1">
@@ -337,7 +324,6 @@
                 <subfield code="a" type="http://rdaregistry.info/Elements/a/P50111" select="frbrizer:trim(.)" label="has name of the person"/>
                 <subfield code="d" type="http://rdaregistry.info/Elements/a/P50107" select="frbrizer:trim(.)" label="has date associated with the person"/>
                 <subfield code="1p" type="identifier" label="has identifier for person"/>
-                <subfield code="4" type="relator code"/>
             </datafield>
         </attributes>
         <key order="1">
@@ -404,16 +390,12 @@
                 <subfield code="l" type="http://rdaregistry.info/Elements/e/P20006" label="has language of expression"/>                
                 <subfield code="k" type="http://rdaregistry.info/Elements/w/P10004" label="has form of work"/>
                 <subfield code="1w" type="identifier" label="has identifier for work"/>
-                <subfield code="4" type="relator code"/>
             </datafield>
             <datafield tag="336">
                 <subfield code="a" type="http://rdaregistry.info/Elements/e/P20001" label="has content type"/>
             </datafield>
             <datafield tag="380" condition="frbrizer:linked($anchor_field, .)">
                 <subfield code="a" type="http://rdaregistry.info/Elements/w/P10004" label="has form of work"/>
-            </datafield>
-            <datafield tag="740" condition="frbrizer:linked-strict($anchor_field, .)">
-                <subfield code="a" select="frbrizer:trim(.)" type="http://rdaregistry.info/Elements/w/P10223" label="has preferred title"/>
             </datafield>
         </attributes>
         <key order="2">
@@ -441,7 +423,6 @@
                 <subfield code="n" type="http://rdaregistry.info/Elements/w/P10003" label="has other distinguishing characteristic of the work"/>
                 <subfield code="k" type="http://rdaregistry.info/Elements/w/P10004" label="has form of work"/>
                 <subfield code="1w" type="identifier" label="has identifier for work"/>
-                 <subfield code="4" type="relator code"/>
             </datafield>
             <datafield tag="380" condition="frbrizer:linked($anchor_field, .)">
                 <subfield code="a" type="http://rdaregistry.info/Elements/w/P10004" label="has form of work"/>
@@ -470,7 +451,6 @@
                 <subfield code="a" type="http://rdaregistry.info/Elements/a/P50111" select="frbrizer:trim(.)" label="has name of the person"/>
                 <subfield code="d" type="http://rdaregistry.info/Elements/a/P50107" select="frbrizer:trim(.)" label="has date associated with the person"/>
                 <subfield code="1p" type="identifier" label="has identifier for person"/>
-                <subfield code="4" type="relator code"/>
             </datafield>
         </attributes>
         <key order="1">
@@ -495,7 +475,6 @@
                 <subfield code="n" type="http://rdaregistry.info/Elements/w/P10003" label="has other distinguishing characteristic of the work"/>                
                 <subfield code="k" type="http://rdaregistry.info/Elements/w/P10004" label="has form of work"/>
                 <subfield code="1w" type="identifier" label="has identifier for work"/>
-                <subfield code="4" type="relator code"/>
             </datafield>
         </attributes>
         <key order="2">
@@ -566,8 +545,8 @@
         
         <xsl:function name="frbrizer:linked-strict" as="xs:boolean">
             <!-- returns true if the two fields have the same marc 21 link ($8) -->
-            <xsl:param name="anchor" as="element()*"/>
-            <xsl:param name="target" as="element()*"/>
+            <xsl:param name="anchor" as="element()"/>
+            <xsl:param name="target" as="element()"/>
             <xsl:value-of select="some $x in $anchor/*:subfield[@code = '8'] satisfies $x = $target/*:subfield[@code = '8']"/>
         </xsl:function>
         
