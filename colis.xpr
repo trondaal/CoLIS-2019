@@ -10,7 +10,7 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>oxygen:/eXist-db%20dif03.idi.ntnu.no$eXist-db%20ark1.hioa.no/db/colis/queries/getAuthors.xquery</String>
+                                    <String>oxygen:/eXist-db%20dif03.idi.ntnu.no$eXist-db%20ark1.hioa.no/db/colis/queries/neo4j/getLrmExpressionTextSurrogate.xquery</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
@@ -25,7 +25,22 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>oxygen:/eXist-db%20dif03.idi.ntnu.no$eXist-db%20ark1.hioa.no/db/colis/queries/addLanguages.xquery</String>
+                                    <String>oxygen:/eXist-db%20dif03.idi.ntnu.no$eXist-db%20ark1.hioa.no/db/colis/queries/neo4j/getLrmWorkTextSurrogate.xquery</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>ark1 queries</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XQUERY</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>oxygen:/eXist-db%20dif03.idi.ntnu.no$eXist-db%20ark1.hioa.no/db/colis/queries/getAuthors.xquery</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
@@ -55,7 +70,7 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>oxygen:/eXist-db%20dif03.idi.ntnu.no$eXist-db%20ark1.hioa.no/db/colis/queries/neo4j/getLrmWorkTextSurrogate.xquery</String>
+                                    <String>oxygen:/eXist-db%20dif03.idi.ntnu.no$eXist-db%20ark1.hioa.no/db/colis/queries/addLanguages.xquery</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>

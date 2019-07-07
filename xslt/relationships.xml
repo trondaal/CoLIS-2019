@@ -269,6 +269,13 @@
     <rel>
         <k>http://rdaregistry.info/Elements/w/precededByWork.en</k>
         <forward>http://rdaregistry.info/Elements/w/P10156</forward>
+        <reverse>http://rdaregistry.info/Elements/w/P10170</reverse>
+        <domain>Work</domain>
+        <range>Person</range>
+    </rel>
+    <rel>
+        <k>http://rdaregistry.info/Elements/w/continuationOfWork.en</k>
+        <forward>http://rdaregistry.info/Elements/w/P10226</forward>
         <reverse>http://rdaregistry.info/Elements/w/P10191</reverse>
         <domain>Work</domain>
         <range>Person</range>
