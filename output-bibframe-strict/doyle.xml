@@ -1147,7 +1147,7 @@
    </bibframe:Instance>
    <bibframe:Instance rdf:about="http://example.org/450991156">
       <marc:M001>450991156</marc:M001>
-      <m:P30156>The naval Treaty : A Sherlock Holmes-Story</m:P30156>
+      <m:P30156>The Naval Treaty : A Sherlock Holmes-Story</m:P30156>
       <m:P30156>A Sherlock Holmes-Story</m:P30156>
       <m:P30117>Sir Arthur Conan Doyle. Simplified by Kurt Zeidler</m:P30117>
       <m:P30107>[5. Aufl.]</m:P30107>
@@ -1161,7 +1161,7 @@
    </bibframe:Instance>
    <bibframe:Instance rdf:about="http://example.org/450991164">
       <marc:M001>450991164</marc:M001>
-      <m:P30156>The naval Treaty : A Sherlock Holmes-story</m:P30156>
+      <m:P30156>The Naval Treaty : A Sherlock Holmes-story</m:P30156>
       <m:P30156>A Sherlock Holmes-story</m:P30156>
       <m:P30117>Sir Arthur Conan Doyle. Simplified by Kurt Zeidler</m:P30117>
       <m:P30107>[6. Aufl.]</m:P30107>
@@ -1175,7 +1175,7 @@
    </bibframe:Instance>
    <bibframe:Instance rdf:about="http://example.org/450991172">
       <marc:M001>450991172</marc:M001>
-      <m:P30156>The naval Treaty : A Sherlock Holmes-story</m:P30156>
+      <m:P30156>The Naval Treaty : A Sherlock Holmes-story</m:P30156>
       <m:P30156>A Sherlock Holmes-story</m:P30156>
       <m:P30117>Sir Arthur Conan Doyle. Simplified by Kurt Zeidler. Hrsg. im Auftr. ... von Kurt Zeidler u. Hans Reimers</m:P30117>
       <m:P30107>[7. Aufl.]</m:P30107>
@@ -1189,7 +1189,7 @@
    </bibframe:Instance>
    <bibframe:Instance rdf:about="http://example.org/450991180">
       <marc:M001>450991180</marc:M001>
-      <m:P30156>The naval Treaty : A Sherlock Holmes-story</m:P30156>
+      <m:P30156>The Naval Treaty : A Sherlock Holmes-story</m:P30156>
       <m:P30156>A Sherlock Holmes-story</m:P30156>
       <m:P30117>Sir Arthur Conan Doyle. Simplified by Kurt Zeidler</m:P30117>
       <m:P30107>[8. Aufl.]</m:P30107>
@@ -1203,7 +1203,7 @@
    </bibframe:Instance>
    <bibframe:Instance rdf:about="http://example.org/450991199">
       <marc:M001>450991199</marc:M001>
-      <m:P30156>The naval Treaty : A Sherlock Holmes-story</m:P30156>
+      <m:P30156>The Naval Treaty : A Sherlock Holmes-story</m:P30156>
       <m:P30156>A Sherlock Holmes-story</m:P30156>
       <m:P30117>Sir Arthur Conan Doyle. Simplified by Kurt Zeidler</m:P30117>
       <m:P30107>[9. Aufl.]</m:P30107>
@@ -1213,7 +1213,7 @@
       <m:P30002>Band</m:P30002>
       <m:P30106>Fundamental English Readers</m:P30106>
       <m:P30165>No. 2</m:P30165>
-      <bibframe:instanceOf rdf:resource="http://viaf.org/viaf/309533947/ger"/>
+      <bibframe:instanceOf rdf:resource="http://viaf.org/viaf/309533947/eng"/>
    </bibframe:Instance>
    <bibframe:Instance rdf:about="http://example.org/450991202">
       <marc:M001>450991202</marc:M001>
@@ -7108,7 +7108,7 @@
       <marc:M001>007741487</marc:M001>
       <marc:M001>010107296</marc:M001>
       <m:P30004>urn:isbn:0860254356</m:P30004>
-      <m:P30156>The naval treaty : a television script adapted from The Adventures of Sherlock Holmes by Arthur Conan Doyle</m:P30156>
+      <m:P30156>The Naval Treaty : a television script adapted from The Adventures of Sherlock Holmes by Arthur Conan Doyle</m:P30156>
       <m:P30156>a television script adapted from The Adventures of Sherlock Holmes by Arthur Conan Doyle /</m:P30156>
       <m:P30117>byJeremy Paul</m:P30117>
       <m:P30156>The speckled band : a television script adapted from The Adventures of Sherlock Holmes</m:P30156>
@@ -17002,7 +17002,6 @@
       <m:P30165>Nr. 9003 : Fremdsprachentexte : Englisch</m:P30165>
       <m:P30165>Nr. 9003 : Fremdsprachentexte</m:P30165>
       <bibframe:instanceOf rdf:resource="http://viaf.org/viaf/181846531/eng"/>
-      <bibframe:instanceOf rdf:resource="http://viaf.org/viaf/181846531/ger"/>
    </bibframe:Instance>
    <bibframe:Instance rdf:about="http://example.org/urn:isbn:9783150091708">
       <marc:M001>850032601</marc:M001>
@@ -24175,7 +24174,7 @@
    <bibframe:Instance rdf:about="http://example.org/urn:isbn:9788494510328">
       <marc:M001>a5802531</marc:M001>
       <m:P30004>urn:isbn:9788494510328</m:P30004>
-      <m:P30156>Las aventuras de Sherlock Holmes = : The adventures of Sherlock Holmes</m:P30156>
+      <m:P30156>Las aventuras de Sherlock Holmes : The adventures of Sherlock Holmes</m:P30156>
       <m:P30156>The adventures of Sherlock Holmes</m:P30156>
       <m:P30117>Arthur Conan Doyle ; traducción, Benjamin Briggent</m:P30117>
       <m:P30088>Barberà del Vallés, Barcelona</m:P30088>
@@ -24901,6 +24900,7 @@
       <a:P50111>Alonso, Juan Ramón</a:P50111>
       <a:P50107>1951-</a:P50107>
       <a:P50195 rdf:resource="http://viaf.org/viaf/181625655/spa"/>
+      <a:P50469 rdf:resource="http://viaf.org/viaf/181625655/spa"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="http://example.org/ambrusvictorg">
       <a:P50111>Ambrus, Victor G</a:P50111>
@@ -25415,15 +25415,11 @@
       <a:P50107>1947-</a:P50107>
       <a:P50450 rdf:resource="http://viaf.org/viaf/181846531/eng"/>
       <a:P50450 rdf:resource="http://viaf.org/viaf/186734487/ger"/>
-      <a:P50450 rdf:resource="http://viaf.org/viaf/181846531/ger"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="http://example.org/delgadogalalvaro">
-      <a:P50111>Delgado Gal, Alvaro</a:P50111>
-      <a:P50195 rdf:resource="http://viaf.org/viaf/179061639/spa"/>
-   </bibframe:Person>
-   <bibframe:Person rdf:about="http://example.org/delgadogallvaro">
       <a:P50111>Delgado Gal, Álvaro</a:P50111>
       <a:P50107>1953-</a:P50107>
+      <a:P50111>Delgado Gal, Alvaro</a:P50111>
       <a:P50145 rdf:resource="http://viaf.org/viaf/179061639/spa"/>
       <a:P50145 rdf:resource="http://viaf.org/viaf/65283845/sherlockholmes/spa"/>
    </bibframe:Person>
@@ -25791,7 +25787,6 @@
    <bibframe:Person rdf:about="http://example.org/gonzlezfernando">
       <a:P50111>González, Fernando</a:P50111>
       <a:P50107>1963-</a:P50107>
-      <a:P50195 rdf:resource="http://viaf.org/viaf/181625655/spa"/>
       <a:P50528 rdf:resource="http://viaf.org/viaf/181625655/spa"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="http://example.org/goodenoughsimon">
@@ -26005,6 +26000,7 @@
    <bibframe:Person rdf:about="http://viaf.org/viaf/120203535">
       <a:P50111>Lázaro Ros, Amando</a:P50111>
       <a:P50107>1886-1962</a:P50107>
+      <a:P50111>Lázaro Ros</a:P50111>
       <a:P50145 rdf:resource="http://viaf.org/viaf/186734487/spa"/>
       <a:P50145 rdf:resource="http://viaf.org/viaf/181625655/spa"/>
       <a:P50145 rdf:resource="http://www.wikidata.org/entity/Q1129378/spa"/>
@@ -26019,10 +26015,10 @@
       <a:P50145 rdf:resource="http://viaf.org/viaf/175571309/spa"/>
       <a:P50145 rdf:resource="http://viaf.org/viaf/3904151051822033530005/spa"/>
       <a:P50145 rdf:resource="http://viaf.org/viaf/184892317/spa"/>
-      <a:P50145 rdf:resource="http://viaf.org/viaf/1390154501894339210002/spa"/>
-      <a:P50145 rdf:resource="http://viaf.org/viaf/179668970/spa"/>
       <a:P50145 rdf:resource="http://viaf.org/viaf/294145857904223021237/spa"/>
       <a:P50145 rdf:resource="http://www.wikidata.org/entity/Q1963997/spa"/>
+      <a:P50145 rdf:resource="http://viaf.org/viaf/1390154501894339210002/spa"/>
+      <a:P50145 rdf:resource="http://viaf.org/viaf/179668970/spa"/>
       <a:P50145 rdf:resource="http://viaf.org/viaf/65283845/lasaventurasdesherlockholmeslasmemoriasdesherlockholmes/spa"/>
       <a:P50145 rdf:resource="http://viaf.org/viaf/65283845/lareaparicindesherlockholmessultimosaludoenelescenario/spa"/>
       <a:P50145 rdf:resource="http://viaf.org/viaf/310211956/spa"/>
@@ -26036,9 +26032,10 @@
       <a:P50145 rdf:resource="http://viaf.org/viaf/186734487/spa"/>
       <a:P50145 rdf:resource="http://viaf.org/viaf/174141344/spa"/>
       <a:P50145 rdf:resource="http://www.wikidata.org/entity/Q1129378/spa"/>
-      <a:P50145 rdf:resource="http://viaf.org/viaf/175571309/spa"/>
       <a:P50145 rdf:resource="http://viaf.org/viaf/1390154501894339210002/spa"/>
+      <a:P50145 rdf:resource="http://viaf.org/viaf/175571309/spa"/>
       <a:P50145 rdf:resource="http://www.wikidata.org/entity/Q461026/spa"/>
+      <a:P50528 rdf:resource="http://viaf.org/viaf/65283845/sherlockholmes/spa"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="http://viaf.org/viaf/173636607">
       <a:P50111>Holmes, Sherlock</a:P50111>
@@ -26220,7 +26217,6 @@
       <a:P50145 rdf:resource="http://www.wikidata.org/entity/Q860831/spa"/>
       <a:P50145 rdf:resource="http://www.wikidata.org/entity/Q1129378/spa"/>
       <a:P50145 rdf:resource="http://viaf.org/viaf/184892317/spa"/>
-      <a:P50195 rdf:resource="http://viaf.org/viaf/181625655/spa"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="http://viaf.org/viaf/55039969">
       <a:P50111>Pasetti, Peter</a:P50111>
@@ -26428,7 +26424,6 @@
       <a:P50195 rdf:resource="http://www.wikidata.org/entity/Q1151748/spa"/>
       <a:P50195 rdf:resource="http://www.wikidata.org/entity/Q461026/spa"/>
       <a:P50195 rdf:resource="http://viaf.org/viaf/181625655/cat"/>
-      <a:P50195 rdf:resource="http://viaf.org/viaf/309533947/ger"/>
       <a:P50195 rdf:resource="http://viaf.org/viaf/1390154501894339210002/ger"/>
       <a:P50195 rdf:resource="http://www.wikidata.org/entity/Q5295444/ger"/>
       <a:P50195 rdf:resource="http://viaf.org/viaf/181625655/ger"/>
@@ -26438,6 +26433,7 @@
       <a:P50195 rdf:resource="http://viaf.org/viaf/175571309/ger"/>
       <a:P50195 rdf:resource="http://viaf.org/viaf/179061639/ger"/>
       <a:P50195 rdf:resource="http://viaf.org/viaf/65283845/dasreigateratsel/ger"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/309533947/ger"/>
       <a:P50195 rdf:resource="http://viaf.org/viaf/294145857904223021237/ger"/>
       <a:P50195 rdf:resource="http://viaf.org/viaf/6035152865746704940001/ger"/>
       <a:P50195 rdf:resource="http://viaf.org/viaf/181846531/ger"/>
@@ -26534,9 +26530,9 @@
    </bibframe:Person>
    <bibframe:Person rdf:about="http://viaf.org/viaf/66556484">
       <a:P50111>Weidert, Werner K</a:P50111>
+      <a:P50145 rdf:resource="http://viaf.org/viaf/184892317/ger"/>
       <a:P50145 rdf:resource="http://viaf.org/viaf/181625655/ger"/>
       <a:P50145 rdf:resource="http://www.wikidata.org/entity/Q2379601/ger"/>
-      <a:P50145 rdf:resource="http://viaf.org/viaf/184892317/ger"/>
       <a:P50145 rdf:resource="http://viaf.org/viaf/179061639/ger"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="http://viaf.org/viaf/66691825">
@@ -26732,6 +26728,10 @@
       <a:P50111>Kirn, Elaine</a:P50111>
       <a:P50447 rdf:resource="http://example.org/theflayedhandotherfamousmysteries/eng"/>
    </bibframe:Person>
+   <bibframe:Person rdf:about="http://example.org/kleineru">
+      <a:P50111>Kleiner, U</a:P50111>
+      <a:P50145 rdf:resource="http://viaf.org/viaf/174141344/ger"/>
+   </bibframe:Person>
    <bibframe:Person rdf:about="http://example.org/kleinschmidtmax">
       <a:P50111>Kleinschmidt, Max</a:P50111>
       <a:P50145 rdf:resource="http://www.wikidata.org/entity/Q4449924/ger"/>
@@ -26768,7 +26768,9 @@
    <bibframe:Person rdf:about="http://example.org/kotthausheinz">
       <a:P50111>Kotthaus, Heinz</a:P50111>
       <a:P50145 rdf:resource="http://viaf.org/viaf/181625655/ger"/>
+      <a:P50145 rdf:resource="http://viaf.org/viaf/179061639/ger"/>
       <a:P50145 rdf:resource="http://viaf.org/viaf/175571309/ger"/>
+      <a:P50145 rdf:resource="http://viaf.org/viaf/65283845/studieinscharlachrot/ger"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="http://example.org/kottirafranz">
       <a:P50111>Kottira, Franz</a:P50111>
@@ -26792,10 +26794,6 @@
       <a:P50111>Laude, Anthony</a:P50111>
       <a:P50528 rdf:resource="http://viaf.org/viaf/184892317/eng"/>
       <a:P50528 rdf:resource="http://viaf.org/viaf/179061639/eng"/>
-   </bibframe:Person>
-   <bibframe:Person rdf:about="http://example.org/lautenbachr">
-      <a:P50111>Lautenbach, R</a:P50111>
-      <a:P50145 rdf:resource="http://viaf.org/viaf/174141344/ger"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="http://example.org/lautenbachrudolf">
       <a:P50111>Lautenbach, Rudolf</a:P50111>
@@ -26844,6 +26842,7 @@
    <bibframe:Person rdf:about="http://example.org/linnellrosemary">
       <a:P50111>Linnell, Rosemary</a:P50111>
       <a:P50195 rdf:resource="http://viaf.org/viaf/181625655/spa"/>
+      <a:P50528 rdf:resource="http://viaf.org/viaf/181625655/spa"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="http://example.org/listerian">
       <a:P50111>Lister, Ian</a:P50111>
@@ -26871,6 +26870,7 @@
       <a:P50111>López Muñoz, José Luis</a:P50111>
       <a:P50145 rdf:resource="http://viaf.org/viaf/65283845/sherlockholmes/spa"/>
       <a:P50145 rdf:resource="http://viaf.org/viaf/181625655/spa"/>
+      <a:P50528 rdf:resource="http://viaf.org/viaf/65283845/sherlockholmes/spa"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="http://example.org/lpezsalnfelipe">
       <a:P50111>López Salán, Felipe</a:P50111>
@@ -27034,6 +27034,10 @@
    <bibframe:Person rdf:about="http://example.org/millercarey">
       <a:P50111>Miller, Carey</a:P50111>
       <a:P50195 rdf:resource="http://example.org/millercarey/thelostworld/eng"/>
+   </bibframe:Person>
+   <bibframe:Person rdf:about="http://example.org/milletcarlos">
+      <a:P50111>Millet, Carlos</a:P50111>
+      <a:P50145 rdf:resource="http://viaf.org/viaf/65283845/estudioenescarlataelsignodeloscuatro/spa"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="http://example.org/millsbrian">
       <a:P50111>Mills, Brian</a:P50111>
@@ -27346,6 +27350,10 @@
       <a:P50111>Prados, Israel</a:P50111>
       <a:P50195 rdf:resource="http://viaf.org/viaf/186734487/spa"/>
    </bibframe:Person>
+   <bibframe:Person rdf:about="http://example.org/pratico,miguelangel">
+      <a:P50111>Pratico, Miguel Angel</a:P50111>
+      <a:P50469 rdf:resource="http://viaf.org/viaf/184892317/spa"/>
+   </bibframe:Person>
    <bibframe:Person rdf:about="http://example.org/prezandrsmaradolores">
       <a:P50111>Pérez Andrés, María Dolores</a:P50111>
       <a:P50195 rdf:resource="http://viaf.org/viaf/186734487/spa"/>
@@ -27520,6 +27528,7 @@
    <bibframe:Person rdf:about="http://example.org/schottbeatrice">
       <a:P50111>Schott, Beatrice</a:P50111>
       <a:P50145 rdf:resource="http://viaf.org/viaf/179061639/ger"/>
+      <a:P50145 rdf:resource="http://viaf.org/viaf/65283845/studieinscharlachrot/ger"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="http://example.org/schulzej">
       <a:P50111>Schulze, J</a:P50111>
@@ -27620,6 +27629,10 @@
       <a:P50111>Soll, Karl</a:P50111>
       <a:P50107>1881-1945</a:P50107>
       <a:P50145 rdf:resource="http://viaf.org/viaf/294145857904223021237/ger"/>
+   </bibframe:Person>
+   <bibframe:Person rdf:about="http://example.org/spalenkagreg">
+      <a:P50111>Spalenka, Greg</a:P50111>
+      <a:P50469 rdf:resource="http://viaf.org/viaf/65283845/studieinscharlachrot/ger"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="http://example.org/spellmansabrina">
       <a:P50111>Spellman, Sabrina</a:P50111>
@@ -27790,6 +27803,10 @@
       <a:P50111>Wehnes, Constanze</a:P50111>
       <a:P50145 rdf:resource="http://viaf.org/viaf/310211956/ger"/>
    </bibframe:Person>
+   <bibframe:Person rdf:about="http://example.org/weinsteinzeus">
+      <a:P50111>Weinstein, Zeus</a:P50111>
+      <a:P50528 rdf:resource="http://viaf.org/viaf/65283845/studieinscharlachrot/ger"/>
+   </bibframe:Person>
    <bibframe:Person rdf:about="http://example.org/weizita">
       <a:P50111>Weiß, Zita</a:P50111>
       <a:P50145 rdf:resource="http://viaf.org/viaf/310211956/ger"/>
@@ -27803,6 +27820,10 @@
       <ex:relatorcode>aut</ex:relatorcode>
       <a:P50111>West, Clare</a:P50111>
       <a:P50195 rdf:resource="http://example.org/westclare/sherlockholmesshortstories/eng"/>
+   </bibframe:Person>
+   <bibframe:Person rdf:about="http://example.org/westerberganders">
+      <a:P50111>Westerberg, Anders</a:P50111>
+      <a:P50469 rdf:resource="http://example.org/kingsleysusan/thelostworld/eng"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="http://example.org/weuffenfabienne">
       <a:P50111>Weuffen, Fabienne</a:P50111>
@@ -27873,6 +27894,7 @@
    </bibframe:Person>
    <bibframe:Person rdf:about="http://example.org/zeidlerkurt">
       <a:P50111>Zeidler, Kurt</a:P50111>
+      <a:P50157 rdf:resource="http://viaf.org/viaf/309533947/eng"/>
       <a:P50157 rdf:resource="http://viaf.org/viaf/309533947/ger"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="http://example.org/ziegleradolf">
@@ -28873,10 +28895,10 @@
       <e:P20037 rdf:resource="http://example.org/darnocheinrich"/>
       <e:P20037 rdf:resource="http://viaf.org/viaf/76701034"/>
       <e:P20037 rdf:resource="http://example.org/herzogho"/>
-      <e:P20037 rdf:resource="http://example.org/lautenbachr"/>
+      <e:P20037 rdf:resource="http://example.org/lautenbachrudolf"/>
+      <e:P20037 rdf:resource="http://example.org/kleineru"/>
       <e:P20037 rdf:resource="http://example.org/kiliankai"/>
       <e:P20037 rdf:resource="http://viaf.org/viaf/66691825"/>
-      <e:P20037 rdf:resource="http://example.org/lautenbachrudolf"/>
       <e:P20037 rdf:resource="http://example.org/jacobimaragrete"/>
       <e:P20330 rdf:resource="http://example.org/orbanmartin"/>
       <m:P30321 rdf:resource="http://viaf.org/viaf/80840676"/>
@@ -29087,10 +29109,10 @@
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783596035670"/>
       <e:P20037 rdf:resource="http://example.org/meffertmartha"/>
       <e:P20037 rdf:resource="http://example.org/wolfhans"/>
+      <e:P20037 rdf:resource="http://example.org/kotthausheinz"/>
       <e:P20037 rdf:resource="http://example.org/herzogho"/>
       <e:P20037 rdf:resource="http://example.org/eisenhoferhannelore"/>
       <e:P20037 rdf:resource="http://example.org/bachcarl"/>
-      <e:P20037 rdf:resource="http://example.org/kotthausheinz"/>
       <e:P20037 rdf:resource="http://viaf.org/viaf/66691825"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
    </bibframe:Work>
@@ -29362,6 +29384,7 @@
       <e:P20037 rdf:resource="http://viaf.org/viaf/76701034"/>
       <e:P20037 rdf:resource="http://viaf.org/viaf/66691825"/>
       <e:P20037 rdf:resource="http://example.org/frenzelsebastian"/>
+      <e:P20037 rdf:resource="http://example.org/kotthausheinz"/>
       <e:P20037 rdf:resource="http://viaf.org/viaf/66556484"/>
       <e:P20037 rdf:resource="http://example.org/eisenhoferhannelore"/>
       <e:P20037 rdf:resource="http://example.org/eisenhoferhalimhannelore"/>
@@ -29497,7 +29520,7 @@
       <bibframe:partOf rdf:resource="http://viaf.org/viaf/65283845/elvalledelterrorestudioenescarlata/spa"/>
       <bibframe:partOf rdf:resource="http://example.org/negra/spa"/>
       <e:P20037 rdf:resource="http://viaf.org/viaf/120203535"/>
-      <e:P20037 rdf:resource="http://example.org/delgadogallvaro"/>
+      <e:P20037 rdf:resource="http://example.org/delgadogalalvaro"/>
       <e:P20037 rdf:resource="http://example.org/campbellenrique"/>
       <e:P20037 rdf:resource="http://viaf.org/viaf/84477527"/>
       <e:P20037 rdf:resource="http://example.org/busquetsnstor"/>
@@ -29513,7 +29536,6 @@
       <e:P20053 rdf:resource="http://example.org/torresburgoszoraidade"/>
       <e:P20053 rdf:resource="http://example.org/escribcarmela"/>
       <e:P20053 rdf:resource="http://example.org/casanovasjosmara"/>
-      <e:P20053 rdf:resource="http://example.org/delgadogalalvaro"/>
       <e:P20053 rdf:resource="http://example.org/hutchinsongeo"/>
       <e:P20053 rdf:resource="http://example.org/senmartnatalia"/>
       <e:P20053 rdf:resource="http://example.org/lijmaersusana"/>
@@ -29977,8 +29999,8 @@
       <e:P20022 rdf:resource="http://viaf.org/viaf/55039969"/>
       <e:P20022 rdf:resource="http://example.org/holzmannmatthiasernst"/>
       <e:P20037 rdf:resource="http://viaf.org/viaf/19783700"/>
-      <e:P20037 rdf:resource="http://example.org/jakobsstephanie"/>
       <e:P20037 rdf:resource="http://example.org/kotthausheinz"/>
+      <e:P20037 rdf:resource="http://example.org/jakobsstephanie"/>
       <e:P20037 rdf:resource="http://viaf.org/viaf/66556484"/>
       <e:P20037 rdf:resource="http://example.org/eisenhoferhannelore"/>
       <e:P20037 rdf:resource="http://example.org/darnocheinrich"/>
@@ -30169,10 +30191,10 @@
       <bibframe:partOf rdf:resource="http://viaf.org/viaf/65283845/elmastndelosbaskervilleymemoriasdesherlockholmes/spa"/>
       <e:P20037 rdf:resource="http://viaf.org/viaf/120203535"/>
       <e:P20037 rdf:resource="http://viaf.org/viaf/51519824"/>
+      <e:P20037 rdf:resource="http://example.org/lpezmuozjosluis"/>
       <e:P20037 rdf:resource="http://viaf.org/viaf/84477527"/>
       <e:P20037 rdf:resource="http://example.org/campbellenrique"/>
       <e:P20037 rdf:resource="http://example.org/snchezsanzramiro"/>
-      <e:P20037 rdf:resource="http://example.org/lpezmuozjosluis"/>
       <e:P20037 rdf:resource="http://example.org/portabaldomero"/>
       <e:P20037 rdf:resource="http://example.org/huanquilourdes"/>
       <e:P20037 rdf:resource="http://example.org/parejaalejandro"/>
@@ -30188,12 +30210,10 @@
       <e:P20053 rdf:resource="http://example.org/bonannoantonio"/>
       <e:P20053 rdf:resource="http://example.org/costalvarezarturo"/>
       <e:P20053 rdf:resource="http://example.org/bernabeumornnatalia"/>
-      <e:P20053 rdf:resource="http://viaf.org/viaf/51519824"/>
       <e:P20053 rdf:resource="http://example.org/pellnisabel"/>
       <e:P20053 rdf:resource="http://example.org/calvojosmara"/>
       <e:P20053 rdf:resource="http://example.org/linnellrosemary"/>
       <e:P20053 rdf:resource="http://example.org/alonsojuanramn"/>
-      <e:P20053 rdf:resource="http://example.org/gonzlezfernando"/>
       <e:P20053 rdf:resource="http://example.org/escribcarmela"/>
       <e:P20053 rdf:resource="http://example.org/vidalitubaujordi"/>
       <e:P20053 rdf:resource="http://example.org/maletoriol"/>
@@ -30205,10 +30225,12 @@
       <m:P30321 rdf:resource="http://example.org/vicentefernando"/>
       <m:P30321 rdf:resource="http://example.org/senzdetejadacarlos"/>
       <m:P30321 rdf:resource="http://example.org/tha"/>
+      <m:P30321 rdf:resource="http://example.org/alonsojuanramn"/>
       <m:P30321 rdf:resource="http://example.org/floresenrique"/>
       <m:P30327 rdf:resource="http://example.org/santerbssantiagor"/>
       <m:P30327 rdf:resource="http://example.org/bremnclara"/>
       <m:P30327 rdf:resource="http://example.org/gonzlezfernando"/>
+      <m:P30327 rdf:resource="http://example.org/linnellrosemary"/>
       <m:P30327 rdf:resource="http://example.org/garcapavnfrancisco"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
    </bibframe:Work>
@@ -30292,8 +30314,6 @@
       <m:P30117>Arthur Conan Doyle. [Ins Dt. übertr. von Reinhard Hillich. Ill. von Jörn Hennig]</m:P30117>
       <m:P30156>Blindendr. d. Dt. Blindenstudienanst.</m:P30156>
       <m:P30117>Arthur Conan Doyle</m:P30117>
-      <m:P30156>four Sherlock Holmes stories</m:P30156>
-      <m:P30117>Arthur Conan Doyle. Hrsg. von Klaus Degering</m:P30117>
       <m:P30117>Sir Arthur Conan Doyle</m:P30117>
       <e:P20001>text</e:P20001>
       <e:P20001>tactile text</e:P20001>
@@ -30304,9 +30324,7 @@
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783257795134"/>
       <bibframe:hasInstance rdf:resource="http://example.org/203544072"/>
       <bibframe:hasInstance rdf:resource="http://example.org/861053877"/>
-      <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783150090039"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783125341128"/>
-      <e:P20330 rdf:resource="http://example.org/degeringklaus"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://viaf.org/viaf/181846531/spa">
@@ -30489,8 +30507,8 @@
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783036951447"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783738618754"/>
       <e:P20022 rdf:resource="http://example.org/renneisenwalter"/>
-      <e:P20037 rdf:resource="http://example.org/gigerleslie"/>
       <e:P20037 rdf:resource="http://viaf.org/viaf/66556484"/>
+      <e:P20037 rdf:resource="http://example.org/gigerleslie"/>
       <e:P20037 rdf:resource="http://viaf.org/viaf/76701034"/>
       <e:P20037 rdf:resource="http://example.org/eisenhoferhannelore"/>
       <e:P20037 rdf:resource="http://example.org/wlassowtatjana"/>
@@ -30589,6 +30607,7 @@
       <e:P20330 rdf:resource="http://example.org/martnezrodolfo"/>
       <e:P20330 rdf:resource="http://example.org/martnrebeca"/>
       <m:P30321 rdf:resource="http://example.org/capitainesnchezanabeatriz"/>
+      <m:P30321 rdf:resource="http://example.org/pratico,miguelangel"/>
       <m:P30321 rdf:resource="http://example.org/floresenrique"/>
       <m:P30321 rdf:resource="http://example.org/svetlin"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
@@ -30729,7 +30748,6 @@
       <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
       <w:P10261 rdf:resource="http://viaf.org/viaf/173636607"/>
       <w:P10261 rdf:resource="http://viaf.org/viaf/308763542"/>
-      <w:adaptationOfWork.en rdf:resource="http://viaf.org/viaf/186734487"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://viaf.org/viaf/186734487/ger">
       <e:P20006>ger</e:P20006>
@@ -31324,9 +31342,9 @@
       <e:P20037 rdf:resource="http://example.org/alarcnjusto"/>
       <e:P20037 rdf:resource="http://example.org/mahieujosagustn"/>
       <e:P20037 rdf:resource="http://example.org/pazpilardela"/>
+      <e:P20037 rdf:resource="http://viaf.org/viaf/120203535"/>
       <e:P20037 rdf:resource="http://viaf.org/viaf/305867914"/>
       <e:P20037 rdf:resource="http://example.org/ochoayenis"/>
-      <e:P20037 rdf:resource="http://viaf.org/viaf/120203535"/>
       <e:P20053 rdf:resource="http://example.org/yezsolanamanuel"/>
       <e:P20053 rdf:resource="http://example.org/joverluis"/>
       <e:P20053 rdf:resource="http://example.org/dazsantanderrafael"/>
@@ -31441,25 +31459,29 @@
    </bibframe:Work>
    <bibframe:Work rdf:about="http://viaf.org/viaf/309533947/eng">
       <e:P20006>eng</e:P20006>
+      <w:P10088>The Naval Treaty</w:P10088>
+      <m:P30156>The Naval Treaty</m:P30156>
+      <m:P30156>A Sherlock Holmes-story</m:P30156>
+      <m:P30117>Sir Arthur Conan Doyle. Simplified by Kurt Zeidler</m:P30117>
       <e:P20001>text</e:P20001>
       <w:P10088>Naval treaty</w:P10088>
-      <w:P10088>The naval treaty</w:P10088>
+      <bibframe:hasInstance rdf:resource="http://example.org/450991199"/>
       <bibframe:partOf rdf:resource="http://viaf.org/viaf/65283845/ascandalinbohemiaothersherlockholmesstories/eng"/>
       <bibframe:partOf rdf:resource="http://viaf.org/viaf/65283845/thememoirsofsherlockholmes/eng"/>
+      <e:P20049 rdf:resource="http://example.org/zeidlerkurt"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://viaf.org/viaf/309533947/ger">
       <e:P20006>ger</e:P20006>
-      <w:P10088>The naval Treaty</w:P10088>
-      <m:P30156>The naval Treaty</m:P30156>
-      <m:P30156>A Sherlock Holmes-story</m:P30156>
+      <w:P10088>The Naval Treaty</w:P10088>
+      <m:P30156>The Naval Treaty</m:P30156>
+      <m:P30156>A Sherlock Holmes-Story</m:P30156>
       <m:P30117>Sir Arthur Conan Doyle. Simplified by Kurt Zeidler</m:P30117>
       <m:P30117>Sir Arthur Conan Doyle. Simplified by Kurt Zeidler. Hrsg. im Auftr. ... von Kurt Zeidler u. Hans Reimers</m:P30117>
       <m:P30156>Das Marineabkommen</m:P30156>
       <m:P30156>Die Memoiren von Sherlock Holmes</m:P30156>
       <m:P30117>Arthur Conan Doyle</m:P30117>
       <e:P20001>text</e:P20001>
-      <bibframe:hasInstance rdf:resource="http://example.org/450991199"/>
       <bibframe:hasInstance rdf:resource="http://example.org/450991148"/>
       <bibframe:hasInstance rdf:resource="http://example.org/450991164"/>
       <bibframe:hasInstance rdf:resource="http://example.org/450991156"/>
@@ -31474,7 +31496,7 @@
    </bibframe:Work>
    <bibframe:Work rdf:about="http://viaf.org/viaf/309533947/spa">
       <e:P20006>spa</e:P20006>
-      <w:P10088>The naval treaty</w:P10088>
+      <w:P10088>The Naval Treaty</w:P10088>
       <m:P30156>El tratado naval</m:P30156>
       <m:P30117>por A. Conan Doyle</m:P30117>
       <e:P20001>text</e:P20001>
@@ -32030,6 +32052,7 @@
       <bibframe:hasPart rdf:resource="http://viaf.org/viaf/184892317/spa"/>
       <bibframe:hasPart rdf:resource="http://viaf.org/viaf/179061639/spa"/>
       <e:P20037 rdf:resource="http://viaf.org/viaf/120203535"/>
+      <e:P20037 rdf:resource="http://example.org/milletcarlos"/>
       <e:P20037 rdf:resource="http://example.org/burgosfunesjorgelen"/>
       <e:P20037 rdf:resource="http://example.org/parejaalejandro"/>
       <e:P20330 rdf:resource="http://example.org/laisecaalberto"/>
@@ -32145,10 +32168,12 @@
       <bibframe:hasPart rdf:resource="http://viaf.org/viaf/184892317/spa"/>
       <bibframe:hasPart rdf:resource="http://viaf.org/viaf/175571309/spa"/>
       <bibframe:hasPart rdf:resource="http://viaf.org/viaf/179061639/spa"/>
-      <e:P20037 rdf:resource="http://viaf.org/viaf/170913932"/>
       <e:P20037 rdf:resource="http://example.org/lpezmuozjosluis"/>
+      <e:P20037 rdf:resource="http://viaf.org/viaf/170913932"/>
       <e:P20037 rdf:resource="http://example.org/prezprezmiguelngel"/>
-      <e:P20037 rdf:resource="http://example.org/delgadogallvaro"/>
+      <e:P20037 rdf:resource="http://example.org/delgadogalalvaro"/>
+      <m:P30327 rdf:resource="http://example.org/lpezmuozjosluis"/>
+      <m:P30327 rdf:resource="http://viaf.org/viaf/170913932"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://viaf.org/viaf/65283845/sherlockholmescollectionanthologyofclassictales/eng">
@@ -32274,6 +32299,10 @@
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783956192623"/>
       <bibframe:hasPart rdf:resource="http://viaf.org/viaf/181625655/ger"/>
       <bibframe:hasPart rdf:resource="http://viaf.org/viaf/179061639/ger"/>
+      <e:P20037 rdf:resource="http://example.org/kotthausheinz"/>
+      <e:P20037 rdf:resource="http://example.org/schottbeatrice"/>
+      <m:P30321 rdf:resource="http://example.org/spalenkagreg"/>
+      <m:P30327 rdf:resource="http://example.org/weinsteinzeus"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/65283845"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://viaf.org/viaf/65283845/suultimosoludpenelescenario/spa">
@@ -34812,10 +34841,12 @@
    </bibframe:Work>
    <bibframe:Work rdf:about="http://example.org/kingsleysusan/thelostworld/eng">
       <e:P20006>eng</e:P20006>
+      <w:P10088>The lost world</w:P10088>
       <m:P30156>The lost world /</m:P30156>
       <m:P30117>Sir Arthur Conan Doyle ; text adaptation by Susan Kingsley ; illustrated by Anders Westerberg.</m:P30117>
       <e:P20001>text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9780194248808"/>
+      <m:P30321 rdf:resource="http://example.org/westerberganders"/>
       <w:P10061 rdf:resource="http://example.org/kingsleysusan"/>
       <w:adaptationOfWork.en rdf:resource="http://viaf.org/viaf/294145857904223021237"/>
    </bibframe:Work>
@@ -35052,8 +35083,8 @@
    </bibframe:Work>
    <bibframe:Work rdf:about="http://example.org/pauljeremy/thenavaltreaty/eng">
       <e:P20006>eng</e:P20006>
-      <w:P10088>The naval treaty</w:P10088>
-      <m:P30156>The naval treaty :</m:P30156>
+      <w:P10088>The Naval Treaty</w:P10088>
+      <m:P30156>The Naval Treaty :</m:P30156>
       <m:P30156>a television script adapted from The Adventures of Sherlock Holmes by Arthur Conan Doyle /</m:P30156>
       <m:P30117>byJeremy Paul.</m:P30117>
       <e:P20001>text</e:P20001>

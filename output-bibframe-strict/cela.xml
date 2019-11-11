@@ -271,8 +271,8 @@
    </bibframe:Instance>
    <bibframe:Instance rdf:about="http://example.org/450761614">
       <marc:M001>450761614</marc:M001>
-      <m:P30156>&#x98;Der&#x9c; Bienenkorb : Roman = &#x98;La&#x9c; colmena</m:P30156>
-      <m:P30156>Roman = &#x98;La&#x9c; colmena</m:P30156>
+      <m:P30156>Der Bienenkorb : Roman = La colmena</m:P30156>
+      <m:P30156>Roman = La colmena</m:P30156>
       <m:P30117>Camilo José Cela. [Dt. von Gerda Theile-Bruhns]</m:P30117>
       <m:P30182>329 S.</m:P30182>
       <m:P30169>8</m:P30169>
@@ -315,7 +315,7 @@
    </bibframe:Instance>
    <bibframe:Instance rdf:about="http://example.org/456261125">
       <marc:M001>456261125</marc:M001>
-      <m:P30156>&#x98;Der&#x9c; Bienenkorb : Roman</m:P30156>
+      <m:P30156>Der Bienenkorb : Roman</m:P30156>
       <m:P30156>Roman</m:P30156>
       <m:P30117>Camilo José Cela. [Dt. von Gerda Theile-Bruhns]</m:P30117>
       <m:P30107>Ungekürzte Ausg.</m:P30107>
@@ -352,7 +352,7 @@
    </bibframe:Instance>
    <bibframe:Instance rdf:about="http://example.org/901492353">
       <marc:M001>901492353</marc:M001>
-      <m:P30156>&#x98;Der&#x9c; Bienenkorb : Roman</m:P30156>
+      <m:P30156>Der Bienenkorb : Roman</m:P30156>
       <m:P30156>Roman</m:P30156>
       <m:P30117>Camilo José Cela. Aus dem Span. von Gerda Theile-Bruhns</m:P30117>
       <m:P30182>273 S.</m:P30182>
@@ -363,7 +363,7 @@
    </bibframe:Instance>
    <bibframe:Instance rdf:about="http://example.org/910576173">
       <marc:M001>910576173</marc:M001>
-      <m:P30156>&#x98;Ein&#x9c; Vagabund im Dienste Spaniens : Nobelpreis 1989 Spanien</m:P30156>
+      <m:P30156>Ein Vagabund im Dienste Spaniens : Nobelpreis 1989 Spanien</m:P30156>
       <m:P30156>Nobelpreis 1989 Spanien</m:P30156>
       <m:P30117>Camilo José Cela. [Aus dem Span. von Hildegard Moral]</m:P30117>
       <m:P30182>269 S.</m:P30182>
@@ -376,7 +376,7 @@
    </bibframe:Instance>
    <bibframe:Instance rdf:about="http://example.org/961866748">
       <marc:M001>961866748</marc:M001>
-      <m:P30156>&#x98;Ein&#x9c; Vagabund im Dienste Spaniens : Nobelpreis 1989 Spanien</m:P30156>
+      <m:P30156>Ein Vagabund im Dienste Spaniens : Nobelpreis 1989 Spanien</m:P30156>
       <m:P30156>Nobelpreis 1989 Spanien</m:P30156>
       <m:P30117>Camilo José Cela. [Aus dem Span. von Hildegard Moral]</m:P30117>
       <m:P30182>269, 302, 308 S.</m:P30182>
@@ -3338,7 +3338,7 @@
       <marc:M001>011311333</marc:M001>
       <m:P30004>urn:isbn:0340562684</m:P30004>
       <m:P30156>The hive</m:P30156>
-      <m:P30117>Camilo Josʹe Cela ; translated by J.M. Cohen in consultation with Arturo Bare</m:P30117>
+      <m:P30117>Camilo Josʹe Cela ; translated by J.M. Cohen in consultation with Arturo Barea</m:P30117>
       <m:P30088>London</m:P30088>
       <m:P30083>Sceptre</m:P30083>
       <m:P30011>1992</m:P30011>
@@ -8837,7 +8837,7 @@
       <marc:M001>900852704</marc:M001>
       <m:P30004>urn:isbn:9783492032933</m:P30004>
       <m:P30004>urn:isbn:3492032931</m:P30004>
-      <m:P30156>&#x98;Ein&#x9c; Vagabund im Dienste Spaniens</m:P30156>
+      <m:P30156>Ein Vagabund im Dienste Spaniens</m:P30156>
       <m:P30117>Camilo José Cela. Hrsg., ausgew. u. mit e. Nachbemerkung von Ricardo Bada. Aus d. Span. von Hildegard Moral</m:P30117>
       <m:P30182>233 S.</m:P30182>
       <m:P30169>21 cm</m:P30169>
@@ -8849,7 +8849,7 @@
       <marc:M001>901337757</marc:M001>
       <m:P30004>urn:isbn:9783492034227</m:P30004>
       <m:P30004>urn:isbn:3492034225</m:P30004>
-      <m:P30156>&#x98;Der&#x9c; Bienenkorb : Roman</m:P30156>
+      <m:P30156>Der Bienenkorb : Roman</m:P30156>
       <m:P30156>Roman</m:P30156>
       <m:P30117>Camilo José Cela. Aus dem Span. von Gerda Theile-Bruhns</m:P30117>
       <m:P30107>[1. - 5. Tsd.]</m:P30107>
@@ -8882,7 +8882,7 @@
       <marc:M001>900287756</marc:M001>
       <m:P30004>urn:isbn:9783492107822</m:P30004>
       <m:P30004>urn:isbn:3492107826</m:P30004>
-      <m:P30156>&#x98;Der&#x9c; Bienenkorb : Roman</m:P30156>
+      <m:P30156>Der Bienenkorb : Roman</m:P30156>
       <m:P30156>Roman</m:P30156>
       <m:P30117>Camilo José Cela. Aus d. Span. von Gerda Theile-Bruhns</m:P30117>
       <m:P30117>Camilo José Cela. Aus dem Span. von Gerda Theile-Bruhns</m:P30117>
@@ -8991,7 +8991,7 @@
       <m:P30004>urn:isbn:9783492550277</m:P30004>
       <m:P30004>urn:isbn:3492550274</m:P30004>
       <m:P30004>urn:ian:9783492550277</m:P30004>
-      <m:P30156>&#x98;Ein&#x9c; Vagabund im Dienste Spaniens</m:P30156>
+      <m:P30156>Ein Vagabund im Dienste Spaniens</m:P30156>
       <m:P30117>Camilo José Cela</m:P30117>
       <m:P30182>282 Seiten</m:P30182>
       <m:P30169>300 g</m:P30169>
@@ -9004,7 +9004,7 @@
       <m:P30004>urn:isbn:9783492550284</m:P30004>
       <m:P30004>urn:isbn:3492550282</m:P30004>
       <m:P30004>urn:ian:9783492550284</m:P30004>
-      <m:P30156>&#x98;Der&#x9c; Bienenkorb : Roman</m:P30156>
+      <m:P30156>Der Bienenkorb : Roman</m:P30156>
       <m:P30156>Roman</m:P30156>
       <m:P30117>Camilo José Cela</m:P30117>
       <m:P30182>288 Seiten</m:P30182>
@@ -10084,6 +10084,10 @@
       <a:P50107>1949-</a:P50107>
       <a:P50195 rdf:resource="http://viaf.org/viaf/177039865/spa"/>
    </bibframe:Person>
+   <bibframe:Person rdf:about="http://example.org/charlesboislucilec">
+      <a:P50111>Charlesbois, Lucile C</a:P50111>
+      <a:P50528 rdf:resource="http://www.wikidata.org/entity/Q5791732/eng"/>
+   </bibframe:Person>
    <bibframe:Person rdf:about="http://example.org/chinarrofernando">
       <a:P50111>Chinarro, Fernando</a:P50111>
       <a:P50107>1939-</a:P50107>
@@ -10152,7 +10156,7 @@
       <a:P50195 rdf:resource="http://example.org/lainslitaygloriosahazaadelcipotedearchidona/spa"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="http://example.org/enzenbergcarinavon">
-      <a:P50111>Enzenberg, Carina &#x98;von&#x9c;</a:P50111>
+      <a:P50111>Enzenberg, Carina von&#x9c;</a:P50111>
       <a:P50107>1964-</a:P50107>
       <a:P50145 rdf:resource="http://viaf.org/viaf/181460365/ger"/>
       <a:P50145 rdf:resource="http://viaf.org/viaf/177039865/ger"/>
@@ -10298,8 +10302,8 @@
    <bibframe:Person rdf:about="http://example.org/goyafrancisco">
       <a:P50111>Goya, Francisco</a:P50111>
       <a:P50107>1746-1828</a:P50107>
-      <a:P50195 rdf:resource="http://example.org/goyafrancisco/caprichos"/>
-      <a:P50204 rdf:resource="http://example.org/goyafrancisco/caprichos"/>
+      <a:P50195 rdf:resource="http://example.org/goyafranciscode/loscaprichos"/>
+      <a:P50204 rdf:resource="http://example.org/goyafranciscode/loscaprichos"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="http://example.org/goyafranciscode">
       <a:P50111>Goya, Francisco de</a:P50111>
@@ -10584,7 +10588,7 @@
    </bibframe:Person>
    <bibframe:Person rdf:about="http://example.org/leisewitzgeorge">
       <a:P50111>Leisewitz, George</a:P50111>
-      <a:P50528 rdf:resource="http://viaf.org/viaf/177039865/ger"/>
+      <a:P50145 rdf:resource="http://viaf.org/viaf/177039865/ger"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="http://example.org/lifantejos">
       <a:P50111>Lifante, José</a:P50111>
@@ -10680,6 +10684,8 @@
    <bibframe:Person rdf:about="http://example.org/moralhildegard">
       <a:P50111>Moral, Hildegard</a:P50111>
       <a:P50145 rdf:resource="http://viaf.org/viaf/177039865/ger"/>
+      <a:P50145 rdf:resource="http://viaf.org/viaf/14767431/einvagabundimdienstespaniensnobelpreis1989spanien/ger"/>
+      <a:P50145 rdf:resource="http://viaf.org/viaf/14767431/einvagabundimdienstespaniens/ger"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="http://example.org/morasara">
       <a:P50111>Mora, Sara</a:P50111>
@@ -11106,7 +11112,7 @@
       <e:P20006>spa</e:P20006>
       <m:P30156>[Acto de presentación de la donación de un manuscrito inédito de "La colmena" de Camilo José Cela]</m:P30156>
       <m:P30117>[presenta Ana Santos Aramburo, Directora de la BNE ; intervienen Annie Salomon, donante del manuscrito e hija del hispanista Noël Salomon, Adolfo Sotelo Vázquez, catedrático de Historia de la Literatura Española, Marina Castaño, viuda del escritor y presidenta de la Fundación Camilo José Cela, y Jorge Urrutia, catedrático de Literatura]</m:P30117>
-      <e:P20001>Imagen (en movimiento ; bidimensional)</e:P20001>
+      <e:P20001>mvoing image</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/a5967692"/>
       <e:P20022 rdf:resource="http://example.org/sotelovzquezadolfo"/>
       <e:P20022 rdf:resource="http://example.org/salomonannie"/>
@@ -11224,7 +11230,7 @@
       <e:P20006>spa</e:P20006>
       <m:P30156>La influencia de Gutiérrez Solana en los Apuntes Carpetovetónicos de Camilo José Cela</m:P30156>
       <m:P30117>Ana María García Martín</m:P30117>
-      <e:P20001>Texto (visual)</e:P20001>
+      <e:P20001>text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9788416911318"/>
       <w:P10061 rdf:resource="http://example.org/garcamartnanamara"/>
       <w:P10261 rdf:resource="http://example.org/gutirrezsolanajos"/>
@@ -11233,7 +11239,7 @@
       <e:P20006>spa</e:P20006>
       <m:P30156>Historia y política en La familia de Pascual Duarte</m:P30156>
       <m:P30117>Juan Antonio Garrido Ardila</m:P30117>
-      <e:P20001>Texto (visual)</e:P20001>
+      <e:P20001>text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9788497407113"/>
       <w:P10061 rdf:resource="http://example.org/garridoardilajuanantonio"/>
    </bibframe:Work>
@@ -11250,7 +11256,7 @@
       <m:P30156>La Colmena existencial :</m:P30156>
       <m:P30156>estudio crítico de La Colmena, de Camilo José Cela</m:P30156>
       <m:P30117>por José María Gil Pérez</m:P30117>
-      <e:P20001>Texto (visual)</e:P20001>
+      <e:P20001>text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9788493990367"/>
       <w:P10061 rdf:resource="http://example.org/gilprezjosmara"/>
       <w:critiqueOfWork.en rdf:resource="http://viaf.org/viaf/178631752"/>
@@ -11264,14 +11270,12 @@
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:077347319"/>
       <w:P10061 rdf:resource="http://example.org/gonzlezdelvallemarajess"/>
    </bibframe:Work>
-   <bibframe:Work rdf:about="http://example.org/goyafrancisco/caprichos">
-      <w:P10088>Caprichos</w:P10088>
-      <w:P10061 rdf:resource="http://example.org/goyafrancisco"/>
-      <w:P10065 rdf:resource="http://example.org/goyafrancisco"/>
-   </bibframe:Work>
    <bibframe:Work rdf:about="http://example.org/goyafranciscode/loscaprichos">
+      <w:P10088>Caprichos</w:P10088>
       <w:P10088>Los caprichos</w:P10088>
+      <w:P10061 rdf:resource="http://example.org/goyafrancisco"/>
       <w:P10061 rdf:resource="http://example.org/goyafranciscode"/>
+      <w:P10065 rdf:resource="http://example.org/goyafrancisco"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://example.org/guerrerogustavo/historiadeunencargolacatiradecamilojoscelaliteraturaideologaydiplomaciaentiemposdelahispanidad/spa">
       <e:P20006>spa</e:P20006>
@@ -11362,7 +11366,7 @@
       <m:P30156>Camilo José Cela y Eugenio Fernández "Cartujo" :</m:P30156>
       <m:P30156>cartas, tarjetas, dedicatorias : ("La Colmena", Cebreros)</m:P30156>
       <m:P30117>Luciano José Navas Villalba</m:P30117>
-      <e:P20001>Texto (visual)</e:P20001>
+      <e:P20001>text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/a5952380"/>
       <e:P20330 rdf:resource="http://example.org/navasvillalbalucianojos"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/14767431"/>
@@ -11370,22 +11374,24 @@
    </bibframe:Work>
    <bibframe:Work rdf:about="http://viaf.org/viaf/14767431/einvagabundimdienstespaniens/ger">
       <e:P20006>ger</e:P20006>
-      <m:P30156>&#x98;Ein&#x9c; Vagabund im Dienste Spaniens</m:P30156>
+      <m:P30156>Ein Vagabund im Dienste Spaniens</m:P30156>
       <m:P30117>Camilo José Cela. Hrsg., ausgew. u. mit e. Nachbemerkung von Ricardo Bada. Aus d. Span. von Hildegard Moral</m:P30117>
       <e:P20001>Text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783492032933"/>
       <bibframe:hasPart rdf:resource="http://viaf.org/viaf/181108754/ger"/>
+      <e:P20037 rdf:resource="http://example.org/moralhildegard"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/14767431"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://viaf.org/viaf/14767431/einvagabundimdienstespaniensnobelpreis1989spanien/ger">
       <e:P20006>ger</e:P20006>
-      <m:P30156>&#x98;Ein&#x9c; Vagabund im Dienste Spaniens</m:P30156>
+      <m:P30156>Ein Vagabund im Dienste Spaniens</m:P30156>
       <m:P30156>Nobelpreis 1989 Spanien</m:P30156>
       <m:P30117>Camilo José Cela. [Aus dem Span. von Hildegard Moral]</m:P30117>
       <e:P20001>Text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/961866748"/>
       <bibframe:hasInstance rdf:resource="http://example.org/910576173"/>
       <bibframe:hasPart rdf:resource="http://viaf.org/viaf/181108754/ger"/>
+      <e:P20037 rdf:resource="http://example.org/moralhildegard"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/14767431"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://viaf.org/viaf/14767431/laboladelmundolossueosvanoslosngelescuriosos/spa">
@@ -11436,7 +11442,7 @@
       <m:P30156>Madrid ;</m:P30156>
       <m:P30156>Barcelona : ediciones facsimilares de los manuscritos</m:P30156>
       <m:P30117>Camilo José Cela</m:P30117>
-      <e:P20001>Texto (visual)</e:P20001>
+      <e:P20001>text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9788493512989"/>
       <bibframe:hasPart rdf:resource="http://workid.oslomet.no/cjc/59/spa"/>
       <bibframe:hasPart rdf:resource="http://workid.oslomet.no/cjc/55/spa"/>
@@ -11530,7 +11536,7 @@
       <m:P30156>Viaje a U.S.A. ;</m:P30156>
       <m:P30156>Toreo de salón : ediciones facsimilares de los manuscritos</m:P30156>
       <m:P30117>Camilo José Cela</m:P30117>
-      <e:P20001>Texto (visual)</e:P20001>
+      <e:P20001>text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9788493512996"/>
       <bibframe:hasPart rdf:resource="http://viaf.org/viaf/380145857926123020025/spa"/>
       <bibframe:hasPart rdf:resource="http://workid.oslomet.no/cjc/52/spa"/>
@@ -11606,7 +11612,6 @@
       <m:P30117>[por] Camilo José Cela</m:P30117>
       <m:P30156>San Camilo, 1936</m:P30156>
       <e:P20001>text</e:P20001>
-      <e:P20001>Texto (visual)</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8420615323"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:842264035"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8401381452"/>
@@ -11669,7 +11674,7 @@
       <m:P30117>Camilo José Cela. [Aus d. Span. übertr. von George Leisewitz]</m:P30117>
       <m:P30117>Camilo José Cela. [Veröffentlicht nach d. Übers. aus d. Span. von George Leisewitz unter Mitarb. d. Autors u. Gerda Theile-Bruhns]</m:P30117>
       <m:P30117>Camilo José Cela. [Veröff. nach d. Übers. von George Leisewitz unter Mitarb. d. Autors u. Gerda Theile-Bruhns]</m:P30117>
-      <m:P30156>&#x98;Ein&#x9c; Vagabund im Dienste Spaniens</m:P30156>
+      <m:P30156>Ein Vagabund im Dienste Spaniens</m:P30156>
       <m:P30117>Camilo José Cela. Aus dem Span. von George Leisewitz und Gerda Theile-Bruhns. Mit einem Nachw. von Hans-Jörg Neuschäfer. [Die Übers. wurde für diese Ausg. von Anette Grube überarb.]</m:P30117>
       <e:P20001>text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/bimo0001309931"/>
@@ -11683,9 +11688,9 @@
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783492110563"/>
       <e:P20037 rdf:resource="http://example.org/leisewitzgeorg"/>
       <e:P20037 rdf:resource="http://example.org/theilebruhnsgerda"/>
+      <e:P20037 rdf:resource="http://example.org/leisewitzgeorge"/>
       <e:P20037 rdf:resource="http://example.org/enzenbergcarinavon"/>
       <e:P20037 rdf:resource="http://example.org/moralhildegard"/>
-      <m:P30327 rdf:resource="http://example.org/leisewitzgeorge"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/14767431"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://viaf.org/viaf/177039865/nob">
@@ -11731,7 +11736,6 @@
       <m:P30156>Pabellón de reposo ; Nuevas andanzas y desventuras de Lazarillo de Tormes</m:P30156>
       <m:P30117>Camilo José Cela ; con un estudio crítico de Emilio González López</m:P30117>
       <e:P20001>text</e:P20001>
-      <e:P20001>Texto (visual)</e:P20001>
       <e:P20001>Palabra hablada</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:0135283078"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8423307336"/>
@@ -11820,8 +11824,7 @@
       <e:P20006>eng</e:P20006>
       <w:P10088>La colmena</w:P10088>
       <m:P30156>The hive /</m:P30156>
-      <m:P30117>Camilo Josʹe Cela ; translated by J.M. Cohen in consultation with Arturo Bare.</m:P30117>
-      <m:P30117>Camilo Josʹe Cela ; translated by J.M. Cohen in consultation with Arturo Barea.</m:P30117>
+      <m:P30117>Camilo Josʹe Cela ; translated by J.M. Cohen in consultation with Arturo Barea</m:P30117>
       <m:P30156>La colmena.</m:P30156>
       <m:P30117>translated by J.M.Cohen in consultation with Arturo Barea.</m:P30117>
       <m:P30117>Camilo José Cela ; translated by J.M. Cohen, in consultation with Arturo Barea</m:P30117>
@@ -11845,7 +11848,7 @@
       <m:P30156>Roman</m:P30156>
       <m:P30117>Camilo José Cela</m:P30117>
       <m:P30117>Camilo José Cela. Aus d. Span. von Gerda Theile-Bruhns</m:P30117>
-      <m:P30156>Roman = &#x98;La&#x9c; colmena</m:P30156>
+      <m:P30156>Roman = La colmena</m:P30156>
       <m:P30117>Camilo José Cela. [Dt. von Gerda Theile-Bruhns]</m:P30117>
       <m:P30117>Camilo José Cela. Aus dem Span. von Gerda Theile-Bruhns</m:P30117>
       <e:P20001>text</e:P20001>
@@ -11902,7 +11905,6 @@
       <m:P30117>Camilo José Cela ; edición introducción y notas, Darío Villanueva ; estudio de la obra e índice de los personajes, M. Ángeles Rodriguez Fontela ; ilustración, Tino Gatagán</m:P30117>
       <m:P30117>Camilo José Cela ; edición, introducción y notas, Darío Villanueva ; estudio de la obra e índice de personajes, M. Ángeles Rodríguez Fontela ; ilustración, Tino Gatagán</m:P30117>
       <e:P20001>text</e:P20001>
-      <e:P20001>Texto (visual)</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9788420420684"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9788437637891"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8437607949"/>
@@ -12003,7 +12005,6 @@
       <m:P30117>Camilo José Cela. Ilustraciones de Suárez del Arbol</m:P30117>
       <m:P30156>Edición facsimilar del manuscrito de "Pabellón de reposo"</m:P30156>
       <e:P20001>text</e:P20001>
-      <e:P20001>Texto (visual)</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/009351562"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8423318192"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8423304388"/>
@@ -12030,7 +12031,6 @@
       <m:P30156>Edición facsimilar del manuscrito de "Oficio de tinieblas 5"</m:P30156>
       <m:P30117>[por Camilo José Cela]</m:P30117>
       <e:P20001>text</e:P20001>
-      <e:P20001>Texto (visual)</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8470177419"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8493290386"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8432220108"/>
@@ -12095,7 +12095,6 @@
       <m:P30117>Fotografias de Karl Wlasak</m:P30117>
       <e:P20001>text</e:P20001>
       <e:P20001>Imagen (fija ; bidimensional ; visual)</e:P20001>
-      <e:P20001>Texto (visual)</e:P20001>
       <w:P10004>Selección</w:P10004>
       <bibframe:hasInstance rdf:resource="http://example.org/014026998"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:842333046"/>
@@ -12182,7 +12181,6 @@
       <m:P30117>Carmilo José Cela</m:P30117>
       <m:P30117>Camilo José Cela ; prólogo de Agustín Fernández Mallo</m:P30117>
       <e:P20001>text</e:P20001>
-      <e:P20001>Texto (visual)</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8432204846"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8493290394"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9788408095972"/>
@@ -12247,7 +12245,6 @@
       <m:P30156>Edición facsimilar del manuscrito de "Mrs. Caldwell habla con su hijo"</m:P30156>
       <m:P30117>Camilo José Cela ; prólogo de Adolfo Sotelo</m:P30117>
       <e:P20001>text</e:P20001>
-      <e:P20001>Texto (visual)</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8401427789"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8434582684"/>
       <bibframe:hasInstance rdf:resource="http://example.org/bimo0000655372"/>
@@ -12275,7 +12272,6 @@
       <m:P30156>Edición facsimilar del manuscrito de "Madera de boj"</m:P30156>
       <m:P30117>Camilo José Cela ; prólogo, Víctor García de la Concha</m:P30117>
       <e:P20001>text</e:P20001>
-      <e:P20001>Texto (visual)</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:842397961"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8423979636"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8439587368"/>
@@ -12299,7 +12295,6 @@
       <m:P30117>Camilo José Cela</m:P30117>
       <m:P30156>Edición facsimilar del manuscrito de "Nuevas andanzas y desventuras de Lazarillo de Tormes"</m:P30156>
       <e:P20001>text</e:P20001>
-      <e:P20001>Texto (visual)</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/bimo0000858752"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8432029106"/>
       <bibframe:hasInstance rdf:resource="http://example.org/bimo0000655384"/>
@@ -12472,7 +12467,6 @@
       <m:P30117>texto de Camilo José Cela ; fotografías de Oriol Maspons y Julio Ubiña</m:P30117>
       <m:P30117>Introducción de Antonio Vilanova</m:P30117>
       <e:P20001>text</e:P20001>
-      <e:P20001>Texto (visual)</e:P20001>
       <w:P10088>Toreo de salón</w:P10088>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8426429971"/>
       <bibframe:hasInstance rdf:resource="http://example.org/bimo0000655459"/>
@@ -12542,7 +12536,6 @@
       <m:P30156>Diccionario secreto /</m:P30156>
       <m:P30117>Camilo José Cela.</m:P30117>
       <e:P20001>text</e:P20001>
-      <e:P20001>Texto (visual)</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8420615048"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8420619973"/>
       <bibframe:hasInstance rdf:resource="http://example.org/bimo0000655295"/>
@@ -12681,7 +12674,6 @@
       <m:P30156>Edición facsimilar del manuscrito de la "La catira"</m:P30156>
       <m:P30117>Camilo José Cela ; [dibujos originales de Ricardo Arenys]</m:P30117>
       <e:P20001>text</e:P20001>
-      <e:P20001>Texto (visual)</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/014027006"/>
       <bibframe:hasInstance rdf:resource="http://example.org/014027000"/>
       <bibframe:hasInstance rdf:resource="http://example.org/bimo0000349006"/>
@@ -12727,7 +12719,6 @@
       <m:P30156>Notas de un vagabundaje por Avila, Segovia y sus tierras</m:P30156>
       <m:P30156>Edición facsimilar del manuscrito de "Judíos, moros y cristianos"</m:P30156>
       <e:P20001>text</e:P20001>
-      <e:P20001>Texto (visual)</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/008686955"/>
       <bibframe:hasInstance rdf:resource="http://example.org/bimo0000655358"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8423510094"/>
@@ -12800,7 +12791,6 @@
       <m:P30117>Camilo José Cela.</m:P30117>
       <m:P30156>Esas nubes que pasan ; El bonito crimen del carabinero y otros engaños y ofuscaciones ; Baraja de invenciones</m:P30156>
       <e:P20001>text</e:P20001>
-      <e:P20001>Texto (visual)</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8423310779"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9788423329472"/>
       <bibframe:hasInstance rdf:resource="http://example.org/bimo0000655398"/>
@@ -12818,7 +12808,6 @@
       <m:P30117>Camilo José Cela ; edición de Francisco Fuster.</m:P30117>
       <m:P30117>Camilo José Cela ; edición, introducción y notas de Francisco Fuster</m:P30117>
       <e:P20001>text</e:P20001>
-      <e:P20001>Texto (visual)</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9788416247523"/>
       <e:P20330 rdf:resource="http://example.org/fustergarcafrancisco"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/14767431"/>
@@ -12862,7 +12851,6 @@
       <m:P30117>Camilo José Cela</m:P30117>
       <m:P30156>Edición facsimilar del manuscrito de "La rosa"</m:P30156>
       <e:P20001>text</e:P20001>
-      <e:P20001>Texto (visual)</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8423309657"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9788423344031"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9788493680312"/>
@@ -12882,7 +12870,6 @@
       <m:P30156>notas de un vagabundaje por Jaén, Córdoba, Sevilla, Huelva y sus tierras</m:P30156>
       <m:P30117>[por] Camilo José Cela</m:P30117>
       <e:P20001>text</e:P20001>
-      <e:P20001>Texto (visual)</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/014027010"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9788493512972"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8489076294"/>
@@ -12929,7 +12916,6 @@
       <m:P30117>Camilo José Cela</m:P30117>
       <m:P30156>Edición facsimilar del manuscrito de "Tobogán de hambrientos"</m:P30156>
       <e:P20001>text</e:P20001>
-      <e:P20001>Texto (visual)</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8401381193"/>
       <bibframe:hasInstance rdf:resource="http://example.org/bimo0000655458"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8493290351"/>
@@ -12980,7 +12966,6 @@
       <m:P30156>Las compañías convenientes y otros fingimientos y cegueras.</m:P30156>
       <m:P30117>Camilo José Cela</m:P30117>
       <e:P20001>text</e:P20001>
-      <e:P20001>Texto (visual)</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8423301036"/>
       <bibframe:hasInstance rdf:resource="http://example.org/bimo0000655281"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8401413036"/>
@@ -13071,7 +13056,6 @@
       <m:P30117>Ilustraciones de Lorenzo Goñi</m:P30117>
       <m:P30117>Camilo José Cela</m:P30117>
       <e:P20001>text</e:P20001>
-      <e:P20001>Texto (visual)</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/013203458"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:842262317"/>
       <bibframe:hasInstance rdf:resource="http://example.org/bimo0000655486"/>
@@ -13092,7 +13076,6 @@
       <m:P30117>Camilo José Cela</m:P30117>
       <m:P30156>Edición facsimilar del manuscrito de "Viaje al Pirineo de Lérida"</m:P30156>
       <e:P20001>text</e:P20001>
-      <e:P20001>Texto (visual)</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/bimo0000655480"/>
       <bibframe:hasInstance rdf:resource="http://example.org/bimo0000655481"/>
       <bibframe:hasInstance rdf:resource="http://example.org/bimo0000655483"/>
@@ -13131,7 +13114,6 @@
       <m:P30117>Ilustraciones de Juan Esplandiú</m:P30117>
       <m:P30117>Ilustraciones de Juan Esplandíu</m:P30117>
       <e:P20001>text</e:P20001>
-      <e:P20001>Texto (visual)</e:P20001>
       <w:P10088>Madrid</w:P10088>
       <bibframe:hasInstance rdf:resource="http://example.org/bimo0000655360"/>
       <bibframe:hasInstance rdf:resource="http://example.org/bimo0000655361"/>
@@ -13167,7 +13149,6 @@
       <m:P30117>Camilo José Cela ; ilustraciones de Federico Lloveras.</m:P30117>
       <m:P30117>Ilustraciones de Federico Lloveras</m:P30117>
       <e:P20001>text</e:P20001>
-      <e:P20001>Texto (visual)</e:P20001>
       <w:P10088>Barcelona</w:P10088>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8427960255"/>
       <bibframe:hasInstance rdf:resource="http://example.org/bimo0000655233"/>
@@ -13280,7 +13261,6 @@
       <m:P30117>Camilo José Cela</m:P30117>
       <m:P30117>Camilo José Celas</m:P30117>
       <e:P20001>text</e:P20001>
-      <e:P20001>Texto (visual)</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8423311686"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9788423329359"/>
       <bibframe:partOf rdf:resource="http://viaf.org/viaf/14767431/vueltadehojaconversacionesespaolas/spa"/>
@@ -13369,7 +13349,7 @@
       <e:P20001>text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8477370184"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/14767431"/>
-      <w:guideToWork.en rdf:resource="http://example.org/goyafrancisco/caprichos"/>
+      <w:guideToWork.en rdf:resource="http://example.org/goyafranciscode/loscaprichos"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://workid.oslomet.no/cjc/86/spa">
       <e:P20006>spa</e:P20006>
@@ -13490,7 +13470,6 @@
       <m:P30117>Camilo José Cela</m:P30117>
       <m:P30156>Edición facsimilar del manuscrito de "El asesinato del perdedor"</m:P30156>
       <e:P20001>text</e:P20001>
-      <e:P20001>Texto (visual)</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8432207020"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8447308855"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8448405331"/>
@@ -13534,7 +13513,6 @@
       <m:P30117>Camilo José Cela</m:P30117>
       <m:P30156>Edición facsimilar del manuscrito de "La cruz de San Andrés"</m:P30156>
       <e:P20001>text</e:P20001>
-      <e:P20001>Texto (visual)</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8408012436"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8439567243"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8408020099"/>
@@ -13559,6 +13537,7 @@
       <e:P20001>text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9781564783417"/>
       <e:P20037 rdf:resource="http://example.org/sokolinskymartin"/>
+      <m:P30327 rdf:resource="http://example.org/charlesboislucilec"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/14767431"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://www.wikidata.org/entity/Q5791732/spa">
@@ -13569,7 +13548,6 @@
       <m:P30117>Camilo José Cela ; ha sido ilustrada por Eduardo Arranz-Bravo</m:P30117>
       <m:P30156>Edición facsimilar del manuscrito de "Cristo versus Arizona"</m:P30156>
       <e:P20001>text</e:P20001>
-      <e:P20001>Texto (visual)</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8432205826"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8401427711"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8447311481"/>
@@ -13588,7 +13566,7 @@
       <m:P30117>dirección, Ricardo Franco ; producción, Elías Querejeta ; guión, Emilio Martínez-Lázaro, Elías Querejeta, Ricardo Franco ; fotografía, Luis Cuadrado ; música, Luis de Pablo</m:P30117>
       <m:P30117>dirección, Ricardo Franco ; producción, Elías Querejeta ; guión de Emilio Martínez-Lázaro, Elías Querejeta, Ricardo Franco ; fotografía, Luis Cuadrado ; música, Luis de Pablo</m:P30117>
       <e:P20001>text</e:P20001>
-      <e:P20001>Imagen (en movimiento ; bidimensional)</e:P20001>
+      <e:P20001>mvoing image</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/bivi0000026280"/>
       <bibframe:hasInstance rdf:resource="http://example.org/bivi0000039832"/>
       <bibframe:hasInstance rdf:resource="http://example.org/a5617196"/>
@@ -13611,7 +13589,7 @@
       <m:P30117>dirección, Mario Camus ; productor, José Luis Dibildos ; guión, José Luis Dibildos ; director de fotografía, Hans Burmann ; música, Antón García Abril</m:P30117>
       <m:P30117>dirección, Mario Camus ; producida por y guión de José Luis Dibildos ; director de fotografía, Hans Burmann ; música, Antón García Abril ; director de producción, Julio Parra</m:P30117>
       <e:P20001>text</e:P20001>
-      <e:P20001>Imagen (en movimiento ; bidimensional)</e:P20001>
+      <e:P20001>mvoing image</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/bivi0000010987"/>
       <bibframe:hasInstance rdf:resource="http://example.org/bivi0000010986"/>
       <bibframe:hasInstance rdf:resource="http://example.org/a5087389"/>
@@ -13705,7 +13683,7 @@
       <m:P30156>La cámara de Bernal tras la huella de Cela en la Alcarria, 1972</m:P30156>
       <m:P30117>Santiago Bernal, fotografías</m:P30117>
       <e:P20001>Imagen (fija ; bidimensional ; visual)</e:P20001>
-      <e:P20001>Texto (visual)</e:P20001>
+      <e:P20001>text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/a5955997"/>
       <w:P10068 rdf:resource="http://example.org/bernalsantiago"/>
    </bibframe:Work>
@@ -13793,7 +13771,7 @@
       <m:P30117>dirección, Ricardo Franco ; producción, Elías Querejeta ; guión de Emilio Martínez-Lázaro, Elías Querejeta, Ricardo Franco ; fotografía, Luis Cuadrado ; música, Luis de Pablo</m:P30117>
       <m:P30117>dirección, Ricardo Franco ; guión de Emilio Martínez Lázaro, Elías Querejeta, Ricardo Franco ; fotografía, Luis Cuadrado ; música, Luis de Pablo ; productor, Elías Querejeta</m:P30117>
       <m:P30117>director, Ricardo Franco ; productor, Elías Querejeta ; música, Luis de Pablo ; fotografía, Luis Cuadrado ; guión, Emilio Martínez Lázaro, Elías Querejeta y Ricardo Franco</m:P30117>
-      <e:P20001>Imagen (en movimiento ; bidimensional)</e:P20001>
+      <e:P20001>mvoing image</e:P20001>
       <e:P20001>text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/a5617162"/>
       <bibframe:hasInstance rdf:resource="http://example.org/bivi0000006575"/>
@@ -13945,7 +13923,6 @@
       <m:P30117>Salvador Toquero, Santiago Barra</m:P30117>
       <m:P30117>Salvador Toquero, Santiago Barra ; [fotografías, Luis Barra]</m:P30117>
       <e:P20001>text</e:P20001>
-      <e:P20001>Texto (visual)</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8430073167"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9788460877608"/>
       <w:P10061 rdf:resource="http://example.org/toquerocortssalvador"/>
@@ -13991,7 +13968,7 @@
       <e:P20006>spa</e:P20006>
       <m:P30156>Significado y estructura de "La familia de Pascual Duarte"</m:P30156>
       <m:P30117>Darío Villanueva</m:P30117>
-      <e:P20001>Texto (visual)</e:P20001>
+      <e:P20001>text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9788468227238"/>
       <w:P10061 rdf:resource="http://example.org/villanuevadaro"/>
    </bibframe:Work>

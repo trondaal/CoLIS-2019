@@ -292,7 +292,7 @@
    </bibframe:Instance>
    <bibframe:Instance rdf:about="http://example.org/451602676">
       <marc:M001>451602676</marc:M001>
-      <m:P30156>&#x98;Die&#x9c; Erben</m:P30156>
+      <m:P30156>Die Erben</m:P30156>
       <m:P30117>William Golding. [Dt. von Hermann Stiehl]</m:P30117>
       <m:P30107>1. - 5. Tsd.</m:P30107>
       <m:P30182>234 S.</m:P30182>
@@ -342,7 +342,7 @@
    </bibframe:Instance>
    <bibframe:Instance rdf:about="http://example.org/451602714">
       <marc:M001>451602714</marc:M001>
-      <m:P30156>&#x98;Der&#x9c; Felsen des zweiten Todes : Roman</m:P30156>
+      <m:P30156>Der Felsen des zweiten Todes : Roman</m:P30156>
       <m:P30156>Roman</m:P30156>
       <m:P30117>William Golding. [Aus d. Engl. übertr. von Hermann Stiehl]</m:P30117>
       <m:P30182>174 S.</m:P30182>
@@ -367,7 +367,7 @@
    </bibframe:Instance>
    <bibframe:Instance rdf:about="http://example.org/456781056">
       <marc:M001>456781056</marc:M001>
-      <m:P30156>&#x98;Der&#x9c; Turm der Kathedrale</m:P30156>
+      <m:P30156>Der Turm der Kathedrale</m:P30156>
       <m:P30117>William Golding. Aus d. Engl. übers. von Hermann Stiehl</m:P30117>
       <m:P30182>246 S.</m:P30182>
       <m:P30169>8</m:P30169>
@@ -477,7 +477,7 @@
    </bibframe:Instance>
    <bibframe:Instance rdf:about="http://example.org/871115859">
       <marc:M001>871115859</marc:M001>
-      <m:P30156>&#x98;Das&#x9c; Feuer der Finsternis : Roman</m:P30156>
+      <m:P30156>Das Feuer der Finsternis : Roman</m:P30156>
       <m:P30156>Roman</m:P30156>
       <m:P30117>William Golding. [Aus d. Engl. von Ursula Leipe]</m:P30117>
       <m:P30182>319 S.</m:P30182>
@@ -523,7 +523,7 @@
    </bibframe:Instance>
    <bibframe:Instance rdf:about="http://example.org/910000743">
       <marc:M001>910000743</marc:M001>
-      <m:P30156>&#x98;Der&#x9c; Turm der Kathedrale : Nobelpreis 1983 England</m:P30156>
+      <m:P30156>Der Turm der Kathedrale : Nobelpreis 1983 England</m:P30156>
       <m:P30156>Nobelpreis 1983 England</m:P30156>
       <m:P30117>William Golding. [Bibliogr.: Werner Martin]</m:P30117>
       <m:P30182>307 S.</m:P30182>
@@ -554,7 +554,7 @@
    </bibframe:Instance>
    <bibframe:Instance rdf:about="http://example.org/961860596">
       <marc:M001>961860596</marc:M001>
-      <m:P30156>&#x98;Der&#x9c; Turm der Kathedrale : Nobelpreis 1983 England</m:P30156>
+      <m:P30156>Der Turm der Kathedrale : Nobelpreis 1983 England</m:P30156>
       <m:P30156>Nobelpreis 1983 England</m:P30156>
       <m:P30117>William Golding. [Bibliogr.: Werner Martin]</m:P30117>
       <m:P30182>307, 251, 347 S.</m:P30182>
@@ -616,7 +616,7 @@
       <m:P30169>18 cm</m:P30169>
       <m:P30106>El Libro de Bolsillo. Sección: Literatura</m:P30106>
       <m:P30165>v. 468</m:P30165>
-      <bibframe:instanceOf rdf:resource="http://viaf.org/viaf/308018847/spa"/>
+      <bibframe:instanceOf rdf:resource="http://www.wikidata.org/entity/Q7762618/spa"/>
    </bibframe:Instance>
    <bibframe:Instance rdf:about="http://example.org/bimo0000923022">
       <marc:M001>bimo0000923022</marc:M001>
@@ -679,7 +679,7 @@
       <m:P30182>1 videocasete (VHS) (91 min)</m:P30182>
       <m:P30001>video</m:P30001>
       <m:P30002>VHS</m:P30002>
-      <bibframe:instanceOf rdf:resource="https://www.imdb.com/title/tt0100054//spa"/>
+      <bibframe:instanceOf rdf:resource="https://www.imdb.com/title/tt0100054/spa"/>
    </bibframe:Instance>
    <bibframe:Instance rdf:about="http://example.org/bivi0000058826">
       <marc:M001>bivi0000058826</marc:M001>
@@ -692,7 +692,7 @@
       <m:P30182>1 videocasete (VHS) (90 min)</m:P30182>
       <m:P30001>video</m:P30001>
       <m:P30002>VHS</m:P30002>
-      <bibframe:instanceOf rdf:resource="https://www.imdb.com/title/tt0100054//spa"/>
+      <bibframe:instanceOf rdf:resource="https://www.imdb.com/title/tt0100054/spa"/>
    </bibframe:Instance>
    <bibframe:Instance rdf:about="http://example.org/bivi0000058827">
       <marc:M001>bivi0000058827</marc:M001>
@@ -705,7 +705,7 @@
       <m:P30182>1 videocasete (VHS) (90 min)</m:P30182>
       <m:P30001>video</m:P30001>
       <m:P30002>VHS</m:P30002>
-      <bibframe:instanceOf rdf:resource="https://www.imdb.com/title/tt0100054//spa"/>
+      <bibframe:instanceOf rdf:resource="https://www.imdb.com/title/tt0100054/spa"/>
    </bibframe:Instance>
    <bibframe:Instance rdf:about="http://example.org/urn:isbn:0330502956">
       <marc:M001>010047798</marc:M001>
@@ -924,7 +924,7 @@
       <m:P30169>21 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
-      <bibframe:instanceOf rdf:resource="http://viaf.org/viaf/308018847/eng"/>
+      <bibframe:instanceOf rdf:resource="http://www.wikidata.org/entity/Q7762618/eng"/>
    </bibframe:Instance>
    <bibframe:Instance rdf:about="http://example.org/urn:isbn:0571102328">
       <marc:M001>001452475</marc:M001>
@@ -937,7 +937,7 @@
       <m:P30169>19 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
-      <bibframe:instanceOf rdf:resource="http://viaf.org/viaf/308018847/eng"/>
+      <bibframe:instanceOf rdf:resource="http://www.wikidata.org/entity/Q7762618/eng"/>
    </bibframe:Instance>
    <bibframe:Instance rdf:about="http://example.org/urn:isbn:0571114547">
       <marc:M001>010068287</marc:M001>
@@ -1411,7 +1411,7 @@
       <m:P30001>unmediated</m:P30001>
       <m:P30002>sheet</m:P30002>
       <m:P30106>A New Portway large print book</m:P30106>
-      <bibframe:instanceOf rdf:resource="http://viaf.org/viaf/89500102/thescorpiongodthreeshortnovels/eng"/>
+      <bibframe:instanceOf rdf:resource="http://www.wikidata.org/entity/Q7762618/eng"/>
    </bibframe:Instance>
    <bibframe:Instance rdf:about="http://example.org/urn:isbn:0850467071">
       <marc:M001>008113386</marc:M001>
@@ -1740,7 +1740,7 @@
       <m:P30169>18 cm</m:P30169>
       <m:P30106>El Libro de bolsillo</m:P30106>
       <m:P30165>468. Sección Literatura</m:P30165>
-      <bibframe:instanceOf rdf:resource="http://viaf.org/viaf/308018847/spa"/>
+      <bibframe:instanceOf rdf:resource="http://www.wikidata.org/entity/Q7762618/spa"/>
    </bibframe:Instance>
    <bibframe:Instance rdf:about="http://example.org/urn:isbn:8420630969">
       <marc:M001>bimo0000253959</marc:M001>
@@ -1871,8 +1871,7 @@
       <m:P30002>volume</m:P30002>
       <m:P30106>El libro de bolsillo. Literatura ;</m:P30106>
       <m:P30165>L 5637</m:P30165>
-      <bibframe:instanceOf rdf:resource="http://viaf.org/viaf/89500102/eldiosescorpinclonccloncelenviadoespecial/spa"/>
-      <bibframe:instanceOf rdf:resource="http://viaf.org/viaf/308018847/spa"/>
+      <bibframe:instanceOf rdf:resource="http://www.wikidata.org/entity/Q7762618/spa"/>
    </bibframe:Instance>
    <bibframe:Instance rdf:about="http://example.org/urn:isbn:8420666572">
       <marc:M001>bimo0002264066</marc:M001>
@@ -1903,7 +1902,7 @@
       <m:P30169>18 cm</m:P30169>
       <m:P30169>19 cm</m:P30169>
       <m:P30106>Biblioteca fundamental de nuestro tiempo ;13. Sección Literatura</m:P30106>
-      <bibframe:instanceOf rdf:resource="http://viaf.org/viaf/308018847/spa"/>
+      <bibframe:instanceOf rdf:resource="http://www.wikidata.org/entity/Q7762618/spa"/>
    </bibframe:Instance>
    <bibframe:Instance rdf:about="http://example.org/urn:isbn:8420699160">
       <marc:M001>014870388</marc:M001>
@@ -2418,7 +2417,7 @@
       <m:P30169>20 cm</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
-      <bibframe:instanceOf rdf:resource="http://viaf.org/viaf/89500102/thescorpiongodthreeshortnovels/eng"/>
+      <bibframe:instanceOf rdf:resource="http://www.wikidata.org/entity/Q7762618/eng"/>
    </bibframe:Instance>
    <bibframe:Instance rdf:about="http://example.org/urn:isbn:9780571298501">
       <marc:M001>016320898</marc:M001>
@@ -2550,7 +2549,7 @@
       <m:P30182>1 online resource (178 pages).</m:P30182>
       <m:P30001>computer</m:P30001>
       <m:P30002>online resource</m:P30002>
-      <bibframe:instanceOf rdf:resource="http://viaf.org/viaf/308018847/eng"/>
+      <bibframe:instanceOf rdf:resource="http://www.wikidata.org/entity/Q7762618/eng"/>
    </bibframe:Instance>
    <bibframe:Instance rdf:about="http://example.org/urn:isbn:9780571307821">
       <marc:M001>016488969</marc:M001>
@@ -2677,7 +2676,7 @@
       <marc:M001>840168969</marc:M001>
       <m:P30004>urn:isbn:9783100268044</m:P30004>
       <m:P30004>urn:isbn:3100268040</m:P30004>
-      <m:P30156>&#x98;Der&#x9c; Turm der Kathedrale</m:P30156>
+      <m:P30156>Der Turm der Kathedrale</m:P30156>
       <m:P30117>William Golding. Aus d. Engl. übers. von Hermann Stiehl</m:P30117>
       <m:P30107>[1. - 6. Tsd.]</m:P30107>
       <m:P30182>246 S.</m:P30182>
@@ -2787,7 +2786,6 @@
       <m:P30002>Band</m:P30002>
       <m:P30106>Reihe: Stundenblätter Englisch</m:P30106>
       <m:P30106>Klett-Schulpraxis</m:P30106>
-      <bibframe:instanceOf rdf:resource="http://example.org/kaisergerd/stundenblattergoldinglordoftheflies/eng"/>
       <bibframe:instanceOf rdf:resource="http://example.org/kaisergerd/stundenblattergoldinglordoftheflies/ger"/>
    </bibframe:Instance>
    <bibframe:Instance rdf:about="http://example.org/urn:isbn:9783150092361">
@@ -2887,7 +2885,7 @@
       <marc:M001>831047682</marc:M001>
       <m:P30004>urn:isbn:9783423101530</m:P30004>
       <m:P30004>urn:isbn:3423101539</m:P30004>
-      <m:P30156>&#x98;Das&#x9c; Feuer der Finsternis : Roman</m:P30156>
+      <m:P30156>Das Feuer der Finsternis : Roman</m:P30156>
       <m:P30156>Roman</m:P30156>
       <m:P30117>William Golding. Dt. von Ursula Leipe</m:P30117>
       <m:P30107>Ungekürzte Ausg.</m:P30107>
@@ -3001,7 +2999,7 @@
       <m:P30002>Band</m:P30002>
       <m:P30106>[Ein Goldmann-Taschenbuch]</m:P30106>
       <m:P30165>6694</m:P30165>
-      <bibframe:instanceOf rdf:resource="http://viaf.org/viaf/89500102/dersonderbotschafterromane/ger"/>
+      <bibframe:instanceOf rdf:resource="http://www.wikidata.org/entity/Q7762618/ger"/>
    </bibframe:Instance>
    <bibframe:Instance rdf:about="http://example.org/urn:isbn:9783442066957">
       <marc:M001>840178859</marc:M001>
@@ -3055,7 +3053,7 @@
       <marc:M001>890491755</marc:M001>
       <m:P30004>urn:isbn:9783442092550</m:P30004>
       <m:P30004>urn:isbn:3442092558</m:P30004>
-      <m:P30156>&#x98;Das&#x9c; Feuer der Finsternis : Roman</m:P30156>
+      <m:P30156>Das Feuer der Finsternis : Roman</m:P30156>
       <m:P30156>Roman</m:P30156>
       <m:P30117>William Golding</m:P30117>
       <m:P30107>Ungekürzte Ausg., 1. Aufl.</m:P30107>
@@ -3085,7 +3083,7 @@
       <marc:M001>871471663</marc:M001>
       <m:P30004>urn:isbn:9783471776483</m:P30004>
       <m:P30004>urn:isbn:3471776486</m:P30004>
-      <m:P30156>&#x98;Ein&#x9c; ägyptisches Tagebuch</m:P30156>
+      <m:P30156>Ein ägyptisches Tagebuch</m:P30156>
       <m:P30117>William Golding. Aus d. Engl. von Renate Orth-Guttmann</m:P30117>
       <m:P30182>281 S.</m:P30182>
       <m:P30169>21 cm</m:P30169>
@@ -3137,14 +3135,14 @@
       <marc:M001>740565672</marc:M001>
       <m:P30004>urn:isbn:9783546432955</m:P30004>
       <m:P30004>urn:isbn:3546432959</m:P30004>
-      <m:P30156>&#x98;Der&#x9c; Sonderbotschafter</m:P30156>
+      <m:P30156>Der Sonderbotschafter</m:P30156>
       <m:P30117>William Golding. Dt. von Ulla H. de Herrera</m:P30117>
       <m:P30107>1. Aufl.</m:P30107>
       <m:P30182>258 S.;</m:P30182>
       <m:P30169>22 cm</m:P30169>
       <m:P30001>ohne Hilfsmittel zu benutzen</m:P30001>
       <m:P30002>Band</m:P30002>
-      <bibframe:instanceOf rdf:resource="http://viaf.org/viaf/308018847/ger"/>
+      <bibframe:instanceOf rdf:resource="http://www.wikidata.org/entity/Q7762618/ger"/>
    </bibframe:Instance>
    <bibframe:Instance rdf:about="http://example.org/urn:isbn:9783570004531">
       <marc:M001>840387121</marc:M001>
@@ -3300,7 +3298,7 @@
       <marc:M001>810354551</marc:M001>
       <m:P30004>urn:isbn:9783596250431</m:P30004>
       <m:P30004>urn:isbn:3596250439</m:P30004>
-      <m:P30156>&#x98;Der&#x9c; Felsen des zweiten Todes : Roman</m:P30156>
+      <m:P30156>Der Felsen des zweiten Todes : Roman</m:P30156>
       <m:P30156>Roman</m:P30156>
       <m:P30117>William Golding. Dt. von Hermann Stiehl</m:P30117>
       <m:P30107>Dt. Erstausg., 56. - 85. Tsd.</m:P30107>
@@ -3317,7 +3315,7 @@
       <marc:M001>840156677</marc:M001>
       <m:P30004>urn:isbn:9783596250455</m:P30004>
       <m:P30004>urn:isbn:3596250455</m:P30004>
-      <m:P30156>&#x98;Der&#x9c; Turm der Kathedrale : Roman</m:P30156>
+      <m:P30156>Der Turm der Kathedrale : Roman</m:P30156>
       <m:P30156>Roman</m:P30156>
       <m:P30117>William Golding. Aus d. Engl. übertr. von Hermann Stiehl</m:P30117>
       <m:P30182>246 S.</m:P30182>
@@ -3347,7 +3345,7 @@
       <marc:M001>840253680</marc:M001>
       <m:P30004>urn:isbn:9783596258253</m:P30004>
       <m:P30004>urn:isbn:3596258251</m:P30004>
-      <m:P30156>&#x98;Die&#x9c; Erben : [Roman]</m:P30156>
+      <m:P30156>Die Erben : [Roman]</m:P30156>
       <m:P30156>[Roman]</m:P30156>
       <m:P30117>William Golding. Aus d. Engl. übertr. von Hermann Stiehl</m:P30117>
       <m:P30182>234 S.</m:P30182>
@@ -3484,7 +3482,7 @@
       <marc:M001>880622091</marc:M001>
       <m:P30004>urn:isbn:9783813572087</m:P30004>
       <m:P30004>urn:isbn:3813572080</m:P30004>
-      <m:P30156>&#x98;Die&#x9c; Eingepferchten : Roman</m:P30156>
+      <m:P30156>Die Eingepferchten : Roman</m:P30156>
       <m:P30156>Roman</m:P30156>
       <m:P30117>William Golding. Dt. von Emil Bastuk</m:P30117>
       <m:P30107>1. Aufl.</m:P30107>
@@ -3498,7 +3496,7 @@
       <marc:M001>810202018</marc:M001>
       <m:P30004>urn:isbn:9783820502107</m:P30004>
       <m:P30004>urn:isbn:3820502106</m:P30004>
-      <m:P30156>&#x98;Das&#x9c; Feuer der Finsternis : Roman</m:P30156>
+      <m:P30156>Das Feuer der Finsternis : Roman</m:P30156>
       <m:P30156>Roman</m:P30156>
       <m:P30117>William Golding. [Aus d. Engl. von Ursula Leipe]</m:P30117>
       <m:P30182>319 S.</m:P30182>
@@ -3606,7 +3604,7 @@
       <m:P30004>urn:isbn:9783890645278</m:P30004>
       <m:P30004>urn:isbn:3890645275</m:P30004>
       <m:P30004>urn:ian:9783890645278</m:P30004>
-      <m:P30156>&#x98;Die&#x9c; Erben : Paläo-Fiction Roman (Nr. 3)</m:P30156>
+      <m:P30156>Die Erben : Paläo-Fiction Roman (Nr. 3)</m:P30156>
       <m:P30156>Paläo-Fiction Roman (Nr. 3)</m:P30156>
       <m:P30117>William Golding</m:P30117>
       <m:P30107>1. Aufl.</m:P30107>
@@ -3719,7 +3717,7 @@
       <m:P30106>Golding</m:P30106>
       <m:P30165>6</m:P30165>
       <m:P30106>El libro de bolsillo. Biblioteca de autor</m:P30106>
-      <bibframe:instanceOf rdf:resource="http://viaf.org/viaf/308018847/spa"/>
+      <bibframe:instanceOf rdf:resource="http://www.wikidata.org/entity/Q7762618/spa"/>
    </bibframe:Instance>
    <bibframe:Instance rdf:about="http://example.org/urn:isbn:9788420674162">
       <marc:M001>a4998457</marc:M001>
@@ -3918,7 +3916,7 @@
    <bibframe:Person rdf:about="http://example.org/champourcinernestinade">
       <a:P50111>Champourcin, Ernestina de</a:P50111>
       <a:P50107>1905-1999</a:P50107>
-      <a:P50145 rdf:resource="http://viaf.org/viaf/308018847/spa"/>
+      <a:P50145 rdf:resource="http://www.wikidata.org/entity/Q7762618/spa"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="http://example.org/chapintom">
       <a:P50111>Chapin, Tom</a:P50111>
@@ -3948,16 +3946,16 @@
    </bibframe:Person>
    <bibframe:Person rdf:about="http://example.org/fuhrermartin">
       <a:P50111>Fuhrer, Martin</a:P50111>
-      <a:P50207 rdf:resource="https://www.imdb.com/title/tt0100054//spa"/>
+      <a:P50207 rdf:resource="https://www.imdb.com/title/tt0100054/spa"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="http://example.org/furthchris">
       <a:P50111>Furth, Chris</a:P50111>
-      <a:P50071 rdf:resource="https://www.imdb.com/title/tt0100054//spa"/>
+      <a:P50071 rdf:resource="https://www.imdb.com/title/tt0100054/spa"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="http://example.org/gettybalthazar">
       <a:P50111>Getty, Balthazar</a:P50111>
       <a:P50107>1975-</a:P50107>
-      <a:P50071 rdf:resource="https://www.imdb.com/title/tt0100054//spa"/>
+      <a:P50071 rdf:resource="https://www.imdb.com/title/tt0100054/spa"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="http://example.org/goligorskyeduardo">
       <a:P50111>Goligorsky, Eduardo</a:P50111>
@@ -4003,13 +4001,17 @@
       <a:P50111>Held, Wolfgang</a:P50111>
       <a:P50145 rdf:resource="http://viaf.org/viaf/1180145424574586830081/ger"/>
    </bibframe:Person>
+   <bibframe:Person rdf:about="http://example.org/herreraullahde">
+      <a:P50111>Herrera, Ulla H. de</a:P50111>
+      <a:P50145 rdf:resource="http://www.wikidata.org/entity/Q7762618/ger"/>
+   </bibframe:Person>
    <bibframe:Person rdf:about="http://example.org/hollymantom">
       <a:P50111>Hollyman, Tom</a:P50111>
       <a:P50207 rdf:resource="https://www.imdb.com/title/tt0057261//eng"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="http://example.org/hookharry">
       <a:P50111>Hook, Harry</a:P50111>
-      <a:P50048 rdf:resource="https://www.imdb.com/title/tt0100054//spa"/>
+      <a:P50048 rdf:resource="https://www.imdb.com/title/tt0100054/spa"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="http://example.org/horstsilke">
       <a:P50111>Horst, Silke</a:P50111>
@@ -4044,7 +4046,10 @@
       <a:P50195 rdf:resource="http://viaf.org/viaf/176165653/eng"/>
       <a:P50195 rdf:resource="http://viaf.org/viaf/187146251/eng"/>
       <a:P50195 rdf:resource="http://viaf.org/viaf/174553895/eng"/>
+      <a:P50195 rdf:resource="http://www.wikidata.org/entity/Q7762618/eng"/>
       <a:P50195 rdf:resource="http://viaf.org/viaf/308018847/eng"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/180585027/eng"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/177762289/eng"/>
       <a:P50195 rdf:resource="http://viaf.org/viaf/119144648592107423604"/>
       <a:P50195 rdf:resource="http://viaf.org/viaf/217036112/eng"/>
       <a:P50195 rdf:resource="http://oslomet.workid.no/wg/01/eng"/>
@@ -4052,18 +4057,15 @@
       <a:P50195 rdf:resource="http://viaf.org/viaf/309268108/eng"/>
       <a:P50195 rdf:resource="http://viaf.org/viaf/217036112"/>
       <a:P50195 rdf:resource="http://viaf.org/viaf/307973201/eng"/>
-      <a:P50195 rdf:resource="http://viaf.org/viaf/89500102/thescorpiongodthreeshortnovels/eng"/>
-      <a:P50195 rdf:resource="http://viaf.org/viaf/180585027/eng"/>
-      <a:P50195 rdf:resource="http://viaf.org/viaf/177762289/eng"/>
       <a:P50195 rdf:resource="http://viaf.org/viaf/89500102/lordofthefliespinchermartinritesofpassage/eng"/>
       <a:P50195 rdf:resource="http://viaf.org/viaf/178994871/spa"/>
       <a:P50195 rdf:resource="http://viaf.org/viaf/119144648592107423604/spa"/>
       <a:P50195 rdf:resource="http://viaf.org/viaf/1180145424574586830081/ger"/>
       <a:P50195 rdf:resource="http://viaf.org/viaf/119144648592107423604/ger"/>
-      <a:P50195 rdf:resource="http://viaf.org/viaf/89500102/eldiosescorpinclonccloncelenviadoespecial/spa"/>
+      <a:P50195 rdf:resource="http://www.wikidata.org/entity/Q7762618/spa"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/308018847/spa"/>
       <a:P50195 rdf:resource="http://viaf.org/viaf/180585027/spa"/>
       <a:P50195 rdf:resource="http://viaf.org/viaf/177762289/spa"/>
-      <a:P50195 rdf:resource="http://viaf.org/viaf/308018847/spa"/>
       <a:P50195 rdf:resource="http://viaf.org/viaf/217036112/spa"/>
       <a:P50195 rdf:resource="http://viaf.org/viaf/176165653/spa"/>
       <a:P50195 rdf:resource="http://viaf.org/viaf/184334172/spa"/>
@@ -4084,8 +4086,9 @@
       <a:P50195 rdf:resource="http://viaf.org/viaf/218116512/ger"/>
       <a:P50195 rdf:resource="http://viaf.org/viaf/217036112/ger"/>
       <a:P50195 rdf:resource="http://viaf.org/viaf/188302088/ger"/>
-      <a:P50195 rdf:resource="http://viaf.org/viaf/89500102/dersonderbotschafterromane/ger"/>
+      <a:P50195 rdf:resource="http://www.wikidata.org/entity/Q7762618/ger"/>
       <a:P50195 rdf:resource="http://viaf.org/viaf/308018847/ger"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/180585027/ger"/>
       <a:P50195 rdf:resource="http://viaf.org/viaf/177762289/ger"/>
       <a:P50195 rdf:resource="http://viaf.org/viaf/217036112/nob"/>
       <a:P50195 rdf:resource="http://viaf.org/viaf/174553895/nob"/>
@@ -4098,9 +4101,7 @@
       <a:P50204 rdf:resource="http://viaf.org/viaf/178994871"/>
       <a:P50204 rdf:resource="http://viaf.org/viaf/119144648592107423604"/>
       <a:P50204 rdf:resource="http://viaf.org/viaf/217036112"/>
-      <a:P50249 rdf:resource="http://oslomet.workid.no/wg/01/eng"/>
       <a:P50249 rdf:resource="http://example.org/mahoneyjohn/lordoftheflieswilliamgolding/eng"/>
-      <a:P50249 rdf:resource="http://viaf.org/viaf/89500102/eldiosescorpinclonccloncelenviadoespecial/spa"/>
       <a:P50249 rdf:resource="http://example.org/wilsonraymond/lordofthefliesbywilliamgolding/eng"/>
       <a:P50249 rdf:resource="http://example.org/nivenalastair/lordoftheflies/eng"/>
    </bibframe:Person>
@@ -4118,7 +4119,6 @@
    <bibframe:Person rdf:about="http://example.org/kaisergerd">
       <ex:relatorcode>aut</ex:relatorcode>
       <a:P50111>Kaiser, Gerd</a:P50111>
-      <a:P50195 rdf:resource="http://example.org/kaisergerd/stundenblattergoldinglordoftheflies/eng"/>
       <a:P50195 rdf:resource="http://example.org/kaisergerd/stundenblattergoldinglordoftheflies/ger"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="http://example.org/kellerrolfheinrich">
@@ -4140,6 +4140,10 @@
    <bibframe:Person rdf:about="http://example.org/lausundolav">
       <a:P50111>Lausund, Olav</a:P50111>
       <a:P50145 rdf:resource="http://viaf.org/viaf/217036112/nob"/>
+   </bibframe:Person>
+   <bibframe:Person rdf:about="http://example.org/leipeursula">
+      <a:P50111>Leipe, Ursula</a:P50111>
+      <a:P50145 rdf:resource="http://viaf.org/viaf/211743501/ger"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="http://example.org/leppardraymond">
       <a:P50111>Leppard, Raymond</a:P50111>
@@ -4169,7 +4173,7 @@
    </bibframe:Person>
    <bibframe:Person rdf:about="http://example.org/milloyross">
       <a:P50111>Milloy, Ross</a:P50111>
-      <a:P50213 rdf:resource="https://www.imdb.com/title/tt0100054//spa"/>
+      <a:P50213 rdf:resource="https://www.imdb.com/title/tt0100054/spa"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="http://example.org/mullanjohn">
       <a:P50111>Mullan, John</a:P50111>
@@ -4191,7 +4195,7 @@
    </bibframe:Person>
    <bibframe:Person rdf:about="http://example.org/pipolydaniel">
       <a:P50111>Pipoly, Daniel</a:P50111>
-      <a:P50071 rdf:resource="https://www.imdb.com/title/tt0100054//spa"/>
+      <a:P50071 rdf:resource="https://www.imdb.com/title/tt0100054/spa"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="http://example.org/poppereiner">
       <ex:relatorcode>aut</ex:relatorcode>
@@ -4230,11 +4234,11 @@
    <bibframe:Person rdf:about="http://example.org/sardephilippe">
       <a:P50111>Sarde, Philippe</a:P50111>
       <a:P50107>1945-</a:P50107>
-      <a:P50187 rdf:resource="https://www.imdb.com/title/tt0100054//spa"/>
+      <a:P50187 rdf:resource="https://www.imdb.com/title/tt0100054/spa"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="http://example.org/schiffsara">
       <a:P50111>Schiff, Sara</a:P50111>
-      <a:P50223 rdf:resource="https://www.imdb.com/title/tt0100054//spa"/>
+      <a:P50223 rdf:resource="https://www.imdb.com/title/tt0100054/spa"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="http://example.org/seifertjaroslav">
       <a:P50111>Seifert, Jaroslav</a:P50111>
@@ -4357,12 +4361,11 @@
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:0571135935"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9780571265497"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/89500102"/>
-      <w:P10261 rdf:resource="http://viaf.org/viaf/89500102"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://oslomet.workid.no/wg/01/ger">
       <e:P20006>ger</e:P20006>
       <w:P10088>An Egyptian journal</w:P10088>
-      <m:P30156>&#x98;Ein&#x9c; ägyptisches Tagebuch</m:P30156>
+      <m:P30156>Ein ägyptisches Tagebuch</m:P30156>
       <m:P30117>William Golding. Aus d. Engl. von Renate Orth-Guttmann</m:P30117>
       <e:P20001>text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783471776483"/>
@@ -4612,8 +4615,8 @@
    <bibframe:Work rdf:about="http://viaf.org/viaf/119144648592107423604/spa">
       <e:P20006>spa</e:P20006>
       <w:P10088>Lord of the flies</w:P10088>
-      <m:P30156>El señor de las moscas /</m:P30156>
-      <m:P30117>William Golding ; [traducción, Carmen Vergara].</m:P30117>
+      <m:P30156>El señor de las moscas</m:P30156>
+      <m:P30117>William Golding ; [traducción, Carmen Vergara]</m:P30117>
       <m:P30117>William Golding ; traducción de Carles Serrat Mulà ; prólogo de Josan Hatero.</m:P30117>
       <m:P30156>El señor de las moscas /</m:P30156>
       <m:P30117>William Golding ; [traductora, Carmen Vergara].</m:P30117>
@@ -4646,8 +4649,8 @@
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9788420674179"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8435009513"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8422625350"/>
-      <e:P20037 rdf:resource="http://example.org/serratmulacarles"/>
       <e:P20037 rdf:resource="http://viaf.org/viaf/86744222"/>
+      <e:P20037 rdf:resource="http://example.org/serratmulacarles"/>
       <m:P30327 rdf:resource="http://example.org/salvadortoms"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/89500102"/>
    </bibframe:Work>
@@ -4740,22 +4743,25 @@
    <bibframe:Work rdf:about="http://viaf.org/viaf/177762289/eng">
       <e:P20006>eng</e:P20006>
       <e:P20001>text</e:P20001>
-      <w:P10088>Envoy extraordinary</w:P10088>
-      <bibframe:partOf rdf:resource="http://viaf.org/viaf/89500102/thescorpiongodthreeshortnovels/eng"/>
+      <w:P10004>novella</w:P10004>
+      <w:P10088>Envoy Extraordinary</w:P10088>
+      <bibframe:partOf rdf:resource="http://www.wikidata.org/entity/Q7762618/eng"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/89500102"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://viaf.org/viaf/177762289/ger">
       <e:P20006>ger</e:P20006>
       <e:P20001>text</e:P20001>
-      <w:P10088>Envoy extraordinary</w:P10088>
-      <bibframe:partOf rdf:resource="http://viaf.org/viaf/89500102/dersonderbotschafterromane/ger"/>
+      <w:P10004>novella</w:P10004>
+      <w:P10088>Envoy Extraordinary</w:P10088>
+      <bibframe:partOf rdf:resource="http://www.wikidata.org/entity/Q7762618/ger"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/89500102"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://viaf.org/viaf/177762289/spa">
       <e:P20006>spa</e:P20006>
       <e:P20001>text</e:P20001>
-      <w:P10088>Envoy extraordinary</w:P10088>
-      <bibframe:partOf rdf:resource="http://viaf.org/viaf/89500102/eldiosescorpinclonccloncelenviadoespecial/spa"/>
+      <w:P10004>novella</w:P10004>
+      <w:P10088>Envoy Extraordinary</w:P10088>
+      <bibframe:partOf rdf:resource="http://www.wikidata.org/entity/Q7762618/spa"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/89500102"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://viaf.org/viaf/178994871">
@@ -4791,7 +4797,7 @@
    <bibframe:Work rdf:about="http://viaf.org/viaf/178994871/ger">
       <e:P20006>ger</e:P20006>
       <w:P10088>The Spire</w:P10088>
-      <m:P30156>&#x98;Der&#x9c; Turm der Kathedrale</m:P30156>
+      <m:P30156>Der Turm der Kathedrale</m:P30156>
       <m:P30117>William Golding. Aus d. Engl. übers. von Hermann Stiehl</m:P30117>
       <m:P30156>Roman</m:P30156>
       <m:P30117>William Golding. Aus d. Engl. übertr. von Hermann Stiehl</m:P30117>
@@ -4828,15 +4834,25 @@
    <bibframe:Work rdf:about="http://viaf.org/viaf/180585027/eng">
       <e:P20006>eng</e:P20006>
       <e:P20001>text</e:P20001>
-      <w:P10088>Clonk clonk</w:P10088>
-      <bibframe:partOf rdf:resource="http://viaf.org/viaf/89500102/thescorpiongodthreeshortnovels/eng"/>
+      <w:P10004>novella</w:P10004>
+      <w:P10088>Clonk Clonk</w:P10088>
+      <bibframe:partOf rdf:resource="http://www.wikidata.org/entity/Q7762618/eng"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/89500102"/>
+   </bibframe:Work>
+   <bibframe:Work rdf:about="http://viaf.org/viaf/180585027/ger">
+      <e:P20006>ger</e:P20006>
+      <e:P20001>text</e:P20001>
+      <w:P10004>novella</w:P10004>
+      <w:P10088>Clonk Clonk</w:P10088>
+      <bibframe:partOf rdf:resource="http://www.wikidata.org/entity/Q7762618/ger"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/89500102"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://viaf.org/viaf/180585027/spa">
       <e:P20006>spa</e:P20006>
       <e:P20001>text</e:P20001>
-      <w:P10088>Clonk clonk</w:P10088>
-      <bibframe:partOf rdf:resource="http://viaf.org/viaf/89500102/eldiosescorpinclonccloncelenviadoespecial/spa"/>
+      <w:P10004>novella</w:P10004>
+      <w:P10088>Clonk Clonk</w:P10088>
+      <bibframe:partOf rdf:resource="http://www.wikidata.org/entity/Q7762618/spa"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/89500102"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://viaf.org/viaf/184334172/eng">
@@ -4857,7 +4873,7 @@
    <bibframe:Work rdf:about="http://viaf.org/viaf/184334172/ger">
       <e:P20006>ger</e:P20006>
       <w:P10088>Pincher Martin</w:P10088>
-      <m:P30156>&#x98;Der&#x9c; Felsen des zweiten Todes</m:P30156>
+      <m:P30156>Der Felsen des zweiten Todes</m:P30156>
       <m:P30156>Roman</m:P30156>
       <m:P30117>William Golding. [Aus d. Engl. übertr. von Hermann Stiehl]</m:P30117>
       <m:P30117>William Golding. Dt. von Hermann Stiehl</m:P30117>
@@ -4915,7 +4931,7 @@
    <bibframe:Work rdf:about="http://viaf.org/viaf/187146251/ger">
       <e:P20006>ger</e:P20006>
       <w:P10088>Close Quarters</w:P10088>
-      <m:P30156>&#x98;Die&#x9c; Eingepferchten</m:P30156>
+      <m:P30156>Die Eingepferchten</m:P30156>
       <m:P30156>Roman</m:P30156>
       <m:P30117>William Golding. Dt. von Emil Bastuk</m:P30117>
       <e:P20001>text</e:P20001>
@@ -5010,7 +5026,7 @@
    <bibframe:Work rdf:about="http://viaf.org/viaf/211743501/ger">
       <e:P20006>ger</e:P20006>
       <w:P10088>Darkness Visible</w:P10088>
-      <m:P30156>&#x98;Das&#x9c; Feuer der Finsternis</m:P30156>
+      <m:P30156>Das Feuer der Finsternis</m:P30156>
       <m:P30156>Roman</m:P30156>
       <m:P30117>William Golding. [Aus d. Engl. von Ursula Leipe]</m:P30117>
       <m:P30117>William Golding</m:P30117>
@@ -5020,6 +5036,7 @@
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783442092550"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783820502107"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783423101530"/>
+      <e:P20037 rdf:resource="http://example.org/leipeursula"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/89500102"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://viaf.org/viaf/211743501/nob">
@@ -5073,7 +5090,7 @@
    <bibframe:Work rdf:about="http://viaf.org/viaf/217036112/ger">
       <e:P20006>ger</e:P20006>
       <w:P10088>The Inheritors</w:P10088>
-      <m:P30156>&#x98;Die&#x9c; Erben</m:P30156>
+      <m:P30156>Die Erben</m:P30156>
       <m:P30117>William Golding. [Dt. von Hermann Stiehl]</m:P30117>
       <m:P30156>Paläo-Fiction Roman (Nr. 3)</m:P30156>
       <m:P30117>William Golding</m:P30117>
@@ -5160,49 +5177,27 @@
    </bibframe:Work>
    <bibframe:Work rdf:about="http://viaf.org/viaf/308018847/eng">
       <e:P20006>eng</e:P20006>
-      <w:P10088>The Scorpion God</w:P10088>
-      <m:P30156>The scorpion god :</m:P30156>
-      <m:P30156>three short novels /</m:P30156>
-      <m:P30117>[by] William Golding.</m:P30117>
-      <m:P30156>The scorpion god: three short novels.</m:P30156>
       <e:P20001>text</e:P20001>
+      <w:P10004>novella</w:P10004>
+      <w:P10088>The Scorpion God</w:P10088>
       <w:P10088>Scorpion god</w:P10088>
-      <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9780571305018"/>
-      <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:0571098665"/>
-      <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:0571102328"/>
-      <bibframe:partOf rdf:resource="http://viaf.org/viaf/89500102/thescorpiongodthreeshortnovels/eng"/>
+      <bibframe:partOf rdf:resource="http://www.wikidata.org/entity/Q7762618/eng"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/89500102"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://viaf.org/viaf/308018847/ger">
       <e:P20006>ger</e:P20006>
-      <w:P10088>The Scorpion God</w:P10088>
-      <m:P30156>&#x98;Der&#x9c; Sonderbotschafter</m:P30156>
-      <m:P30117>William Golding. Dt. von Ulla H. de Herrera</m:P30117>
       <e:P20001>text</e:P20001>
-      <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783546432955"/>
-      <bibframe:partOf rdf:resource="http://viaf.org/viaf/89500102/dersonderbotschafterromane/ger"/>
+      <w:P10004>novella</w:P10004>
+      <w:P10088>The Scorpion God</w:P10088>
+      <bibframe:partOf rdf:resource="http://www.wikidata.org/entity/Q7762618/ger"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/89500102"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://viaf.org/viaf/308018847/spa">
       <e:P20006>spa</e:P20006>
-      <w:P10088>The Scorpion God</w:P10088>
-      <m:P30156>El dios escorpión</m:P30156>
-      <m:P30156>tres novelas cortas</m:P30156>
-      <m:P30117>[traductora, Ernestina Champourcin]</m:P30117>
-      <m:P30156>Clonc, clonc ; El enviado especial</m:P30156>
-      <m:P30117>William Golding ; [traductora, Ernestina de Champourcin]</m:P30117>
-      <m:P30117>William Golding ; traducción de Ernestina de Champourcin</m:P30117>
-      <m:P30117>; Clonc Clonc ; El enviado especial / William Golding ; [traductor, Ernestina de Champourcin]</m:P30117>
-      <m:P30117>; Clonc Clonc ; El enviado especial / William Golding ; [traductora, Ernestina de Champourcin]</m:P30117>
       <e:P20001>text</e:P20001>
-      <w:P10088>Scorpion god</w:P10088>
-      <bibframe:hasInstance rdf:resource="http://example.org/bimo0000923021"/>
-      <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8420655686"/>
-      <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9788420653532"/>
-      <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8420692131"/>
-      <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8420614688"/>
-      <bibframe:partOf rdf:resource="http://viaf.org/viaf/89500102/eldiosescorpinclonccloncelenviadoespecial/spa"/>
-      <e:P20037 rdf:resource="http://example.org/champourcinernestinade"/>
+      <w:P10004>novella</w:P10004>
+      <w:P10088>The Scorpion God</w:P10088>
+      <bibframe:partOf rdf:resource="http://www.wikidata.org/entity/Q7762618/spa"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/89500102"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://viaf.org/viaf/309268108/eng">
@@ -5247,29 +5242,6 @@
       <e:P20037 rdf:resource="http://example.org/boschandrs"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/89500102"/>
    </bibframe:Work>
-   <bibframe:Work rdf:about="http://viaf.org/viaf/89500102/dersonderbotschafterromane/ger">
-      <e:P20006>ger</e:P20006>
-      <m:P30156>Der Sonderbotschafter</m:P30156>
-      <m:P30156>Romane</m:P30156>
-      <m:P30117>William Golding. Dt. von Ulla H. de Herrera</m:P30117>
-      <e:P20001>text</e:P20001>
-      <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783442066940"/>
-      <bibframe:hasPart rdf:resource="http://viaf.org/viaf/177762289/ger"/>
-      <bibframe:hasPart rdf:resource="http://viaf.org/viaf/308018847/ger"/>
-      <w:P10061 rdf:resource="http://viaf.org/viaf/89500102"/>
-   </bibframe:Work>
-   <bibframe:Work rdf:about="http://viaf.org/viaf/89500102/eldiosescorpinclonccloncelenviadoespecial/spa">
-      <e:P20006>spa</e:P20006>
-      <m:P30156>El dios Escorpión ; Clonc clonc ; El enviado especial /</m:P30156>
-      <m:P30117>William Golding.</m:P30117>
-      <e:P20001>text</e:P20001>
-      <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8420655686"/>
-      <bibframe:hasPart rdf:resource="http://viaf.org/viaf/180585027/spa"/>
-      <bibframe:hasPart rdf:resource="http://viaf.org/viaf/177762289/spa"/>
-      <bibframe:hasPart rdf:resource="http://viaf.org/viaf/308018847/spa"/>
-      <w:P10061 rdf:resource="http://viaf.org/viaf/89500102"/>
-      <w:P10261 rdf:resource="http://viaf.org/viaf/89500102"/>
-   </bibframe:Work>
    <bibframe:Work rdf:about="http://viaf.org/viaf/89500102/lordofthefliespinchermartinritesofpassage/eng">
       <e:P20006>eng</e:P20006>
       <m:P30156>Lord of the flies ;</m:P30156>
@@ -5280,20 +5252,6 @@
       <bibframe:hasPart rdf:resource="http://viaf.org/viaf/119144648592107423604/eng"/>
       <bibframe:hasPart rdf:resource="http://viaf.org/viaf/184334172/eng"/>
       <bibframe:hasPart rdf:resource="http://viaf.org/viaf/176165653/eng"/>
-      <w:P10061 rdf:resource="http://viaf.org/viaf/89500102"/>
-   </bibframe:Work>
-   <bibframe:Work rdf:about="http://viaf.org/viaf/89500102/thescorpiongodthreeshortnovels/eng">
-      <e:P20006>eng</e:P20006>
-      <m:P30156>The scorpion god :</m:P30156>
-      <m:P30156>Three short novels /</m:P30156>
-      <m:P30117>William Golding.</m:P30117>
-      <m:P30117>William Golding ; with an introduction by Craig Raine.</m:P30117>
-      <e:P20001>text</e:P20001>
-      <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:0745171044"/>
-      <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9780571298495"/>
-      <bibframe:hasPart rdf:resource="http://viaf.org/viaf/180585027/eng"/>
-      <bibframe:hasPart rdf:resource="http://viaf.org/viaf/177762289/eng"/>
-      <bibframe:hasPart rdf:resource="http://viaf.org/viaf/308018847/eng"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/89500102"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://www.wikidata.org/entity/Q4394863/eng">
@@ -5315,6 +5273,69 @@
       <bibframe:hasPart rdf:resource="http://viaf.org/viaf/174553895/eng"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/89500102"/>
    </bibframe:Work>
+   <bibframe:Work rdf:about="http://www.wikidata.org/entity/Q7762618/eng">
+      <e:P20006>eng</e:P20006>
+      <w:P10088>The Scorpion God</w:P10088>
+      <w:P10004>novella collection</w:P10004>
+      <m:P30156>The scorpion god :</m:P30156>
+      <m:P30156>three short novels /</m:P30156>
+      <m:P30117>[by] William Golding.</m:P30117>
+      <m:P30117>William Golding.</m:P30117>
+      <m:P30117>William Golding ; with an introduction by Craig Raine.</m:P30117>
+      <m:P30156>The scorpion god: three short novels.</m:P30156>
+      <e:P20001>text</e:P20001>
+      <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9780571305018"/>
+      <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:0745171044"/>
+      <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9780571298495"/>
+      <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:0571098665"/>
+      <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:0571102328"/>
+      <bibframe:hasPart rdf:resource="http://viaf.org/viaf/308018847/eng"/>
+      <bibframe:hasPart rdf:resource="http://viaf.org/viaf/180585027/eng"/>
+      <bibframe:hasPart rdf:resource="http://viaf.org/viaf/177762289/eng"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/89500102"/>
+   </bibframe:Work>
+   <bibframe:Work rdf:about="http://www.wikidata.org/entity/Q7762618/ger">
+      <e:P20006>ger</e:P20006>
+      <w:P10088>The Scorpion God</w:P10088>
+      <w:P10004>novella collection</w:P10004>
+      <m:P30156>Der Sonderbotschafter</m:P30156>
+      <m:P30156>Romane</m:P30156>
+      <m:P30117>William Golding. Dt. von Ulla H. de Herrera</m:P30117>
+      <e:P20001>text</e:P20001>
+      <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783442066940"/>
+      <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783546432955"/>
+      <bibframe:hasPart rdf:resource="http://viaf.org/viaf/308018847/ger"/>
+      <bibframe:hasPart rdf:resource="http://viaf.org/viaf/180585027/ger"/>
+      <bibframe:hasPart rdf:resource="http://viaf.org/viaf/177762289/ger"/>
+      <e:P20037 rdf:resource="http://example.org/herreraullahde"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/89500102"/>
+   </bibframe:Work>
+   <bibframe:Work rdf:about="http://www.wikidata.org/entity/Q7762618/spa">
+      <e:P20006>spa</e:P20006>
+      <w:P10088>The Scorpion God</w:P10088>
+      <w:P10004>novella collection</w:P10004>
+      <m:P30156>El dios Escorpión ; Clonc clonc ; El enviado especial /</m:P30156>
+      <m:P30117>William Golding.</m:P30117>
+      <m:P30156>El dios escorpión</m:P30156>
+      <m:P30156>tres novelas cortas</m:P30156>
+      <m:P30117>[traductora, Ernestina Champourcin]</m:P30117>
+      <m:P30156>Clonc, clonc ; El enviado especial</m:P30156>
+      <m:P30117>William Golding ; [traductora, Ernestina de Champourcin]</m:P30117>
+      <m:P30117>William Golding ; traducción de Ernestina de Champourcin</m:P30117>
+      <m:P30117>; Clonc Clonc ; El enviado especial / William Golding ; [traductor, Ernestina de Champourcin]</m:P30117>
+      <m:P30117>; Clonc Clonc ; El enviado especial / William Golding ; [traductora, Ernestina de Champourcin]</m:P30117>
+      <e:P20001>text</e:P20001>
+      <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8420655686"/>
+      <bibframe:hasInstance rdf:resource="http://example.org/bimo0000923021"/>
+      <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9788420653532"/>
+      <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8420692131"/>
+      <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8420614688"/>
+      <bibframe:hasPart rdf:resource="http://viaf.org/viaf/308018847/spa"/>
+      <bibframe:hasPart rdf:resource="http://viaf.org/viaf/180585027/spa"/>
+      <bibframe:hasPart rdf:resource="http://viaf.org/viaf/177762289/spa"/>
+      <e:P20037 rdf:resource="http://example.org/champourcinernestinade"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/89500102"/>
+   </bibframe:Work>
    <bibframe:Work rdf:about="https://www.imdb.com/title/tt0057261//eng">
       <e:P20006>eng</e:P20006>
       <w:P10088>Lord of the flies (Peter Brook)</w:P10088>
@@ -5333,7 +5354,7 @@
       <w:P10203 rdf:resource="http://example.org/brookpeter"/>
       <w:motionPictureAdaptationOfWork.en rdf:resource="http://viaf.org/viaf/119144648592107423604"/>
    </bibframe:Work>
-   <bibframe:Work rdf:about="https://www.imdb.com/title/tt0100054//spa">
+   <bibframe:Work rdf:about="https://www.imdb.com/title/tt0100054/spa">
       <e:P20006>spa</e:P20006>
       <w:P10088>Lord of the flies</w:P10088>
       <m:P30156>El señor de las moscas</m:P30156>
@@ -5364,15 +5385,6 @@
       <e:P20001>text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783402028438"/>
       <w:P10061 rdf:resource="http://example.org/jahnkehansotto"/>
-   </bibframe:Work>
-   <bibframe:Work rdf:about="http://example.org/kaisergerd/stundenblattergoldinglordoftheflies/eng">
-      <e:P20006>eng</e:P20006>
-      <w:P10088>Stundenblätter Golding, "Lord of the flies"</w:P10088>
-      <m:P30156>Stundenblätter Golding, "Lord of the flies"</m:P30156>
-      <m:P30117>Gerd Kaiser</m:P30117>
-      <e:P20001>text</e:P20001>
-      <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783129251621"/>
-      <w:P10061 rdf:resource="http://example.org/kaisergerd"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://example.org/kaisergerd/stundenblattergoldinglordoftheflies/ger">
       <e:P20006>ger</e:P20006>
@@ -5479,7 +5491,7 @@
    </bibframe:Work>
    <bibframe:Work rdf:about="http://example.org/poppereiner/williamgoldingherrderfliegendiekoralleninselrmballantyne/ger">
       <e:P20006>ger</e:P20006>
-      <w:P10088>William Golding, Herr der Fliegen, Die Koralleninsel (R. M. Ballantyne)</w:P10088>
+      <w:P10088>William Golding, Herr der Fliegen, Die Koralleninsel (R. M. Ballantyne) / Analysen und Reflexionen. Interpretationen und Anmerkungen</w:P10088>
       <m:P30156>William Golding, Herr der Fliegen, Die Koralleninsel (R. M. Ballantyne)</m:P30156>
       <m:P30156>Interpretationen und Anmerkungen</m:P30156>
       <m:P30117>Reiner Poppe</m:P30117>

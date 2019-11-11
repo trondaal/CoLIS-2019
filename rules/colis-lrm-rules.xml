@@ -2,7 +2,7 @@
 <templates 
     xmlns:xsl="http://www.w3.org/1999/XSL/Transform" 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
-    xsi:noNamespaceSchemaLocation="../../marc2frbr/xsd/marc2lrm.rules.xsd">
+    xsi:noNamespaceSchemaLocation="../../marc2entities/xsd/marc2lrm.rules.xsd">
     <!-- keyfilter is used to remove punctuation etc. from the values that are used in the keystring -->
     <keyfilter>replace($key, ' ', '')</keyfilter>
 
@@ -259,7 +259,7 @@
   
     <!-- Analytical entries -->
     
-    <entity tag="700" condition="@ind2 = '2'" type="http://rdaregistry.info/Elements/c/C10004" templatename="MARC21-700-Person-Analytical" label="Person">
+    <entity tag="700" code="4" condition="@ind2 = '2'" type="http://rdaregistry.info/Elements/c/C10004" templatename="MARC21-700-Person-Analytical" label="Person">
         <note>Person in 700 field </note>
         <attributes>
             <datafield tag="700">
@@ -353,7 +353,7 @@
     
     <!-- Related work -->
     
-    <entity tag="700" condition="not(@ind2 = '2') and *:subfield/@code = 't' and starts-with(*:subfield[@code = '4'], 'http')" type="http://rdaregistry.info/Elements/c/C10004" templatename="MARC21-700-Person-Related-Work" label="Person">
+    <entity tag="700" code="4" condition="not(@ind2 = '2') and *:subfield/@code = 't' and starts-with(*:subfield[@code = '4'], 'http')" type="http://rdaregistry.info/Elements/c/C10004" templatename="MARC21-700-Person-Related-Work" label="Person">
         <note>Person in 700 field related work </note>
         <attributes>
             <datafield tag="700">
@@ -424,7 +424,7 @@
     
     <!-- Added entry person only entries without $4 are all related to 130/240 expression -->
     
-    <entity tag="700" condition="not(*:subfield/@code = '4') and not(*:subfield/@code = 't')" type="http://rdaregistry.info/Elements/c/C10004" templatename="MARC21-700-Person-Unspecified-relation" label="Person">
+    <entity tag="700" code="4" condition="not(*:subfield/@code = '4') and not(*:subfield/@code = 't')" type="http://rdaregistry.info/Elements/c/C10004" templatename="MARC21-700-Person-Unspecified-relation" label="Person">
         <note>Person in 700 field (the role and relationship for the person is defined using relationship rules)</note>
         <attributes>
             <datafield tag="700">
