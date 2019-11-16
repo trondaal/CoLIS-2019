@@ -2,3 +2,6 @@
 colis.xpr
 colis.xpr
 .DS_Store
+rules/colis-lrm-rules.old.xml
+rules/colis-bibframe-full-rules.old.xml
+rules/colis-bibframe-strict-rules.old.xml

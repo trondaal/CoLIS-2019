@@ -98,9 +98,11 @@
         </relationships>
     </entity>
     
-    <entity tag="130, 240" condition="not($record/*:datafield[@tag='700' and @ind2 = '2' and *:subfield/@code = 't'])" type="http://rdaregistry.info/Elements/c/C10006" templatename="MARC21-130240-Expression" label="Expression">
+    <entity tag="130, 240" condition="count($record/*:datafield[@tag='700' and @ind2 = '2' and *:subfield/@code = 't']) = 0" type="http://rdaregistry.info/Elements/c/C10006" templatename="MARC21-130240-Expression" label="Expression">
         <note>Expression for the title in the 130 or 240, we only create this expression if there is no analytical entries, otherwise we
               assume that it is the parts that are embodied and directly the whole</note>
+        <!-- we use 245 as the preferred expression title unless there specifically is a 740 entry -->
+        <!-- we code 240/130 as alternative titles  -->
         <attributes>
             <controlfield tag="008"  type="http://rdaregistry.info/Elements/e/P20006" label="has language of expression" select="substring(., 36, 3)"/>
             <!--<datafield tag="041" condition="frbrizer:linked($anchor_field, .)">
@@ -121,7 +123,7 @@
                 <subfield code="l" select="lower-case(.)" type="http://rdaregistry.info/Elements/e/P20006" label="has language of expression"/>
             </datafield>
             <datafield tag="245">
-                <subfield code="a" type="http://rdaregistry.info/Elements/e/P20316" select="frbrizer:trim(.)" label="has variant title"/>
+                <subfield code="a" type="{if (frbrizer:linked-strict($record/*:datafield[@tag='740'], $record/*:datafield[@tag=('130', '240')])) then 'http://rdaregistry.info/Elements/e/P20316' else 'http://rdaregistry.info/Elements/e/P20315'}" select="frbrizer:trim(.)" label="has variant title"/>
             </datafield>
             <datafield tag="336">
                 <subfield code="a" select="lower-case(.)" type="http://rdaregistry.info/Elements/e/P20001" label="has content type"/>
@@ -166,7 +168,8 @@
                 <subfield code="a" type="http://rdaregistry.info/Elements/m/P30004" select="concat(frbrizer:idprefix(../@ind1) ,'-', replace(., '\D', ''))" label="has identifier for the manifestation"/>
             </datafield>
             <datafield tag="245">
-                <subfield code="a" type="http://rdaregistry.info/Elements/m/P30156" select="string-join((frbrizer:trim(.), frbrizer:trim(../*:subfield[@code = 'b'])), ' : ')" label="has title proper"/>
+                <subfield code="a" type="http://rdaregistry.info/Elements/m/P30156" select="frbrizer:trim(.)" label="has title proper"/>
+                <subfield code="b" type="http://rdaregistry.info/Elements/m/P30142" select="frbrizer:trim(.)" label="has other title information"/>
                 <subfield code="c" type="http://rdaregistry.info/Elements/m/P30117" select="frbrizer:trim(.)" label="has statement of responsibility"/>
             </datafield>
             <datafield tag="250">
@@ -259,7 +262,7 @@
   
     <!-- Analytical entries -->
     
-    <entity tag="700" code="4" condition="@ind2 = '2'" type="http://rdaregistry.info/Elements/c/C10004" templatename="MARC21-700-Person-Analytical" label="Person">
+    <entity tag="700" condition="@ind2 = '2'" type="http://rdaregistry.info/Elements/c/C10004" templatename="MARC21-700-Person-Analytical" label="Person">
         <note>Person in 700 field </note>
         <attributes>
             <datafield tag="700">
@@ -329,7 +332,7 @@
             <datafield tag="700">
                 <subfield code="h" select="lower-case(frbrizer:trim(.))" type="http://rdaregistry.info/Elements/e/P20001" label="has content type"/>
                 <subfield code="l" select="lower-case(.)" type="http://rdaregistry.info/Elements/e/P20006" label="has language of expression"/>
-                <subfield code="t" select="frbrizer:trim(.)" type="http://rdaregistry.info/Elements/e/P20316" label="has variant title"/>
+                <subfield code="t" select="frbrizer:trim(.)" type="{if (frbrizer:linked-strict($record/*:datafield[@tag='740'], ..)) then 'http://rdaregistry.info/Elements/e/P20316' else 'http://rdaregistry.info/Elements/e/P20315'}"  label="has variant title"/>
             </datafield>
             <datafield tag="740" condition="frbrizer:linked-strict($anchor_field, .)">
                 <subfield code="a" select="frbrizer:trim(.)" type="http://rdaregistry.info/Elements/e/P20315" label="has preferred title"/>
@@ -353,7 +356,7 @@
     
     <!-- Related work -->
     
-    <entity tag="700" code="4" condition="not(@ind2 = '2') and *:subfield/@code = 't' and starts-with(*:subfield[@code = '4'], 'http')" type="http://rdaregistry.info/Elements/c/C10004" templatename="MARC21-700-Person-Related-Work" label="Person">
+    <entity tag="700" condition="not(@ind2 = '2') and *:subfield/@code = 't' and starts-with(*:subfield[@code = '4'], 'http')" type="http://rdaregistry.info/Elements/c/C10004" templatename="MARC21-700-Person-Related-Work" label="Person">
         <note>Person in 700 field related work </note>
         <attributes>
             <datafield tag="700">
@@ -409,22 +412,22 @@
         </key>
         <relationships>
             <relationship condition="$relmap/rels/rel[$this_subfield = k and domain='Work']" type="{$relmap/rels/rel[k = $this_subfield and domain='Work']/reverse}" itype="{$relmap/rels/rel[k = $this_subfield and domain='Work']/forward}">
-                <target entity="MARC21-700-Work-Analytical" same-field="false"/>
+                <target entity="MARC21-700-Work-Analytical" condition="frbrizer:linked($anchor_field, $target_field)"  same-field="false"/>
                 <target entity="MARC21-130240-Work"/>
             </relationship>
             <relationship condition="$relmap/rels/rel[$this_subfield = k and domain='Expression']" type="{$relmap/rels/rel[k = $this_subfield and domain='Expression']/reverse}" itype="{$relmap/rels/rel[k = $this_subfield and domain='Expression']/forward}">
-                <target entity="MARC21-700-Expression-Analytical" same-field="false"/>
+                <target entity="MARC21-700-Expression-Analytical"  condition="frbrizer:linked($anchor_field, $target_field)"  same-field="false"/>
                 <target entity="MARC21-130240-Expression"/>
             </relationship>
             <relationship condition="$relmap/rels/rel[$this_subfield = k and domain='Manifestation']" type="{$relmap/rels/rel[k = $this_subfield and domain='Manifestation']/reverse}" itype="{$relmap/rels/rel[k = $this_subfield and domain='Manifestation']/forward}">
-                <target entity="MARC21-245-Manifestation" same-field="false"/>
+                <target entity="MARC21-245-Manifestation" condition="frbrizer:linked($anchor_field, $target_field)"  same-field="false"/>
             </relationship>
         </relationships>
     </entity>
     
     <!-- Added entry person only entries without $4 are all related to 130/240 expression -->
     
-    <entity tag="700" code="4" condition="not(*:subfield/@code = '4') and not(*:subfield/@code = 't')" type="http://rdaregistry.info/Elements/c/C10004" templatename="MARC21-700-Person-Unspecified-relation" label="Person">
+    <entity tag="700" condition="not(*:subfield/@code = '4') and not(*:subfield/@code = 't')" type="http://rdaregistry.info/Elements/c/C10004" templatename="MARC21-700-Person-Unspecified-relation" label="Person">
         <note>Person in 700 field (the role and relationship for the person is defined using relationship rules)</note>
         <attributes>
             <datafield tag="700">
@@ -498,14 +501,14 @@
             <!-- returns true if the two fields have the same marc 21 link ($8), or if there is no linking subfields in target or source -->
             <xsl:param name="anchor" as="element()"/>
             <xsl:param name="target" as="element()"/>
-            <xsl:value-of select="(some $x in $anchor/subfield[@code='8'] satisfies $x = $target/subfield[@code='8']) or (not(exists($anchor/subfield[@code='8'])) or not(exists($target/subfield[@code='8'])))"/>  
-            <!--<xsl:value-of select=" (some $x in $anchor/*:subfield[@code = '8'] satisfies $x = $target/*:subfield[@code = '8']) or (not(exists($target/*:subfield[@code = '8'])))"/>-->
+            <xsl:value-of select="(some $x in $anchor/*:subfield[@code = '8'] satisfies $x = $target/*:subfield[@code = '8']) or (not(exists($anchor/*:subfield[@code = '8'])) or not(exists($target/*:subfield[@code='8'])))"/>  
+            <!--xsl:value-of select="(some $x in $anchor/*:subfield[@code = '8'] satisfies $x = $target/*:subfield[@code = '8']) or (not(exists($target/*:subfield[@code = '8'])))"/>-->
         </xsl:function>
         
         <xsl:function name="frbrizer:linked-strict" as="xs:boolean">
             <!-- returns true if the two fields have the same marc 21 link ($8) -->
-            <xsl:param name="anchor" as="element()"/>
-            <xsl:param name="target" as="element()"/>
+            <xsl:param name="anchor" as="element()*"/>
+            <xsl:param name="target" as="element()*"/>
             <xsl:value-of select="some $x in $anchor/*:subfield[@code = '8'] satisfies $x = $target/*:subfield[@code = '8']"/>
         </xsl:function>
         
@@ -540,8 +543,7 @@
         </xsl:function>
 
         <xsl:variable name="relmap" select="doc('relationships.xml')"/>
-
         
-
     </stylesheet>
 </templates>
+

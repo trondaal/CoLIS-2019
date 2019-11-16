@@ -4909,7 +4909,7 @@
       <m:P30002>volume</m:P30002>
       <m:P30106>Steidl Taschenbuch ;</m:P30106>
       <m:P30165>146</m:P30165>
-      <bibframe:instanceOf rdf:resource="http://viaf.org/viaf/102319859/frundwiderworte/ger"/>
+      <bibframe:instanceOf rdf:resource="http://viaf.org/viaf/102319859/frundwiderwortefrundwiderworte/ger"/>
    </bibframe:Instance>
    <bibframe:Instance rdf:about="http://example.org/urn:isbn:3882437014">
       <marc:M001>009897091</marc:M001>
@@ -12408,7 +12408,7 @@
       <m:P30169>21 cm</m:P30169>
       <m:P30001>sin mediación</m:P30001>
       <m:P30106>Polifonías</m:P30106>
-      <bibframe:instanceOf rdf:resource="http://example.org/lapcaracoraje/spa"/>
+      <bibframe:instanceOf rdf:resource="http://example.org/lapcaracorajelapcaracoraje/spa"/>
    </bibframe:Instance>
    <bibframe:Instance rdf:about="http://example.org/urn:isbn:9788493982713">
       <marc:M001>a5229575</marc:M001>
@@ -12874,7 +12874,7 @@
    <bibframe:Person rdf:about="http://example.org/dieterichgenoveva">
       <a:P50111>Dieterich, Genoveva</a:P50111>
       <a:P50107>1941-</a:P50107>
-      <a:P50145 rdf:resource="http://example.org/lapcaracoraje/spa"/>
+      <a:P50145 rdf:resource="http://example.org/lapcaracorajelapcaracoraje/spa"/>
       <a:P50145 rdf:resource="http://www.wikidata.org/entity/Q320933/spa"/>
       <a:P50145 rdf:resource="http://oslomet.workid.no/gg/10/spa"/>
    </bibframe:Person>
@@ -12916,7 +12916,7 @@
    <bibframe:Person rdf:about="http://example.org/estebanjosmanuel">
       <a:P50111>Esteban, José Manuel</a:P50111>
       <a:P50107>1967-</a:P50107>
-      <a:P50145 rdf:resource="http://example.org/lapcaracoraje/spa"/>
+      <a:P50145 rdf:resource="http://example.org/lapcaracorajelapcaracoraje/spa"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="http://example.org/filippinienrico">
       <a:P50111>Filippini, Enrico</a:P50111>
@@ -13223,7 +13223,7 @@
       <a:P50195 rdf:resource="http://oslomet.workid.no/gg/01/ger"/>
       <a:P50195 rdf:resource="http://oslomet.workid.no/gg/1006/ger"/>
       <a:P50195 rdf:resource="http://oslomet.workid.no/gg/1003/ger"/>
-      <a:P50195 rdf:resource="http://viaf.org/viaf/102319859/frundwiderworte/ger"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/102319859/frundwiderwortefrundwiderworte/ger"/>
       <a:P50195 rdf:resource="http://viaf.org/viaf/102319859/lernendelehrer/ger"/>
       <a:P50195 rdf:resource="http://oslomet.workid.no/gg/1002/ger"/>
       <a:P50195 rdf:resource="http://www.wikidata.org/entity/Q7719566/ger"/>
@@ -14309,19 +14309,19 @@
    <bibframe:Work rdf:about="http://example.org/adventuresofaflounder/eng">
       <e:P20006>eng</e:P20006>
       <w:P10088>Adventures of a flounder</w:P10088>
-      <m:P30156>Adventures of a flounder :</m:P30156>
-      <m:P30156>critical essays on Günter Grass' 'Der Butt' /</m:P30156>
-      <m:P30117>edited by Gertrud Bauer Pickar.</m:P30117>
+      <m:P30156>Adventures of a flounder</m:P30156>
+      <m:P30142>critical essays on Günter Grass' 'Der Butt'</m:P30142>
+      <m:P30117>edited by Gertrud Bauer Pickar</m:P30117>
       <e:P20001>text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:3770520858"/>
       <w:P10055 rdf:resource="http://example.org/pickargertrudbauer"/>
-      <w:critiqueOfWork.en rdf:resource="http://viaf.org/viaf/213148121"/>
+      <w:P10182 rdf:resource="http://viaf.org/viaf/213148121"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://example.org/arkerdieter/nichtsistvorbeialleskommtwieder/ger">
       <e:P20006>ger</e:P20006>
       <w:P10088>Nichts ist vorbei, alles kommt wieder</w:P10088>
-      <m:P30156>Nichts ist vorbei, alles kommt wieder :</m:P30156>
-      <m:P30156>Untersuchungen zu Günter Grass' ''Blechtrommel''.</m:P30156>
+      <m:P30156>Nichts ist vorbei, alles kommt wieder</m:P30156>
+      <m:P30142>Untersuchungen zu Günter Grass' ''Blechtrommel''</m:P30142>
       <m:P30117>Dieter Arker</m:P30117>
       <e:P20001>text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:3533041867"/>
@@ -14341,7 +14341,7 @@
       <e:P20006>ger</e:P20006>
       <w:P10088>Hubertus Giebe - Grafiken zu dem Roman "Die Blechtrommel" von Günter Grass</w:P10088>
       <m:P30156>Hubertus Giebe - Grafiken zu dem Roman "Die Blechtrommel" von Günter Grass</m:P30156>
-      <m:P30156>Günter-Grass-Haus, Forum für Literatur und Bildende Kunst, Lübeck 9. April bis 26. Juni 2005 ; [aus Anlaß der Ausstelllung "Hubertus Giebe, Grafiken zur "Blechtrommel" von Günter Grass"]</m:P30156>
+      <m:P30142>Günter-Grass-Haus, Forum für Literatur und Bildende Kunst, Lübeck 9. April bis 26. Juni 2005 ; [aus Anlaß der Ausstelllung "Hubertus Giebe, Grafiken zur "Blechtrommel" von Günter Grass"]</m:P30142>
       <m:P30117>[Hrsg. Kai Artinger und Hubertus Giebe]</m:P30117>
       <e:P20001>unbewegtes Bild</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:unknown:029669"/>
@@ -14353,7 +14353,7 @@
       <e:P20006>ger</e:P20006>
       <w:P10088>Vom Erzählen des Erzählens bei Günter Grass</w:P10088>
       <m:P30156>Vom Erzählen des Erzählens bei Günter Grass</m:P30156>
-      <m:P30156>Studien zur immanenten Poetik der Romane "Die Blechtrommel" und "Die Rättin"</m:P30156>
+      <m:P30142>Studien zur immanenten Poetik der Romane "Die Blechtrommel" und "Die Rättin"</m:P30142>
       <m:P30117>Christian Auffenberg</m:P30117>
       <e:P20001>Text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783894738860"/>
@@ -14363,7 +14363,7 @@
       <e:P20006>ger</e:P20006>
       <w:P10088>«Fortsetzung folgt...»</w:P10088>
       <m:P30156>«Fortsetzung folgt...»</m:P30156>
-      <m:P30156>Zum intertextuellen Trialog zwischen Günter Grass, Salman Rushdie, John Irving und ihrem Ahnherrn Laurence Sterne</m:P30156>
+      <m:P30142>Zum intertextuellen Trialog zwischen Günter Grass, Salman Rushdie, John Irving und ihrem Ahnherrn Laurence Sterne</m:P30142>
       <m:P30117>Bettina Beltz</m:P30117>
       <e:P20001>Text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783653031058"/>
@@ -14383,7 +14383,7 @@
       <e:P20006>ger</e:P20006>
       <w:P10088>Der Fall Grass</w:P10088>
       <m:P30156>Der Fall Grass</m:P30156>
-      <m:P30156>ein deutsches Debakel</m:P30156>
+      <m:P30142>ein deutsches Debakel</m:P30142>
       <m:P30117>Wolfgang Beutin</m:P30117>
       <e:P20001>Text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783631570043"/>
@@ -14394,7 +14394,7 @@
       <e:P20006>ger</e:P20006>
       <w:P10088>Modellfall Autorenwörterbuch</w:P10088>
       <m:P30156>Modellfall Autorenwörterbuch</m:P30156>
-      <m:P30156>die Nomina in Günter Grass' Erzählung Unkenrufe</m:P30156>
+      <m:P30142>die Nomina in Günter Grass' Erzählung Unkenrufe</m:P30142>
       <m:P30117>Mirjam Blümm</m:P30117>
       <e:P20001>Text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783777620978"/>
@@ -14408,8 +14408,8 @@
       <e:P20006>eng</e:P20006>
       <w:P10088>Günter Grass's Der Butt</w:P10088>
       <m:P30156>Günter Grass's Der Butt</m:P30156>
-      <m:P30156>sexual politics and the male myth of history</m:P30156>
-      <m:P30117>ed. by Philip Brady ...</m:P30117>
+      <m:P30142>sexual politics and the male myth of history</m:P30142>
+      <m:P30117>ed. by Philip Brady</m:P30117>
       <e:P20001>Text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:0198158602"/>
       <w:P10055 rdf:resource="http://example.org/bradyphilip"/>
@@ -14418,7 +14418,7 @@
       <e:P20006>ger</e:P20006>
       <w:P10088>Günter Grass, Die Blechtrommel, Katz und Maus</w:P10088>
       <m:P30156>Günter Grass, Die Blechtrommel, Katz und Maus</m:P30156>
-      <m:P30156>Materialien</m:P30156>
+      <m:P30142>Materialien</m:P30142>
       <m:P30117>ausgew. u. eingel. von Annegrit Brunkhorst-Hasenclever u. Martin Brunkhorst</m:P30117>
       <e:P20001>Text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783123567001"/>
@@ -14441,7 +14441,7 @@
       <e:P20006>ger</e:P20006>
       <w:P10088>Offenheit und Hermetik</w:P10088>
       <m:P30156>Offenheit und Hermetik</m:P30156>
-      <m:P30156>zur Möglichkeit des Schreibens nach Auschwitz: ein Vergleich zwischen Günther Grass' Lyrik, der Blechtrommel und dem Spätwerk Paul Celans</m:P30156>
+      <m:P30142>zur Möglichkeit des Schreibens nach Auschwitz: ein Vergleich zwischen Günther Grass' Lyrik, der Blechtrommel und dem Spätwerk Paul Celans</m:P30142>
       <m:P30117>Jin-Sok Chong</m:P30117>
       <e:P20001>Text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783631389676"/>
@@ -14453,7 +14453,7 @@
       <e:P20006>eng</e:P20006>
       <w:P10088>Born under Auschwitz</w:P10088>
       <m:P30156>Born under Auschwitz</m:P30156>
-      <m:P30156>melancholy traditions in postwar German literature</m:P30156>
+      <m:P30142>melancholy traditions in postwar German literature</m:P30142>
       <m:P30117>Mary Cosgrove</m:P30117>
       <e:P20001>Text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9781571135568"/>
@@ -14465,7 +14465,7 @@
       <e:P20006>ger</e:P20006>
       <w:P10088>Historische Dichtergestalten im zeitgenössischen deutschen Drama</w:P10088>
       <m:P30156>Historische Dichtergestalten im zeitgenössischen deutschen Drama</m:P30156>
-      <m:P30156>Untersuchungen zu Theaterstücken von Tankred Dorst, Günter Grass, Martin Walser und Peter Weiss</m:P30156>
+      <m:P30142>Untersuchungen zu Theaterstücken von Tankred Dorst, Günter Grass, Martin Walser und Peter Weiss</m:P30142>
       <m:P30117>Ioana Crăciun</m:P30117>
       <e:P20001>Text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783825355098"/>
@@ -14480,7 +14480,7 @@
       <e:P20006>ger</e:P20006>
       <w:P10088>Advocata aesthetica</w:P10088>
       <m:P30156>Advocata aesthetica</m:P30156>
-      <m:P30156>Studien zum Marienmotiv in der modernen Literatur am Beispiel von Rainer Maria Rilke und Günter Grass</m:P30156>
+      <m:P30142>Studien zum Marienmotiv in der modernen Literatur am Beispiel von Rainer Maria Rilke und Günter Grass</m:P30142>
       <m:P30117>Anika Davidson</m:P30117>
       <e:P20001>Text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783935556606"/>
@@ -14501,7 +14501,7 @@
       <e:P20006>ger</e:P20006>
       <w:P10088>Was gesagt wurde</w:P10088>
       <m:P30156>Was gesagt wurde</m:P30156>
-      <m:P30156>eine Dokumentation über Günter Grass' "Was gesagt werden muss" und die deutsche Debatte</m:P30156>
+      <m:P30142>eine Dokumentation über Günter Grass' "Was gesagt werden muss" und die deutsche Debatte</m:P30142>
       <m:P30117>hrsg. von Heinrich Detering und Per Øhrgaard</m:P30117>
       <e:P20001>Text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783869306698"/>
@@ -14547,7 +14547,7 @@
       <e:P20006>ger</e:P20006>
       <w:P10088>Inszenierte Naivität</w:P10088>
       <m:P30156>Inszenierte Naivität</m:P30156>
-      <m:P30156>zur ästhetischen Simulation von Geschichte bei Günter Grass, Albert Drach und Walter Kempowski</m:P30156>
+      <m:P30142>zur ästhetischen Simulation von Geschichte bei Günter Grass, Albert Drach und Walter Kempowski</m:P30142>
       <m:P30117>André Fischer</m:P30117>
       <e:P20001>Text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783770527540"/>
@@ -14557,7 +14557,7 @@
       <e:P20006>ger</e:P20006>
       <w:P10088>"Mit Wörtern das Ende aufschieben"</w:P10088>
       <m:P30156>"Mit Wörtern das Ende aufschieben"</m:P30156>
-      <m:P30156>Konzeptualisierung von Erfahrung in der "Rättin" von Günter Grass</m:P30156>
+      <m:P30142>Konzeptualisierung von Erfahrung in der "Rättin" von Günter Grass</m:P30142>
       <m:P30117>Arnd Flügel</m:P30117>
       <e:P20001>Text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783631481264"/>
@@ -14580,7 +14580,7 @@
       <e:P20006>ger</e:P20006>
       <w:P10088>"Selbst wenn die Welt unterginge, würden deine Weibergeschichten nicht aufhören"</w:P10088>
       <m:P30156>"Selbst wenn die Welt unterginge, würden deine Weibergeschichten nicht aufhören"</m:P30156>
-      <m:P30156>zwischen "Butt" u. "Rättin" - Frauen u. Frauenbewegung bei Günter Grass</m:P30156>
+      <m:P30142>zwischen "Butt" u. "Rättin" - Frauen u. Frauenbewegung bei Günter Grass</m:P30142>
       <m:P30117>Barbara Garde</m:P30117>
       <e:P20001>Text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783820414417"/>
@@ -14590,8 +14590,8 @@
    <bibframe:Work rdf:about="http://example.org/geschejanina/auszweierleiperspektiven/ger">
       <e:P20006>ger</e:P20006>
       <w:P10088>Aus zweierlei Perspektiven</w:P10088>
-      <m:P30156>Aus zweierlei Perspektiven ...</m:P30156>
-      <m:P30156>zur Rezeption der Danziger Trilogie von Günter Grass in Polen und Schweden in den Jahren 1958 - 1990</m:P30156>
+      <m:P30156>Aus zweierlei Perspektiven</m:P30156>
+      <m:P30142>zur Rezeption der Danziger Trilogie von Günter Grass in Polen und Schweden in den Jahren 1958 - 1990</m:P30142>
       <m:P30117>Janina Gesche</m:P30117>
       <e:P20001>Text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:912201991"/>
@@ -14610,7 +14610,7 @@
       <e:P20006>ger</e:P20006>
       <w:P10088>Die Grass-Debatte</w:P10088>
       <m:P30156>Die Grass-Debatte</m:P30156>
-      <m:P30156>Berichte, Stellungnahmen, Kommentare, Interviews, Rezensionen, Leserbriefe ; Bibliographie und Pressespiegel (12.8. - 31.8.2006)</m:P30156>
+      <m:P30142>Berichte, Stellungnahmen, Kommentare, Interviews, Rezensionen, Leserbriefe ; Bibliographie und Pressespiegel (12.8. - 31.8.2006)</m:P30142>
       <m:P30117>zsgest. von Willi Gorzny</m:P30117>
       <e:P20001>Text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783924276355"/>
@@ -14621,7 +14621,7 @@
       <e:P20006>ger</e:P20006>
       <w:P10088>Die Grass-Debatte</w:P10088>
       <m:P30156>Die Grass-Debatte</m:P30156>
-      <m:P30156>die NS-Vergangenheit in der Wahrnehmung von drei Generationen</m:P30156>
+      <m:P30142>die NS-Vergangenheit in der Wahrnehmung von drei Generationen</m:P30142>
       <m:P30117>Britta Gries</m:P30117>
       <e:P20001>Text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783828896666"/>
@@ -14632,7 +14632,7 @@
       <e:P20006>spa</e:P20006>
       <e:P20001>text</e:P20001>
       <w:P10088>Die Landstörzerin Courasche</w:P10088>
-      <bibframe:partOf rdf:resource="http://example.org/lapcaracoraje/spa"/>
+      <bibframe:partOf rdf:resource="http://example.org/lapcaracorajelapcaracoraje/spa"/>
       <w:P10061 rdf:resource="http://example.org/grimmelshausenhansjakobchristophvon"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://example.org/gruettnermarkmartin/intertextualitatundzeitkritikinguntergrasskopfgeburtenunddierattin/ger">
@@ -14648,7 +14648,7 @@
       <e:P20006>ger</e:P20006>
       <w:P10088>Eine Frage der Aufklärung</w:P10088>
       <m:P30156>Eine Frage der Aufklärung</m:P30156>
-      <m:P30156>Literatur und Staatssicherheit in Romanen von Fritz Rudolf Fries, Günter Grass und Wolfgang Hilbig</m:P30156>
+      <m:P30142>Literatur und Staatssicherheit in Romanen von Fritz Rudolf Fries, Günter Grass und Wolfgang Hilbig</m:P30142>
       <m:P30117>Michael Haase</m:P30117>
       <e:P20001>Text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783631375570"/>
@@ -14658,7 +14658,7 @@
       <e:P20006>eng</e:P20006>
       <w:P10088>Günter Grass's "Danzig-Quintet"</w:P10088>
       <m:P30156>Günter Grass's "Danzig-Quintet"</m:P30156>
-      <m:P30156>explorations in the memory and history of the Nazi era from "Die Blechtrommel" to "Im Krebsgang"</m:P30156>
+      <m:P30142>explorations in the memory and history of the Nazi era from "Die Blechtrommel" to "Im Krebsgang"</m:P30142>
       <m:P30117>Katharina Hall</m:P30117>
       <e:P20001>Text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783039109012"/>
@@ -14668,7 +14668,7 @@
       <e:P20006>ger</e:P20006>
       <w:P10088>Günter Grass, Katz und Maus</w:P10088>
       <m:P30156>Günter Grass, Katz und Maus</m:P30156>
-      <m:P30156>Interpretation</m:P30156>
+      <m:P30142>Interpretation</m:P30142>
       <m:P30117>von Ingrid Hasselbach</m:P30117>
       <m:P30117>von Ingrid Tiesler</m:P30117>
       <e:P20001>Text</e:P20001>
@@ -14680,7 +14680,7 @@
       <e:P20006>ger</e:P20006>
       <w:P10088>Günter Grass und John Irving</w:P10088>
       <m:P30156>Günter Grass und John Irving</m:P30156>
-      <m:P30156>eine transatlantische Intertextualitätsstudie</m:P30156>
+      <m:P30142>eine transatlantische Intertextualitätsstudie</m:P30142>
       <m:P30117>Iris Heilmann</m:P30117>
       <e:P20001>Text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783631337189"/>
@@ -14694,9 +14694,9 @@
       <e:P20006>spa</e:P20006>
       <w:P10088>De la palabra impresa al medio audiovisual</w:P10088>
       <m:P30156>De la palabra impresa al medio audiovisual</m:P30156>
-      <m:P30156>"Die Blechtrommel" de Günter Grass y la adaptación cinematográfica de Volker Schlöndorff : memoria para optar al grado de doctor</m:P30156>
+      <m:P30142>"Die Blechtrommel" de Günter Grass y la adaptación cinematográfica de Volker Schlöndorff : memoria para optar al grado de doctor</m:P30142>
       <m:P30117>presentada por Juan José Hernández Medina ; bajo la dirección del doctor Luis Acosta Gómez</m:P30117>
-      <m:P30156>"Die Blechtrommel" de Günter Grass y la adaptación cinematográfica de Volker Schlöndorff</m:P30156>
+      <m:P30142>"Die Blechtrommel" de Günter Grass y la adaptación cinematográfica de Volker Schlöndorff</m:P30142>
       <m:P30117>Juan José Hernández Medina</m:P30117>
       <e:P20001>text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8466919333"/>
@@ -14708,7 +14708,7 @@
       <e:P20006>spa</e:P20006>
       <w:P10088>"Die Blechtrommel" de Volker Schlöndorff y la homónima novela de Günter Grass</w:P10088>
       <m:P30156>"Die Blechtrommel" de Volker Schlöndorff y la homónima novela de Günter Grass</m:P30156>
-      <m:P30156>un análisis comparativo e interdisciplinar entre ambos discursos, literario y fílmico</m:P30156>
+      <m:P30142>un análisis comparativo e interdisciplinar entre ambos discursos, literario y fílmico</m:P30142>
       <m:P30117>Juan José Hernández Medina</m:P30117>
       <e:P20001>text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8482406558"/>
@@ -14744,7 +14744,7 @@
       <e:P20006>cze</e:P20006>
       <w:P10088>Die bösen Köche</w:P10088>
       <m:P30156>Zlí kuchaři</m:P30156>
-      <m:P30156>drama o 5 dějstvích</m:P30156>
+      <m:P30142>drama o 5 dějstvích</m:P30142>
       <m:P30117>Günter Grass. [Z něm. orig.] přel. Jan Tomek</m:P30117>
       <e:P20001>Text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/578697904"/>
@@ -14753,11 +14753,11 @@
    <bibframe:Work rdf:about="http://oslomet.workid.no/gg/01/ger">
       <e:P20006>ger</e:P20006>
       <w:P10088>Die bösen Köche</w:P10088>
-      <m:P30156>Die bösen Köche :</m:P30156>
-      <m:P30156>ein Drama in fünf Akten /</m:P30156>
-      <m:P30117>Günter Grass ; mit einem Nachwort von Peter Spycher.</m:P30117>
+      <m:P30156>Die bösen Köche</m:P30156>
+      <m:P30142>ein Drama in fünf Akten</m:P30142>
+      <m:P30117>Günter Grass ; mit einem Nachwort von Peter Spycher</m:P30117>
       <m:P30117>von Günter Grass</m:P30117>
-      <m:P30156>e. Drama in 5 Akten</m:P30156>
+      <m:P30142>e. Drama in 5 Akten</m:P30142>
       <m:P30117>Günter Grass. Mit 5 Reprod. nach Radierungen d. Autors u.e. Nachw. von Heinz Ludwig Arnold</m:P30117>
       <m:P30117>Günter Grass. Mit e. Nachw. von Peter Spycher</m:P30117>
       <e:P20001>text</e:P20001>
@@ -14774,7 +14774,7 @@
       <m:P30156>La crue</m:P30156>
       <m:P30117>Günter Grass. Introd., trad. par Hari Stathatou</m:P30117>
       <m:P30156>Hochwasser</m:P30156>
-      <m:P30156>Ein Stück in 2 Akten</m:P30156>
+      <m:P30142>Ein Stück in 2 Akten</m:P30142>
       <m:P30117>Günter Grass</m:P30117>
       <e:P20001>Text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/1037029216"/>
@@ -14787,9 +14787,9 @@
       <e:P20006>ger</e:P20006>
       <w:P10088>Onkel, Onkel</w:P10088>
       <m:P30156>Onkel, Onkel</m:P30156>
-      <m:P30156>Ein Spiel in 4 Akten</m:P30156>
+      <m:P30142>Ein Spiel in 4 Akten</m:P30142>
       <m:P30117>Günter Grass. Mit 9 Zeichn. d. Autors</m:P30117>
-      <m:P30156>e. Spiel in 4 Akten</m:P30156>
+      <m:P30142>e. Spiel in 4 Akten</m:P30142>
       <m:P30117>Günter Grass</m:P30117>
       <e:P20001>Text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/451644603"/>
@@ -14801,7 +14801,7 @@
    <bibframe:Work rdf:about="http://oslomet.workid.no/gg/05/ger">
       <e:P20006>ger</e:P20006>
       <w:P10088>Gleisdreieck</w:P10088>
-      <m:P30156>Gleisdreieck.</m:P30156>
+      <m:P30156>Gleisdreieck</m:P30156>
       <m:P30117>Günter Grass</m:P30117>
       <e:P20001>text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/014144723"/>
@@ -14816,13 +14816,14 @@
    <bibframe:Work rdf:about="http://oslomet.workid.no/gg/06/eng">
       <e:P20006>eng</e:P20006>
       <w:P10088>Die Plebejer proben den Aufstand</w:P10088>
-      <m:P30156>The plebeians rehearse the uprising /</m:P30156>
-      <m:P30117>Günter Grass.</m:P30117>
-      <m:P30156>a German tragedy /</m:P30156>
-      <m:P30117>Günter Grass ; with an introductory address by the author ; translated by Ralph Manheim.</m:P30117>
-      <m:P30156>A German tragedy ; With an introductory address by the author</m:P30156>
+      <m:P30156>The plebeians rehearse the uprising</m:P30156>
+      <m:P30117>Günter Grass</m:P30117>
+      <m:P30142>a German tragedy</m:P30142>
+      <m:P30117>Günter Grass ; with an introductory address by the author ; translated by Ralph Manheim</m:P30117>
+      <m:P30142>A German tragedy ; With an introductory address by the author</m:P30142>
       <m:P30117>Günter Grass. Transl. by Ralph Manheim</m:P30117>
       <e:P20001>text</e:P20001>
+      <w:P10223>The Plebeians Rehearse the Uprising</w:P10223>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9781473545311"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:0140481206"/>
       <bibframe:hasInstance rdf:resource="http://example.org/36591908X"/>
@@ -14835,9 +14836,10 @@
       <e:P20006>fre</e:P20006>
       <w:P10088>Die Plebejer proben den Aufstand</w:P10088>
       <m:P30156>Les Plébéiens répètent l'insurrection</m:P30156>
-      <m:P30156>Théâtre ; Précédé d'un discours de l'auteur</m:P30156>
+      <m:P30142>Théâtre ; Précédé d'un discours de l'auteur</m:P30142>
       <m:P30117>Günter Grass. Trad. de l'allemand par Jean Amsler</m:P30117>
       <e:P20001>Text</e:P20001>
+      <w:P10223>Les Plébéiens répètent l'insurrection</w:P10223>
       <bibframe:hasInstance rdf:resource="http://example.org/577731505"/>
       <e:P20037 rdf:resource="http://example.org/amslerjean"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/102319859"/>
@@ -14846,12 +14848,12 @@
       <e:P20006>ger</e:P20006>
       <w:P10088>Die Plebejer proben den Aufstand</w:P10088>
       <m:P30156>Die Plebejer proben den Aufstand</m:P30156>
-      <m:P30156>ein deutsches Trauerspiel</m:P30156>
+      <m:P30142>ein deutsches Trauerspiel</m:P30142>
       <m:P30117>Günter Grass</m:P30117>
-      <m:P30156>Ein dt. Trauerspiel</m:P30156>
-      <m:P30156>e. dt. Trauerspiel</m:P30156>
+      <m:P30142>Ein dt. Trauerspiel</m:P30142>
+      <m:P30142>e. dt. Trauerspiel</m:P30142>
       <m:P30117>Günter Grass. Ed. by. H. F. Brookes and C. E. Fraenkel</m:P30117>
-      <m:P30156>ein deutsches Trauerspiel ; mit einem Essay und einem Gespräch</m:P30156>
+      <m:P30142>ein deutsches Trauerspiel ; mit einem Essay und einem Gespräch</m:P30142>
       <m:P30117>Günter Grass. Hrsg. und mit einem Nachw. von Dieter Stolz</m:P30117>
       <e:P20001>Text</e:P20001>
       <e:P20001>spoken word</e:P20001>
@@ -14885,9 +14887,10 @@
       <e:P20006>spa</e:P20006>
       <w:P10088>Die Plebejer proben den Aufstand</w:P10088>
       <m:P30156>Los plebeyos ensayan la rebelión</m:P30156>
-      <m:P30156>(Una tragedia alemana)</m:P30156>
+      <m:P30142>(Una tragedia alemana)</m:P30142>
       <m:P30117>Günter Grass. Trad. de Heleno Saña Alcón</m:P30117>
       <e:P20001>Text</e:P20001>
+      <w:P10223>Los plebeyos ensayan la revolución</w:P10223>
       <bibframe:hasInstance rdf:resource="http://example.org/578550385"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/102319859"/>
    </bibframe:Work>
@@ -14895,7 +14898,7 @@
       <e:P20006>swe</e:P20006>
       <w:P10088>Die Plebejer proben den Aufstand</w:P10088>
       <m:P30156>Plebejerna repeterar upproret</m:P30156>
-      <m:P30156>Ett tyskt sorgespel</m:P30156>
+      <m:P30142>Ett tyskt sorgespel</m:P30142>
       <m:P30117>Günter Grass. I tolkning av Per Erik Wahlund</m:P30117>
       <e:P20001>Text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/577731513"/>
@@ -14915,7 +14918,7 @@
       <e:P20006>ger</e:P20006>
       <w:P10088>Ausgefragt</w:P10088>
       <m:P30156>Ausgefragt</m:P30156>
-      <m:P30156>Gedichte u. Zeichn.</m:P30156>
+      <m:P30142>Gedichte u. Zeichn</m:P30142>
       <m:P30117>Günter Grass</m:P30117>
       <e:P20001>Text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/456795286"/>
@@ -14926,7 +14929,7 @@
       <e:P20006>hun</e:P20006>
       <w:P10088>Ausgefragt</w:P10088>
       <m:P30156>Vallató</m:P30156>
-      <m:P30156>Válogatott versek</m:P30156>
+      <m:P30142>Válogatott versek</m:P30142>
       <m:P30117>Günter Grass. [Válogatta és az utószót írta Paulinyi Zoltán. Ford.: Boldog Balázs ; Eörsi István u. a.]</m:P30117>
       <e:P20001>Text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/577731092"/>
@@ -14952,7 +14955,7 @@
       <e:P20006>dut</e:P20006>
       <w:P10088>Aus dem Tagebuch einer Schnecke</w:P10088>
       <m:P30156>Uit het dagboek van cen slak</m:P30156>
-      <m:P30156>Roman</m:P30156>
+      <m:P30142>Roman</m:P30142>
       <m:P30117>Günter Grass. [Vert.: C. Schuur-Kaspers]</m:P30117>
       <e:P20001>Text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/36591911X"/>
@@ -14962,14 +14965,15 @@
    <bibframe:Work rdf:about="http://oslomet.workid.no/gg/08/eng">
       <e:P20006>eng</e:P20006>
       <w:P10088>Aus dem Tagebuch einer Schnecke</w:P10088>
-      <m:P30156>From the diary of a snail /</m:P30156>
-      <m:P30117>Translated by Ralph Manheim.</m:P30117>
-      <m:P30117>Günter Grass ; translated from the German by Ralph Manheim.</m:P30117>
-      <m:P30117>Günter Grass.</m:P30117>
+      <m:P30156>From the diary of a snail</m:P30156>
+      <m:P30117>Translated by Ralph Manheim</m:P30117>
+      <m:P30117>Günter Grass ; translated from the German by Ralph Manheim</m:P30117>
+      <m:P30117>Günter Grass</m:P30117>
       <m:P30117>Günter Grass. Transl. from the German by Ralph Manheim</m:P30117>
       <m:P30117>Günter Grass. Transl. by Ralph Manheim</m:P30117>
       <m:P30117>Günter Grass. Translated by Ralph Manheim</m:P30117>
       <e:P20001>text</e:P20001>
+      <w:P10223>From the Diary of a Snail</w:P10223>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:0436187892"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:0140041273"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9781473522534"/>
@@ -14985,6 +14989,7 @@
       <m:P30156>Journal d'un escargot</m:P30156>
       <m:P30117>Günter Grass. Trad. de l'allemand par Jean Amsler</m:P30117>
       <e:P20001>Text</e:P20001>
+      <w:P10223>Journal d'un escargot</w:P10223>
       <bibframe:hasInstance rdf:resource="http://example.org/368944875"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/102319859"/>
    </bibframe:Work>
@@ -15032,6 +15037,7 @@
       <m:P30117>Günter Grass. Overs. av Carl Fredrik Engelstad</m:P30117>
       <m:P30117>Günter Grass ; oversatt av Carl Fredrik Engelstad</m:P30117>
       <e:P20001>Text</e:P20001>
+      <w:P10223>Av en snegls dagbok</w:P10223>
       <bibframe:hasInstance rdf:resource="http://example.org/578550903"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8205060886"/>
       <e:P20037 rdf:resource="http://example.org/engelstadcarlfredrik"/>
@@ -15048,6 +15054,7 @@
       <m:P30117>Günter Grass. Trad. de Miguel Sáenz</m:P30117>
       <m:P30117>Günther Grass. Trad. Angel Antón Andrés</m:P30117>
       <e:P20001>text</e:P20001>
+      <w:P10223>Diario de un caracol</w:P10223>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8421108350"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9788420423845"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8420442747"/>
@@ -15060,7 +15067,7 @@
       <e:P20006>swe</e:P20006>
       <w:P10088>Aus dem Tagebuch einer Schnecke</w:P10088>
       <m:P30156>Ur en snigels dagbok</m:P30156>
-      <m:P30156>[Roman]</m:P30156>
+      <m:P30142>[Roman]</m:P30142>
       <m:P30117>Günter Grass. [Övers. av Eva Liljegren]</m:P30117>
       <e:P20001>Text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/57773153X"/>
@@ -15070,8 +15077,8 @@
    <bibframe:Work rdf:about="http://oslomet.workid.no/gg/09/ger">
       <e:P20006>ger</e:P20006>
       <w:P10088>Der Bürger und seine Stimme</w:P10088>
-      <m:P30156>Der Bürger und seine Stimme :</m:P30156>
-      <m:P30156>Reden, Aufsätze, Kommentare.</m:P30156>
+      <m:P30156>Der Bürger und seine Stimme</m:P30156>
+      <m:P30142>Reden, Aufsätze, Kommentare</m:P30142>
       <m:P30117>Günter Grass</m:P30117>
       <e:P20001>text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:3472863870"/>
@@ -15086,7 +15093,7 @@
       <e:P20006>dut</e:P20006>
       <w:P10088>Kopfgeburten oder die Deutschen sterben aus</w:P10088>
       <m:P30156>Kopgeboorte of de Duitsers sterven uit</m:P30156>
-      <m:P30117>Günter Grass. Vertaald door Jan Gielkens ...</m:P30117>
+      <m:P30117>Günter Grass. Vertaald door Jan Gielkens</m:P30117>
       <e:P20001>Text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9029012544"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/102319859"/>
@@ -15094,11 +15101,12 @@
    <bibframe:Work rdf:about="http://oslomet.workid.no/gg/10/eng">
       <e:P20006>eng</e:P20006>
       <w:P10088>Kopfgeburten, oder, Die Deutschen sterben aus</w:P10088>
-      <m:P30156>Headbirths, or, The Germans are dying out /</m:P30156>
-      <m:P30117>Günter Grass ; translated by Ralph Manheim.</m:P30117>
+      <m:P30156>Headbirths, or, The Germans are dying out</m:P30156>
+      <m:P30117>Günter Grass ; translated by Ralph Manheim</m:P30117>
       <m:P30117>Günter Grass. Translated by Ralph Mannheim</m:P30117>
       <m:P30117>Günter Grass. Transl. by Ralph Manheim</m:P30117>
       <e:P20001>text</e:P20001>
+      <w:P10223>Headbirths, or, the Germans are Dying Out</w:P10223>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:0436187779"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:0140064982"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:0151396000"/>
@@ -15120,18 +15128,19 @@
       <e:P20006>fre</e:P20006>
       <w:P10088>Kopfgeburten oder die Deutschen sterben aus</w:P10088>
       <m:P30156>Les enfants par le tête ou les Allemands se meurent</m:P30156>
-      <m:P30156>récit</m:P30156>
+      <m:P30142>récit</m:P30142>
       <m:P30117>Günter Grass. Trad. de l'allemand par Jean Amsler</m:P30117>
       <e:P20001>Text</e:P20001>
+      <w:P10223>Les Enfants par la tête ou les Allemands se meurent</w:P10223>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:2020064057"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/102319859"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://oslomet.workid.no/gg/10/ger">
       <e:P20006>ger</e:P20006>
       <w:P10088>Kopfgeburten oder Die Deutschen sterben aus</w:P10088>
-      <m:P30156>Kopfgeburten oder Die Deutschen sterben aus.</m:P30156>
-      <m:P30117>Günter Grass.</m:P30117>
-      <m:P30156>Blindendr. d. Dt. Blindenstudienanst.</m:P30156>
+      <m:P30156>Kopfgeburten oder Die Deutschen sterben aus</m:P30156>
+      <m:P30117>Günter Grass</m:P30117>
+      <m:P30142>Blindendr. d. Dt. Blindenstudienanst</m:P30142>
       <m:P30117>Günther Grass</m:P30117>
       <e:P20001>text</e:P20001>
       <e:P20001>taktiler Text</e:P20001>
@@ -15165,7 +15174,7 @@
       <m:P30117>Günter Grass ; traducción de Genoveva Dieterich</m:P30117>
       <m:P30117>Günter Grass. Trad. de Genoveva Dieterich</m:P30117>
       <m:P30156>Engendros de la mente o la extinción del pueblo alemán</m:P30156>
-      <m:P30156>[un viaje alucinante hacia el futuro de nuestro mondo]</m:P30156>
+      <m:P30142>[un viaje alucinante hacia el futuro de nuestro mondo]</m:P30142>
       <m:P30117>Günter Grass. Trad. de María A. Gregor</m:P30117>
       <m:P30156>Partos mortales o Los alemanes se extinguen</m:P30156>
       <m:P30117>Günter Grass. Trad. [del alemán] de Genoveva Dieterich</m:P30117>
@@ -15212,9 +15221,9 @@
    <bibframe:Work rdf:about="http://oslomet.workid.no/gg/1002/ger">
       <e:P20006>ger</e:P20006>
       <w:P10088>Fünf Jahrzehnte</w:P10088>
-      <m:P30156>Fünf Jahrzehnte :</m:P30156>
-      <m:P30156>ein Werkstattbericht /</m:P30156>
-      <m:P30117>Günter Grass ; heraugegeben von G. Fritze Margull.</m:P30117>
+      <m:P30156>Fünf Jahrzehnte</m:P30156>
+      <m:P30142>ein Werkstattbericht</m:P30142>
+      <m:P30117>Günter Grass ; heraugegeben von G. Fritze Margull</m:P30117>
       <m:P30117>Günter Grass ; herausgegeben von G. Fritze Margull</m:P30117>
       <m:P30117>Günter Grass. Hrsg. von G. Fritze Margull</m:P30117>
       <e:P20001>text</e:P20001>
@@ -15233,7 +15242,7 @@
       <e:P20006>spa</e:P20006>
       <w:P10088>Fünf Jahrzehnte</w:P10088>
       <m:P30156>Cinco decenios</m:P30156>
-      <m:P30156>informe de taller</m:P30156>
+      <m:P30142>informe de taller</m:P30142>
       <m:P30117>Günter Grass ; edición preparada por G. Fritze Margull ; traducción de Miguel Sáenz (con la colaboración de Grita Loebsack)</m:P30117>
       <m:P30117>Günter Grass. Ed. preparada por G. Fritze Margull. Trad. de Miguel Sáenz (con la colaboración de Grita Loebsack)</m:P30117>
       <e:P20001>text</e:P20001>
@@ -15247,7 +15256,7 @@
       <e:P20006>dut</e:P20006>
       <w:P10088>Ach Butt, dein Märchen geht böse aus</w:P10088>
       <m:P30156>Ach bot, je sprookje loopt slecht af</m:P30156>
-      <m:P30156>gedichten en grafiek</m:P30156>
+      <m:P30142>gedichten en grafiek</m:P30142>
       <m:P30117>Günter Grass. Vert. [uit het Duits] door Peter Kaaij</m:P30117>
       <e:P20001>Text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/1029793689"/>
@@ -15257,10 +15266,10 @@
    <bibframe:Work rdf:about="http://oslomet.workid.no/gg/1003/ger">
       <e:P20006>ger</e:P20006>
       <w:P10088>Ach Butt, dein Märchen geht böse aus</w:P10088>
-      <m:P30156>Ach Butt, dein Märchen geht böse aus :</m:P30156>
-      <m:P30156>Gedichte und Radierungen /</m:P30156>
-      <m:P30117>Günter Grass.</m:P30117>
-      <m:P30156>Gedichte u. Radierungen</m:P30156>
+      <m:P30156>Ach Butt, dein Märchen geht böse aus</m:P30156>
+      <m:P30142>Gedichte und Radierungen</m:P30142>
+      <m:P30117>Günter Grass</m:P30117>
+      <m:P30142>Gedichte u. Radierungen</m:P30142>
       <e:P20001>text</e:P20001>
       <e:P20001>unbewegtes Bild</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:3472684704"/>
@@ -15272,10 +15281,10 @@
    <bibframe:Work rdf:about="http://oslomet.workid.no/gg/1004/ger">
       <e:P20006>ger</e:P20006>
       <w:P10088>Ein Schnäppchen namens DDR: Letzte Reden vorm Glockengeleut</w:P10088>
-      <m:P30156>Ein Schnäppchen namens DDR :</m:P30156>
-      <m:P30156>letzte Reden vorm Glockengeläut /</m:P30156>
-      <m:P30117>Günter Grass.</m:P30117>
-      <m:P30156>aus Reden, Gesprächen und Aufsätzen zur deutschen Einheit 1989-1999</m:P30156>
+      <m:P30156>Ein Schnäppchen namens DDR</m:P30156>
+      <m:P30142>letzte Reden vorm Glockengeläut</m:P30142>
+      <m:P30117>Günter Grass</m:P30117>
+      <m:P30142>aus Reden, Gesprächen und Aufsätzen zur deutschen Einheit 1989-1999</m:P30142>
       <m:P30117>Günter Grass. Mit Fotogr. von Siegfried Wittenburg</m:P30117>
       <e:P20001>text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:3630619630"/>
@@ -15290,25 +15299,25 @@
    <bibframe:Work rdf:about="http://oslomet.workid.no/gg/1005/ger">
       <e:P20006>ger</e:P20006>
       <w:P10088>Rede über den Standort</w:P10088>
-      <m:P30156>Rede über den Standort /</m:P30156>
-      <m:P30156>Günter Grass.</m:P30156>
-      <m:P30156>[Rede am 23. Februar 1997 im Schauspielhaus Dresden im Rahmen der Reihe "Zur Sache: Deutschland"]</m:P30156>
+      <m:P30156>Rede über den Standort</m:P30156>
+      <m:P30142>Günter Grass</m:P30142>
+      <m:P30142>[Rede am 23. Februar 1997 im Schauspielhaus Dresden im Rahmen der Reihe "Zur Sache: Deutschland"]</m:P30142>
       <m:P30117>Günter Grass</m:P30117>
       <e:P20001>text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:3882435011"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783882435016"/>
-      <bibframe:partOf rdf:resource="http://viaf.org/viaf/102319859/frundwiderworte/ger"/>
+      <bibframe:partOf rdf:resource="http://viaf.org/viaf/102319859/frundwiderwortefrundwiderworte/ger"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/102319859"/>
       <w:P10261 rdf:resource="http://viaf.org/viaf/102319859"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://oslomet.workid.no/gg/1006/ger">
       <e:P20006>ger</e:P20006>
       <w:P10088>Denkzettel: Politische Reden und Aufsätze 1965–1976</w:P10088>
-      <m:P30156>Denkzettel :</m:P30156>
-      <m:P30156>politische Reden und Aufsätze [1965-1976] /</m:P30156>
-      <m:P30117>Günter Grass.</m:P30117>
-      <m:P30156>polit. Reden u. Aufsätze</m:P30156>
-      <m:P30156>polit. Reden u. Aufsätze ; [1965 - 1976]</m:P30156>
+      <m:P30156>Denkzettel</m:P30156>
+      <m:P30142>politische Reden und Aufsätze [1965-1976]</m:P30142>
+      <m:P30117>Günter Grass</m:P30117>
+      <m:P30142>polit. Reden u. Aufsätze</m:P30142>
+      <m:P30142>polit. Reden u. Aufsätze ; [1965 - 1976]</m:P30142>
       <e:P20001>text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:3472612614"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783472612612"/>
@@ -15346,9 +15355,10 @@
       <e:P20006>eng</e:P20006>
       <w:P10088>Zunge zeigen</w:P10088>
       <w:P10088>Zunge zeigen. Ein Tagebuch in Zeichnungen</w:P10088>
-      <m:P30156>Show your tongue /</m:P30156>
-      <m:P30117>Günter Grass ; translated by John E. Woods.</m:P30117>
+      <m:P30156>Show your tongue</m:P30156>
+      <m:P30117>Günter Grass ; translated by John E. Woods</m:P30117>
       <e:P20001>text</e:P20001>
+      <w:P10223>Show Your Tongue</w:P10223>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:043618768"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:0156823306"/>
       <e:P20037 rdf:resource="http://example.org/woodsjohne"/>
@@ -15357,8 +15367,8 @@
    <bibframe:Work rdf:about="http://oslomet.workid.no/gg/12/ger">
       <e:P20006>ger</e:P20006>
       <w:P10088>Zunge zeigen. Ein Tagebuch in Zeichnungen</w:P10088>
-      <m:P30156>Zunge zeigen /</m:P30156>
-      <m:P30117>Günter Grass.</m:P30117>
+      <m:P30156>Zunge zeigen</m:P30156>
+      <m:P30117>Günter Grass</m:P30117>
       <e:P20001>text</e:P20001>
       <e:P20001>unbewegtes Bild</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:3630866735"/>
@@ -15374,6 +15384,7 @@
       <m:P30156>Rekke tunge</m:P30156>
       <m:P30117>Günter Grass ; oversatt av Kjell Risvik</m:P30117>
       <e:P20001>text</e:P20001>
+      <w:P10223>Rekke tunge</w:P10223>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8205183120"/>
       <e:P20037 rdf:resource="http://viaf.org/viaf/66142208"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/102319859"/>
@@ -15385,6 +15396,7 @@
       <m:P30117>Günter Grass ; [traducción de Anton Dieterich]</m:P30117>
       <m:P30117>Günter Grass. Trad. de Anton Dieterich</m:P30117>
       <e:P20001>text</e:P20001>
+      <w:P10223>Sacar la lengua</w:P10223>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8439716885"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8422645955"/>
       <e:P20053 rdf:resource="http://example.org/dieterichantn"/>
@@ -15397,10 +15409,10 @@
    <bibframe:Work rdf:about="http://oslomet.workid.no/gg/13/ger">
       <e:P20006>ger</e:P20006>
       <w:P10088>Novemberland. 13 Sonette</w:P10088>
-      <m:P30156>Novemberland :</m:P30156>
-      <m:P30156>13 Sonette /</m:P30156>
-      <m:P30117>Günter Grass.</m:P30117>
-      <m:P30156>selected poems 1956 - 1993</m:P30156>
+      <m:P30156>Novemberland</m:P30156>
+      <m:P30142>13 Sonette</m:P30142>
+      <m:P30117>Günter Grass</m:P30117>
+      <m:P30142>selected poems 1956 - 1993</m:P30142>
       <m:P30117>Günter Grass. Transl. from the German by Michael Hamburger</m:P30117>
       <e:P20001>text</e:P20001>
       <e:P20001>unbewegtes Bild</e:P20001>
@@ -15413,7 +15425,7 @@
       <e:P20006>nob</e:P20006>
       <w:P10088>Novemberland</w:P10088>
       <m:P30156>Listopadia</m:P30156>
-      <m:P30156>13 sonetów</m:P30156>
+      <m:P30142>13 sonetów</m:P30142>
       <m:P30117>Günter Grass. Przeł. Bolesław Fac</m:P30117>
       <e:P20001>Text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8386181079"/>
@@ -15422,9 +15434,9 @@
    <bibframe:Work rdf:about="http://oslomet.workid.no/gg/15/ger">
       <e:P20006>ger</e:P20006>
       <w:P10088>Lyrische Beute</w:P10088>
-      <m:P30156>Lyrische Beute :</m:P30156>
-      <m:P30156>Gedichte und Zeichnungen aus fünfzig Jahren /</m:P30156>
-      <m:P30117>Günter Grass.</m:P30117>
+      <m:P30156>Lyrische Beute</m:P30156>
+      <m:P30142>Gedichte und Zeichnungen aus fünfzig Jahren</m:P30142>
+      <m:P30117>Günter Grass</m:P30117>
       <e:P20001>text</e:P20001>
       <e:P20001>spoken word</e:P20001>
       <e:P20001>unbewegtes Bild</e:P20001>
@@ -15439,7 +15451,7 @@
       <e:P20006>spa</e:P20006>
       <w:P10088>Lyrische Beute</w:P10088>
       <m:P30156>Lírico botín</m:P30156>
-      <m:P30156>poema y dibujos de cincuenta años</m:P30156>
+      <m:P30142>poema y dibujos de cincuenta años</m:P30142>
       <m:P30117>Günter Grass ; traducción de Miguel Sáenz, con la colaboración de Grita Loebsack</m:P30117>
       <e:P20001>text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8495408503"/>
@@ -15451,7 +15463,7 @@
       <e:P20006>ger</e:P20006>
       <w:P10088>Eintagsfliegen</w:P10088>
       <m:P30156>Eintagsfliegen</m:P30156>
-      <m:P30156>gelegentliche Gedichte</m:P30156>
+      <m:P30142>gelegentliche Gedichte</m:P30142>
       <m:P30117>Günter Grass</m:P30117>
       <e:P20001>Text</e:P20001>
       <e:P20001>unbewegtes Bild</e:P20001>
@@ -15469,13 +15481,14 @@
    <bibframe:Work rdf:about="http://oslomet.workid.no/gg/21/eng">
       <e:P20006>eng</e:P20006>
       <w:P10088>Unterwegs von Deutschland nach Deutschland</w:P10088>
-      <m:P30156>From Germany to Germany :</m:P30156>
-      <m:P30156>journal of the year 1990 /</m:P30156>
-      <m:P30117>by Gunter Grass ; translated from the German by Krishna Winston.</m:P30117>
-      <m:P30156>diary 1990 /</m:P30156>
-      <m:P30117>Günter Grass ; translated by Krishna Winston.</m:P30117>
+      <m:P30156>From Germany to Germany</m:P30156>
+      <m:P30142>journal of the year 1990</m:P30142>
+      <m:P30117>by Gunter Grass ; translated from the German by Krishna Winston</m:P30117>
+      <m:P30142>diary 1990</m:P30142>
+      <m:P30117>Günter Grass ; translated by Krishna Winston</m:P30117>
       <m:P30117>Günter Grass ; translated from the German by Krishna Winston</m:P30117>
       <e:P20001>text</e:P20001>
+      <w:P10223>From Germany to Germany</w:P10223>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9781846554735"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9781448163755"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9780547364605"/>
@@ -15485,9 +15498,9 @@
    <bibframe:Work rdf:about="http://oslomet.workid.no/gg/21/ger">
       <e:P20006>ger</e:P20006>
       <w:P10088>Unterwegs von Deutschland nach Deutschland</w:P10088>
-      <m:P30156>Unterwegs von Deutschland nach Deutschland :</m:P30156>
-      <m:P30156>Tagebuch 1990 /</m:P30156>
-      <m:P30117>Günter Grass.</m:P30117>
+      <m:P30156>Unterwegs von Deutschland nach Deutschland</m:P30156>
+      <m:P30142>Tagebuch 1990</m:P30142>
+      <m:P30117>Günter Grass</m:P30117>
       <e:P20001>text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783865218810"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783865218858"/>
@@ -15498,7 +15511,7 @@
       <e:P20006>rum</e:P20006>
       <w:P10088>Unterwegs von Deutschland nach Deutschland</w:P10088>
       <m:P30156>Între Germania şi Germania</m:P30156>
-      <m:P30156>jurnal 1990</m:P30156>
+      <m:P30142>jurnal 1990</m:P30142>
       <m:P30117>Günter Grass ; traducere din limba germană şi note de Ruxandra Hosu</m:P30117>
       <e:P20001>Text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9789734628346"/>
@@ -15508,12 +15521,13 @@
    <bibframe:Work rdf:about="http://oslomet.workid.no/gg/21/spa">
       <e:P20006>spa</e:P20006>
       <w:P10088>Unterwegs von Deutschland nach Deutschland</w:P10088>
-      <m:P30156>De Alemania a Alemania :</m:P30156>
-      <m:P30156>diario, 1990</m:P30156>
+      <m:P30156>De Alemania a Alemania</m:P30156>
+      <m:P30142>diario, 1990</m:P30142>
       <m:P30117>Günter Grass ; traducción del alemán de Carlos Fortea</m:P30117>
       <m:P30117>Günter Grass ; traducción de Carlos Fortea</m:P30117>
       <m:P30117>Günter Grass. Trad. de Carlos Fortea</m:P30117>
       <e:P20001>text</e:P20001>
+      <w:P10223>De Alemania a Alemania</w:P10223>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9788420407371"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9788466325868"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9786071110787"/>
@@ -15525,11 +15539,12 @@
       <e:P20006>eng</e:P20006>
       <w:P10088>Über das Selbstverständliche. Reden – Aufsätze – Offene Briefe – Kommentare</w:P10088>
       <w:P10088>Über das Selbstverständliche</w:P10088>
-      <m:P30156>Speak out :</m:P30156>
-      <m:P30156>Speeches, open letters, commentaries /</m:P30156>
-      <m:P30117>Trans Manheim, Ralph.</m:P30117>
+      <m:P30156>Speak out</m:P30156>
+      <m:P30142>Speeches, open letters, commentaries</m:P30142>
+      <m:P30117>Trans Manheim, Ralph</m:P30117>
       <m:P30117>Günter Grass. Transl. by Ralph Manheim. Introd. by Michael Harrigton</m:P30117>
       <e:P20001>text</e:P20001>
+      <w:P10223>Speak out! Speeches, Open Letters, Commentaries</w:P10223>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:0436187876"/>
       <bibframe:hasInstance rdf:resource="http://example.org/578552728"/>
       <e:P20037 rdf:resource="http://example.org/ralphmanheim"/>
@@ -15551,14 +15566,14 @@
       <e:P20006>ger</e:P20006>
       <w:P10088>Über das Selbstverständliche. Reden – Aufsätze – Offene Briefe – Kommentare</w:P10088>
       <m:P30156>Über das Selbstverständliche</m:P30156>
-      <m:P30156>Reden, Aufsätze, Offene Briefe, Kommentare</m:P30156>
+      <m:P30142>Reden, Aufsätze, Offene Briefe, Kommentare</m:P30142>
       <m:P30117>Günter Grass</m:P30117>
-      <m:P30156>Polit. Schriften</m:P30156>
-      <m:P30156>Briefe über die Grenze</m:P30156>
+      <m:P30142>Polit. Schriften</m:P30142>
+      <m:P30142>Briefe über die Grenze</m:P30142>
       <m:P30117>Günther Grass</m:P30117>
-      <m:P30156>Aufsätze, Reden, Kommentare, offene Briefe</m:P30156>
+      <m:P30142>Aufsätze, Reden, Kommentare, offene Briefe</m:P30142>
       <m:P30156>Speak out!</m:P30156>
-      <m:P30156>speeches, open letters, commentaries</m:P30156>
+      <m:P30142>speeches, open letters, commentaries</m:P30142>
       <m:P30117>By Günter Grass. Translated [from the German] by Ralph Manheim. Introduction by Michael Harrington</m:P30117>
       <e:P20001>Text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/456795782"/>
@@ -15572,22 +15587,23 @@
    <bibframe:Work rdf:about="http://oslomet.workid.no/gg/24/ger">
       <e:P20006>ger</e:P20006>
       <w:P10088>Rede vom Verlust</w:P10088>
-      <m:P30156>Rede vom Verlust :</m:P30156>
-      <m:P30156>über den Niedergang der politischen Kultur im geeinten Deutschland /</m:P30156>
-      <m:P30117>Günter Grass.</m:P30117>
+      <m:P30156>Rede vom Verlust</m:P30156>
+      <m:P30142>über den Niedergang der politischen Kultur im geeinten Deutschland</m:P30142>
+      <m:P30117>Günter Grass</m:P30117>
       <e:P20001>text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:3882432500"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783882432503"/>
-      <bibframe:partOf rdf:resource="http://viaf.org/viaf/102319859/frundwiderworte/ger"/>
+      <bibframe:partOf rdf:resource="http://viaf.org/viaf/102319859/frundwiderwortefrundwiderworte/ger"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/102319859"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://oslomet.workid.no/gg/24/nob">
       <e:P20006>nob</e:P20006>
       <w:P10088>Rede vom Verlust</w:P10088>
-      <m:P30156>Tale om det tapte :</m:P30156>
-      <m:P30156>om forfallet i den politiske kultur i det forente Tyskland</m:P30156>
+      <m:P30156>Tale om det tapte</m:P30156>
+      <m:P30142>om forfallet i den politiske kultur i det forente Tyskland</m:P30142>
       <m:P30117>Günter Grass ; oversatt av Arnt Stefansen</m:P30117>
       <e:P20001>text</e:P20001>
+      <w:P10223>Tale om det tapte: om forfallet i den politiske kultur i det forente Tyskland</w:P10223>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8202141184"/>
       <e:P20037 rdf:resource="http://example.org/stefansenarnt"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/102319859"/>
@@ -15596,7 +15612,7 @@
       <e:P20006>spa</e:P20006>
       <w:P10088>Rede vom Verlust</w:P10088>
       <m:P30156>Discurso de la pérdida</m:P30156>
-      <m:P30156>sobre el declinar de la cultura política en la Alemania unida</m:P30156>
+      <m:P30142>sobre el declinar de la cultura política en la Alemania unida</m:P30142>
       <m:P30117>Günter Grass ; traducción, Carlos Martín</m:P30117>
       <m:P30117>[Günter Grass ; traducción de Carlos Martín]</m:P30117>
       <m:P30117>Günter Grass. Trad.: Carlos Martín</m:P30117>
@@ -15610,10 +15626,11 @@
       <w:P10088>Correspondence</w:P10088>
       <w:P10061 rdf:resource="http://viaf.org/viaf/102319859"/>
    </bibframe:Work>
-   <bibframe:Work rdf:about="http://viaf.org/viaf/102319859/frundwiderworte/ger">
+   <bibframe:Work rdf:about="http://viaf.org/viaf/102319859/frundwiderwortefrundwiderworte/ger">
       <e:P20006>ger</e:P20006>
-      <m:P30156>Für- und Widerworte /</m:P30156>
-      <m:P30117>Günter Grass.</m:P30117>
+      <m:P30156>Für- und Widerworte</m:P30156>
+      <m:P30117>Günter Grass</m:P30117>
+      <w:P10088>Für- und Widerworte</w:P10088>
       <e:P20001>text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:3882436816"/>
       <bibframe:hasPart rdf:resource="http://viaf.org/viaf/102319859/lernendelehrer/ger"/>
@@ -15625,30 +15642,30 @@
       <e:P20006>ger</e:P20006>
       <e:P20001>text</e:P20001>
       <w:P10088>Lernende Lehrer</w:P10088>
-      <bibframe:partOf rdf:resource="http://viaf.org/viaf/102319859/frundwiderworte/ger"/>
+      <bibframe:partOf rdf:resource="http://viaf.org/viaf/102319859/frundwiderwortefrundwiderworte/ger"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/102319859"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://viaf.org/viaf/102319859/stockholm/ger">
       <e:P20006>ger</e:P20006>
       <w:P10088>Stockholm</w:P10088>
       <m:P30156>Stockholm</m:P30156>
-      <m:P30156>der Literaturnobelpreis für Günter Grass ; ein Tagebuch</m:P30156>
+      <m:P30142>der Literaturnobelpreis für Günter Grass ; ein Tagebuch</m:P30142>
       <m:P30117>Günter Grass/Gerhard Steidl. Mit Fotos von Gerhard Steidl</m:P30117>
       <e:P20001>unbewegtes Bild</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783882437416"/>
       <m:P30069 rdf:resource="http://example.org/steidlgerhard"/>
       <m:P30321 rdf:resource="http://viaf.org/viaf/102319859"/>
-      <w:P10019 rdf:resource="http://www.wikidata.org/entity/Q1669964"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/102319859"/>
       <w:P10261 rdf:resource="http://viaf.org/viaf/102319859"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://viaf.org/viaf/12146937706213831421/eng">
       <e:P20006>eng</e:P20006>
       <w:P10088>Vonne Endlichkait</w:P10088>
-      <m:P30156>Of all that ends /</m:P30156>
-      <m:P30117>Günter Grass ; translated by Breon Mitchell.</m:P30117>
+      <m:P30156>Of all that ends</m:P30156>
+      <m:P30117>Günter Grass ; translated by Breon Mitchell</m:P30117>
       <m:P30117>Günter Grass ; translated from the German by Breon Mitchell</m:P30117>
       <e:P20001>text</e:P20001>
+      <w:P10223>Of all that ends</w:P10223>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9781473545199"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9781910701812"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9781784703684"/>
@@ -15683,8 +15700,8 @@
    <bibframe:Work rdf:about="http://viaf.org/viaf/1368145424621686831097/ger">
       <e:P20006>ger</e:P20006>
       <w:P10088>Fundsachen für Nichtleser</w:P10088>
-      <m:P30156>Fundsachen für Nichtleser /</m:P30156>
-      <m:P30117>Günter Grass.</m:P30117>
+      <m:P30156>Fundsachen für Nichtleser</m:P30156>
+      <m:P30117>Günter Grass</m:P30117>
       <e:P20001>text</e:P20001>
       <e:P20001>unbewegtes Bild</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:3882434775"/>
@@ -15702,6 +15719,7 @@
       <m:P30117>Günter Grass. Trad. de Miguel Sáenz</m:P30117>
       <e:P20001>Text</e:P20001>
       <e:P20001>unbewegtes Bild</e:P20001>
+      <w:P10223>Hallazgos para no lectores</w:P10223>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8481091456"/>
       <e:P20037 rdf:resource="http://viaf.org/viaf/22322043"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/102319859"/>
@@ -15709,9 +15727,9 @@
    <bibframe:Work rdf:about="http://viaf.org/viaf/1659148997630759870001/ger">
       <e:P20006>ger</e:P20006>
       <w:P10088>Sechs Jahrzehnte</w:P10088>
-      <m:P30156>Sechs Jahrzehnte :</m:P30156>
-      <m:P30156>ein Werkstattbericht /</m:P30156>
-      <m:P30117>Günter Grass ; herausgegeben von G. Fritz Margull und Hilke Ohsoling.</m:P30117>
+      <m:P30156>Sechs Jahrzehnte</m:P30156>
+      <m:P30142>ein Werkstattbericht</m:P30142>
+      <m:P30117>Günter Grass ; herausgegeben von G. Fritz Margull und Hilke Ohsoling</m:P30117>
       <m:P30117>Günter Grass. Hrsg. von G. Fritz Margull und Hilke Ohsoling</m:P30117>
       <e:P20001>text</e:P20001>
       <e:P20001>unbewegtes Bild</e:P20001>
@@ -15724,14 +15742,18 @@
    <bibframe:Work rdf:about="http://viaf.org/viaf/179378125">
       <w:P10088>Blechtrommel</w:P10088>
       <w:P10088>Die Blechtrommel</w:P10088>
+      <w:P10025 rdf:resource="https://www.imdb.com/title/tt0078875//spa"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/102319859"/>
       <w:P10065 rdf:resource="http://viaf.org/viaf/102319859"/>
+      <w:P10124 rdf:resource="http://example.org/thomasnl/dieblechtrommel/eng"/>
+      <w:P10124 rdf:resource="http://example.org/schlondorffvolker/dieblechtrommelalsfilm/ger"/>
+      <w:P10124 rdf:resource="http://viaf.org/viaf/272405923/dieblechtrommel/ger"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://viaf.org/viaf/179378125/bul">
       <e:P20006>bul</e:P20006>
       <w:P10088>Die Blechtrommel</w:P10088>
       <m:P30156>Tenekienijat baraban</m:P30156>
-      <m:P30156>roman</m:P30156>
+      <m:P30142>roman</m:P30142>
       <m:P30117>Gjunter Gras. Prev. ot nem. [s poslesl.] Nadja Furnadžieva. [S predg. ot Venceslav Konstantinov]</m:P30117>
       <e:P20001>Text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/102979765X"/>
@@ -15742,7 +15764,7 @@
       <e:P20006>cze</e:P20006>
       <w:P10088>Die Blechtrommel</w:P10088>
       <m:P30156>Plechový bubínek</m:P30156>
-      <m:P30156>román</m:P30156>
+      <m:P30142>román</m:P30142>
       <m:P30117>Günter Grass. [Z něm. orig.] přel. [a doslov napsal] Vladimír Kafka</m:P30117>
       <e:P20001>Text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/578549069"/>
@@ -15752,7 +15774,7 @@
       <e:P20006>dan</e:P20006>
       <w:P10088>Die Blechtrommel</w:P10088>
       <m:P30156>Bliktrommen</m:P30156>
-      <m:P30156>[Overs. fra tysk]</m:P30156>
+      <m:P30142>[Overs. fra tysk]</m:P30142>
       <m:P30117>Günter Grass. P°a dansk ved Mogens Boisen</m:P30117>
       <e:P20001>Text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/577731106"/>
@@ -15763,7 +15785,7 @@
       <e:P20006>dut</e:P20006>
       <w:P10088>Die Blechtrommel</w:P10088>
       <m:P30156>De blikken trommel</m:P30156>
-      <m:P30156>[roman]</m:P30156>
+      <m:P30142>[roman]</m:P30142>
       <m:P30117>Günter Grass. Vertaald door Koos Schuur</m:P30117>
       <m:P30117>Günter Grass. [Vert.: Koos Schuur]</m:P30117>
       <e:P20001>Text</e:P20001>
@@ -15776,21 +15798,22 @@
       <e:P20006>eng</e:P20006>
       <w:P10088>Die Blechtrommel</w:P10088>
       <w:P10088>Blechtrommel</w:P10088>
-      <m:P30156>The tin drum /</m:P30156>
-      <m:P30117>Günter Grass ; translated from the German by Ralph Manheim.</m:P30117>
-      <m:P30117>trans. from the German by Ralph Manheim.</m:P30117>
-      <m:P30117>Günther Grass.</m:P30117>
-      <m:P30156>The Tin Drum. Translated ... by Ralph Manheim.</m:P30156>
-      <m:P30156>The tin drum. Translated ... by Ralph Manheim. (Reprinted.).</m:P30156>
-      <m:P30117>Günter Grass ; translated from the German by Ralph Manheim ; with an introduction by John Reddick.</m:P30117>
+      <m:P30156>The tin drum</m:P30156>
+      <m:P30117>Günter Grass ; translated from the German by Ralph Manheim</m:P30117>
+      <m:P30117>trans. from the German by Ralph Manheim</m:P30117>
+      <m:P30117>Günther Grass</m:P30117>
+      <m:P30156>The Tin Drum. Translated ... by Ralph Manheim</m:P30156>
+      <m:P30156>The tin drum. Translated ... by Ralph Manheim. (Reprinted.)</m:P30156>
+      <m:P30117>Günter Grass ; translated from the German by Ralph Manheim ; with an introduction by John Reddick</m:P30117>
       <m:P30117>Günter Grass. Transl. from the German by Ralph Manheim</m:P30117>
       <m:P30117>Günter Grass. Tr. from the German by Ralph Manheim</m:P30117>
-      <m:P30156>[Engl. transl.]</m:P30156>
+      <m:P30142>[Engl. transl.]</m:P30142>
       <m:P30117>Günter Grass</m:P30117>
       <m:P30117>Günter Grass. Tr. from German by Ralph Manheim</m:P30117>
       <m:P30117>Günter Grass. Transl. from the German by Ralph Manheim. With an introd. by John Reddick</m:P30117>
       <m:P30117>by Günter Grass. Transl. from the German by Ralph Manheim</m:P30117>
       <e:P20001>text</e:P20001>
+      <w:P10223>The Tin Drum</w:P10223>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:0749394757"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:0436187833"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9781846553172"/>
@@ -15818,7 +15841,7 @@
       <w:P10088>Die Blechtrommel</w:P10088>
       <m:P30156>Peltirumpu</m:P30156>
       <m:P30117>Günter Grass. Suomentanut Aarno Peromies</m:P30117>
-      <m:P30156>Romaani</m:P30156>
+      <m:P30142>Romaani</m:P30142>
       <e:P20001>Text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9511054538"/>
       <bibframe:hasInstance rdf:resource="http://example.org/577731149"/>
@@ -15829,11 +15852,12 @@
       <e:P20006>fre</e:P20006>
       <w:P10088>Die Blechtrommel</w:P10088>
       <m:P30156>Le tambour</m:P30156>
-      <m:P30156>roman</m:P30156>
+      <m:P30142>roman</m:P30142>
       <m:P30117>Günter Grass. Trad. de l'allemand par Jean Amsler</m:P30117>
       <m:P30156>La tambour</m:P30156>
       <m:P30117>Günter Grass. Traduit de l'allemand par Jean Amsler</m:P30117>
       <e:P20001>Text</e:P20001>
+      <w:P10223>Le Tambour</w:P10223>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:2020054108"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:2724206126"/>
       <bibframe:hasInstance rdf:resource="http://example.org/577731157"/>
@@ -15844,13 +15868,13 @@
    <bibframe:Work rdf:about="http://viaf.org/viaf/179378125/ger">
       <e:P20006>ger</e:P20006>
       <w:P10088>Die Blechtrommel</w:P10088>
-      <m:P30156>Die Blechtrommel :</m:P30156>
-      <m:P30156>Roman.</m:P30156>
+      <m:P30156>Die Blechtrommel</m:P30156>
+      <m:P30142>Roman</m:P30142>
       <m:P30156>Le Tambour</m:P30156>
       <m:P30117>Günter Grass. Trad. de l'allemand par Jean Amsler</m:P30117>
       <m:P30117>Günter Grass</m:P30117>
       <m:P30117>Günter Grass. Mit 65 Ill. von Heinrich Richter</m:P30117>
-      <m:P30156>Günter Grass liest aus seinem Roman. Falter und Glühbirnen (Oskars Geburt). Fernwirkender Gesang vom Stockturm aus gesungen</m:P30156>
+      <m:P30142>Günter Grass liest aus seinem Roman. Falter und Glühbirnen (Oskars Geburt). Fernwirkender Gesang vom Stockturm aus gesungen</m:P30142>
       <m:P30117>Günter Grass. Mit ... Radierungen von Hubertus Giebe</m:P30117>
       <m:P30117>[Von] Günter Grass</m:P30117>
       <m:P30117>Günter Grass. [Mit Nachw., Anm. und Zeittaf. von Volker Neuhaus]</m:P30117>
@@ -15860,10 +15884,10 @@
       <m:P30156>A bádogdob</m:P30156>
       <m:P30117>Günter Grass ; [ford. Szíjgyártó László] = Die Blechtrommel &lt;ungar.&gt;</m:P30117>
       <m:P30117>Günter Grass. Mit e. Nachw. von Hans Mayer</m:P30117>
-      <m:P30156>Auszüge</m:P30156>
+      <m:P30142>Auszüge</m:P30142>
       <m:P30117>Günter Grass. Gelesen vom Autor</m:P30117>
       <m:P30117>Günter Grass. Mit einem persönlichen Nachw. von Christof Siemes</m:P30117>
-      <m:P30156>Nobelpreis 1999 Deutschland</m:P30156>
+      <m:P30142>Nobelpreis 1999 Deutschland</m:P30142>
       <e:P20001>text</e:P20001>
       <e:P20001>taktiler Text</e:P20001>
       <e:P20001>spoken word</e:P20001>
@@ -15940,7 +15964,7 @@
       <e:P20006>heb</e:P20006>
       <w:P10088>Die Blechtrommel</w:P10088>
       <m:P30156>Toff ha'pach</m:P30156>
-      <m:P30156>[Roman]</m:P30156>
+      <m:P30142>[Roman]</m:P30142>
       <m:P30117>Günter Grass. [Übers. von] Chaim Isak</m:P30117>
       <e:P20001>Text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/1030272557"/>
@@ -15961,9 +15985,9 @@
       <e:P20006>ita</e:P20006>
       <w:P10088>Die Blechtrommel</w:P10088>
       <m:P30156>Il tamburo di latta</m:P30156>
-      <m:P30156>Romanzo</m:P30156>
+      <m:P30142>Romanzo</m:P30142>
       <m:P30117>Günter Grass. [Trad. dal tedesco di Lia Secci]</m:P30117>
-      <m:P30156>Romanza</m:P30156>
+      <m:P30142>Romanza</m:P30142>
       <m:P30117>Günter Grass. Trad. dal tedesco di Lia Secci. Rev. per la presente ed. di Vittoria Ruberl</m:P30117>
       <e:P20001>Text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/577731165"/>
@@ -15976,11 +16000,12 @@
       <e:P20006>nob</e:P20006>
       <w:P10088>Die Blechtrommel</w:P10088>
       <m:P30156>Blikktrommen</m:P30156>
-      <m:P30156>roman</m:P30156>
+      <m:P30142>roman</m:P30142>
       <m:P30117>Günter Grass. Overs. av Trygve Greiff</m:P30117>
       <m:P30117>Günter Grass ; oversatt av Trygve Greiff ; innledende essay av Erik Fosnes Hansen</m:P30117>
       <m:P30117>Günter Grass ; oversatt av Trygve Greiff</m:P30117>
       <e:P20001>Text</e:P20001>
+      <w:P10223>Blikktrommen</w:P10223>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8205115710"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8252510418"/>
       <bibframe:hasInstance rdf:resource="http://example.org/57773119X"/>
@@ -16045,6 +16070,7 @@
       <m:P30117>Günter Grass. [Trad. directa de Carlos Gerhard]</m:P30117>
       <m:P30117>Günter Grass. [Trad.: Joaquín Mortiz]</m:P30117>
       <e:P20001>text</e:P20001>
+      <w:P10223>El tambor de hojalata</w:P10223>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8422681064"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8402066852"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8420425087"/>
@@ -16075,7 +16101,7 @@
       <w:P10088>Die Blechtrommel</w:P10088>
       <m:P30156>Blecktrumman</m:P30156>
       <m:P30117>Günter Grass. [Övers. av Nils Holmberg]</m:P30117>
-      <m:P30156>[Roman]</m:P30156>
+      <m:P30142>[Roman]</m:P30142>
       <e:P20001>Text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9174582186"/>
       <bibframe:hasInstance rdf:resource="http://example.org/577731238"/>
@@ -16088,7 +16114,7 @@
       <e:P20006>eng</e:P20006>
       <w:P10088>Fortsetzung folgt</w:P10088>
       <m:P30156>Nobel lecture</m:P30156>
-      <m:P30156>7 December 1999 ; [to be continued ...]</m:P30156>
+      <m:P30142>7 December 1999 ; [to be continued ...]</m:P30142>
       <m:P30117>Günter Grass. [Transl. from German by Michael Henry Heim]</m:P30117>
       <e:P20001>Text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9781906100100"/>
@@ -16098,9 +16124,9 @@
       <e:P20006>ger</e:P20006>
       <w:P10088>Fortsetzung folgt</w:P10088>
       <m:P30156>Fortsetzung folgt- ;</m:P30156>
-      <m:P30156>Literatur und Geschichte /</m:P30156>
-      <m:P30117>Günter Grass.</m:P30117>
-      <m:P30156>[Rede anlässlich der Verleihung des Nobelpreises für Literatur]</m:P30156>
+      <m:P30142>Literatur und Geschichte</m:P30142>
+      <m:P30117>Günter Grass</m:P30117>
+      <m:P30142>[Rede anlässlich der Verleihung des Nobelpreises für Literatur]</m:P30142>
       <e:P20001>text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:3882437014"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783882437010"/>
@@ -16108,18 +16134,20 @@
    </bibframe:Work>
    <bibframe:Work rdf:about="http://viaf.org/viaf/198560112">
       <w:P10088>Unkenrufe</w:P10088>
+      <w:P10025 rdf:resource="https://www.imdb.com/title/tt0420289//ger"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/102319859"/>
       <w:P10065 rdf:resource="http://viaf.org/viaf/102319859"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://viaf.org/viaf/198560112/eng">
       <e:P20006>eng</e:P20006>
       <w:P10088>Unkenrufe</w:P10088>
-      <m:P30156>The call of the toad /</m:P30156>
-      <m:P30117>Günter Grass.</m:P30117>
-      <m:P30117>Günter Grass ; translated from the German by Ralph Manheim.</m:P30117>
+      <m:P30156>The call of the toad</m:P30156>
+      <m:P30117>Günter Grass</m:P30117>
+      <m:P30117>Günter Grass ; translated from the German by Ralph Manheim</m:P30117>
       <m:P30117>Günter Grass. Transl. by Ralph Manheim</m:P30117>
       <m:P30117>Günter Grass. Transl. from the German by Ralph Manheim</m:P30117>
       <e:P20001>text</e:P20001>
+      <w:P10223>The Call of the Toad</w:P10223>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9781448180066"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:0436200643"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:0151257434"/>
@@ -16129,10 +16157,10 @@
    <bibframe:Work rdf:about="http://viaf.org/viaf/198560112/ger">
       <e:P20006>ger</e:P20006>
       <w:P10088>Unkenrufe</w:P10088>
-      <m:P30156>Unkenrufe :</m:P30156>
-      <m:P30156>eine Erzählung /</m:P30156>
-      <m:P30117>Günter Grass.</m:P30117>
-      <m:P30156>Erzählung</m:P30156>
+      <m:P30156>Unkenrufe</m:P30156>
+      <m:P30142>eine Erzählung</m:P30142>
+      <m:P30117>Günter Grass</m:P30117>
+      <m:P30142>Erzählung</m:P30142>
       <e:P20001>text</e:P20001>
       <e:P20001>spoken word</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:3882432225"/>
@@ -16155,6 +16183,7 @@
       <m:P30117>Günter Grass ; [traducción, Miguel Sáenz]</m:P30117>
       <m:P30117>Günter Grass. Trad. de Miguel Sáenz</m:P30117>
       <e:P20001>text</e:P20001>
+      <w:P10223>Malos presagios</w:P10223>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8422642565"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8420426970"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9788466333368"/>
@@ -16169,9 +16198,9 @@
    <bibframe:Work rdf:about="http://viaf.org/viaf/198568192/ger">
       <e:P20006>ger</e:P20006>
       <w:P10088>Totes Holz</w:P10088>
-      <m:P30156>Totes Holz :</m:P30156>
-      <m:P30156>ein Nachruf /</m:P30156>
-      <m:P30117>Günter Grass.</m:P30117>
+      <m:P30156>Totes Holz</m:P30156>
+      <m:P30142>ein Nachruf</m:P30142>
+      <m:P30117>Günter Grass</m:P30117>
       <e:P20001>text</e:P20001>
       <e:P20001>unbewegtes Bild</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:3882431555"/>
@@ -16183,9 +16212,9 @@
    <bibframe:Work rdf:about="http://viaf.org/viaf/2078151433029956420003/ger">
       <e:P20006>ger</e:P20006>
       <w:P10088>Vatertag</w:P10088>
-      <m:P30156>Vatertag /</m:P30156>
-      <m:P30117>Günter Grass.</m:P30117>
-      <m:P30156>[22 Lithogr. zu "Vatertag" aus d. Roman "Der Butt"]</m:P30156>
+      <m:P30156>Vatertag</m:P30156>
+      <m:P30117>Günter Grass</m:P30117>
+      <m:P30142>[22 Lithogr. zu "Vatertag" aus d. Roman "Der Butt"]</m:P30142>
       <e:P20001>text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:3882436549"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783882436549"/>
@@ -16200,12 +16229,13 @@
       <w:P10088>Der Butt</w:P10088>
       <w:P10061 rdf:resource="http://viaf.org/viaf/102319859"/>
       <w:P10065 rdf:resource="http://viaf.org/viaf/102319859"/>
+      <w:P10115 rdf:resource="http://example.org/adventuresofaflounder/eng"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://viaf.org/viaf/213148121/dut">
       <e:P20006>dut</e:P20006>
       <w:P10088>Der Butt</w:P10088>
       <m:P30156>De bot</m:P30156>
-      <m:P30156>roman</m:P30156>
+      <m:P30142>roman</m:P30142>
       <m:P30117>Günter Grass. Vert. [uit het Duits] door Peter Kaaij</m:P30117>
       <e:P20001>Text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/1029801258"/>
@@ -16216,14 +16246,15 @@
       <e:P20006>eng</e:P20006>
       <w:P10088>Der Butt</w:P10088>
       <w:P10088>Butt</w:P10088>
-      <m:P30156>The flounder /</m:P30156>
-      <m:P30117>Günter Grass ; translated from the German by Ralph Manheim.</m:P30117>
-      <m:P30117>trans by Ralph Manheim.</m:P30117>
-      <m:P30117>Gunter Grass ; translated from the German by Ralph Manheim.</m:P30117>
+      <m:P30156>The flounder</m:P30156>
+      <m:P30117>Günter Grass ; translated from the German by Ralph Manheim</m:P30117>
+      <m:P30117>trans by Ralph Manheim</m:P30117>
+      <m:P30117>Gunter Grass ; translated from the German by Ralph Manheim</m:P30117>
       <m:P30117>Written and illustrated by Günter Grass. Translated by Ralph Manheim</m:P30117>
       <m:P30117>Günter Grass. Transl. from the German by Ralph Manheim</m:P30117>
       <m:P30117>Günter Grass. Transl. by Ralph Manheim</m:P30117>
       <e:P20001>text</e:P20001>
+      <w:P10223>The Flounder</w:P10223>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:0436187868"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:0151314861"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9781448180097"/>
@@ -16244,12 +16275,13 @@
    <bibframe:Work rdf:about="http://viaf.org/viaf/213148121/fre">
       <e:P20006>fre</e:P20006>
       <w:P10088>Der Butt</w:P10088>
-      <m:P30156>Le Turbot /</m:P30156>
-      <m:P30117>Trans by Jean Amster from German.</m:P30117>
-      <m:P30156>Roman</m:P30156>
+      <m:P30156>Le Turbot</m:P30156>
+      <m:P30117>Trans by Jean Amster from German</m:P30117>
+      <m:P30142>Roman</m:P30142>
       <m:P30117>Günther Grass. Traduit de l'allemand par Jean Amsler</m:P30117>
       <m:P30117>Günter Grass. Trad. de l'allemand par Jean Amsler</m:P30117>
       <e:P20001>text</e:P20001>
+      <w:P10223>Le Turbot</w:P10223>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:202005132"/>
       <bibframe:hasInstance rdf:resource="http://example.org/1007515872"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:2245011856"/>
@@ -16261,8 +16293,8 @@
    <bibframe:Work rdf:about="http://viaf.org/viaf/213148121/ger">
       <e:P20006>ger</e:P20006>
       <w:P10088>Der Butt</w:P10088>
-      <m:P30156>Der Butt :</m:P30156>
-      <m:P30156>Roman.</m:P30156>
+      <m:P30156>Der Butt</m:P30156>
+      <m:P30142>Roman</m:P30142>
       <m:P30117>Günter Grass</m:P30117>
       <m:P30117>Günter Grass. Hrsg. von Claudia Mayer-Iswandy</m:P30117>
       <m:P30117>Günter Grass. Mit Radierungen von Günter Grass und einem Nachw. von Rolf Michaelis</m:P30117>
@@ -16308,10 +16340,11 @@
       <e:P20006>nob</e:P20006>
       <w:P10088>Der Butt</w:P10088>
       <m:P30156>Flyndra</m:P30156>
-      <m:P30156>roman</m:P30156>
+      <m:P30142>roman</m:P30142>
       <m:P30117>Günter Grass. Overs. av Kjell Risvik</m:P30117>
       <m:P30117>Günter Grass ; oversatt av Kjell Risvik</m:P30117>
       <e:P20001>Text</e:P20001>
+      <w:P10223>Flyndra</w:P10223>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8205112347"/>
       <e:P20037 rdf:resource="http://viaf.org/viaf/66142208"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/102319859"/>
@@ -16348,6 +16381,7 @@
       <m:P30117>Günter Grass. Trad. de Miguel Sáenz</m:P30117>
       <m:P30117>Günther Grass. Trad. Miguel Saenz</m:P30117>
       <e:P20001>text</e:P20001>
+      <w:P10223>El rodaballo</w:P10223>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9788466330930"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8420425079"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9788420423838"/>
@@ -16376,13 +16410,13 @@
    <bibframe:Work rdf:about="http://viaf.org/viaf/272405923/dieblechtrommel/ger">
       <e:P20006>ger</e:P20006>
       <w:P10088>Die Blechtrommel von Günter Grass</w:P10088>
-      <m:P30156>Die Blechtrommel von Günter Grass.</m:P30156>
-      <m:P30156>Textanalyse und Interpretation mit ausführlicher Inhaltsangabe und Abituraufgaben mit Lösungen</m:P30156>
+      <m:P30156>Die Blechtrommel von Günter Grass</m:P30156>
+      <m:P30142>Textanalyse und Interpretation mit ausführlicher Inhaltsangabe und Abituraufgaben mit Lösungen</m:P30142>
       <m:P30117>Günter Grass</m:P30117>
       <e:P20001>Text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783804469761"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/272405923"/>
-      <w:guideToWork.en rdf:resource="http://viaf.org/viaf/179378125"/>
+      <w:P10150 rdf:resource="http://viaf.org/viaf/179378125"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://viaf.org/viaf/272405923/erlauterungenzuguntergrassdieblechtrommel/ger">
       <e:P20006>ger</e:P20006>
@@ -16426,29 +16460,29 @@
       <e:P20006>ger</e:P20006>
       <w:P10088>Grass, Hundejahre</w:P10088>
       <m:P30156>Grass, Hundejahre</m:P30156>
-      <m:P30156>Lektüre- und Interpretationshilfe</m:P30156>
+      <m:P30142>Lektüre- und Interpretationshilfe</m:P30142>
       <m:P30117>Günter Grass</m:P30117>
       <e:P20001>Text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783804458277"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/272405923"/>
-      <w:guideToWork.en rdf:resource="http://www.wikidata.org/entity/Q499564"/>
+      <w:P10150 rdf:resource="http://www.wikidata.org/entity/Q499564"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://viaf.org/viaf/272405923/grassimkrebsgang/ger">
       <e:P20006>ger</e:P20006>
       <w:P10088>Grass, Im Krebsgang</w:P10088>
       <m:P30156>Grass, Im Krebsgang</m:P30156>
-      <m:P30156>Lektüre- und Interpretationshilfe</m:P30156>
+      <m:P30142>Lektüre- und Interpretationshilfe</m:P30142>
       <m:P30117>Günter Grass</m:P30117>
       <e:P20001>Text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783804458543"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/272405923"/>
-      <w:guideToWork.en rdf:resource="http://www.wikidata.org/entity/Q1460598"/>
+      <w:P10150 rdf:resource="http://www.wikidata.org/entity/Q1460598"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://viaf.org/viaf/307985080/ger">
       <e:P20006>ger</e:P20006>
       <w:P10088>Dummer August</w:P10088>
-      <m:P30156>Dummer August /</m:P30156>
-      <m:P30117>Günter Grass.</m:P30117>
+      <m:P30156>Dummer August</m:P30156>
+      <m:P30117>Günter Grass</m:P30117>
       <e:P20001>text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783865214218"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/102319859"/>
@@ -16458,9 +16492,10 @@
       <w:P10088>Dummer August</w:P10088>
       <m:P30156>Payaso de Agosto</m:P30156>
       <m:P30117>Günter Grass ; traducción de Miguel Sáenz ; con la colaboración de Grita Loebsack)</m:P30117>
-      <m:P30156>[edición bilingüe]</m:P30156>
+      <m:P30142>[edición bilingüe]</m:P30142>
       <m:P30117>Günter Grass. Trad. de Miguel Sáenz (con la colab. de Grita Loebsack)</m:P30117>
       <e:P20001>text</e:P20001>
+      <w:P10223>Payaso de Agosto</w:P10223>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9788495408884"/>
       <e:P20037 rdf:resource="http://viaf.org/viaf/22322043"/>
       <e:P20037 rdf:resource="http://example.org/loebsackgrita"/>
@@ -16469,12 +16504,13 @@
    <bibframe:Work rdf:about="http://viaf.org/viaf/309497759/eng">
       <e:P20006>eng</e:P20006>
       <w:P10088>Deutscher Lastenausgleich</w:P10088>
-      <m:P30156>Two states - one nation?.</m:P30156>
-      <m:P30117>Günter Grass ; translated from the German and annotated by Krishna Winston with A. S. Wensinger.</m:P30117>
-      <m:P30156>[The case against German reunification]</m:P30156>
+      <m:P30156>Two states - one nation?</m:P30156>
+      <m:P30117>Günter Grass ; translated from the German and annotated by Krishna Winston with A. S. Wensinger</m:P30117>
+      <m:P30142>[The case against German reunification]</m:P30142>
       <m:P30117>Günter Grass. Transl. from the German and annot. by Krishna Winston with A. S. Wensinger</m:P30117>
       <m:P30117>Günter Grass. Transl. from the German by Krishna Winston with A. S. Wensinger</m:P30117>
       <e:P20001>text</e:P20001>
+      <w:P10223>Two states--one nation</w:P10223>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:0436200171"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:0156920603"/>
       <e:P20037 rdf:resource="http://example.org/winstonkrishna"/>
@@ -16483,9 +16519,9 @@
    <bibframe:Work rdf:about="http://viaf.org/viaf/309497759/ger">
       <e:P20006>ger</e:P20006>
       <w:P10088>Deutscher Lastenausgleich</w:P10088>
-      <m:P30156>Deutscher Lastenausgleich :</m:P30156>
-      <m:P30156>wider das dumpfe Einheitsgebot : Reden und Gespräche /</m:P30156>
-      <m:P30117>Günter Grass.</m:P30117>
+      <m:P30156>Deutscher Lastenausgleich</m:P30156>
+      <m:P30142>wider das dumpfe Einheitsgebot : Reden und Gespräche</m:P30142>
+      <m:P30117>Günter Grass</m:P30117>
       <e:P20001>text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:3630619215"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783351017682"/>
@@ -16503,10 +16539,11 @@
    <bibframe:Work rdf:about="http://viaf.org/viaf/312508045/eng">
       <e:P20006>eng</e:P20006>
       <w:P10088>Davor</w:P10088>
-      <m:P30156>Max :</m:P30156>
-      <m:P30156>a play.</m:P30156>
+      <m:P30156>Max</m:P30156>
+      <m:P30142>a play</m:P30142>
       <m:P30117>Günter Grass. Transl. by A. Leslie Willson ; Ralph Manheim</m:P30117>
       <e:P20001>text</e:P20001>
+      <w:P10223>Max</w:P10223>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:0156577828"/>
       <bibframe:hasInstance rdf:resource="http://example.org/578551969"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/102319859"/>
@@ -16524,9 +16561,9 @@
    <bibframe:Work rdf:about="http://viaf.org/viaf/315591424/ger">
       <e:P20006>ger</e:P20006>
       <w:P10088>Vier Jahrzehnte</w:P10088>
-      <m:P30156>Vier Jahrzehnte :</m:P30156>
-      <m:P30156>ein Werkstattbericht /</m:P30156>
-      <m:P30117>Günter Grass ; herausgegeben von G. Fritze Margull.</m:P30117>
+      <m:P30156>Vier Jahrzehnte</m:P30156>
+      <m:P30142>ein Werkstattbericht</m:P30142>
+      <m:P30117>Günter Grass ; herausgegeben von G. Fritze Margull</m:P30117>
       <m:P30117>Günter Grass. Hrsg. von G. Fritze Margull</m:P30117>
       <e:P20001>text</e:P20001>
       <e:P20001>unbewegtes Bild</e:P20001>
@@ -16539,9 +16576,9 @@
    <bibframe:Work rdf:about="http://viaf.org/viaf/316730448/ger">
       <e:P20006>ger</e:P20006>
       <w:P10088>Gestern, vor 50 Jahren</w:P10088>
-      <m:P30156>Gestern, vor 50 Jahren :</m:P30156>
-      <m:P30156>ein deutsch-japanischer Briefwechsel /</m:P30156>
-      <m:P30117>Günter Grass, Kenzaburô Ôe ; Übersetzung der Briefe von Kenzaburô Ôe aus dem Japanischen von Otto Putz.</m:P30117>
+      <m:P30156>Gestern, vor 50 Jahren</m:P30156>
+      <m:P30142>ein deutsch-japanischer Briefwechsel</m:P30142>
+      <m:P30117>Günter Grass, Kenzaburô Ôe ; Übersetzung der Briefe von Kenzaburô Ôe aus dem Japanischen von Otto Putz</m:P30117>
       <e:P20001>text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:3882433868"/>
       <e:P20053 rdf:resource="http://example.org/oekenzaburo"/>
@@ -16567,7 +16604,7 @@
       <e:P20006>ger</e:P20006>
       <w:P10088>Die "Danziger Trilogie" von Günter Grass</w:P10088>
       <m:P30156>Die "Danziger Trilogie" von Günter Grass</m:P30156>
-      <m:P30156>Texte, Daten, Bilder</m:P30156>
+      <m:P30142>Texte, Daten, Bilder</m:P30142>
       <m:P30117>hrsg. von Volker Neuhaus ; Daniela Hermes</m:P30117>
       <e:P20001>Text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783630619798"/>
@@ -16577,10 +16614,10 @@
    <bibframe:Work rdf:about="http://viaf.org/viaf/61606726/guntergrassdieblechtrommel/ger">
       <e:P20006>ger</e:P20006>
       <w:P10088>Günter Grass, Die Blechtrommel</w:P10088>
-      <m:P30156>Günter Grass, Die Blechtrommel :</m:P30156>
-      <m:P30156>Interpretation /</m:P30156>
-      <m:P30117>von Volker Neuhaus.</m:P30117>
-      <m:P30156>Kommentar und Materialien</m:P30156>
+      <m:P30156>Günter Grass, Die Blechtrommel</m:P30156>
+      <m:P30142>Interpretation</m:P30142>
+      <m:P30117>von Volker Neuhaus</m:P30117>
+      <m:P30142>Kommentar und Materialien</m:P30142>
       <m:P30117>Volker Neuhaus</m:P30117>
       <e:P20001>text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:3486199714"/>
@@ -16595,7 +16632,7 @@
       <e:P20006>ger</e:P20006>
       <w:P10088>Günter Grass - Hundejahre</w:P10088>
       <m:P30156>Günter Grass - Hundejahre</m:P30156>
-      <m:P30156>Kommentar und Materialien</m:P30156>
+      <m:P30142>Kommentar und Materialien</m:P30142>
       <m:P30117>Volker Neuhaus</m:P30117>
       <e:P20001>Text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783865215727"/>
@@ -16605,7 +16642,7 @@
       <e:P20006>ger</e:P20006>
       <w:P10088>Günter Grass - Katz und Maus</w:P10088>
       <m:P30156>Günter Grass - Katz und Maus</m:P30156>
-      <m:P30156>Kommentar und Materialien</m:P30156>
+      <m:P30142>Kommentar und Materialien</m:P30142>
       <m:P30117>Volker Neuhaus</m:P30117>
       <e:P20001>Text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783865215710"/>
@@ -16614,12 +16651,12 @@
    <bibframe:Work rdf:about="http://viaf.org/viaf/6194148269702405230001/ger">
       <e:P20006>ger</e:P20006>
       <w:P10088>Grimms Wörter</w:P10088>
-      <m:P30156>Grimms Wörter :</m:P30156>
-      <m:P30156>eine Liebserklärung /</m:P30156>
-      <m:P30117>Günter Grass.</m:P30117>
+      <m:P30156>Grimms Wörter</m:P30156>
+      <m:P30142>eine Liebserklärung</m:P30142>
+      <m:P30117>Günter Grass</m:P30117>
       <m:P30156>Nora Gomringer und Günter Baby Sommer: Grimms Wörter</m:P30156>
       <m:P30117>von Günter Grass</m:P30117>
-      <m:P30156>eine Liebeserklärung</m:P30156>
+      <m:P30142>eine Liebeserklärung</m:P30142>
       <m:P30156>GRIMMS WÖRTER von Günter Grass</m:P30156>
       <e:P20001>text</e:P20001>
       <e:P20001>spoken word</e:P20001>
@@ -16652,10 +16689,11 @@
    <bibframe:Work rdf:about="http://www.wikidata.org/entity/Q1254354/eng">
       <e:P20006>eng</e:P20006>
       <w:P10088>Ein weites Feld</w:P10088>
-      <m:P30156>Too far afield /</m:P30156>
-      <m:P30117>Günter Grass ; translated from the German by Krishna Winston.</m:P30117>
+      <m:P30156>Too far afield</m:P30156>
+      <m:P30117>Günter Grass ; translated from the German by Krishna Winston</m:P30117>
       <m:P30117>Günter Grass. Transl. from the German by Krishna Winston</m:P30117>
       <e:P20001>text</e:P20001>
+      <w:P10223>Too Far Afield</w:P10223>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:0571190162"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:0151002304"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:0571206646"/>
@@ -16665,9 +16703,9 @@
    <bibframe:Work rdf:about="http://www.wikidata.org/entity/Q1254354/ger">
       <e:P20006>ger</e:P20006>
       <w:P10088>Ein weites Feld</w:P10088>
-      <m:P30156>Ein weites Feld :</m:P30156>
-      <m:P30156>Roman /</m:P30156>
-      <m:P30117>Günter Grass.</m:P30117>
+      <m:P30156>Ein weites Feld</m:P30156>
+      <m:P30142>Roman</m:P30142>
+      <m:P30117>Günter Grass</m:P30117>
       <m:P30117>Günter Grass. Mit Ill. von Günter Grass</m:P30117>
       <e:P20001>text</e:P20001>
       <e:P20001>spoken word</e:P20001>
@@ -16692,6 +16730,7 @@
       <m:P30156>En lang historie</m:P30156>
       <m:P30117>Günter Grass ; oversatt og med et etterord av Kjell Risvik</m:P30117>
       <e:P20001>text</e:P20001>
+      <w:P10223>En lang historie</w:P10223>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8205238987"/>
       <e:P20037 rdf:resource="http://viaf.org/viaf/66142208"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/102319859"/>
@@ -16704,6 +16743,7 @@
       <m:P30117>Günter Grass ; traducción del alemán de Miguel Sáenz (con la colaboración de Grita Löbsack)</m:P30117>
       <m:P30117>Günter Grass. Trad. de Miguel Sáenz (con la colab. de Grita Löbsack)</m:P30117>
       <e:P20001>text</e:P20001>
+      <w:P10223>Es cuento largo</w:P10223>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8420428388"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8422667835"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9788466330909"/>
@@ -16716,14 +16756,16 @@
       <w:P10088>Im Krebsgang</w:P10088>
       <w:P10061 rdf:resource="http://viaf.org/viaf/102319859"/>
       <w:P10065 rdf:resource="http://viaf.org/viaf/102319859"/>
+      <w:P10124 rdf:resource="http://viaf.org/viaf/272405923/grassimkrebsgang/ger"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://www.wikidata.org/entity/Q1460598/eng">
       <e:P20006>eng</e:P20006>
       <w:P10088>Im Krebsgang</w:P10088>
-      <m:P30156>Crabwalk /</m:P30156>
-      <m:P30117>Günter Grass ; translated from the German by Krishna Winston.</m:P30117>
+      <m:P30156>Crabwalk</m:P30156>
+      <m:P30117>Günter Grass ; translated from the German by Krishna Winston</m:P30117>
       <m:P30117>Günter Grass. Transl. from the German by Krishna Winston</m:P30117>
       <e:P20001>text</e:P20001>
+      <w:P10223>Crabwalk</w:P10223>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:0571216501"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:0571216528"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:0151007640"/>
@@ -16733,9 +16775,9 @@
    <bibframe:Work rdf:about="http://www.wikidata.org/entity/Q1460598/ger">
       <e:P20006>ger</e:P20006>
       <w:P10088>Im Krebsgang</w:P10088>
-      <m:P30156>Im Krebsgang :</m:P30156>
-      <m:P30156>eine Novelle /</m:P30156>
-      <m:P30117>Günter Grass.</m:P30117>
+      <m:P30156>Im Krebsgang</m:P30156>
+      <m:P30142>eine Novelle</m:P30142>
+      <m:P30117>Günter Grass</m:P30117>
       <e:P20001>text</e:P20001>
       <e:P20001>spoken word</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:3882438002"/>
@@ -16752,10 +16794,11 @@
    <bibframe:Work rdf:about="http://www.wikidata.org/entity/Q1460598/nob">
       <e:P20006>nob</e:P20006>
       <w:P10088>Im Krebsgang</w:P10088>
-      <m:P30156>I krabbegang :</m:P30156>
-      <m:P30156>en novelle</m:P30156>
+      <m:P30156>I krabbegang</m:P30156>
+      <m:P30142>en novelle</m:P30142>
       <m:P30117>Günter Grass ; oversatt fra tysk av Kjell Risvik</m:P30117>
       <e:P20001>text</e:P20001>
+      <w:P10223>I krabbegang</w:P10223>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8252548946"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8205310793"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8205312435"/>
@@ -16772,6 +16815,7 @@
       <m:P30117>Günter Grass. Trad. de Miguel Sáenz (con la colaboración de Grita Loebsack)</m:P30117>
       <m:P30117>Günter Grass ; traducción Miguel Sáenz (con la colaboración de Grita Löbsack)</m:P30117>
       <e:P20001>text</e:P20001>
+      <w:P10223>A paso de cangrejo</w:P10223>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9788466333375"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8466312935"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8420464589"/>
@@ -16787,11 +16831,11 @@
    <bibframe:Work rdf:about="http://www.wikidata.org/entity/Q15805843/ger">
       <e:P20006>ger</e:P20006>
       <w:P10088>Die Vorzüge der Windhühner</w:P10088>
-      <m:P30156>Die Vorzüge der Windhühner.</m:P30156>
+      <m:P30156>Die Vorzüge der Windhühner</m:P30156>
       <m:P30117>Günter Grass</m:P30117>
-      <m:P30156>[Gedichte und Zeichnungen]</m:P30156>
+      <m:P30142>[Gedichte und Zeichnungen]</m:P30142>
       <m:P30117>Günter Grass. [Zeichn. von Günter Grass]</m:P30117>
-      <m:P30156>Gedichte</m:P30156>
+      <m:P30142>Gedichte</m:P30142>
       <m:P30117>Günter Grass. Mit 3 Orig.-Lithogr. und 7 Ill. nach Bleistiftzeichn. auf Pergament von Johannes Grützke. Buchausstattung von Juergen Seuss</m:P30117>
       <e:P20001>text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/001489774"/>
@@ -16823,10 +16867,11 @@
    <bibframe:Work rdf:about="http://www.wikidata.org/entity/Q1669964/eng">
       <e:P20006>eng</e:P20006>
       <w:P10088>Mein Jahrhundert</w:P10088>
-      <m:P30156>My century /</m:P30156>
-      <m:P30117>Günter Grass ; translated by Michael Henry Heim.</m:P30117>
+      <m:P30156>My century</m:P30156>
+      <m:P30117>Günter Grass ; translated by Michael Henry Heim</m:P30117>
       <m:P30117>Günter Grass. Transl. by Michael Henry Heim</m:P30117>
       <e:P20001>text</e:P20001>
+      <w:P10223>My Century</w:P10223>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:0571200990"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:0571203124"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:015100496"/>
@@ -16835,10 +16880,10 @@
    <bibframe:Work rdf:about="http://www.wikidata.org/entity/Q1669964/ger">
       <e:P20006>ger</e:P20006>
       <w:P10088>Mein Jahrhundert</w:P10088>
-      <m:P30156>Mein Jahrhundert /</m:P30156>
-      <m:P30117>Günter Grass.</m:P30117>
+      <m:P30156>Mein Jahrhundert</m:P30156>
+      <m:P30117>Günter Grass</m:P30117>
       <m:P30156>Secolul meu</m:P30156>
-      <m:P30156>[povestiri]</m:P30156>
+      <m:P30142>[povestiri]</m:P30142>
       <m:P30117>Günter Grass ; traducere din limba germană şi note de Gabriella Eftimie</m:P30117>
       <e:P20001>text</e:P20001>
       <e:P20001>unbewegtes Bild</e:P20001>
@@ -16875,6 +16920,7 @@
       <m:P30156>Mitt århundre</m:P30156>
       <m:P30117>Günter Grass ; oversatt fra tysk av Kjell Risvik</m:P30117>
       <e:P20001>text</e:P20001>
+      <w:P10223>Mitt århundre</w:P10223>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8205267715"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8205299749"/>
       <e:P20037 rdf:resource="http://viaf.org/viaf/66142208"/>
@@ -16892,6 +16938,7 @@
       <m:P30117>Günter Grass. Trad. de Miguel Sáenz (con la colaboración de Grita Löbsack)</m:P30117>
       <m:P30117>Günter Grass ; traducción del alemán de Miguel Sáenz (con la colaboración de Grita Löbsack) = Mein Jahrhundert &lt;spanisch&gt;</m:P30117>
       <e:P20001>text</e:P20001>
+      <w:P10223>Mi siglo</w:P10223>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8420442038"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9788466369237"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8466301909"/>
@@ -16928,7 +16975,7 @@
       <e:P20006>cze</e:P20006>
       <w:P10088>Katz und Maus</w:P10088>
       <m:P30156>Kočka a myš</m:P30156>
-      <m:P30156>Novela</m:P30156>
+      <m:P30142>Novela</m:P30142>
       <m:P30117>Günter Grass. [Z něm. orig. přel., poznámku napsal ... Zbyněk Sekal]</m:P30117>
       <e:P20001>Text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/365919063"/>
@@ -16940,7 +16987,7 @@
       <w:P10088>Katz und Maus</w:P10088>
       <m:P30156>Kat og mus</m:P30156>
       <m:P30117>Günter Grass. P°a dansk ved Mogens Boisen</m:P30117>
-      <m:P30156>[Overs. fra tysk]</m:P30156>
+      <m:P30142>[Overs. fra tysk]</m:P30142>
       <e:P20001>Text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8701717413"/>
       <bibframe:hasInstance rdf:resource="http://example.org/577731343"/>
@@ -16952,10 +16999,10 @@
       <e:P20006>dut</e:P20006>
       <w:P10088>Katz und Maus</w:P10088>
       <m:P30156>Kat en muis</m:P30156>
-      <m:P30156>novelle</m:P30156>
+      <m:P30142>novelle</m:P30142>
       <m:P30117>Günter Grass. Vertaling Hermien Manger</m:P30117>
       <m:P30117>Günter Grass. Vert. door Hermien Manger</m:P30117>
-      <m:P30156>een novelle</m:P30156>
+      <m:P30142>een novelle</m:P30142>
       <m:P30117>Günter Grass. [Vertr.: Hermien Manger]</m:P30117>
       <e:P20001>Text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9029004665"/>
@@ -16967,17 +17014,18 @@
    <bibframe:Work rdf:about="http://www.wikidata.org/entity/Q1736859/eng">
       <e:P20006>eng</e:P20006>
       <w:P10088>Katz und Maus</w:P10088>
-      <m:P30156>Cat and mouse :</m:P30156>
-      <m:P30156>a novel /</m:P30156>
-      <m:P30117>by Günter Grass ; translated from the German by Ralph Manheim.</m:P30117>
-      <m:P30156>Katz und Maus.</m:P30156>
-      <m:P30117>Günter Grass.</m:P30117>
-      <m:P30117>Günter Grass ; translated from the German by Ralph Manheim.</m:P30117>
+      <m:P30156>Cat and mouse</m:P30156>
+      <m:P30142>a novel</m:P30142>
+      <m:P30117>by Günter Grass ; translated from the German by Ralph Manheim</m:P30117>
+      <m:P30156>Katz und Maus</m:P30156>
+      <m:P30117>Günter Grass</m:P30117>
+      <m:P30117>Günter Grass ; translated from the German by Ralph Manheim</m:P30117>
       <m:P30117>Günter Grass. Transl. from the German by Ralph Manheim</m:P30117>
       <m:P30117>by Günter Grass. Transl. from the German by Ralph Manheim</m:P30117>
       <m:P30117>Günter Grass. Transl. by Ralph Manheim</m:P30117>
-      <m:P30156>[Complete and unabridged]</m:P30156>
+      <m:P30142>[Complete and unabridged]</m:P30142>
       <e:P20001>text</e:P20001>
+      <w:P10223>Cat and Mouse</w:P10223>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:0436187809"/>
       <bibframe:hasInstance rdf:resource="http://example.org/014144731"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:0140025421"/>
@@ -16996,7 +17044,7 @@
       <e:P20006>fin</e:P20006>
       <w:P10088>Katz und Maus</w:P10088>
       <m:P30156>Kissa ja hiiri</m:P30156>
-      <m:P30156>kertomus</m:P30156>
+      <m:P30142>kertomus</m:P30142>
       <m:P30117>Günter Grass. Suomentanut Aarno Peromies</m:P30117>
       <m:P30117>Günter Grass. Saksan kielestä suomentanut Aarno Peromies</m:P30117>
       <e:P20001>Text</e:P20001>
@@ -17009,10 +17057,11 @@
       <e:P20006>fre</e:P20006>
       <w:P10088>Katz und Maus</w:P10088>
       <m:P30156>Le chat et la souris</m:P30156>
-      <m:P30156>roman</m:P30156>
+      <m:P30142>roman</m:P30142>
       <m:P30117>Günter Grass. Trad. de l'allemand par Jean Amsler</m:P30117>
-      <m:P30156>Roman ; [Texte intégral]</m:P30156>
+      <m:P30142>Roman ; [Texte intégral]</m:P30142>
       <e:P20001>Text</e:P20001>
+      <w:P10223>Le Chat et la Souris</w:P10223>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:2020067714"/>
       <bibframe:hasInstance rdf:resource="http://example.org/365919004"/>
       <bibframe:hasInstance rdf:resource="http://example.org/577731394"/>
@@ -17022,16 +17071,16 @@
    <bibframe:Work rdf:about="http://www.wikidata.org/entity/Q1736859/ger">
       <e:P20006>ger</e:P20006>
       <w:P10088>Katz und Maus</w:P10088>
-      <m:P30156>Katz und Maus /</m:P30156>
-      <m:P30117>ed. by Edgar Lohner.</m:P30117>
-      <m:P30156>e. Novelle</m:P30156>
+      <m:P30156>Katz und Maus</m:P30156>
+      <m:P30117>ed. by Edgar Lohner</m:P30117>
+      <m:P30142>e. Novelle</m:P30142>
       <m:P30117>Günter Grass</m:P30117>
-      <m:P30156>eine Novelle</m:P30156>
+      <m:P30142>eine Novelle</m:P30142>
       <m:P30117>Günter Grass. Mit Bildern von Jacky Gleich und einem Nachw. von Volker Neuhaus</m:P30117>
       <m:P30117>Günter Grass. Ed. by Edgar Lohner</m:P30117>
       <m:P30117>Günter Grass ; bearb. von Johannes John</m:P30117>
       <m:P30117>Günter Grass. Bearb. von Herbert Fuchs und Dieter Seiffert</m:P30117>
-      <m:P30117>Günter Grass. Mit einem dokumentarischen Anh.</m:P30117>
+      <m:P30117>Günter Grass. Mit einem dokumentarischen Anh</m:P30117>
       <m:P30117>Günter Grass. Mit Ill. von Günther Stiller</m:P30117>
       <m:P30117>Günter Grass. Ed. by H. F. Brookes and C. F. Fraenkel</m:P30117>
       <e:P20001>text</e:P20001>
@@ -17109,7 +17158,7 @@
       <e:P20006>ita</e:P20006>
       <w:P10088>Katz und Maus</w:P10088>
       <m:P30156>Gatto e topo</m:P30156>
-      <m:P30156>novella</m:P30156>
+      <m:P30142>novella</m:P30142>
       <m:P30117>Günter Grass. [Trad. dal tedesco di Enrico Filippini]</m:P30117>
       <e:P20001>Text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/577731416"/>
@@ -17130,10 +17179,11 @@
       <e:P20006>nob</e:P20006>
       <w:P10088>Katz und Maus</w:P10088>
       <m:P30156>Katt og mus</m:P30156>
-      <m:P30156>En novelle</m:P30156>
+      <m:P30142>En novelle</m:P30142>
       <m:P30117>Günter Grass. Overs. av Trygve Greiff</m:P30117>
       <m:P30117>Günter Grass ; oversatt av Trygve Greiff</m:P30117>
       <e:P20001>Text</e:P20001>
+      <w:P10223>Katt og mus</w:P10223>
       <bibframe:hasInstance rdf:resource="http://example.org/577731424"/>
       <bibframe:hasInstance rdf:resource="http://example.org/999218448084702201"/>
       <e:P20037 rdf:resource="http://example.org/greifftrygve"/>
@@ -17165,7 +17215,7 @@
       <e:P20006>rus</e:P20006>
       <w:P10088>Katz und Maus</w:P10088>
       <m:P30156>Koški-myški</m:P30156>
-      <m:P30156>povestʹ</m:P30156>
+      <m:P30142>povestʹ</m:P30142>
       <e:P20001>Text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/368944840"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/102319859"/>
@@ -17206,6 +17256,7 @@
       <m:P30117>Günter Grass, Premio Nobel de Literatura ; traducción de Carlos Gerhard</m:P30117>
       <m:P30117>Günter Grass. [Trad. directa de Carlos Gerhard]</m:P30117>
       <e:P20001>text</e:P20001>
+      <w:P10223>El gato y el ratón</w:P10223>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8447300730"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8470179357"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8420425141"/>
@@ -17227,7 +17278,7 @@
       <e:P20006>swe</e:P20006>
       <w:P10088>Katz und Maus</w:P10088>
       <m:P30156>Katt och r°atta</m:P30156>
-      <m:P30156>Roman</m:P30156>
+      <m:P30142>Roman</m:P30142>
       <m:P30117>Günter Grass. [Övers. av John W. Walldén]</m:P30117>
       <m:P30117>Günter Grass. [Övers. av John W. Wallden]</m:P30117>
       <e:P20001>Text</e:P20001>
@@ -17245,8 +17296,8 @@
    <bibframe:Work rdf:about="http://www.wikidata.org/entity/Q18336311/ger">
       <e:P20006>ger</e:P20006>
       <w:P10088>Letzte Tänze</w:P10088>
-      <m:P30156>Letzte Tänze /</m:P30156>
-      <m:P30117>Günter Grass.</m:P30117>
+      <m:P30156>Letzte Tänze</m:P30156>
+      <m:P30117>Günter Grass</m:P30117>
       <e:P20001>text</e:P20001>
       <e:P20001>unbewegtes Bild</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783882438826"/>
@@ -17280,7 +17331,7 @@
       <e:P20006>dan</e:P20006>
       <w:P10088>Das Treffen in Telgte</w:P10088>
       <m:P30156>Mødet i Telgte</m:P30156>
-      <m:P30156>en fortaelling</m:P30156>
+      <m:P30142>en fortaelling</m:P30142>
       <m:P30117>Günter Grass. På dansk ved Per Øhrgaard</m:P30117>
       <e:P20001>Text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8701935712"/>
@@ -17290,7 +17341,7 @@
       <e:P20006>dut</e:P20006>
       <w:P10088>Das Treffen in Telgte</w:P10088>
       <m:P30156>Trefpunt Telgte</m:P30156>
-      <m:P30156>een vertelling</m:P30156>
+      <m:P30142>een vertelling</m:P30142>
       <m:P30117>Günter Grass. Vert. [uit het Duits] door Peter Kaaij</m:P30117>
       <e:P20001>Text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9029011904"/>
@@ -17300,12 +17351,13 @@
    <bibframe:Work rdf:about="http://www.wikidata.org/entity/Q320933/eng">
       <e:P20006>eng</e:P20006>
       <w:P10088>Das Treffen in Telgte</w:P10088>
-      <m:P30156>The meeting at Telgte /</m:P30156>
-      <m:P30117>Günter Grass ; translated by Ralph Manheim ; afterword by Leonard Forster.</m:P30117>
-      <m:P30117>Günter Grass ; translated by Ralph Mannheim ; afterword by Leonard Forster.</m:P30117>
+      <m:P30156>The meeting at Telgte</m:P30156>
+      <m:P30117>Günter Grass ; translated by Ralph Manheim ; afterword by Leonard Forster</m:P30117>
+      <m:P30117>Günter Grass ; translated by Ralph Mannheim ; afterword by Leonard Forster</m:P30117>
       <m:P30117>Günter Grass. Transl. by Ralph Manheim. Afterword by Leonard Forster</m:P30117>
       <m:P30117>Günter Grass. Translated by Ralph Manheim</m:P30117>
       <e:P20001>text</e:P20001>
+      <w:P10223>The Meeting at Telgte</w:P10223>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:0436187787"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:014005488"/>
       <bibframe:hasInstance rdf:resource="http://example.org/1008574791"/>
@@ -17317,22 +17369,23 @@
       <e:P20006>fre</e:P20006>
       <w:P10088>Das Treffen in Telgte</w:P10088>
       <m:P30156>Une rencontre en Westphalie</m:P30156>
-      <m:P30156>roman</m:P30156>
+      <m:P30142>roman</m:P30142>
       <m:P30117>Günter Grass. Avertissement, notes et trad. de Jean Amsler</m:P30117>
       <e:P20001>Text</e:P20001>
+      <w:P10223>Une rencontre en Westphalie</w:P10223>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:2020057255"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/102319859"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://www.wikidata.org/entity/Q320933/ger">
       <e:P20006>ger</e:P20006>
       <w:P10088>Das Treffen in Telgte</w:P10088>
-      <m:P30156>Das Treffen in Telgte :</m:P30156>
-      <m:P30156>eine Erzählung /</m:P30156>
-      <m:P30117>Günter Grass.</m:P30117>
-      <m:P30156>e. Erzählung</m:P30156>
-      <m:P30156>Lesung mit Musik</m:P30156>
+      <m:P30156>Das Treffen in Telgte</m:P30156>
+      <m:P30142>eine Erzählung</m:P30142>
+      <m:P30117>Günter Grass</m:P30117>
+      <m:P30142>e. Erzählung</m:P30142>
+      <m:P30142>Lesung mit Musik</m:P30142>
       <m:P30117>Günter Grass. [Mit e. Vorbemerkung von Stephan Hermlin]</m:P30117>
-      <m:P30156>e. Erzählung u. 43 Gedichte aus d. Barock</m:P30156>
+      <m:P30142>e. Erzählung u. 43 Gedichte aus d. Barock</m:P30142>
       <e:P20001>text</e:P20001>
       <e:P20001>spoken word</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:347286480"/>
@@ -17378,10 +17431,11 @@
       <e:P20006>nob</e:P20006>
       <w:P10088>Das Treffen in Telgte</w:P10088>
       <m:P30156>Møtet i Telgte</m:P30156>
-      <m:P30156>en fortelling</m:P30156>
+      <m:P30142>en fortelling</m:P30142>
       <m:P30117>Günter Grass. Overs. av Kjell Risvik</m:P30117>
       <m:P30117>Günter Grass ; oversatt av Kjell Risvik</m:P30117>
       <e:P20001>Text</e:P20001>
+      <w:P10223>Møtet i Telgte: en fortelling</w:P10223>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8205123195"/>
       <e:P20037 rdf:resource="http://viaf.org/viaf/66142208"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/102319859"/>
@@ -17404,11 +17458,12 @@
       <m:P30117>Günter Grass. Trad. Genoveva Dieterich</m:P30117>
       <m:P30117>Günter Grass. Trad. María H. Gregor</m:P30117>
       <e:P20001>text</e:P20001>
+      <w:P10223>Encuentro en Telgte</w:P10223>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8401421179"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8420425214"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9788466333351"/>
       <bibframe:hasInstance rdf:resource="http://example.org/983065632"/>
-      <bibframe:partOf rdf:resource="http://example.org/lapcaracoraje/spa"/>
+      <bibframe:partOf rdf:resource="http://example.org/lapcaracorajelapcaracoraje/spa"/>
       <e:P20037 rdf:resource="http://example.org/dieterichgenoveva"/>
       <e:P20037 rdf:resource="http://example.org/gregormariah"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/102319859"/>
@@ -17417,12 +17472,13 @@
       <w:P10088>Hundejahre</w:P10088>
       <w:P10061 rdf:resource="http://viaf.org/viaf/102319859"/>
       <w:P10065 rdf:resource="http://viaf.org/viaf/102319859"/>
+      <w:P10124 rdf:resource="http://viaf.org/viaf/272405923/grasshundejahre/ger"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://www.wikidata.org/entity/Q499564/dan">
       <e:P20006>dan</e:P20006>
       <w:P10088>Hundejahre</w:P10088>
       <m:P30156>Hundeår</m:P30156>
-      <m:P30156>[Overs. fra tysk]</m:P30156>
+      <m:P30142>[Overs. fra tysk]</m:P30142>
       <m:P30117>Günter Grass. P°a dansk ved Mogens Boisen</m:P30117>
       <e:P20001>Text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/577731262"/>
@@ -17433,7 +17489,7 @@
       <e:P20006>dut</e:P20006>
       <w:P10088>Hundejahre</w:P10088>
       <m:P30156>Hondejaren</m:P30156>
-      <m:P30156>Roman</m:P30156>
+      <m:P30142>Roman</m:P30142>
       <m:P30117>Günter Grass. Vert. Koos Schuur</m:P30117>
       <e:P20001>Text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/577731300"/>
@@ -17444,14 +17500,15 @@
    <bibframe:Work rdf:about="http://www.wikidata.org/entity/Q499564/eng">
       <e:P20006>eng</e:P20006>
       <w:P10088>Hundejahre</w:P10088>
-      <m:P30156>Dog years.</m:P30156>
-      <m:P30156>Dog Years. Translated by Ralph Manheim.</m:P30156>
-      <m:P30117>Günter Grass ; translated by Ralph Manheim.</m:P30117>
-      <m:P30117>Günter Grass ; translated from the German by Ralph Manheim.</m:P30117>
+      <m:P30156>Dog years</m:P30156>
+      <m:P30156>Dog Years. Translated by Ralph Manheim</m:P30156>
+      <m:P30117>Günter Grass ; translated by Ralph Manheim</m:P30117>
+      <m:P30117>Günter Grass ; translated from the German by Ralph Manheim</m:P30117>
       <m:P30117>Günter Grass. Transl. by Ralph Manheim</m:P30117>
       <m:P30117>Günter Grass. Transl. from the German by Ralph Manheim</m:P30117>
       <m:P30117>Günther Grass. Translated by Ralph Manheim</m:P30117>
       <e:P20001>text</e:P20001>
+      <w:P10223>Dog Years</w:P10223>
       <bibframe:hasInstance rdf:resource="http://example.org/004123444"/>
       <bibframe:hasInstance rdf:resource="http://example.org/001489758"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9781448180080"/>
@@ -17469,7 +17526,7 @@
       <e:P20006>fin</e:P20006>
       <w:P10088>Hundejahre</w:P10088>
       <m:P30156>Koiranvuosia</m:P30156>
-      <m:P30156>romaani</m:P30156>
+      <m:P30142>romaani</m:P30142>
       <m:P30117>Günter Grass. Suom. Oili Suominen</m:P30117>
       <m:P30117>Günter Grass. Suomentanut Aarno Peromies</m:P30117>
       <e:P20001>Text</e:P20001>
@@ -17483,10 +17540,11 @@
       <e:P20006>fre</e:P20006>
       <w:P10088>Hundejahre</w:P10088>
       <m:P30156>Les Années de chien</m:P30156>
-      <m:P30156>Roman</m:P30156>
+      <m:P30142>Roman</m:P30142>
       <m:P30117>Günter Grass. Trad. de l'allemand par Jean Amsler</m:P30117>
-      <m:P30156>[Texte intégral]</m:P30156>
+      <m:P30142>[Texte intégral]</m:P30142>
       <e:P20001>Text</e:P20001>
+      <w:P10223>Les Années de chien</w:P10223>
       <bibframe:hasInstance rdf:resource="http://example.org/577731289"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:2020059371"/>
       <bibframe:hasInstance rdf:resource="http://example.org/577731297"/>
@@ -17497,7 +17555,7 @@
       <e:P20006>ger</e:P20006>
       <w:P10088>Hundejahre</w:P10088>
       <m:P30156>Hundejahre</m:P30156>
-      <m:P30156>Roman</m:P30156>
+      <m:P30142>Roman</m:P30142>
       <m:P30117>Günter Grass</m:P30117>
       <m:P30156>Dog years</m:P30156>
       <m:P30117>by Günter Grass. Translated by Ralph Manheim</m:P30117>
@@ -17539,9 +17597,9 @@
       <e:P20006>ita</e:P20006>
       <w:P10088>Hundejahre</w:P10088>
       <m:P30156>Anni di cani</m:P30156>
-      <m:P30156>romanzo</m:P30156>
-      <m:P30117>Günter Grass. Trad. E. F.</m:P30117>
-      <m:P30117>Günter Grass. Trad. dal tedesco di E. F.</m:P30117>
+      <m:P30142>romanzo</m:P30142>
+      <m:P30117>Günter Grass. Trad. E. F</m:P30117>
+      <m:P30117>Günter Grass. Trad. dal tedesco di E. F</m:P30117>
       <e:P20001>Text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/1030211760"/>
       <bibframe:hasInstance rdf:resource="http://example.org/368945146"/>
@@ -17552,10 +17610,11 @@
       <e:P20006>nob</e:P20006>
       <w:P10088>Hundejahre</w:P10088>
       <m:P30156>Hundeår</m:P30156>
-      <m:P30156>Roman</m:P30156>
+      <m:P30142>Roman</m:P30142>
       <m:P30117>Günter Grass. Overs. av Hans Braarvig</m:P30117>
       <m:P30117>Günter Grass ; oversatt av Hans Braarvig</m:P30117>
       <e:P20001>Text</e:P20001>
+      <w:P10223>Hundeår</w:P10223>
       <bibframe:hasInstance rdf:resource="http://example.org/577731319"/>
       <bibframe:hasInstance rdf:resource="http://example.org/999009976134702201"/>
       <e:P20037 rdf:resource="http://example.org/bjerrehakon"/>
@@ -17584,6 +17643,7 @@
       <m:P30117>Günter Grass. [Trad.: Carlos Gerhard]</m:P30117>
       <m:P30117>Günter Grass. [Trad. directa de Carlos Gerhard]</m:P30117>
       <e:P20001>text</e:P20001>
+      <w:P10223>Los años de perro</w:P10223>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8447300900"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8420425095"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9788420406992"/>
@@ -17598,7 +17658,7 @@
       <e:P20006>swe</e:P20006>
       <w:P10088>Hundejahre</w:P10088>
       <m:P30156>Hund°ar</m:P30156>
-      <m:P30156>Roman</m:P30156>
+      <m:P30142>Roman</m:P30142>
       <m:P30117>Günter Grass. [Övers. av Lars W. Freij]</m:P30117>
       <e:P20001>Text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/577731335"/>
@@ -17636,7 +17696,7 @@
       <w:P10088>Örtlich betäubt</w:P10088>
       <m:P30156>Plaatselijk verdoofd</m:P30156>
       <m:P30117>Günter Grass. [Vert. door C. Schuur-Kaspers]</m:P30117>
-      <m:P30156>roman</m:P30156>
+      <m:P30142>roman</m:P30142>
       <m:P30117>Günter Grass. [Vert. uit het Duits door C. Schuur-Kaspers]</m:P30117>
       <e:P20001>Text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/577731483"/>
@@ -17647,14 +17707,15 @@
    <bibframe:Work rdf:about="http://www.wikidata.org/entity/Q6663949/eng">
       <e:P20006>eng</e:P20006>
       <w:P10088>Örtlich Betäubt</w:P10088>
-      <m:P30156>Local anaesthetic /</m:P30156>
-      <m:P30117>Günter Grass.</m:P30117>
+      <m:P30156>Local anaesthetic</m:P30156>
+      <m:P30117>Günter Grass</m:P30117>
       <m:P30156>Local anaesthetie</m:P30156>
       <m:P30117>Günter Grass. Transl. from the German by Ralph Manheim</m:P30117>
       <m:P30117>Günter Grass. Transl. by Ralph Manheim</m:P30117>
       <m:P30156>Anestesia local</m:P30156>
       <m:P30117>Günter Grass. Trad. Carlos Gerhard</m:P30117>
       <e:P20001>text</e:P20001>
+      <w:P10223>Local Anaesthetic</w:P10223>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9781473545298"/>
       <bibframe:hasInstance rdf:resource="http://example.org/578698110"/>
       <bibframe:hasInstance rdf:resource="http://example.org/578549816"/>
@@ -17677,7 +17738,7 @@
       <e:P20006>fre</e:P20006>
       <w:P10088>Örtlich betäubt</w:P10088>
       <m:P30156>Anesthésie locale</m:P30156>
-      <m:P30156>Roman</m:P30156>
+      <m:P30142>Roman</m:P30142>
       <m:P30117>Günter Grass. Trad de l'allemand par Jean Amsler</m:P30117>
       <e:P20001>Text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/577731475"/>
@@ -17687,10 +17748,10 @@
    <bibframe:Work rdf:about="http://www.wikidata.org/entity/Q6663949/ger">
       <e:P20006>ger</e:P20006>
       <w:P10088>Örtlich Betäubt</w:P10088>
-      <m:P30156>Örtlich Betäubt :</m:P30156>
-      <m:P30156>Roman.</m:P30156>
+      <m:P30156>Örtlich Betäubt</m:P30156>
+      <m:P30142>Roman</m:P30142>
       <m:P30117>Günter Grass</m:P30117>
-      <m:P30156>Günter Grass liest aus seinem Roman</m:P30156>
+      <m:P30142>Günter Grass liest aus seinem Roman</m:P30142>
       <e:P20001>text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:3472611952"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783436015046"/>
@@ -17719,10 +17780,11 @@
       <e:P20006>nob</e:P20006>
       <w:P10088>Örtlich Betäubt</w:P10088>
       <m:P30156>Lokalbedøvet</m:P30156>
-      <m:P30156>Roman</m:P30156>
+      <m:P30142>Roman</m:P30142>
       <m:P30117>Günter Grass. Overs. av Aksel Bull Njå ; Torborg Nedreaas</m:P30117>
       <m:P30117>Günter Grass ; oversatt av Aksel Bull Njå og Torborg Nedreaas</m:P30117>
       <e:P20001>Text</e:P20001>
+      <w:P10223>Lokalbedøvet</w:P10223>
       <bibframe:hasInstance rdf:resource="http://example.org/577731491"/>
       <bibframe:hasInstance rdf:resource="http://example.org/999213622004702201"/>
       <e:P20037 rdf:resource="http://example.org/njaakselbull"/>
@@ -17764,6 +17826,7 @@
       <m:P30117>Günter Grass ; prólogo de Patricio Pron ; traducido por Carlos Gerhard</m:P30117>
       <m:P30117>Günter Grass ; prólogo Patricio Pron ; traducido por Carlos Gerhard</m:P30117>
       <e:P20001>text</e:P20001>
+      <w:P10223>Anestasia local</w:P10223>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9788493982713"/>
       <e:P20037 rdf:resource="http://viaf.org/viaf/30910939"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/102319859"/>
@@ -17775,10 +17838,11 @@
    <bibframe:Work rdf:about="http://www.wikidata.org/entity/Q765047/eng">
       <e:P20006>eng</e:P20006>
       <w:P10088>Die Rättin</w:P10088>
-      <m:P30156>The rat /</m:P30156>
-      <m:P30117>Günter Grass ; translated by Ralph Manheim.</m:P30117>
+      <m:P30156>The rat</m:P30156>
+      <m:P30117>Günter Grass ; translated by Ralph Manheim</m:P30117>
       <m:P30117>Günther Grass. Translated by Ralph Manheim</m:P30117>
       <e:P20001>text</e:P20001>
+      <w:P10223>The Rat</w:P10223>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:0436187728"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:0151759200"/>
       <e:P20037 rdf:resource="http://viaf.org/viaf/9864901"/>
@@ -17788,22 +17852,23 @@
       <e:P20006>fre</e:P20006>
       <w:P10088>Die Rättin</w:P10088>
       <m:P30156>La Ratte</m:P30156>
-      <m:P30156>roman</m:P30156>
+      <m:P30142>roman</m:P30142>
       <m:P30117>Günter Grass. Trad. de l'allemand par Jean Amsler</m:P30117>
       <e:P20001>Text</e:P20001>
+      <w:P10223>La Ratte</w:P10223>
       <bibframe:hasInstance rdf:resource="http://example.org/1007469021"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/102319859"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://www.wikidata.org/entity/Q765047/ger">
       <e:P20006>ger</e:P20006>
       <w:P10088>Die Rättin</w:P10088>
-      <m:P30156>Die Rättin /</m:P30156>
-      <m:P30117>Günter Grass.</m:P30117>
-      <m:P30156>Roman</m:P30156>
+      <m:P30156>Die Rättin</m:P30156>
+      <m:P30117>Günter Grass</m:P30117>
+      <m:P30142>Roman</m:P30142>
       <m:P30117>Günter Grass. Hrsg. von Volker Neuhaus</m:P30117>
-      <m:P30156>3 Radierungen u.e. Gedicht</m:P30156>
+      <m:P30142>3 Radierungen u.e. Gedicht</m:P30142>
       <m:P30117>von Günter Grass</m:P30117>
-      <m:P30156>Kapitel 1,4 und 12</m:P30156>
+      <m:P30142>Kapitel 1,4 und 12</m:P30142>
       <e:P20001>text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:3472866241"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783499122002"/>
@@ -17837,6 +17902,7 @@
       <m:P30156>Rottinnen</m:P30156>
       <m:P30117>Günter Grass. På norsk ved Kjell Risvik</m:P30117>
       <e:P20001>Text</e:P20001>
+      <w:P10223>Rottinnen</w:P10223>
       <bibframe:hasInstance rdf:resource="http://example.org/983065314"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8205172706"/>
       <e:P20037 rdf:resource="http://viaf.org/viaf/66142208"/>
@@ -17862,6 +17928,7 @@
       <m:P30117>Günter Grass. [Trad. de Miguel Sáenz]</m:P30117>
       <m:P30117>Günter Grass. Trad. de Miguel Sáenz. Consejo Nacional para la Cultura y las Artes</m:P30117>
       <e:P20001>text</e:P20001>
+      <w:P10223>La ratesa</w:P10223>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8420424846"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9788466330893"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8466316450"/>
@@ -17886,11 +17953,12 @@
       <e:P20006>eng</e:P20006>
       <w:P10088>Box</w:P10088>
       <w:P10088>Die Box</w:P10088>
-      <m:P30156>The box :</m:P30156>
-      <m:P30156>tales from the darkroom /</m:P30156>
-      <m:P30117>Günter Grass.</m:P30117>
-      <m:P30117>Günter Grass ; translated from the German by Krishna Winston.</m:P30117>
+      <m:P30156>The box</m:P30156>
+      <m:P30142>tales from the darkroom</m:P30142>
+      <m:P30117>Günter Grass</m:P30117>
+      <m:P30117>Günter Grass ; translated from the German by Krishna Winston</m:P30117>
       <e:P20001>text</e:P20001>
+      <w:P10223>The Box</w:P10223>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9781407087245"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9781846553073"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9780099539759"/>
@@ -17900,13 +17968,13 @@
    <bibframe:Work rdf:about="http://www.wikidata.org/entity/Q7719566/ger">
       <e:P20006>ger</e:P20006>
       <w:P10088>Die Box</w:P10088>
-      <m:P30156>Die Box :</m:P30156>
-      <m:P30156>Dunkelkammergeschichten /</m:P30156>
-      <m:P30117>Günter Grass.</m:P30117>
-      <m:P30156>Vorzugsausgabe</m:P30156>
+      <m:P30156>Die Box</m:P30156>
+      <m:P30142>Dunkelkammergeschichten</m:P30142>
+      <m:P30117>Günter Grass</m:P30117>
+      <m:P30142>Vorzugsausgabe</m:P30142>
       <m:P30117>Günter Grass ; Maler: Günter Grass</m:P30117>
       <m:P30117>Günter Grass ; Zeichn. von Günter Grass</m:P30117>
-      <m:P30156>Grafikmappe</m:P30156>
+      <m:P30142>Grafikmappe</m:P30142>
       <e:P20001>text</e:P20001>
       <e:P20001>spoken word</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783865217714"/>
@@ -17931,10 +17999,11 @@
    <bibframe:Work rdf:about="http://www.wikidata.org/entity/Q7719566/nob">
       <e:P20006>nob</e:P20006>
       <w:P10088>Die Box</w:P10088>
-      <m:P30156>Boksen :</m:P30156>
-      <m:P30156>mørkeromshistorier</m:P30156>
+      <m:P30156>Boksen</m:P30156>
+      <m:P30142>mørkeromshistorier</m:P30142>
       <m:P30117>Günter Grass ; oversatt fra tysk av Kjell Risvik</m:P30117>
       <e:P20001>text</e:P20001>
+      <w:P10223>Boksen</w:P10223>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9788205392465"/>
       <e:P20037 rdf:resource="http://example.org/risvikkari"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/102319859"/>
@@ -17942,12 +18011,13 @@
    <bibframe:Work rdf:about="http://www.wikidata.org/entity/Q7719566/spa">
       <e:P20006>spa</e:P20006>
       <w:P10088>Die Box</w:P10088>
-      <m:P30156>La caja de los deseos :</m:P30156>
-      <m:P30156>historias del cuarto oscuro</m:P30156>
+      <m:P30156>La caja de los deseos</m:P30156>
+      <m:P30142>historias del cuarto oscuro</m:P30142>
       <m:P30117>Günter Grass ; traducción del alemán de Miguel Sáenz, (con la colaboración de Grita Loebsack)</m:P30117>
       <m:P30117>Günter Grass ; traducción de Miguel Sáenz (con la colaboración de Grita Loebsack)</m:P30117>
       <m:P30117>Günter Grass ; traducción de Miguel Sáenz (con la colaboración de Grita Löbsack)</m:P30117>
       <e:P20001>text</e:P20001>
+      <w:P10223>La caja de los deseos</w:P10223>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9788466330916"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9788420423173"/>
       <e:P20037 rdf:resource="http://viaf.org/viaf/22322043"/>
@@ -17962,10 +18032,11 @@
    <bibframe:Work rdf:about="http://www.wikidata.org/entity/Q814761/eng">
       <e:P20006>eng</e:P20006>
       <w:P10088>Beim Häuten der Zwiebel</w:P10088>
-      <m:P30156>Peeling the onion /</m:P30156>
-      <m:P30117>Günter Grass ; translated from the German by Michael Henry Heim.</m:P30117>
-      <m:P30117>Günter Grass.</m:P30117>
+      <m:P30156>Peeling the onion</m:P30156>
+      <m:P30117>Günter Grass ; translated from the German by Michael Henry Heim</m:P30117>
+      <m:P30117>Günter Grass</m:P30117>
       <e:P20001>text</e:P20001>
+      <w:P10223>Peeling the Onion</w:P10223>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9781846550621"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9781409078074"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/102319859"/>
@@ -17973,12 +18044,12 @@
    <bibframe:Work rdf:about="http://www.wikidata.org/entity/Q814761/ger">
       <e:P20006>ger</e:P20006>
       <w:P10088>Beim Häuten der Zwiebel</w:P10088>
-      <m:P30156>Beim Häuten der Zwiebel /</m:P30156>
-      <m:P30117>Günter Grass.</m:P30117>
-      <m:P30156>Vorzugsausgabe 2 - Zwiebel mit Messer</m:P30156>
+      <m:P30156>Beim Häuten der Zwiebel</m:P30156>
+      <m:P30117>Günter Grass</m:P30117>
+      <m:P30142>Vorzugsausgabe 2 - Zwiebel mit Messer</m:P30142>
       <m:P30117>Günter Grass ; Zeichn. von Günter Grass</m:P30117>
-      <m:P30156>Vorzugsausgabe 1 - Geteilte Zwiebel</m:P30156>
-      <m:P30156>Vorzugsausgabe 3 - Zwiebel mit Aussicht</m:P30156>
+      <m:P30142>Vorzugsausgabe 1 - Geteilte Zwiebel</m:P30142>
+      <m:P30142>Vorzugsausgabe 3 - Zwiebel mit Aussicht</m:P30142>
       <e:P20001>text</e:P20001>
       <e:P20001>spoken word</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:3865213308"/>
@@ -18008,6 +18079,7 @@
       <m:P30156>Når løken skrelles</m:P30156>
       <m:P30117>Günter Grass ; oversatt fra tysk av Kjell Risvik</m:P30117>
       <e:P20001>text</e:P20001>
+      <w:P10223>Når løken skrelles</w:P10223>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9788205370227"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9788205381537"/>
       <e:P20037 rdf:resource="http://viaf.org/viaf/66142208"/>
@@ -18021,8 +18093,9 @@
       <m:P30117>Günter Grass ; traducción de Miguel Sáenz (con la colaboración de Grita Loebsack)</m:P30117>
       <m:P30117>Günter Grass ; traducción del alemán de Miguel Sáenz (con la colaboración de Grita Loebsack)</m:P30117>
       <m:P30117>Günter Grass ; traducción del alemán de Miguel Sáenz (con la colaboración de Grita Loebsack) = Beim Häuten der Zwiebel &lt;spanisch&gt;</m:P30117>
-      <m:P30156>= Beim Häuten der Zwiebel &lt;span.&gt;</m:P30156>
+      <m:P30142>= Beim Häuten der Zwiebel &lt;span.&gt;</m:P30142>
       <e:P20001>text</e:P20001>
+      <w:P10223>Pelando la cebolla</w:P10223>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9788466321204"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9788466330879"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9788420412245"/>
@@ -18038,9 +18111,10 @@
    <bibframe:Work rdf:about="http://www.wikidata.org/entity/Q989760/eng">
       <e:P20006>eng</e:P20006>
       <w:P10088>Danziger Trilogie</w:P10088>
-      <m:P30156>The Danzig trilogy /</m:P30156>
-      <m:P30117>Günter Grass ; translated by Ralph Manheim.</m:P30117>
+      <m:P30156>The Danzig trilogy</m:P30156>
+      <m:P30117>Günter Grass ; translated by Ralph Manheim</m:P30117>
       <e:P20001>text</e:P20001>
+      <w:P10223>Danziger Trilogie</w:P10223>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:043618771"/>
       <bibframe:hasInstance rdf:resource="http://example.org/1008573566"/>
       <bibframe:hasPart rdf:resource="http://www.wikidata.org/entity/Q1736859/eng"/>
@@ -18069,11 +18143,11 @@
       <e:P20006>spa</e:P20006>
       <w:P10088>Die Blechtrommel</w:P10088>
       <m:P30156>El tambor de hojalata</m:P30156>
-      <m:P30156>= Die Blechtrommel = Le tambour</m:P30156>
+      <m:P30142>= Die Blechtrommel = Le tambour</m:P30142>
       <m:P30117>mise en scène, Volker Schlöndorff ; une coproduction, Anatole Dauman, Franz Seitz, Volker Schlöndorff ; scénario et dialogues, Jean-Claude Carrière, Franz Seitz, Volker Schlöndorff ; image, Igor Luther ; musique originale, Maurice Jarre</m:P30117>
-      <m:P30156>Le tambour</m:P30156>
+      <m:P30142>Le tambour</m:P30142>
       <m:P30117>mise en scène, Volker Schlöndorff ; scénario et dialogues, Jean-Claude Carrière, Franz Seitz, Volker Schlöndorff ; musique originale, Maurice Jarre ; [fotografía de Igor Luther]</m:P30117>
-      <m:P30156>Die Blechtrommel</m:P30156>
+      <m:P30142>Die Blechtrommel</m:P30142>
       <m:P30117>Regie, Volker Schlöndorff ; Drehbuch, Jean-Claude Carrière, Franz Seitz, Volker Schlöndorff ; Musik, Maurice Jarre</m:P30117>
       <e:P20001>text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/bivi0000014327"/>
@@ -18089,6 +18163,7 @@
       <w:P10064 rdf:resource="http://example.org/daumananatole"/>
       <w:P10064 rdf:resource="http://example.org/seitzfranz"/>
       <w:P10068 rdf:resource="http://example.org/lutherigor"/>
+      <w:P10129 rdf:resource="http://viaf.org/viaf/179378125"/>
       <w:P10203 rdf:resource="http://example.org/schlndorffvolker"/>
       <w:P10203 rdf:resource="http://example.org/carrirejeanclaude"/>
       <w:P10203 rdf:resource="http://example.org/seitzfranz"/>
@@ -18097,22 +18172,22 @@
       <e:P20006>ger</e:P20006>
       <w:P10088>Unkenrufe</w:P10088>
       <w:P10004>movie</w:P10004>
-      <m:P30156>Unkenrufe :</m:P30156>
-      <m:P30156>der Film nach der Erzählung von Günter Grass /</m:P30156>
-      <m:P30117>[unter Mitarbeit von Ursula Vossen, Thomas Petersen und Josa Sesink ; Fotos von Krzysztof Wellman].</m:P30117>
+      <m:P30156>Unkenrufe</m:P30156>
+      <m:P30142>der Film nach der Erzählung von Günter Grass</m:P30142>
+      <m:P30117>[unter Mitarbeit von Ursula Vossen, Thomas Petersen und Josa Sesink ; Fotos von Krzysztof Wellman]</m:P30117>
       <e:P20001>text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:3351026072"/>
       <w:P10064 rdf:resource="http://example.org/vossenursula"/>
+      <w:P10129 rdf:resource="http://viaf.org/viaf/198560112"/>
       <w:P10203 rdf:resource="http://example.org/petersenthomas"/>
       <w:P10203 rdf:resource="http://example.org/sesinkjosa"/>
       <w:P10261 rdf:resource="http://viaf.org/viaf/102319859"/>
-      <w:motionPictureAdaptationOfWork.en rdf:resource="http://viaf.org/viaf/198560112"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://example.org/huntirmgardelsner/mutterundmuttermythosinguntergrassromanderbutt/ger">
       <e:P20006>ger</e:P20006>
       <w:P10088>Mütter und Muttermythos in Günter Grass' Roman Der Butt</w:P10088>
-      <m:P30156>Mütter und Muttermythos in Günter Grass' Roman Der Butt /</m:P30156>
-      <m:P30117>Irmgard Elsner Hunt.</m:P30117>
+      <m:P30156>Mütter und Muttermythos in Günter Grass' Roman Der Butt</m:P30156>
+      <m:P30117>Irmgard Elsner Hunt</m:P30117>
       <e:P20001>text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:3820475982"/>
       <w:P10061 rdf:resource="http://example.org/huntirmgardelsner"/>
@@ -18129,7 +18204,7 @@
       <e:P20006>ger</e:P20006>
       <w:P10088>Günter Grass: Die Blechtrommel</w:P10088>
       <m:P30156>Günter Grass: Die Blechtrommel</m:P30156>
-      <m:P30156>acht Kapitel zur Erschliessung des Romans</m:P30156>
+      <m:P30142>acht Kapitel zur Erschliessung des Romans</m:P30142>
       <m:P30117>Walter Jahnke ; Klaus Lindemann</m:P30117>
       <e:P20001>Text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783506750617"/>
@@ -18140,7 +18215,7 @@
       <e:P20006>ger</e:P20006>
       <w:P10088>Literarische Kommunikation und modernes Erzählen</w:P10088>
       <m:P30156>Literarische Kommunikation und modernes Erzählen</m:P30156>
-      <m:P30156>eine textorientierte Interpretation am Beispiel von Günter Grass' Roman "Ein weites Feld“</m:P30156>
+      <m:P30142>eine textorientierte Interpretation am Beispiel von Günter Grass' Roman "Ein weites Feld“</m:P30142>
       <m:P30117>Amr Kassem</m:P30117>
       <e:P20001>Text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783830085140"/>
@@ -18154,7 +18229,7 @@
       <e:P20006>ger</e:P20006>
       <w:P10088>Allegorie oder Authentizität</w:P10088>
       <m:P30156>Allegorie oder Authentizität</m:P30156>
-      <m:P30156>zwei ästhetische Modelle der Aufarbeitung der Vergangenheit: Günter Grass' Die Blechtrommel und Christa Wolfs Kindheitsmuster</m:P30156>
+      <m:P30142>zwei ästhetische Modelle der Aufarbeitung der Vergangenheit: Günter Grass' Die Blechtrommel und Christa Wolfs Kindheitsmuster</m:P30142>
       <m:P30117>Nury Kim</m:P30117>
       <e:P20001>Text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783631493984"/>
@@ -18164,7 +18239,7 @@
       <e:P20006>ger</e:P20006>
       <w:P10088>Literatur als Historie</w:P10088>
       <m:P30156>Literatur als Historie</m:P30156>
-      <m:P30156>Zeitgeschichte in Thomas Manns "Doktor Faustus" und Günter Grass' "Die Blechtrommel"</m:P30156>
+      <m:P30142>Zeitgeschichte in Thomas Manns "Doktor Faustus" und Günter Grass' "Die Blechtrommel"</m:P30142>
       <m:P30117>vorgelegt von Eung-Jun Kim</m:P30117>
       <m:P30117>Eung-Jun Kim</m:P30117>
       <e:P20001>Text</e:P20001>
@@ -18177,7 +18252,7 @@
       <e:P20006>ger</e:P20006>
       <w:P10088>Nationalsozialismus und Shoah im autobiographischen Roman</w:P10088>
       <m:P30156>Nationalsozialismus und Shoah im autobiographischen Roman</m:P30156>
-      <m:P30156>Poetologie des Erinnerns bei Ruth Klüger, Martin Walser, Georg Heller und Günter Grass</m:P30156>
+      <m:P30142>Poetologie des Erinnerns bei Ruth Klüger, Martin Walser, Georg Heller und Günter Grass</m:P30142>
       <m:P30117>Dorothea Kliche-Behnke</m:P30117>
       <e:P20001>Text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783110473049"/>
@@ -18191,7 +18266,7 @@
       <e:P20006>ger</e:P20006>
       <w:P10088>Die Genealogie der Post-Apokalypse</w:P10088>
       <m:P30156>Die Genealogie der Post-Apokalypse</m:P30156>
-      <m:P30156>Günter Grass' Die Rättin</m:P30156>
+      <m:P30142>Günter Grass' Die Rättin</m:P30142>
       <m:P30117>Thomas W. Kniesche</m:P30117>
       <e:P20001>Text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783900767648"/>
@@ -18201,7 +18276,7 @@
       <e:P20006>ger</e:P20006>
       <w:P10088>Ein Buch, ein Bekenntnis</w:P10088>
       <m:P30156>Ein Buch, ein Bekenntnis</m:P30156>
-      <m:P30156>die Debatte um Günter Grass' "Beim Häuten der Zwiebel"</m:P30156>
+      <m:P30142>die Debatte um Günter Grass' "Beim Häuten der Zwiebel"</m:P30142>
       <m:P30117>hrsg. von Martin Kölbel</m:P30117>
       <e:P20001>Text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783865214270"/>
@@ -18221,7 +18296,7 @@
       <e:P20006>ger</e:P20006>
       <w:P10088>Die Verarbeitung der Wiedervereinigung Deutschlands im Wende- und Berlin-Roman "Ein weites Feld" (1995) von Günter Grass</w:P10088>
       <m:P30156>Die Verarbeitung der Wiedervereinigung Deutschlands im Wende- und Berlin-Roman "Ein weites Feld" (1995) von Günter Grass</m:P30156>
-      <m:P30156>die Versuche der Einflussnahme des Ministeriums für Staatssicherheit (MfS) auf ihn</m:P30156>
+      <m:P30142>die Versuche der Einflussnahme des Ministeriums für Staatssicherheit (MfS) auf ihn</m:P30142>
       <m:P30117>vorgelegt von: Rolf Köpcke</m:P30117>
       <e:P20001>Text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/967670314"/>
@@ -18232,8 +18307,8 @@
    <bibframe:Work rdf:about="http://example.org/krammedetlef/guntergrass/ger">
       <e:P20006>ger</e:P20006>
       <w:P10088>Günter Grass</w:P10088>
-      <m:P30156>Günter Grass :</m:P30156>
-      <m:P30156>die Blechtrommel.</m:P30156>
+      <m:P30156>Günter Grass</m:P30156>
+      <m:P30142>die Blechtrommel</m:P30142>
       <e:P20001>text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:3446136975"/>
       <w:P10061 rdf:resource="http://example.org/krammedetlef"/>
@@ -18242,7 +18317,7 @@
       <e:P20006>ger</e:P20006>
       <w:P10088>Roman Ingardens „Schematisierte Ansichten“ und das Problem der Übersetzung</w:P10088>
       <m:P30156>Roman Ingardens „Schematisierte Ansichten“ und das Problem der Übersetzung</m:P30156>
-      <m:P30156>"Die Blechtrommel“ von Günter Grass auf Polnisch</m:P30156>
+      <m:P30142>"Die Blechtrommel“ von Günter Grass auf Polnisch</m:P30142>
       <m:P30117>Ewa Krauss</m:P30117>
       <e:P20001>Text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783865963154"/>
@@ -18252,9 +18327,9 @@
    <bibframe:Work rdf:about="http://example.org/krumbholzmartin/ironieimzeitgenossischenichroman/ger">
       <e:P20006>ger</e:P20006>
       <w:P10088>Ironie im zeitgenössischenIch-Roman</w:P10088>
-      <m:P30156>Ironie im zeitgenössischenIch-Roman :</m:P30156>
-      <m:P30156>Grass, Walser, Böll /</m:P30156>
-      <m:P30117>von Martin Krumbholz.</m:P30117>
+      <m:P30156>Ironie im zeitgenössischenIch-Roman</m:P30156>
+      <m:P30142>Grass, Walser, Böll</m:P30142>
+      <m:P30117>von Martin Krumbholz</m:P30117>
       <e:P20001>text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:3770519175"/>
       <w:P10061 rdf:resource="http://example.org/krumbholzmartin"/>
@@ -18272,7 +18347,7 @@
       <e:P20006>ger</e:P20006>
       <w:P10088>Grass und Indien/Hinduismus</w:P10088>
       <m:P30156>Grass und Indien/Hinduismus</m:P30156>
-      <m:P30156>Vorlesung</m:P30156>
+      <m:P30142>Vorlesung</m:P30142>
       <m:P30117>von Karl-Josef Kuschel</m:P30117>
       <e:P20001>spoken word</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783831263318"/>
@@ -18283,16 +18358,17 @@
       <e:P20006>ger</e:P20006>
       <w:P10088>Politisch-Historisches in literarischer Form</w:P10088>
       <m:P30156>Politisch-Historisches in literarischer Form</m:P30156>
-      <m:P30156>zu Günter Grass' Roman Ein weites Feld</m:P30156>
+      <m:P30142>zu Günter Grass' Roman Ein weites Feld</m:P30142>
       <m:P30117>Gerd Labroisse</m:P30117>
       <e:P20001>Text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783896935250"/>
       <w:P10061 rdf:resource="http://example.org/labroissegerd"/>
    </bibframe:Work>
-   <bibframe:Work rdf:about="http://example.org/lapcaracoraje/spa">
+   <bibframe:Work rdf:about="http://example.org/lapcaracorajelapcaracoraje/spa">
       <e:P20006>spa</e:P20006>
       <m:P30156>La Pícara Coraje</m:P30156>
       <m:P30117>H.J. Grimmelshausen. &amp; Encuentro en Telgte / Günter Grass ; presentación de M.J. González ; traducción de J.M. Esteban, Genoveva Dieterich</m:P30117>
+      <w:P10088>La Pícara Coraje</w:P10088>
       <e:P20001>text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9788493770976"/>
       <bibframe:hasPart rdf:resource="http://example.org/grimmelshausenhansjakobchristophvon/dielandstrzerincourasche/spa"/>
@@ -18318,7 +18394,7 @@
       <e:P20006>ger</e:P20006>
       <w:P10088>Günter Grass, Die Blechtrommel</w:P10088>
       <m:P30156>Günter Grass, Die Blechtrommel</m:P30156>
-      <m:P30156>Kommentare, Diskussionsaspekte und Anregungen für produktionsorientiertes Lesen</m:P30156>
+      <m:P30142>Kommentare, Diskussionsaspekte und Anregungen für produktionsorientiertes Lesen</m:P30142>
       <m:P30117>Ute Liewerscheidt</m:P30117>
       <e:P20001>Text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783888055072"/>
@@ -18332,7 +18408,7 @@
       <e:P20006>ger</e:P20006>
       <w:P10088>"Erinnerung entsteht auf neue Weise"</w:P10088>
       <m:P30156>"Erinnerung entsteht auf neue Weise"</m:P30156>
-      <m:P30156>Wende und Vereinigung in der deutschen Romanliteratur</m:P30156>
+      <m:P30142>Wende und Vereinigung in der deutschen Romanliteratur</m:P30142>
       <m:P30117>Blé Richard Lorou</m:P30117>
       <e:P20001>Text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783933598837"/>
@@ -18346,7 +18422,7 @@
       <e:P20006>ger</e:P20006>
       <w:P10088>"Die Erinnerung liebt das Versteckspiel der Kinder"</w:P10088>
       <m:P30156>"Die Erinnerung liebt das Versteckspiel der Kinder"</m:P30156>
-      <m:P30156>Der Erinnerungsprozess in Günter Grass' "Beim Häuten der Zwiebel"</m:P30156>
+      <m:P30142>Der Erinnerungsprozess in Günter Grass' "Beim Häuten der Zwiebel"</m:P30142>
       <m:P30117>Alice Mazurek</m:P30117>
       <e:P20001>Text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783828854413"/>
@@ -18365,9 +18441,9 @@
    <bibframe:Work rdf:about="http://example.org/mccarthyjohna/remappingreality/eng">
       <e:P20006>eng</e:P20006>
       <w:P10088>Remapping reality</w:P10088>
-      <m:P30156>Remapping reality :</m:P30156>
-      <m:P30156>chaos and creativity in science and literature (Goethe, Nietzsche, Grass)</m:P30156>
-      <m:P30117>John A. McCarthy.</m:P30117>
+      <m:P30156>Remapping reality</m:P30156>
+      <m:P30142>chaos and creativity in science and literature (Goethe, Nietzsche, Grass)</m:P30142>
+      <m:P30117>John A. McCarthy</m:P30117>
       <e:P20001>text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9042018186"/>
       <w:P10061 rdf:resource="http://example.org/mccarthyjohna"/>
@@ -18380,7 +18456,7 @@
       <e:P20006>ger</e:P20006>
       <w:P10088>"Dieses Volk, unter dem es zu leiden galt"</w:P10088>
       <m:P30156>"Dieses Volk, unter dem es zu leiden galt"</m:P30156>
-      <m:P30156>die deutsche Frage bei Günter Grass</m:P30156>
+      <m:P30142>die deutsche Frage bei Günter Grass</m:P30142>
       <m:P30117>Sabine Moser</m:P30117>
       <e:P20001>Text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783631364079"/>
@@ -18394,7 +18470,7 @@
       <e:P20006>ger</e:P20006>
       <w:P10088>Der Fall Fonty</w:P10088>
       <m:P30156>Der Fall Fonty</m:P30156>
-      <m:P30156>"ein weites Feld" von Günter Grass im Spiegel der Kritik</m:P30156>
+      <m:P30142>"ein weites Feld" von Günter Grass im Spiegel der Kritik</m:P30142>
       <m:P30117>Oskar Negt (Hg.)</m:P30117>
       <e:P20001>Text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783882433999"/>
@@ -18434,9 +18510,9 @@
       <e:P20006>ger</e:P20006>
       <w:P10088>Katz und Maus, Günter Grass</w:P10088>
       <m:P30156>Katz und Maus, Günter Grass</m:P30156>
-      <m:P30156>Inhalt, Hintergrund, Interpretation</m:P30156>
+      <m:P30142>Inhalt, Hintergrund, Interpretation</m:P30142>
       <m:P30117>Martin Neubauer</m:P30117>
-      <m:P30156>Inhalt - Hintergrund - Interpretation ; mit Info-Klappe!</m:P30156>
+      <m:P30142>Inhalt - Hintergrund - Interpretation ; mit Info-Klappe!</m:P30142>
       <e:P20001>Text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783580633387"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783580653385"/>
@@ -18450,7 +18526,7 @@
       <e:P20006>ger</e:P20006>
       <w:P10088>Zerreissprobe</w:P10088>
       <m:P30156>Zerreissprobe</m:P30156>
-      <m:P30156>der neue Roman von Günter Grass "Ein weites Feld" und die Literaturkritik ; eine Dokumentation ; eine Veröffentlichung des Innsbrucker Zeitungsarchivs</m:P30156>
+      <m:P30142>der neue Roman von Günter Grass "Ein weites Feld" und die Literaturkritik ; eine Dokumentation ; eine Veröffentlichung des Innsbrucker Zeitungsarchivs</m:P30142>
       <m:P30117>zsgest. von Georg Oberhammer und Georg Ostermann</m:P30117>
       <e:P20001>Text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783950039009"/>
@@ -18464,7 +18540,7 @@
       <e:P20006>ger</e:P20006>
       <w:P10088>Kulturelles Gedächtnis als epische Reflexion</w:P10088>
       <m:P30156>Kulturelles Gedächtnis als epische Reflexion</m:P30156>
-      <m:P30156>zum Werk von Günter Grass</m:P30156>
+      <m:P30142>zum Werk von Günter Grass</m:P30142>
       <m:P30117>Michael Paaß</m:P30117>
       <e:P20001>Text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783895287176"/>
@@ -18475,7 +18551,7 @@
       <e:P20006>ger</e:P20006>
       <w:P10088>Aus dem Schattenreich der Vergangenheit</w:P10088>
       <m:P30156>Aus dem Schattenreich der Vergangenheit</m:P30156>
-      <m:P30156>Erinnerungsarbeit in Günter Grass' Blechtrommel und Mo Yans Üppiger Busen, dicker Hintern</m:P30156>
+      <m:P30142>Erinnerungsarbeit in Günter Grass' Blechtrommel und Mo Yans Üppiger Busen, dicker Hintern</m:P30142>
       <m:P30117>Lu Pan</m:P30117>
       <e:P20001>Text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783631575871"/>
@@ -18485,7 +18561,7 @@
       <e:P20006>ger</e:P20006>
       <w:P10088>Günter Grass, "Katz und Maus"</w:P10088>
       <m:P30156>Günter Grass, "Katz und Maus"</m:P30156>
-      <m:P30156>32 Arbeitsblätter mit didaktisch-methodischen Kommentaren ; Sekundarstufe II ; [folgt der reformierten Rechtschreibung und Zeichensetzung]</m:P30156>
+      <m:P30142>32 Arbeitsblätter mit didaktisch-methodischen Kommentaren ; Sekundarstufe II ; [folgt der reformierten Rechtschreibung und Zeichensetzung]</m:P30142>
       <m:P30117>von Wolfgang Pasche</m:P30117>
       <e:P20001>Text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783129274484"/>
@@ -18513,7 +18589,7 @@
       <e:P20006>ger</e:P20006>
       <w:P10088>Idiolektale Figurencharakteristik als Übersetzungsproblem</w:P10088>
       <m:P30156>Idiolektale Figurencharakteristik als Übersetzungsproblem</m:P30156>
-      <m:P30156>am Beispiel der "Unkenrufe" von Günter Grass</m:P30156>
+      <m:P30142>am Beispiel der "Unkenrufe" von Günter Grass</m:P30142>
       <m:P30117>Anna Pieczyńska-Sulik</m:P30117>
       <e:P20001>Text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783631531914"/>
@@ -18541,9 +18617,9 @@
       <e:P20006>ger</e:P20006>
       <w:P10088>Die Blechtrommel, Günter Grass</w:P10088>
       <m:P30156>Die Blechtrommel, Günter Grass</m:P30156>
-      <m:P30156>Inhalt, Hintergrund, Interpretation ; mit Info-Klappe!</m:P30156>
+      <m:P30142>Inhalt, Hintergrund, Interpretation ; mit Info-Klappe!</m:P30142>
       <m:P30117>Thomas Rahner</m:P30117>
-      <m:P30156>Inhalt, Hintergrund, Interpretation</m:P30156>
+      <m:P30142>Inhalt, Hintergrund, Interpretation</m:P30142>
       <e:P20001>Text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783580653439"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783580633431"/>
@@ -18566,7 +18642,7 @@
       <e:P20006>ger</e:P20006>
       <w:P10088>Polyphonie und Improvisation</w:P10088>
       <m:P30156>Polyphonie und Improvisation</m:P30156>
-      <m:P30156>zur offenen Form in Günter Grass' Die Rättin</m:P30156>
+      <m:P30142>zur offenen Form in Günter Grass' Die Rättin</m:P30142>
       <m:P30117>Klaus-Jürgen Roehm</m:P30117>
       <e:P20001>Text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:0820416932"/>
@@ -18576,7 +18652,7 @@
       <e:P20006>ger</e:P20006>
       <w:P10088>... ein allzu weites Feld?</w:P10088>
       <m:P30156>... ein allzu weites Feld?</m:P30156>
-      <m:P30156>zu Übersetzungstheorie und Übersetzungspraxis anhand der Kulturspezifika in fünf Übersetzungen des Romans "Ein weites Feld" von Günter Grass</m:P30156>
+      <m:P30142>zu Übersetzungstheorie und Übersetzungspraxis anhand der Kulturspezifika in fünf Übersetzungen des Romans "Ein weites Feld" von Günter Grass</m:P30142>
       <m:P30117>Pernilla Rosell Steuer</m:P30117>
       <e:P20001>Text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9122020683"/>
@@ -18599,7 +18675,7 @@
       <e:P20006>ger</e:P20006>
       <w:P10088>Jenseits von Oder und Lethe</w:P10088>
       <m:P30156>Jenseits von Oder und Lethe</m:P30156>
-      <m:P30156>Flucht, Vertreibung und Heimatverlust in Erzähltexten nach 1945 ; (Günter Grass - Siegfried Lenz - Christa Wolf)</m:P30156>
+      <m:P30142>Flucht, Vertreibung und Heimatverlust in Erzähltexten nach 1945 ; (Günter Grass - Siegfried Lenz - Christa Wolf)</m:P30142>
       <m:P30117>Björn Schaal</m:P30117>
       <e:P20001>Text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783884769034"/>
@@ -18618,7 +18694,7 @@
       <e:P20006>ger</e:P20006>
       <w:P10088>"Katz und Maus" von Günter Grass</w:P10088>
       <m:P30156>"Katz und Maus" von Günter Grass</m:P30156>
-      <m:P30156>literarische Ironie nach Auschwitz und der unausgesprochene Appell zu politischem Engagement</m:P30156>
+      <m:P30142>literarische Ironie nach Auschwitz und der unausgesprochene Appell zu politischem Engagement</m:P30142>
       <m:P30117>von Rainer Scherf</m:P30117>
       <e:P20001>Text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783896089069"/>
@@ -18628,7 +18704,7 @@
       <e:P20006>ger</e:P20006>
       <w:P10088>Schuldmotoren</w:P10088>
       <m:P30156>Schuldmotoren</m:P30156>
-      <m:P30156>artistisches Erzählen in Günter Grass' "Danziger Trilogie"</m:P30156>
+      <m:P30142>artistisches Erzählen in Günter Grass' "Danziger Trilogie"</m:P30142>
       <m:P30117>Klaus von Schilling</m:P30117>
       <e:P20001>Text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783895283666"/>
@@ -18637,18 +18713,18 @@
    <bibframe:Work rdf:about="http://example.org/schlondorffvolker/dieblechtrommelalsfilm/ger">
       <e:P20006>ger</e:P20006>
       <w:P10088>Die Blechtrommel als Film</w:P10088>
-      <m:P30156>Die Blechtrommel als Film /</m:P30156>
-      <m:P30117>Volker Schlöndorff, Günter Grass.</m:P30117>
+      <m:P30156>Die Blechtrommel als Film</m:P30156>
+      <m:P30117>Volker Schlöndorff, Günter Grass</m:P30117>
       <e:P20001>text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/007999672"/>
       <w:P10061 rdf:resource="http://example.org/schlondorffvolker"/>
-      <w:guideToWork.en rdf:resource="http://viaf.org/viaf/179378125"/>
+      <w:P10150 rdf:resource="http://viaf.org/viaf/179378125"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://example.org/schmidtnadine/konstruktionenliterarischerauthentizitatinautobiographischenerzahltexten/ger">
       <e:P20006>ger</e:P20006>
       <w:P10088>Konstruktionen literarischer Authentizität in autobiographischen Erzähltexten</w:P10088>
       <m:P30156>Konstruktionen literarischer Authentizität in autobiographischen Erzähltexten</m:P30156>
-      <m:P30156>Exemplarische Analysen zu Christa Wolf, Ruth Klüger, Binjamin Wilkomirski und Günter Grass</m:P30156>
+      <m:P30142>Exemplarische Analysen zu Christa Wolf, Ruth Klüger, Binjamin Wilkomirski und Günter Grass</m:P30142>
       <m:P30117>Nadine Schmidt</m:P30117>
       <e:P20001>Text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783847002840"/>
@@ -18658,7 +18734,7 @@
       <e:P20006>ger</e:P20006>
       <w:P10088>Konstruktionen literarischer Authentizität in autobiographischen Erzähltexten</w:P10088>
       <m:P30156>Konstruktionen literarischer Authentizität in autobiographischen Erzähltexten</m:P30156>
-      <m:P30156>exemplarische Studien zu Christa Wolf, Ruth Klüger, Binjamin Wilkomirski und Günter Grass</m:P30156>
+      <m:P30142>exemplarische Studien zu Christa Wolf, Ruth Klüger, Binjamin Wilkomirski und Günter Grass</m:P30142>
       <m:P30117>Nadine Jessica Schmidt</m:P30117>
       <e:P20001>Text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783847102847"/>
@@ -18677,7 +18753,7 @@
       <e:P20006>ger</e:P20006>
       <w:P10088>Chancen tätiger Resignation</w:P10088>
       <m:P30156>Chancen tätiger Resignation</m:P30156>
-      <m:P30156>zur "melancholischen Struktur" in Günter Grass' Roman "Die Rättin"</m:P30156>
+      <m:P30142>zur "melancholischen Struktur" in Günter Grass' Roman "Die Rättin"</m:P30142>
       <m:P30117>Andrej Schulz</m:P30117>
       <e:P20001>Text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783906757216"/>
@@ -18687,7 +18763,7 @@
       <e:P20006>ger</e:P20006>
       <w:P10088>"Die Blechtrommel" von Günter Grass: Bedeutung, Erzähltechnik und Zeitgeschichte</w:P10088>
       <m:P30156>"Die Blechtrommel" von Günter Grass: Bedeutung, Erzähltechnik und Zeitgeschichte</m:P30156>
-      <m:P30156>Strukturanalysen eines Bestsellers der literarischen Moderne</m:P30156>
+      <m:P30142>Strukturanalysen eines Bestsellers der literarischen Moderne</m:P30142>
       <m:P30117>Hannelore Schwartze-Köhler</m:P30117>
       <e:P20001>Text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783865962379"/>
@@ -18697,7 +18773,7 @@
       <e:P20006>ger</e:P20006>
       <w:P10088>Komisches Selbstverkennen</w:P10088>
       <m:P30156>Komisches Selbstverkennen</m:P30156>
-      <m:P30156>zur Darstellung von Nationalsozialisten in Heinrich Manns „Lidice“, Günter Grass’ „Die Blechtrommel“ und Edgar Hilsenraths „Der Nazi &amp; der Friseur“</m:P30156>
+      <m:P30142>zur Darstellung von Nationalsozialisten in Heinrich Manns „Lidice“, Günter Grass’ „Die Blechtrommel“ und Edgar Hilsenraths „Der Nazi &amp; der Friseur“</m:P30142>
       <m:P30117>Monika Socha</m:P30117>
       <e:P20001>Text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783830078722"/>
@@ -18707,7 +18783,7 @@
       <e:P20006>ger</e:P20006>
       <w:P10088>Erzählen in Ost und West</w:P10088>
       <m:P30156>Erzählen in Ost und West</m:P30156>
-      <m:P30156>Intertextualität bei Irmtraud Morgner und Günter Grass</m:P30156>
+      <m:P30142>Intertextualität bei Irmtraud Morgner und Günter Grass</m:P30142>
       <m:P30117>Zsuzsa Soproni</m:P30117>
       <e:P20001>Text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783865962942"/>
@@ -18728,7 +18804,7 @@
       <e:P20006>ger</e:P20006>
       <w:P10088>Gegenständlichkeit zur "neuen, alle meine Möglichkeiten versammelnde Form"</w:P10088>
       <m:P30156>Gegenständlichkeit zur "neuen, alle meine Möglichkeiten versammelnde Form"</m:P30156>
-      <m:P30156>die Text-Bild-Bände von Günter Grass</m:P30156>
+      <m:P30142>die Text-Bild-Bände von Günter Grass</m:P30142>
       <m:P30117>Katja Standfuss. Göteborgs Universitet, Acta Universitatis Gothoburgensis</m:P30117>
       <e:P20001>Text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9789173466325"/>
@@ -18746,13 +18822,13 @@
    <bibframe:Work rdf:about="http://example.org/thomasnl/dieblechtrommel/eng">
       <e:P20006>eng</e:P20006>
       <w:P10088>Die Blechtrommel</w:P10088>
-      <m:P30156>Die Blechtrommel :</m:P30156>
-      <m:P30156>Grass /</m:P30156>
-      <m:P30117>Noel L. Thomas.</m:P30117>
+      <m:P30156>Die Blechtrommel</m:P30156>
+      <m:P30142>Grass</m:P30142>
+      <m:P30117>Noel L. Thomas</m:P30117>
       <e:P20001>text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:0729302199"/>
       <w:P10061 rdf:resource="http://example.org/thomasnl"/>
-      <w:guideToWork.en rdf:resource="http://viaf.org/viaf/179378125"/>
+      <w:P10150 rdf:resource="http://viaf.org/viaf/179378125"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://example.org/thomasnoell/grassdieblechtrommel/eng">
       <e:P20006>eng</e:P20006>
@@ -18776,7 +18852,7 @@
       <e:P20006>ger</e:P20006>
       <w:P10088>Satirisch-parodistische Darstellung des Dritten Reiches bei Günter Grass</w:P10088>
       <m:P30156>Satirisch-parodistische Darstellung des Dritten Reiches bei Günter Grass</m:P30156>
-      <m:P30156>eine Untersuchung zu "Die Blechtrommel" und "Katz und Maus"</m:P30156>
+      <m:P30142>eine Untersuchung zu "Die Blechtrommel" und "Katz und Maus"</m:P30142>
       <m:P30117>von Frank Uhlmann</m:P30117>
       <e:P20001>Text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783896088925"/>
@@ -18812,7 +18888,7 @@
       <e:P20006>ger</e:P20006>
       <w:P10088>Die Novelle als Gegenwartsliteratur</w:P10088>
       <m:P30156>Die Novelle als Gegenwartsliteratur</m:P30156>
-      <m:P30156>Intertextualität, Intermedialität und Selbstreferentialität bei Martin Walser, Friedrich Dürrenmatt, Patrick Süskind und Günter Grass</m:P30156>
+      <m:P30142>Intertextualität, Intermedialität und Selbstreferentialität bei Martin Walser, Friedrich Dürrenmatt, Patrick Süskind und Günter Grass</m:P30142>
       <m:P30117>Elena Wassmann</m:P30117>
       <e:P20001>Text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783861104605"/>
@@ -18847,7 +18923,7 @@
       <e:P20006>ger</e:P20006>
       <w:P10088>Theorie und Praxis interkultureller Interpretation</w:P10088>
       <m:P30156>Theorie und Praxis interkultureller Interpretation</m:P30156>
-      <m:P30156>Leid-Darstellungen in den Romanen "Ansichten eines Clowns" von Heinrich Böll und "Die Blechtrommel" von Günter Grass ; eine Fremdheitsvermittlung aus koreanischer Perspektive</m:P30156>
+      <m:P30142>Leid-Darstellungen in den Romanen "Ansichten eines Clowns" von Heinrich Böll und "Die Blechtrommel" von Günter Grass ; eine Fremdheitsvermittlung aus koreanischer Perspektive</m:P30142>
       <m:P30117>Inseon Yon</m:P30117>
       <e:P20001>Text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783891294086"/>

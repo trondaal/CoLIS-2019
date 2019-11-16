@@ -1,117 +1,85 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
-   <marc:record id="http://viaf.org/viaf/207944253"
-                type="http://rdaregistry.info/Elements/c/C10001">
-      <marc:datafield tag="240" ind1="1" ind2="0">
-         <marc:subfield code="1w" type="http://rdaregistry.info/Elements/w/P10002">http://viaf.org/viaf/207944253</marc:subfield>
-         <marc:subfield code="a" type="http://rdaregistry.info/Elements/w/P10088">Segelfoss by</marc:subfield>
-         <marc:subfield code="k" type="http://rdaregistry.info/Elements/w/P10004">novel</marc:subfield>
-      </marc:datafield>
-      <frbrizer:relationship xmlns:frbrizer="http://idi.ntnu.no/frbrizer/"
-                             type="http://rdaregistry.info/Elements/w/P10061"
-                             href="http://viaf.org/viaf/59083692"/>
-      <frbrizer:relationship xmlns:frbrizer="http://idi.ntnu.no/frbrizer/"
-                             type="http://rdaregistry.info/Elements/w/P10078"
-                             href="http://viaf.org/viaf/207944253/fre/text/boyerregis"/>
-      <frbrizer:relationship xmlns:frbrizer="http://idi.ntnu.no/frbrizer/"
-                             type="http://rdaregistry.info/Elements/w/P10226"
-                             href="http://viaf.org/viaf/8450149068552765730000"/>
-   </marc:record>
-   <marc:record id="http://viaf.org/viaf/8450149068552765730000"
-                type="http://rdaregistry.info/Elements/c/C10001">
-      <marc:datafield tag="700" ind1="1" ind2=" ">
-         <marc:subfield code="1w" type="http://rdaregistry.info/Elements/w/P10002">http://viaf.org/viaf/8450149068552765730000</marc:subfield>
-         <marc:subfield code="k" type="http://rdaregistry.info/Elements/w/P10004">novel</marc:subfield>
-         <marc:subfield code="t" type="http://rdaregistry.info/Elements/w/P10088">Børn av tiden</marc:subfield>
-      </marc:datafield>
-      <frbrizer:relationship xmlns:frbrizer="http://idi.ntnu.no/frbrizer/"
-                             type="http://rdaregistry.info/Elements/w/P10061"
-                             href="http://viaf.org/viaf/59083692"/>
-      <frbrizer:relationship xmlns:frbrizer="http://idi.ntnu.no/frbrizer/"
-                             type="http://rdaregistry.info/Elements/w/P10191"
-                             href="http://viaf.org/viaf/207944253"/>
-   </marc:record>
-   <marc:record id="boyerregis" type="http://rdaregistry.info/Elements/c/C10004">
-      <marc:datafield tag="700" ind1="1" ind2=" ">
-         <marc:subfield code="1p" type="http://rdaregistry.info/Elements/a/P50094">boyerregis</marc:subfield>
-         <marc:subfield code="4" type="relatorcode">trl</marc:subfield>
-         <marc:subfield code="a" type="http://rdaregistry.info/Elements/a/P50111">Boyer, Régis</marc:subfield>
-      </marc:datafield>
-      <frbrizer:relationship xmlns:frbrizer="http://idi.ntnu.no/frbrizer/"
-                             type="http://rdaregistry.info/Elements/a/P50145"
-                             href="http://viaf.org/viaf/207944253/fre/text/boyerregis"/>
-   </marc:record>
-   <marc:record id="http://viaf.org/viaf/59083692"
-                type="http://rdaregistry.info/Elements/c/C10004">
-      <marc:datafield tag="100" ind1="1" ind2=" ">
-         <marc:subfield code="1p" type="http://rdaregistry.info/Elements/a/P50094">http://viaf.org/viaf/59083692</marc:subfield>
-         <marc:subfield code="a" type="http://rdaregistry.info/Elements/a/P50111">Hamsun, Knut</marc:subfield>
-         <marc:subfield code="d" type="http://rdaregistry.info/Elements/a/P50107">1859-1952</marc:subfield>
-      </marc:datafield>
-      <marc:datafield tag="700" ind1="1" ind2=" ">
-         <marc:subfield code="1p" type="http://rdaregistry.info/Elements/a/P50094">http://viaf.org/viaf/59083692</marc:subfield>
-         <marc:subfield code="4" type="relator code">http://rdaregistry.info/Elements/w/continuationOfWork.en</marc:subfield>
-         <marc:subfield code="a" type="http://rdaregistry.info/Elements/a/P50111">Hamsun, Knut</marc:subfield>
-         <marc:subfield code="d" type="http://rdaregistry.info/Elements/a/P50107">1859-1952</marc:subfield>
-      </marc:datafield>
-      <frbrizer:relationship xmlns:frbrizer="http://idi.ntnu.no/frbrizer/"
-                             type="http://rdaregistry.info/Elements/a/P50195"
-                             href="http://viaf.org/viaf/207944253"/>
-      <frbrizer:relationship xmlns:frbrizer="http://idi.ntnu.no/frbrizer/"
-                             type="http://rdaregistry.info/Elements/a/P50195"
-                             href="http://viaf.org/viaf/8450149068552765730000"/>
-   </marc:record>
-   <marc:record id="http://viaf.org/viaf/207944253/fre/text/boyerregis"
-                type="http://rdaregistry.info/Elements/c/C10006">
-      <marc:controlfield tag="008" type="http://rdaregistry.info/Elements/e/P20006">fre</marc:controlfield>
-      <marc:datafield tag="240" ind1="1" ind2="0">
-         <marc:subfield code="a" type="http://rdaregistry.info/Elements/e/P20316">Segelfoss by</marc:subfield>
-         <marc:subfield code="l" type="http://rdaregistry.info/Elements/e/P20006">fre</marc:subfield>
-      </marc:datafield>
-      <marc:datafield tag="245" ind1="1" ind2="3">
-         <marc:subfield code="a" type="http://rdaregistry.info/Elements/e/P20316">La ville de Segelfoss</marc:subfield>
-      </marc:datafield>
-      <marc:datafield tag="336" ind1=" " ind2=" ">
-         <marc:subfield code="a" type="http://rdaregistry.info/Elements/e/P20001">text</marc:subfield>
-      </marc:datafield>
-      <frbrizer:relationship xmlns:frbrizer="http://idi.ntnu.no/frbrizer/"
-                             type="http://rdaregistry.info/Elements/e/P20037"
-                             href="boyerregis"/>
-      <frbrizer:relationship xmlns:frbrizer="http://idi.ntnu.no/frbrizer/"
-                             type="http://rdaregistry.info/Elements/e/P20059"
-                             href="isbn-270211301"/>
-      <frbrizer:relationship xmlns:frbrizer="http://idi.ntnu.no/frbrizer/"
-                             type="http://rdaregistry.info/Elements/e/P20231"
-                             href="http://viaf.org/viaf/207944253"/>
-   </marc:record>
-   <marc:record id="isbn-270211301" type="http://rdaregistry.info/Elements/c/C10007">
-      <marc:controlfield tag="001" type="http://marc21rdf.info/elements/marc/M001">010161860</marc:controlfield>
-      <marc:datafield tag="020" ind1=" " ind2=" ">
-         <marc:subfield code="a" type="http://rdaregistry.info/Elements/m/P30004">isbn-270211301</marc:subfield>
-      </marc:datafield>
-      <marc:datafield tag="245" ind1="1" ind2="3">
-         <marc:subfield code="a" type="http://rdaregistry.info/Elements/m/P30156">La ville de Segelfoss : roman</marc:subfield>
-         <marc:subfield code="c" type="http://rdaregistry.info/Elements/m/P30117">Knut Hamsun ; traduit du norvégien par Régis Boyer</marc:subfield>
-      </marc:datafield>
-      <marc:datafield tag="260" ind1=" " ind2=" ">
-         <marc:subfield code="a" type="http://rdaregistry.info/Elements/m/P30088">[Paris]</marc:subfield>
-         <marc:subfield code="b" type="http://rdaregistry.info/Elements/m/P30083">Calmann-Lévy</marc:subfield>
-         <marc:subfield code="c" type="http://rdaregistry.info/Elements/m/P30011">1984</marc:subfield>
-      </marc:datafield>
-      <marc:datafield tag="300" ind1=" " ind2=" ">
-         <marc:subfield code="a" type="http://rdaregistry.info/Elements/m/P30182">306p.</marc:subfield>
-      </marc:datafield>
-      <marc:datafield tag="337" ind1=" " ind2=" ">
-         <marc:subfield code="a" type="http://rdaregistry.info/Elements/m/P30001">print</marc:subfield>
-      </marc:datafield>
-      <marc:datafield tag="338" ind1=" " ind2=" ">
-         <marc:subfield code="a" type="http://rdaregistry.info/Elements/m/P30002">volume</marc:subfield>
-      </marc:datafield>
-      <marc:datafield tag="490" ind1="0" ind2=" ">
-         <marc:subfield code="a" type="http://rdaregistry.info/Elements/m/P30106">"Traduit de”</marc:subfield>
-      </marc:datafield>
-      <frbrizer:relationship xmlns:frbrizer="http://idi.ntnu.no/frbrizer/"
-                             type="http://rdaregistry.info/Elements/m/P30139"
-                             href="http://viaf.org/viaf/207944253/fre/text/boyerregis"/>
-   </marc:record>
-</marc:collection>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:frbrizer="http://idi.ntnu.no/frbrizer/"
+         xmlns:xs="http://www.w3.org/2001/XMLSchema"
+         xmlns:c="http://rdaregistry.info/Elements/c/"
+         xmlns:w="http://rdaregistry.info/Elements/w/"
+         xmlns:a="http://rdaregistry.info/Elements/a/"
+         xmlns:e="http://rdaregistry.info/Elements/e/"
+         xmlns:marc="http://marc21rdf.info/elements/marc/"
+         xmlns:m="http://rdaregistry.info/Elements/m/"
+         xml:base="http://example.org/">
+   <c:C10001 rdf:about="http://example.org/border">
+      <w:P10002>border</w:P10002>
+      <w:P10088>The border trilogy</w:P10088>
+      <w:P10061 rdf:resource="http://example.org/mccarthy"/>
+      <w:P10147 rdf:resource="http://example.org/prettyhorses"/>
+      <w:P10147 rdf:resource="http://example.org/crossing"/>
+      <w:P10147 rdf:resource="http://example.org/cities"/>
+   </c:C10001>
+   <c:C10001 rdf:about="http://example.org/cities">
+      <w:P10002>cities</w:P10002>
+      <w:P10088>Cities of the plain</w:P10088>
+      <w:P10019 rdf:resource="http://example.org/border"/>
+      <w:P10061 rdf:resource="http://example.org/mccarthy"/>
+      <w:P10078 rdf:resource="http://example.org/cities/eng/text/"/>
+   </c:C10001>
+   <c:C10001 rdf:about="http://example.org/crossing">
+      <w:P10002>crossing</w:P10002>
+      <w:P10088>Crossing</w:P10088>
+      <w:P10019 rdf:resource="http://example.org/border"/>
+      <w:P10061 rdf:resource="http://example.org/mccarthy"/>
+      <w:P10078 rdf:resource="http://example.org/crossing/eng/text/"/>
+   </c:C10001>
+   <c:C10001 rdf:about="http://example.org/prettyhorses">
+      <w:P10002>prettyhorses</w:P10002>
+      <w:P10088>All the pretty horses</w:P10088>
+      <w:P10019 rdf:resource="http://example.org/border"/>
+      <w:P10061 rdf:resource="http://example.org/mccarthy"/>
+      <w:P10078 rdf:resource="http://example.org/prettyhorses/eng/text/"/>
+   </c:C10001>
+   <c:C10004 rdf:about="http://example.org/mccarthy">
+      <a:P50094>mccarthy</a:P50094>
+      <a:P50111>McCarthy, Cormac</a:P50111>
+      <a:P50107>1933-</a:P50107>
+      <a:P50195 rdf:resource="http://example.org/border"/>
+      <a:P50195 rdf:resource="http://example.org/prettyhorses"/>
+      <a:P50195 rdf:resource="http://example.org/crossing"/>
+      <a:P50195 rdf:resource="http://example.org/cities"/>
+   </c:C10004>
+   <c:C10006 rdf:about="http://example.org/cities/eng/text/">
+      <e:P20006>eng</e:P20006>
+      <e:P20001>text</e:P20001>
+      <e:P20315>Cities of the plain</e:P20315>
+      <e:P20059 rdf:resource="http://example.org/isbn-9781509852031"/>
+      <e:P20231 rdf:resource="http://example.org/cities"/>
+   </c:C10006>
+   <c:C10006 rdf:about="http://example.org/crossing/eng/text/">
+      <e:P20006>eng</e:P20006>
+      <e:P20001>text</e:P20001>
+      <e:P20315>Crossing</e:P20315>
+      <e:P20059 rdf:resource="http://example.org/isbn-9781509852031"/>
+      <e:P20231 rdf:resource="http://example.org/crossing"/>
+   </c:C10006>
+   <c:C10006 rdf:about="http://example.org/prettyhorses/eng/text/">
+      <e:P20006>eng</e:P20006>
+      <e:P20001>text</e:P20001>
+      <e:P20315>All the pretty horses</e:P20315>
+      <e:P20059 rdf:resource="http://example.org/isbn-9781509852031"/>
+      <e:P20231 rdf:resource="http://example.org/prettyhorses"/>
+   </c:C10006>
+   <c:C10007 rdf:about="http://example.org/isbn-9781509852031">
+      <marc:M001>018865137</marc:M001>
+      <m:P30004>isbn-9781509852031</m:P30004>
+      <m:P30156>The border trilogy</m:P30156>
+      <m:P30117>Cormac McCarthy</m:P30117>
+      <m:P30182>1 online resource.</m:P30182>
+      <m:P30001>computer</m:P30001>
+      <m:P30002>online resource</m:P30002>
+      <m:P30106>Picador classic</m:P30106>
+      <m:P30139 rdf:resource="http://example.org/prettyhorses/eng/text/"/>
+      <m:P30139 rdf:resource="http://example.org/crossing/eng/text/"/>
+      <m:P30139 rdf:resource="http://example.org/cities/eng/text/"/>
+   </c:C10007>
+</rdf:RDF>

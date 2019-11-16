@@ -238,7 +238,7 @@
       <m:P30002>volume</m:P30002>
       <m:P30106>Nobelpreis für Literatur ;</m:P30106>
       <m:P30165>1983-1985</m:P30165>
-      <bibframe:instanceOf rdf:resource="http://example.org/derturmderkathedralenobelpreis1983england/ger"/>
+      <bibframe:instanceOf rdf:resource="http://example.org/derturmderkathedralederturmderkathedralenobelpreis1983england/ger"/>
    </bibframe:Instance>
    <bibframe:Instance rdf:about="http://example.org/015506954">
       <marc:M001>015506954</marc:M001>
@@ -828,7 +828,7 @@
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
       <m:P30106>Methuen notes</m:P30106>
-      <bibframe:instanceOf rdf:resource="http://example.org/bunnellws/notesonwilliamgoldingsthespire/eng"/>
+      <bibframe:instanceOf rdf:resource="http://example.org/bunnellws/notesonwilliamgoldingsthespirenotesonwilliamgoldingsthespire/eng"/>
    </bibframe:Instance>
    <bibframe:Instance rdf:about="http://example.org/urn:isbn:0571056865">
       <marc:M001>012266498</marc:M001>
@@ -1055,7 +1055,7 @@
       <m:P30169>23cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
-      <bibframe:instanceOf rdf:resource="http://viaf.org/viaf/89500102/lordofthefliespinchermartinritesofpassage/eng"/>
+      <bibframe:instanceOf rdf:resource="http://viaf.org/viaf/89500102/lordoftheflieslordofthefliespinchermartinritesofpassage/eng"/>
    </bibframe:Instance>
    <bibframe:Instance rdf:about="http://example.org/urn:isbn:0571134475">
       <marc:M001>010068971</marc:M001>
@@ -3910,7 +3910,7 @@
    <bibframe:Person rdf:about="http://example.org/bunnellws">
       <a:P50111>Bunnell, W. S</a:P50111>
       <a:P50107>1925-</a:P50107>
-      <a:P50195 rdf:resource="http://example.org/bunnellws/notesonwilliamgoldingsthespire/eng"/>
+      <a:P50195 rdf:resource="http://example.org/bunnellws/notesonwilliamgoldingsthespirenotesonwilliamgoldingsthespire/eng"/>
       <a:P50195 rdf:resource="http://viaf.org/viaf/178994871/eng"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="http://example.org/champourcinernestinade">
@@ -4057,7 +4057,7 @@
       <a:P50195 rdf:resource="http://viaf.org/viaf/309268108/eng"/>
       <a:P50195 rdf:resource="http://viaf.org/viaf/217036112"/>
       <a:P50195 rdf:resource="http://viaf.org/viaf/307973201/eng"/>
-      <a:P50195 rdf:resource="http://viaf.org/viaf/89500102/lordofthefliespinchermartinritesofpassage/eng"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/89500102/lordoftheflieslordofthefliespinchermartinritesofpassage/eng"/>
       <a:P50195 rdf:resource="http://viaf.org/viaf/178994871/spa"/>
       <a:P50195 rdf:resource="http://viaf.org/viaf/119144648592107423604/spa"/>
       <a:P50195 rdf:resource="http://viaf.org/viaf/1180145424574586830081/ger"/>
@@ -4319,20 +4319,22 @@
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783125738058"/>
       <w:P10061 rdf:resource="http://example.org/baerengeljennifer"/>
    </bibframe:Work>
-   <bibframe:Work rdf:about="http://example.org/bunnellws/notesonwilliamgoldingsthespire/eng">
+   <bibframe:Work rdf:about="http://example.org/bunnellws/notesonwilliamgoldingsthespirenotesonwilliamgoldingsthespire/eng">
       <e:P20006>eng</e:P20006>
-      <m:P30156>Notes on William Golding's The spire /</m:P30156>
-      <m:P30117>compiled by W.S. Bunnell.</m:P30117>
+      <m:P30156>Notes on William Golding's The spire</m:P30156>
+      <m:P30117>compiled by W.S. Bunnell</m:P30117>
+      <w:P10088>Notes on William Golding's The spire</w:P10088>
       <e:P20001>text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:0417217609"/>
       <bibframe:hasPart rdf:resource="http://viaf.org/viaf/178994871/eng"/>
       <w:P10061 rdf:resource="http://example.org/bunnellws"/>
    </bibframe:Work>
-   <bibframe:Work rdf:about="http://example.org/derturmderkathedralenobelpreis1983england/ger">
+   <bibframe:Work rdf:about="http://example.org/derturmderkathedralederturmderkathedralenobelpreis1983england/ger">
       <e:P20006>ger</e:P20006>
-      <m:P30156>Der Turm der Kathedrale :</m:P30156>
-      <m:P30156>Nobelpreis 1983 England /</m:P30156>
-      <m:P30117>William Golding. Der Regenschirm vom Piccadilly ; und, Die Pestsäule : Nobelpreis 1984 Tschechoslowakei / Jaroslav Seifert. Die Strasse in Flandern : Nobelpreis 1985 Frankreich / Claude Simon.</m:P30117>
+      <m:P30156>Der Turm der Kathedrale</m:P30156>
+      <m:P30142>Nobelpreis 1983 England</m:P30142>
+      <m:P30117>William Golding. Der Regenschirm vom Piccadilly ; und, Die Pestsäule : Nobelpreis 1984 Tschechoslowakei / Jaroslav Seifert. Die Strasse in Flandern : Nobelpreis 1985 Frankreich / Claude Simon</m:P30117>
+      <w:P10088>Der Turm der Kathedrale</w:P10088>
       <e:P20001>text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/014884342"/>
       <bibframe:hasPart rdf:resource="http://viaf.org/viaf/178994871/ger"/>
@@ -4343,19 +4345,19 @@
    <bibframe:Work rdf:about="http://example.org/handleygraham/brodiesnotesonwilliamgoldingslordoftheflies/eng">
       <e:P20006>eng</e:P20006>
       <w:P10088>Brodie's notes on William Golding's Lord of the flies</w:P10088>
-      <m:P30156>Brodie's notes on William Golding's Lord of the flies /</m:P30156>
-      <m:P30117>Graham Handley.</m:P30117>
+      <m:P30156>Brodie's notes on William Golding's Lord of the flies</m:P30156>
+      <m:P30117>Graham Handley</m:P30117>
       <e:P20001>text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:0330502956"/>
       <w:P10061 rdf:resource="http://example.org/handleygraham"/>
-      <w:commentaryOnWork.en rdf:resource="http://viaf.org/viaf/119144648592107423604"/>
+      <w:P10187 rdf:resource="http://viaf.org/viaf/119144648592107423604"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://oslomet.workid.no/wg/01/eng">
       <e:P20006>eng</e:P20006>
       <w:P10088>An Egyptian Journal</w:P10088>
-      <m:P30156>An Egyptian journal /</m:P30156>
-      <m:P30117>William Golding.</m:P30117>
-      <m:P30156>Egyptian journal /</m:P30156>
+      <m:P30156>An Egyptian journal</m:P30156>
+      <m:P30117>William Golding</m:P30117>
+      <m:P30156>Egyptian journal</m:P30156>
       <e:P20001>text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:057113937"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:0571135935"/>
@@ -4368,6 +4370,7 @@
       <m:P30156>Ein ägyptisches Tagebuch</m:P30156>
       <m:P30117>William Golding. Aus d. Engl. von Renate Orth-Guttmann</m:P30117>
       <e:P20001>text</e:P20001>
+      <w:P10223>Ein ägyptisches Tagebuch</w:P10223>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783471776483"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/89500102"/>
    </bibframe:Work>
@@ -4377,6 +4380,7 @@
       <m:P30156>Diario egipcio</m:P30156>
       <m:P30117>William Golding ; [traducción, Manuel Crespo]</m:P30117>
       <e:P20001>text</e:P20001>
+      <w:P10223>Diario egipcio</w:P10223>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8476280599"/>
       <e:P20037 rdf:resource="http://example.org/crespomanuel"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/89500102"/>
@@ -4384,11 +4388,11 @@
    <bibframe:Work rdf:about="http://oslomet.workid.no/wg/05/eng">
       <e:P20006>eng</e:P20006>
       <w:P10088>The Brass Butterfly</w:P10088>
-      <m:P30156>The brass butterfly :</m:P30156>
-      <m:P30156>a play in three acts /</m:P30156>
-      <m:P30117>by William Golding.</m:P30117>
-      <m:P30156>The brass butterfly, etc.</m:P30156>
-      <m:P30156>The Brass Butterfly. A play in three acts.</m:P30156>
+      <m:P30156>The brass butterfly</m:P30156>
+      <m:P30142>a play in three acts</m:P30142>
+      <m:P30117>by William Golding</m:P30117>
+      <m:P30156>The brass butterfly, etc</m:P30156>
+      <m:P30156>The Brass Butterfly. A play in three acts</m:P30156>
       <e:P20001>text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9780571301676"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:0571090737"/>
@@ -4400,7 +4404,7 @@
       <e:P20006>spa</e:P20006>
       <w:P10088>The brass butterfly</w:P10088>
       <m:P30156>La mariposa de latón</m:P30156>
-      <m:P30156>una obra en tres actos</m:P30156>
+      <m:P30142>una obra en tres actos</m:P30142>
       <m:P30117>William Golding ; edición de Javier Fernández ; traducción de Javier Fernández</m:P30117>
       <e:P20001>text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9788437626703"/>
@@ -4410,11 +4414,11 @@
    <bibframe:Work rdf:about="http://oslomet.workid.no/wg/06/eng">
       <e:P20006>eng</e:P20006>
       <w:P10088>The Hot Gates</w:P10088>
-      <m:P30156>The Hot gates :</m:P30156>
-      <m:P30156>and other occasional pieces /</m:P30156>
-      <m:P30117>William Golding.</m:P30117>
-      <m:P30156>The Hot Gates, and other occasional pieces.</m:P30156>
-      <m:P30156>The hot gates, etc.</m:P30156>
+      <m:P30156>The Hot gates</m:P30156>
+      <m:P30142>and other occasional pieces</m:P30142>
+      <m:P30117>William Golding</m:P30117>
+      <m:P30156>The Hot Gates, and other occasional pieces</m:P30156>
+      <m:P30156>The hot gates, etc</m:P30156>
       <e:P20001>text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:0571133665"/>
       <bibframe:hasInstance rdf:resource="http://example.org/001452447"/>
@@ -4426,9 +4430,9 @@
    <bibframe:Work rdf:about="http://viaf.org/viaf/1180145424574586830081/eng">
       <e:P20006>eng</e:P20006>
       <w:P10088>The Double Tongue</w:P10088>
-      <m:P30156>The double tongue /</m:P30156>
-      <m:P30117>William Golding.</m:P30117>
-      <m:P30117>William Golding ; [with an introduction by Meg Rosoff].</m:P30117>
+      <m:P30156>The double tongue</m:P30156>
+      <m:P30117>William Golding</m:P30117>
+      <m:P30117>William Golding ; [with an introduction by Meg Rosoff]</m:P30117>
       <e:P20001>text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9780571299546"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:0571175260"/>
@@ -4441,10 +4445,11 @@
       <e:P20006>ger</e:P20006>
       <w:P10088>Double tongue</w:P10088>
       <w:P10088>The Double Tongue</w:P10088>
-      <m:P30156>Mit doppelter Zunge :</m:P30156>
-      <m:P30156>Roman /</m:P30156>
-      <m:P30117>William Golding. Aus dem Engl. übertr. von Wolfgang Held.</m:P30117>
+      <m:P30156>Mit doppelter Zunge</m:P30156>
+      <m:P30142>Roman</m:P30142>
+      <m:P30117>William Golding. Aus dem Engl. übertr. von Wolfgang Held</m:P30117>
       <e:P20001>text</e:P20001>
+      <w:P10223>Mit doppelter Zunge</w:P10223>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:3458168893"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783458168898"/>
       <e:P20037 rdf:resource="http://example.org/heldwolfgang"/>
@@ -4454,33 +4459,43 @@
       <e:P20006>spa</e:P20006>
       <w:P10088>Double tongue</w:P10088>
       <w:P10088>The double tongue</w:P10088>
-      <m:P30156>La lengua oculta /</m:P30156>
-      <m:P30117>William Golding ; traducción de Fernando Santos Fontenla.</m:P30117>
+      <m:P30156>La lengua oculta</m:P30156>
+      <m:P30117>William Golding ; traducción de Fernando Santos Fontenla</m:P30117>
       <e:P20001>text</e:P20001>
+      <w:P10223>La lengua oculta</w:P10223>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8420632929"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/89500102"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://viaf.org/viaf/119144648592107423604">
       <w:P10088>Lord of the flies</w:P10088>
+      <w:P10016 rdf:resource="http://example.org/williamsnigel/williamgoldingslordoftheflies/eng"/>
+      <w:P10025 rdf:resource="https://www.imdb.com/title/tt0100054/spa"/>
+      <w:P10025 rdf:resource="https://www.imdb.com/title/tt0057261//eng"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/89500102"/>
       <w:P10065 rdf:resource="http://viaf.org/viaf/89500102"/>
+      <w:P10116 rdf:resource="http://example.org/handleygraham/brodiesnotesonwilliamgoldingslordoftheflies/eng"/>
+      <w:P10116 rdf:resource="http://example.org/nivenalastair/lordoftheflies/eng"/>
+      <w:P10124 rdf:resource="http://example.org/kingmartin/studentsguidetolordoftheflies/eng"/>
+      <w:P10124 rdf:resource="http://example.org/selfdavid/lordoftheflieswilliamgolding/eng"/>
+      <w:P10124 rdf:resource="http://example.org/mahoneyjohn/lordoftheflieswilliamgolding/eng"/>
+      <w:P10124 rdf:resource="http://example.org/wilsonraymond/lordofthefliesbywilliamgolding/eng"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://viaf.org/viaf/119144648592107423604/eng">
       <e:P20006>eng</e:P20006>
       <w:P10088>Lord of the Flies</w:P10088>
-      <m:P30156>Lord of the flies /</m:P30156>
-      <m:P30117>William Golding.</m:P30117>
-      <m:P30117>a novel by William Golding ; with an introduction and notes by Ian Gregor and Mark Kinkead Weekes.</m:P30117>
-      <m:P30156>William Golding's, Lord of the files /</m:P30156>
-      <m:P30117>ed. by J.R.Baker &amp; A.P.Ziegler.</m:P30117>
-      <m:P30156>edited by James R. Baker, Arthur P. Ziegler. Casebook edition, text, notes &amp; criticism.</m:P30156>
-      <m:P30156>William Golding's Lord of the Flies /</m:P30156>
-      <m:P30117>edited by James R. Baker.</m:P30117>
-      <m:P30156>a novel /</m:P30156>
-      <m:P30117>by William Golding ; with an introduction and notes by Ian Gregor and Mark Kinkead Weekes.</m:P30117>
-      <m:P30117>William Golding ; preface by Ian McEwan ; illustrations by Sam Weber.</m:P30117>
-      <m:P30117>William Golding ; introduction by E.M. Forster ; with a biographical and critical note by E.L. Epstein ; illustrated by Ben Gibson.</m:P30117>
-      <m:P30117>by W. Golding.</m:P30117>
+      <m:P30156>Lord of the flies</m:P30156>
+      <m:P30117>William Golding</m:P30117>
+      <m:P30117>a novel by William Golding ; with an introduction and notes by Ian Gregor and Mark Kinkead Weekes</m:P30117>
+      <m:P30156>William Golding's, Lord of the files</m:P30156>
+      <m:P30117>ed. by J.R.Baker &amp; A.P.Ziegler</m:P30117>
+      <m:P30142>edited by James R. Baker, Arthur P. Ziegler. Casebook edition, text, notes &amp; criticism</m:P30142>
+      <m:P30156>William Golding's Lord of the Flies</m:P30156>
+      <m:P30117>edited by James R. Baker</m:P30117>
+      <m:P30142>a novel</m:P30142>
+      <m:P30117>by William Golding ; with an introduction and notes by Ian Gregor and Mark Kinkead Weekes</m:P30117>
+      <m:P30117>William Golding ; preface by Ian McEwan ; illustrations by Sam Weber</m:P30117>
+      <m:P30117>William Golding ; introduction by E.M. Forster ; with a biographical and critical note by E.L. Epstein ; illustrated by Ben Gibson</m:P30117>
+      <m:P30117>by W. Golding</m:P30117>
       <m:P30117>by William Golding. Ed. and ann. by John Poziemski and Irmgard Richter</m:P30117>
       <m:P30117>by William Golding</m:P30117>
       <m:P30117>by William Golding. Ed. and annotated by Irmgard Richter</m:P30117>
@@ -4513,7 +4528,7 @@
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783125798540"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783150197769"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783883891651"/>
-      <bibframe:partOf rdf:resource="http://viaf.org/viaf/89500102/lordofthefliespinchermartinritesofpassage/eng"/>
+      <bibframe:partOf rdf:resource="http://viaf.org/viaf/89500102/lordoftheflieslordofthefliespinchermartinritesofpassage/eng"/>
       <e:P20330 rdf:resource="http://example.org/zieglerarthurp"/>
       <e:P20330 rdf:resource="http://example.org/bakerjr"/>
       <m:P30327 rdf:resource="http://example.org/gregorian"/>
@@ -4523,10 +4538,10 @@
    <bibframe:Work rdf:about="http://viaf.org/viaf/119144648592107423604/ger">
       <e:P20006>ger</e:P20006>
       <w:P10088>Lord of the flies</w:P10088>
-      <m:P30156>Herr der Fliegen :</m:P30156>
-      <m:P30156>Roman /</m:P30156>
-      <m:P30117>William Golding ; aus dem Englischen von Hermann Stiehl.</m:P30117>
-      <m:P30117>von William Golding ; [aus dem Englischen übertragen von Hermann Stiehl].</m:P30117>
+      <m:P30156>Herr der Fliegen</m:P30156>
+      <m:P30142>Roman</m:P30142>
+      <m:P30117>William Golding ; aus dem Englischen von Hermann Stiehl</m:P30117>
+      <m:P30117>von William Golding ; [aus dem Englischen übertragen von Hermann Stiehl]</m:P30117>
       <m:P30117>William Golding. [Aus d. Engl. übertr. von Hermann Stiehl]</m:P30117>
       <m:P30156>Lord of the flies</m:P30156>
       <m:P30117>William Golding. Ed. and ann. by Irmgard Richter</m:P30117>
@@ -4540,8 +4555,9 @@
       <m:P30117>William Golding. Ed. and annotated by Irmgard Richter</m:P30117>
       <m:P30117>William Golding. [Hrsg. von Jennifer Baer-Engel und Hartmut K. Selke]</m:P30117>
       <m:P30156>Erläuterungen zu Golding, Herr der Fliegen - Lord of the Flies</m:P30156>
-      <m:P30156>Lektüre- und Interpretationshilfe</m:P30156>
+      <m:P30142>Lektüre- und Interpretationshilfe</m:P30142>
       <e:P20001>text</e:P20001>
+      <w:P10223>Herr der Fliegen</w:P10223>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:3596214629"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:343601883"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783596214624"/>
@@ -4598,6 +4614,7 @@
       <m:P30117>William Golding</m:P30117>
       <e:P20001>text</e:P20001>
       <e:P20001>spoken word</e:P20001>
+      <w:P10223>Fluenes herre</w:P10223>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8205131570"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8252533302"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8252520308"/>
@@ -4617,9 +4634,9 @@
       <w:P10088>Lord of the flies</w:P10088>
       <m:P30156>El señor de las moscas</m:P30156>
       <m:P30117>William Golding ; [traducción, Carmen Vergara]</m:P30117>
-      <m:P30117>William Golding ; traducción de Carles Serrat Mulà ; prólogo de Josan Hatero.</m:P30117>
-      <m:P30156>El señor de las moscas /</m:P30156>
-      <m:P30117>William Golding ; [traductora, Carmen Vergara].</m:P30117>
+      <m:P30117>William Golding ; traducción de Carles Serrat Mulà ; prólogo de Josan Hatero</m:P30117>
+      <m:P30156>El señor de las moscas</m:P30156>
+      <m:P30117>William Golding ; [traductora, Carmen Vergara]</m:P30117>
       <m:P30117>William Golding ; [traducción del inglés, Carmen Vergara]</m:P30117>
       <m:P30117>William Golding ; [traducción, Carmen Vergara]</m:P30117>
       <m:P30117>William Golding ; [traductor del inglés, Carmen Vergara]</m:P30117>
@@ -4633,6 +4650,7 @@
       <m:P30117>William Golding ; [traductor, Carmen Vergara]</m:P30117>
       <m:P30117>William Golding ; [traducción, Carmen Vergara] ; presentación, Tomás Salvador</m:P30117>
       <e:P20001>text</e:P20001>
+      <w:P10223>El señor de las moscas</w:P10223>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8435008355"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9788481302066"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8420699160"/>
@@ -4657,9 +4675,9 @@
    <bibframe:Work rdf:about="http://viaf.org/viaf/174553895/eng">
       <e:P20006>eng</e:P20006>
       <w:P10088>Fire Down Below</w:P10088>
-      <m:P30156>Fire down below.</m:P30156>
-      <m:P30117>William Golding.</m:P30117>
-      <m:P30117>by William Golding.</m:P30117>
+      <m:P30156>Fire down below</m:P30156>
+      <m:P30117>William Golding</m:P30117>
+      <m:P30117>by William Golding</m:P30117>
       <e:P20001>text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:0571152031"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:0571154875"/>
@@ -4674,6 +4692,7 @@
       <m:P30156>Det ulmer en ild</m:P30156>
       <m:P30117>William Golding ; oversatt av Axel Amlie</m:P30117>
       <e:P20001>text</e:P20001>
+      <w:P10223>Det ulmer en ild Det ulmer en ild</w:P10223>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8203162614"/>
       <e:P20037 rdf:resource="http://example.org/amlieaxel"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/89500102"/>
@@ -4685,6 +4704,7 @@
       <m:P30117>William Golding ; [traducción de Fernando Santos Fontenla]</m:P30117>
       <m:P30117>William Golding ; [versión española de Fernando Santos Fontenla]</m:P30117>
       <e:P20001>text</e:P20001>
+      <w:P10223>Fuego en las entrañas</w:P10223>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9788420650845"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8420632643"/>
       <e:P20037 rdf:resource="http://example.org/santosfontenlafernando"/>
@@ -4693,9 +4713,9 @@
    <bibframe:Work rdf:about="http://viaf.org/viaf/176165653/eng">
       <e:P20006>eng</e:P20006>
       <w:P10088>Rites of Passage</w:P10088>
-      <m:P30156>Rites of passage /</m:P30156>
-      <m:P30117>William Golding.</m:P30117>
-      <m:P30117>William Golding ; with an introduction by Robert McCrum.</m:P30117>
+      <m:P30156>Rites of passage</m:P30156>
+      <m:P30117>William Golding</m:P30117>
+      <m:P30117>William Golding ; with an introduction by Robert McCrum</m:P30117>
       <e:P20001>text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:0374250863"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:0571117880"/>
@@ -4703,16 +4723,17 @@
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9780571297245"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9780571298549"/>
       <bibframe:partOf rdf:resource="http://www.wikidata.org/entity/Q4394863/eng"/>
-      <bibframe:partOf rdf:resource="http://viaf.org/viaf/89500102/lordofthefliespinchermartinritesofpassage/eng"/>
+      <bibframe:partOf rdf:resource="http://viaf.org/viaf/89500102/lordoftheflieslordofthefliespinchermartinritesofpassage/eng"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/89500102"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://viaf.org/viaf/176165653/ger">
       <e:P20006>ger</e:P20006>
       <w:P10088>Rites of passage</w:P10088>
       <m:P30156>Äquatortaufe</m:P30156>
-      <m:P30156>Roman</m:P30156>
+      <m:P30142>Roman</m:P30142>
       <m:P30117>William Golding. Aus d. Engl. von Herbert Schlüter</m:P30117>
       <e:P20001>text</e:P20001>
+      <w:P10223>Äquatortaufe</w:P10223>
       <bibframe:hasInstance rdf:resource="http://example.org/850274044"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783570004531"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783442068326"/>
@@ -4724,6 +4745,7 @@
       <m:P30156>Skrift på vann</m:P30156>
       <m:P30117>William Golding ; oversatt av Axel Amlie</m:P30117>
       <e:P20001>text</e:P20001>
+      <w:P10223>Skrift på vann</w:P10223>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8203108555"/>
       <e:P20037 rdf:resource="http://example.org/amlieaxel"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/89500102"/>
@@ -4735,6 +4757,7 @@
       <m:P30117>William Golding ; [traducción de Fernando Santos Fontenla]</m:P30117>
       <m:P30117>William Golding ; [traducción, Fernando Santos Fontenla]</m:P30117>
       <e:P20001>text</e:P20001>
+      <w:P10223>Ritos de paso</w:P10223>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9788420674162"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8420630969"/>
       <e:P20037 rdf:resource="http://example.org/santosfontenlafernando"/>
@@ -4753,6 +4776,7 @@
       <e:P20001>text</e:P20001>
       <w:P10004>novella</w:P10004>
       <w:P10088>Envoy Extraordinary</w:P10088>
+      <w:P10223>Der Sonderbotschafter</w:P10223>
       <bibframe:partOf rdf:resource="http://www.wikidata.org/entity/Q7762618/ger"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/89500102"/>
    </bibframe:Work>
@@ -4761,6 +4785,7 @@
       <e:P20001>text</e:P20001>
       <w:P10004>novella</w:P10004>
       <w:P10088>Envoy Extraordinary</w:P10088>
+      <w:P10223>El enviado especial</w:P10223>
       <bibframe:partOf rdf:resource="http://www.wikidata.org/entity/Q7762618/spa"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/89500102"/>
    </bibframe:Work>
@@ -4768,15 +4793,17 @@
       <w:P10088>Spire</w:P10088>
       <w:P10061 rdf:resource="http://viaf.org/viaf/89500102"/>
       <w:P10065 rdf:resource="http://viaf.org/viaf/89500102"/>
+      <w:P10116 rdf:resource="http://example.org/spearhildad/thespire/eng"/>
+      <w:P10124 rdf:resource="http://example.org/sumnerrosemary/thespirebywilliamgolding/eng"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://viaf.org/viaf/178994871/eng">
       <e:P20006>eng</e:P20006>
       <w:P10088>The Spire</w:P10088>
-      <m:P30156>The spire :</m:P30156>
-      <m:P30156>a novel /</m:P30156>
-      <m:P30117>by William Golding ; inroduction by John Mullan.</m:P30117>
-      <m:P30117>William Golding.</m:P30117>
-      <m:P30117>by William Golding.</m:P30117>
+      <m:P30156>The spire</m:P30156>
+      <m:P30142>a novel</m:P30142>
+      <m:P30117>by William Golding ; inroduction by John Mullan</m:P30117>
+      <m:P30117>William Golding</m:P30117>
+      <m:P30117>by William Golding</m:P30117>
       <e:P20001>text</e:P20001>
       <w:P10088>Spire</w:P10088>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9780571267477"/>
@@ -4788,7 +4815,7 @@
       <bibframe:hasInstance rdf:resource="http://example.org/001452476"/>
       <bibframe:hasInstance rdf:resource="http://example.org/001452477"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9780571307821"/>
-      <bibframe:partOf rdf:resource="http://example.org/bunnellws/notesonwilliamgoldingsthespire/eng"/>
+      <bibframe:partOf rdf:resource="http://example.org/bunnellws/notesonwilliamgoldingsthespirenotesonwilliamgoldingsthespire/eng"/>
       <m:P30327 rdf:resource="http://example.org/mullanjohn"/>
       <m:P30327 rdf:resource="http://example.org/graydavidb"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/89500102"/>
@@ -4799,18 +4826,19 @@
       <w:P10088>The Spire</w:P10088>
       <m:P30156>Der Turm der Kathedrale</m:P30156>
       <m:P30117>William Golding. Aus d. Engl. übers. von Hermann Stiehl</m:P30117>
-      <m:P30156>Roman</m:P30156>
+      <m:P30142>Roman</m:P30142>
       <m:P30117>William Golding. Aus d. Engl. übertr. von Hermann Stiehl</m:P30117>
-      <m:P30156>Nobelpreis 1983 England</m:P30156>
+      <m:P30142>Nobelpreis 1983 England</m:P30142>
       <m:P30117>William Golding. [Bibliogr.: Werner Martin]</m:P30117>
       <e:P20001>text</e:P20001>
       <w:P10088>Spire</w:P10088>
+      <w:P10223>Der Turm der Kathedrale</w:P10223>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783100268044"/>
       <bibframe:hasInstance rdf:resource="http://example.org/456781056"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783596250455"/>
       <bibframe:hasInstance rdf:resource="http://example.org/961860596"/>
       <bibframe:hasInstance rdf:resource="http://example.org/910000743"/>
-      <bibframe:partOf rdf:resource="http://example.org/derturmderkathedralenobelpreis1983england/ger"/>
+      <bibframe:partOf rdf:resource="http://example.org/derturmderkathedralederturmderkathedralenobelpreis1983england/ger"/>
       <e:P20037 rdf:resource="http://example.org/stiehlhermann"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/89500102"/>
    </bibframe:Work>
@@ -4818,11 +4846,12 @@
       <e:P20006>spa</e:P20006>
       <w:P10088>Spire</w:P10088>
       <w:P10088>The Spire</w:P10088>
-      <m:P30156>La construcción de la torre /</m:P30156>
-      <m:P30117>William Golding ; traducción del inglés por Encarna Quijada.</m:P30117>
+      <m:P30156>La construcción de la torre</m:P30156>
+      <m:P30117>William Golding ; traducción del inglés por Encarna Quijada</m:P30117>
       <m:P30117>William Golding ; [traducción del inglés, Horacio Laurora]</m:P30117>
       <m:P30117>William Golding ; [traducción, Horacio Laurora]</m:P30117>
       <e:P20001>text</e:P20001>
+      <w:P10223>La construcción de la torre</w:P10223>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9788432227479"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8435004201"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8448704541"/>
@@ -4844,6 +4873,7 @@
       <e:P20001>text</e:P20001>
       <w:P10004>novella</w:P10004>
       <w:P10088>Clonk Clonk</w:P10088>
+      <w:P10223>Clonk Clonk</w:P10223>
       <bibframe:partOf rdf:resource="http://www.wikidata.org/entity/Q7762618/ger"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/89500102"/>
    </bibframe:Work>
@@ -4852,21 +4882,22 @@
       <e:P20001>text</e:P20001>
       <w:P10004>novella</w:P10004>
       <w:P10088>Clonk Clonk</w:P10088>
+      <w:P10223>Clonc, clonc</w:P10223>
       <bibframe:partOf rdf:resource="http://www.wikidata.org/entity/Q7762618/spa"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/89500102"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://viaf.org/viaf/184334172/eng">
       <e:P20006>eng</e:P20006>
       <w:P10088>Pincher Martin</w:P10088>
-      <m:P30156>Pincher Martin.</m:P30156>
-      <m:P30117>William Golding ; with a afterword by Philippa Gregory.</m:P30117>
-      <m:P30117>William Golding.</m:P30117>
+      <m:P30156>Pincher Martin</m:P30156>
+      <m:P30117>William Golding ; with a afterword by Philippa Gregory</m:P30117>
+      <m:P30117>William Golding</m:P30117>
       <e:P20001>text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/014141172"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9780571309191"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:0571225454"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9780571298501"/>
-      <bibframe:partOf rdf:resource="http://viaf.org/viaf/89500102/lordofthefliespinchermartinritesofpassage/eng"/>
+      <bibframe:partOf rdf:resource="http://viaf.org/viaf/89500102/lordoftheflieslordofthefliespinchermartinritesofpassage/eng"/>
       <m:P30327 rdf:resource="http://example.org/gregoryphilippa"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/89500102"/>
    </bibframe:Work>
@@ -4874,15 +4905,16 @@
       <e:P20006>ger</e:P20006>
       <w:P10088>Pincher Martin</w:P10088>
       <m:P30156>Der Felsen des zweiten Todes</m:P30156>
-      <m:P30156>Roman</m:P30156>
+      <m:P30142>Roman</m:P30142>
       <m:P30117>William Golding. [Aus d. Engl. übertr. von Hermann Stiehl]</m:P30117>
       <m:P30117>William Golding. Dt. von Hermann Stiehl</m:P30117>
       <m:P30156>Pincher Martin</m:P30156>
-      <m:P30156>Roman ; [aus d. Engl.]</m:P30156>
+      <m:P30142>Roman ; [aus d. Engl.]</m:P30142>
       <m:P30117>William Golding. [Übers. von Hermann Stiehl. Mit e. Essay von Bernhard Scheller "Versuch der Annäherung an Golding"]</m:P30117>
       <m:P30117>William Golding. [Aus dem Engl. Übers. von Hermann Stiehl]</m:P30117>
       <m:P30117>William Golding. [Übers. von Hermann Stiehl. Mit e. Essay von Bernhard Scheller "Versuch über Golding"]</m:P30117>
       <e:P20001>text</e:P20001>
+      <w:P10223>Der Felsen des zweiten Todes</w:P10223>
       <bibframe:hasInstance rdf:resource="http://example.org/451602714"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783596250431"/>
       <bibframe:hasInstance rdf:resource="http://example.org/810281783"/>
@@ -4894,10 +4926,11 @@
    <bibframe:Work rdf:about="http://viaf.org/viaf/184334172/nob">
       <e:P20006>nob</e:P20006>
       <w:P10088>Pincher Martin</w:P10088>
-      <m:P30156>Martin den skibbrudne :</m:P30156>
-      <m:P30156>roman</m:P30156>
+      <m:P30156>Martin den skibbrudne</m:P30156>
+      <m:P30142>roman</m:P30142>
       <m:P30117>William Golding ; overs. av Ragnar Kvam</m:P30117>
       <e:P20001>text</e:P20001>
+      <w:P10223>Martin den skibbrudne</w:P10223>
       <bibframe:hasInstance rdf:resource="http://example.org/999212215764702201"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/89500102"/>
    </bibframe:Work>
@@ -4909,6 +4942,7 @@
       <m:P30156>Martín el náufrago</m:P30156>
       <m:P30117>William Golding ; introducción y traducción, Clara Janés</m:P30117>
       <e:P20001>text</e:P20001>
+      <w:P10223>Martín el náufrago</w:P10223>
       <bibframe:hasInstance rdf:resource="http://example.org/bimo0000923022"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8426570615"/>
       <e:P20037 rdf:resource="http://example.org/jansclara"/>
@@ -4918,8 +4952,8 @@
    <bibframe:Work rdf:about="http://viaf.org/viaf/187146251/eng">
       <e:P20006>eng</e:P20006>
       <w:P10088>Close Quarters</w:P10088>
-      <m:P30156>Close quarters.</m:P30156>
-      <m:P30117>William Golding.</m:P30117>
+      <m:P30156>Close quarters</m:P30156>
+      <m:P30117>William Golding</m:P30117>
       <e:P20001>text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:0571151671"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9780571267439"/>
@@ -4932,9 +4966,10 @@
       <e:P20006>ger</e:P20006>
       <w:P10088>Close Quarters</w:P10088>
       <m:P30156>Die Eingepferchten</m:P30156>
-      <m:P30156>Roman</m:P30156>
+      <m:P30142>Roman</m:P30142>
       <m:P30117>William Golding. Dt. von Emil Bastuk</m:P30117>
       <e:P20001>text</e:P20001>
+      <w:P10223>Die Eingepferchten</w:P10223>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783813572087"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/89500102"/>
    </bibframe:Work>
@@ -4944,6 +4979,7 @@
       <m:P30156>Nærkamp</m:P30156>
       <m:P30117>William Golding ; oversatt av Axel Amlie</m:P30117>
       <e:P20001>text</e:P20001>
+      <w:P10223>Nærkamp</w:P10223>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8203158307"/>
       <e:P20037 rdf:resource="http://example.org/amlieaxel"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/89500102"/>
@@ -4955,6 +4991,7 @@
       <m:P30117>William Golding ; [traducción de Fernando Santos Fontenla]</m:P30117>
       <m:P30117>William Golding ; [traductor, Fernando Santos Fontenla]</m:P30117>
       <e:P20001>text</e:P20001>
+      <w:P10223>Cuerpo a cuerpo</w:P10223>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9788420650838"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8420632430"/>
       <e:P20037 rdf:resource="http://example.org/santosfontenlafernando"/>
@@ -4963,8 +5000,8 @@
    <bibframe:Work rdf:about="http://viaf.org/viaf/188302088/eng">
       <e:P20006>eng</e:P20006>
       <w:P10088>The Paper Men</w:P10088>
-      <m:P30156>The paper men /</m:P30156>
-      <m:P30117>William Golding.</m:P30117>
+      <m:P30156>The paper men</m:P30156>
+      <m:P30117>William Golding</m:P30117>
       <e:P20001>text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:0571132065"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9780571267415"/>
@@ -4976,9 +5013,10 @@
       <e:P20006>ger</e:P20006>
       <w:P10088>The paper men</w:P10088>
       <m:P30156>Papier-Männer</m:P30156>
-      <m:P30156>Roman</m:P30156>
+      <m:P30142>Roman</m:P30142>
       <m:P30117>William Golding. [Aus d. Engl. von Emil Bastuk]</m:P30117>
       <e:P20001>text</e:P20001>
+      <w:P10223>Papier-Männer</w:P10223>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783570017470"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783442068975"/>
       <bibframe:hasInstance rdf:resource="http://example.org/861066677"/>
@@ -4990,6 +5028,7 @@
       <m:P30156>Papirmennene</m:P30156>
       <m:P30117>William Golding ; oversatt av Carl Hambro</m:P30117>
       <e:P20001>text</e:P20001>
+      <w:P10223>Papirmennene</w:P10223>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8203113761"/>
       <e:P20037 rdf:resource="http://example.org/hambrocarl"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/89500102"/>
@@ -5000,6 +5039,7 @@
       <m:P30156>Los hombres de papel</m:P30156>
       <m:P30117>William Golding ; traducción de Fernando Santos Fontenla</m:P30117>
       <e:P20001>text</e:P20001>
+      <w:P10223>Los hombres de papel</w:P10223>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9788420653525"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8420631477"/>
       <e:P20037 rdf:resource="http://example.org/santosfontenlafernando"/>
@@ -5012,10 +5052,10 @@
    <bibframe:Work rdf:about="http://viaf.org/viaf/211743501/eng">
       <e:P20006>eng</e:P20006>
       <w:P10088>Darkness Visible</w:P10088>
-      <m:P30156>Darkness visible /</m:P30156>
-      <m:P30117>William Golding.</m:P30117>
-      <m:P30117>by William Golding.</m:P30117>
-      <m:P30117>William Golding ; with an introduction by Philip Hensher.</m:P30117>
+      <m:P30156>Darkness visible</m:P30156>
+      <m:P30117>William Golding</m:P30117>
+      <m:P30117>by William Golding</m:P30117>
+      <m:P30117>William Golding ; with an introduction by Philip Hensher</m:P30117>
       <e:P20001>text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:0374135029"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9780571312245"/>
@@ -5027,11 +5067,12 @@
       <e:P20006>ger</e:P20006>
       <w:P10088>Darkness Visible</w:P10088>
       <m:P30156>Das Feuer der Finsternis</m:P30156>
-      <m:P30156>Roman</m:P30156>
+      <m:P30142>Roman</m:P30142>
       <m:P30117>William Golding. [Aus d. Engl. von Ursula Leipe]</m:P30117>
       <m:P30117>William Golding</m:P30117>
       <m:P30117>William Golding. Dt. von Ursula Leipe</m:P30117>
       <e:P20001>text</e:P20001>
+      <w:P10223>Das Feuer der Finsternis</w:P10223>
       <bibframe:hasInstance rdf:resource="http://example.org/871115859"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783442092550"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783820502107"/>
@@ -5045,6 +5086,7 @@
       <m:P30156>Synlig mørke</m:P30156>
       <m:P30117>William Golding ; med etterord av Odd Inge Langholm ; oversatt av Oddvar Aurstad</m:P30117>
       <e:P20001>text</e:P20001>
+      <w:P10223>Synlig mørke</w:P10223>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8203106188"/>
       <e:P20037 rdf:resource="http://example.org/aurstadoddvar"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/89500102"/>
@@ -5058,6 +5100,7 @@
       <m:P30156>Oscuridad visible</m:P30156>
       <m:P30117>William Golding ; [traducción del inglés, Eduardo Gologorsky]</m:P30117>
       <e:P20001>text</e:P20001>
+      <w:P10223>La oscuridad visible</w:P10223>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8475304621"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8475303749"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8420631345"/>
@@ -5071,12 +5114,13 @@
       <w:P10088>Inheritors</w:P10088>
       <w:P10061 rdf:resource="http://viaf.org/viaf/89500102"/>
       <w:P10065 rdf:resource="http://viaf.org/viaf/89500102"/>
+      <w:P10116 rdf:resource="http://example.org/spearhildad/williamgoldingtheinheritorsnotes/eng"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://viaf.org/viaf/217036112/eng">
       <e:P20006>eng</e:P20006>
       <w:P10088>The Inheritors</w:P10088>
-      <m:P30156>The inheritors.</m:P30156>
-      <m:P30117>William Golding.</m:P30117>
+      <m:P30156>The inheritors</m:P30156>
+      <m:P30117>William Golding</m:P30117>
       <e:P20001>text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/004098134"/>
       <bibframe:hasInstance rdf:resource="http://example.org/001452449"/>
@@ -5092,11 +5136,12 @@
       <w:P10088>The Inheritors</w:P10088>
       <m:P30156>Die Erben</m:P30156>
       <m:P30117>William Golding. [Dt. von Hermann Stiehl]</m:P30117>
-      <m:P30156>Paläo-Fiction Roman (Nr. 3)</m:P30156>
+      <m:P30142>Paläo-Fiction Roman (Nr. 3)</m:P30142>
       <m:P30117>William Golding</m:P30117>
-      <m:P30156>[Roman]</m:P30156>
+      <m:P30142>[Roman]</m:P30142>
       <m:P30117>William Golding. Aus d. Engl. übertr. von Hermann Stiehl</m:P30117>
       <e:P20001>text</e:P20001>
+      <w:P10223>Die Erben</w:P10223>
       <bibframe:hasInstance rdf:resource="http://example.org/451602676"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783890645278"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783596258253"/>
@@ -5109,6 +5154,7 @@
       <m:P30156>Arvtakerne</m:P30156>
       <m:P30117>William Golding ; oversatt av Olav Lausund og Nils Ryum ; etterord ved Olav Lausund</m:P30117>
       <e:P20001>text</e:P20001>
+      <w:P10223>Arvtakerne</w:P10223>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9788274881525"/>
       <e:P20037 rdf:resource="http://example.org/lausundolav"/>
       <e:P20037 rdf:resource="http://example.org/ryumnils"/>
@@ -5118,9 +5164,10 @@
       <e:P20006>spa</e:P20006>
       <w:P10088>Inheritors</w:P10088>
       <w:P10088>The inheritors</w:P10088>
-      <m:P30156>Los herederos /</m:P30156>
-      <m:P30117>William Golding ; traducción de Luis Echávarri.</m:P30117>
+      <m:P30156>Los herederos</m:P30156>
+      <m:P30117>William Golding ; traducción de Luis Echávarri</m:P30117>
       <e:P20001>text</e:P20001>
+      <w:P10223>Los herederos</w:P10223>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8445074415"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8445071920"/>
       <e:P20037 rdf:resource="http://example.org/echvarriluis"/>
@@ -5133,8 +5180,8 @@
    <bibframe:Work rdf:about="http://viaf.org/viaf/218116512/eng">
       <e:P20006>eng</e:P20006>
       <w:P10088>Free Fall</w:P10088>
-      <m:P30156>Free fall /</m:P30156>
-      <m:P30117>William Golding.</m:P30117>
+      <m:P30156>Free fall</m:P30156>
+      <m:P30117>William Golding</m:P30117>
       <e:P20001>text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9780571268788"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:0571060196"/>
@@ -5145,9 +5192,10 @@
       <e:P20006>ger</e:P20006>
       <w:P10088>Free Fall</w:P10088>
       <m:P30156>Freier Fall</m:P30156>
-      <m:P30156>Roman</m:P30156>
+      <m:P30142>Roman</m:P30142>
       <m:P30117>William Golding. Aus d. Engl. übertr. von Hermann Stresau</m:P30117>
       <e:P20001>text</e:P20001>
+      <w:P10223>Freier Fall</w:P10223>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783596250462"/>
       <bibframe:hasInstance rdf:resource="http://example.org/451602668"/>
       <e:P20037 rdf:resource="http://example.org/stresauhermann"/>
@@ -5159,6 +5207,7 @@
       <m:P30156>Caída libre</m:P30156>
       <m:P30117>William Golding ; [traducción de Javier Franco Aixelá]</m:P30117>
       <e:P20001>text</e:P20001>
+      <w:P10223>Caída inexorable</w:P10223>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8420631744"/>
       <e:P20037 rdf:resource="http://example.org/francoaixeljavier"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/89500102"/>
@@ -5166,8 +5215,8 @@
    <bibframe:Work rdf:about="http://viaf.org/viaf/307973201/eng">
       <e:P20006>eng</e:P20006>
       <w:P10088>The Moving Target</w:P10088>
-      <m:P30156>A moving target /</m:P30156>
-      <m:P30117>William Golding.</m:P30117>
+      <m:P30156>A moving target</m:P30156>
+      <m:P30117>William Golding</m:P30117>
       <e:P20001>text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/009255092"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:0571133592"/>
@@ -5189,6 +5238,7 @@
       <e:P20001>text</e:P20001>
       <w:P10004>novella</w:P10004>
       <w:P10088>The Scorpion God</w:P10088>
+      <w:P10223>Der Skorpion-Gott</w:P10223>
       <bibframe:partOf rdf:resource="http://www.wikidata.org/entity/Q7762618/ger"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/89500102"/>
    </bibframe:Work>
@@ -5197,15 +5247,16 @@
       <e:P20001>text</e:P20001>
       <w:P10004>novella</w:P10004>
       <w:P10088>The Scorpion God</w:P10088>
+      <w:P10223>El dios Escorpión</w:P10223>
       <bibframe:partOf rdf:resource="http://www.wikidata.org/entity/Q7762618/spa"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/89500102"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://viaf.org/viaf/309268108/eng">
       <e:P20006>eng</e:P20006>
       <w:P10088>The Pyramid</w:P10088>
-      <m:P30156>The pyramid /</m:P30156>
-      <m:P30117>William Golding.</m:P30117>
-      <m:P30117>William Golding, introduction by Penelope Lively.</m:P30117>
+      <m:P30156>The pyramid</m:P30156>
+      <m:P30117>William Golding</m:P30117>
+      <m:P30117>William Golding, introduction by Penelope Lively</m:P30117>
       <e:P20001>text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9780571309184"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9780571298525"/>
@@ -5219,12 +5270,13 @@
       <e:P20006>ger</e:P20006>
       <w:P10088>The Pyramid</w:P10088>
       <m:P30156>Oliver</m:P30156>
-      <m:P30156>e. Entwicklungsroman</m:P30156>
+      <m:P30142>e. Entwicklungsroman</m:P30142>
       <m:P30117>William Golding. Dt. von Jürgen Abel</m:P30117>
-      <m:P30156>ein Entwicklungsroman</m:P30156>
+      <m:P30142>ein Entwicklungsroman</m:P30142>
       <m:P30117>William Golding</m:P30117>
-      <m:P30156>Roman. [Berecht. Übers. aus d. Engl.]</m:P30156>
+      <m:P30142>Roman. [Berecht. Übers. aus d. Engl.]</m:P30142>
       <e:P20001>text</e:P20001>
+      <w:P10223>Oliver</w:P10223>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783442066957"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783442033157"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783546432948"/>
@@ -5237,16 +5289,18 @@
       <m:P30117>William Golding ; traducción de Andrés Boch</m:P30117>
       <m:P30117>[Traducción Andrés Bosch</m:P30117>
       <e:P20001>text</e:P20001>
+      <w:P10223>La pirámide</w:P10223>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:842641057"/>
       <bibframe:hasInstance rdf:resource="http://example.org/bimo0000923028"/>
       <e:P20037 rdf:resource="http://example.org/boschandrs"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/89500102"/>
    </bibframe:Work>
-   <bibframe:Work rdf:about="http://viaf.org/viaf/89500102/lordofthefliespinchermartinritesofpassage/eng">
+   <bibframe:Work rdf:about="http://viaf.org/viaf/89500102/lordoftheflieslordofthefliespinchermartinritesofpassage/eng">
       <e:P20006>eng</e:P20006>
       <m:P30156>Lord of the flies ;</m:P30156>
-      <m:P30156>Pincher Martin ; Rites of passage /</m:P30156>
-      <m:P30117>William Golding.</m:P30117>
+      <m:P30142>Pincher Martin ; Rites of passage</m:P30142>
+      <m:P30117>William Golding</m:P30117>
+      <w:P10088>Lord of the flies ;</w:P10088>
       <e:P20001>text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:0571133681"/>
       <bibframe:hasPart rdf:resource="http://viaf.org/viaf/119144648592107423604/eng"/>
@@ -5257,10 +5311,10 @@
    <bibframe:Work rdf:about="http://www.wikidata.org/entity/Q4394863/eng">
       <e:P20006>eng</e:P20006>
       <w:P10088>To the Ends of the Earth</w:P10088>
-      <m:P30156>To the ends of the Earth /</m:P30156>
-      <m:P30117>William Golding.</m:P30117>
-      <m:P30156>a sea trilogy.</m:P30156>
-      <m:P30156>A sea trilogy comprising "Rites of Passage", "Close Quarters" and "Fire Down Below".</m:P30156>
+      <m:P30156>To the ends of the Earth</m:P30156>
+      <m:P30117>William Golding</m:P30117>
+      <m:P30142>a sea trilogy</m:P30142>
+      <m:P30142>A sea trilogy comprising "Rites of Passage", "Close Quarters" and "Fire Down Below"</m:P30142>
       <e:P20001>text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:0571223214"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:0571164064"/>
@@ -5277,12 +5331,12 @@
       <e:P20006>eng</e:P20006>
       <w:P10088>The Scorpion God</w:P10088>
       <w:P10004>novella collection</w:P10004>
-      <m:P30156>The scorpion god :</m:P30156>
-      <m:P30156>three short novels /</m:P30156>
-      <m:P30117>[by] William Golding.</m:P30117>
-      <m:P30117>William Golding.</m:P30117>
-      <m:P30117>William Golding ; with an introduction by Craig Raine.</m:P30117>
-      <m:P30156>The scorpion god: three short novels.</m:P30156>
+      <m:P30156>The scorpion god</m:P30156>
+      <m:P30142>three short novels</m:P30142>
+      <m:P30117>[by] William Golding</m:P30117>
+      <m:P30117>William Golding</m:P30117>
+      <m:P30117>William Golding ; with an introduction by Craig Raine</m:P30117>
+      <m:P30156>The scorpion god: three short novels</m:P30156>
       <e:P20001>text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9780571305018"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:0745171044"/>
@@ -5299,9 +5353,10 @@
       <w:P10088>The Scorpion God</w:P10088>
       <w:P10004>novella collection</w:P10004>
       <m:P30156>Der Sonderbotschafter</m:P30156>
-      <m:P30156>Romane</m:P30156>
+      <m:P30142>Romane</m:P30142>
       <m:P30117>William Golding. Dt. von Ulla H. de Herrera</m:P30117>
       <e:P20001>text</e:P20001>
+      <w:P10223>Der Sonderbotschafter</w:P10223>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783442066940"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783546432955"/>
       <bibframe:hasPart rdf:resource="http://viaf.org/viaf/308018847/ger"/>
@@ -5314,17 +5369,18 @@
       <e:P20006>spa</e:P20006>
       <w:P10088>The Scorpion God</w:P10088>
       <w:P10004>novella collection</w:P10004>
-      <m:P30156>El dios Escorpión ; Clonc clonc ; El enviado especial /</m:P30156>
-      <m:P30117>William Golding.</m:P30117>
+      <m:P30156>El dios Escorpión ; Clonc clonc ; El enviado especial</m:P30156>
+      <m:P30117>William Golding</m:P30117>
       <m:P30156>El dios escorpión</m:P30156>
-      <m:P30156>tres novelas cortas</m:P30156>
+      <m:P30142>tres novelas cortas</m:P30142>
       <m:P30117>[traductora, Ernestina Champourcin]</m:P30117>
-      <m:P30156>Clonc, clonc ; El enviado especial</m:P30156>
+      <m:P30142>Clonc, clonc ; El enviado especial</m:P30142>
       <m:P30117>William Golding ; [traductora, Ernestina de Champourcin]</m:P30117>
       <m:P30117>William Golding ; traducción de Ernestina de Champourcin</m:P30117>
       <m:P30117>; Clonc Clonc ; El enviado especial / William Golding ; [traductor, Ernestina de Champourcin]</m:P30117>
       <m:P30117>; Clonc Clonc ; El enviado especial / William Golding ; [traductora, Ernestina de Champourcin]</m:P30117>
       <e:P20001>text</e:P20001>
+      <w:P10223>El dios Escorpión</w:P10223>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8420655686"/>
       <bibframe:hasInstance rdf:resource="http://example.org/bimo0000923021"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9788420653532"/>
@@ -5351,14 +5407,14 @@
       <w:P10053 rdf:resource="http://example.org/leppardraymond"/>
       <w:P10064 rdf:resource="http://example.org/allenlewism"/>
       <w:P10068 rdf:resource="http://example.org/hollymantom"/>
+      <w:P10129 rdf:resource="http://viaf.org/viaf/119144648592107423604"/>
       <w:P10203 rdf:resource="http://example.org/brookpeter"/>
-      <w:motionPictureAdaptationOfWork.en rdf:resource="http://viaf.org/viaf/119144648592107423604"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="https://www.imdb.com/title/tt0100054/spa">
       <e:P20006>spa</e:P20006>
       <w:P10088>Lord of the flies</w:P10088>
       <m:P30156>El señor de las moscas</m:P30156>
-      <m:P30156>Lord of the flies</m:P30156>
+      <m:P30142>Lord of the flies</m:P30142>
       <m:P30117>argumento, William Golding ; guión de Sara Schiff ; música de Philippe Sarde , director de fotografía, Martin Fuhrer ; producida por Ross Milloy ; dirigida por Harry Hook</m:P30117>
       <m:P30117>dirigida por Harry Hook ; producida por Ross Milloy ; guión de Sara Schiff ; director de fotografía, Martin Fuhrer</m:P30117>
       <m:P30117>dirigida por Harry Hook , producida por Ross Milloy ; guión de Sara Schiff ; director de fotografía, Martin Fuhrer ; música de Philippe Sarde</m:P30117>
@@ -5374,8 +5430,8 @@
       <w:P10053 rdf:resource="http://example.org/sardephilippe"/>
       <w:P10064 rdf:resource="http://example.org/milloyross"/>
       <w:P10068 rdf:resource="http://example.org/fuhrermartin"/>
+      <w:P10129 rdf:resource="http://viaf.org/viaf/119144648592107423604"/>
       <w:P10203 rdf:resource="http://example.org/schiffsara"/>
-      <w:motionPictureAdaptationOfWork.en rdf:resource="http://viaf.org/viaf/119144648592107423604"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://example.org/jahnkehansotto/williamgoldinglordoftheflies/ger">
       <e:P20006>ger</e:P20006>
@@ -5398,9 +5454,9 @@
    <bibframe:Work rdf:about="http://example.org/kellerrolfheinrich/thephilosophyofwilliamgolding/eng">
       <e:P20006>eng</e:P20006>
       <w:P10088>The philosophy of William Golding</w:P10088>
-      <m:P30156>The philosophy of William Golding :</m:P30156>
-      <m:P30156>with special reference to 'Free Fall' /</m:P30156>
-      <m:P30117>by Rolf Heinrich Keller.</m:P30117>
+      <m:P30156>The philosophy of William Golding</m:P30156>
+      <m:P30142>with special reference to 'Free Fall'</m:P30142>
+      <m:P30117>by Rolf Heinrich Keller</m:P30117>
       <e:P20001>text</e:P20001>
       <w:P10004>thesis</w:P10004>
       <bibframe:hasInstance rdf:resource="http://example.org/011241784"/>
@@ -5409,17 +5465,17 @@
    <bibframe:Work rdf:about="http://example.org/kingmartin/studentsguidetolordoftheflies/eng">
       <e:P20006>eng</e:P20006>
       <w:P10088>Students' guide to Lord of the flies</w:P10088>
-      <m:P30156>Students' guide to Lord of the flies.</m:P30156>
+      <m:P30156>Students' guide to Lord of the flies</m:P30156>
       <e:P20001>text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:997149048"/>
       <w:P10061 rdf:resource="http://example.org/kingmartin"/>
-      <w:guideToWork.en rdf:resource="http://viaf.org/viaf/119144648592107423604"/>
+      <w:P10150 rdf:resource="http://viaf.org/viaf/119144648592107423604"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://example.org/machinroger/lordoftheflies/ger">
       <e:P20006>ger</e:P20006>
       <w:P10088>"Lord of the flies"</w:P10088>
       <m:P30156>"Lord of the flies"</m:P30156>
-      <m:P30156>[Literatur-Kartei Englisch "Lord of the flies" ; Literatur-Kartei zum Roman von William Golding]</m:P30156>
+      <m:P30142>[Literatur-Kartei Englisch "Lord of the flies" ; Literatur-Kartei zum Roman von William Golding]</m:P30142>
       <m:P30117>[Autor: Roger Machin ; Louise Machin]</m:P30117>
       <e:P20001>text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783860726679"/>
@@ -5429,15 +5485,15 @@
       <e:P20006>eng</e:P20006>
       <w:P10088>Lord of the flies, William Golding</w:P10088>
       <w:P10004>guide</w:P10004>
-      <m:P30156>Lord of the flies, William Golding :</m:P30156>
-      <m:P30156>guide /</m:P30156>
-      <m:P30117>written and developed by John Mahoney and Stewart Martin.</m:P30117>
+      <m:P30156>Lord of the flies, William Golding</m:P30156>
+      <m:P30142>guide</m:P30142>
+      <m:P30117>written and developed by John Mahoney and Stewart Martin</m:P30117>
       <e:P20001>text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:0850977738"/>
       <w:P10061 rdf:resource="http://example.org/mahoneyjohn"/>
       <w:P10061 rdf:resource="http://example.org/martinstewart"/>
+      <w:P10150 rdf:resource="http://viaf.org/viaf/119144648592107423604"/>
       <w:P10261 rdf:resource="http://viaf.org/viaf/89500102"/>
-      <w:guideToWork.en rdf:resource="http://viaf.org/viaf/119144648592107423604"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://example.org/meitckew/lekturehilfenwilliamgoldinglordoftheflies/ger">
       <e:P20006>ger</e:P20006>
@@ -5461,20 +5517,20 @@
       <e:P20006>eng</e:P20006>
       <w:P10088>Lord of the flies</w:P10088>
       <w:P10004>notes</w:P10004>
-      <m:P30156>Lord of the flies :</m:P30156>
-      <m:P30156>notes /</m:P30156>
-      <m:P30117>by Alastair Niven.</m:P30117>
+      <m:P30156>Lord of the flies</m:P30156>
+      <m:P30142>notes</m:P30142>
+      <m:P30117>by Alastair Niven</m:P30117>
       <e:P20001>text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:0582781000"/>
       <w:P10061 rdf:resource="http://example.org/nivenalastair"/>
+      <w:P10187 rdf:resource="http://viaf.org/viaf/119144648592107423604"/>
       <w:P10261 rdf:resource="http://viaf.org/viaf/89500102"/>
-      <w:commentaryOnWork.en rdf:resource="http://viaf.org/viaf/119144648592107423604"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://example.org/peabentezpatricia/artculodeopininthelordoftheflies/eng">
       <e:P20006>eng</e:P20006>
       <w:P10088>Artículo de opinión "The lord of the flies"</w:P10088>
       <m:P30156>Artículo de opinión</m:P30156>
-      <m:P30156>"The lord of the flies"</m:P30156>
+      <m:P30142>"The lord of the flies"</m:P30142>
       <m:P30117>Patricia Peña Benítez</m:P30117>
       <e:P20001>text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9788492501014"/>
@@ -5493,7 +5549,7 @@
       <e:P20006>ger</e:P20006>
       <w:P10088>William Golding, Herr der Fliegen, Die Koralleninsel (R. M. Ballantyne) / Analysen und Reflexionen. Interpretationen und Anmerkungen</w:P10088>
       <m:P30156>William Golding, Herr der Fliegen, Die Koralleninsel (R. M. Ballantyne)</m:P30156>
-      <m:P30156>Interpretationen und Anmerkungen</m:P30156>
+      <m:P30142>Interpretationen und Anmerkungen</m:P30142>
       <m:P30117>Reiner Poppe</m:P30117>
       <e:P20001>text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783888051357"/>
@@ -5503,7 +5559,7 @@
       <e:P20006>ger</e:P20006>
       <w:P10088>William Golding, Herr der Fliegen (Lord of the flies)</w:P10088>
       <m:P30156>William Golding, Herr der Fliegen (Lord of the flies)</m:P30156>
-      <m:P30156>Kommentare, Diskussionsaspekte und Anregungen für produktionsorientiertes Lesen</m:P30156>
+      <m:P30142>Kommentare, Diskussionsaspekte und Anregungen für produktionsorientiertes Lesen</m:P30142>
       <m:P30117>Reiner Poppe</m:P30117>
       <e:P20001>text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783888055058"/>
@@ -5513,60 +5569,63 @@
       <e:P20006>ger</e:P20006>
       <e:P20001>text</e:P20001>
       <w:P10088>Deštník z Piccadilly</w:P10088>
-      <bibframe:partOf rdf:resource="http://example.org/derturmderkathedralenobelpreis1983england/ger"/>
+      <w:P10223>Regenschirm vom Piccadilly</w:P10223>
+      <bibframe:partOf rdf:resource="http://example.org/derturmderkathedralederturmderkathedralenobelpreis1983england/ger"/>
       <w:P10061 rdf:resource="http://example.org/seifertjaroslav"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://example.org/seifertjaroslav/morovsloup/ger">
       <e:P20006>ger</e:P20006>
       <e:P20001>text</e:P20001>
       <w:P10088>Morový sloup</w:P10088>
-      <bibframe:partOf rdf:resource="http://example.org/derturmderkathedralenobelpreis1983england/ger"/>
+      <w:P10223>Pestsäule</w:P10223>
+      <bibframe:partOf rdf:resource="http://example.org/derturmderkathedralederturmderkathedralenobelpreis1983england/ger"/>
       <w:P10061 rdf:resource="http://example.org/seifertjaroslav"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://example.org/selfdavid/lordoftheflieswilliamgolding/eng">
       <e:P20006>eng</e:P20006>
       <w:P10088>Lord of the flies, William Golding</w:P10088>
-      <m:P30156>Lord of the flies, William Golding /</m:P30156>
-      <m:P30117>devised by David Self.</m:P30117>
+      <m:P30156>Lord of the flies, William Golding</m:P30156>
+      <m:P30117>devised by David Self</m:P30117>
       <e:P20001>text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:185234055"/>
       <w:P10061 rdf:resource="http://example.org/selfdavid"/>
-      <w:guideToWork.en rdf:resource="http://viaf.org/viaf/119144648592107423604"/>
+      <w:P10150 rdf:resource="http://viaf.org/viaf/119144648592107423604"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://example.org/simonclaude/routedesflandres/ger">
       <e:P20006>ger</e:P20006>
       <e:P20001>text</e:P20001>
       <w:P10088>Route des Flandres</w:P10088>
-      <bibframe:partOf rdf:resource="http://example.org/derturmderkathedralenobelpreis1983england/ger"/>
+      <w:P10223>Strasse in Flandern</w:P10223>
+      <bibframe:partOf rdf:resource="http://example.org/derturmderkathedralederturmderkathedralenobelpreis1983england/ger"/>
       <w:P10061 rdf:resource="http://example.org/simonclaude"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://example.org/spearhildad/thespire/eng">
       <e:P20006>eng</e:P20006>
       <w:P10088>The Spire</w:P10088>
-      <m:P30156>The spire :</m:P30156>
-      <m:P30156>notes /</m:P30156>
-      <m:P30117>by Hilda D. Spear.</m:P30117>
+      <m:P30156>The spire</m:P30156>
+      <m:P30142>notes</m:P30142>
+      <m:P30117>by Hilda D. Spear</m:P30117>
       <e:P20001>text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:0582792975"/>
       <w:P10061 rdf:resource="http://example.org/spearhildad"/>
-      <w:commentaryOnWork.en rdf:resource="http://viaf.org/viaf/178994871"/>
+      <w:P10187 rdf:resource="http://viaf.org/viaf/178994871"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://example.org/spearhildad/williamgoldingtheinheritorsnotes/eng">
       <e:P20006>eng</e:P20006>
       <w:P10088>William Golding, The inheritors : notes</w:P10088>
-      <m:P30156>William Golding, The inheritors :</m:P30156>
-      <m:P30156>notes /</m:P30156>
-      <m:P30117>by Hilda D. Spear.</m:P30117>
+      <m:P30156>William Golding, The inheritors</m:P30156>
+      <m:P30142>notes</m:P30142>
+      <m:P30117>by Hilda D. Spear</m:P30117>
       <e:P20001>text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:0582792428"/>
       <w:P10061 rdf:resource="http://example.org/spearhildad"/>
-      <w:commentaryOnWork.en rdf:resource="http://viaf.org/viaf/217036112"/>
+      <w:P10187 rdf:resource="http://viaf.org/viaf/217036112"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://example.org/springbrian/lordoftheflies/eng">
       <e:P20006>eng</e:P20006>
       <w:P10088>'Lord of the Flies'</w:P10088>
-      <m:P30156>'Lord of the Flies' /</m:P30156>
-      <m:P30117>Brian Spring.</m:P30117>
+      <m:P30156>'Lord of the Flies'</m:P30156>
+      <m:P30117>Brian Spring</m:P30117>
       <e:P20001>text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:0904916391"/>
       <w:P10061 rdf:resource="http://example.org/springbrian"/>
@@ -5575,9 +5634,9 @@
       <e:P20006>ger</e:P20006>
       <w:P10088>Lord of the flies, William Golding</w:P10088>
       <m:P30156>Lord of the flies, William Golding</m:P30156>
-      <m:P30156>Inhalt, Hintergrund, Interpretation ; auf Deutsch - mit englischen Formulierungshilfen!</m:P30156>
+      <m:P30142>Inhalt, Hintergrund, Interpretation ; auf Deutsch - mit englischen Formulierungshilfen!</m:P30142>
       <m:P30117>Astrid Stannat</m:P30117>
-      <m:P30156>Inhalt, Hintergrund, Interpretationen ; auf Deutsch, mit englischen Formulierungshilfen! ; mit Info-Klappe!</m:P30156>
+      <m:P30142>Inhalt, Hintergrund, Interpretationen ; auf Deutsch, mit englischen Formulierungshilfen! ; mit Info-Klappe!</m:P30142>
       <e:P20001>text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783580634346"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9783580654344"/>
@@ -5586,33 +5645,33 @@
    <bibframe:Work rdf:about="http://example.org/sumnerrosemary/thespirebywilliamgolding/eng">
       <e:P20006>eng</e:P20006>
       <w:P10088>The spire by William Golding</w:P10088>
-      <m:P30156>The spire by William Golding /</m:P30156>
-      <m:P30117>Rosemary Sumner.</m:P30117>
+      <m:P30156>The spire by William Golding</m:P30156>
+      <m:P30117>Rosemary Sumner</m:P30117>
       <e:P20001>text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:0333397754"/>
       <w:P10061 rdf:resource="http://example.org/sumnerrosemary"/>
-      <w:guideToWork.en rdf:resource="http://viaf.org/viaf/178994871"/>
+      <w:P10150 rdf:resource="http://viaf.org/viaf/178994871"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://example.org/williamsnigel/williamgoldingslordoftheflies/eng">
       <e:P20006>eng</e:P20006>
       <w:P10088>William Golding's "Lord of the flies"</w:P10088>
       <w:P10004>Play</w:P10004>
-      <m:P30156>William Golding's "Lord of the flies" /</m:P30156>
-      <m:P30117>adapted for the stage by Nigel Williams.</m:P30117>
+      <m:P30156>William Golding's "Lord of the flies"</m:P30156>
+      <m:P30117>adapted for the stage by Nigel Williams</m:P30117>
       <e:P20001>text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:0571160565"/>
       <w:P10061 rdf:resource="http://example.org/williamsnigel"/>
-      <w:dramatizationOfWork.en rdf:resource="http://viaf.org/viaf/119144648592107423604"/>
+      <w:P10127 rdf:resource="http://viaf.org/viaf/119144648592107423604"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://example.org/wilsonraymond/lordofthefliesbywilliamgolding/eng">
       <e:P20006>eng</e:P20006>
       <w:P10088>Lord of the flies by William Golding</w:P10088>
-      <m:P30156>Lord of the flies by William Golding /</m:P30156>
-      <m:P30117>Raymond Wilson.</m:P30117>
+      <m:P30156>Lord of the flies by William Golding</m:P30156>
+      <m:P30117>Raymond Wilson</m:P30117>
       <e:P20001>text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:0333404106"/>
       <w:P10061 rdf:resource="http://example.org/wilsonraymond"/>
+      <w:P10150 rdf:resource="http://viaf.org/viaf/119144648592107423604"/>
       <w:P10261 rdf:resource="http://viaf.org/viaf/89500102"/>
-      <w:guideToWork.en rdf:resource="http://viaf.org/viaf/119144648592107423604"/>
    </bibframe:Work>
 </rdf:RDF>
