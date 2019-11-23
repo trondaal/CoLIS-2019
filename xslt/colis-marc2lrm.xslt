@@ -1052,7 +1052,7 @@
                <xsl:variable name="target_field_position"
                              as="xs:string"
                              select="string(position())"/>
-               <xsl:if test="($this_field/*:subfield[@code = '1w'] ne $target_field/*:subfield[@code = '1w'])">
+               <xsl:if test="(not($this_field/*:subfield/@code = '1w') or $this_field/*:subfield[@code = '1w'] ne $target_field/*:subfield[@code = '1w'])">
                   <frbrizer:relationship>
                      <xsl:attribute name="type" select="'http://rdaregistry.info/Elements/w/P10257'"/>
                      <xsl:attribute name="itype" select="'http://rdaregistry.info/Elements/w/P10264'"/>

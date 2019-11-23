@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <rels>
     <rel>
         <k>http://rdaregistry.info/Elements/w/creatorAgentOfWork.en</k>
@@ -147,8 +146,14 @@
         <k>aui</k>
         <k>aft</k>
         <k>wpr</k>
+        <k>wst</k>
+        <k>wat</k>
+        <k>wac</k>
+        <k>wam</k>
         <k>ctb</k>
         <k>ann</k>
+        <k>pht</k>
+        <k>egr</k>
         <forward>http://rdaregistry.info/Elements/m/P30327</forward>
         <reverse>http://rdaregistry.info/Elements/a/P50528</reverse>
         <domain>bf:Work</domain>
@@ -200,7 +205,13 @@
         <range>Person</range>
     </rel>
     <rel>
-        <k>pht</k>
+        <k>http://rdaregistry.info/Elements/w/concordanceToWork.en</k>
+        <forward>http://rdaregistry.info/Elements/w/P10181</forward>
+        <reverse>http://rdaregistry.info/Elements/w/P10111</reverse>
+        <domain>Work</domain>
+        <range>Work</range>
+    </rel>
+    <rel>
         <k>cng</k>
         <k>http://rdaregistry.info/Elements/w/directorAgentOfPhotography.en</k>
         <forward>http://rdaregistry.info/Elements/w/P10068</forward>
@@ -256,13 +267,6 @@
         <range>Work</range>
     </rel>
     <rel>
-        <k>http://rdaregistry.info/Elements/w/continuationOfWork.en</k>
-        <forward>http://rdaregistry.info/Elements/w/P10226</forward>
-        <reverse>http://rdaregistry.info/Elements/w/P10191</reverse>
-        <domain>Work</domain>
-        <range>Work</range>
-    </rel>
-    <rel>
         <k>abr</k>
         <k>abridger</k>
         <k>http://rdaregistry.info/Elements/e/abridgerAgent.en</k>
@@ -281,9 +285,39 @@
         <range>Person</range>
     </rel>
     <rel>
+        <k>http://rdaregistry.info/Elements/w/continuationOfWork.en</k>
+        <forward>http://rdaregistry.info/Elements/w/P10226</forward>
+        <reverse>http://rdaregistry.info/Elements/w/P10191</reverse>
+        <domain>Work</domain>
+        <range>Work</range>
+    </rel>
+    <rel>
         <k>http://rdaregistry.info/Elements/w/commentaryOnWork.en</k>
         <forward>http://rdaregistry.info/Elements/w/P10187</forward>
         <reverse>http://rdaregistry.info/Elements/w/P10116</reverse>
+        <domain>Work</domain>
+        <range>Work</range>
+    </rel>
+    <rel>
+        <k>ivr</k>
+        <k>http://rdaregistry.info/Elements/a/interviewerPersonOfWorkOf.en</k>
+        <forward>http://rdaregistry.info/Elements/w/P10446</forward>
+        <reverse>http://rdaregistry.info/Elements/a/P50527</reverse>
+        <domain>Work</domain>
+        <range>Person</range>
+    </rel>
+    <rel>
+        <k>ive</k>
+        <k>http://rdaregistry.info/Elements/a/intervieweePersonOfWorkOf.en</k>
+        <forward>http://rdaregistry.info/Elements/w/P10447</forward>
+        <reverse>http://rdaregistry.info/Elements/a/P50559</reverse>
+        <domain>Work</domain>
+        <range>Person</range>
+    </rel>
+    <rel>
+        <key>http://rdaregistry.info/Elements/w/lyricsWork.en</key>
+        <forward>http://rdaregistry.info/Elements/w/P10370</forward>
+        <reverse>http://rdaregistry.info/Elements/w/P10369</reverse>
         <domain>Work</domain>
         <range>Work</range>
     </rel>

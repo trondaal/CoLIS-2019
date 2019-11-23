@@ -90,7 +90,7 @@
                 <target entity="MARC21-600-Person" condition="not($target_field/*:subfield/@code = 't')"/>
             </relationship>
             <relationship type="http://rdaregistry.info/Elements/w/P10257" itype="http://rdaregistry.info/Elements/w/P10264">
-                <target entity="MARC21-600-Work"  condition="$this_field/*:subfield[@code = '1w'] ne $target_field/*:subfield[@code = '1w']"/>
+                <target entity="MARC21-600-Work"  condition="not($this_field/*:subfield/@code = '1w') or $this_field/*:subfield[@code = '1w'] ne $target_field/*:subfield[@code = '1w']"/>
             </relationship>
             <relationship type="{$relmap/rels/rel[k = $target_field/*:subfield[@code='4']]/forward}" itype="{$relmap/rels/rel[k = $target_field/*:subfield[@code='4']]/reverse}">
                 <target entity="MARC21-700-Work-Related-Work"/>
