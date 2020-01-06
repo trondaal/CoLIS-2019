@@ -13903,9 +13903,8 @@
    <bibframe:Person rdf:about="http://example.org/lutherigor">
       <a:P50111>Luther, Igor</a:P50111>
       <a:P50107>1942-</a:P50107>
-      <a:P50207 rdf:resource="https://www.imdb.com/title/tt0078875/"/>
-      <a:P50207 rdf:resource="https://www.imdb.com/title/tt0078875//text/spa/adorfmario/bennentdavid/carrirejeanclaude/daumananatole/jarremaurice/lutherigor/schlndorffvolker/seitzfranz/winklerangela"/>
-      <a:P50207 rdf:resource="https://www.imdb.com/title/tt0078875//text/spa/adorfmario/bennentdavid/carrirejeanclaude/jarremaurice/lutherigor/schlndorffvolker/seitzfranz/winklerangela"/>
+      <a:P50528 rdf:resource="https://www.imdb.com/title/tt0078875//text/spa/adorfmario/bennentdavid/carrirejeanclaude/daumananatole/jarremaurice/lutherigor/schlndorffvolker/seitzfranz/winklerangela"/>
+      <a:P50528 rdf:resource="https://www.imdb.com/title/tt0078875//text/spa/adorfmario/bennentdavid/carrirejeanclaude/jarremaurice/lutherigor/schlndorffvolker/seitzfranz/winklerangela"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="http://example.org/mangerhermien">
       <a:P50111>Manger, Hermien</a:P50111>
@@ -14456,7 +14455,7 @@
    </bibframe:Person>
    <bibframe:Person rdf:about="http://example.org/wittenburgsiegfried">
       <a:P50111>Wittenburg, Siegfried</a:P50111>
-      <a:P50207 rdf:resource="http://oslomet.workid.no/gg/1004/text/ger/102319859/lorenzenclaus/wittenburgsiegfried"/>
+      <a:P50528 rdf:resource="http://oslomet.workid.no/gg/1004/text/ger/102319859/lorenzenclaus/wittenburgsiegfried"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="http://example.org/wolfchrista">
       <a:P50111>Wolf, Christa</a:P50111>
@@ -15687,8 +15686,8 @@
       <e:P20001>Text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:unknown:017513"/>
       <m:P30069 rdf:resource="http://example.org/lorenzenclaus"/>
+      <m:P30327 rdf:resource="http://example.org/wittenburgsiegfried"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/102319859"/>
-      <w:P10068 rdf:resource="http://example.org/wittenburgsiegfried"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://oslomet.workid.no/gg/1005/text/ger/102319859">
       <e:P20006>ger</e:P20006>
@@ -19639,7 +19638,6 @@
       <w:P10013 rdf:resource="http://example.org/schlndorffvolker"/>
       <w:P10064 rdf:resource="http://example.org/daumananatole"/>
       <w:P10064 rdf:resource="http://example.org/seitzfranz"/>
-      <w:P10068 rdf:resource="http://example.org/lutherigor"/>
       <w:P10129 rdf:resource="http://viaf.org/viaf/179378125"/>
       <w:P10203 rdf:resource="http://example.org/schlndorffvolker"/>
       <w:P10203 rdf:resource="http://example.org/carrirejeanclaude"/>
@@ -19676,11 +19674,11 @@
       <e:P20012 rdf:resource="http://example.org/bennentdavid"/>
       <e:P20012 rdf:resource="http://example.org/adorfmario"/>
       <e:P20012 rdf:resource="http://example.org/winklerangela"/>
+      <m:P30327 rdf:resource="http://example.org/lutherigor"/>
       <w:P10013 rdf:resource="http://example.org/schlndorffvolker"/>
       <w:P10053 rdf:resource="http://example.org/jarremaurice"/>
       <w:P10064 rdf:resource="http://example.org/daumananatole"/>
       <w:P10064 rdf:resource="http://example.org/seitzfranz"/>
-      <w:P10068 rdf:resource="http://example.org/lutherigor"/>
       <w:P10203 rdf:resource="http://example.org/schlndorffvolker"/>
       <w:P10203 rdf:resource="http://example.org/carrirejeanclaude"/>
    </bibframe:Work>
@@ -19696,9 +19694,9 @@
       <e:P20012 rdf:resource="http://example.org/adorfmario"/>
       <e:P20012 rdf:resource="http://example.org/winklerangela"/>
       <e:P20012 rdf:resource="http://example.org/bennentdavid"/>
+      <m:P30327 rdf:resource="http://example.org/lutherigor"/>
       <w:P10013 rdf:resource="http://example.org/schlndorffvolker"/>
       <w:P10053 rdf:resource="http://example.org/jarremaurice"/>
-      <w:P10068 rdf:resource="http://example.org/lutherigor"/>
       <w:P10203 rdf:resource="http://example.org/schlndorffvolker"/>
       <w:P10203 rdf:resource="http://example.org/carrirejeanclaude"/>
       <w:P10203 rdf:resource="http://example.org/seitzfranz"/>

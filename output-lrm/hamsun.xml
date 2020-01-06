@@ -1003,7 +1003,6 @@
       <w:P10002>https://www.imdb.com/title/tt0077965/</w:P10002>
       <w:P10088>Mysteries</w:P10088>
       <w:P10013 rdf:resource="http://example.org/lussanetpaulde"/>
-      <w:P10068 rdf:resource="http://example.org/mllerrobby"/>
       <w:P10078 rdf:resource="https://www.imdb.com/title/tt0077965//spa/movingimage/"/>
       <w:P10129 rdf:resource="http://viaf.org/viaf/206863699"/>
       <w:P10203 rdf:resource="http://example.org/lussanetpaulde"/>
@@ -1913,6 +1912,7 @@
       <a:P50094>jenssendag</a:P50094>
       <a:P50111>Jenssen, Dag</a:P50111>
       <a:P50107>1964-</a:P50107>
+      <a:P50528 rdf:resource="http://example.org/991517292124702201"/>
    </c:C10004>
    <c:C10004 rdf:about="http://example.org/jenssenolavchristopher">
       <a:P50094>jenssenolavchristopher</a:P50094>
@@ -2145,7 +2145,7 @@
       <a:P50094>mllerrobby</a:P50094>
       <a:P50111>Müller, Robby</a:P50111>
       <a:P50107>1940-</a:P50107>
-      <a:P50207 rdf:resource="https://www.imdb.com/title/tt0077965/"/>
+      <a:P50528 rdf:resource="http://example.org/bivi0000006858"/>
    </c:C10004>
    <c:C10004 rdf:about="http://example.org/moanhenny">
       <a:P50094>moanhenny</a:P50094>
@@ -7176,6 +7176,9 @@
       <m:P30156>Nach Jahr und Tag</m:P30156>
       <m:P30142>Roman</m:P30142>
       <m:P30117>Knut Hamsun. [Berecht. Übers. aus dem Norweg. von J. Sandmeier u. S. Angermann]</m:P30117>
+      <m:P30088>[Stuttgart]</m:P30088>
+      <m:P30083>[Verl. Dt. Volksbücher]</m:P30083>
+      <m:P30011>[1955?]</m:P30011>
       <m:P30182>397 S.</m:P30182>
       <m:P30169>22 cm</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -7189,6 +7192,9 @@
       <m:P30142>die Geschichte einer Liebe</m:P30142>
       <m:P30117>Knut Hamsun. [Neue berecht. Übers. von J. Sandmeier]</m:P30117>
       <m:P30107>46.-55. Tsd.</m:P30107>
+      <m:P30088>München</m:P30088>
+      <m:P30083>Langen</m:P30083>
+      <m:P30011>1933</m:P30011>
       <m:P30182>190 S.</m:P30182>
       <m:P30169>19 cm</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -7200,6 +7206,11 @@
       <m:P30156>Victoria</m:P30156>
       <m:P30142>die Geschichte einer Liebe</m:P30142>
       <m:P30117>Knut Hamsun. [Dt. von J. Sandmeier und S. Angermann]</m:P30117>
+      <m:P30088>Brugg</m:P30088>
+      <m:P30088>Stuttgart</m:P30088>
+      <m:P30088>Salzburg</m:P30088>
+      <m:P30083>Fackelverl</m:P30083>
+      <m:P30011>1972</m:P30011>
       <m:P30182>110 S.</m:P30182>
       <m:P30169>20 cm</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -7212,6 +7223,9 @@
       <m:P30142>aus Leutnant Thomas Glahns Papieren</m:P30142>
       <m:P30117>von Knut Hamsun</m:P30117>
       <m:P30107>63. - 68. Aufl.</m:P30107>
+      <m:P30088>Berlin</m:P30088>
+      <m:P30083>S. Fischer</m:P30083>
+      <m:P30011>1925</m:P30011>
       <m:P30182>181 S.</m:P30182>
       <m:P30169>18 cm</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -7225,6 +7239,9 @@
       <m:P30142>die Geschichte einer Liebe</m:P30142>
       <m:P30117>Knut Hamsun. [Neue berechtigte Übers. von J. Sandmeier]</m:P30117>
       <m:P30107>91. bis 95. Tsd.</m:P30107>
+      <m:P30088>München</m:P30088>
+      <m:P30083>Langen-Müller</m:P30083>
+      <m:P30011>[1935]</m:P30011>
       <m:P30182>190 S.</m:P30182>
       <m:P30169>19 cm</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -7236,6 +7253,9 @@
       <m:P30156>Nach Jahr und Tag</m:P30156>
       <m:P30142>Roman</m:P30142>
       <m:P30117>Knut Hamsun. [Berecht. Übers. aus dem Norweg. von J. Sandmeier und S. Angermann]</m:P30117>
+      <m:P30088>[Stuttgart]</m:P30088>
+      <m:P30083>Stuttgarter Hausbücherei</m:P30083>
+      <m:P30011>[ca. 1958]</m:P30011>
       <m:P30182>397 S.</m:P30182>
       <m:P30169>21 cm</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -7247,6 +7267,9 @@
       <m:P30156>Landstreicher</m:P30156>
       <m:P30142>Roman</m:P30142>
       <m:P30117>Knut Hamsun. [Berecht. Übers. aus dem Norweg. von J. Sandmeier und S. Angermann]</m:P30117>
+      <m:P30088>[Stuttgart]</m:P30088>
+      <m:P30083>Stuttgarter Hausbücherei</m:P30083>
+      <m:P30011>[ca. 1958]</m:P30011>
       <m:P30182>430 S.</m:P30182>
       <m:P30169>21 cm</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -7258,6 +7281,9 @@
       <m:P30156>Sult</m:P30156>
       <m:P30117>Knut Hamsun. Bilder ved Olav Christopher Jenssen. Etterord av Geir Mork</m:P30117>
       <m:P30107>1. oppl</m:P30107>
+      <m:P30088>Oslo</m:P30088>
+      <m:P30083>Den Norske Bokklubben</m:P30083>
+      <m:P30011>1990</m:P30011>
       <m:P30182>221 S</m:P30182>
       <marc:M30000b>Ill</marc:M30000b>
       <m:P30001>unmediated</m:P30001>
@@ -7271,6 +7297,9 @@
       <m:P30156>Landstreicher</m:P30156>
       <m:P30142>Roman</m:P30142>
       <m:P30117>Knut Hamsun ; berechtigte Übersetzung von J. Sandmeier und S. Angermann</m:P30117>
+      <m:P30088>Bochum-Linden</m:P30088>
+      <m:P30083>Deutscher Buchklub</m:P30083>
+      <m:P30011>[zwischen 1950 und 1960?]</m:P30011>
       <m:P30182>606 Seiten</m:P30182>
       <m:P30169>19 cm</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -7283,6 +7312,11 @@
       <m:P30142>Roman</m:P30142>
       <m:P30117>Knut Hamsun ; Berechtigte Übersetzung von J. Sandmeier und S. Angermann</m:P30117>
       <m:P30107>Sonderausgabe für den Fackelbuchklub Olten, Stuttgart, Salzburg</m:P30107>
+      <m:P30088>Olten</m:P30088>
+      <m:P30088>Stuttgart</m:P30088>
+      <m:P30088>Salzburg</m:P30088>
+      <m:P30083>Fackelverlag</m:P30083>
+      <m:P30011>[1971]</m:P30011>
       <m:P30182>412 Seiten</m:P30182>
       <m:P30169>20 cm</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -7294,6 +7328,11 @@
       <m:P30156>Redakteur Lynge</m:P30156>
       <m:P30142>Roman</m:P30142>
       <m:P30117>Knut Hamsun ; autorisierte Übersetzung aus dem Norwegischen von Maria von Borch</m:P30117>
+      <m:P30088>Paris</m:P30088>
+      <m:P30088>Leipzig</m:P30088>
+      <m:P30088>München</m:P30088>
+      <m:P30083>Verlag von Albert Langen</m:P30083>
+      <m:P30011>1898</m:P30011>
       <m:P30182>278 Seiten</m:P30182>
       <m:P30169>19 cm</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -7306,6 +7345,11 @@
       <m:P30156>Die Königin von Saba und andere Novellen</m:P30156>
       <m:P30117>Knut Hamsun ; einzig autorisierte Übersetzung aus dem Norwegischen von Ernst Brausewetter</m:P30117>
       <m:P30107>Zweite Auflage</m:P30107>
+      <m:P30088>Paris</m:P30088>
+      <m:P30088>Leipzig</m:P30088>
+      <m:P30088>München</m:P30088>
+      <m:P30083>Verlag von Albert Langen</m:P30083>
+      <m:P30011>1899</m:P30011>
       <m:P30182>253 Seiten</m:P30182>
       <m:P30169>19 cm</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -7328,6 +7372,9 @@
       <marc:M001>208341935</marc:M001>
       <m:P30156>Romane</m:P30156>
       <m:P30117>Knut Hamsun</m:P30117>
+      <m:P30088>Stuttgart</m:P30088>
+      <m:P30083>Europäische Bildungsgemeinschaft</m:P30083>
+      <m:P30011>[1975]</m:P30011>
       <m:P30182>1102 S.</m:P30182>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -7341,6 +7388,9 @@
       <m:P30156>Kinder ihrer Zeit</m:P30156>
       <m:P30142>Roman</m:P30142>
       <m:P30117>Knut Hamsun. Übers. aus d. Norweg. von Niels Hoyer</m:P30117>
+      <m:P30088>München</m:P30088>
+      <m:P30083>Langen</m:P30083>
+      <m:P30011>1914</m:P30011>
       <m:P30182>376 S.</m:P30182>
       <m:P30169>8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -7352,6 +7402,9 @@
       <m:P30156>Die letzte Freude</m:P30156>
       <m:P30142>Roman</m:P30142>
       <m:P30117>Knut Hamsun. Einzig berecht. Übers. aus d. Norweg. von Niels Hoyer</m:P30117>
+      <m:P30088>München</m:P30088>
+      <m:P30083>Langen</m:P30083>
+      <m:P30011>1914</m:P30011>
       <m:P30182>271 S.</m:P30182>
       <m:P30169>8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -7362,6 +7415,9 @@
       <marc:M001>361452934</marc:M001>
       <m:P30156>Segen der Erde</m:P30156>
       <m:P30117>Knut Hamsun</m:P30117>
+      <m:P30088>Oslo</m:P30088>
+      <m:P30083>Der Reichskommissar f. d. besetzten norweg. Gebiete</m:P30083>
+      <m:P30011>1944</m:P30011>
       <m:P30182>80 S.</m:P30182>
       <m:P30169>2</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -7375,6 +7431,9 @@
       <m:P30156>Vom Teufel geholt</m:P30156>
       <m:P30142>Schauspiel in 4 Akten</m:P30142>
       <m:P30117>Knut Hamsun. Autor. Übers. nach d. norweg. Ms. v. Carl Morburger</m:P30117>
+      <m:P30088>München</m:P30088>
+      <m:P30083>Langen</m:P30083>
+      <m:P30011>[1911]</m:P30011>
       <m:P30182>297 S.</m:P30182>
       <m:P30169>kl. 8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -7386,6 +7445,9 @@
       <m:P30156>Die Stadt Segelfoß</m:P30156>
       <m:P30142>Roman</m:P30142>
       <m:P30117>von Knut Hamsun ; Einzige berecht. Übers aus d. Norweg. von Pauline Klaiber</m:P30117>
+      <m:P30088>München</m:P30088>
+      <m:P30083>Langen</m:P30083>
+      <m:P30011>1916</m:P30011>
       <m:P30182>381 S.</m:P30182>
       <m:P30169>8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -7397,6 +7459,10 @@
       <m:P30156>Die Weiber am Brunnen</m:P30156>
       <m:P30142>Roman</m:P30142>
       <m:P30117>Knut Hamsun. [Einzige berecht. Übers. aus d. Norweg. v. Pauline Klaiber-Gottschau]</m:P30117>
+      <m:P30088>Heidelberg</m:P30088>
+      <m:P30088>Marbach a. N</m:P30088>
+      <m:P30083>"Bücher für alle" Palladium Verl</m:P30083>
+      <m:P30011>[1954]</m:P30011>
       <m:P30182>373 S.</m:P30182>
       <m:P30169>8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -7410,6 +7476,9 @@
       <m:P30156>Victoria</m:P30156>
       <m:P30142>Die Geschichte einer Liebe</m:P30142>
       <m:P30117>Knut Hamsun</m:P30117>
+      <m:P30088>Stuttgart</m:P30088>
+      <m:P30083>Deutsche Verlags-Expedition</m:P30083>
+      <m:P30011>[1940]</m:P30011>
       <m:P30182>157 S.</m:P30182>
       <m:P30169>kl. 8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -7424,6 +7493,9 @@
       <m:P30142>Roman</m:P30142>
       <m:P30117>Knut Hamsun. [Berecht. Übers. v. J. Sandmeier ; S. Angermann]</m:P30117>
       <m:P30107>331.-334. Tsd.</m:P30107>
+      <m:P30088>Innsbruck</m:P30088>
+      <m:P30083>List</m:P30083>
+      <m:P30011>1952</m:P30011>
       <m:P30182>392 S.</m:P30182>
       <m:P30169>8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -7435,6 +7507,9 @@
       <marc:M001>366083422</marc:M001>
       <m:P30156>Gesammelte Werke in 10 Bdn</m:P30156>
       <m:P30117>Knut Hamsun</m:P30117>
+      <m:P30088>München</m:P30088>
+      <m:P30083>A. Langen</m:P30083>
+      <m:P30011>1917</m:P30011>
       <m:P30182>516 S.</m:P30182>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -7445,6 +7520,9 @@
       <marc:M001>366083430</marc:M001>
       <m:P30156>Gesammelte Werke in 12 Bänden</m:P30156>
       <m:P30117>Knut Hamsun</m:P30117>
+      <m:P30088>München</m:P30088>
+      <m:P30083>A. Langen</m:P30083>
+      <m:P30011>1921</m:P30011>
       <m:P30182>510 S.</m:P30182>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -7454,6 +7532,9 @@
       <marc:M001>366083449</marc:M001>
       <m:P30156>Gesammelte Werke in 12 Bänden</m:P30156>
       <m:P30117>Knut Hamsun</m:P30117>
+      <m:P30088>München</m:P30088>
+      <m:P30083>A. Langen</m:P30083>
+      <m:P30011>[1923]</m:P30011>
       <m:P30182>450 S.</m:P30182>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -7463,6 +7544,9 @@
       <marc:M001>366083457</marc:M001>
       <m:P30156>Gesammelte Werke in 12 Bänden</m:P30156>
       <m:P30117>Knut Hamsun</m:P30117>
+      <m:P30088>München</m:P30088>
+      <m:P30083>A. Langen</m:P30083>
+      <m:P30011>1923</m:P30011>
       <m:P30182>311 S.</m:P30182>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -7472,6 +7556,9 @@
       <marc:M001>366083465</marc:M001>
       <m:P30156>Gesammelte Werke in 12 Bänden</m:P30156>
       <m:P30117>Knut Hamsun</m:P30117>
+      <m:P30088>München</m:P30088>
+      <m:P30083>A. Langen</m:P30083>
+      <m:P30011>[1923]</m:P30011>
       <m:P30182>V, 406 S.</m:P30182>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -7481,6 +7568,9 @@
       <marc:M001>366083473</marc:M001>
       <m:P30156>Gesammelte Werke in 12 Bänden</m:P30156>
       <m:P30117>Knut Hamsun</m:P30117>
+      <m:P30088>München</m:P30088>
+      <m:P30083>A. Langen</m:P30083>
+      <m:P30011>[1923]</m:P30011>
       <m:P30182>476 S.</m:P30182>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -7490,6 +7580,9 @@
       <marc:M001>366083481</marc:M001>
       <m:P30156>Gesammelte Werke in 12 Bänden</m:P30156>
       <m:P30117>Knut Hamsun</m:P30117>
+      <m:P30088>München</m:P30088>
+      <m:P30083>A. Langen</m:P30083>
+      <m:P30011>[1924]</m:P30011>
       <m:P30182>VIII, 523 S.</m:P30182>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -7500,6 +7593,9 @@
       <marc:M001>36608349X</marc:M001>
       <m:P30156>Gesammelte Werke in 12 Bänden</m:P30156>
       <m:P30117>Knut Hamsun</m:P30117>
+      <m:P30088>München</m:P30088>
+      <m:P30083>A. Langen</m:P30083>
+      <m:P30011>[1924]</m:P30011>
       <m:P30182>372 S.</m:P30182>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -7509,6 +7605,9 @@
       <marc:M001>366083503</marc:M001>
       <m:P30156>Gesammelte Werke in 12 Bänden</m:P30156>
       <m:P30117>Knut Hamsun</m:P30117>
+      <m:P30088>München</m:P30088>
+      <m:P30083>A. Langen</m:P30083>
+      <m:P30011>1924</m:P30011>
       <m:P30182>387 S.</m:P30182>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -7518,6 +7617,9 @@
       <marc:M001>366083511</marc:M001>
       <m:P30156>Gesammelte Werke in 12 Bänden</m:P30156>
       <m:P30117>Knut Hamsun</m:P30117>
+      <m:P30088>München</m:P30088>
+      <m:P30083>A. Langen</m:P30083>
+      <m:P30011>1925</m:P30011>
       <m:P30182>428 S.</m:P30182>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -7527,6 +7629,9 @@
       <marc:M001>366083600</marc:M001>
       <m:P30156>Das letzte Kapitel</m:P30156>
       <m:P30117>Knut Hamsun. [Die Übertr. ins Deutsche bes. Erwin Magnus]</m:P30117>
+      <m:P30088>Leipzig</m:P30088>
+      <m:P30083>Grethlein &amp; Co</m:P30083>
+      <m:P30011>1924</m:P30011>
       <m:P30182>310 S.</m:P30182>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -7536,6 +7641,9 @@
       <marc:M001>366083619</marc:M001>
       <m:P30156>Das letzte Kapitel</m:P30156>
       <m:P30117>Knut Hamsun. [Die Übertr. ins Deutsche bes. Erwin Magnus]</m:P30117>
+      <m:P30088>Leipzig</m:P30088>
+      <m:P30083>Grethlein &amp; Co</m:P30083>
+      <m:P30011>1924</m:P30011>
       <m:P30182>324 S.</m:P30182>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -7547,6 +7655,10 @@
       <m:P30142>Aus: Segen der Erde u.a. Romanen</m:P30142>
       <m:P30117>Knut Hamsun</m:P30117>
       <m:P30107>[2. Aufl.]</m:P30107>
+      <m:P30088>Lübeck</m:P30088>
+      <m:P30088>Hamburg</m:P30088>
+      <m:P30083>Matthiesen</m:P30083>
+      <m:P30011>[1963]</m:P30011>
       <m:P30182>32 S.</m:P30182>
       <m:P30169>8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -7559,6 +7671,10 @@
       <marc:M001>451794249</marc:M001>
       <m:P30156>August Weltumsegler</m:P30156>
       <m:P30117>Knut Hamsun. [Berechtigte Übers. von J. Sandmeier u. S. Angermann]</m:P30117>
+      <m:P30088>Berlin</m:P30088>
+      <m:P30088>Hamburg</m:P30088>
+      <m:P30083>Deutsche Buchgemeinschaft</m:P30083>
+      <m:P30011>1950</m:P30011>
       <m:P30182>403 S.</m:P30182>
       <m:P30169>8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -7571,6 +7687,11 @@
       <m:P30142>Roman</m:P30142>
       <m:P30117>Knut Hamsun. [Berecht. Übertr. von J. Sandmeier u. S. Angermann]</m:P30117>
       <m:P30107>61. - 66. Tsd.</m:P30107>
+      <m:P30088>München</m:P30088>
+      <m:P30088>Leipzig</m:P30088>
+      <m:P30088>Freiburg i. Br</m:P30088>
+      <m:P30083>List</m:P30083>
+      <m:P30011>1950</m:P30011>
       <m:P30182>403 S.</m:P30182>
       <m:P30169>8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -7583,6 +7704,9 @@
       <m:P30156>August Weltumsegler</m:P30156>
       <m:P30142>Roman</m:P30142>
       <m:P30117>Knut Hamsun. Berecht. Übers. von J. Sandmeier u. S. Angermann</m:P30117>
+      <m:P30088>Zürich</m:P30088>
+      <m:P30083>Büchergilde Gutenberg</m:P30083>
+      <m:P30011>1956</m:P30011>
       <m:P30182>324 S.</m:P30182>
       <m:P30169>8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -7594,6 +7718,9 @@
       <m:P30156>August Weltumsegler</m:P30156>
       <m:P30142>Roman</m:P30142>
       <m:P30117>Knut Hamsun. Berecht. Übers. von J. Sandmeier u. S. Angermann</m:P30117>
+      <m:P30088>Frankfurt a.M</m:P30088>
+      <m:P30083>Büchergilde Gutenberg</m:P30083>
+      <m:P30011>1957</m:P30011>
       <m:P30182>424 S.</m:P30182>
       <m:P30169>8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -7605,6 +7732,11 @@
       <m:P30156>August Weltumsegler</m:P30156>
       <m:P30142>Roman</m:P30142>
       <m:P30117>Knut Hamsun. Berecht. Übers. aus d. Norweg. von J. Sandmeier u. S. Angermann</m:P30117>
+      <m:P30088>[Düsseldorf]</m:P30088>
+      <m:P30088>[Stuttgart]</m:P30088>
+      <m:P30083>Dt. Bücherbund</m:P30083>
+      <m:P30083>Stuttgarter Hausbücherei</m:P30083>
+      <m:P30011>1957</m:P30011>
       <m:P30182>424 S.</m:P30182>
       <m:P30169>8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -7616,6 +7748,9 @@
       <m:P30156>August Weltumsegler</m:P30156>
       <m:P30142>Roman</m:P30142>
       <m:P30117>Knut Hamsun. [Übers. von J. Sandmeier u. S. Angermann]</m:P30117>
+      <m:P30088>[Gütersloh]</m:P30088>
+      <m:P30083>Bertelsmann Lesering</m:P30083>
+      <m:P30011>1960</m:P30011>
       <m:P30182>477 S.</m:P30182>
       <m:P30169>8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -7628,6 +7763,9 @@
       <m:P30142>Roman</m:P30142>
       <m:P30117>Knut Hamsun. Übers.: J. Sandmeier u. S. Angermann</m:P30117>
       <m:P30107>61. - 90. Tsd.</m:P30107>
+      <m:P30088>München</m:P30088>
+      <m:P30083>List</m:P30083>
+      <m:P30011>1952</m:P30011>
       <m:P30182>221 S.</m:P30182>
       <m:P30169>8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -7640,6 +7778,9 @@
       <marc:M001>451794354</marc:M001>
       <m:P30156>Kinder ihrer Zeit</m:P30156>
       <m:P30107>41. - 45. Tsd.</m:P30107>
+      <m:P30088>München</m:P30088>
+      <m:P30083>Langen, G. Müller</m:P30083>
+      <m:P30011>1950</m:P30011>
       <m:P30182>583 S.</m:P30182>
       <m:P30169>8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -7650,6 +7791,9 @@
       <marc:M001>451794362</marc:M001>
       <m:P30156>Kinder ihrer Zeit</m:P30156>
       <m:P30107>36. - 40. Tsd.</m:P30107>
+      <m:P30088>Salzburg</m:P30088>
+      <m:P30083>Akad. Gemeinschaftsverl</m:P30083>
+      <m:P30011>1950</m:P30011>
       <m:P30182>583 S.</m:P30182>
       <m:P30169>8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -7661,6 +7805,10 @@
       <m:P30156>Segen der Erde</m:P30156>
       <m:P30142>Roman</m:P30142>
       <m:P30117>Knut Hamsun. [Berecht. Übers. aus d. Norweg. von Pauline Klaiber-Gottschau]</m:P30117>
+      <m:P30088>Berlin</m:P30088>
+      <m:P30088>Darmstadt</m:P30088>
+      <m:P30083>Dt. Buch-Gemeinschaft</m:P30083>
+      <m:P30011>1951</m:P30011>
       <m:P30182>383 S.</m:P30182>
       <m:P30169>8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -7673,6 +7821,9 @@
       <m:P30142>Roman</m:P30142>
       <m:P30117>Knut Hamsun. Übers.: J. Sandmeier u. S. Angermann</m:P30117>
       <m:P30107>326. - 330. Tsd.</m:P30107>
+      <m:P30088>München</m:P30088>
+      <m:P30083>List</m:P30083>
+      <m:P30011>1951</m:P30011>
       <m:P30182>392 S.</m:P30182>
       <m:P30169>8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -7684,6 +7835,9 @@
       <m:P30156>Segen der Erde</m:P30156>
       <m:P30142>Roman</m:P30142>
       <m:P30117>Knut Hamsun. Berecht. Übers. aus d. Norweg. von J. Sandmeier u. S. Angermann</m:P30117>
+      <m:P30088>München</m:P30088>
+      <m:P30083>List</m:P30083>
+      <m:P30011>[1959]</m:P30011>
       <m:P30182>392 S.</m:P30182>
       <m:P30169>kl. 8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -7698,6 +7852,9 @@
       <m:P30142>Roman</m:P30142>
       <m:P30117>Knut Hamsun. Aus d. Norweg. von Erwin Magnus</m:P30117>
       <m:P30107>44. - 47. Tsd.</m:P30107>
+      <m:P30088>München</m:P30088>
+      <m:P30083>List</m:P30083>
+      <m:P30011>1955</m:P30011>
       <m:P30182>387 S.</m:P30182>
       <m:P30169>8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -7710,6 +7867,10 @@
       <m:P30156>Das letzte Kapitel</m:P30156>
       <m:P30142>Roman</m:P30142>
       <m:P30117>Knut Hamsun. Aus d. Norweg von Erwin Magnus</m:P30117>
+      <m:P30088>Berlin</m:P30088>
+      <m:P30088>Darmstadt</m:P30088>
+      <m:P30083>Dt. Buch-Gemeinschaft</m:P30083>
+      <m:P30011>1956</m:P30011>
       <m:P30182>387 S.</m:P30182>
       <m:P30169>8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -7720,6 +7881,10 @@
       <marc:M001>451794532</marc:M001>
       <m:P30156>Das letzte Kapitel</m:P30156>
       <m:P30117>Hamsun. [Aus d. Norweg. übertr. von Erwin Magnus. Mit e. Nachw. von Wolfgang Lange]</m:P30117>
+      <m:P30088>Frankfurt a.M</m:P30088>
+      <m:P30088>Hamburg</m:P30088>
+      <m:P30083>Fischer Bücherei</m:P30083>
+      <m:P30011>1961</m:P30011>
       <m:P30182>365 S.</m:P30182>
       <m:P30169>kl. 8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -7733,6 +7898,9 @@
       <m:P30156>Das letzte Kapitel</m:P30156>
       <m:P30142>Roman</m:P30142>
       <m:P30117>Knut Hamsun. [Aus d. Norweg. von Erwin Magnus]</m:P30117>
+      <m:P30088>[Gütersloh]</m:P30088>
+      <m:P30083>Bertelsmann Lesering</m:P30083>
+      <m:P30011>1962</m:P30011>
       <m:P30182>475 S.</m:P30182>
       <m:P30169>8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -7745,6 +7913,10 @@
       <m:P30142>Roman</m:P30142>
       <m:P30117>Knut Hamsun. Mit e. Nachw. von Thomas Mann. Berecht. Übers. von Pauline Klaiber-Gottschau</m:P30117>
       <m:P30107>Ungekürzte Ausg.</m:P30107>
+      <m:P30088>Frankfurt a.M</m:P30088>
+      <m:P30088>Hamburg</m:P30088>
+      <m:P30083>Fischer Bücherei</m:P30083>
+      <m:P30011>1958</m:P30011>
       <m:P30182>339 S.</m:P30182>
       <m:P30169>kl. 8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -7760,6 +7932,11 @@
       <m:P30142>Roman</m:P30142>
       <m:P30117>Knut Hamsun. [Ber. Übers. von J. Sandmeier u. S. Angermann]</m:P30117>
       <m:P30107>78. - 87. Tsd.</m:P30107>
+      <m:P30088>München</m:P30088>
+      <m:P30088>Leipzig</m:P30088>
+      <m:P30088>Freiburg i. Br</m:P30088>
+      <m:P30083>List</m:P30083>
+      <m:P30011>1949</m:P30011>
       <m:P30182>575 S.</m:P30182>
       <m:P30169>8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -7771,6 +7948,9 @@
       <m:P30156>Landstreicher</m:P30156>
       <m:P30142>Roman</m:P30142>
       <m:P30117>Knut Hamsun. Berecht. Übers. von J. Sandmeier u. S. Angermann</m:P30117>
+      <m:P30088>Zürich</m:P30088>
+      <m:P30083>Büchergilde Gutenberg</m:P30083>
+      <m:P30011>1956</m:P30011>
       <m:P30182>411 S.</m:P30182>
       <m:P30169>8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -7782,6 +7962,9 @@
       <m:P30156>Landstreicher</m:P30156>
       <m:P30142>Roman</m:P30142>
       <m:P30117>Knut Hamsun. [Übers. von J. Sandmeier u. S. Angermann]</m:P30117>
+      <m:P30088>Gütersloh</m:P30088>
+      <m:P30083>Bertelsmann-Lesering</m:P30083>
+      <m:P30011>1960</m:P30011>
       <m:P30182>479 S.</m:P30182>
       <m:P30169>8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -7793,6 +7976,11 @@
       <m:P30156>Vom Teufel geholt</m:P30156>
       <m:P30142>Schauspiel in 4 Akten</m:P30142>
       <m:P30117>Knut Hamsun. Aus d. Norweg. übertr. von Werner von Grünau. Mit Zeichn. von Emil Orlik</m:P30117>
+      <m:P30088>München</m:P30088>
+      <m:P30088>Wien</m:P30088>
+      <m:P30088>Basel</m:P30088>
+      <m:P30083>Desch</m:P30083>
+      <m:P30011>1955</m:P30011>
       <m:P30182>133 S.</m:P30182>
       <marc:M30000b>8 Taf.</marc:M30000b>
       <m:P30169>8</m:P30169>
@@ -7807,6 +7995,9 @@
       <m:P30142>Roman</m:P30142>
       <m:P30117>Knut Hamsun. Übers.: J. Sandmeier u. S. Angermann</m:P30117>
       <m:P30107>46. - 50. Tsd.</m:P30107>
+      <m:P30088>München</m:P30088>
+      <m:P30083>List</m:P30083>
+      <m:P30011>1952</m:P30011>
       <m:P30182>459 S.</m:P30182>
       <m:P30169>8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -7819,6 +8010,9 @@
       <m:P30156>Nach Jahr und Tag</m:P30156>
       <m:P30142>Roman</m:P30142>
       <m:P30117>Knut Hamsun. [Berecht. Übers. aus d. Norweg. von J. Sandmeier u. S. Angermann]</m:P30117>
+      <m:P30088>[Gütersloh]</m:P30088>
+      <m:P30083>Bertelsmann Lesering</m:P30083>
+      <m:P30011>1962</m:P30011>
       <m:P30182>478 S.</m:P30182>
       <m:P30169>8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -7829,6 +8023,9 @@
       <marc:M001>451794648</marc:M001>
       <m:P30156>Mysterien</m:P30156>
       <m:P30117>Knut Hamsun</m:P30117>
+      <m:P30088>Hamburg</m:P30088>
+      <m:P30083>Rowohlt</m:P30083>
+      <m:P30011>1950</m:P30011>
       <m:P30182>292 S.</m:P30182>
       <m:P30169>8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -7841,6 +8038,10 @@
       <marc:M001>451794656</marc:M001>
       <m:P30156>Mysterien</m:P30156>
       <m:P30117>Knut Hamsun. [Berecht. Übers. aus d. Norweg. von J. Sandmeier]</m:P30117>
+      <m:P30088>Berlin</m:P30088>
+      <m:P30088>Darmstadt</m:P30088>
+      <m:P30083>Dt. Buch-Gemeinschaft</m:P30083>
+      <m:P30011>1951</m:P30011>
       <m:P30182>320 S.</m:P30182>
       <m:P30169>8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -7852,6 +8053,9 @@
       <m:P30156>Mysterien</m:P30156>
       <m:P30142>Roman</m:P30142>
       <m:P30117>Knut Hamsun. Übers. von J. Sandmeier. Nachw. von Edzard Schaper</m:P30117>
+      <m:P30088>Zürich</m:P30088>
+      <m:P30083>Manesse Verl</m:P30083>
+      <m:P30011>1958</m:P30011>
       <m:P30182>515 S.</m:P30182>
       <m:P30169>kl. 8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -7865,6 +8069,9 @@
       <m:P30156>Mysterien</m:P30156>
       <m:P30142>Roman</m:P30142>
       <m:P30117>Knut Hamsun. [Berecht. Übers. von J. Sandmeier]</m:P30117>
+      <m:P30088>München</m:P30088>
+      <m:P30083>List</m:P30083>
+      <m:P30011>1961</m:P30011>
       <m:P30182>302 S.</m:P30182>
       <m:P30169>8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -7879,6 +8086,11 @@
       <m:P30142>Roman</m:P30142>
       <m:P30117>Knut Hamsun. [Berecht. Übertr. von J. Sandmeier u. S. Angermann]</m:P30117>
       <m:P30107>76. - 85. Tsd.</m:P30107>
+      <m:P30088>München</m:P30088>
+      <m:P30088>Leipzig</m:P30088>
+      <m:P30088>Freiburg</m:P30088>
+      <m:P30083>List</m:P30083>
+      <m:P30011>1949</m:P30011>
       <m:P30182>158 S.</m:P30182>
       <m:P30169>8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -7890,6 +8102,10 @@
       <m:P30156>Pan</m:P30156>
       <m:P30142>Roman</m:P30142>
       <m:P30117>Knut Hamsun. Berecht Übertr. von J. Sandmeier u. S. Angermann</m:P30117>
+      <m:P30088>Berlin</m:P30088>
+      <m:P30088>Darmstadt</m:P30088>
+      <m:P30083>Dt. Buch-Gemeinschaft</m:P30083>
+      <m:P30011>1955</m:P30011>
       <m:P30182>190 S.</m:P30182>
       <m:P30169>8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -7901,6 +8117,9 @@
       <m:P30156>Pan</m:P30156>
       <m:P30142>Roman</m:P30142>
       <m:P30117>Knut Hamsun. Berecht. Übertr. aus d. Norweg. von J. Sandmeier u. S. Angermann</m:P30117>
+      <m:P30088>München</m:P30088>
+      <m:P30083>Langen/Müller</m:P30083>
+      <m:P30011>1956</m:P30011>
       <m:P30182>182 S.</m:P30182>
       <m:P30169>8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -7912,6 +8131,9 @@
       <m:P30156>Pan</m:P30156>
       <m:P30142>Roman</m:P30142>
       <m:P30117>Knut Hamsun. Berechtigte Übertr. von J. Sandmeier u. S. Angermann</m:P30117>
+      <m:P30088>München</m:P30088>
+      <m:P30083>List</m:P30083>
+      <m:P30011>1957</m:P30011>
       <m:P30182>156 S.</m:P30182>
       <m:P30169>kl. 8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -7925,6 +8147,9 @@
       <m:P30156>Rosa</m:P30156>
       <m:P30142>Roman</m:P30142>
       <m:P30117>Knut Hamsun. Aus d. Norweg. von J. Sandmeier u. S. Angermann</m:P30117>
+      <m:P30088>München</m:P30088>
+      <m:P30083>List</m:P30083>
+      <m:P30011>1954</m:P30011>
       <m:P30182>182 S.</m:P30182>
       <m:P30169>kl. 8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -7939,6 +8164,9 @@
       <m:P30142>Roman</m:P30142>
       <m:P30117>Knut Hamsun. Aus d. Norweg. Dt. von Pauline Klaiber-Gottschau</m:P30117>
       <m:P30107>Ungekürzte Ausg., [1. - 40. Tsd.]</m:P30107>
+      <m:P30088>Hamburg</m:P30088>
+      <m:P30083>Rowohlt</m:P30083>
+      <m:P30011>1959</m:P30011>
       <m:P30182>293 S.</m:P30182>
       <m:P30169>8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -7953,6 +8181,9 @@
       <m:P30142>Roman</m:P30142>
       <m:P30117>Knut Hamsun. [Übertr. aus d. Norweg. ins Dt. von Pauline Klaiber-Gottschau]</m:P30117>
       <m:P30107>Ungekürzte Ausg. [2. Aufl.], 41. - 45. Tsd.</m:P30107>
+      <m:P30088>Reinbek b. Hamburg</m:P30088>
+      <m:P30083>Rowohlt</m:P30083>
+      <m:P30011>1961</m:P30011>
       <m:P30182>293 S.</m:P30182>
       <m:P30169>8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -7966,6 +8197,11 @@
       <m:P30156>Auf überwachsenen Pfaden</m:P30156>
       <m:P30142>Ein Tagebuch</m:P30142>
       <m:P30117>Knut Hamsun. [Übers. von Elisabeth Ihle]</m:P30117>
+      <m:P30088>München</m:P30088>
+      <m:P30088>Leipzig</m:P30088>
+      <m:P30088>Freiburg i. Br</m:P30088>
+      <m:P30083>List</m:P30083>
+      <m:P30011>1950</m:P30011>
       <m:P30182>212 S.</m:P30182>
       <m:P30169>8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -7977,6 +8213,9 @@
       <m:P30156>Auf überwachsenen Pfaden</m:P30156>
       <m:P30142>Ein Tagebuch</m:P30142>
       <m:P30117>Knut Hamsun. Aus d. Norweg. von Elisabeth Ihle</m:P30117>
+      <m:P30088>München</m:P30088>
+      <m:P30083>List</m:P30083>
+      <m:P30011>1959</m:P30011>
       <m:P30182>143 S.</m:P30182>
       <m:P30169>kl. 8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -7991,6 +8230,9 @@
       <m:P30142>Roman</m:P30142>
       <m:P30117>Knut Hamsun. Berecht. Übers. von J. Sandmeier u. S. Angermann</m:P30117>
       <m:P30107>84. - 88. Tsd.</m:P30107>
+      <m:P30088>München</m:P30088>
+      <m:P30083>List</m:P30083>
+      <m:P30011>1953</m:P30011>
       <m:P30182>227 S.</m:P30182>
       <m:P30169>8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -8003,6 +8245,10 @@
       <m:P30156>Hunger</m:P30156>
       <m:P30142>Roman</m:P30142>
       <m:P30117>Knut Hamsun. Berechtigte Übers. aus d. Norwegischen von J. Sandmeier u. S. Angermann</m:P30117>
+      <m:P30088>Berlin</m:P30088>
+      <m:P30088>Darmstadt</m:P30088>
+      <m:P30083>Dt. Buch-Gemeinschaft</m:P30083>
+      <m:P30011>1957</m:P30011>
       <m:P30182>199 S.</m:P30182>
       <m:P30169>8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -8015,6 +8261,9 @@
       <m:P30142>Roman</m:P30142>
       <m:P30117>Knut Hamsun. Aus d. Norweg. Dt. von J. Sandmeier u. S. Angermann</m:P30117>
       <m:P30107>Ungekürzte Ausg., [1. - 40. Tsd.]</m:P30107>
+      <m:P30088>Hamburg</m:P30088>
+      <m:P30083>Rowohlt</m:P30083>
+      <m:P30011>1959</m:P30011>
       <m:P30182>148 S.</m:P30182>
       <m:P30169>8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -8029,6 +8278,9 @@
       <m:P30142>Roman</m:P30142>
       <m:P30117>Knut Hamsun. [Aus d. Norweg. übertr. ins Dt. von J. Sandmeier u. S. Angermann]</m:P30117>
       <m:P30107>Ungekürzte Ausg. [3. Aufl.], 51. - 55. Tsd.</m:P30107>
+      <m:P30088>Reinbek b. Hamburg</m:P30088>
+      <m:P30083>Rowohlt</m:P30083>
+      <m:P30011>1961</m:P30011>
       <m:P30182>148 S.</m:P30182>
       <m:P30169>8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -8043,6 +8295,9 @@
       <m:P30142>Roman</m:P30142>
       <m:P30117>Knut Hamsun. [Übertr. aus d. Norweg. ins Dt. von J. Sandmeier u. S. Angermann]</m:P30117>
       <m:P30107>Ungekürzte Ausg. [4. Aufl.], 56. - 63. Tsd.</m:P30107>
+      <m:P30088>Reinbek b. Hamburg</m:P30088>
+      <m:P30083>Rowohlt</m:P30083>
+      <m:P30011>1962</m:P30011>
       <m:P30182>148 S.</m:P30182>
       <m:P30169>8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -8057,6 +8312,9 @@
       <m:P30142>Roman</m:P30142>
       <m:P30117>Knut Hamsun. [Aus d. Norweg. ins Dt. übertr. von J. Sandmeier u. S. Angermann]</m:P30117>
       <m:P30107>Ungekürzte Ausg. [5. Aufl.], 64. - 68. Tsd.</m:P30107>
+      <m:P30088>Reinbek b. Hamburg</m:P30088>
+      <m:P30083>Rowohlt</m:P30083>
+      <m:P30011>1964</m:P30011>
       <m:P30182>148 S.</m:P30182>
       <m:P30169>8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -8071,6 +8329,9 @@
       <m:P30142>Roman</m:P30142>
       <m:P30117>Knut Hamsun. [Berecht., rev. Übers. von J. Sandmeier u. S. Angermann]</m:P30117>
       <m:P30107>1. - 6. Tsd.</m:P30107>
+      <m:P30088>[Frankfurt a.M.]</m:P30088>
+      <m:P30083>Suhrkamp</m:P30083>
+      <m:P30011>1965</m:P30011>
       <m:P30182>215 S.</m:P30182>
       <m:P30169>kl. 8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -8083,6 +8344,9 @@
       <marc:M001>451794877</marc:M001>
       <m:P30156>Schwärmer</m:P30156>
       <m:P30117>Knut Hamsun. [Übers. von J. Sandmeier]</m:P30117>
+      <m:P30088>Aarau</m:P30088>
+      <m:P30083>Sauerländer</m:P30083>
+      <m:P30011>1953</m:P30011>
       <m:P30182>99 S.</m:P30182>
       <m:P30169>kl. 8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -8096,6 +8360,9 @@
       <m:P30156>Schwärmer</m:P30156>
       <m:P30142>Roman</m:P30142>
       <m:P30117>Knut Hamsun. Berecht. Übers. aus d. Norweg. von Jutta u. Theodor Knust</m:P30117>
+      <m:P30088>München</m:P30088>
+      <m:P30083>Langen/Müller</m:P30083>
+      <m:P30011>1956</m:P30011>
       <m:P30182>140 S.</m:P30182>
       <m:P30169>8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -8107,6 +8374,9 @@
       <m:P30156>Gedämpftes Saitenspiel</m:P30156>
       <m:P30142>Erzählung e. Wanderers</m:P30142>
       <m:P30117>Knut Hamsun. [Berecht. Übertr. von J. Sandmeier]</m:P30117>
+      <m:P30088>Gütersloh</m:P30088>
+      <m:P30083>Bertelsmann</m:P30083>
+      <m:P30011>1951</m:P30011>
       <m:P30182>295 S.</m:P30182>
       <m:P30169>8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -8119,6 +8389,9 @@
       <m:P30142>Roman</m:P30142>
       <m:P30117>Knut Hamsun. Aus d. Norweg. Dt. von J. Sandmeier u. S. Angermann</m:P30117>
       <m:P30107>Ungekürzte Ausg., [1. - 40. Tsd.]</m:P30107>
+      <m:P30088>Hamburg</m:P30088>
+      <m:P30083>Rowohlt</m:P30083>
+      <m:P30011>1959</m:P30011>
       <m:P30182>150 S.</m:P30182>
       <m:P30169>8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -8133,6 +8406,9 @@
       <m:P30142>Roman</m:P30142>
       <m:P30117>Knut Hamsun. [Aus d. Norweg. von J. Sandmeier u. S. Angermann]</m:P30117>
       <m:P30107>Ungekürzte Ausg. [2. Aufl.], 41. - 45. Tsd.</m:P30107>
+      <m:P30088>Reinbek bei Hamburg</m:P30088>
+      <m:P30083>Rowohlt</m:P30083>
+      <m:P30011>1961</m:P30011>
       <m:P30182>150 S.</m:P30182>
       <m:P30169>8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -8147,6 +8423,9 @@
       <m:P30142>Roman</m:P30142>
       <m:P30117>Knut Hamsun. [Aus d. Norweg. Dt. von J. Sandmeier u. S. Angermann]</m:P30117>
       <m:P30107>Ungekürzte Ausg. [3. Aufl.], 46. - 50. Tsd.</m:P30107>
+      <m:P30088>Reinbek b. Hamburg</m:P30088>
+      <m:P30083>Rowohlt</m:P30083>
+      <m:P30011>1962</m:P30011>
       <m:P30182>150 S.</m:P30182>
       <m:P30169>8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -8161,6 +8440,10 @@
       <m:P30142>Die Geschichte einer Liebe</m:P30142>
       <m:P30117>Knut Hamsun. [Neue berecht. Übers. von J. Sandmeier]</m:P30117>
       <m:P30107>406. - 415. Tsd.</m:P30107>
+      <m:P30088>München</m:P30088>
+      <m:P30088>Leipzig</m:P30088>
+      <m:P30083>List</m:P30083>
+      <m:P30011>1948</m:P30011>
       <m:P30182>161 S.</m:P30182>
       <m:P30169>8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -8172,6 +8455,10 @@
       <m:P30156>Victoria</m:P30156>
       <m:P30142>Die Geschichte einer Liebe</m:P30142>
       <m:P30117>Knut Hamsun. Berechtigte Übers. von J. Sandmeier u. S. Angermann</m:P30117>
+      <m:P30088>Berlin</m:P30088>
+      <m:P30088>Darmstadt</m:P30088>
+      <m:P30083>Dt. Buch-Gemeinschaft</m:P30083>
+      <m:P30011>1954</m:P30011>
       <m:P30182>175 S.</m:P30182>
       <m:P30169>8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -8184,6 +8471,9 @@
       <m:P30142>Die Geschichte e. Liebe</m:P30142>
       <m:P30117>Knut Hamsun. Berecht. Übers. von J. Sandmeier u. S. Angermann</m:P30117>
       <m:P30107>471. - 500. Tsd.</m:P30107>
+      <m:P30088>München</m:P30088>
+      <m:P30083>List</m:P30083>
+      <m:P30011>1952</m:P30011>
       <m:P30182>117 S.</m:P30182>
       <m:P30169>kl. 8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -8197,6 +8487,9 @@
       <m:P30156>Victoria</m:P30156>
       <m:P30142>Die Geschichte e. Liebe</m:P30142>
       <m:P30117>Knut Hamsun. [Berecht. Übers. von J. Sandmeier u. S. Angermann]</m:P30117>
+      <m:P30088>[Gütersloh]</m:P30088>
+      <m:P30083>Bertelsmann Lesering</m:P30083>
+      <m:P30011>[1963]</m:P30011>
       <m:P30182>124 S.</m:P30182>
       <m:P30169>kl. 8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -8207,6 +8500,10 @@
    <c:C10007 rdf:about="http://example.org/456876820">
       <marc:M001>456876820</marc:M001>
       <m:P30156>Pan</m:P30156>
+      <m:P30088>München</m:P30088>
+      <m:P30088>Wien</m:P30088>
+      <m:P30083>Langen/Müller</m:P30083>
+      <m:P30011>1969</m:P30011>
       <m:P30182>288 S.</m:P30182>
       <m:P30169>8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -8218,6 +8515,9 @@
       <m:P30156>Segen der Erde</m:P30156>
       <m:P30142>Roman</m:P30142>
       <m:P30117>Knut Hamsun. [Berecht. Übers. aus d. Norweg. von J. Sandmeier u. S. Angermann. Mit e. Nachw. von Walter Zeleny]</m:P30117>
+      <m:P30088>Wien</m:P30088>
+      <m:P30083>Buchgemeinschaft Donauland</m:P30083>
+      <m:P30011>[1966]</m:P30011>
       <m:P30182>367 S.</m:P30182>
       <m:P30169>8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -8229,6 +8529,9 @@
       <marc:M001>456876863</marc:M001>
       <m:P30156>Segen der Erde</m:P30156>
       <m:P30117>Knut Hamsun. [Ins Dt. übertr. von J. Sandmeier u. S. Angermann.] Nachw. von Max Tau</m:P30117>
+      <m:P30088>[München]</m:P30088>
+      <m:P30083>List</m:P30083>
+      <m:P30011>1968</m:P30011>
       <m:P30182>412 S.</m:P30182>
       <m:P30169>kl. 8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -8240,6 +8543,9 @@
       <marc:M001>456876871</marc:M001>
       <m:P30156>Segen der Erde</m:P30156>
       <m:P30117>Knut Hamsun. [Berecht. Übers. aus d. Norweg. von J. Sandmeier u. S. Angermann. Übers. d. Begleittexte: Inge Thoens. Ill.: Christine Ackermann]</m:P30117>
+      <m:P30088>Zürich</m:P30088>
+      <m:P30083>Coron-Verl</m:P30083>
+      <m:P30011>[1968]</m:P30011>
       <m:P30182>397 S.</m:P30182>
       <marc:M30000b>1 Titelbild</marc:M30000b>
       <m:P30169>gr. 8</m:P30169>
@@ -8255,6 +8561,9 @@
       <m:P30142>Roman</m:P30142>
       <m:P30117>Knut Hamsun. [Aus d. Norweg. Berecht., rev. Übers. von J. Sandmeier u. S. Angermann]</m:P30117>
       <m:P30107>7. - 9. Tsd.</m:P30107>
+      <m:P30088>[Frankfurt a.M.]</m:P30088>
+      <m:P30083>Suhrkamp</m:P30083>
+      <m:P30011>1969</m:P30011>
       <m:P30182>215 S.</m:P30182>
       <m:P30169>8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -8266,6 +8575,9 @@
    <c:C10007 rdf:about="http://example.org/573638853">
       <marc:M001>573638853</marc:M001>
       <m:P30156>Pan</m:P30156>
+      <m:P30088>Hamburg</m:P30088>
+      <m:P30083>Dt. Hausbücherei</m:P30083>
+      <m:P30011>1944</m:P30011>
       <m:P30182>343 S.</m:P30182>
       <m:P30169>8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -8280,6 +8592,9 @@
       <m:P30142>Schauspiel in 3 Aufz</m:P30142>
       <m:P30117>Knut Hamsun</m:P30117>
       <m:P30107>Bühnen-Ms.</m:P30107>
+      <m:P30088>München</m:P30088>
+      <m:P30083>Langen</m:P30083>
+      <m:P30011>[um 1928]</m:P30011>
       <m:P30182>128 S.</m:P30182>
       <m:P30169>8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -8292,6 +8607,9 @@
       <m:P30142>Roman</m:P30142>
       <m:P30117>Knut Hamsun. [Berecht. Übers. aus d. Norweg. v. J. Sandmeier ; S. Angermann]</m:P30117>
       <m:P30107>46.-55. Tsd.</m:P30107>
+      <m:P30088>München</m:P30088>
+      <m:P30083>Albert Langen/Georg Müller</m:P30083>
+      <m:P30011>1942</m:P30011>
       <m:P30182>390 S.</m:P30182>
       <m:P30169>8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -8304,6 +8622,9 @@
       <m:P30142>Roman</m:P30142>
       <m:P30117>Knut Hamsun. [Berecht. Übers. aus d. Norw. v. J. Sandmeier ; S. Angermann]</m:P30117>
       <m:P30107>[61.-70. Tsd. d. Gesamtaufl.]</m:P30107>
+      <m:P30088>München</m:P30088>
+      <m:P30083>Albert Langen/Georg Müller</m:P30083>
+      <m:P30011>1944</m:P30011>
       <m:P30182>326 S.</m:P30182>
       <m:P30169>8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -8314,6 +8635,9 @@
       <marc:M001>573638896</marc:M001>
       <m:P30156>Kinder ihrer Zeit</m:P30156>
       <m:P30107>36.-40. Tsd.</m:P30107>
+      <m:P30088>München</m:P30088>
+      <m:P30083>Langen, Müller</m:P30083>
+      <m:P30011>1950</m:P30011>
       <m:P30182>583 S.</m:P30182>
       <m:P30169>8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -8326,6 +8650,9 @@
       <m:P30156>Segen der Erde</m:P30156>
       <m:P30142>Roman</m:P30142>
       <m:P30117>Von Knut Hamsun. Einz. berecht. Übers. aus d. Norweg. von Pauline Klaiber</m:P30117>
+      <m:P30088>München</m:P30088>
+      <m:P30083>Langen</m:P30083>
+      <m:P30011>1918</m:P30011>
       <m:P30182>388 S.</m:P30182>
       <m:P30169>8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -8337,6 +8664,9 @@
       <m:P30156>Segen der Erde</m:P30156>
       <m:P30142>Roman</m:P30142>
       <m:P30117>Knut Hamsun. Berecht. Übers. von Pauline Klaiber-Gottschau. Rev. von J. Sandmeier</m:P30117>
+      <m:P30088>Berlin</m:P30088>
+      <m:P30083>Deutsche Buch-Gemeinschaft</m:P30083>
+      <m:P30011>[1930]</m:P30011>
       <m:P30182>442 S.</m:P30182>
       <m:P30169>8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -8349,6 +8679,9 @@
       <m:P30142>Roman</m:P30142>
       <m:P30117>Knut Hamsun. [Berecht. Übers. aus d. Norweg. v. Pauline Klaiber-Gottschau]</m:P30117>
       <m:P30107>156.-160. Tsd.</m:P30107>
+      <m:P30088>München</m:P30088>
+      <m:P30083>Albert Langen/Georg Müller</m:P30083>
+      <m:P30011>[1940]</m:P30011>
       <m:P30182>386 S.</m:P30182>
       <m:P30169>8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -8361,6 +8694,9 @@
       <m:P30142>Roman</m:P30142>
       <m:P30117>Knut Hamsun. [Berecht. Übers. aus d. Norweg. v. Pauline Klaiber-Gottschau]</m:P30117>
       <m:P30107>206.-215. Tsd.</m:P30107>
+      <m:P30088>München</m:P30088>
+      <m:P30083>Albert Langen/Georg Müller</m:P30083>
+      <m:P30011>1942</m:P30011>
       <m:P30182>368 S.</m:P30182>
       <m:P30169>8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -8373,6 +8709,9 @@
       <m:P30142>Roman</m:P30142>
       <m:P30117>Knut Hamsun. [Berecht. Übers. aus d. Norweg. v. Pauline Klaiber-Gottschau]</m:P30117>
       <m:P30107>216.-220. Tsd.</m:P30107>
+      <m:P30088>München</m:P30088>
+      <m:P30083>Albert Langen/Georg Müller</m:P30083>
+      <m:P30011>1943</m:P30011>
       <m:P30182>487 S.</m:P30182>
       <m:P30169>8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -8385,6 +8724,9 @@
       <m:P30142>Roman</m:P30142>
       <m:P30117>Knut Hamsun. [Berecht. Übers. aus d. Norweg. v. Pauline Klaiber-Gottschau]</m:P30117>
       <m:P30107>[hs.: 241.-245. Tsd.]</m:P30107>
+      <m:P30088>München</m:P30088>
+      <m:P30083>Albert Langen/Georg Müller</m:P30083>
+      <m:P30011>[1944]</m:P30011>
       <m:P30182>386 S.</m:P30182>
       <m:P30169>8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -8396,6 +8738,9 @@
       <m:P30156>Segen der Erde</m:P30156>
       <m:P30142>Roman</m:P30142>
       <m:P30117>Knut Hamsun. [Berecht. Übers. v. J. Sandmeier ; S. Angermann]</m:P30117>
+      <m:P30088>Wien</m:P30088>
+      <m:P30083>Deutsche Buchgemeinschaft</m:P30083>
+      <m:P30011>[1952]</m:P30011>
       <m:P30182>392 S.</m:P30182>
       <m:P30169>8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -8406,6 +8751,9 @@
       <marc:M001>573638993</marc:M001>
       <m:P30156>Segen der Erde</m:P30156>
       <m:P30117>Knut Hamsun. [Berecht. Übers. v. J. Sandmeier ; S. Angermann]</m:P30117>
+      <m:P30088>Zürich</m:P30088>
+      <m:P30083>Schweizer Druck- u. Verlagshaus</m:P30083>
+      <m:P30011>[1952]</m:P30011>
       <m:P30182>302 S.</m:P30182>
       <m:P30169>8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -8418,6 +8766,9 @@
       <m:P30156>Segen der Erde</m:P30156>
       <m:P30142>Roman</m:P30142>
       <m:P30117>Knut Hamsun. [Berecht. Übers. v. J. Sandmeier ; S. Angermann]</m:P30117>
+      <m:P30088>Zürich</m:P30088>
+      <m:P30083>Buchclub Ex Libris</m:P30083>
+      <m:P30011>[1961]</m:P30011>
       <m:P30182>392 S.</m:P30182>
       <m:P30169>8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -8430,6 +8781,9 @@
       <m:P30142>Erzählg e. Wanderers</m:P30142>
       <m:P30117>Knut Hamsun. In neuer berecht. Übertr. v. J. Sandmeier</m:P30117>
       <m:P30107>4.-6. Tsd.</m:P30107>
+      <m:P30088>München</m:P30088>
+      <m:P30083>Langen</m:P30083>
+      <m:P30011>1923</m:P30011>
       <m:P30182>112 S.</m:P30182>
       <m:P30169>8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -8442,6 +8796,9 @@
       <m:P30142>Roman</m:P30142>
       <m:P30117>Knut Hamsun. [Aus d. Norweg. übertr. u. neu durchges. von Erwin Magnus]</m:P30117>
       <m:P30107>Vollst. Ausg.</m:P30107>
+      <m:P30088>Berlin</m:P30088>
+      <m:P30083>Th. Knaur Nachf</m:P30083>
+      <m:P30011>1928</m:P30011>
       <m:P30182>525 S.</m:P30182>
       <m:P30169>8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -8453,6 +8810,9 @@
       <marc:M001>573639035</marc:M001>
       <m:P30156>Das letzte Kapitel</m:P30156>
       <m:P30117>Knut Hamsun. Einzig berecht., neu durchges. Übertr. aus d. Norweg. von Erwin Magnus</m:P30117>
+      <m:P30088>Berlin</m:P30088>
+      <m:P30083>Volksverband d. Bücherfreunde, Wegweiser Verl. G.m.b.H</m:P30083>
+      <m:P30011>[1929]</m:P30011>
       <m:P30182>493 S.</m:P30182>
       <m:P30169>8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -8466,6 +8826,9 @@
       <m:P30142>Roman</m:P30142>
       <m:P30117>Knut Hamsun. Berecht. Übers. aus d. Norweg. v. Hermann Hiltbrunner</m:P30117>
       <m:P30107>23. Tsd.</m:P30107>
+      <m:P30088>München</m:P30088>
+      <m:P30083>Albert Langen/Georg Müller</m:P30083>
+      <m:P30011>[1941]</m:P30011>
       <m:P30182>412 S.</m:P30182>
       <m:P30169>8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -8478,6 +8841,9 @@
       <m:P30142>Roman</m:P30142>
       <m:P30117>Knut Hamsun. [Berecht. Übers. aus d. Norweg. v. Hermann Hiltbrunner]</m:P30117>
       <m:P30107>24.-33. Tsd.</m:P30107>
+      <m:P30088>München</m:P30088>
+      <m:P30083>Albert Langen/Georg Müller</m:P30083>
+      <m:P30011>1943</m:P30011>
       <m:P30182>411 S.</m:P30182>
       <m:P30169>8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -8489,6 +8855,9 @@
       <m:P30156>Die Weiber am Brunnen</m:P30156>
       <m:P30142>Roman</m:P30142>
       <m:P30117>Knut Hamsun</m:P30117>
+      <m:P30088>Berlin</m:P30088>
+      <m:P30083>Dt. Buchgemeinschaft</m:P30083>
+      <m:P30011>[1937]</m:P30011>
       <m:P30182>365 S.</m:P30182>
       <m:P30169>8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -8501,6 +8870,9 @@
       <m:P30142>Roman</m:P30142>
       <m:P30117>Knut Hamsun. [Übers. von J. Sandmeier ; S. Angermann]</m:P30117>
       <m:P30107>83.-87. Tsd.</m:P30107>
+      <m:P30088>München</m:P30088>
+      <m:P30083>Albert Langen/Georg Müller</m:P30083>
+      <m:P30011>1943</m:P30011>
       <m:P30182>493 S.</m:P30182>
       <m:P30169>8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -8513,6 +8885,9 @@
       <m:P30142>Roman</m:P30142>
       <m:P30117>Knut Hamsun. Berecht. Übers. aus d. Norwegischen von J. Sandmeier ; S. Angermann</m:P30117>
       <m:P30107>1.-20. Tsd.</m:P30107>
+      <m:P30088>München</m:P30088>
+      <m:P30083>Albert Langen/Georg Müller</m:P30083>
+      <m:P30011>1934 Ausg. 1933</m:P30011>
       <m:P30182>488 S.</m:P30182>
       <m:P30169>8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -8525,6 +8900,9 @@
       <m:P30142>Roman</m:P30142>
       <m:P30117>Knut Hamsun</m:P30117>
       <m:P30107>19.-21. Tsd.</m:P30107>
+      <m:P30088>München</m:P30088>
+      <m:P30083>Langen</m:P30083>
+      <m:P30011>1929</m:P30011>
       <m:P30182>318 S.</m:P30182>
       <m:P30169>8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -8537,6 +8915,9 @@
       <m:P30142>Roman</m:P30142>
       <m:P30117>Knut Hamsun. [Neue berecht. Übers. v. J. Sandmeier]</m:P30117>
       <m:P30107>22.-31. Tsd.</m:P30107>
+      <m:P30088>München</m:P30088>
+      <m:P30083>Albert Langen/Georg Müller</m:P30083>
+      <m:P30011>[1939]</m:P30011>
       <m:P30182>319 S.</m:P30182>
       <m:P30169>8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -8549,6 +8930,9 @@
       <m:P30142>Aus Leutnant Thomas Glahns Papieren</m:P30142>
       <m:P30117>Knut Hamsun. [Neue berecht. Übers. von J. Sandmeier]</m:P30117>
       <m:P30107>31.-40. Tsd.</m:P30107>
+      <m:P30088>München</m:P30088>
+      <m:P30083>Langen [/G. Müller]</m:P30083>
+      <m:P30011>1932</m:P30011>
       <m:P30182>222 S.</m:P30182>
       <m:P30169>kl. 8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -8561,6 +8945,9 @@
       <m:P30142>Aus Leutnant Thomas Glahns Papieren</m:P30142>
       <m:P30117>Knut Hamsun. [Neue berecht. Übers. v. J. Sandmeier]</m:P30117>
       <m:P30107>16.-100. Tsd.</m:P30107>
+      <m:P30088>München</m:P30088>
+      <m:P30083>Albert Langen/Georg Müller</m:P30083>
+      <m:P30011>1942</m:P30011>
       <m:P30182>222 S.</m:P30182>
       <m:P30169>kl. 8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -8573,6 +8960,9 @@
       <m:P30142>Aus Leutnant Thomas Glahns Papieren</m:P30142>
       <m:P30117>Knut Hamsun. [Neue berecht. Übers. v. J. Sandmeier]</m:P30117>
       <m:P30107>141.-148 [überschr.:] 158. Tsd.</m:P30107>
+      <m:P30088>München</m:P30088>
+      <m:P30083>Albert Langen/Georg Müller</m:P30083>
+      <m:P30011>[1944]</m:P30011>
       <m:P30182>175 S.</m:P30182>
       <m:P30169>kl. 8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -8585,6 +8975,9 @@
       <m:P30142>Schauspiel in 4 Aufz. u. 1 Vorspiel</m:P30142>
       <m:P30117>Knut Hamsun</m:P30117>
       <m:P30107>Bühnen-Ms.</m:P30107>
+      <m:P30088>München</m:P30088>
+      <m:P30083>Langen</m:P30083>
+      <m:P30011>[um 1928]</m:P30011>
       <m:P30182>140 S.</m:P30182>
       <m:P30169>8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -8597,6 +8990,9 @@
       <m:P30142>Roman</m:P30142>
       <m:P30117>Knut Hamsun. [Berecht. Übers. aus d. Norweg. v. J. Sandmeier ; S. Angermann]</m:P30117>
       <m:P30107>1.-20. Tsd.</m:P30107>
+      <m:P30088>München</m:P30088>
+      <m:P30083>Albert Langen/Georg Müller</m:P30083>
+      <m:P30011>1936</m:P30011>
       <m:P30182>354 S.</m:P30182>
       <m:P30169>8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -8609,6 +9005,9 @@
       <m:P30142>Schauspiel in 4 Aufz</m:P30142>
       <m:P30117>Knut Hamsun. [Autor. Übers. aus. d. Norw. von Christian Morgenstern. Revidiert von J. Sandmeier]</m:P30117>
       <m:P30107>Bühnen-Ms.</m:P30107>
+      <m:P30088>München</m:P30088>
+      <m:P30083>Langen</m:P30083>
+      <m:P30011>[um 1928]</m:P30011>
       <m:P30182>130 S.</m:P30182>
       <m:P30169>8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -8619,6 +9018,11 @@
       <marc:M001>573639183</marc:M001>
       <m:P30156>Auf überwachsenen Pfaden</m:P30156>
       <m:P30117>Knut Hamsun. [Übers.: Elisabeth Ihle]</m:P30117>
+      <m:P30088>Zürich</m:P30088>
+      <m:P30088>[Stuttgart]</m:P30088>
+      <m:P30083>Ex Libris-Verl</m:P30083>
+      <m:P30083>[Brockhaus]</m:P30083>
+      <m:P30011>1950</m:P30011>
       <m:P30182>212 S.</m:P30182>
       <m:P30169>8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -8631,6 +9035,9 @@
       <m:P30142>Roman</m:P30142>
       <m:P30117>Knut Hamsun. Einzige berecht. Übers. aus d. Norweg. v. Maria von Borch</m:P30117>
       <m:P30107>13.-15. Tsd.</m:P30107>
+      <m:P30088>München</m:P30088>
+      <m:P30083>Langen</m:P30083>
+      <m:P30011>1921</m:P30011>
       <m:P30182>274 S.</m:P30182>
       <m:P30169>kl. 8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -8641,6 +9048,9 @@
       <marc:M001>573639205</marc:M001>
       <m:P30156>Hunger</m:P30156>
       <m:P30117>Knut Hamsun. Deutsch von Niels Hoyer</m:P30117>
+      <m:P30088>Potsdam</m:P30088>
+      <m:P30083>G. Kiepenheuer</m:P30083>
+      <m:P30011>1921</m:P30011>
       <m:P30182>181 S.</m:P30182>
       <m:P30169>kl. 8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -8654,6 +9064,9 @@
       <m:P30142>Roman</m:P30142>
       <m:P30117>Knut Hamsun. [Neue berecht. Übers. v. J. Sandmeier]</m:P30117>
       <m:P30107>54.-58. Tsd.</m:P30107>
+      <m:P30088>München</m:P30088>
+      <m:P30083>Albert Langen/Georg Müller</m:P30083>
+      <m:P30011>[1940]</m:P30011>
       <m:P30182>186 S.</m:P30182>
       <m:P30169>8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -8665,6 +9078,10 @@
       <m:P30156>Hunger</m:P30156>
       <m:P30142>Roman</m:P30142>
       <m:P30117>Knut Hamsun. [Berecht. Übers. v. J. Sandmeier ; S. Angermann]</m:P30117>
+      <m:P30088>Berlin</m:P30088>
+      <m:P30088>Darmstadt</m:P30088>
+      <m:P30083>Deutsche Buch-Gemeinschaft</m:P30083>
+      <m:P30011>1953</m:P30011>
       <m:P30182>199 S.</m:P30182>
       <m:P30169>8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -8677,6 +9094,9 @@
       <m:P30142>Roman</m:P30142>
       <m:P30117>Knut Hamsun. In neuer berecht. Uebers. v. J. Sandmaier</m:P30117>
       <m:P30107>4.-7. Tsd.</m:P30107>
+      <m:P30088>München</m:P30088>
+      <m:P30083>A. Langen</m:P30083>
+      <m:P30011>1923</m:P30011>
       <m:P30182>89 S.</m:P30182>
       <m:P30169>8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -8689,6 +9109,9 @@
       <m:P30142>Erzählg e. Wanderers</m:P30142>
       <m:P30117>Knut Hamsun. [Übers. v. J. Sandmeier]</m:P30117>
       <m:P30107>6.-8. Tsd.</m:P30107>
+      <m:P30088>München</m:P30088>
+      <m:P30083>A. Langen</m:P30083>
+      <m:P30011>1929</m:P30011>
       <m:P30182>176 S.</m:P30182>
       <m:P30169>8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -8701,6 +9124,9 @@
       <m:P30142>8 Akte</m:P30142>
       <m:P30117>Knut Hamsun</m:P30117>
       <m:P30107>Bühnen-Ms.</m:P30107>
+      <m:P30088>München</m:P30088>
+      <m:P30083>Langen</m:P30083>
+      <m:P30011>[1928]</m:P30011>
       <m:P30182>341 S.</m:P30182>
       <m:P30169>8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -8713,6 +9139,9 @@
       <m:P30142>Eine nord. Romanze in 10 Bildern</m:P30142>
       <m:P30117>Knut Hamsun. Aus d. Norweg. übers. u. f. d. Bühne bearb. von Per Schwenzen</m:P30117>
       <m:P30107>[Unverkäufl.] Bühnen-Ms.</m:P30107>
+      <m:P30088>Berlin</m:P30088>
+      <m:P30083>Theaterverl. Albert Langen/Georg Müller</m:P30083>
+      <m:P30011>[1934]</m:P30011>
       <m:P30182>138 S.</m:P30182>
       <m:P30169>8 [Maschinenschr. autogr.]</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -8726,6 +9155,9 @@
       <m:P30142>Eine nord. Romanze in 10 Bildern</m:P30142>
       <m:P30117>Knut Hamsun. Aus d. Norw. übers. u. f. d. Bühne bearb. v. Per Schwenzen</m:P30117>
       <m:P30107>[3. Aufl.]</m:P30107>
+      <m:P30088>Berlin</m:P30088>
+      <m:P30083>Theaterverl. Albert Langen/Georg Müller</m:P30083>
+      <m:P30011>[1944]</m:P30011>
       <m:P30182>107 S.</m:P30182>
       <m:P30169>8 [Maschinenschr. autogr.]</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -8738,6 +9170,9 @@
       <m:P30142>Die Geschichte e. Liebe</m:P30142>
       <m:P30117>Knut Hamsun. Einzig berecht. Übers. aus dem Norweg. von Mathilde Mann</m:P30117>
       <m:P30107>13.-15. Tsd.</m:P30107>
+      <m:P30088>München</m:P30088>
+      <m:P30083>A. Langen</m:P30083>
+      <m:P30011>1921</m:P30011>
       <m:P30182>162 S.</m:P30182>
       <m:P30169>8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -8751,6 +9186,9 @@
       <m:P30142>Die Geschichte e. Liebe</m:P30142>
       <m:P30117>Knut Hamsun. In neuer berecht. Übers. v. J. Sandmaier</m:P30117>
       <m:P30107>16.-18. Tsd.</m:P30107>
+      <m:P30088>München</m:P30088>
+      <m:P30083>Langen</m:P30083>
+      <m:P30011>1923</m:P30011>
       <m:P30182>102 S.</m:P30182>
       <m:P30169>8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -8763,6 +9201,9 @@
       <m:P30142>Die Geschichte e. Liebe</m:P30142>
       <m:P30117>Knut Hamsun. [Neue berecht. Übers. von J. Sandmeier]</m:P30117>
       <m:P30107>36.-45. Tsd.</m:P30107>
+      <m:P30088>München</m:P30088>
+      <m:P30083>Langen</m:P30083>
+      <m:P30011>1932 [Ausg. 1931]</m:P30011>
       <m:P30182>190 S.</m:P30182>
       <m:P30169>kl. 8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -8773,6 +9214,9 @@
       <marc:M001>573639329</marc:M001>
       <m:P30156>Victoria und Schwärmer</m:P30156>
       <m:P30117>Knut Hamsun</m:P30117>
+      <m:P30088>[Berlin]</m:P30088>
+      <m:P30083>Büchergilde Gutenberg</m:P30083>
+      <m:P30011>1936</m:P30011>
       <m:P30182>294 S.</m:P30182>
       <marc:M30000b>mit Abb.</marc:M30000b>
       <m:P30169>8</m:P30169>
@@ -8786,6 +9230,9 @@
       <m:P30142>Die Geschichte e. Liebe</m:P30142>
       <m:P30117>Knut Hamsun. [Neue berecht. Übers. v. J. Sandmeier]</m:P30117>
       <m:P30107>171.-175. Tsd.</m:P30107>
+      <m:P30088>München</m:P30088>
+      <m:P30083>Albert Langen/Georg Müller</m:P30083>
+      <m:P30011>[1939]</m:P30011>
       <m:P30182>190 S.</m:P30182>
       <m:P30169>kl. 8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -8798,6 +9245,9 @@
       <m:P30142>Die Geschichte e. Liebe</m:P30142>
       <m:P30117>Knut Hamsun. [Neue berecht. Übers. v. J. Sandmeier]</m:P30117>
       <m:P30107>291.-300. Tsd. Einmalige Sonderausg. d. Zentrale d. Frontbuchhandlgn Paris</m:P30107>
+      <m:P30088>München</m:P30088>
+      <m:P30083>Albert Langen/Georg Müller</m:P30083>
+      <m:P30011>[1942]</m:P30011>
       <m:P30182>190 S.</m:P30182>
       <m:P30169>kl. 8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -8810,6 +9260,9 @@
       <m:P30142>Die Geschichte e. Liebe</m:P30142>
       <m:P30117>Knut Hamsun. [Neue berecht. Übers. v. J. Sandmeier]</m:P30117>
       <m:P30107>361.-382. Tsd.</m:P30107>
+      <m:P30088>München</m:P30088>
+      <m:P30083>Albert Langen/Georg Müller</m:P30083>
+      <m:P30011>[1944]</m:P30011>
       <m:P30182>147 S.</m:P30182>
       <m:P30169>kl. 8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -8821,6 +9274,9 @@
       <m:P30156>Victoria</m:P30156>
       <m:P30142>Die Geschichte e. Liebe</m:P30142>
       <m:P30117>Knut Hamsun. [Neue berecht. Übers. v. J. Sandmeier]</m:P30117>
+      <m:P30088>Innsbruck</m:P30088>
+      <m:P30083>P. List</m:P30083>
+      <m:P30011>1948</m:P30011>
       <m:P30182>161 S.</m:P30182>
       <m:P30169>kl. 8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -8833,6 +9289,9 @@
       <m:P30142>Historie lásky</m:P30142>
       <m:P30117>Knut Hamsun. [Z nor. přel. Hugo Kosterka. Frontispice a 3 obr. v textu od Toyen]</m:P30117>
       <m:P30107>2 vyd.</m:P30107>
+      <m:P30088>V Praze</m:P30088>
+      <m:P30083>Hynek</m:P30083>
+      <m:P30011>1943</m:P30011>
       <m:P30182>118 S.</m:P30182>
       <m:P30169>gr. 8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -8845,6 +9304,9 @@
       <m:P30142>Roman</m:P30142>
       <m:P30117>Knut Hamsun. [Berecht. Übers. von J. Sandmeier ; S. Angermann]</m:P30117>
       <m:P30107>1.-30. Tsd.</m:P30107>
+      <m:P30088>München</m:P30088>
+      <m:P30083>A. Langen</m:P30083>
+      <m:P30011>1930</m:P30011>
       <m:P30182>391 S.</m:P30182>
       <m:P30169>8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -8857,6 +9319,9 @@
       <m:P30142>Roman</m:P30142>
       <m:P30117>Knut Hamsun. Deutsch von Mathilde Mann</m:P30117>
       <m:P30107>4. u. 5. Tsd.</m:P30107>
+      <m:P30088>München</m:P30088>
+      <m:P30083>A. Langen</m:P30083>
+      <m:P30011>1921</m:P30011>
       <m:P30182>317 S.</m:P30182>
       <m:P30169>kl. 8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -8869,6 +9334,9 @@
       <m:P30142>Roman</m:P30142>
       <m:P30117>Knut Hamsun. Aus d. Norweg. von Niels Hoyer</m:P30117>
       <m:P30107>12.-14. Tsd.</m:P30107>
+      <m:P30088>München</m:P30088>
+      <m:P30083>Langen</m:P30083>
+      <m:P30011>1921</m:P30011>
       <m:P30182>267 S.</m:P30182>
       <m:P30169>8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -8881,6 +9349,9 @@
       <m:P30142>Roman</m:P30142>
       <m:P30117>Knut Hamsun. [Übers. von Pauline Klaiber-Gottschau. Rev. u. hrsg. von J. Sandmeier]</m:P30117>
       <m:P30107>26.-28. Tsd.</m:P30107>
+      <m:P30088>München</m:P30088>
+      <m:P30083>A. Langen</m:P30083>
+      <m:P30011>1925</m:P30011>
       <m:P30182>387 S.</m:P30182>
       <m:P30169>8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -8893,6 +9364,9 @@
       <m:P30142>Roman</m:P30142>
       <m:P30117>Knut Hamsun. [Berecht. Übertr. aus d. Norweg. von J. Sandmeier]</m:P30117>
       <m:P30107>1.-25. Tsd.</m:P30107>
+      <m:P30088>München</m:P30088>
+      <m:P30083>Kurt Wolff</m:P30083>
+      <m:P30011>1922</m:P30011>
       <m:P30182>241 S.</m:P30182>
       <m:P30169>8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -8905,6 +9379,11 @@
       <m:P30142>Roman</m:P30142>
       <m:P30117>Knut Hamsun. [Berecht. Übertr. aus d. Norweg. von J. Sandmeier]</m:P30117>
       <m:P30107>26.-30. Tsd.</m:P30107>
+      <m:P30088>Berlin</m:P30088>
+      <m:P30088>[Leipzig]</m:P30088>
+      <m:P30083>Transmare Verlag</m:P30083>
+      <m:P30083>[Carl Fr. Fleischer]</m:P30083>
+      <m:P30011>1930</m:P30011>
       <m:P30182>241 S.</m:P30182>
       <m:P30169>kl. 8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -8918,6 +9397,9 @@
       <m:P30142>Roman</m:P30142>
       <m:P30117>Knut Hamsun. [Berecht. Übertr. von J. Sandmeier]</m:P30117>
       <m:P30107>12.-14. Tsd.</m:P30107>
+      <m:P30088>München</m:P30088>
+      <m:P30083>A. Langen</m:P30083>
+      <m:P30011>1929</m:P30011>
       <m:P30182>266 S.</m:P30182>
       <m:P30169>8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -8930,6 +9412,9 @@
       <m:P30142>Roman</m:P30142>
       <m:P30117>Knut Hamsun. Einzige berecht. Übers. aus d. Norweg. von Pauline Klaiber-Gottschau</m:P30117>
       <m:P30107>6.-10. Tsd.</m:P30107>
+      <m:P30088>München</m:P30088>
+      <m:P30083>A. Langen</m:P30083>
+      <m:P30011>1921</m:P30011>
       <m:P30182>426 S.</m:P30182>
       <m:P30169>8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -8942,6 +9427,9 @@
       <m:P30142>[Gedichte]</m:P30142>
       <m:P30117>Knut Hamsun. [Autoris. Übertr. von Heinrich Goebel]</m:P30117>
       <m:P30107>3.-5. Tsd.</m:P30107>
+      <m:P30088>Wien</m:P30088>
+      <m:P30083>Phaidon-Verlag</m:P30083>
+      <m:P30011>1929</m:P30011>
       <m:P30182>123 S.</m:P30182>
       <marc:M30000b>1 Titelb.</marc:M30000b>
       <m:P30169>8</m:P30169>
@@ -8955,6 +9443,9 @@
       <m:P30142>Roman</m:P30142>
       <m:P30117>Knut Hamsun. [Berecht. Übertr. von J. Sandmeier ; S. Angermann]</m:P30117>
       <m:P30107>1.-20. Tsd.</m:P30107>
+      <m:P30088>München</m:P30088>
+      <m:P30083>A. Langen</m:P30083>
+      <m:P30011>1928 [Ausg. 1927]</m:P30011>
       <m:P30182>494 S.</m:P30182>
       <m:P30169>8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -8967,6 +9458,9 @@
       <m:P30142>Roman</m:P30142>
       <m:P30117>Knut Hamsun. [Autor. Übers. aus d. Norweg. von Maria von Borch]</m:P30117>
       <m:P30107>37.-40. Aufl.</m:P30107>
+      <m:P30088>Berlin</m:P30088>
+      <m:P30083>S. Fischer, Verl</m:P30083>
+      <m:P30011>1924</m:P30011>
       <m:P30182>207 S.</m:P30182>
       <m:P30169>kl. 8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -8979,6 +9473,9 @@
       <m:P30142>Aus Leutnant Thomas Glahns Papieren</m:P30142>
       <m:P30117>Knut Hamsun. [Berecht. Übertr. von Maria von Borch]</m:P30117>
       <m:P30107>49.-57. Aufl.</m:P30107>
+      <m:P30088>Berlin</m:P30088>
+      <m:P30083>S. Fischer, Verl</m:P30083>
+      <m:P30011>[1921]</m:P30011>
       <m:P30182>182 S.</m:P30182>
       <m:P30169>kl. 8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -8991,6 +9488,9 @@
       <m:P30142>Aus Leutnant Thomas Glahns Papieren</m:P30142>
       <m:P30117>Knut Hamsun. In neuer berechtigter Übertr. von J. Sandmeier</m:P30117>
       <m:P30107>19.-21. Tsd.</m:P30107>
+      <m:P30088>München</m:P30088>
+      <m:P30083>A. Langen</m:P30083>
+      <m:P30011>1922</m:P30011>
       <m:P30182>128 S.</m:P30182>
       <m:P30169>8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -9003,6 +9503,9 @@
       <m:P30142>Roman</m:P30142>
       <m:P30117>Knut Hamsun. In neuer berecht. Übers. von J. Sandmeier</m:P30117>
       <m:P30107>19.-21. Tsd.</m:P30107>
+      <m:P30088>München</m:P30088>
+      <m:P30083>A. Langen</m:P30083>
+      <m:P30011>1923</m:P30011>
       <m:P30182>187 S.</m:P30182>
       <m:P30169>8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -9014,6 +9517,9 @@
       <m:P30156>Gedämpftes Saitenspiel</m:P30156>
       <m:P30142>Roman</m:P30142>
       <m:P30117>Knut Hamsun. [Berecht. Übertr. aus d. Norweg. von J. Sandmeier]</m:P30117>
+      <m:P30088>München</m:P30088>
+      <m:P30083>Kurt Wolff</m:P30083>
+      <m:P30011>[1922]</m:P30011>
       <m:P30182>268 S.</m:P30182>
       <m:P30169>8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -9025,6 +9531,11 @@
       <m:P30156>Gedämpftes Saitenspiel</m:P30156>
       <m:P30117>Knut Hamsun. [Berecht. Übertr. aus d. Norweg. von J. Sandmeier]</m:P30117>
       <m:P30107>26.-30. Tsd.</m:P30107>
+      <m:P30088>Berlin</m:P30088>
+      <m:P30088>[Leipzig]</m:P30088>
+      <m:P30083>Transmare Verlag</m:P30083>
+      <m:P30083>[Carl Fr. Fleischer]</m:P30083>
+      <m:P30011>1930</m:P30011>
       <m:P30182>268 S.</m:P30182>
       <m:P30169>kl. 8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -9037,6 +9548,9 @@
       <m:P30156>Redakteur Lynge</m:P30156>
       <m:P30142>Roman</m:P30142>
       <m:P30117>Knut Hamsun. [Autor. Übers. aus d. Norweg. v. Maria von Borch]</m:P30117>
+      <m:P30088>Berlin</m:P30088>
+      <m:P30083>S. Fischer</m:P30083>
+      <m:P30011>[1911]</m:P30011>
       <m:P30182>206 S.</m:P30182>
       <m:P30169>kl. 8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -9049,6 +9563,9 @@
       <marc:M001>750930756</marc:M001>
       <m:P30156>Victoria und andere Romane</m:P30156>
       <m:P30117>Knut Hamsun. [Übers. von J. Sandmeier u. a.]</m:P30117>
+      <m:P30088>Hamburg, Stuttgart, München</m:P30088>
+      <m:P30083>Dt. Bücherbund</m:P30083>
+      <m:P30011>[1971]</m:P30011>
       <m:P30182>637 S.;</m:P30182>
       <m:P30169>21 cm</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -9058,6 +9575,15 @@
    <c:C10007 rdf:about="http://example.org/750974648">
       <marc:M001>750974648</marc:M001>
       <m:P30156>Hunger</m:P30156>
+      <m:P30088>Stuttgart</m:P30088>
+      <m:P30088>Gütersloh</m:P30088>
+      <m:P30088>Wien</m:P30088>
+      <m:P30088>Berlin, Darmstadt, Wien</m:P30088>
+      <m:P30083>Europ. Bildungsgemeinschaft</m:P30083>
+      <m:P30083>Bertelsmann</m:P30083>
+      <m:P30083>Buchgemeinschaft Donauland</m:P30083>
+      <m:P30083>Dt. Buchgemeinschaft</m:P30083>
+      <m:P30011>[1975]</m:P30011>
       <m:P30182>758 S.;</m:P30182>
       <m:P30169>21 cm</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -9067,6 +9593,15 @@
    <c:C10007 rdf:about="http://example.org/760440514">
       <marc:M001>760440514</marc:M001>
       <m:P30156>Victoria</m:P30156>
+      <m:P30088>Stuttgart</m:P30088>
+      <m:P30088>Gütersloh</m:P30088>
+      <m:P30088>Wien</m:P30088>
+      <m:P30088>Berlin, Darmstadt, Wien</m:P30088>
+      <m:P30083>Europ. Bildungsgemeinschaft</m:P30083>
+      <m:P30083>Bertelsmann</m:P30083>
+      <m:P30083>Buchgemeinschaft Donauland</m:P30083>
+      <m:P30083>Dt. Buch-Gemeinschaft</m:P30083>
+      <m:P30011>[1975]</m:P30011>
       <m:P30182>1102 S.</m:P30182>
       <m:P30169>22 cm</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -9079,6 +9614,9 @@
       <m:P30142>Roman</m:P30142>
       <m:P30117>Knut Hamsun. [Aus d. Norweg. übers. von J. Sandmeier u. S. Angermann]</m:P30117>
       <m:P30107>1. Aufl.</m:P30107>
+      <m:P30088>Berlin</m:P30088>
+      <m:P30083>Rütten und Loening</m:P30083>
+      <m:P30011>1976</m:P30011>
       <m:P30182>494 S.</m:P30182>
       <m:P30169>20 cm</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -9091,6 +9629,9 @@
       <m:P30142>Roman</m:P30142>
       <m:P30117>Knut Hamsun. [Berecht. Übers. aus d. Norweg. von Pauline Klaiber-Gottschau]</m:P30117>
       <m:P30107>276. - 300. Tsd.</m:P30107>
+      <m:P30088>[München</m:P30088>
+      <m:P30083>List]</m:P30083>
+      <m:P30011>1945</m:P30011>
       <m:P30182>368 S.</m:P30182>
       <m:P30169>20 cm</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -9102,6 +9643,9 @@
       <m:P30156>Hunger</m:P30156>
       <m:P30117>Knut Hamsun. [Aus d. Norweg. übers. von J. Sandmeier u. S. Angermann. Mit e. Nachw. von Horst Bien]</m:P30117>
       <m:P30107>1. Aufl.</m:P30107>
+      <m:P30088>Leipzig</m:P30088>
+      <m:P30083>Reclam</m:P30083>
+      <m:P30011>1978</m:P30011>
       <m:P30182>182 S.</m:P30182>
       <m:P30169>18 cm</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -9116,6 +9660,9 @@
       <m:P30142>Roman</m:P30142>
       <m:P30117>Knut Hamsun. [Aus d. Norweg. übers. von J. Sandmeier u. S. Angermann. Mit e. Nachw. von Horst Bien]</m:P30117>
       <m:P30107>1. Aufl.</m:P30107>
+      <m:P30088>Berlin</m:P30088>
+      <m:P30083>Rütten und Loening</m:P30083>
+      <m:P30011>1979</m:P30011>
       <m:P30182>424 S.</m:P30182>
       <m:P30169>20 cm</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -9128,6 +9675,9 @@
       <m:P30142>Roman</m:P30142>
       <m:P30117>Knut Hamsun. [Aus d. Norweg. übers. von J. Sandmeier u. S. Angermann. Mit e. Nachw. von Horst Bien]</m:P30117>
       <m:P30107>2. Aufl.</m:P30107>
+      <m:P30088>Berlin</m:P30088>
+      <m:P30083>Rütten und Loening</m:P30083>
+      <m:P30011>1980</m:P30011>
       <m:P30182>494 S.</m:P30182>
       <m:P30169>20 cm</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -9139,6 +9689,17 @@
       <m:P30156>Victoria</m:P30156>
       <m:P30142>d. Geschichte e. Liebe</m:P30142>
       <m:P30117>Knut Hamsun. Ill. von Christine Ackermann. [Berechtigte Übers. von J. Sandmeier u. S. Angermann]</m:P30117>
+      <m:P30088>Stuttgart</m:P30088>
+      <m:P30088>Gütersloh</m:P30088>
+      <m:P30088>Wien</m:P30088>
+      <m:P30088>Zug/Schweiz</m:P30088>
+      <m:P30088>Berlin, Darmstadt, Wien</m:P30088>
+      <m:P30083>Europ. Bildungsgemeinschaft</m:P30083>
+      <m:P30083>Bertelsmann</m:P30083>
+      <m:P30083>Buchgemeinschaft Donauland</m:P30083>
+      <m:P30083>Buch- u. Schallplattenfreunde GmbH</m:P30083>
+      <m:P30083>Dt. Buch-Gemeinschaft</m:P30083>
+      <m:P30011>[1979]</m:P30011>
       <m:P30182>189 S.</m:P30182>
       <marc:M30000b>Ill.</marc:M30000b>
       <m:P30169>16 cm</m:P30169>
@@ -9151,6 +9712,9 @@
       <m:P30156>Victoria</m:P30156>
       <m:P30142>d. Geschichte e. Liebe</m:P30142>
       <m:P30117>Knut Hamsun</m:P30117>
+      <m:P30088>Murrhardt</m:P30088>
+      <m:P30083>Schumm</m:P30083>
+      <m:P30011>[1981]</m:P30011>
       <m:P30182>3 Tonkassetten</m:P30182>
       <m:P30001>audio book</m:P30001>
       <m:P30002>audiocassette</m:P30002>
@@ -9160,6 +9724,10 @@
    <c:C10007 rdf:about="http://example.org/840746989">
       <marc:M001>840746989</marc:M001>
       <m:P30156>Pan</m:P30156>
+      <m:P30088>Wiesbaden</m:P30088>
+      <m:P30088>München</m:P30088>
+      <m:P30083>Limes-Verlag</m:P30083>
+      <m:P30011>1984</m:P30011>
       <m:P30182>207 S.</m:P30182>
       <m:P30169>23 cm</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -9171,6 +9739,10 @@
       <m:P30156>Segen der Erde</m:P30156>
       <m:P30142>Roman</m:P30142>
       <m:P30117>Knut Hamsun. [Rev. Übers. aus d. Norweg. von J. Sandmeier u. S. Angermann]</m:P30117>
+      <m:P30088>Stuttgart</m:P30088>
+      <m:P30088>München</m:P30088>
+      <m:P30083>Dt. Bücherbund</m:P30083>
+      <m:P30011>[1987]</m:P30011>
       <m:P30182>383 S.</m:P30182>
       <marc:M30000b>1 Ill.</marc:M30000b>
       <m:P30169>22 cm</m:P30169>
@@ -9184,6 +9756,18 @@
       <m:P30156>Victoria</m:P30156>
       <m:P30142>d. Geschichte e. Liebe</m:P30142>
       <m:P30117>Knut Hamsun. [Berecht. Übers. von J. Sandmeier u. S. Angermann]</m:P30117>
+      <m:P30088>Gütersloh</m:P30088>
+      <m:P30088>Kornwestheim</m:P30088>
+      <m:P30088>Wien</m:P30088>
+      <m:P30088>Zug/Schweiz</m:P30088>
+      <m:P30088>Berlin</m:P30088>
+      <m:P30088>Darmstadt</m:P30088>
+      <m:P30083>Bertelsmann-Club</m:P30083>
+      <m:P30083>EBG-Verl.-GmbH</m:P30083>
+      <m:P30083>Buchgemeinschaft Donauland</m:P30083>
+      <m:P30083>Buch- u. Schallplattenfreunde</m:P30083>
+      <m:P30083>Dt. Buch-Gemeinschaft</m:P30083>
+      <m:P30011>[1988]</m:P30011>
       <m:P30182>160 S.</m:P30182>
       <m:P30169>21 cm</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -9195,6 +9779,16 @@
       <marc:M001>901038679</marc:M001>
       <m:P30156>Segen der Erde</m:P30156>
       <m:P30117>Knut Hamsun. [Ins Dt. übertr. von J. Sandmeier und S. Angermann]</m:P30117>
+      <m:P30088>Gütersloh</m:P30088>
+      <m:P30088>Kornwestheim</m:P30088>
+      <m:P30088>Wien</m:P30088>
+      <m:P30088>Zug/Schweiz</m:P30088>
+      <m:P30083>Bertelsmann-Club</m:P30083>
+      <m:P30083>EBG-Verl.-GmbH</m:P30083>
+      <m:P30083>Dt. Buch-Gemeinschaft</m:P30083>
+      <m:P30083>Buchgemeinschaft Donauland</m:P30083>
+      <m:P30083>Buch- u. Schallplattenfreunde</m:P30083>
+      <m:P30011>[1990]</m:P30011>
       <m:P30182>382 S.</m:P30182>
       <m:P30169>21 cm</m:P30169>
       <marc:M30000e>Beil. (12 S.)</marc:M30000e>
@@ -9208,6 +9802,9 @@
       <m:P30156>Segen der Erde</m:P30156>
       <m:P30142>Roman</m:P30142>
       <m:P30117>Knut Hamsun. [Berechtigte Übers. von J. Sandmeier und S. Angermann]</m:P30117>
+      <m:P30088>[München]</m:P30088>
+      <m:P30083>Bertelsmann-Lesering</m:P30083>
+      <m:P30011>1957</m:P30011>
       <m:P30182>384 S.</m:P30182>
       <m:P30169>20 cm</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -9220,6 +9817,9 @@
       <m:P30142>die Geschichte einer Liebe</m:P30142>
       <m:P30117>Knut Hamsun. Dt. von J. Sandmeier und S. Angermann</m:P30117>
       <m:P30107>[Blindendr.]</m:P30107>
+      <m:P30088>Leipzig</m:P30088>
+      <m:P30083>DZB</m:P30083>
+      <m:P30011>1997</m:P30011>
       <m:P30182>165 S.</m:P30182>
       <m:P30169>35 cm</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -10420,6 +11020,7 @@
       <m:P30182>1 fold. ark.</m:P30182>
       <marc:M30000b>kol. ill.</marc:M30000b>
       <m:P30169>21 cm</m:P30169>
+      <m:P30327 rdf:resource="http://example.org/jenssendag"/>
    </c:C10007>
    <c:C10007 rdf:about="http://example.org/997511476994702201">
       <marc:M001>997511476994702201</marc:M001>
@@ -10746,6 +11347,11 @@
       <m:P30142>Roman</m:P30142>
       <m:P30117>Knut Hamsun. [Berechtigte Übers. von J. Sandmeier und S. Angermann]</m:P30117>
       <m:P30107>Sonderausg.</m:P30107>
+      <m:P30088>Stuttgart</m:P30088>
+      <m:P30088>Zürich</m:P30088>
+      <m:P30088>Salzburg</m:P30088>
+      <m:P30083>Europ. Buchklub</m:P30083>
+      <m:P30011>1951</m:P30011>
       <m:P30182>392 S.</m:P30182>
       <m:P30169>20 cm</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -13022,6 +13628,7 @@
       <m:P30182>1 videocasete (Beta) (100 min)</m:P30182>
       <marc:M30000b>son., col.</marc:M30000b>
       <m:P30139 rdf:resource="https://www.imdb.com/title/tt0077965//spa/movingimage/"/>
+      <m:P30327 rdf:resource="http://example.org/mllerrobby"/>
    </c:C10007>
    <c:C10007 rdf:about="http://example.org/isbn-0141180641">
       <marc:M001>999811318914702201</marc:M001>
@@ -15408,6 +16015,11 @@
       <m:P30004>unknown-016574</m:P30004>
       <m:P30156>Dronningen av Saba</m:P30156>
       <m:P30117>Knut Hamsun</m:P30117>
+      <m:P30088>Oslo</m:P30088>
+      <m:P30083>Gyldendal Norsk Forlag</m:P30083>
+      <m:P30011>1996</m:P30011>
+      <m:P30088>Trondheim</m:P30088>
+      <m:P30083>Aktietrykkeriet</m:P30083>
       <m:P30182>76 S.</m:P30182>
       <m:P30169>15 cm</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -16420,6 +17032,11 @@
       <m:P30142>av løjtnant Thomas Glahns papirer</m:P30142>
       <m:P30117>Knut Hamsun. Ill. med en billedserie av Håkon Gullvåg</m:P30117>
       <m:P30107>Hundreårsutg., 2. oppl.</m:P30107>
+      <m:P30088>[Oslo]</m:P30088>
+      <m:P30083>Den Norske Bokklubben</m:P30083>
+      <m:P30011>1995</m:P30011>
+      <m:P30088>Oslo; Gjøvik</m:P30088>
+      <m:P30083>Norbok</m:P30083>
       <m:P30182>189 S., [16] Bl.</m:P30182>
       <marc:M30000b>1 Portr., Ill. (farb.)</marc:M30000b>
       <m:P30169>22 cm</m:P30169>
@@ -17167,6 +17784,8 @@
       <m:P30088>London</m:P30088>
       <m:P30083>Red Hand Books</m:P30083>
       <m:P30011>cop. 2014</m:P30011>
+      <m:P30083>R.H.B</m:P30083>
+      <m:P30011>2014</m:P30011>
       <m:P30182>187 pages ;</m:P30182>
       <m:P30169>22 cm.</m:P30169>
       <m:P30182>187 s.</m:P30182>
@@ -17417,6 +18036,9 @@
       <m:P30004>isbn-1847673643</m:P30004>
       <m:P30156>Hunger</m:P30156>
       <m:P30117>Knut Hamsun ; translated by Sverre Lyngstad</m:P30117>
+      <m:P30088>Edinburgh</m:P30088>
+      <m:P30083>Canongate Books</m:P30083>
+      <m:P30011>[2011?]</m:P30011>
       <m:P30182>1 online resource</m:P30182>
       <m:P30001>computer</m:P30001>
       <m:P30002>online resource</m:P30002>
@@ -17534,6 +18156,9 @@
       <m:P30142>Roman ; [aus dem Norwegischen]</m:P30142>
       <m:P30117>Knut Hamsun. [Übers. von J. Sandmeier u. S. Angermann]</m:P30117>
       <m:P30107>2. Aufl.</m:P30107>
+      <m:P30088>Leipzig</m:P30088>
+      <m:P30083>Reclam</m:P30083>
+      <m:P30011>1989</m:P30011>
       <m:P30182>182 S.</m:P30182>
       <m:P30169>18 cm</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -17548,6 +18173,9 @@
       <m:P30004>isbn-3423008105</m:P30004>
       <m:P30156>Pan</m:P30156>
       <m:P30107>Ungekürzte Ausg.</m:P30107>
+      <m:P30088>München</m:P30088>
+      <m:P30083>Deutscher Taschenbuch-Verlag</m:P30083>
+      <m:P30011>1972</m:P30011>
       <m:P30182>213 S.;</m:P30182>
       <m:P30169>18 cm</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -17570,6 +18198,11 @@
       <m:P30107>Ungekürzte Ausg.</m:P30107>
       <m:P30107>Ungekürzte Ausg., 2. Aufl., 13. - 18. Tsd.</m:P30107>
       <m:P30107>Ungekürzte Ausg., 4. Aufl., 23. - 28. Tsd.</m:P30107>
+      <m:P30088>München</m:P30088>
+      <m:P30083>Deutscher Taschenbuch-Verlag</m:P30083>
+      <m:P30011>1984</m:P30011>
+      <m:P30011>1978</m:P30011>
+      <m:P30011>1980</m:P30011>
       <m:P30182>340 S.</m:P30182>
       <m:P30169>18 cm</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -17587,6 +18220,9 @@
       <m:P30142>Roman</m:P30142>
       <m:P30117>Knut Hamsun. Dt. von J. Sandmeier u. S. Angermann</m:P30117>
       <m:P30107>Ungekürzte Ausg.</m:P30107>
+      <m:P30088>München</m:P30088>
+      <m:P30083>Deutscher Taschenbuch-Verlag</m:P30083>
+      <m:P30011>1981</m:P30011>
       <m:P30182>201 S.</m:P30182>
       <m:P30169>18 cm</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -17603,6 +18239,9 @@
       <m:P30142>Roman</m:P30142>
       <m:P30117>Knut Hamsun. Dt. von J. Sandmeier u. S. Angermann</m:P30117>
       <m:P30107>Ungekürzte Ausg.</m:P30107>
+      <m:P30088>München</m:P30088>
+      <m:P30083>Deutscher Taschenbuch-Verlag</m:P30083>
+      <m:P30011>1981</m:P30011>
       <m:P30182>172 S.</m:P30182>
       <m:P30169>18 cm</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -17625,6 +18264,12 @@
       <m:P30107>Ungekürzte Ausg.</m:P30107>
       <m:P30107>Ungekürzte Ausg., 3. Aufl., 17. - 22. Tsd.</m:P30107>
       <m:P30107>Ungekürzte Ausg., 2. Aufl., 11. - 16. Tsd.</m:P30107>
+      <m:P30088>München</m:P30088>
+      <m:P30083>Dt. Taschenbuch-Verl</m:P30083>
+      <m:P30011>1987</m:P30011>
+      <m:P30083>Deutscher Taschenbuch-Verlag</m:P30083>
+      <m:P30011>1982</m:P30011>
+      <m:P30011>1984</m:P30011>
       <m:P30182>165 S.</m:P30182>
       <m:P30169>18 cm</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -17641,6 +18286,9 @@
       <m:P30142>d. Geschichte e. Liebe</m:P30142>
       <m:P30117>Knut Hamsun. Dt. von J. Sandmeier u. S. Angermann</m:P30117>
       <m:P30107>Ungekürzte Ausg.</m:P30107>
+      <m:P30088>München</m:P30088>
+      <m:P30083>Deutscher Taschenbuch-Verlag</m:P30083>
+      <m:P30011>1983</m:P30011>
       <m:P30182>132 S.</m:P30182>
       <m:P30169>18 cm</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -17657,6 +18305,9 @@
       <m:P30142>Roman</m:P30142>
       <m:P30117>Knut Hamsun. Dt. von J. Sandmeier. Mit e. Nachw. von Henry Miller</m:P30117>
       <m:P30107>Ungekürzte Ausg.</m:P30107>
+      <m:P30088>München</m:P30088>
+      <m:P30083>Deutscher Taschenbuch-Verlag</m:P30083>
+      <m:P30011>1984</m:P30011>
       <m:P30182>289 S.</m:P30182>
       <m:P30169>18 cm</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -17682,6 +18333,13 @@
       <m:P30107>Ungekürzte Ausg., 6. Aufl.</m:P30107>
       <m:P30107>Ungekürzte Ausg., 7. Aufl.</m:P30107>
       <m:P30107>[5. Aufl.]</m:P30107>
+      <m:P30088>München</m:P30088>
+      <m:P30083>Dt. Taschenbuch-Verl</m:P30083>
+      <m:P30011>1996</m:P30011>
+      <m:P30011>1993</m:P30011>
+      <m:P30011>1990</m:P30011>
+      <m:P30011>1991</m:P30011>
+      <m:P30011>[1989]</m:P30011>
       <m:P30182>340 S.</m:P30182>
       <m:P30169>18 cm</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -17697,6 +18355,9 @@
       <m:P30156>Pan</m:P30156>
       <m:P30117>[von S. Angermann u. J. Sandmeier ins Dt. übertr.]</m:P30117>
       <m:P30107>Ungekürzte Ausg., [2. Aufl.]</m:P30107>
+      <m:P30088>München</m:P30088>
+      <m:P30083>Dt. Taschenbuch-Verl</m:P30083>
+      <m:P30011>[1989]</m:P30011>
       <m:P30182>213 S.</m:P30182>
       <m:P30169>18 cm</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -17718,6 +18379,11 @@
       <m:P30107>Ungekürzte Ausg., 5. Aufl.</m:P30107>
       <m:P30107>Ungekürzte Ausg., [4. Aufl.]</m:P30107>
       <m:P30107>Ungekürzte Ausg., [3. Aufl.]</m:P30107>
+      <m:P30088>München</m:P30088>
+      <m:P30083>Dt. Taschenbuch-Verl</m:P30083>
+      <m:P30011>1991</m:P30011>
+      <m:P30011>[1990]</m:P30011>
+      <m:P30011>[1989]</m:P30011>
       <m:P30182>132 S.</m:P30182>
       <m:P30169>18 cm</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -17732,6 +18398,9 @@
       <m:P30004>isbn-3423111224</m:P30004>
       <m:P30156>Unter Herbststernen</m:P30156>
       <m:P30107>Ungekürzte Ausg., 1. Aufl.</m:P30107>
+      <m:P30088>München</m:P30088>
+      <m:P30083>Dt. Taschenbuch-Verl</m:P30083>
+      <m:P30011>1989</m:P30011>
       <m:P30182>440 S.</m:P30182>
       <m:P30169>18 cm</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -17748,6 +18417,9 @@
       <m:P30142>Roman</m:P30142>
       <m:P30117>Knut Hamsun. Dt. von J. Sandmeier. Mit einem Nachw. von Henry Miller</m:P30117>
       <m:P30107>Ungekürzte Ausg., 3. Aufl.</m:P30107>
+      <m:P30088>München</m:P30088>
+      <m:P30083>Dt. Taschenbuch-Verl</m:P30083>
+      <m:P30011>1990</m:P30011>
       <m:P30182>289 S.</m:P30182>
       <m:P30169>18 cm</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -17765,6 +18437,9 @@
       <m:P30142>Roman</m:P30142>
       <m:P30117>Knut Hamsun. Dt. von J. Sandmeier. Mit e. Nachw. von Henry Miller</m:P30117>
       <m:P30107>Ungekürzte Ausg., 2. Aufl.</m:P30107>
+      <m:P30088>München</m:P30088>
+      <m:P30083>Dt. Taschenbuch-Verl</m:P30083>
+      <m:P30011>1989</m:P30011>
       <m:P30182>289 S.</m:P30182>
       <m:P30169>18 cm</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -17782,6 +18457,9 @@
       <m:P30142>Roman</m:P30142>
       <m:P30117>Knut Hamsun. Aus dem Norweg. von Siegfried Weibel. Mit einem Nachw. von Walter Baumgartner</m:P30117>
       <m:P30107>Vollst. Ausg.</m:P30107>
+      <m:P30088>München</m:P30088>
+      <m:P30083>Dt. Taschenbuch-Verl</m:P30083>
+      <m:P30011>1996</m:P30011>
       <m:P30182>358 S.</m:P30182>
       <m:P30169>19 cm</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -17798,6 +18476,9 @@
       <m:P30156>Auf überwachsenen Pfaden</m:P30156>
       <m:P30117>Knut Hamsun. Dt. von Elisabeth Ihle</m:P30117>
       <m:P30107>Ungekürzte Ausg., 1. Aufl.</m:P30107>
+      <m:P30088>München</m:P30088>
+      <m:P30083>Dt. Taschenbuch-Verl</m:P30083>
+      <m:P30011>1990</m:P30011>
       <m:P30182>126 S.</m:P30182>
       <m:P30169>18 cm</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -17814,6 +18495,9 @@
       <m:P30142>Roman</m:P30142>
       <m:P30117>Knut Hamsun. Dt. von J. Sandmeier u. S. Angermann</m:P30117>
       <m:P30107>Ungekürzte Ausg., 2. Aufl.</m:P30107>
+      <m:P30088>München</m:P30088>
+      <m:P30083>Dt. Taschenbuch-Verl</m:P30083>
+      <m:P30011>1990</m:P30011>
       <m:P30182>201 S.</m:P30182>
       <m:P30169>18 cm</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -17830,6 +18514,9 @@
       <m:P30142>Roman</m:P30142>
       <m:P30117>Knut Hamsun. Dt. von J. Sandmeier u. S. Angermann</m:P30117>
       <m:P30107>Ungekürzte Ausg.</m:P30107>
+      <m:P30088>München</m:P30088>
+      <m:P30083>Dt. Taschenbuch-Verl</m:P30083>
+      <m:P30011>1990</m:P30011>
       <m:P30182>172 S.</m:P30182>
       <m:P30169>18 cm</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -17848,6 +18535,10 @@
       <m:P30117>Knut Hamsun. Dt. von J. Sandmeier und S. Angermann</m:P30117>
       <m:P30107>Ungekürzte Ausg., 2. Aufl.</m:P30107>
       <m:P30107>Ungekürzte Ausg.</m:P30107>
+      <m:P30088>München</m:P30088>
+      <m:P30083>Dt. Taschenbuch-Verl</m:P30083>
+      <m:P30011>1995</m:P30011>
+      <m:P30011>1990</m:P30011>
       <m:P30182>431 S.</m:P30182>
       <m:P30169>18 cm</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -17864,6 +18555,9 @@
       <m:P30142>Roman</m:P30142>
       <m:P30117>Knut Hamsun. Dt. von J. Sandmeier und S. Angermann</m:P30117>
       <m:P30107>Ungekürzte Ausg.</m:P30107>
+      <m:P30088>München</m:P30088>
+      <m:P30083>Dt. Taschenbuch-Verl</m:P30083>
+      <m:P30011>1990</m:P30011>
       <m:P30182>341 S.</m:P30182>
       <m:P30169>18 cm</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -17882,6 +18576,10 @@
       <m:P30117>Knut Hamsun. Dt. von J. Sandmeier und S. Angermann</m:P30117>
       <m:P30107>Ungekürzte Ausg., 6. Aufl.</m:P30107>
       <m:P30107>Ungekürzte Ausg., 5. Aufl.</m:P30107>
+      <m:P30088>München</m:P30088>
+      <m:P30083>Dt. Taschenbuch-Verl</m:P30083>
+      <m:P30011>1993</m:P30011>
+      <m:P30011>1991</m:P30011>
       <m:P30182>165 S.</m:P30182>
       <m:P30169>18 cm</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -17898,6 +18596,9 @@
       <m:P30142>Roman</m:P30142>
       <m:P30117>Knut Hamsun. Dt. von J. Sandmeier und S. Angermann</m:P30117>
       <m:P30107>Ungekürzte Ausg.</m:P30107>
+      <m:P30088>München</m:P30088>
+      <m:P30083>Dt. Taschenbuch-Verl</m:P30083>
+      <m:P30011>1991</m:P30011>
       <m:P30182>408 S.</m:P30182>
       <m:P30169>18 cm</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -17914,6 +18615,9 @@
       <m:P30142>aus Lieutenant Thomas Glahns Papieren ; Roman</m:P30142>
       <m:P30117>Knut Hamsun. Aus dem Norweg. von S. Angermann und J. Sandmeier</m:P30117>
       <m:P30107>Vollst. Ausg.</m:P30107>
+      <m:P30088>München</m:P30088>
+      <m:P30083>Dt. Taschenbuch-Verl</m:P30083>
+      <m:P30011>1996</m:P30011>
       <m:P30182>161 S.</m:P30182>
       <m:P30169>18 cm</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -17929,6 +18633,9 @@
       <m:P30156>Schwärmer</m:P30156>
       <m:P30142>Roman</m:P30142>
       <m:P30107>Vollst. Ausg.</m:P30107>
+      <m:P30088>München</m:P30088>
+      <m:P30083>Dt. Taschenbuch-Verl</m:P30083>
+      <m:P30011>1996</m:P30011>
       <m:P30182>169 S.</m:P30182>
       <m:P30169>18 cm</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -17945,6 +18652,9 @@
       <m:P30142>Roman</m:P30142>
       <m:P30117>Knut Hamsun. Aus dem Norweg. von J. Sandmeier u. S. Angermann</m:P30117>
       <m:P30107>Vollst. Ausg., 3. Aufl.</m:P30107>
+      <m:P30088>München</m:P30088>
+      <m:P30083>Dt. Taschenbuch-Verl</m:P30083>
+      <m:P30011>1997</m:P30011>
       <m:P30182>172 S.</m:P30182>
       <m:P30169>19 cm</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -17961,6 +18671,9 @@
       <m:P30142>Erzählung</m:P30142>
       <m:P30117>Knut Hamsun. Aus dem Norweg. von Gert Imbeck. Durchges. von Eva Maagerö. Mit einem Nachw. von Herbert Reinoß</m:P30117>
       <m:P30107>Vollst. Ausg.</m:P30107>
+      <m:P30088>München</m:P30088>
+      <m:P30083>Dt. Taschenbuch-Verl</m:P30083>
+      <m:P30011>1998</m:P30011>
       <m:P30182>138 S.</m:P30182>
       <m:P30169>20 cm</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -17977,6 +18690,9 @@
       <m:P30142>die Geschichte einer Liebe</m:P30142>
       <m:P30117>Knut Hamsun. Dt. von J. Sandmeier und S. Angermann</m:P30117>
       <m:P30107>Ungekürzte Ausg., 7. Aufl.</m:P30107>
+      <m:P30088>München</m:P30088>
+      <m:P30083>Dt. Taschenbuch-Verl</m:P30083>
+      <m:P30011>1999</m:P30011>
       <m:P30182>132 S.</m:P30182>
       <m:P30169>18 cm</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -17993,6 +18709,9 @@
       <m:P30142>aus Lieutenant Thomas Glahns Papieren ; Roman</m:P30142>
       <m:P30117>Knut Hamsun. Aus dem Norweg. von S. Angermann und J. Sandmeier</m:P30117>
       <m:P30107>Vollst. Ausg., 2. Aufl.</m:P30107>
+      <m:P30088>München</m:P30088>
+      <m:P30083>Dt. Taschenbuch-Verl</m:P30083>
+      <m:P30011>1999</m:P30011>
       <m:P30182>161 S.</m:P30182>
       <m:P30169>19 cm</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -18009,6 +18728,9 @@
       <m:P30142>Roman</m:P30142>
       <m:P30117>Knut Hamsun. Aus dem Norweg. von S. Angermann und J. Sandmeier</m:P30117>
       <m:P30107>Vollst. Ausg., 3. Aufl.</m:P30107>
+      <m:P30088>München</m:P30088>
+      <m:P30083>Dt. Taschenbuch-Verl</m:P30083>
+      <m:P30011>2000</m:P30011>
       <m:P30182>238 S.</m:P30182>
       <m:P30169>20 cm</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -18024,6 +18746,9 @@
       <m:P30156>Auf überwachsenen Pfaden</m:P30156>
       <m:P30117>Knut Hamsun. Aus dem Norweg. von Elisabeth Ihle</m:P30117>
       <m:P30107>Vollst. Ausg., 2. Aufl.</m:P30107>
+      <m:P30088>München</m:P30088>
+      <m:P30083>Dt. Taschenbuch-Verl</m:P30083>
+      <m:P30011>2002</m:P30011>
       <m:P30182>126 S.</m:P30182>
       <m:P30169>20 cm</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -18045,6 +18770,8 @@
       <m:P30088>München</m:P30088>
       <m:P30083>Deutscher Taschenbuch Verlag</m:P30083>
       <m:P30011>2009</m:P30011>
+      <m:P30088>München</m:P30088>
+      <m:P30083>Dt. Taschenbuch-Verl</m:P30083>
       <m:P30182>365 S.</m:P30182>
       <m:P30169>20 cm</m:P30169>
       <m:P30182>265 s.</m:P30182>
@@ -18062,6 +18789,9 @@
       <m:P30156>Neue Erde</m:P30156>
       <m:P30142>Roman</m:P30142>
       <m:P30117>Knut Hamsun. Aus d. Norweg. von J. Sandmeier</m:P30117>
+      <m:P30088>Köln</m:P30088>
+      <m:P30083>Kiepenheuer und Witsch</m:P30083>
+      <m:P30011>1987</m:P30011>
       <m:P30182>239 S.</m:P30182>
       <m:P30169>20 cm</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -18078,6 +18808,9 @@
       <m:P30142>die Geschichte einer Liebe</m:P30142>
       <m:P30117>Knut Hamsun. [Berecht. Übers. von J. Sandmeier und S. Angermann]</m:P30117>
       <m:P30107>590. - 594. Tsd.</m:P30107>
+      <m:P30088>München</m:P30088>
+      <m:P30083>List</m:P30083>
+      <m:P30011>1971</m:P30011>
       <m:P30182>136 S.</m:P30182>
       <m:P30169>18 cm</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -18092,6 +18825,9 @@
       <m:P30142>Roman</m:P30142>
       <m:P30117>Knut Hamsun. Dt. von Niels Hoyer</m:P30117>
       <m:P30107>Ungekürzte Ausg.</m:P30107>
+      <m:P30088>München</m:P30088>
+      <m:P30083>Dt. Taschenbuch-Verl</m:P30083>
+      <m:P30011>1991</m:P30011>
       <m:P30182>240 S.</m:P30182>
       <m:P30169>18 cm</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -18106,6 +18842,9 @@
       <m:P30004>isbn-3471777652</m:P30004>
       <m:P30156>Romane</m:P30156>
       <m:P30117>Knut Hamsun. [Übers. von J. Sandmeier u. a.]</m:P30117>
+      <m:P30088>München</m:P30088>
+      <m:P30083>List</m:P30083>
+      <m:P30011>1974</m:P30011>
       <m:P30182>758 S.</m:P30182>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -18117,6 +18856,9 @@
       <m:P30004>isbn-3471777679</m:P30004>
       <m:P30156>Romane</m:P30156>
       <m:P30117>Knut Hamsun. [Übers. von J. Sandmeier u. a.]</m:P30117>
+      <m:P30088>München</m:P30088>
+      <m:P30083>List</m:P30083>
+      <m:P30011>1974</m:P30011>
       <m:P30182>1102 S.</m:P30182>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -18135,6 +18877,11 @@
       <m:P30117>Knut Hamsun. [Berecht. Übers. von J. Sandmeier u. S. Angermann]</m:P30117>
       <m:P30107>Ungekürzte Ausg., 2. Aufl., 13. - 16. Tsd.</m:P30107>
       <m:P30107>600. Tsd.</m:P30107>
+      <m:P30088>München</m:P30088>
+      <m:P30083>Deutscher Taschenbuch-Verlag</m:P30083>
+      <m:P30011>1985</m:P30011>
+      <m:P30083>List</m:P30083>
+      <m:P30011>1979</m:P30011>
       <m:P30182>132 S.</m:P30182>
       <m:P30169>18 cm</m:P30169>
       <m:P30169>20 cm</m:P30169>
@@ -18157,6 +18904,9 @@
       <m:P30117>Knut Hamsun. [Aus d. Norweg. von Erwin Magnus]</m:P30117>
       <m:P30156>Segen der Erde</m:P30156>
       <m:P30117>Knut Hamsun. [Rev. Übers. aus d. Norweg. von J. Sandmeier u. S. Angermann]</m:P30117>
+      <m:P30088>München</m:P30088>
+      <m:P30083>List</m:P30083>
+      <m:P30011>1981</m:P30011>
       <m:P30182>165 S.</m:P30182>
       <m:P30169>18 cm</m:P30169>
       <m:P30182>370 S.</m:P30182>
@@ -18175,6 +18925,9 @@
       <m:P30156>Bjørger</m:P30156>
       <m:P30142>Erzählung</m:P30142>
       <m:P30117>Knut Hamsun. [Aus d. Norweg. von Gert Imbeck, durchges. von Eva Maagerö]</m:P30117>
+      <m:P30088>München</m:P30088>
+      <m:P30083>List</m:P30083>
+      <m:P30011>1984</m:P30011>
       <m:P30182>138 S.</m:P30182>
       <m:P30169>21 cm</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -18189,6 +18942,9 @@
       <m:P30142>Roman</m:P30142>
       <m:P30117>Knut Hamsun. [Ins Dt. übertr. von J. Sandmeier u. S. Angermann]</m:P30117>
       <m:P30107>Neuaufl.</m:P30107>
+      <m:P30088>München</m:P30088>
+      <m:P30083>List</m:P30083>
+      <m:P30011>1986</m:P30011>
       <m:P30182>396 S.</m:P30182>
       <m:P30169>22 cm</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -18202,6 +18958,9 @@
       <m:P30156>Ein Lebensfragment</m:P30156>
       <m:P30142>Erzählungen</m:P30142>
       <m:P30117>Knut Hamsun. Hrsg. u. kommentiert von Lars Frode Larsen. Aus d. Norweg. von Gert Imbeck u. Lothar Schneider</m:P30117>
+      <m:P30088>[München]</m:P30088>
+      <m:P30083>List</m:P30083>
+      <m:P30011>1989</m:P30011>
       <m:P30182>160 S.</m:P30182>
       <m:P30169>21 cm</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -18214,6 +18973,9 @@
       <m:P30004>isbn-3471793011</m:P30004>
       <m:P30156>Werkausgabe in Einzelbänden</m:P30156>
       <m:P30117>[Knut Hamsun]</m:P30117>
+      <m:P30088>München</m:P30088>
+      <m:P30083>List</m:P30083>
+      <m:P30011>[1994 ?]</m:P30011>
       <m:P30182>358 S.</m:P30182>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -18226,6 +18988,9 @@
       <m:P30004>isbn-3471793070</m:P30004>
       <m:P30156>Werkausgabe in Einzelbänden</m:P30156>
       <m:P30117>[Knut Hamsun]</m:P30117>
+      <m:P30088>München</m:P30088>
+      <m:P30083>List</m:P30083>
+      <m:P30011>1997</m:P30011>
       <m:P30182>222 S.</m:P30182>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -18237,6 +19002,9 @@
       <m:P30004>isbn-3471793089</m:P30004>
       <m:P30156>Werkausgabe in Einzelbänden</m:P30156>
       <m:P30117>[Knut Hamsun]</m:P30117>
+      <m:P30088>München</m:P30088>
+      <m:P30083>List</m:P30083>
+      <m:P30011>1995</m:P30011>
       <m:P30182>125 S.</m:P30182>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -18254,6 +19022,7 @@
       <m:P30088>München</m:P30088>
       <m:P30083>List</m:P30083>
       <m:P30011>1999</m:P30011>
+      <m:P30088>München</m:P30088>
       <m:P30182>399 S.</m:P30182>
       <m:P30169>21 cm</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -18267,6 +19036,9 @@
       <m:P30004>isbn-3471794662</m:P30004>
       <m:P30156>Werkausgabe in Einzelbänden</m:P30156>
       <m:P30117>[Knut Hamsun]</m:P30117>
+      <m:P30088>München</m:P30088>
+      <m:P30083>List</m:P30083>
+      <m:P30011>2002</m:P30011>
       <m:P30182>182 S.</m:P30182>
       <m:P30001>unmediated</m:P30001>
       <m:P30002>volume</m:P30002>
@@ -18280,6 +19052,9 @@
       <m:P30142>Roman</m:P30142>
       <m:P30117>Knut Hamsun</m:P30117>
       <m:P30107>Einmalige Sonderausg. zum 100. Geburtstag von Ernst Rowohlt am 23. Juni 1987</m:P30107>
+      <m:P30088>Hamburg [i.e. Reinbek]</m:P30088>
+      <m:P30083>Rowohlt</m:P30083>
+      <m:P30011>1987</m:P30011>
       <m:P30182>282 S.</m:P30182>
       <m:P30169>19 cm</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -18295,6 +19070,9 @@
       <m:P30156>Mysterien</m:P30156>
       <m:P30117>Knut Hamsun. Mit e. Nachw. von Henry Miller. [Aus d. Norweg. übertr. von J. Sandmeier. Das Nachw. aus d. Amerikan. von Ursula Michels-Wenz]</m:P30117>
       <m:P30107>1. Aufl.</m:P30107>
+      <m:P30088>[Frankfurt (Main)]</m:P30088>
+      <m:P30083>Suhrkamp</m:P30083>
+      <m:P30011>1973</m:P30011>
       <m:P30182>341 S.;</m:P30182>
       <m:P30169>19 cm</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -18315,6 +19093,7 @@
       <m:P30088>Berlin</m:P30088>
       <m:P30083>Claassen</m:P30083>
       <m:P30011>cop. 2009</m:P30011>
+      <m:P30011>2009</m:P30011>
       <m:P30182>236 S.</m:P30182>
       <m:P30169>21 cm</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -18348,6 +19127,10 @@
       <m:P30004>isbn-3548400256</m:P30004>
       <m:P30156>Pan</m:P30156>
       <m:P30117>[Übers.: J. Sandmeier u. S. Angermann]</m:P30117>
+      <m:P30088>Frankfurt/M</m:P30088>
+      <m:P30088>Berlin</m:P30088>
+      <m:P30083>Ullstein</m:P30083>
+      <m:P30011>1987</m:P30011>
       <m:P30182>200 S.</m:P30182>
       <m:P30169>19 cm</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -18362,6 +19145,10 @@
       <m:P30004>isbn-3548400701</m:P30004>
       <m:P30156>Schwärmer</m:P30156>
       <m:P30117>[Übers.: Jutta u. Theodor Knust]</m:P30117>
+      <m:P30088>Frankfurt/M</m:P30088>
+      <m:P30088>Berlin</m:P30088>
+      <m:P30083>Ullstein</m:P30083>
+      <m:P30011>1989</m:P30011>
       <m:P30182>186 S.</m:P30182>
       <m:P30169>19 cm</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -18427,6 +19214,8 @@
       <m:P30088>Zürich</m:P30088>
       <m:P30083>Manesse Verlag</m:P30083>
       <m:P30011>2009</m:P30011>
+      <m:P30088>Zürich</m:P30088>
+      <m:P30083>Manesse-Verl</m:P30083>
       <m:P30182>250 S.</m:P30182>
       <m:P30169>16 cm</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -18442,6 +19231,9 @@
       <m:P30142>[aus d. Norweg.]</m:P30142>
       <m:P30117>Knut Hamsun. Mit 10 Radierungen von Hermann Naumann. [Übers. von J. Sandmeier u. S. Angermann. Bearb. von Ruth Stöbling]</m:P30117>
       <m:P30107>1. Aufl.</m:P30107>
+      <m:P30088>München</m:P30088>
+      <m:P30083>Langen-Müller</m:P30083>
+      <m:P30011>1979</m:P30011>
       <m:P30182>140 S.</m:P30182>
       <marc:M30000b>10 Ill.</marc:M30000b>
       <m:P30169>28 cm</m:P30169>
@@ -18458,6 +19250,10 @@
       <m:P30156>Amerika</m:P30156>
       <m:P30142>krit. Schriften</m:P30142>
       <m:P30117>Knut Hamsun. Hrsg. von Tore Hamsun. [Aus d. Norweg. von Jutta u. Theodor Knust]</m:P30117>
+      <m:P30088>München</m:P30088>
+      <m:P30088>Wien</m:P30088>
+      <m:P30083>Langen Müller</m:P30083>
+      <m:P30011>1981</m:P30011>
       <m:P30182>243 S.</m:P30182>
       <m:P30169>21 cm</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -18473,6 +19269,9 @@
       <m:P30156>Pan</m:P30156>
       <m:P30142>Roman</m:P30142>
       <m:P30117>Knut Hamsun. [Übertr. aus dem Norweg. von J. Sandmeier und S. Angermann]</m:P30117>
+      <m:P30088>München</m:P30088>
+      <m:P30083>Langen Müller</m:P30083>
+      <m:P30011>2003</m:P30011>
       <m:P30182>173 S.</m:P30182>
       <m:P30169>21 cm</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -18486,6 +19285,9 @@
       <m:P30004>unknown-1011201403182965</m:P30004>
       <m:P30156>Hunger</m:P30156>
       <m:P30117>Knut Hamsun</m:P30117>
+      <m:P30088>Berlin</m:P30088>
+      <m:P30083>Ullstein eBooks</m:P30083>
+      <m:P30011>2014</m:P30011>
       <m:P30182>Online-Ressource</m:P30182>
       <m:P30001>computermedien</m:P30001>
       <m:P30002>online-ressource</m:P30002>
@@ -18498,6 +19300,9 @@
       <m:P30004>unknown-1011201403182913</m:P30004>
       <m:P30156>Mysterien</m:P30156>
       <m:P30117>Knut Hamsun</m:P30117>
+      <m:P30088>Berlin</m:P30088>
+      <m:P30083>Ullstein eBooks</m:P30083>
+      <m:P30011>2014</m:P30011>
       <m:P30182>Online-Ressource</m:P30182>
       <m:P30001>computermedien</m:P30001>
       <m:P30002>online-ressource</m:P30002>
@@ -18513,6 +19318,9 @@
       <m:P30156>Hunger</m:P30156>
       <m:P30117>Knut Hamsun</m:P30117>
       <m:P30107>gekürzte Ausgabe</m:P30107>
+      <m:P30088>Hamburg</m:P30088>
+      <m:P30083>Hörbuch Hamburg</m:P30083>
+      <m:P30011>2012</m:P30011>
       <m:P30182>Online-Ressource 156 Min.</m:P30182>
       <marc:M30000b>32 Tracks</marc:M30000b>
       <m:P30182>156 Min.</m:P30182>
@@ -18534,6 +19342,8 @@
       <m:P30088>Berlin</m:P30088>
       <m:P30083>Audio Verlag</m:P30083>
       <m:P30011>cop. 2016</m:P30011>
+      <m:P30083>DAV, Der Audio Verlag</m:P30083>
+      <m:P30011>[2016]</m:P30011>
       <m:P30182>1 CD</m:P30182>
       <m:P30182>1 CD-MP3 (8 t, 25 min)</m:P30182>
       <m:P30169>12 cm, i eske</m:P30169>
@@ -18565,6 +19375,9 @@
       <m:P30156>Vagabondage</m:P30156>
       <m:P30117>Knut Hamsun</m:P30117>
       <m:P30107>1. Aufl.</m:P30107>
+      <m:P30088>Greiz/Thüringen</m:P30088>
+      <m:P30083>König</m:P30083>
+      <m:P30011>2008</m:P30011>
       <m:P30182>208 S.</m:P30182>
       <m:P30169>200 gr.</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -18578,6 +19391,9 @@
       <m:P30156>Vagabondage</m:P30156>
       <m:P30117>Knut Hamsun</m:P30117>
       <m:P30107>1. Aufl.</m:P30107>
+      <m:P30088>Greiz/Thüringen</m:P30088>
+      <m:P30083>König</m:P30083>
+      <m:P30011>2008</m:P30011>
       <m:P30182>207 S.</m:P30182>
       <m:P30169>200 gr.</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -18597,6 +19413,7 @@
       <m:P30088>Berlin</m:P30088>
       <m:P30083>Bild</m:P30083>
       <m:P30011>2011</m:P30011>
+      <m:P30083>A. Springer</m:P30083>
       <m:P30182>205 S.</m:P30182>
       <m:P30169>21 cm</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -19937,6 +20754,9 @@
       <m:P30156>Mysterien</m:P30156>
       <m:P30142>Roman</m:P30142>
       <m:P30117>[Knut Hamsun]. Aus dem Norweg. von Siegfried Weibel. Mit 11 Orig.-Radierungen von Hermann Naumann</m:P30117>
+      <m:P30088>Hannover</m:P30088>
+      <m:P30083>Ed. Bibliophil</m:P30083>
+      <m:P30011>c 1996</m:P30011>
       <m:P30182>287 S.</m:P30182>
       <marc:M30000b>Ill.</marc:M30000b>
       <m:P30169>39 cm</m:P30169>
@@ -19952,6 +20772,9 @@
       <m:P30004>unknown-057264</m:P30004>
       <m:P30156>Der wilde Chor</m:P30156>
       <m:P30117>Knut Hamsun. [Autor. Übertr. von Heinrich Goebel]</m:P30117>
+      <m:P30088>Berlin</m:P30088>
+      <m:P30083>J. M. Spaeth</m:P30083>
+      <m:P30011>1926</m:P30011>
       <m:P30182>123 S.</m:P30182>
       <m:P30169>8</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -19964,6 +20787,9 @@
       <m:P30156>Pan</m:P30156>
       <m:P30142>Aus Leutnant Thomas Glahns Papieren</m:P30142>
       <m:P30117>Knut Hamsun. [Übertr. von J. Sandmeier]</m:P30117>
+      <m:P30088>München</m:P30088>
+      <m:P30083>[C. H. Becksche Verlh.] O. Beck</m:P30083>
+      <m:P30011>1924</m:P30011>
       <m:P30182>133 S.</m:P30182>
       <m:P30169>4</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -19979,6 +20805,9 @@
       <m:P30142>[aus d. Norweg.]</m:P30142>
       <m:P30117>Knut Hamsun. Mit 10 Radierungen von Hermann Naumann. [Übers. von J. Sandmeier u. S. Angermann. Bearb. von Ruth Stöbling]</m:P30117>
       <m:P30107>1. Aufl.</m:P30107>
+      <m:P30088>Leipzig</m:P30088>
+      <m:P30083>Reclam</m:P30083>
+      <m:P30011>1979</m:P30011>
       <m:P30182>140 S.</m:P30182>
       <marc:M30000b>10 Ill.</marc:M30000b>
       <m:P30169>28 cm</m:P30169>
@@ -19994,6 +20823,9 @@
       <m:P30142>Roman</m:P30142>
       <m:P30117>Knut Hamsun. [Neue berecht. Übers.von J. Sandmeier]</m:P30117>
       <m:P30107>45.-48. Tsd.</m:P30107>
+      <m:P30088>München</m:P30088>
+      <m:P30083>Langen</m:P30083>
+      <m:P30011>[1937]</m:P30011>
       <m:P30182>186 S.</m:P30182>
       <m:P30169>20 cm</m:P30169>
       <m:P30001>unmediated</m:P30001>

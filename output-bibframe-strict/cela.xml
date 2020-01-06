@@ -9978,7 +9978,7 @@
    </bibframe:Person>
    <bibframe:Person rdf:about="http://example.org/barraluis">
       <a:P50111>Barra, Luis</a:P50111>
-      <a:P50207 rdf:resource="http://example.org/toquerocortssalvador/buscandoacelaenlaalcarriabuscandoacelaenlaalcarria/spa"/>
+      <a:P50528 rdf:resource="http://example.org/toquerocortssalvador/buscandoacelaenlaalcarriabuscandoacelaenlaalcarria/spa"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="http://example.org/barrasantiago">
       <a:P50111>Barra, Santiago</a:P50111>
@@ -9998,7 +9998,7 @@
       <ex:relatorcode>pht</ex:relatorcode>
       <a:P50111>Bernal, Santiago</a:P50111>
       <a:P50107>1927-</a:P50107>
-      <a:P50207 rdf:resource="http://example.org/lacmaradebernaltraslahuelladecelaenlaalcarria1972lacmaradebernaltraslahuelladecelaenlaalcarria1972/spa"/>
+      <a:P50528 rdf:resource="http://example.org/lacmaradebernaltraslahuelladecelaenlaalcarria1972lacmaradebernaltraslahuelladecelaenlaalcarria1972/spa"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="http://example.org/bernsteinjs">
       <a:P50111>Bernstein, J. S</a:P50111>
@@ -10108,7 +10108,7 @@
    <bibframe:Person rdf:about="http://example.org/colomjoan">
       <a:P50111>Colom, Joan</a:P50111>
       <a:P50107>1921-2017</a:P50107>
-      <a:P50207 rdf:resource="http://workid.oslomet.no/cjc/47/spa"/>
+      <a:P50528 rdf:resource="http://workid.oslomet.no/cjc/47/spa"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="http://example.org/correasjos">
       <a:P50111>Correas, José</a:P50111>
@@ -10999,6 +10999,7 @@
    <bibframe:Person rdf:about="http://example.org/tolentinojavier">
       <a:P50111>Tolentino, Javier</a:P50111>
       <a:P50107>1959-</a:P50107>
+      <a:P50528 rdf:resource="https://www.imdb.com/title/tt0083743//spa"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="http://example.org/toquerocortssalvador">
       <a:P50111>Toquero Cortés, Salvador</a:P50111>
@@ -11032,7 +11033,7 @@
    <bibframe:Person rdf:about="http://example.org/vaqueirovtor">
       <a:P50111>Vaqueiro, Vítor</a:P50111>
       <a:P50107>1948-</a:P50107>
-      <a:P50207 rdf:resource="http://workid.oslomet.no/cjc/88/spa"/>
+      <a:P50528 rdf:resource="http://workid.oslomet.no/cjc/88/spa"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="http://example.org/vargaslabellacndida">
       <a:P50111>Vargas Labella, Cándida</a:P50111>
@@ -13060,8 +13061,8 @@
       <bibframe:hasInstance rdf:resource="http://example.org/bimo0000655354"/>
       <bibframe:hasInstance rdf:resource="http://example.org/bimo0000655355"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8439515170"/>
+      <m:P30327 rdf:resource="http://example.org/colomjoan"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/14767431"/>
-      <w:P10068 rdf:resource="http://example.org/colomjoan"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://workid.oslomet.no/cjc/49/spa">
       <e:P20006>spa</e:P20006>
@@ -13451,8 +13452,8 @@
       <e:P20001>text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8476800401"/>
       <m:P30321 rdf:resource="http://example.org/laxeiro"/>
+      <m:P30327 rdf:resource="http://example.org/vaqueirovtor"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/14767431"/>
-      <w:P10068 rdf:resource="http://example.org/vaqueirovtor"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://workid.oslomet.no/cjc/89/spa">
       <e:P20006>spa</e:P20006>
@@ -13690,6 +13691,7 @@
       <e:P20012 rdf:resource="http://example.org/ariasimanol"/>
       <e:P20012 rdf:resource="http://example.org/gonzlezagustn"/>
       <e:P20012 rdf:resource="http://example.org/pontemaraluisa"/>
+      <m:P30327 rdf:resource="http://example.org/tolentinojavier"/>
       <w:P10013 rdf:resource="http://example.org/camusmario"/>
       <w:P10013 rdf:resource="http://example.org/burmanhans"/>
       <w:P10053 rdf:resource="http://example.org/garcaabrilantn"/>
@@ -13765,7 +13767,7 @@
       <e:P20001>Imagen (fija ; bidimensional ; visual)</e:P20001>
       <e:P20001>text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/a5955997"/>
-      <w:P10068 rdf:resource="http://example.org/bernalsantiago"/>
+      <m:P30327 rdf:resource="http://example.org/bernalsantiago"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://example.org/lainslitaygloriosahazaadelcipotedearchidonalainslitaygloriosahazaadelcipotedearchidona/spa">
       <e:P20006>spa</e:P20006>
@@ -14033,9 +14035,9 @@
       <e:P20001>text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8430073167"/>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9788460877608"/>
+      <m:P30327 rdf:resource="http://example.org/barraluis"/>
       <w:P10061 rdf:resource="http://example.org/toquerocortssalvador"/>
       <w:P10061 rdf:resource="http://example.org/barrasantiago"/>
-      <w:P10068 rdf:resource="http://example.org/barraluis"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://example.org/urrutiajorge/celacelalafamiliadepascualduarteloscontextosyeltexto/spa">
       <e:P20006>spa</e:P20006>

@@ -270,7 +270,6 @@
       <w:P10004>movie</w:P10004>
       <w:P10013 rdf:resource="http://example.org/brookpeter"/>
       <w:P10064 rdf:resource="http://example.org/allenlewism"/>
-      <w:P10068 rdf:resource="http://example.org/hollymantom"/>
       <w:P10078 rdf:resource="https://www.imdb.com/title/tt0057261//eng/movingimage/"/>
       <w:P10129 rdf:resource="http://viaf.org/viaf/119144648592107423604"/>
       <w:P10203 rdf:resource="http://example.org/brookpeter"/>
@@ -281,7 +280,6 @@
       <w:P10004>movie</w:P10004>
       <w:P10013 rdf:resource="http://example.org/hookharry"/>
       <w:P10064 rdf:resource="http://example.org/milloyross"/>
-      <w:P10068 rdf:resource="http://example.org/fuhrermartin"/>
       <w:P10078 rdf:resource="https://www.imdb.com/title/tt0100054/spa/movingimage/"/>
       <w:P10129 rdf:resource="http://viaf.org/viaf/119144648592107423604"/>
       <w:P10203 rdf:resource="http://example.org/schiffsara"/>
@@ -573,7 +571,9 @@
    <c:C10004 rdf:about="http://example.org/fuhrermartin">
       <a:P50094>fuhrermartin</a:P50094>
       <a:P50111>Fuhrer, Martin</a:P50111>
-      <a:P50207 rdf:resource="https://www.imdb.com/title/tt0100054"/>
+      <a:P50528 rdf:resource="http://example.org/bivi0000058827"/>
+      <a:P50528 rdf:resource="http://example.org/bivi0000058826"/>
+      <a:P50528 rdf:resource="http://example.org/bivi0000058825"/>
    </c:C10004>
    <c:C10004 rdf:about="http://example.org/furthchris">
       <a:P50094>furthchris</a:P50094>
@@ -653,7 +653,7 @@
    <c:C10004 rdf:about="http://example.org/hollymantom">
       <a:P50094>hollymantom</a:P50094>
       <a:P50111>Hollyman, Tom</a:P50111>
-      <a:P50207 rdf:resource="https://www.imdb.com/title/tt0057261/"/>
+      <a:P50528 rdf:resource="http://example.org/a4782729"/>
    </c:C10004>
    <c:C10004 rdf:about="http://example.org/hookharry">
       <a:P50094>hookharry</a:P50094>
@@ -2340,6 +2340,9 @@
       <m:P30156>Lord of the flies</m:P30156>
       <m:P30117>William Golding</m:P30117>
       <m:P30107>Promotional edition.</m:P30107>
+      <m:P30088>[London]</m:P30088>
+      <m:P30083>Paperview</m:P30083>
+      <m:P30011>[between 2009 and 2014]</m:P30011>
       <m:P30182>192 pages ;</m:P30182>
       <m:P30169>21 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -2353,6 +2356,9 @@
       <m:P30156>Herr der Fliegen</m:P30156>
       <m:P30142>Roman</m:P30142>
       <m:P30117>William Golding. [Übertr. von Hermann Stiehl]</m:P30117>
+      <m:P30088>[Stuttgart]</m:P30088>
+      <m:P30083>[Deutscher Bücherbund]</m:P30083>
+      <m:P30011>[1984]</m:P30011>
       <m:P30182>266 S.</m:P30182>
       <m:P30169>20 cm</m:P30169>
       <m:P30001>ohne hilfsmittel zu benutzen</m:P30001>
@@ -2364,6 +2370,9 @@
       <m:P30156>Freier Fall</m:P30156>
       <m:P30142>Roman</m:P30142>
       <m:P30117>William Golding. [Aus d. Engl. übertr. von Hermann Stresau]</m:P30117>
+      <m:P30088>Frankfurt a.M</m:P30088>
+      <m:P30083>S. Fischer</m:P30083>
+      <m:P30011>1963</m:P30011>
       <m:P30182>229 S.</m:P30182>
       <m:P30169>8</m:P30169>
       <m:P30001>ohne hilfsmittel zu benutzen</m:P30001>
@@ -2377,6 +2386,9 @@
       <m:P30156>Die Erben</m:P30156>
       <m:P30117>William Golding. [Dt. von Hermann Stiehl]</m:P30117>
       <m:P30107>1. - 5. Tsd.</m:P30107>
+      <m:P30088>[Frankfurt a.M.]</m:P30088>
+      <m:P30083>Suhrkamp</m:P30083>
+      <m:P30011>1964</m:P30011>
       <m:P30182>234 S.</m:P30182>
       <m:P30169>8</m:P30169>
       <m:P30001>ohne hilfsmittel zu benutzen</m:P30001>
@@ -2391,6 +2403,10 @@
       <m:P30142>Roman</m:P30142>
       <m:P30117>William Golding. Übertr. von Hermann Stiehl</m:P30117>
       <m:P30107>[1. - 5. Tsd.]</m:P30107>
+      <m:P30088>Frankfurt a.M</m:P30088>
+      <m:P30088>Berlin</m:P30088>
+      <m:P30083>S. Fischer</m:P30083>
+      <m:P30011>1956</m:P30011>
       <m:P30182>266 S.</m:P30182>
       <m:P30169>8</m:P30169>
       <m:P30001>ohne hilfsmittel zu benutzen</m:P30001>
@@ -2403,6 +2419,10 @@
       <m:P30142>Roman</m:P30142>
       <m:P30117>William Golding. [Aus d. Engl. übertr. von Hermann Stiehl]</m:P30117>
       <m:P30107>Ungekürzte Ausg.</m:P30107>
+      <m:P30088>Frankfurt a.M</m:P30088>
+      <m:P30088>Hamburg</m:P30088>
+      <m:P30083>Fischer Bücherei</m:P30083>
+      <m:P30011>1963</m:P30011>
       <m:P30182>163 S.</m:P30182>
       <m:P30169>kl. 8</m:P30169>
       <m:P30001>ohne hilfsmittel zu benutzen</m:P30001>
@@ -2415,6 +2435,11 @@
       <marc:M001>451602706</marc:M001>
       <m:P30156>Lord of the flies</m:P30156>
       <m:P30117>William Golding. Ed. and ann. by Irmgard Richter</m:P30117>
+      <m:P30088>Frankfurt a.M</m:P30088>
+      <m:P30088>Berlin</m:P30088>
+      <m:P30088>Bonn</m:P30088>
+      <m:P30083>Diesterweg</m:P30083>
+      <m:P30011>1964</m:P30011>
       <m:P30182>119 S.</m:P30182>
       <m:P30169>kl. 8</m:P30169>
       <m:P30001>ohne hilfsmittel zu benutzen</m:P30001>
@@ -2428,6 +2453,10 @@
       <m:P30156>Der Felsen des zweiten Todes</m:P30156>
       <m:P30142>Roman</m:P30142>
       <m:P30117>William Golding. [Aus d. Engl. übertr. von Hermann Stiehl]</m:P30117>
+      <m:P30088>Frankfurt a.M</m:P30088>
+      <m:P30088>Hamburg</m:P30088>
+      <m:P30083>Fischer Bücherei</m:P30083>
+      <m:P30011>1960</m:P30011>
       <m:P30182>174 S.</m:P30182>
       <m:P30169>8</m:P30169>
       <m:P30001>ohne hilfsmittel zu benutzen</m:P30001>
@@ -2441,6 +2470,12 @@
       <m:P30156>Lord of the flies</m:P30156>
       <m:P30117>William Golding. Ed. and ann. by Irmgard Richter</m:P30117>
       <m:P30107>2. Aufl.</m:P30107>
+      <m:P30088>Frankfurt a.M</m:P30088>
+      <m:P30088>Berlin</m:P30088>
+      <m:P30088>Bonn</m:P30088>
+      <m:P30088>München</m:P30088>
+      <m:P30083>Diesterweg</m:P30083>
+      <m:P30011>1966</m:P30011>
       <m:P30182>119 S.</m:P30182>
       <m:P30169>kl. 8</m:P30169>
       <m:P30001>ohne hilfsmittel zu benutzen</m:P30001>
@@ -2454,6 +2489,9 @@
       <marc:M001>456781056</marc:M001>
       <m:P30156>Der Turm der Kathedrale</m:P30156>
       <m:P30117>William Golding. Aus d. Engl. übers. von Hermann Stiehl</m:P30117>
+      <m:P30088>Frankfurt a.M</m:P30088>
+      <m:P30083>S. Fischer</m:P30083>
+      <m:P30011>1966</m:P30011>
       <m:P30182>246 S.</m:P30182>
       <m:P30169>8</m:P30169>
       <m:P30001>ohne hilfsmittel zu benutzen</m:P30001>
@@ -2465,6 +2503,11 @@
       <m:P30156>Lord of the flies</m:P30156>
       <m:P30117>William Golding. Ed. and annotated by Irmgard Richter</m:P30117>
       <m:P30107>3. Aufl.</m:P30107>
+      <m:P30088>Frankfurt a. M</m:P30088>
+      <m:P30088>Berlin</m:P30088>
+      <m:P30088>Bonn [u.a.]&#x9c;</m:P30088>
+      <m:P30083>Diesterweg</m:P30083>
+      <m:P30011>1968</m:P30011>
       <m:P30182>119 S.</m:P30182>
       <m:P30169>kl. 8</m:P30169>
       <m:P30001>ohne hilfsmittel zu benutzen</m:P30001>
@@ -2477,6 +2520,11 @@
       <m:P30156>Lord of the flies</m:P30156>
       <m:P30117>William Golding. Ed. and annotated by Irmgard Richter</m:P30117>
       <m:P30107>4. Aufl.</m:P30107>
+      <m:P30088>Frankfurt a. M</m:P30088>
+      <m:P30088>Berlin</m:P30088>
+      <m:P30088>Bonn [u.a.]&#x9c;</m:P30088>
+      <m:P30083>Diesterweg</m:P30083>
+      <m:P30011>1969</m:P30011>
       <m:P30182>119 S.</m:P30182>
       <m:P30169>kl. 8</m:P30169>
       <m:P30001>ohne hilfsmittel zu benutzen</m:P30001>
@@ -2489,6 +2537,11 @@
       <m:P30156>Lord of the flies</m:P30156>
       <m:P30117>William Golding. Ed. and annotated by Irmgard Richter</m:P30117>
       <m:P30107>5. Aufl.</m:P30107>
+      <m:P30088>Frankfurt a. M</m:P30088>
+      <m:P30088>Berlin</m:P30088>
+      <m:P30088>München</m:P30088>
+      <m:P30083>Diesterweg</m:P30083>
+      <m:P30011>1970</m:P30011>
       <m:P30182>119 S.</m:P30182>
       <m:P30169>kl. 8</m:P30169>
       <m:P30001>ohne hilfsmittel zu benutzen</m:P30001>
@@ -2502,6 +2555,9 @@
       <m:P30142>Roman ; [aus d. Engl.]</m:P30142>
       <m:P30117>William Golding. [Übers. von Hermann Stiehl. Mit e. Essay von Bernhard Scheller "Versuch der Annäherung an Golding"]</m:P30117>
       <m:P30107>1. Aufl.</m:P30107>
+      <m:P30088>Leipzig</m:P30088>
+      <m:P30083>Reclam</m:P30083>
+      <m:P30011>1980</m:P30011>
       <m:P30182>180 S.</m:P30182>
       <m:P30169>18 cm</m:P30169>
       <m:P30001>ohne hilfsmittel zu benutzen</m:P30001>
@@ -2516,6 +2572,9 @@
       <m:P30142>Roman ; [aus d. Engl.]</m:P30142>
       <m:P30117>William Golding. [Übers. von Hermann Stiehl. Mit e. Essay von Bernhard Scheller "Versuch über Golding"]</m:P30117>
       <m:P30107>2. Aufl.</m:P30107>
+      <m:P30088>Leipzig</m:P30088>
+      <m:P30083>Reclam</m:P30083>
+      <m:P30011>1984</m:P30011>
       <m:P30182>181 S.</m:P30182>
       <m:P30169>18 cm</m:P30169>
       <m:P30001>ohne hilfsmittel zu benutzen</m:P30001>
@@ -2530,6 +2589,9 @@
       <m:P30142>Roman</m:P30142>
       <m:P30117>William Golding. Aus d. Engl. von Herbert Schlüter</m:P30117>
       <m:P30107>1. Aufl.</m:P30107>
+      <m:P30088>Berlin</m:P30088>
+      <m:P30083>Verlag Volk u. Welt</m:P30083>
+      <m:P30011>1984</m:P30011>
       <m:P30182>275 S.</m:P30182>
       <m:P30169>20 cm</m:P30169>
       <m:P30001>ohne hilfsmittel zu benutzen</m:P30001>
@@ -2542,6 +2604,9 @@
       <m:P30142>Roman</m:P30142>
       <m:P30117>William Golding. Aus d. Engl. von Hermann Stiehl</m:P30117>
       <m:P30107>1. Aufl.</m:P30107>
+      <m:P30088>Berlin</m:P30088>
+      <m:P30083>Verlag Volk u. Welt</m:P30083>
+      <m:P30011>1985</m:P30011>
       <m:P30182>245 S.</m:P30182>
       <m:P30169>20 cm</m:P30169>
       <m:P30001>ohne hilfsmittel zu benutzen</m:P30001>
@@ -2554,6 +2619,9 @@
       <m:P30142>Roman</m:P30142>
       <m:P30117>William Golding. Aus d. Engl. von Emil Bastuk</m:P30117>
       <m:P30107>1. Aufl.</m:P30107>
+      <m:P30088>Berlin</m:P30088>
+      <m:P30083>Verlag Volk u. Welt</m:P30083>
+      <m:P30011>1986</m:P30011>
       <m:P30182>223 S.</m:P30182>
       <m:P30169>20 cm</m:P30169>
       <m:P30001>ohne hilfsmittel zu benutzen</m:P30001>
@@ -2565,6 +2633,18 @@
       <m:P30156>Das Feuer der Finsternis</m:P30156>
       <m:P30142>Roman</m:P30142>
       <m:P30117>William Golding. [Aus d. Engl. von Ursula Leipe]</m:P30117>
+      <m:P30088>Gütersloh</m:P30088>
+      <m:P30088>Stuttgart</m:P30088>
+      <m:P30088>Wien</m:P30088>
+      <m:P30088>Zug/Schweiz</m:P30088>
+      <m:P30088>Berlin</m:P30088>
+      <m:P30088>Darmstadt</m:P30088>
+      <m:P30083>Bertelsmann-Club</m:P30083>
+      <m:P30083>Europ. Bildungsgemeinschaft</m:P30083>
+      <m:P30083>Buchgemeinschaft Donauland</m:P30083>
+      <m:P30083>Buch- u. Schallplattenfreunde</m:P30083>
+      <m:P30083>Dt. Buch-Gemeinschaft</m:P30083>
+      <m:P30011>[1984]</m:P30011>
       <m:P30182>319 S.</m:P30182>
       <m:P30169>21 cm</m:P30169>
       <m:P30001>ohne hilfsmittel zu benutzen</m:P30001>
@@ -2575,6 +2655,9 @@
       <marc:M001>881479748</marc:M001>
       <m:P30156>Herr der Fliegen</m:P30156>
       <m:P30117>William Golding. [Aus d. Engl. von Hermann Stiehl]</m:P30117>
+      <m:P30088>Berlin</m:P30088>
+      <m:P30083>Verl. Volk u. Welt</m:P30083>
+      <m:P30011>1988</m:P30011>
       <m:P30182>139 S.</m:P30182>
       <m:P30169>20 cm</m:P30169>
       <m:P30001>ohne hilfsmittel zu benutzen</m:P30001>
@@ -2589,6 +2672,11 @@
       <m:P30142>Roman</m:P30142>
       <m:P30117>William Golding. [Übertr. von Hermann Stiehl]</m:P30117>
       <m:P30107>Mitgliederexklusivausg.</m:P30107>
+      <m:P30088>[Stuttgart</m:P30088>
+      <m:P30088>Hamburg</m:P30088>
+      <m:P30088>München]</m:P30088>
+      <m:P30083>[Dt. Bücherbund]</m:P30083>
+      <m:P30011>[1981]</m:P30011>
       <m:P30182>266 S.</m:P30182>
       <m:P30169>20 cm</m:P30169>
       <m:P30001>ohne hilfsmittel zu benutzen</m:P30001>
@@ -2600,6 +2688,10 @@
       <m:P30156>Herr der Fliegen</m:P30156>
       <m:P30142>Roman</m:P30142>
       <m:P30117>William Golding. Aus d. Engl. von Hermann Stiehl</m:P30117>
+      <m:P30088>Stuttgart</m:P30088>
+      <m:P30088>München</m:P30088>
+      <m:P30083>Dt. Bücherbund</m:P30083>
+      <m:P30011>[1990]</m:P30011>
       <m:P30182>267 S.</m:P30182>
       <m:P30169>20 cm</m:P30169>
       <m:P30001>ohne hilfsmittel zu benutzen</m:P30001>
@@ -2611,6 +2703,9 @@
       <m:P30156>Der Turm der Kathedrale</m:P30156>
       <m:P30142>Nobelpreis 1983 England</m:P30142>
       <m:P30117>William Golding. [Bibliogr.: Werner Martin]</m:P30117>
+      <m:P30088>Zürich</m:P30088>
+      <m:P30083>Coron-Verl</m:P30083>
+      <m:P30011>[1983]</m:P30011>
       <m:P30182>307 S.</m:P30182>
       <marc:M30000b>Ill.</marc:M30000b>
       <m:P30169>23 cm</m:P30169>
@@ -2624,6 +2719,9 @@
       <marc:M001>948326581</marc:M001>
       <m:P30156>Herr der Fliegen</m:P30156>
       <m:P30117>William Golding. [Aus dem Engl. übertr. von Hermann Stiehl]</m:P30117>
+      <m:P30088>[Marburg]</m:P30088>
+      <m:P30083>Dt. Blindenstudienanst</m:P30083>
+      <m:P30011>(1987)</m:P30011>
       <m:P30182>158 S.</m:P30182>
       <m:P30001>ohne hilfsmittel zu benutzen</m:P30001>
       <m:P30002>band</m:P30002>
@@ -2633,6 +2731,9 @@
       <marc:M001>94832659X</marc:M001>
       <m:P30156>Herr der Fliegen</m:P30156>
       <m:P30117>William Golding. [Aus dem Engl. übertr. von Hermann Stiehl]</m:P30117>
+      <m:P30088>[Marburg]</m:P30088>
+      <m:P30083>Dt. Blindenstudienanst</m:P30083>
+      <m:P30011>(1987)</m:P30011>
       <m:P30182>176 S.</m:P30182>
       <m:P30001>ohne hilfsmittel zu benutzen</m:P30001>
       <m:P30002>band</m:P30002>
@@ -2643,6 +2744,9 @@
       <m:P30156>Der Turm der Kathedrale</m:P30156>
       <m:P30142>Nobelpreis 1983 England</m:P30142>
       <m:P30117>William Golding. [Bibliogr.: Werner Martin]</m:P30117>
+      <m:P30088>Lachen am Zürichsee</m:P30088>
+      <m:P30083>Coron-Verl</m:P30083>
+      <m:P30011>[1992]</m:P30011>
       <m:P30182>307, 251, 347 S.</m:P30182>
       <marc:M30000b>Ill.</marc:M30000b>
       <m:P30169>22 cm</m:P30169>
@@ -2692,6 +2796,7 @@
       <m:P30106>Filmoteca FNAC</m:P30106>
       <m:P30165>102</m:P30165>
       <m:P30139 rdf:resource="https://www.imdb.com/title/tt0057261//eng/movingimage/"/>
+      <m:P30327 rdf:resource="http://example.org/hollymantom"/>
    </c:C10007>
    <c:C10007 rdf:about="http://example.org/bimo0000923021">
       <marc:M001>bimo0000923021</marc:M001>
@@ -2773,6 +2878,7 @@
       <m:P30001>video</m:P30001>
       <m:P30002>vhs</m:P30002>
       <m:P30139 rdf:resource="https://www.imdb.com/title/tt0100054/spa/movingimage/"/>
+      <m:P30327 rdf:resource="http://example.org/fuhrermartin"/>
    </c:C10007>
    <c:C10007 rdf:about="http://example.org/bivi0000058826">
       <marc:M001>bivi0000058826</marc:M001>
@@ -2787,6 +2893,7 @@
       <m:P30001>video</m:P30001>
       <m:P30002>vhs</m:P30002>
       <m:P30139 rdf:resource="https://www.imdb.com/title/tt0100054/spa/movingimage/"/>
+      <m:P30327 rdf:resource="http://example.org/fuhrermartin"/>
    </c:C10007>
    <c:C10007 rdf:about="http://example.org/bivi0000058827">
       <marc:M001>bivi0000058827</marc:M001>
@@ -2801,6 +2908,7 @@
       <m:P30001>video</m:P30001>
       <m:P30002>vhs</m:P30002>
       <m:P30139 rdf:resource="https://www.imdb.com/title/tt0100054/spa/movingimage/"/>
+      <m:P30327 rdf:resource="http://example.org/fuhrermartin"/>
    </c:C10007>
    <c:C10007 rdf:about="http://example.org/isbn-0330502956">
       <marc:M001>010047798</marc:M001>
@@ -4341,6 +4449,9 @@
       <m:P30004>isbn-0571265472</m:P30004>
       <m:P30156>A moving target</m:P30156>
       <m:P30117>William Golding</m:P30117>
+      <m:P30088>London</m:P30088>
+      <m:P30083>Faber &amp; Faber</m:P30083>
+      <m:P30011>2013</m:P30011>
       <m:P30182>1 online resource (202 pages).</m:P30182>
       <m:P30001>computer</m:P30001>
       <m:P30002>online resource</m:P30002>
@@ -4353,6 +4464,9 @@
       <m:P30156>The Hot gates</m:P30156>
       <m:P30142>and other occasional pieces</m:P30142>
       <m:P30117>William Golding</m:P30117>
+      <m:P30088>London</m:P30088>
+      <m:P30083>Faber &amp; Faber</m:P30083>
+      <m:P30011>2013</m:P30011>
       <m:P30182>1 online resource (176 pages).</m:P30182>
       <m:P30001>computer</m:P30001>
       <m:P30002>online resource</m:P30002>
@@ -4364,6 +4478,10 @@
       <m:P30004>isbn-0571265499</m:P30004>
       <m:P30156>An Egyptian journal</m:P30156>
       <m:P30117>William Golding</m:P30117>
+      <m:P30088>London ;</m:P30088>
+      <m:P30088>Boston</m:P30088>
+      <m:P30083>Faber and Faber</m:P30083>
+      <m:P30011>1985</m:P30011>
       <m:P30182>1 online resource :</m:P30182>
       <marc:M30000b>illustrations (some color)</marc:M30000b>
       <m:P30001>computer</m:P30001>
@@ -4393,6 +4511,9 @@
       <m:P30004>isbn-0571267432</m:P30004>
       <m:P30156>Close quarters</m:P30156>
       <m:P30117>William Golding</m:P30117>
+      <m:P30088>London</m:P30088>
+      <m:P30083>Faber &amp; Faber</m:P30083>
+      <m:P30011>1987</m:P30011>
       <m:P30182>1 online resource (281 pages).</m:P30182>
       <m:P30001>computer</m:P30001>
       <m:P30002>online resource</m:P30002>
@@ -4437,6 +4558,10 @@
       <m:P30142>a novel</m:P30142>
       <m:P30117>by William Golding ; inroduction by John Mullan</m:P30117>
       <m:P30107>Ebook edition.</m:P30107>
+      <m:P30088>London</m:P30088>
+      <m:P30083>Faber and Faber</m:P30083>
+      <m:P30011>2013</m:P30011>
+      <m:P30011>©1964</m:P30011>
       <m:P30182>1 online resource.</m:P30182>
       <m:P30001>computer</m:P30001>
       <m:P30002>online resource</m:P30002>
@@ -4449,6 +4574,10 @@
       <m:P30004>isbn-0571267483</m:P30004>
       <m:P30156>The inheritors</m:P30156>
       <m:P30117>William Golding</m:P30117>
+      <m:P30088>London</m:P30088>
+      <m:P30083>Faber and Faber</m:P30083>
+      <m:P30011>[1990, 1961]</m:P30011>
+      <m:P30011>©1961</m:P30011>
       <m:P30182>1 online resource (233 pages).</m:P30182>
       <m:P30001>computer</m:P30001>
       <m:P30002>online resource</m:P30002>
@@ -4460,6 +4589,10 @@
       <m:P30004>isbn-0571268781</m:P30004>
       <m:P30156>Free fall</m:P30156>
       <m:P30117>William Golding</m:P30117>
+      <m:P30088>London</m:P30088>
+      <m:P30083>Faber and Faber</m:P30083>
+      <m:P30011>2013</m:P30011>
+      <m:P30011>©1959</m:P30011>
       <m:P30182>1 online resource</m:P30182>
       <m:P30001>computer</m:P30001>
       <m:P30002>online resource</m:P30002>
@@ -4502,6 +4635,9 @@
       <m:P30156>Lord of the flies</m:P30156>
       <m:P30142>a novel</m:P30142>
       <m:P30117>by W. Golding</m:P30117>
+      <m:P30088>London</m:P30088>
+      <m:P30083>Faber and Faber</m:P30083>
+      <m:P30011>1990</m:P30011>
       <m:P30182>1 online resource (223 pages).</m:P30182>
       <m:P30001>computer</m:P30001>
       <m:P30002>online resource</m:P30002>
@@ -4529,6 +4665,9 @@
       <m:P30004>isbn-0571297242</m:P30004>
       <m:P30156>Rites of passage</m:P30156>
       <m:P30117>William Golding ; with an introduction by Robert McCrum</m:P30117>
+      <m:P30088>[London]</m:P30088>
+      <m:P30083>Faber &amp; Faber</m:P30083>
+      <m:P30011>2013</m:P30011>
       <m:P30182>1 online resource.</m:P30182>
       <m:P30001>computer</m:P30001>
       <m:P30002>online resource</m:P30002>
@@ -4539,6 +4678,9 @@
       <m:P30004>isbn-9780571298488</m:P30004>
       <m:P30156>The paper men</m:P30156>
       <m:P30117>William Golding</m:P30117>
+      <m:P30088>London</m:P30088>
+      <m:P30083>Faber and Faber</m:P30083>
+      <m:P30011>2013</m:P30011>
       <m:P30182>x, 246 pages ;</m:P30182>
       <m:P30169>20 cm</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -4551,6 +4693,9 @@
       <m:P30156>The scorpion god</m:P30156>
       <m:P30142>three short novels</m:P30142>
       <m:P30117>William Golding ; with an introduction by Craig Raine</m:P30117>
+      <m:P30088>London</m:P30088>
+      <m:P30083>Faber and Faber</m:P30083>
+      <m:P30011>2013</m:P30011>
       <m:P30182>xiv, 240 pages ;</m:P30182>
       <m:P30169>20 cm</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -4564,6 +4709,9 @@
       <m:P30004>isbn-9780571298501</m:P30004>
       <m:P30156>Pincher Martin</m:P30156>
       <m:P30117>William Golding</m:P30117>
+      <m:P30088>London</m:P30088>
+      <m:P30083>Faber and Faber</m:P30083>
+      <m:P30011>2013</m:P30011>
       <m:P30182>230 pages ;</m:P30182>
       <m:P30169>20 cm</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -4589,6 +4737,9 @@
       <m:P30004>isbn-9780571298525</m:P30004>
       <m:P30156>The pyramid</m:P30156>
       <m:P30117>William Golding, introduction by Penelope Lively</m:P30117>
+      <m:P30088>London</m:P30088>
+      <m:P30083>Faber and Faber</m:P30083>
+      <m:P30011>2013</m:P30011>
       <m:P30182>xii, 262 pages ;</m:P30182>
       <m:P30169>20 cm</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -4614,6 +4765,9 @@
       <m:P30004>isbn-9780571298549</m:P30004>
       <m:P30156>Rites of passage</m:P30156>
       <m:P30117>William Golding</m:P30117>
+      <m:P30088>London</m:P30088>
+      <m:P30083>Faber and Faber</m:P30083>
+      <m:P30011>2013</m:P30011>
       <m:P30182>ix, 298 pages ;</m:P30182>
       <m:P30169>20 cm</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -4625,6 +4779,9 @@
       <m:P30004>isbn-9780571298556</m:P30004>
       <m:P30156>Fire down below</m:P30156>
       <m:P30117>by William Golding</m:P30117>
+      <m:P30088>London</m:P30088>
+      <m:P30083>Faber and Faber</m:P30083>
+      <m:P30011>2013</m:P30011>
       <m:P30182>ix, 339 pages ;</m:P30182>
       <m:P30169>20 cm</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -4636,6 +4793,9 @@
       <m:P30004>isbn-9780571298563</m:P30004>
       <m:P30156>Close quarters</m:P30156>
       <m:P30117>William Golding</m:P30117>
+      <m:P30088>London</m:P30088>
+      <m:P30083>Faber and Faber</m:P30083>
+      <m:P30011>2013</m:P30011>
       <m:P30182>x, 301 pages ;</m:P30182>
       <m:P30169>20 cm</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -4647,6 +4807,9 @@
       <m:P30004>isbn-9780571298570</m:P30004>
       <m:P30156>Darkness visible</m:P30156>
       <m:P30117>William Golding ; with an introduction by Philip Hensher</m:P30117>
+      <m:P30088>London</m:P30088>
+      <m:P30083>Faber and Faber</m:P30083>
+      <m:P30011>2013</m:P30011>
       <m:P30182>x, 399 pages ;</m:P30182>
       <m:P30169>20 cm</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -4674,6 +4837,9 @@
       <m:P30156>The brass butterfly</m:P30156>
       <m:P30142>a play in three acts</m:P30142>
       <m:P30117>by William Golding</m:P30117>
+      <m:P30088>London</m:P30088>
+      <m:P30083>Faber</m:P30083>
+      <m:P30011>1969</m:P30011>
       <m:P30182>1 online resource (80 pages).</m:P30182>
       <m:P30001>computer</m:P30001>
       <m:P30002>online resource</m:P30002>
@@ -4686,6 +4852,9 @@
       <m:P30156>The scorpion god</m:P30156>
       <m:P30142>three short novels</m:P30142>
       <m:P30117>[by] William Golding</m:P30117>
+      <m:P30088>London (3 Queen Sq., WC1N 3AU)</m:P30088>
+      <m:P30083>Faber and Faber Ltd</m:P30083>
+      <m:P30011>1971</m:P30011>
       <m:P30182>1 online resource (178 pages).</m:P30182>
       <m:P30001>computer</m:P30001>
       <m:P30002>online resource</m:P30002>
@@ -4698,6 +4867,9 @@
       <m:P30004>isbn-9780571307821</m:P30004>
       <m:P30156>The spire</m:P30156>
       <m:P30117>William Golding</m:P30117>
+      <m:P30088>London</m:P30088>
+      <m:P30083>Faber and Faber</m:P30083>
+      <m:P30011>2013</m:P30011>
       <m:P30182>xii, 253 pages ;</m:P30182>
       <m:P30169>20 cm</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -4710,6 +4882,10 @@
       <m:P30004>isbn-0571309186</m:P30004>
       <m:P30156>The pyramid</m:P30156>
       <m:P30117>William Golding</m:P30117>
+      <m:P30088>London</m:P30088>
+      <m:P30083>Faber and Faber</m:P30083>
+      <m:P30011>2013</m:P30011>
+      <m:P30011>©1967</m:P30011>
       <m:P30182>1 online resource.</m:P30182>
       <m:P30001>computer</m:P30001>
       <m:P30002>online resource</m:P30002>
@@ -4723,6 +4899,10 @@
       <m:P30004>isbn-9781322370774</m:P30004>
       <m:P30156>Pincher Martin</m:P30156>
       <m:P30117>William Golding ; with a afterword by Philippa Gregory</m:P30117>
+      <m:P30088>London</m:P30088>
+      <m:P30083>Faber and Faber</m:P30083>
+      <m:P30011>[2013, 1956]</m:P30011>
+      <m:P30011>©1956</m:P30011>
       <m:P30182>1 online resource.</m:P30182>
       <m:P30001>computer</m:P30001>
       <m:P30002>online resource</m:P30002>
@@ -4735,6 +4915,10 @@
       <m:P30004>isbn-0571312241</m:P30004>
       <m:P30156>Darkness visible</m:P30156>
       <m:P30117>William Golding</m:P30117>
+      <m:P30088>London</m:P30088>
+      <m:P30083>Faber and Faber</m:P30083>
+      <m:P30011>2013</m:P30011>
+      <m:P30011>©1980</m:P30011>
       <m:P30182>1 online resource</m:P30182>
       <m:P30001>computer</m:P30001>
       <m:P30002>online resource</m:P30002>
@@ -4746,6 +4930,9 @@
       <m:P30156>Lord of the flies</m:P30156>
       <m:P30117>William Golding</m:P30117>
       <m:P30107>Special edition /</m:P30107>
+      <m:P30088>London</m:P30088>
+      <m:P30083>Faber &amp; Faber</m:P30083>
+      <m:P30011>2014</m:P30011>
       <m:P30182>ix, 225 pages ;</m:P30182>
       <m:P30169>20 cm</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -4809,6 +4996,9 @@
       <m:P30142>Roman</m:P30142>
       <m:P30117>William Golding. [Übertr. von Hermann Stiehl]</m:P30117>
       <m:P30107>[1. - 8. Tsd.]</m:P30107>
+      <m:P30088>Frankfurt am Main</m:P30088>
+      <m:P30083>S. Fischer</m:P30083>
+      <m:P30011>1983</m:P30011>
       <m:P30182>266 S.</m:P30182>
       <m:P30169>20 cm</m:P30169>
       <m:P30001>ohne hilfsmittel zu benutzen</m:P30001>
@@ -4822,6 +5012,9 @@
       <m:P30156>Der Turm der Kathedrale</m:P30156>
       <m:P30117>William Golding. Aus d. Engl. übers. von Hermann Stiehl</m:P30117>
       <m:P30107>[1. - 6. Tsd.]</m:P30107>
+      <m:P30088>Frankfurt am Main</m:P30088>
+      <m:P30083>S. Fischer</m:P30083>
+      <m:P30011>1983</m:P30011>
       <m:P30182>246 S.</m:P30182>
       <m:P30169>20 cm</m:P30169>
       <m:P30001>ohne hilfsmittel zu benutzen</m:P30001>
@@ -4835,6 +5028,9 @@
       <m:P30156>Herr der Fliegen</m:P30156>
       <m:P30142>Roman</m:P30142>
       <m:P30117>William Golding. Aus d. Engl. von Hermann Stiehl</m:P30117>
+      <m:P30088>Frankfurt am Main</m:P30088>
+      <m:P30083>S. Fischer</m:P30083>
+      <m:P30011>1987</m:P30011>
       <m:P30182>267 S.</m:P30182>
       <m:P30169>20 cm</m:P30169>
       <m:P30001>ohne hilfsmittel zu benutzen</m:P30001>
@@ -4849,6 +5045,11 @@
       <m:P30156>William Golding, The Lord of the Flies</m:P30156>
       <m:P30117>ann. and study aids by Jennifer Baer-Engel</m:P30117>
       <m:P30107>1. Aufl., [1. Dr.]</m:P30107>
+      <m:P30088>Stuttgart</m:P30088>
+      <m:P30088>Düsseldorf</m:P30088>
+      <m:P30088>Leipzig</m:P30088>
+      <m:P30083>Klett</m:P30083>
+      <m:P30011>2001</m:P30011>
       <m:P30182>72 S.</m:P30182>
       <m:P30169>20 cm</m:P30169>
       <m:P30001>ohne hilfsmittel zu benutzen</m:P30001>
@@ -4862,6 +5063,9 @@
       <m:P30004>ian-9783125738096</m:P30004>
       <m:P30156>Lord of the Flies</m:P30156>
       <m:P30117>William Golding</m:P30117>
+      <m:P30088>Stuttgart</m:P30088>
+      <m:P30083>Klett</m:P30083>
+      <m:P30011>2007</m:P30011>
       <m:P30001>ohne hilfsmittel zu benutzen</m:P30001>
       <m:P30002>band</m:P30002>
       <m:P30106>Penguin Readers</m:P30106>
@@ -4874,6 +5078,9 @@
       <m:P30156>Lord of the flies</m:P30156>
       <m:P30117>William Golding. [Hrsg. von Jennifer Baer-Engel und Hartmut K. Selke]</m:P30117>
       <m:P30107>1. Aufl.</m:P30107>
+      <m:P30088>Stuttgart</m:P30088>
+      <m:P30083>Klett Sprachen</m:P30083>
+      <m:P30011>2012</m:P30011>
       <m:P30182>263 S.</m:P30182>
       <marc:M30000b>Ill.</marc:M30000b>
       <m:P30169>20 cm</m:P30169>
@@ -4887,6 +5094,9 @@
       <m:P30156>Lord of the flies</m:P30156>
       <m:P30117>William Golding. [Hrsg. von Jennifer Baer-Engel und Hartmut K. Selke]</m:P30117>
       <m:P30107>1. Aufl.</m:P30107>
+      <m:P30088>Stuttgart</m:P30088>
+      <m:P30083>Klett Sprachen</m:P30083>
+      <m:P30011>2012</m:P30011>
       <m:P30182>64 S.</m:P30182>
       <marc:M30000b>Ill.</marc:M30000b>
       <m:P30169>30 cm</m:P30169>
@@ -4904,6 +5114,11 @@
       <m:P30117>[Verf. dieses Bd.: W. Meitcke]</m:P30117>
       <m:P30107>5. Aufl.</m:P30107>
       <m:P30107>4. Aufl.</m:P30107>
+      <m:P30088>Stuttgart</m:P30088>
+      <m:P30088>Dresden</m:P30088>
+      <m:P30083>Klett-Verl. für Wissen und Bildung</m:P30083>
+      <m:P30011>1995</m:P30011>
+      <m:P30011>1993</m:P30011>
       <m:P30182>99 S.</m:P30182>
       <m:P30169>20 cm</m:P30169>
       <m:P30001>ohne hilfsmittel zu benutzen</m:P30001>
@@ -4926,6 +5141,14 @@
       <m:P30107>1. Aufl.</m:P30107>
       <m:P30107>4. Aufl.</m:P30107>
       <m:P30107>3. Aufl.</m:P30107>
+      <m:P30088>Stuttgart</m:P30088>
+      <m:P30083>Klett</m:P30083>
+      <m:P30011>1987</m:P30011>
+      <m:P30011>1985</m:P30011>
+      <m:P30088>Dresden</m:P30088>
+      <m:P30083>Klett-Verl. für Wissen und Bildung</m:P30083>
+      <m:P30011>1994</m:P30011>
+      <m:P30011>1992</m:P30011>
       <m:P30182>144 S.</m:P30182>
       <m:P30169>23 cm</m:P30169>
       <marc:M30000e>Beil. (42 S.)</marc:M30000e>
@@ -4945,6 +5168,12 @@
       <m:P30156>Lord of the flies</m:P30156>
       <m:P30117>William Golding</m:P30117>
       <m:P30107>[Nachdr.]</m:P30107>
+      <m:P30088>Stuttgart</m:P30088>
+      <m:P30083>Reclam</m:P30083>
+      <m:P30011>1990</m:P30011>
+      <m:P30011>1991</m:P30011>
+      <m:P30011>1988</m:P30011>
+      <m:P30011>1993</m:P30011>
       <m:P30182>316 S.</m:P30182>
       <m:P30169>16 cm</m:P30169>
       <m:P30169>15 cm</m:P30169>
@@ -4960,6 +5189,9 @@
       <m:P30004>ian-9783150197769</m:P30004>
       <m:P30156>Lord of the flies</m:P30156>
       <m:P30117>William Golding. Hrsg. von Friederike Poziemski</m:P30117>
+      <m:P30088>Stuttgart</m:P30088>
+      <m:P30083>Reclam</m:P30083>
+      <m:P30011>2010</m:P30011>
       <m:P30182>347 S.</m:P30182>
       <m:P30169>15 cm</m:P30169>
       <m:P30001>ohne hilfsmittel zu benutzen</m:P30001>
@@ -4976,6 +5208,9 @@
       <m:P30142>a novel</m:P30142>
       <m:P30117>by William Golding. With an introd. and notes by Ian Gregor and Mark Kinkead-Weekes</m:P30117>
       <m:P30107>Educational ed.</m:P30107>
+      <m:P30088>[Ismaning]</m:P30088>
+      <m:P30083>Hueber</m:P30083>
+      <m:P30011>[2004?]</m:P30011>
       <m:P30182>288 S.</m:P30182>
       <m:P30169>20 cm</m:P30169>
       <m:P30001>ohne hilfsmittel zu benutzen</m:P30001>
@@ -4990,6 +5225,9 @@
       <m:P30142>Roman</m:P30142>
       <m:P30117>William Golding. Aus d. Engl. von Hermann Stiehl</m:P30117>
       <m:P30107>2. Aufl.</m:P30107>
+      <m:P30088>Berlin</m:P30088>
+      <m:P30083>Verlag Volk u. Welt</m:P30083>
+      <m:P30011>1987</m:P30011>
       <m:P30182>294 S.</m:P30182>
       <m:P30169>20 cm</m:P30169>
       <m:P30001>ohne hilfsmittel zu benutzen</m:P30001>
@@ -5006,6 +5244,9 @@
       <m:P30142>Roman</m:P30142>
       <m:P30117>William Golding. [Aus dem Engl. Übers. von Hermann Stiehl]</m:P30117>
       <m:P30107>3., veränd. Aufl.</m:P30107>
+      <m:P30088>Leipzig</m:P30088>
+      <m:P30083>Reclam</m:P30083>
+      <m:P30011>1993</m:P30011>
       <m:P30182>184 S.</m:P30182>
       <m:P30169>19 cm</m:P30169>
       <m:P30001>ohne hilfsmittel zu benutzen</m:P30001>
@@ -5021,6 +5262,9 @@
       <m:P30156>William Golding, Lord of the flies</m:P30156>
       <m:P30117>erl. von Hans-Otto Jahnke</m:P30117>
       <m:P30107>16./17., verb. Aufl., 31. - 34. Tsd.</m:P30107>
+      <m:P30088>Münster</m:P30088>
+      <m:P30083>Aschendorff</m:P30083>
+      <m:P30011>1993</m:P30011>
       <m:P30182>XIV, 130 S.</m:P30182>
       <m:P30169>18 cm</m:P30169>
       <m:P30001>ohne hilfsmittel zu benutzen</m:P30001>
@@ -5036,6 +5280,9 @@
       <m:P30142>Roman</m:P30142>
       <m:P30117>William Golding. Dt. von Ursula Leipe</m:P30117>
       <m:P30107>Ungekürzte Ausg.</m:P30107>
+      <m:P30088>München</m:P30088>
+      <m:P30083>Deutscher Taschenbuch-Verlag</m:P30083>
+      <m:P30011>1983</m:P30011>
       <m:P30182>318 S.</m:P30182>
       <m:P30169>18 cm</m:P30169>
       <m:P30001>ohne hilfsmittel zu benutzen</m:P30001>
@@ -5062,6 +5309,17 @@
       <m:P30107>9. Aufl.</m:P30107>
       <m:P30107>6. Aufl.</m:P30107>
       <m:P30107>11. Aufl.</m:P30107>
+      <m:P30088>Frankfurt am Main</m:P30088>
+      <m:P30088>Berlin</m:P30088>
+      <m:P30088>München</m:P30088>
+      <m:P30083>Diesterweg</m:P30083>
+      <m:P30011>1983</m:P30011>
+      <m:P30011>1986</m:P30011>
+      <m:P30088>Frankfurt am Main, Berlin, München</m:P30088>
+      <m:P30011>1975</m:P30011>
+      <m:P30088>Frankfurt a. M</m:P30088>
+      <m:P30011>1971</m:P30011>
+      <m:P30011>1984</m:P30011>
       <m:P30182>125 S.</m:P30182>
       <m:P30169>17 cm</m:P30169>
       <m:P30182>119 S.</m:P30182>
@@ -5081,6 +5339,10 @@
       <m:P30156>Lord of the flies</m:P30156>
       <m:P30117>William Golding. Ed. and annot. by Dieter Smolka</m:P30117>
       <m:P30107>2. Aufl.</m:P30107>
+      <m:P30088>Frankfurt am Main</m:P30088>
+      <m:P30083>Diesterweg</m:P30083>
+      <m:P30011>1991</m:P30011>
+      <m:P30011>1994</m:P30011>
       <m:P30182>207 S.</m:P30182>
       <m:P30001>ohne hilfsmittel zu benutzen</m:P30001>
       <m:P30002>band</m:P30002>
@@ -5092,6 +5354,9 @@
       <m:P30004>isbn-3425098462</m:P30004>
       <m:P30156>Lord of the flies</m:P30156>
       <m:P30117>William Golding. Ed. and annot. by Dieter Smolka</m:P30117>
+      <m:P30088>Frankfurt am Main</m:P30088>
+      <m:P30083>Diesterweg</m:P30083>
+      <m:P30011>c 1992</m:P30011>
       <m:P30182>63 S.</m:P30182>
       <m:P30001>ohne hilfsmittel zu benutzen</m:P30001>
       <m:P30002>band</m:P30002>
@@ -5109,6 +5374,11 @@
       <m:P30107>Ungekürzte Ausg.</m:P30107>
       <m:P30107>Ungekürzte Ausg., 58. - 72. Tsd.</m:P30107>
       <m:P30107>Ungekürzte Ausg., 33. - 42. Tsd.</m:P30107>
+      <m:P30088>Frankfurt (am Main)</m:P30088>
+      <m:P30083>Fischer-Taschenbuch-Verlag</m:P30083>
+      <m:P30011>1974</m:P30011>
+      <m:P30011>1976</m:P30011>
+      <m:P30011>1975</m:P30011>
       <m:P30182>163 S.;</m:P30182>
       <m:P30169>18 cm</m:P30169>
       <m:P30001>ohne hilfsmittel zu benutzen</m:P30001>
@@ -5125,6 +5395,9 @@
       <m:P30156>Oliver</m:P30156>
       <m:P30142>ein Entwicklungsroman</m:P30142>
       <m:P30117>William Golding</m:P30117>
+      <m:P30088>München</m:P30088>
+      <m:P30083>Goldmann</m:P30083>
+      <m:P30011>[1973]</m:P30011>
       <m:P30182>188 S.;</m:P30182>
       <m:P30169>19 cm</m:P30169>
       <m:P30001>ohne hilfsmittel zu benutzen</m:P30001>
@@ -5141,6 +5414,9 @@
       <m:P30142>Romane</m:P30142>
       <m:P30117>William Golding. Dt. von Ulla H. de Herrera</m:P30117>
       <m:P30107>1. Aufl., 1. - 15. Tsd.</m:P30107>
+      <m:P30088>München</m:P30088>
+      <m:P30083>Goldmann</m:P30083>
+      <m:P30011>1983</m:P30011>
       <m:P30182>255 S.</m:P30182>
       <m:P30169>18 cm</m:P30169>
       <m:P30001>ohne hilfsmittel zu benutzen</m:P30001>
@@ -5159,6 +5435,9 @@
       <m:P30142>e. Entwicklungsroman</m:P30142>
       <m:P30117>William Golding. Dt. von Jürgen Abel</m:P30117>
       <m:P30107>Genehmigte Taschenbuchausg., 2. Aufl., 11. - 25. Tsd.</m:P30107>
+      <m:P30088>München</m:P30088>
+      <m:P30083>Goldmann</m:P30083>
+      <m:P30011>1983</m:P30011>
       <m:P30182>188 S.</m:P30182>
       <m:P30169>18 cm</m:P30169>
       <m:P30001>ohne hilfsmittel zu benutzen</m:P30001>
@@ -5175,6 +5454,9 @@
       <m:P30142>Roman</m:P30142>
       <m:P30117>William Golding. [Aus d. Engl. von Herbert Schlüter]</m:P30117>
       <m:P30107>Ungekürzte Ausg., 1. Aufl.</m:P30107>
+      <m:P30088>[München]</m:P30088>
+      <m:P30083>Goldmann</m:P30083>
+      <m:P30011>[1985]</m:P30011>
       <m:P30182>287 S.</m:P30182>
       <m:P30169>18 cm</m:P30169>
       <m:P30001>ohne hilfsmittel zu benutzen</m:P30001>
@@ -5191,6 +5473,9 @@
       <m:P30142>Roman</m:P30142>
       <m:P30117>William Golding. [Aus d. Engl. von Emil Bastuk]</m:P30117>
       <m:P30107>Ungekürzte Ausg., 1. Aufl.</m:P30107>
+      <m:P30088>[München]</m:P30088>
+      <m:P30083>Goldmann</m:P30083>
+      <m:P30011>[1985]</m:P30011>
       <m:P30182>223 S.</m:P30182>
       <m:P30169>18 cm</m:P30169>
       <m:P30001>ohne hilfsmittel zu benutzen</m:P30001>
@@ -5207,6 +5492,9 @@
       <m:P30142>Roman</m:P30142>
       <m:P30117>William Golding</m:P30117>
       <m:P30107>Ungekürzte Ausg., 1. Aufl.</m:P30107>
+      <m:P30088>[München]</m:P30088>
+      <m:P30083>Goldmann</m:P30083>
+      <m:P30011>1989</m:P30011>
       <m:P30182>319 S.</m:P30182>
       <m:P30169>18 cm</m:P30169>
       <m:P30001>ohne hilfsmittel zu benutzen</m:P30001>
@@ -5223,6 +5511,10 @@
       <m:P30142>Roman</m:P30142>
       <m:P30117>William Golding. Aus dem Engl. übertr. von Wolfgang Held</m:P30117>
       <m:P30107>1. Aufl.</m:P30107>
+      <m:P30088>Frankfurt am Main</m:P30088>
+      <m:P30088>Leipzig</m:P30088>
+      <m:P30083>Insel-Verl</m:P30083>
+      <m:P30011>1998</m:P30011>
       <m:P30182>175 S.</m:P30182>
       <m:P30169>21 cm</m:P30169>
       <m:P30001>ohne hilfsmittel zu benutzen</m:P30001>
@@ -5235,6 +5527,9 @@
       <m:P30004>isbn-3471776486</m:P30004>
       <m:P30156>Ein ägyptisches Tagebuch</m:P30156>
       <m:P30117>William Golding. Aus d. Engl. von Renate Orth-Guttmann</m:P30117>
+      <m:P30088>München</m:P30088>
+      <m:P30083>List</m:P30083>
+      <m:P30011>1987</m:P30011>
       <m:P30182>281 S.</m:P30182>
       <m:P30169>21 cm</m:P30169>
       <m:P30001>ohne hilfsmittel zu benutzen</m:P30001>
@@ -5249,6 +5544,9 @@
       <m:P30156>Lord of the flies</m:P30156>
       <m:P30117>William Golding</m:P30117>
       <m:P30107>1. Dr.</m:P30107>
+      <m:P30088>Paderborn</m:P30088>
+      <m:P30083>Schöningh</m:P30083>
+      <m:P30011>2001</m:P30011>
       <m:P30182>96 S.</m:P30182>
       <m:P30169>30 cm</m:P30169>
       <m:P30001>ohne hilfsmittel zu benutzen</m:P30001>
@@ -5262,6 +5560,9 @@
       <m:P30004>ian-9783526523734</m:P30004>
       <m:P30156>Lord of the Flies</m:P30156>
       <m:P30117>William Golding</m:P30117>
+      <m:P30088>München</m:P30088>
+      <m:P30083>Langenscheidt ELT</m:P30083>
+      <m:P30011>2008</m:P30011>
       <m:P30182>318 S.</m:P30182>
       <m:P30001>ohne hilfsmittel zu benutzen</m:P30001>
       <m:P30002>band</m:P30002>
@@ -5275,6 +5576,9 @@
       <m:P30156>Oliver</m:P30156>
       <m:P30142>Roman. [Berecht. Übers. aus d. Engl.]</m:P30142>
       <m:P30117>William Golding</m:P30117>
+      <m:P30088>Hamburg, Düsseldorf</m:P30088>
+      <m:P30083>Claassen</m:P30083>
+      <m:P30011>1972</m:P30011>
       <m:P30182>286 S.;</m:P30182>
       <m:P30169>20 cm.</m:P30169>
       <m:P30001>ohne hilfsmittel zu benutzen</m:P30001>
@@ -5288,6 +5592,9 @@
       <m:P30156>Der Sonderbotschafter</m:P30156>
       <m:P30117>William Golding. Dt. von Ulla H. de Herrera</m:P30117>
       <m:P30107>1. Aufl.</m:P30107>
+      <m:P30088>Düsseldorf</m:P30088>
+      <m:P30083>Claassen</m:P30083>
+      <m:P30011>1974</m:P30011>
       <m:P30182>258 S.;</m:P30182>
       <m:P30169>22 cm</m:P30169>
       <m:P30001>ohne hilfsmittel zu benutzen</m:P30001>
@@ -5303,6 +5610,9 @@
       <m:P30156>Äquatortaufe</m:P30156>
       <m:P30142>Roman</m:P30142>
       <m:P30117>William Golding. [Aus d. Engl. von Herbert Schlüter]</m:P30117>
+      <m:P30088>München</m:P30088>
+      <m:P30083>Bertelsmann</m:P30083>
+      <m:P30011>1983</m:P30011>
       <m:P30182>287 S.</m:P30182>
       <m:P30169>21 cm</m:P30169>
       <m:P30001>ohne hilfsmittel zu benutzen</m:P30001>
@@ -5316,6 +5626,9 @@
       <m:P30156>Papier-Männer</m:P30156>
       <m:P30142>Roman</m:P30142>
       <m:P30117>William Golding. [Aus d. Engl. von Emil Bastuk]</m:P30117>
+      <m:P30088>München</m:P30088>
+      <m:P30083>Bertelsmann</m:P30083>
+      <m:P30011>1984</m:P30011>
       <m:P30182>223 S.</m:P30182>
       <m:P30169>22 cm</m:P30169>
       <m:P30001>ohne hilfsmittel zu benutzen</m:P30001>
@@ -5330,6 +5643,9 @@
       <m:P30156>Lord of the flies, William Golding</m:P30156>
       <m:P30142>Inhalt, Hintergrund, Interpretation ; auf Deutsch - mit englischen Formulierungshilfen!</m:P30142>
       <m:P30117>Astrid Stannat</m:P30117>
+      <m:P30088>München</m:P30088>
+      <m:P30083>Mentor</m:P30083>
+      <m:P30011>2003</m:P30011>
       <m:P30182>64 S.</m:P30182>
       <marc:M30000b>Ill.</marc:M30000b>
       <m:P30169>18 cm</m:P30169>
@@ -5347,6 +5663,9 @@
       <m:P30156>Lord of the flies, William Golding</m:P30156>
       <m:P30142>Inhalt, Hintergrund, Interpretationen ; auf Deutsch, mit englischen Formulierungshilfen! ; mit Info-Klappe!</m:P30142>
       <m:P30117>Astrid Stannat</m:P30117>
+      <m:P30088>München</m:P30088>
+      <m:P30083>Mentor</m:P30083>
+      <m:P30011>2006</m:P30011>
       <m:P30182>64 S.</m:P30182>
       <m:P30169>18 cm</m:P30169>
       <m:P30001>ohne hilfsmittel zu benutzen</m:P30001>
@@ -5363,6 +5682,9 @@
       <m:P30142>Roman</m:P30142>
       <m:P30117>William Golding. Aus dem Engl. von Hermann Stiehl</m:P30117>
       <m:P30107>Einmalige Sonderausg.</m:P30107>
+      <m:P30088>Frankfurt am Main</m:P30088>
+      <m:P30083>Fischer-Taschenbuch-Verl</m:P30083>
+      <m:P30011>1993</m:P30011>
       <m:P30182>228 S.</m:P30182>
       <m:P30169>18 cm</m:P30169>
       <m:P30001>ohne hilfsmittel zu benutzen</m:P30001>
@@ -5436,6 +5758,27 @@
       <m:P30107>Ungekürzte Ausg., 403. - 452. Tsd.</m:P30107>
       <m:P30107>303. - 402. Tsd.</m:P30107>
       <m:P30107>Ungekürzte Ausg., 523. - 542. Tsd.</m:P30107>
+      <m:P30088>Frankfurt am Main</m:P30088>
+      <m:P30083>Fischer-Taschenbuch-Verlag</m:P30083>
+      <m:P30011>1977</m:P30011>
+      <m:P30011>1984</m:P30011>
+      <m:P30011>1979</m:P30011>
+      <m:P30083>Fischer-Taschenbuch-Verl</m:P30083>
+      <m:P30011>1987</m:P30011>
+      <m:P30011>1988</m:P30011>
+      <m:P30011>1991</m:P30011>
+      <m:P30011>1989</m:P30011>
+      <m:P30011>1992</m:P30011>
+      <m:P30011>1985</m:P30011>
+      <m:P30011>1983</m:P30011>
+      <m:P30011>1986</m:P30011>
+      <m:P30011>1990</m:P30011>
+      <m:P30011>1982</m:P30011>
+      <m:P30011>1993</m:P30011>
+      <m:P30011>1994</m:P30011>
+      <m:P30011>1981</m:P30011>
+      <m:P30011>1978</m:P30011>
+      <m:P30011>1980</m:P30011>
       <m:P30182>163 S.</m:P30182>
       <m:P30169>18 cm</m:P30169>
       <m:P30182>228 S.</m:P30182>
@@ -5457,6 +5800,10 @@
       <m:P30117>William Golding. Dt. von Hermann Stiehl</m:P30117>
       <m:P30107>Dt. Erstausg., 56. - 85. Tsd.</m:P30107>
       <m:P30107>Dt. Erstausg., 41. - 55. Tsd.</m:P30107>
+      <m:P30088>Frankfurt am Main</m:P30088>
+      <m:P30083>Fischer-Taschenbuch-Verlag</m:P30083>
+      <m:P30011>1983</m:P30011>
+      <m:P30011>1981</m:P30011>
       <m:P30182>174 S.</m:P30182>
       <m:P30169>18 cm</m:P30169>
       <m:P30001>ohne hilfsmittel zu benutzen</m:P30001>
@@ -5473,6 +5820,9 @@
       <m:P30156>Der Turm der Kathedrale</m:P30156>
       <m:P30142>Roman</m:P30142>
       <m:P30117>William Golding. Aus d. Engl. übertr. von Hermann Stiehl</m:P30117>
+      <m:P30088>Frankfurt am Main</m:P30088>
+      <m:P30083>Fischer-Taschenbuch-Verlag</m:P30083>
+      <m:P30011>1983</m:P30011>
       <m:P30182>246 S.</m:P30182>
       <m:P30169>18 cm</m:P30169>
       <m:P30001>ohne hilfsmittel zu benutzen</m:P30001>
@@ -5488,6 +5838,9 @@
       <m:P30156>Freier Fall</m:P30156>
       <m:P30142>Roman</m:P30142>
       <m:P30117>William Golding. Aus d. Engl. übertr. von Hermann Stresau</m:P30117>
+      <m:P30088>Frankfurt am Main</m:P30088>
+      <m:P30083>Fischer-Taschenbuch-Verlag</m:P30083>
+      <m:P30011>1983</m:P30011>
       <m:P30182>229 S.</m:P30182>
       <m:P30169>19 cm</m:P30169>
       <m:P30001>ohne hilfsmittel zu benutzen</m:P30001>
@@ -5503,6 +5856,9 @@
       <m:P30156>Die Erben</m:P30156>
       <m:P30142>[Roman]</m:P30142>
       <m:P30117>William Golding. Aus d. Engl. übertr. von Hermann Stiehl</m:P30117>
+      <m:P30088>Frankfurt am Main</m:P30088>
+      <m:P30083>Fischer-Taschenbuch-Verlag</m:P30083>
+      <m:P30011>1983</m:P30011>
       <m:P30182>234 S.</m:P30182>
       <m:P30169>18 cm</m:P30169>
       <m:P30001>ohne hilfsmittel zu benutzen</m:P30001>
@@ -5519,6 +5875,9 @@
       <m:P30142>Roman</m:P30142>
       <m:P30117>William Golding. Aus dem Engl. von Hermann Stiehl</m:P30117>
       <m:P30107>Limitierte Sonderausg.</m:P30107>
+      <m:P30088>Frankfurt, M</m:P30088>
+      <m:P30083>Fischer-Taschenbuch-Verl</m:P30083>
+      <m:P30011>2012</m:P30011>
       <m:P30182>333 S.</m:P30182>
       <m:P30169>15 cm</m:P30169>
       <m:P30001>ohne hilfsmittel zu benutzen</m:P30001>
@@ -5533,6 +5892,9 @@
       <m:P30156>Herr der Fliegen</m:P30156>
       <m:P30142>Roman</m:P30142>
       <m:P30117>William Golding. Aus dem Engl. von Hermann Stiehl</m:P30117>
+      <m:P30088>Frankfurt am Main</m:P30088>
+      <m:P30083>Fischer-Taschenbuch-Verl</m:P30083>
+      <m:P30011>2003</m:P30011>
       <m:P30182>281 S.</m:P30182>
       <m:P30169>19 cm</m:P30169>
       <m:P30001>ohne hilfsmittel zu benutzen</m:P30001>
@@ -5548,6 +5910,9 @@
       <m:P30156>Herr der Fliegen</m:P30156>
       <m:P30142>Roman</m:P30142>
       <m:P30117>William Golding. Aus dem Engl. von Hermann Stiehl</m:P30117>
+      <m:P30088>Frankfurt, M</m:P30088>
+      <m:P30083>Fischer-Taschenbuch-Verl</m:P30083>
+      <m:P30011>2011</m:P30011>
       <m:P30182>246 S.</m:P30182>
       <m:P30169>19 cm</m:P30169>
       <m:P30001>ohne hilfsmittel zu benutzen</m:P30001>
@@ -5564,6 +5929,9 @@
       <m:P30142>Roman</m:P30142>
       <m:P30117>William Golding ; aus dem Englischen von Peter Torberg unter Mitarbeit von Lea Torberg</m:P30117>
       <m:P30107>[1. Aufl.]</m:P30107>
+      <m:P30088>Frankfurt am Main</m:P30088>
+      <m:P30083>Fischer Taschenbuch</m:P30083>
+      <m:P30011>August 2017</m:P30011>
       <m:P30182>223 Seiten</m:P30182>
       <m:P30169>19 cm</m:P30169>
       <m:P30001>ohne hilfsmittel zu benutzen</m:P30001>
@@ -5579,6 +5947,10 @@
       <m:P30156>Herr der Fliegen</m:P30156>
       <m:P30142>Roman</m:P30142>
       <m:P30117>William Golding. Aus d. Engl. von Hermann Stiehl</m:P30117>
+      <m:P30088>Frankfurt am Main</m:P30088>
+      <m:P30088>Wien</m:P30088>
+      <m:P30083>Büchergilde Gutenberg</m:P30083>
+      <m:P30011>[1990]</m:P30011>
       <m:P30182>267 S.</m:P30182>
       <m:P30169>20 cm</m:P30169>
       <m:P30001>ohne hilfsmittel zu benutzen</m:P30001>
@@ -5592,6 +5964,9 @@
       <m:P30156>Erläuterungen zu William Golding, Herr der Fliegen (Lord of the flies)</m:P30156>
       <m:P30117>von Edgar Neis. [Hrsg. von Klaus Bahners ...]</m:P30117>
       <m:P30107>8., überarb. Aufl.</m:P30107>
+      <m:P30088>Hollfeld</m:P30088>
+      <m:P30083>Bange</m:P30083>
+      <m:P30011>1997</m:P30011>
       <m:P30182>85 S.</m:P30182>
       <m:P30169>16 cm</m:P30169>
       <m:P30001>ohne hilfsmittel zu benutzen</m:P30001>
@@ -5609,6 +5984,10 @@
       <m:P30117>von Reiner Poppe</m:P30117>
       <m:P30107>1. Aufl.</m:P30107>
       <m:P30107>3. Aufl.</m:P30107>
+      <m:P30088>Hollfeld</m:P30088>
+      <m:P30083>Bange</m:P30083>
+      <m:P30011>2003</m:P30011>
+      <m:P30011>2008</m:P30011>
       <m:P30182>95 S.</m:P30182>
       <marc:M30000b>graph. Darst.</marc:M30000b>
       <m:P30169>16 cm</m:P30169>
@@ -5627,6 +6006,9 @@
       <m:P30142>Lektüre- und Interpretationshilfe</m:P30142>
       <m:P30117>William Golding</m:P30117>
       <m:P30107>4. Aufl.</m:P30107>
+      <m:P30088>Hollfeld</m:P30088>
+      <m:P30083>Bange, C</m:P30083>
+      <m:P30011>2011</m:P30011>
       <m:P30182>Online-Ressource</m:P30182>
       <m:P30001>computermedien</m:P30001>
       <m:P30002>online-ressource</m:P30002>
@@ -5643,6 +6025,10 @@
       <m:P30142>Roman</m:P30142>
       <m:P30117>William Golding. Dt. von Emil Bastuk</m:P30117>
       <m:P30107>1. Aufl.</m:P30107>
+      <m:P30088>München</m:P30088>
+      <m:P30088>Hamburg</m:P30088>
+      <m:P30083>Knaus</m:P30083>
+      <m:P30011>1988</m:P30011>
       <m:P30182>268 S.</m:P30182>
       <m:P30169>22 cm</m:P30169>
       <m:P30001>ohne hilfsmittel zu benutzen</m:P30001>
@@ -5656,6 +6042,9 @@
       <m:P30156>Das Feuer der Finsternis</m:P30156>
       <m:P30142>Roman</m:P30142>
       <m:P30117>William Golding. [Aus d. Engl. von Ursula Leipe]</m:P30117>
+      <m:P30088>München</m:P30088>
+      <m:P30083>Steinhausen</m:P30083>
+      <m:P30011>1980</m:P30011>
       <m:P30182>319 S.</m:P30182>
       <m:P30169>21 cm</m:P30169>
       <m:P30001>ohne hilfsmittel zu benutzen</m:P30001>
@@ -5669,6 +6058,9 @@
       <m:P30156>"Lord of the flies"</m:P30156>
       <m:P30142>[Literatur-Kartei Englisch "Lord of the flies" ; Literatur-Kartei zum Roman von William Golding]</m:P30142>
       <m:P30117>[Autor: Roger Machin ; Louise Machin]</m:P30117>
+      <m:P30088>Mülheim an der Ruhr</m:P30088>
+      <m:P30083>Verl. an der Ruhr</m:P30083>
+      <m:P30011>2001</m:P30011>
       <m:P30182>48 Bl.</m:P30182>
       <m:P30169>31 cm</m:P30169>
       <m:P30001>ohne hilfsmittel zu benutzen</m:P30001>
@@ -5681,6 +6073,9 @@
       <m:P30004>isbn-388345138</m:P30004>
       <m:P30156>Herr der Fliegen</m:P30156>
       <m:P30117>William Golding</m:P30117>
+      <m:P30088>Sankt Augustin</m:P30088>
+      <m:P30083>Richarz</m:P30083>
+      <m:P30011>1984</m:P30011>
       <m:P30182>242 S.</m:P30182>
       <m:P30169>24 cm</m:P30169>
       <m:P30001>ohne hilfsmittel zu benutzen</m:P30001>
@@ -5702,6 +6097,16 @@
       <m:P30107>6. Aufl.</m:P30107>
       <m:P30107>18. Aufl.</m:P30107>
       <m:P30107>10. Aufl.</m:P30107>
+      <m:P30088>Hamburg</m:P30088>
+      <m:P30083>ELT-Verlag</m:P30083>
+      <m:P30011>1979</m:P30011>
+      <m:P30011>1986</m:P30011>
+      <m:P30088>London</m:P30088>
+      <m:P30088>Boston</m:P30088>
+      <m:P30083>Faber and Faber</m:P30083>
+      <m:P30083>Petersen-Buchimport</m:P30083>
+      <m:P30011>2000</m:P30011>
+      <m:P30011>1990</m:P30011>
       <m:P30182>223 S.</m:P30182>
       <m:P30169>19 cm</m:P30169>
       <m:P30001>ohne hilfsmittel zu benutzen</m:P30001>
@@ -5717,6 +6122,12 @@
       <m:P30156>Lord of the flies</m:P30156>
       <m:P30142>a novel</m:P30142>
       <m:P30117>by William Golding</m:P30117>
+      <m:P30088>London</m:P30088>
+      <m:P30088>Boston</m:P30088>
+      <m:P30088>Hamburg</m:P30088>
+      <m:P30083>Faber and Faber</m:P30083>
+      <m:P30083>Petersen-Buchimport</m:P30083>
+      <m:P30011>2002</m:P30011>
       <m:P30182>223 S.</m:P30182>
       <m:P30169>19 cm</m:P30169>
       <m:P30001>ohne hilfsmittel zu benutzen</m:P30001>
@@ -5732,6 +6143,9 @@
       <m:P30156>William Golding, Herr der Fliegen, Die Koralleninsel (R. M. Ballantyne)</m:P30156>
       <m:P30142>Interpretationen und Anmerkungen</m:P30142>
       <m:P30117>Reiner Poppe</m:P30117>
+      <m:P30088>Hollfeld/Ofr</m:P30088>
+      <m:P30083>Beyer</m:P30083>
+      <m:P30011>1993</m:P30011>
       <m:P30182>82 S.</m:P30182>
       <marc:M30000b>graph. Darst.</marc:M30000b>
       <m:P30169>18 cm</m:P30169>
@@ -5749,6 +6163,9 @@
       <m:P30142>Kommentare, Diskussionsaspekte und Anregungen für produktionsorientiertes Lesen</m:P30142>
       <m:P30117>Reiner Poppe</m:P30117>
       <m:P30107>Vom Autor für die neue Reihe eingerichtet</m:P30107>
+      <m:P30088>Hollfeld</m:P30088>
+      <m:P30083>Beyer</m:P30083>
+      <m:P30011>1996</m:P30011>
       <m:P30182>72 S.</m:P30182>
       <m:P30169>17 cm</m:P30169>
       <m:P30001>ohne hilfsmittel zu benutzen</m:P30001>
@@ -5766,6 +6183,9 @@
       <m:P30142>Paläo-Fiction Roman (Nr. 3)</m:P30142>
       <m:P30117>William Golding</m:P30117>
       <m:P30107>1. Aufl.</m:P30107>
+      <m:P30088>Erkrath</m:P30088>
+      <m:P30083>Fantasy Productions</m:P30083>
+      <m:P30011>2005</m:P30011>
       <m:P30001>ohne hilfsmittel zu benutzen</m:P30001>
       <m:P30002>band</m:P30002>
       <m:P30139 rdf:resource="http://viaf.org/viaf/217036112/ger/text/"/>
@@ -5778,6 +6198,9 @@
       <m:P30142>Roman</m:P30142>
       <m:P30117>William Golding. Aus dem Engl. von Hermann Stiehl</m:P30117>
       <m:P30107>1. Aufl.</m:P30107>
+      <m:P30088>Berlin</m:P30088>
+      <m:P30083>A. Springer</m:P30083>
+      <m:P30011>2011</m:P30011>
       <m:P30182>252 S.</m:P30182>
       <m:P30169>21 cm</m:P30169>
       <m:P30001>ohne hilfsmittel zu benutzen</m:P30001>
