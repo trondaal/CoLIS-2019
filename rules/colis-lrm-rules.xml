@@ -183,6 +183,11 @@
                 <subfield code="f" type="http://rdaregistry.info/Elements/m/P30175" select="frbrizer:trim(.)" label="has manufacturers name"/>
                 <subfield code="g" type="http://rdaregistry.info/Elements/m/P30109" select="frbrizer:trim(.)" label="has manufacture statement"/>
             </datafield>
+            <datafield tag="264">
+                <subfield code="a" type="http://rdaregistry.info/Elements/m/P30088" select="frbrizer:trim(.)" label="has place of publication"/>
+                <subfield code="b" type="http://rdaregistry.info/Elements/m/P30083" select="frbrizer:trim(.)" label="has publisher"/>
+                <subfield code="c" type="http://rdaregistry.info/Elements/m/P30011" select="frbrizer:trim(.)" label="has date of publication"/>
+            </datafield>
             <datafield tag="300">
                 <subfield code="a" type="http://rdaregistry.info/Elements/m/P30182" label="has extent"/>
                 <subfield code="b" type="http://marc21rdf.info/elements/marc/M30000b" label="other physical details"/>

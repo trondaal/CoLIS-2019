@@ -3946,7 +3946,7 @@
    </bibframe:Person>
    <bibframe:Person rdf:about="http://example.org/fuhrermartin">
       <a:P50111>Fuhrer, Martin</a:P50111>
-      <a:P50207 rdf:resource="https://www.imdb.com/title/tt0100054/spa"/>
+      <a:P50528 rdf:resource="https://www.imdb.com/title/tt0100054/spa"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="http://example.org/furthchris">
       <a:P50111>Furth, Chris</a:P50111>
@@ -4007,7 +4007,7 @@
    </bibframe:Person>
    <bibframe:Person rdf:about="http://example.org/hollymantom">
       <a:P50111>Hollyman, Tom</a:P50111>
-      <a:P50207 rdf:resource="https://www.imdb.com/title/tt0057261//eng"/>
+      <a:P50528 rdf:resource="https://www.imdb.com/title/tt0057261//eng"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="http://example.org/hookharry">
       <a:P50111>Hook, Harry</a:P50111>
@@ -5403,10 +5403,10 @@
       <e:P20012 rdf:resource="http://example.org/aubreyjames"/>
       <e:P20012 rdf:resource="http://example.org/chapintom"/>
       <e:P20012 rdf:resource="http://example.org/edwardshugh"/>
+      <m:P30327 rdf:resource="http://example.org/hollymantom"/>
       <w:P10013 rdf:resource="http://example.org/brookpeter"/>
       <w:P10053 rdf:resource="http://example.org/leppardraymond"/>
       <w:P10064 rdf:resource="http://example.org/allenlewism"/>
-      <w:P10068 rdf:resource="http://example.org/hollymantom"/>
       <w:P10129 rdf:resource="http://viaf.org/viaf/119144648592107423604"/>
       <w:P10203 rdf:resource="http://example.org/brookpeter"/>
    </bibframe:Work>
@@ -5426,10 +5426,10 @@
       <e:P20012 rdf:resource="http://example.org/gettybalthazar"/>
       <e:P20012 rdf:resource="http://example.org/furthchris"/>
       <e:P20012 rdf:resource="http://example.org/pipolydaniel"/>
+      <m:P30327 rdf:resource="http://example.org/fuhrermartin"/>
       <w:P10013 rdf:resource="http://example.org/hookharry"/>
       <w:P10053 rdf:resource="http://example.org/sardephilippe"/>
       <w:P10064 rdf:resource="http://example.org/milloyross"/>
-      <w:P10068 rdf:resource="http://example.org/fuhrermartin"/>
       <w:P10129 rdf:resource="http://viaf.org/viaf/119144648592107423604"/>
       <w:P10203 rdf:resource="http://example.org/schiffsara"/>
    </bibframe:Work>

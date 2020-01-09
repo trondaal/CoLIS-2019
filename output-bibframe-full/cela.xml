@@ -9893,7 +9893,7 @@
       <m:P30182>1 Blu-Ray (ca. 107 min)</m:P30182>
       <m:P30001>vídeo</m:P30001>
       <m:P30106>Filmoteca Fnacional</m:P30106>
-      <bibframe:instanceOf rdf:resource="https://www.imdb.com/title/tt0083743//mvoingimage/spa/56299308/abrilvictoria/anabeln/ariasimanol/burmanhans/camusmario/carrillomary/cigsluis/dibildosjosluis/escobarluis/faltoyanofiorella/garcaabrilantn/gonzlezagustn/gutirrezcabaemilio/lpezcharo/lpezvzquezjosluis/pontemaraluisa/quintillelvira/rabalfrancisco/resinesantonio/sacristnjos/sazatorniljos/velascoconcha"/>
+      <bibframe:instanceOf rdf:resource="https://www.imdb.com/title/tt0083743//mvoingimage/spa/56299308/abrilvictoria/anabeln/ariasimanol/burmanhans/camusmario/carrillomary/cigsluis/dibildosjosluis/escobarluis/faltoyanofiorella/garcaabrilantn/gonzlezagustn/gutirrezcabaemilio/lpezcharo/lpezvzquezjosluis/pontemaraluisa/quintillelvira/rabalfrancisco/resinesantonio/sacristnjos/sazatorniljos/tolentinojavier/velascoconcha"/>
    </bibframe:Instance>
    <bibframe:Person rdf:about="http://example.org/abadcontreraspedro">
       <a:P50111>Abad Contreras, Pedro</a:P50111>
@@ -9905,7 +9905,7 @@
       <a:P50071 rdf:resource="https://www.imdb.com/title/tt0083743//text/spa/56299308/abrilvictoria/bdalojos/burmanhans/camusmario/dibildosjosluis/faltoyanofiorella/garcaabrilantn/lpezcharo/pardomario/rabalfrancisco"/>
       <a:P50071 rdf:resource="https://www.imdb.com/title/tt0083743//text/spa/56299308/abrilvictoria/anabeln/bdalojos/burmanhans/camusmario/dibildosjosluis/faltoyanofiorella/garcaabrilantn/lpezcharo/pardomario/rabalfrancisco"/>
       <a:P50071 rdf:resource="https://www.imdb.com/title/tt0083743//text/spa/56299308/abrilvictoria/anabeln/bdalojos/burmanhans/camusmario/dibildosjosluis/faltoyanofiorella/garcaabrilantn/lpezcharo/pardomario/parrajulio/rabalfrancisco"/>
-      <a:P50071 rdf:resource="https://www.imdb.com/title/tt0083743//mvoingimage/spa/56299308/abrilvictoria/anabeln/ariasimanol/burmanhans/camusmario/carrillomary/cigsluis/dibildosjosluis/escobarluis/faltoyanofiorella/garcaabrilantn/gonzlezagustn/gutirrezcabaemilio/lpezcharo/lpezvzquezjosluis/pontemaraluisa/quintillelvira/rabalfrancisco/resinesantonio/sacristnjos/sazatorniljos/velascoconcha"/>
+      <a:P50071 rdf:resource="https://www.imdb.com/title/tt0083743//mvoingimage/spa/56299308/abrilvictoria/anabeln/ariasimanol/burmanhans/camusmario/carrillomary/cigsluis/dibildosjosluis/escobarluis/faltoyanofiorella/garcaabrilantn/gonzlezagustn/gutirrezcabaemilio/lpezcharo/lpezvzquezjosluis/pontemaraluisa/quintillelvira/rabalfrancisco/resinesantonio/sacristnjos/sazatorniljos/tolentinojavier/velascoconcha"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="http://example.org/aleumarc">
       <a:P50111>Aleu, Marc</a:P50111>
@@ -9938,7 +9938,7 @@
       <a:P50107>1951-</a:P50107>
       <a:P50071 rdf:resource="https://www.imdb.com/title/tt0083743//text/spa/56299308/abrilvictoria/anabeln/bdalojos/burmanhans/camusmario/dibildosjosluis/faltoyanofiorella/garcaabrilantn/lpezcharo/pardomario/rabalfrancisco"/>
       <a:P50071 rdf:resource="https://www.imdb.com/title/tt0083743//text/spa/56299308/abrilvictoria/anabeln/bdalojos/burmanhans/camusmario/dibildosjosluis/faltoyanofiorella/garcaabrilantn/lpezcharo/pardomario/parrajulio/rabalfrancisco"/>
-      <a:P50071 rdf:resource="https://www.imdb.com/title/tt0083743//mvoingimage/spa/56299308/abrilvictoria/anabeln/ariasimanol/burmanhans/camusmario/carrillomary/cigsluis/dibildosjosluis/escobarluis/faltoyanofiorella/garcaabrilantn/gonzlezagustn/gutirrezcabaemilio/lpezcharo/lpezvzquezjosluis/pontemaraluisa/quintillelvira/rabalfrancisco/resinesantonio/sacristnjos/sazatorniljos/velascoconcha"/>
+      <a:P50071 rdf:resource="https://www.imdb.com/title/tt0083743//mvoingimage/spa/56299308/abrilvictoria/anabeln/ariasimanol/burmanhans/camusmario/carrillomary/cigsluis/dibildosjosluis/escobarluis/faltoyanofiorella/garcaabrilantn/gonzlezagustn/gutirrezcabaemilio/lpezcharo/lpezvzquezjosluis/pontemaraluisa/quintillelvira/rabalfrancisco/resinesantonio/sacristnjos/sazatorniljos/tolentinojavier/velascoconcha"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="http://example.org/apariciorafaela">
       <a:P50111>Aparicio, Rafaela</a:P50111>
@@ -9948,7 +9948,7 @@
    <bibframe:Person rdf:about="http://example.org/ariasimanol">
       <a:P50111>Arias, Imanol</a:P50111>
       <a:P50107>1956-</a:P50107>
-      <a:P50071 rdf:resource="https://www.imdb.com/title/tt0083743//mvoingimage/spa/56299308/abrilvictoria/anabeln/ariasimanol/burmanhans/camusmario/carrillomary/cigsluis/dibildosjosluis/escobarluis/faltoyanofiorella/garcaabrilantn/gonzlezagustn/gutirrezcabaemilio/lpezcharo/lpezvzquezjosluis/pontemaraluisa/quintillelvira/rabalfrancisco/resinesantonio/sacristnjos/sazatorniljos/velascoconcha"/>
+      <a:P50071 rdf:resource="https://www.imdb.com/title/tt0083743//mvoingimage/spa/56299308/abrilvictoria/anabeln/ariasimanol/burmanhans/camusmario/carrillomary/cigsluis/dibildosjosluis/escobarluis/faltoyanofiorella/garcaabrilantn/gonzlezagustn/gutirrezcabaemilio/lpezcharo/lpezvzquezjosluis/pontemaraluisa/quintillelvira/rabalfrancisco/resinesantonio/sacristnjos/sazatorniljos/tolentinojavier/velascoconcha"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="http://example.org/arranzbravoeduardo">
       <a:P50111>Arranz-Bravo, Eduardo</a:P50111>
@@ -9998,7 +9998,7 @@
    </bibframe:Person>
    <bibframe:Person rdf:about="http://example.org/barraluis">
       <a:P50111>Barra, Luis</a:P50111>
-      <a:P50207 rdf:resource="http://example.org/toquerocortssalvador/buscandoacelaenlaalcarriabuscandoacelaenlaalcarria/text/spa/barraluis/barrasantiago/toquerocortssalvador"/>
+      <a:P50528 rdf:resource="http://example.org/toquerocortssalvador/buscandoacelaenlaalcarriabuscandoacelaenlaalcarria/text/spa/barraluis/barrasantiago/toquerocortssalvador"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="http://example.org/barrasantiago">
       <a:P50111>Barra, Santiago</a:P50111>
@@ -10022,7 +10022,7 @@
       <ex:relatorcode>pht</ex:relatorcode>
       <a:P50111>Bernal, Santiago</a:P50111>
       <a:P50107>1927-</a:P50107>
-      <a:P50207 rdf:resource="http://example.org/lacmaradebernaltraslahuelladecelaenlaalcarria1972lacmaradebernaltraslahuelladecelaenlaalcarria1972/imagen(fija;bidimensional;visual)/spa/bernalsantiago"/>
+      <a:P50528 rdf:resource="http://example.org/lacmaradebernaltraslahuelladecelaenlaalcarria1972lacmaradebernaltraslahuelladecelaenlaalcarria1972/imagen(fija;bidimensional;visual)/spa/bernalsantiago"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="http://example.org/bernsteinjs">
       <a:P50111>Bernstein, J. S</a:P50111>
@@ -10055,7 +10055,7 @@
       <a:P50048 rdf:resource="https://www.imdb.com/title/tt0083743//text/spa/56299308/abrilvictoria/bdalojos/burmanhans/camusmario/dibildosjosluis/faltoyanofiorella/garcaabrilantn/lpezcharo/pardomario/rabalfrancisco"/>
       <a:P50048 rdf:resource="https://www.imdb.com/title/tt0083743//text/spa/56299308/abrilvictoria/anabeln/bdalojos/burmanhans/camusmario/dibildosjosluis/faltoyanofiorella/garcaabrilantn/lpezcharo/pardomario/rabalfrancisco"/>
       <a:P50048 rdf:resource="https://www.imdb.com/title/tt0083743//text/spa/56299308/abrilvictoria/anabeln/bdalojos/burmanhans/camusmario/dibildosjosluis/faltoyanofiorella/garcaabrilantn/lpezcharo/pardomario/parrajulio/rabalfrancisco"/>
-      <a:P50207 rdf:resource="https://www.imdb.com/title/tt0083743//mvoingimage/spa/56299308/abrilvictoria/anabeln/ariasimanol/burmanhans/camusmario/carrillomary/cigsluis/dibildosjosluis/escobarluis/faltoyanofiorella/garcaabrilantn/gonzlezagustn/gutirrezcabaemilio/lpezcharo/lpezvzquezjosluis/pontemaraluisa/quintillelvira/rabalfrancisco/resinesantonio/sacristnjos/sazatorniljos/velascoconcha"/>
+      <a:P50207 rdf:resource="https://www.imdb.com/title/tt0083743//mvoingimage/spa/56299308/abrilvictoria/anabeln/ariasimanol/burmanhans/camusmario/carrillomary/cigsluis/dibildosjosluis/escobarluis/faltoyanofiorella/garcaabrilantn/gonzlezagustn/gutirrezcabaemilio/lpezcharo/lpezvzquezjosluis/pontemaraluisa/quintillelvira/rabalfrancisco/resinesantonio/sacristnjos/sazatorniljos/tolentinojavier/velascoconcha"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="http://example.org/busettecedric">
       <a:P50111>Busette, Cedric</a:P50111>
@@ -10074,7 +10074,7 @@
       <a:P50048 rdf:resource="https://www.imdb.com/title/tt0083743//text/spa/56299308/abrilvictoria/bdalojos/burmanhans/camusmario/dibildosjosluis/faltoyanofiorella/garcaabrilantn/lpezcharo/pardomario/rabalfrancisco"/>
       <a:P50048 rdf:resource="https://www.imdb.com/title/tt0083743//text/spa/56299308/abrilvictoria/anabeln/bdalojos/burmanhans/camusmario/dibildosjosluis/faltoyanofiorella/garcaabrilantn/lpezcharo/pardomario/rabalfrancisco"/>
       <a:P50048 rdf:resource="https://www.imdb.com/title/tt0083743//text/spa/56299308/abrilvictoria/anabeln/bdalojos/burmanhans/camusmario/dibildosjosluis/faltoyanofiorella/garcaabrilantn/lpezcharo/pardomario/parrajulio/rabalfrancisco"/>
-      <a:P50048 rdf:resource="https://www.imdb.com/title/tt0083743//mvoingimage/spa/56299308/abrilvictoria/anabeln/ariasimanol/burmanhans/camusmario/carrillomary/cigsluis/dibildosjosluis/escobarluis/faltoyanofiorella/garcaabrilantn/gonzlezagustn/gutirrezcabaemilio/lpezcharo/lpezvzquezjosluis/pontemaraluisa/quintillelvira/rabalfrancisco/resinesantonio/sacristnjos/sazatorniljos/velascoconcha"/>
+      <a:P50048 rdf:resource="https://www.imdb.com/title/tt0083743//mvoingimage/spa/56299308/abrilvictoria/anabeln/ariasimanol/burmanhans/camusmario/carrillomary/cigsluis/dibildosjosluis/escobarluis/faltoyanofiorella/garcaabrilantn/gonzlezagustn/gutirrezcabaemilio/lpezcharo/lpezvzquezjosluis/pontemaraluisa/quintillelvira/rabalfrancisco/resinesantonio/sacristnjos/sazatorniljos/tolentinojavier/velascoconcha"/>
       <a:P50195 rdf:resource="http://example.org/camusmario/colmena"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="http://example.org/canalesalfonso">
@@ -10100,7 +10100,7 @@
    <bibframe:Person rdf:about="http://example.org/carrillomary">
       <a:P50111>Carrillo, Mary</a:P50111>
       <a:P50107>1919-2009</a:P50107>
-      <a:P50071 rdf:resource="https://www.imdb.com/title/tt0083743//mvoingimage/spa/56299308/abrilvictoria/anabeln/ariasimanol/burmanhans/camusmario/carrillomary/cigsluis/dibildosjosluis/escobarluis/faltoyanofiorella/garcaabrilantn/gonzlezagustn/gutirrezcabaemilio/lpezcharo/lpezvzquezjosluis/pontemaraluisa/quintillelvira/rabalfrancisco/resinesantonio/sacristnjos/sazatorniljos/velascoconcha"/>
+      <a:P50071 rdf:resource="https://www.imdb.com/title/tt0083743//mvoingimage/spa/56299308/abrilvictoria/anabeln/ariasimanol/burmanhans/camusmario/carrillomary/cigsluis/dibildosjosluis/escobarluis/faltoyanofiorella/garcaabrilantn/gonzlezagustn/gutirrezcabaemilio/lpezcharo/lpezvzquezjosluis/pontemaraluisa/quintillelvira/rabalfrancisco/resinesantonio/sacristnjos/sazatorniljos/tolentinojavier/velascoconcha"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="http://example.org/castaomarina">
       <a:P50111>Castaño, Marina</a:P50111>
@@ -10129,7 +10129,7 @@
       <a:P50111>Cigés, Luis</a:P50111>
       <a:P50107>1921-2002</a:P50107>
       <a:P50071 rdf:resource="http://example.org/lainslitaygloriosahazaadelcipotedearchidonalainslitaygloriosahazaadelcipotedearchidona/text/spa/56299308/cigsluis"/>
-      <a:P50071 rdf:resource="https://www.imdb.com/title/tt0083743//mvoingimage/spa/56299308/abrilvictoria/anabeln/ariasimanol/burmanhans/camusmario/carrillomary/cigsluis/dibildosjosluis/escobarluis/faltoyanofiorella/garcaabrilantn/gonzlezagustn/gutirrezcabaemilio/lpezcharo/lpezvzquezjosluis/pontemaraluisa/quintillelvira/rabalfrancisco/resinesantonio/sacristnjos/sazatorniljos/velascoconcha"/>
+      <a:P50071 rdf:resource="https://www.imdb.com/title/tt0083743//mvoingimage/spa/56299308/abrilvictoria/anabeln/ariasimanol/burmanhans/camusmario/carrillomary/cigsluis/dibildosjosluis/escobarluis/faltoyanofiorella/garcaabrilantn/gonzlezagustn/gutirrezcabaemilio/lpezcharo/lpezvzquezjosluis/pontemaraluisa/quintillelvira/rabalfrancisco/resinesantonio/sacristnjos/sazatorniljos/tolentinojavier/velascoconcha"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="http://example.org/cohenjm">
       <a:P50111>Cohen, J. M</a:P50111>
@@ -10139,7 +10139,7 @@
    <bibframe:Person rdf:about="http://example.org/colomjoan">
       <a:P50111>Colom, Joan</a:P50111>
       <a:P50107>1921-2017</a:P50107>
-      <a:P50207 rdf:resource="http://workid.oslomet.no/cjc/47/text/spa/14767431/colomjoan"/>
+      <a:P50528 rdf:resource="http://workid.oslomet.no/cjc/47/text/spa/14767431/colomjoan"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="http://example.org/correasjos">
       <a:P50111>Correas, José</a:P50111>
@@ -10170,8 +10170,8 @@
       <a:P50213 rdf:resource="https://www.imdb.com/title/tt0083743//text/spa/56299308/abrilvictoria/bdalojos/burmanhans/camusmario/dibildosjosluis/faltoyanofiorella/garcaabrilantn/lpezcharo/pardomario/rabalfrancisco"/>
       <a:P50213 rdf:resource="https://www.imdb.com/title/tt0083743//text/spa/56299308/abrilvictoria/anabeln/bdalojos/burmanhans/camusmario/dibildosjosluis/faltoyanofiorella/garcaabrilantn/lpezcharo/pardomario/rabalfrancisco"/>
       <a:P50213 rdf:resource="https://www.imdb.com/title/tt0083743//text/spa/56299308/abrilvictoria/anabeln/bdalojos/burmanhans/camusmario/dibildosjosluis/faltoyanofiorella/garcaabrilantn/lpezcharo/pardomario/parrajulio/rabalfrancisco"/>
-      <a:P50213 rdf:resource="https://www.imdb.com/title/tt0083743//mvoingimage/spa/56299308/abrilvictoria/anabeln/ariasimanol/burmanhans/camusmario/carrillomary/cigsluis/dibildosjosluis/escobarluis/faltoyanofiorella/garcaabrilantn/gonzlezagustn/gutirrezcabaemilio/lpezcharo/lpezvzquezjosluis/pontemaraluisa/quintillelvira/rabalfrancisco/resinesantonio/sacristnjos/sazatorniljos/velascoconcha"/>
-      <a:P50223 rdf:resource="https://www.imdb.com/title/tt0083743//mvoingimage/spa/56299308/abrilvictoria/anabeln/ariasimanol/burmanhans/camusmario/carrillomary/cigsluis/dibildosjosluis/escobarluis/faltoyanofiorella/garcaabrilantn/gonzlezagustn/gutirrezcabaemilio/lpezcharo/lpezvzquezjosluis/pontemaraluisa/quintillelvira/rabalfrancisco/resinesantonio/sacristnjos/sazatorniljos/velascoconcha"/>
+      <a:P50213 rdf:resource="https://www.imdb.com/title/tt0083743//mvoingimage/spa/56299308/abrilvictoria/anabeln/ariasimanol/burmanhans/camusmario/carrillomary/cigsluis/dibildosjosluis/escobarluis/faltoyanofiorella/garcaabrilantn/gonzlezagustn/gutirrezcabaemilio/lpezcharo/lpezvzquezjosluis/pontemaraluisa/quintillelvira/rabalfrancisco/resinesantonio/sacristnjos/sazatorniljos/tolentinojavier/velascoconcha"/>
+      <a:P50223 rdf:resource="https://www.imdb.com/title/tt0083743//mvoingimage/spa/56299308/abrilvictoria/anabeln/ariasimanol/burmanhans/camusmario/carrillomary/cigsluis/dibildosjosluis/escobarluis/faltoyanofiorella/garcaabrilantn/gonzlezagustn/gutirrezcabaemilio/lpezcharo/lpezvzquezjosluis/pontemaraluisa/quintillelvira/rabalfrancisco/resinesantonio/sacristnjos/sazatorniljos/tolentinojavier/velascoconcha"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="http://example.org/diegodelarosafernandode">
       <a:P50111>Diego de la Rosa, Fernando de</a:P50111>
@@ -10200,7 +10200,7 @@
    <bibframe:Person rdf:about="http://example.org/escobarluis">
       <a:P50111>Escobar, Luis</a:P50111>
       <a:P50107>1908-1991</a:P50107>
-      <a:P50071 rdf:resource="https://www.imdb.com/title/tt0083743//mvoingimage/spa/56299308/abrilvictoria/anabeln/ariasimanol/burmanhans/camusmario/carrillomary/cigsluis/dibildosjosluis/escobarluis/faltoyanofiorella/garcaabrilantn/gonzlezagustn/gutirrezcabaemilio/lpezcharo/lpezvzquezjosluis/pontemaraluisa/quintillelvira/rabalfrancisco/resinesantonio/sacristnjos/sazatorniljos/velascoconcha"/>
+      <a:P50071 rdf:resource="https://www.imdb.com/title/tt0083743//mvoingimage/spa/56299308/abrilvictoria/anabeln/ariasimanol/burmanhans/camusmario/carrillomary/cigsluis/dibildosjosluis/escobarluis/faltoyanofiorella/garcaabrilantn/gonzlezagustn/gutirrezcabaemilio/lpezcharo/lpezvzquezjosluis/pontemaraluisa/quintillelvira/rabalfrancisco/resinesantonio/sacristnjos/sazatorniljos/tolentinojavier/velascoconcha"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="http://example.org/esplandiujuan">
       <a:P50111>Esplandiu, Juan</a:P50111>
@@ -10214,7 +10214,7 @@
       <a:P50071 rdf:resource="https://www.imdb.com/title/tt0083743//text/spa/56299308/abrilvictoria/bdalojos/burmanhans/camusmario/dibildosjosluis/faltoyanofiorella/garcaabrilantn/lpezcharo/pardomario/rabalfrancisco"/>
       <a:P50071 rdf:resource="https://www.imdb.com/title/tt0083743//text/spa/56299308/abrilvictoria/anabeln/bdalojos/burmanhans/camusmario/dibildosjosluis/faltoyanofiorella/garcaabrilantn/lpezcharo/pardomario/rabalfrancisco"/>
       <a:P50071 rdf:resource="https://www.imdb.com/title/tt0083743//text/spa/56299308/abrilvictoria/anabeln/bdalojos/burmanhans/camusmario/dibildosjosluis/faltoyanofiorella/garcaabrilantn/lpezcharo/pardomario/parrajulio/rabalfrancisco"/>
-      <a:P50071 rdf:resource="https://www.imdb.com/title/tt0083743//mvoingimage/spa/56299308/abrilvictoria/anabeln/ariasimanol/burmanhans/camusmario/carrillomary/cigsluis/dibildosjosluis/escobarluis/faltoyanofiorella/garcaabrilantn/gonzlezagustn/gutirrezcabaemilio/lpezcharo/lpezvzquezjosluis/pontemaraluisa/quintillelvira/rabalfrancisco/resinesantonio/sacristnjos/sazatorniljos/velascoconcha"/>
+      <a:P50071 rdf:resource="https://www.imdb.com/title/tt0083743//mvoingimage/spa/56299308/abrilvictoria/anabeln/ariasimanol/burmanhans/camusmario/carrillomary/cigsluis/dibildosjosluis/escobarluis/faltoyanofiorella/garcaabrilantn/gonzlezagustn/gutirrezcabaemilio/lpezcharo/lpezvzquezjosluis/pontemaraluisa/quintillelvira/rabalfrancisco/resinesantonio/sacristnjos/sazatorniljos/tolentinojavier/velascoconcha"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="http://example.org/fernandezariasirmaisabel">
       <a:P50111>Fernández Arias, Irma Isabel</a:P50111>
@@ -10267,7 +10267,7 @@
       <a:P50187 rdf:resource="https://www.imdb.com/title/tt0083743//text/spa/56299308/abrilvictoria/bdalojos/burmanhans/camusmario/dibildosjosluis/faltoyanofiorella/garcaabrilantn/lpezcharo/pardomario/rabalfrancisco"/>
       <a:P50187 rdf:resource="https://www.imdb.com/title/tt0083743//text/spa/56299308/abrilvictoria/anabeln/bdalojos/burmanhans/camusmario/dibildosjosluis/faltoyanofiorella/garcaabrilantn/lpezcharo/pardomario/rabalfrancisco"/>
       <a:P50187 rdf:resource="https://www.imdb.com/title/tt0083743//text/spa/56299308/abrilvictoria/anabeln/bdalojos/burmanhans/camusmario/dibildosjosluis/faltoyanofiorella/garcaabrilantn/lpezcharo/pardomario/parrajulio/rabalfrancisco"/>
-      <a:P50187 rdf:resource="https://www.imdb.com/title/tt0083743//mvoingimage/spa/56299308/abrilvictoria/anabeln/ariasimanol/burmanhans/camusmario/carrillomary/cigsluis/dibildosjosluis/escobarluis/faltoyanofiorella/garcaabrilantn/gonzlezagustn/gutirrezcabaemilio/lpezcharo/lpezvzquezjosluis/pontemaraluisa/quintillelvira/rabalfrancisco/resinesantonio/sacristnjos/sazatorniljos/velascoconcha"/>
+      <a:P50187 rdf:resource="https://www.imdb.com/title/tt0083743//mvoingimage/spa/56299308/abrilvictoria/anabeln/ariasimanol/burmanhans/camusmario/carrillomary/cigsluis/dibildosjosluis/escobarluis/faltoyanofiorella/garcaabrilantn/gonzlezagustn/gutirrezcabaemilio/lpezcharo/lpezvzquezjosluis/pontemaraluisa/quintillelvira/rabalfrancisco/resinesantonio/sacristnjos/sazatorniljos/tolentinojavier/velascoconcha"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="http://example.org/garcagrgolesjess">
       <a:P50111>García Gárgoles, Jesús</a:P50111>
@@ -10341,7 +10341,7 @@
    <bibframe:Person rdf:about="http://example.org/gonzlezagustn">
       <a:P50111>González, Agustín</a:P50111>
       <a:P50107>1930-2005</a:P50107>
-      <a:P50071 rdf:resource="https://www.imdb.com/title/tt0083743//mvoingimage/spa/56299308/abrilvictoria/anabeln/ariasimanol/burmanhans/camusmario/carrillomary/cigsluis/dibildosjosluis/escobarluis/faltoyanofiorella/garcaabrilantn/gonzlezagustn/gutirrezcabaemilio/lpezcharo/lpezvzquezjosluis/pontemaraluisa/quintillelvira/rabalfrancisco/resinesantonio/sacristnjos/sazatorniljos/velascoconcha"/>
+      <a:P50071 rdf:resource="https://www.imdb.com/title/tt0083743//mvoingimage/spa/56299308/abrilvictoria/anabeln/ariasimanol/burmanhans/camusmario/carrillomary/cigsluis/dibildosjosluis/escobarluis/faltoyanofiorella/garcaabrilantn/gonzlezagustn/gutirrezcabaemilio/lpezcharo/lpezvzquezjosluis/pontemaraluisa/quintillelvira/rabalfrancisco/resinesantonio/sacristnjos/sazatorniljos/tolentinojavier/velascoconcha"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="http://example.org/gonzlezdelvallemarajess">
       <a:P50111>González del Valle, María Jesús</a:P50111>
@@ -10370,7 +10370,7 @@
    <bibframe:Person rdf:about="http://example.org/gutirrezcabaemilio">
       <a:P50111>Gutiérrez Caba, Emilio</a:P50111>
       <a:P50107>1942-</a:P50107>
-      <a:P50071 rdf:resource="https://www.imdb.com/title/tt0083743//mvoingimage/spa/56299308/abrilvictoria/anabeln/ariasimanol/burmanhans/camusmario/carrillomary/cigsluis/dibildosjosluis/escobarluis/faltoyanofiorella/garcaabrilantn/gonzlezagustn/gutirrezcabaemilio/lpezcharo/lpezvzquezjosluis/pontemaraluisa/quintillelvira/rabalfrancisco/resinesantonio/sacristnjos/sazatorniljos/velascoconcha"/>
+      <a:P50071 rdf:resource="https://www.imdb.com/title/tt0083743//mvoingimage/spa/56299308/abrilvictoria/anabeln/ariasimanol/burmanhans/camusmario/carrillomary/cigsluis/dibildosjosluis/escobarluis/faltoyanofiorella/garcaabrilantn/gonzlezagustn/gutirrezcabaemilio/lpezcharo/lpezvzquezjosluis/pontemaraluisa/quintillelvira/rabalfrancisco/resinesantonio/sacristnjos/sazatorniljos/tolentinojavier/velascoconcha"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="http://example.org/gutirrezdomingo">
       <a:P50111>Gutiérrez, Domingo</a:P50111>
@@ -10641,7 +10641,7 @@
       <a:P50071 rdf:resource="https://www.imdb.com/title/tt0083743//text/spa/56299308/abrilvictoria/anabeln/bdalojos/burmanhans/camusmario/dibildosjosluis/faltoyanofiorella/garcaabrilantn/lpezcharo/pardomario/rabalfrancisco"/>
       <a:P50071 rdf:resource="https://www.imdb.com/title/tt0083743//text/spa/56299308/abrilvictoria/anabeln/bdalojos/burmanhans/camusmario/dibildosjosluis/faltoyanofiorella/garcaabrilantn/lpezcharo/pardomario/parrajulio/rabalfrancisco"/>
       <a:P50071 rdf:resource="http://example.org/lainslitaygloriosahazaadelcipotedearchidonalainslitaygloriosahazaadelcipotedearchidona/text/spa/56299308/cigsluis"/>
-      <a:P50071 rdf:resource="https://www.imdb.com/title/tt0083743//mvoingimage/spa/56299308/abrilvictoria/anabeln/ariasimanol/burmanhans/camusmario/carrillomary/cigsluis/dibildosjosluis/escobarluis/faltoyanofiorella/garcaabrilantn/gonzlezagustn/gutirrezcabaemilio/lpezcharo/lpezvzquezjosluis/pontemaraluisa/quintillelvira/rabalfrancisco/resinesantonio/sacristnjos/sazatorniljos/velascoconcha"/>
+      <a:P50071 rdf:resource="https://www.imdb.com/title/tt0083743//mvoingimage/spa/56299308/abrilvictoria/anabeln/ariasimanol/burmanhans/camusmario/carrillomary/cigsluis/dibildosjosluis/escobarluis/faltoyanofiorella/garcaabrilantn/gonzlezagustn/gutirrezcabaemilio/lpezcharo/lpezvzquezjosluis/pontemaraluisa/quintillelvira/rabalfrancisco/resinesantonio/sacristnjos/sazatorniljos/tolentinojavier/velascoconcha"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="http://viaf.org/viaf/66142208">
       <a:P50111>Risvik, Kjell</a:P50111>
@@ -10735,12 +10735,12 @@
       <a:P50071 rdf:resource="https://www.imdb.com/title/tt0083743//text/spa/56299308/abrilvictoria/bdalojos/burmanhans/camusmario/dibildosjosluis/faltoyanofiorella/garcaabrilantn/lpezcharo/pardomario/rabalfrancisco"/>
       <a:P50071 rdf:resource="https://www.imdb.com/title/tt0083743//text/spa/56299308/abrilvictoria/anabeln/bdalojos/burmanhans/camusmario/dibildosjosluis/faltoyanofiorella/garcaabrilantn/lpezcharo/pardomario/rabalfrancisco"/>
       <a:P50071 rdf:resource="https://www.imdb.com/title/tt0083743//text/spa/56299308/abrilvictoria/anabeln/bdalojos/burmanhans/camusmario/dibildosjosluis/faltoyanofiorella/garcaabrilantn/lpezcharo/pardomario/parrajulio/rabalfrancisco"/>
-      <a:P50071 rdf:resource="https://www.imdb.com/title/tt0083743//mvoingimage/spa/56299308/abrilvictoria/anabeln/ariasimanol/burmanhans/camusmario/carrillomary/cigsluis/dibildosjosluis/escobarluis/faltoyanofiorella/garcaabrilantn/gonzlezagustn/gutirrezcabaemilio/lpezcharo/lpezvzquezjosluis/pontemaraluisa/quintillelvira/rabalfrancisco/resinesantonio/sacristnjos/sazatorniljos/velascoconcha"/>
+      <a:P50071 rdf:resource="https://www.imdb.com/title/tt0083743//mvoingimage/spa/56299308/abrilvictoria/anabeln/ariasimanol/burmanhans/camusmario/carrillomary/cigsluis/dibildosjosluis/escobarluis/faltoyanofiorella/garcaabrilantn/gonzlezagustn/gutirrezcabaemilio/lpezcharo/lpezvzquezjosluis/pontemaraluisa/quintillelvira/rabalfrancisco/resinesantonio/sacristnjos/sazatorniljos/tolentinojavier/velascoconcha"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="http://example.org/lpezvzquezjosluis">
       <a:P50111>López Vázquez, José Luis</a:P50111>
       <a:P50107>1922-2009</a:P50107>
-      <a:P50071 rdf:resource="https://www.imdb.com/title/tt0083743//mvoingimage/spa/56299308/abrilvictoria/anabeln/ariasimanol/burmanhans/camusmario/carrillomary/cigsluis/dibildosjosluis/escobarluis/faltoyanofiorella/garcaabrilantn/gonzlezagustn/gutirrezcabaemilio/lpezcharo/lpezvzquezjosluis/pontemaraluisa/quintillelvira/rabalfrancisco/resinesantonio/sacristnjos/sazatorniljos/velascoconcha"/>
+      <a:P50071 rdf:resource="https://www.imdb.com/title/tt0083743//mvoingimage/spa/56299308/abrilvictoria/anabeln/ariasimanol/burmanhans/camusmario/carrillomary/cigsluis/dibildosjosluis/escobarluis/faltoyanofiorella/garcaabrilantn/gonzlezagustn/gutirrezcabaemilio/lpezcharo/lpezvzquezjosluis/pontemaraluisa/quintillelvira/rabalfrancisco/resinesantonio/sacristnjos/sazatorniljos/tolentinojavier/velascoconcha"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="http://example.org/luqueisabel">
       <a:P50111>Luque, Isabel</a:P50111>
@@ -10917,7 +10917,7 @@
    <bibframe:Person rdf:about="http://example.org/pontemaraluisa">
       <a:P50111>Ponte, María Luisa</a:P50111>
       <a:P50107>1918-1996</a:P50107>
-      <a:P50071 rdf:resource="https://www.imdb.com/title/tt0083743//mvoingimage/spa/56299308/abrilvictoria/anabeln/ariasimanol/burmanhans/camusmario/carrillomary/cigsluis/dibildosjosluis/escobarluis/faltoyanofiorella/garcaabrilantn/gonzlezagustn/gutirrezcabaemilio/lpezcharo/lpezvzquezjosluis/pontemaraluisa/quintillelvira/rabalfrancisco/resinesantonio/sacristnjos/sazatorniljos/velascoconcha"/>
+      <a:P50071 rdf:resource="https://www.imdb.com/title/tt0083743//mvoingimage/spa/56299308/abrilvictoria/anabeln/ariasimanol/burmanhans/camusmario/carrillomary/cigsluis/dibildosjosluis/escobarluis/faltoyanofiorella/garcaabrilantn/gonzlezagustn/gutirrezcabaemilio/lpezcharo/lpezvzquezjosluis/pontemaraluisa/quintillelvira/rabalfrancisco/resinesantonio/sacristnjos/sazatorniljos/tolentinojavier/velascoconcha"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="http://example.org/pozueloyvancosjosmara">
       <a:P50111>Pozuelo Yvancos, José María</a:P50111>
@@ -10950,7 +10950,7 @@
    <bibframe:Person rdf:about="http://example.org/quintillelvira">
       <a:P50111>Quintillá, Elvira</a:P50111>
       <a:P50107>1928-2013</a:P50107>
-      <a:P50071 rdf:resource="https://www.imdb.com/title/tt0083743//mvoingimage/spa/56299308/abrilvictoria/anabeln/ariasimanol/burmanhans/camusmario/carrillomary/cigsluis/dibildosjosluis/escobarluis/faltoyanofiorella/garcaabrilantn/gonzlezagustn/gutirrezcabaemilio/lpezcharo/lpezvzquezjosluis/pontemaraluisa/quintillelvira/rabalfrancisco/resinesantonio/sacristnjos/sazatorniljos/velascoconcha"/>
+      <a:P50071 rdf:resource="https://www.imdb.com/title/tt0083743//mvoingimage/spa/56299308/abrilvictoria/anabeln/ariasimanol/burmanhans/camusmario/carrillomary/cigsluis/dibildosjosluis/escobarluis/faltoyanofiorella/garcaabrilantn/gonzlezagustn/gutirrezcabaemilio/lpezcharo/lpezvzquezjosluis/pontemaraluisa/quintillelvira/rabalfrancisco/resinesantonio/sacristnjos/sazatorniljos/tolentinojavier/velascoconcha"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="http://example.org/rabalfrancisco">
       <a:P50111>Rabal, Francisco</a:P50111>
@@ -10958,7 +10958,7 @@
       <a:P50071 rdf:resource="https://www.imdb.com/title/tt0083743//text/spa/56299308/abrilvictoria/bdalojos/burmanhans/camusmario/dibildosjosluis/faltoyanofiorella/garcaabrilantn/lpezcharo/pardomario/rabalfrancisco"/>
       <a:P50071 rdf:resource="https://www.imdb.com/title/tt0083743//text/spa/56299308/abrilvictoria/anabeln/bdalojos/burmanhans/camusmario/dibildosjosluis/faltoyanofiorella/garcaabrilantn/lpezcharo/pardomario/rabalfrancisco"/>
       <a:P50071 rdf:resource="https://www.imdb.com/title/tt0083743//text/spa/56299308/abrilvictoria/anabeln/bdalojos/burmanhans/camusmario/dibildosjosluis/faltoyanofiorella/garcaabrilantn/lpezcharo/pardomario/parrajulio/rabalfrancisco"/>
-      <a:P50071 rdf:resource="https://www.imdb.com/title/tt0083743//mvoingimage/spa/56299308/abrilvictoria/anabeln/ariasimanol/burmanhans/camusmario/carrillomary/cigsluis/dibildosjosluis/escobarluis/faltoyanofiorella/garcaabrilantn/gonzlezagustn/gutirrezcabaemilio/lpezcharo/lpezvzquezjosluis/pontemaraluisa/quintillelvira/rabalfrancisco/resinesantonio/sacristnjos/sazatorniljos/velascoconcha"/>
+      <a:P50071 rdf:resource="https://www.imdb.com/title/tt0083743//mvoingimage/spa/56299308/abrilvictoria/anabeln/ariasimanol/burmanhans/camusmario/carrillomary/cigsluis/dibildosjosluis/escobarluis/faltoyanofiorella/garcaabrilantn/gonzlezagustn/gutirrezcabaemilio/lpezcharo/lpezvzquezjosluis/pontemaraluisa/quintillelvira/rabalfrancisco/resinesantonio/sacristnjos/sazatorniljos/tolentinojavier/velascoconcha"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="http://example.org/radeckdavina">
       <a:P50111>Radeck, Davina</a:P50111>
@@ -10975,7 +10975,7 @@
    <bibframe:Person rdf:about="http://example.org/resinesantonio">
       <a:P50111>Resines, Antonio</a:P50111>
       <a:P50107>1949-</a:P50107>
-      <a:P50071 rdf:resource="https://www.imdb.com/title/tt0083743//mvoingimage/spa/56299308/abrilvictoria/anabeln/ariasimanol/burmanhans/camusmario/carrillomary/cigsluis/dibildosjosluis/escobarluis/faltoyanofiorella/garcaabrilantn/gonzlezagustn/gutirrezcabaemilio/lpezcharo/lpezvzquezjosluis/pontemaraluisa/quintillelvira/rabalfrancisco/resinesantonio/sacristnjos/sazatorniljos/velascoconcha"/>
+      <a:P50071 rdf:resource="https://www.imdb.com/title/tt0083743//mvoingimage/spa/56299308/abrilvictoria/anabeln/ariasimanol/burmanhans/camusmario/carrillomary/cigsluis/dibildosjosluis/escobarluis/faltoyanofiorella/garcaabrilantn/gonzlezagustn/gutirrezcabaemilio/lpezcharo/lpezvzquezjosluis/pontemaraluisa/quintillelvira/rabalfrancisco/resinesantonio/sacristnjos/sazatorniljos/tolentinojavier/velascoconcha"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="http://example.org/revueltalen">
       <a:P50111>Revuelta, León</a:P50111>
@@ -11026,7 +11026,7 @@
    <bibframe:Person rdf:about="http://example.org/sacristnjos">
       <a:P50111>Sacristán, José</a:P50111>
       <a:P50107>1937-</a:P50107>
-      <a:P50071 rdf:resource="https://www.imdb.com/title/tt0083743//mvoingimage/spa/56299308/abrilvictoria/anabeln/ariasimanol/burmanhans/camusmario/carrillomary/cigsluis/dibildosjosluis/escobarluis/faltoyanofiorella/garcaabrilantn/gonzlezagustn/gutirrezcabaemilio/lpezcharo/lpezvzquezjosluis/pontemaraluisa/quintillelvira/rabalfrancisco/resinesantonio/sacristnjos/sazatorniljos/velascoconcha"/>
+      <a:P50071 rdf:resource="https://www.imdb.com/title/tt0083743//mvoingimage/spa/56299308/abrilvictoria/anabeln/ariasimanol/burmanhans/camusmario/carrillomary/cigsluis/dibildosjosluis/escobarluis/faltoyanofiorella/garcaabrilantn/gonzlezagustn/gutirrezcabaemilio/lpezcharo/lpezvzquezjosluis/pontemaraluisa/quintillelvira/rabalfrancisco/resinesantonio/sacristnjos/sazatorniljos/tolentinojavier/velascoconcha"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="http://example.org/sagarfacimatilde">
       <a:P50111>Sagaró Faci, Matilde</a:P50111>
@@ -11063,7 +11063,7 @@
    <bibframe:Person rdf:about="http://example.org/sazatorniljos">
       <a:P50111>Sazatornil, José</a:P50111>
       <a:P50107>1926-2015</a:P50107>
-      <a:P50071 rdf:resource="https://www.imdb.com/title/tt0083743//mvoingimage/spa/56299308/abrilvictoria/anabeln/ariasimanol/burmanhans/camusmario/carrillomary/cigsluis/dibildosjosluis/escobarluis/faltoyanofiorella/garcaabrilantn/gonzlezagustn/gutirrezcabaemilio/lpezcharo/lpezvzquezjosluis/pontemaraluisa/quintillelvira/rabalfrancisco/resinesantonio/sacristnjos/sazatorniljos/velascoconcha"/>
+      <a:P50071 rdf:resource="https://www.imdb.com/title/tt0083743//mvoingimage/spa/56299308/abrilvictoria/anabeln/ariasimanol/burmanhans/camusmario/carrillomary/cigsluis/dibildosjosluis/escobarluis/faltoyanofiorella/garcaabrilantn/gonzlezagustn/gutirrezcabaemilio/lpezcharo/lpezvzquezjosluis/pontemaraluisa/quintillelvira/rabalfrancisco/resinesantonio/sacristnjos/sazatorniljos/tolentinojavier/velascoconcha"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="http://example.org/serrallimonajosep">
       <a:P50111>Serra Llimona, Josep</a:P50111>
@@ -11140,6 +11140,7 @@
    <bibframe:Person rdf:about="http://example.org/tolentinojavier">
       <a:P50111>Tolentino, Javier</a:P50111>
       <a:P50107>1959-</a:P50107>
+      <a:P50528 rdf:resource="https://www.imdb.com/title/tt0083743//mvoingimage/spa/56299308/abrilvictoria/anabeln/ariasimanol/burmanhans/camusmario/carrillomary/cigsluis/dibildosjosluis/escobarluis/faltoyanofiorella/garcaabrilantn/gonzlezagustn/gutirrezcabaemilio/lpezcharo/lpezvzquezjosluis/pontemaraluisa/quintillelvira/rabalfrancisco/resinesantonio/sacristnjos/sazatorniljos/tolentinojavier/velascoconcha"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="http://example.org/toquerocortssalvador">
       <a:P50111>Toquero Cortés, Salvador</a:P50111>
@@ -11174,7 +11175,7 @@
    <bibframe:Person rdf:about="http://example.org/vaqueirovtor">
       <a:P50111>Vaqueiro, Vítor</a:P50111>
       <a:P50107>1948-</a:P50107>
-      <a:P50207 rdf:resource="http://workid.oslomet.no/cjc/88/text/spa/14767431/laxeiro/vaqueirovtor"/>
+      <a:P50528 rdf:resource="http://workid.oslomet.no/cjc/88/text/spa/14767431/laxeiro/vaqueirovtor"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="http://example.org/vargaslabellacndida">
       <a:P50111>Vargas Labella, Cándida</a:P50111>
@@ -11188,7 +11189,7 @@
    <bibframe:Person rdf:about="http://example.org/velascoconcha">
       <a:P50111>Velasco, Concha</a:P50111>
       <a:P50107>1939-</a:P50107>
-      <a:P50071 rdf:resource="https://www.imdb.com/title/tt0083743//mvoingimage/spa/56299308/abrilvictoria/anabeln/ariasimanol/burmanhans/camusmario/carrillomary/cigsluis/dibildosjosluis/escobarluis/faltoyanofiorella/garcaabrilantn/gonzlezagustn/gutirrezcabaemilio/lpezcharo/lpezvzquezjosluis/pontemaraluisa/quintillelvira/rabalfrancisco/resinesantonio/sacristnjos/sazatorniljos/velascoconcha"/>
+      <a:P50071 rdf:resource="https://www.imdb.com/title/tt0083743//mvoingimage/spa/56299308/abrilvictoria/anabeln/ariasimanol/burmanhans/camusmario/carrillomary/cigsluis/dibildosjosluis/escobarluis/faltoyanofiorella/garcaabrilantn/gonzlezagustn/gutirrezcabaemilio/lpezcharo/lpezvzquezjosluis/pontemaraluisa/quintillelvira/rabalfrancisco/resinesantonio/sacristnjos/sazatorniljos/tolentinojavier/velascoconcha"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="http://example.org/vicenteeduardo">
       <a:P50111>Vicente, Eduardo</a:P50111>
@@ -12195,7 +12196,7 @@
       <bibframe:translation rdf:resource="http://viaf.org/viaf/178631752/text/nob/14767431/66142208"/>
       <w:P10025 rdf:resource="https://www.imdb.com/title/tt0083743//text/spa/56299308/abrilvictoria/bdalojos/burmanhans/camusmario/dibildosjosluis/faltoyanofiorella/garcaabrilantn/lpezcharo/pardomario/rabalfrancisco"/>
       <w:P10025 rdf:resource="https://www.imdb.com/title/tt0083743//text/spa/56299308/abrilvictoria/anabeln/bdalojos/burmanhans/camusmario/dibildosjosluis/faltoyanofiorella/garcaabrilantn/lpezcharo/pardomario/parrajulio/rabalfrancisco"/>
-      <w:P10025 rdf:resource="https://www.imdb.com/title/tt0083743//mvoingimage/spa/56299308/abrilvictoria/anabeln/ariasimanol/burmanhans/camusmario/carrillomary/cigsluis/dibildosjosluis/escobarluis/faltoyanofiorella/garcaabrilantn/gonzlezagustn/gutirrezcabaemilio/lpezcharo/lpezvzquezjosluis/pontemaraluisa/quintillelvira/rabalfrancisco/resinesantonio/sacristnjos/sazatorniljos/velascoconcha"/>
+      <w:P10025 rdf:resource="https://www.imdb.com/title/tt0083743//mvoingimage/spa/56299308/abrilvictoria/anabeln/ariasimanol/burmanhans/camusmario/carrillomary/cigsluis/dibildosjosluis/escobarluis/faltoyanofiorella/garcaabrilantn/gonzlezagustn/gutirrezcabaemilio/lpezcharo/lpezvzquezjosluis/pontemaraluisa/quintillelvira/rabalfrancisco/resinesantonio/sacristnjos/sazatorniljos/tolentinojavier/velascoconcha"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/14767431"/>
       <w:P10065 rdf:resource="http://viaf.org/viaf/14767431"/>
       <w:P10115 rdf:resource="http://example.org/gilprezjosmara/lacolmenaexistenciallacolmenaexistencialestudiocrticodelacolmenadecamilojoscela/text/spa/gilprezjosmara"/>
@@ -13650,8 +13651,8 @@
       <e:P20001>text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8426429963"/>
       <bibframe:hasInstance rdf:resource="http://example.org/bimo0000655355"/>
+      <m:P30327 rdf:resource="http://example.org/colomjoan"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/14767431"/>
-      <w:P10068 rdf:resource="http://example.org/colomjoan"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://workid.oslomet.no/cjc/49/text/spa/14767431">
       <e:P20006>spa</e:P20006>
@@ -14112,8 +14113,8 @@
       <e:P20001>text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:8476800401"/>
       <m:P30321 rdf:resource="http://example.org/laxeiro"/>
+      <m:P30327 rdf:resource="http://example.org/vaqueirovtor"/>
       <w:P10061 rdf:resource="http://viaf.org/viaf/14767431"/>
-      <w:P10068 rdf:resource="http://example.org/vaqueirovtor"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://workid.oslomet.no/cjc/89/text/spa/14767431">
       <e:P20006>spa</e:P20006>
@@ -14343,7 +14344,7 @@
       <w:P10129 rdf:resource="http://viaf.org/viaf/177039865"/>
       <w:P10203 rdf:resource="http://example.org/martnezlzaroemilio"/>
    </bibframe:Work>
-   <bibframe:Work rdf:about="https://www.imdb.com/title/tt0083743//mvoingimage/spa/56299308/abrilvictoria/anabeln/ariasimanol/burmanhans/camusmario/carrillomary/cigsluis/dibildosjosluis/escobarluis/faltoyanofiorella/garcaabrilantn/gonzlezagustn/gutirrezcabaemilio/lpezcharo/lpezvzquezjosluis/pontemaraluisa/quintillelvira/rabalfrancisco/resinesantonio/sacristnjos/sazatorniljos/velascoconcha">
+   <bibframe:Work rdf:about="https://www.imdb.com/title/tt0083743//mvoingimage/spa/56299308/abrilvictoria/anabeln/ariasimanol/burmanhans/camusmario/carrillomary/cigsluis/dibildosjosluis/escobarluis/faltoyanofiorella/garcaabrilantn/gonzlezagustn/gutirrezcabaemilio/lpezcharo/lpezvzquezjosluis/pontemaraluisa/quintillelvira/rabalfrancisco/resinesantonio/sacristnjos/sazatorniljos/tolentinojavier/velascoconcha">
       <e:P20006>spa</e:P20006>
       <w:P10088>La Colmena</w:P10088>
       <m:P30156>La colmena</m:P30156>
@@ -14368,6 +14369,7 @@
       <e:P20012 rdf:resource="http://example.org/ariasimanol"/>
       <e:P20012 rdf:resource="http://example.org/gonzlezagustn"/>
       <e:P20012 rdf:resource="http://example.org/pontemaraluisa"/>
+      <m:P30327 rdf:resource="http://example.org/tolentinojavier"/>
       <w:P10013 rdf:resource="http://example.org/camusmario"/>
       <w:P10053 rdf:resource="http://example.org/garcaabrilantn"/>
       <w:P10064 rdf:resource="http://example.org/dibildosjosluis"/>
@@ -14505,7 +14507,7 @@
       <e:P20001>Imagen (fija ; bidimensional ; visual)</e:P20001>
       <e:P20001>text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/a5955997"/>
-      <w:P10068 rdf:resource="http://example.org/bernalsantiago"/>
+      <m:P30327 rdf:resource="http://example.org/bernalsantiago"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://example.org/lainslitaygloriosahazaadelcipotedearchidonalainslitaygloriosahazaadelcipotedearchidona/text/spa/56299308/cigsluis">
       <e:P20006>spa</e:P20006>
@@ -14808,9 +14810,9 @@
       <w:P10088>Buscando a Cela en la Alcarria</w:P10088>
       <e:P20001>text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9788460877608"/>
+      <m:P30327 rdf:resource="http://example.org/barraluis"/>
       <w:P10061 rdf:resource="http://example.org/toquerocortssalvador"/>
       <w:P10061 rdf:resource="http://example.org/barrasantiago"/>
-      <w:P10068 rdf:resource="http://example.org/barraluis"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://example.org/toquerocortssalvador/buscandoacelaenlaalcarriabuscandoacelaenlaalcarria/text/spa/barrasantiago/toquerocortssalvador">
       <e:P20006>spa</e:P20006>

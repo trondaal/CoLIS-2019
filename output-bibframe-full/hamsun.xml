@@ -13925,7 +13925,7 @@
    <bibframe:Person rdf:about="http://example.org/jenssendag">
       <a:P50111>Jenssen, Dag</a:P50111>
       <a:P50107>1964-</a:P50107>
-      <a:P50207 rdf:resource="http://example.org/hamsunhamsunfradetmoderneamerikasndslivbasertpenessaysamlingavknuthamsun/text/nob/jenssendag"/>
+      <a:P50528 rdf:resource="http://example.org/hamsunhamsunfradetmoderneamerikasndslivbasertpenessaysamlingavknuthamsun/text/nob/jenssendag"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="http://example.org/jenssenolavchristopher">
       <a:P50111>Jenssen, Olav Christopher</a:P50111>
@@ -14117,8 +14117,7 @@
    <bibframe:Person rdf:about="http://example.org/mllerrobby">
       <a:P50111>Müller, Robby</a:P50111>
       <a:P50107>1940-</a:P50107>
-      <a:P50207 rdf:resource="https://www.imdb.com/title/tt0077965/"/>
-      <a:P50207 rdf:resource="https://www.imdb.com/title/tt0077965//movingimage/spa/hauerrutger/kristelsylvia/lussanetpaulde/mllerrobby/rooyenlaurensvan/tushinghamrita"/>
+      <a:P50528 rdf:resource="https://www.imdb.com/title/tt0077965//movingimage/spa/hauerrutger/kristelsylvia/lussanetpaulde/mllerrobby/rooyenlaurensvan/tushinghamrita"/>
    </bibframe:Person>
    <bibframe:Person rdf:about="http://example.org/moanhenny">
       <a:P50111>Moan, Henny</a:P50111>
@@ -14568,7 +14567,7 @@
       <w:P10088>Hamsun</w:P10088>
       <e:P20001>text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/991517292124702201"/>
-      <w:P10068 rdf:resource="http://example.org/jenssendag"/>
+      <m:P30327 rdf:resource="http://example.org/jenssendag"/>
       <w:P10127 rdf:resource="http://viaf.org/viaf/811145857935523020027"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="http://viaf.org/viaf/1000145424544686831283">
@@ -22028,7 +22027,6 @@
       <e:P20001>moving image</e:P20001>
       <bibframe:translation rdf:resource="https://www.imdb.com/title/tt0077965//movingimage/spa/hauerrutger/kristelsylvia/lussanetpaulde/mllerrobby/rooyenlaurensvan/tushinghamrita"/>
       <w:P10013 rdf:resource="http://example.org/lussanetpaulde"/>
-      <w:P10068 rdf:resource="http://example.org/mllerrobby"/>
       <w:P10129 rdf:resource="http://viaf.org/viaf/206863699"/>
       <w:P10203 rdf:resource="http://example.org/lussanetpaulde"/>
    </bibframe:Work>
@@ -22044,9 +22042,9 @@
       <e:P20012 rdf:resource="http://example.org/kristelsylvia"/>
       <e:P20012 rdf:resource="http://example.org/hauerrutger"/>
       <e:P20012 rdf:resource="http://example.org/tushinghamrita"/>
+      <m:P30327 rdf:resource="http://example.org/mllerrobby"/>
       <w:P10013 rdf:resource="http://example.org/lussanetpaulde"/>
       <w:P10053 rdf:resource="http://example.org/rooyenlaurensvan"/>
-      <w:P10068 rdf:resource="http://example.org/mllerrobby"/>
       <w:P10203 rdf:resource="http://example.org/lussanetpaulde"/>
    </bibframe:Work>
    <bibframe:Work rdf:about="https://www.imdb.com/title/tt0097709//movingimage/nob/christensenlarssaabye/jordalhelge/lagercrantzmarika/lindgrenhans/munchtrondpeterstams/solumola">

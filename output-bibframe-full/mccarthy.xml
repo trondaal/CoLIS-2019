@@ -20,48 +20,48 @@
       <m:P30001>computer</m:P30001>
       <m:P30002>online resource</m:P30002>
       <m:P30106>Picador classic</m:P30106>
-      <bibframe:instanceOf rdf:resource="http://example.org/border/text/eng/mccarthy"/>
+      <bibframe:instanceOf rdf:resource="http://viaf.org/viaf/175871715/text/eng/29558386"/>
    </bibframe:Instance>
-   <bibframe:Person rdf:about="http://example.org/mccarthy">
+   <bibframe:Person rdf:about="http://viaf.org/viaf/29558386">
       <ex:relatorcode>aut</ex:relatorcode>
       <a:P50111>McCarthy, Cormac</a:P50111>
       <a:P50107>1933-</a:P50107>
-      <a:P50195 rdf:resource="http://example.org/border/text/eng/mccarthy"/>
-      <a:P50195 rdf:resource="http://example.org/prettyhorses/text/eng/mccarthy"/>
-      <a:P50195 rdf:resource="http://example.org/crossing/text/eng/mccarthy"/>
-      <a:P50195 rdf:resource="http://example.org/cities/text/eng/mccarthy"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/175871715/text/eng/29558386"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/214001528/text/eng/29558386"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/309357400/text/eng/29558386"/>
+      <a:P50195 rdf:resource="http://viaf.org/viaf/3417153653286155900001/text/eng/29558386"/>
    </bibframe:Person>
-   <bibframe:Work rdf:about="http://example.org/border/text/eng/mccarthy">
+   <bibframe:Work rdf:about="http://viaf.org/viaf/175871715/text/eng/29558386">
       <e:P20006>eng</e:P20006>
       <w:P10088>The border trilogy</w:P10088>
       <m:P30156>The border trilogy</m:P30156>
       <m:P30117>Cormac McCarthy</m:P30117>
       <e:P20001>text</e:P20001>
       <bibframe:hasInstance rdf:resource="http://example.org/urn:isbn:9781509852031"/>
-      <bibframe:hasPart rdf:resource="http://example.org/prettyhorses/text/eng/mccarthy"/>
-      <bibframe:hasPart rdf:resource="http://example.org/crossing/text/eng/mccarthy"/>
-      <bibframe:hasPart rdf:resource="http://example.org/cities/text/eng/mccarthy"/>
-      <w:P10061 rdf:resource="http://example.org/mccarthy"/>
+      <bibframe:hasPart rdf:resource="http://viaf.org/viaf/214001528/text/eng/29558386"/>
+      <bibframe:hasPart rdf:resource="http://viaf.org/viaf/309357400/text/eng/29558386"/>
+      <bibframe:hasPart rdf:resource="http://viaf.org/viaf/3417153653286155900001/text/eng/29558386"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/29558386"/>
    </bibframe:Work>
-   <bibframe:Work rdf:about="http://example.org/cities/text/eng/mccarthy">
-      <e:P20006>eng</e:P20006>
-      <e:P20001>text</e:P20001>
-      <w:P10088>Cities of the plain</w:P10088>
-      <bibframe:partOf rdf:resource="http://example.org/border/text/eng/mccarthy"/>
-      <w:P10061 rdf:resource="http://example.org/mccarthy"/>
-   </bibframe:Work>
-   <bibframe:Work rdf:about="http://example.org/crossing/text/eng/mccarthy">
-      <e:P20006>eng</e:P20006>
-      <e:P20001>text</e:P20001>
-      <w:P10088>Crossing</w:P10088>
-      <bibframe:partOf rdf:resource="http://example.org/border/text/eng/mccarthy"/>
-      <w:P10061 rdf:resource="http://example.org/mccarthy"/>
-   </bibframe:Work>
-   <bibframe:Work rdf:about="http://example.org/prettyhorses/text/eng/mccarthy">
+   <bibframe:Work rdf:about="http://viaf.org/viaf/214001528/text/eng/29558386">
       <e:P20006>eng</e:P20006>
       <e:P20001>text</e:P20001>
       <w:P10088>All the pretty horses</w:P10088>
-      <bibframe:partOf rdf:resource="http://example.org/border/text/eng/mccarthy"/>
-      <w:P10061 rdf:resource="http://example.org/mccarthy"/>
+      <bibframe:partOf rdf:resource="http://viaf.org/viaf/175871715/text/eng/29558386"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/29558386"/>
+   </bibframe:Work>
+   <bibframe:Work rdf:about="http://viaf.org/viaf/309357400/text/eng/29558386">
+      <e:P20006>eng</e:P20006>
+      <e:P20001>text</e:P20001>
+      <w:P10088>Crossing</w:P10088>
+      <bibframe:partOf rdf:resource="http://viaf.org/viaf/175871715/text/eng/29558386"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/29558386"/>
+   </bibframe:Work>
+   <bibframe:Work rdf:about="http://viaf.org/viaf/3417153653286155900001/text/eng/29558386">
+      <e:P20006>eng</e:P20006>
+      <e:P20001>text</e:P20001>
+      <w:P10088>Cities of the plain</w:P10088>
+      <bibframe:partOf rdf:resource="http://viaf.org/viaf/175871715/text/eng/29558386"/>
+      <w:P10061 rdf:resource="http://viaf.org/viaf/29558386"/>
    </bibframe:Work>
 </rdf:RDF>

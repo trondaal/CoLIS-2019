@@ -448,7 +448,6 @@
       <w:P10002>http://workid.oslomet.no/cjc/47</w:P10002>
       <w:P10088>Izas, rabizas y colipoterras. Drama con acompañamiento de cachondeo y dolor de corazón</w:P10088>
       <w:P10061 rdf:resource="http://viaf.org/viaf/14767431"/>
-      <w:P10068 rdf:resource="http://example.org/colomjoan"/>
       <w:P10078 rdf:resource="http://workid.oslomet.no/cjc/47/spa/text/"/>
    </c:C10001>
    <c:C10001 rdf:about="http://workid.oslomet.no/cjc/49">
@@ -635,7 +634,6 @@
       <w:P10002>http://workid.oslomet.no/cjc/88</w:P10002>
       <w:P10088>Galicia</w:P10088>
       <w:P10061 rdf:resource="http://viaf.org/viaf/14767431"/>
-      <w:P10068 rdf:resource="http://example.org/vaqueirovtor"/>
       <w:P10078 rdf:resource="http://workid.oslomet.no/cjc/88/spa/text/"/>
    </c:C10001>
    <c:C10001 rdf:about="http://workid.oslomet.no/cjc/89">
@@ -880,6 +878,7 @@
    <c:C10004 rdf:about="http://example.org/barraluis">
       <a:P50094>barraluis</a:P50094>
       <a:P50111>Barra, Luis</a:P50111>
+      <a:P50528 rdf:resource="http://example.org/isbn-9788460877608"/>
    </c:C10004>
    <c:C10004 rdf:about="http://example.org/barrasantiago">
       <a:P50094>barrasantiago</a:P50094>
@@ -1026,7 +1025,8 @@
       <a:P50094>colomjoan</a:P50094>
       <a:P50111>Colom, Joan</a:P50111>
       <a:P50107>1921-2017</a:P50107>
-      <a:P50207 rdf:resource="http://workid.oslomet.no/cjc/47"/>
+      <a:P50528 rdf:resource="http://example.org/isbn-8426429963"/>
+      <a:P50528 rdf:resource="http://example.org/bimo0000655355"/>
    </c:C10004>
    <c:C10004 rdf:about="http://example.org/correasjos">
       <a:P50094>correasjos</a:P50094>
@@ -1968,6 +1968,7 @@
       <a:P50094>tolentinojavier</a:P50094>
       <a:P50111>Tolentino, Javier</a:P50111>
       <a:P50107>1959-</a:P50107>
+      <a:P50528 rdf:resource="http://example.org/unknown-8421394407213"/>
    </c:C10004>
    <c:C10004 rdf:about="http://example.org/toquerocortssalvador">
       <a:P50094>toquerocortssalvador</a:P50094>
@@ -2004,7 +2005,7 @@
       <a:P50094>vaqueirovtor</a:P50094>
       <a:P50111>Vaqueiro, Vítor</a:P50111>
       <a:P50107>1948-</a:P50107>
-      <a:P50207 rdf:resource="http://workid.oslomet.no/cjc/88"/>
+      <a:P50528 rdf:resource="http://example.org/isbn-8476800401"/>
    </c:C10004>
    <c:C10004 rdf:about="http://example.org/vargaslabellacndida">
       <a:P50094>vargaslabellacndida</a:P50094>
@@ -4125,6 +4126,9 @@
       <marc:M001>017683146</marc:M001>
       <m:P30156>La naranja es una fruta de invierno</m:P30156>
       <m:P30117>Camilo José Cela</m:P30117>
+      <m:P30088>Santander</m:P30088>
+      <m:P30083>Carlos Nieto Editor</m:P30083>
+      <m:P30011>1951</m:P30011>
       <m:P30182>22 pages ;</m:P30182>
       <m:P30169>17 cm.</m:P30169>
       <m:P30001>unmediated</m:P30001>
@@ -4138,6 +4142,10 @@
       <m:P30156>Der Bienenkorb</m:P30156>
       <m:P30142>Roman = La colmena</m:P30142>
       <m:P30117>Camilo José Cela. [Dt. von Gerda Theile-Bruhns]</m:P30117>
+      <m:P30088>Olten</m:P30088>
+      <m:P30088>Freiburg i. Br</m:P30088>
+      <m:P30083>Walter</m:P30083>
+      <m:P30011>1964</m:P30011>
       <m:P30182>329 S.</m:P30182>
       <m:P30169>8</m:P30169>
       <m:P30001>ohne hilfsmittel zu benutzen</m:P30001>
@@ -4149,6 +4157,9 @@
       <m:P30156>Pascual Duartes Familie</m:P30156>
       <m:P30142>Roman</m:P30142>
       <m:P30117>Camilo José Cela. [Aus d. Span. übertr. von George Leisewitz]</m:P30117>
+      <m:P30088>Hamburg</m:P30088>
+      <m:P30083>Toth</m:P30083>
+      <m:P30011>1949</m:P30011>
       <m:P30182>185 S.</m:P30182>
       <m:P30169>8</m:P30169>
       <m:P30001>ohne hilfsmittel zu benutzen</m:P30001>
@@ -4160,6 +4171,9 @@
       <m:P30156>Pascual Duartes Familie</m:P30156>
       <m:P30142>Roman</m:P30142>
       <m:P30117>Camilo José Cela. [Veröffentlicht nach d. Übers. aus d. Span. von George Leisewitz unter Mitarb. d. Autors u. Gerda Theile-Bruhns]</m:P30117>
+      <m:P30088>Zürich</m:P30088>
+      <m:P30083>Verl. Die Arche</m:P30083>
+      <m:P30011>1960</m:P30011>
       <m:P30182>239 S.</m:P30182>
       <m:P30169>8</m:P30169>
       <m:P30001>ohne hilfsmittel zu benutzen</m:P30001>
@@ -4171,6 +4185,9 @@
       <m:P30156>Mrs Caldwell spricht mit ihrem Sohn</m:P30156>
       <m:P30142>Roman</m:P30142>
       <m:P30117>Camilo José Cela. [Aus d. Span. von Gerda Theile-Bruhns]</m:P30117>
+      <m:P30088>Zürich</m:P30088>
+      <m:P30083>Verl. d. Arche</m:P30083>
+      <m:P30011>1961</m:P30011>
       <m:P30182>227 S.</m:P30182>
       <m:P30169>8</m:P30169>
       <m:P30001>ohne hilfsmittel zu benutzen</m:P30001>
@@ -4183,6 +4200,9 @@
       <m:P30142>Roman</m:P30142>
       <m:P30117>Camilo José Cela. [Dt. von Gerda Theile-Bruhns]</m:P30117>
       <m:P30107>Ungekürzte Ausg.</m:P30107>
+      <m:P30088>München</m:P30088>
+      <m:P30083>Deutscher Taschenbuch-Verl</m:P30083>
+      <m:P30011>1968</m:P30011>
       <m:P30182>249 S.</m:P30182>
       <m:P30169>kl. 8</m:P30169>
       <m:P30001>ohne hilfsmittel zu benutzen</m:P30001>
@@ -4195,6 +4215,11 @@
       <marc:M001>57283148X</marc:M001>
       <m:P30156>Avila</m:P30156>
       <m:P30117>Camilo José Cela. [Dt. Übers. v. Juliane Wuttig]</m:P30117>
+      <m:P30088>Barcelona</m:P30088>
+      <m:P30088>[Stuttgart]</m:P30088>
+      <m:P30083>Noguer</m:P30083>
+      <m:P30083>[Reise- u. Verkehrsverl.]</m:P30083>
+      <m:P30011>1955</m:P30011>
       <m:P30182>32 S.</m:P30182>
       <marc:M30000b>20 Bl. Abb.</marc:M30000b>
       <m:P30169>kl. 8</m:P30169>
@@ -4209,6 +4234,9 @@
       <m:P30156>Avila</m:P30156>
       <m:P30117>Camilo José Cela. [Dt. Übers. v. Juliane Wuttig]</m:P30117>
       <m:P30107>2. Aufl.</m:P30107>
+      <m:P30088>Barcelona</m:P30088>
+      <m:P30083>Noguer</m:P30083>
+      <m:P30011>1964</m:P30011>
       <m:P30182>31 S., 2 Bl.</m:P30182>
       <marc:M30000b>20 Bl. Abb.</marc:M30000b>
       <m:P30169>8</m:P30169>
@@ -4222,6 +4250,10 @@
       <m:P30156>Der Bienenkorb</m:P30156>
       <m:P30142>Roman</m:P30142>
       <m:P30117>Camilo José Cela. Aus dem Span. von Gerda Theile-Bruhns</m:P30117>
+      <m:P30088>Stuttgart</m:P30088>
+      <m:P30088>München</m:P30088>
+      <m:P30083>Dt. Bücherbund</m:P30083>
+      <m:P30011>[1989]</m:P30011>
       <m:P30182>273 S.</m:P30182>
       <m:P30169>20 cm</m:P30169>
       <m:P30001>ohne hilfsmittel zu benutzen</m:P30001>
@@ -4233,6 +4265,9 @@
       <m:P30156>Ein Vagabund im Dienste Spaniens</m:P30156>
       <m:P30142>Nobelpreis 1989 Spanien</m:P30142>
       <m:P30117>Camilo José Cela. [Aus dem Span. von Hildegard Moral]</m:P30117>
+      <m:P30088>Lachen am Zürichsee</m:P30088>
+      <m:P30083>Coron-Verl</m:P30083>
+      <m:P30011>1990</m:P30011>
       <m:P30182>269 S.</m:P30182>
       <marc:M30000b>Ill.</marc:M30000b>
       <m:P30169>23 cm</m:P30169>
@@ -4247,6 +4282,9 @@
       <m:P30156>Ein Vagabund im Dienste Spaniens</m:P30156>
       <m:P30142>Nobelpreis 1989 Spanien</m:P30142>
       <m:P30117>Camilo José Cela. [Aus dem Span. von Hildegard Moral]</m:P30117>
+      <m:P30088>Lachen am Zürichsee</m:P30088>
+      <m:P30083>Coron-Verl</m:P30083>
+      <m:P30011>[1992]</m:P30011>
       <m:P30182>269, 302, 308 S.</m:P30182>
       <marc:M30000b>Ill.</marc:M30000b>
       <m:P30169>23 cm</m:P30169>
@@ -4261,6 +4299,9 @@
       <m:P30156>Gavilla de fábulas sin amor</m:P30156>
       <m:P30117>Camilo José Cela. 32 dibujos de Picasso</m:P30117>
       <m:P30107>3. ed.</m:P30107>
+      <m:P30088>Barcelona</m:P30088>
+      <m:P30083>Noguer</m:P30083>
+      <m:P30011>1975</m:P30011>
       <m:P30182>189 S.</m:P30182>
       <marc:M30000b>zahlr. Ill. (farb.), [3] Bl.</marc:M30000b>
       <m:P30169>28 cm</m:P30169>
@@ -5558,6 +5599,7 @@
       <m:P30182>86 p. con 16 lám. + 1 h.</m:P30182>
       <m:P30169>23 cm</m:P30169>
       <m:P30139 rdf:resource="http://workid.oslomet.no/cjc/47/spa/text/"/>
+      <m:P30327 rdf:resource="http://example.org/colomjoan"/>
    </c:C10007>
    <c:C10007 rdf:about="http://example.org/bimo0000655356">
       <marc:M001>bimo0000655356</marc:M001>
@@ -9748,6 +9790,7 @@
       <m:P30106>Palabra menor ;</m:P30106>
       <m:P30165>65</m:P30165>
       <m:P30139 rdf:resource="http://workid.oslomet.no/cjc/47/spa/text/"/>
+      <m:P30327 rdf:resource="http://example.org/colomjoan"/>
    </c:C10007>
    <c:C10007 rdf:about="http://example.org/isbn-8426429971">
       <marc:M001>010796113</marc:M001>
@@ -12043,6 +12086,7 @@
       <m:P30169>30 cm</m:P30169>
       <m:P30139 rdf:resource="http://workid.oslomet.no/cjc/88/spa/text/"/>
       <m:P30321 rdf:resource="http://example.org/laxeiro"/>
+      <m:P30327 rdf:resource="http://example.org/vaqueirovtor"/>
    </c:C10007>
    <c:C10007 rdf:about="http://example.org/isbn-8477370184">
       <marc:M001>010809283</marc:M001>
@@ -12875,6 +12919,10 @@
       <m:P30004>isbn-3492032931</m:P30004>
       <m:P30156>Ein Vagabund im Dienste Spaniens</m:P30156>
       <m:P30117>Camilo José Cela. Hrsg., ausgew. u. mit e. Nachbemerkung von Ricardo Bada. Aus d. Span. von Hildegard Moral</m:P30117>
+      <m:P30088>München</m:P30088>
+      <m:P30088>Zürich</m:P30088>
+      <m:P30083>Piper</m:P30083>
+      <m:P30011>1990</m:P30011>
       <m:P30182>233 S.</m:P30182>
       <marc:M30000b>13 Ill.</marc:M30000b>
       <m:P30169>21 cm</m:P30169>
@@ -12890,6 +12938,10 @@
       <m:P30142>Roman</m:P30142>
       <m:P30117>Camilo José Cela. Aus dem Span. von Gerda Theile-Bruhns</m:P30117>
       <m:P30107>[1. - 5. Tsd.]</m:P30107>
+      <m:P30088>München</m:P30088>
+      <m:P30088>Zürich</m:P30088>
+      <m:P30083>Piper</m:P30083>
+      <m:P30011>1988</m:P30011>
       <m:P30182>273 S.</m:P30182>
       <m:P30169>20 cm</m:P30169>
       <m:P30001>ohne hilfsmittel zu benutzen</m:P30001>
@@ -12904,6 +12956,10 @@
       <m:P30142>Roman</m:P30142>
       <m:P30117>Camilo José Cela. Aus dem Span. von Carina von Enzenberg und Hartmut Zahn</m:P30117>
       <m:P30107>[1. - 3. Tsd.]</m:P30107>
+      <m:P30088>München</m:P30088>
+      <m:P30088>Zürich</m:P30088>
+      <m:P30083>Piper</m:P30083>
+      <m:P30011>1991</m:P30011>
       <m:P30182>328 S.</m:P30182>
       <m:P30169>21 cm</m:P30169>
       <m:P30001>ohne hilfsmittel zu benutzen</m:P30001>
@@ -12929,6 +12985,12 @@
       <m:P30107>2. Aufl., 6. - 25. Tsd.</m:P30107>
       <m:P30107>6. Aufl., 57. - 67. Tsd.</m:P30107>
       <m:P30107>3. Aufl., 41. - 48. Tsd.</m:P30107>
+      <m:P30088>München</m:P30088>
+      <m:P30088>Zürich</m:P30088>
+      <m:P30083>Piper</m:P30083>
+      <m:P30011>1988</m:P30011>
+      <m:P30011>1990</m:P30011>
+      <m:P30011>1989</m:P30011>
       <m:P30182>274 S.</m:P30182>
       <m:P30169>19 cm</m:P30169>
       <m:P30182>273 S.</m:P30182>
@@ -12945,6 +13007,10 @@
       <m:P30156>Pascual Duartes Familie</m:P30156>
       <m:P30142>Roman</m:P30142>
       <m:P30117>Camilo José Cela. Aus dem Span. von George Leisewitz und Gerda Theile-Bruhns. Mit einem Nachw. von Hans-Jörg Neuschäfer. [Die Übers. wurde für diese Ausg. von Anette Grube überarb.]</m:P30117>
+      <m:P30088>München</m:P30088>
+      <m:P30088>Zürich</m:P30088>
+      <m:P30083>Piper</m:P30083>
+      <m:P30011>1990</m:P30011>
       <m:P30182>157 S.</m:P30182>
       <m:P30169>19 cm</m:P30169>
       <m:P30001>ohne hilfsmittel zu benutzen</m:P30001>
@@ -12959,6 +13025,10 @@
       <m:P30004>isbn-3492112498</m:P30004>
       <m:P30156>Geschichten ohne Liebe</m:P30156>
       <m:P30117>Camilo José Cela. Aus d. Span. von Rainer Specht. Mit 32 Farbill. von Pablo Picasso</m:P30117>
+      <m:P30088>München</m:P30088>
+      <m:P30088>Zürich</m:P30088>
+      <m:P30083>Piper</m:P30083>
+      <m:P30011>1990</m:P30011>
       <m:P30182>150 S.</m:P30182>
       <marc:M30000b>32 Ill.</marc:M30000b>
       <m:P30169>19 cm</m:P30169>
@@ -12976,6 +13046,10 @@
       <m:P30156>Pascual Duartes Familie</m:P30156>
       <m:P30142>Roman</m:P30142>
       <m:P30117>Camilo José Cela</m:P30117>
+      <m:P30088>München</m:P30088>
+      <m:P30083>Piper</m:P30083>
+      <m:P30083>Piper Edition</m:P30083>
+      <m:P30011>2018</m:P30011>
       <m:P30182>239 Seiten</m:P30182>
       <m:P30169>250 g</m:P30169>
       <m:P30001>ohne hilfsmittel zu benutzen</m:P30001>
@@ -12991,6 +13065,10 @@
       <m:P30156>Mrs. Caldwell spricht mit ihrem Sohn</m:P30156>
       <m:P30142>Roman</m:P30142>
       <m:P30117>Camilo José Cela</m:P30117>
+      <m:P30088>München</m:P30088>
+      <m:P30083>Piper</m:P30083>
+      <m:P30083>Piper Edition</m:P30083>
+      <m:P30011>2018</m:P30011>
       <m:P30182>227 Seiten</m:P30182>
       <m:P30169>250 g</m:P30169>
       <m:P30001>ohne hilfsmittel zu benutzen</m:P30001>
@@ -13004,6 +13082,10 @@
       <m:P30004>ian-9783492550253</m:P30004>
       <m:P30156>Geschichten ohne Liebe</m:P30156>
       <m:P30117>Camilo José Cela</m:P30117>
+      <m:P30088>München</m:P30088>
+      <m:P30083>Piper</m:P30083>
+      <m:P30083>Piper Edition</m:P30083>
+      <m:P30011>2018</m:P30011>
       <m:P30182>150 Seiten</m:P30182>
       <m:P30169>200 g</m:P30169>
       <m:P30001>ohne hilfsmittel zu benutzen</m:P30001>
@@ -13018,6 +13100,9 @@
       <m:P30156>Mazurka für zwei Tote</m:P30156>
       <m:P30142>Roman</m:P30142>
       <m:P30117>Camilo José Cela ; Übersetzung aus dem Spanischen von Carina von Enzenberg und Hartmut Zahn</m:P30117>
+      <m:P30088>München</m:P30088>
+      <m:P30083>Piper</m:P30083>
+      <m:P30011>2018</m:P30011>
       <m:P30182>328 Seiten</m:P30182>
       <m:P30169>21 cm, 310 g</m:P30169>
       <m:P30001>ohne hilfsmittel zu benutzen</m:P30001>
@@ -13031,6 +13116,10 @@
       <m:P30004>ian-9783492550277</m:P30004>
       <m:P30156>Ein Vagabund im Dienste Spaniens</m:P30156>
       <m:P30117>Camilo José Cela</m:P30117>
+      <m:P30088>München</m:P30088>
+      <m:P30083>Piper</m:P30083>
+      <m:P30083>Piper Digital</m:P30083>
+      <m:P30011>2018</m:P30011>
       <m:P30182>282 Seiten</m:P30182>
       <m:P30169>300 g</m:P30169>
       <m:P30001>ohne hilfsmittel zu benutzen</m:P30001>
@@ -13045,6 +13134,10 @@
       <m:P30156>Der Bienenkorb</m:P30156>
       <m:P30142>Roman</m:P30142>
       <m:P30117>Camilo José Cela</m:P30117>
+      <m:P30088>München</m:P30088>
+      <m:P30083>Piper</m:P30083>
+      <m:P30083>Piper Digital</m:P30083>
+      <m:P30011>2018</m:P30011>
       <m:P30182>288 Seiten</m:P30182>
       <m:P30169>300 g</m:P30169>
       <m:P30001>ohne hilfsmittel zu benutzen</m:P30001>
@@ -13060,6 +13153,10 @@
       <m:P30156>Mrs. Caldwell spricht mit ihrem Sohn</m:P30156>
       <m:P30142>Roman</m:P30142>
       <m:P30117>Camilo José Cela</m:P30117>
+      <m:P30088>Munich</m:P30088>
+      <m:P30083>Piper ebooks</m:P30083>
+      <m:P30083>Piper Edition</m:P30083>
+      <m:P30011>2018</m:P30011>
       <m:P30182>Online-Ressource, 227 Seiten</m:P30182>
       <m:P30001>computermedien</m:P30001>
       <m:P30002>online-ressource</m:P30002>
@@ -13073,6 +13170,10 @@
       <m:P30156>Pascual Duartes Familie</m:P30156>
       <m:P30142>Roman</m:P30142>
       <m:P30117>Camilo José Cela</m:P30117>
+      <m:P30088>Munich</m:P30088>
+      <m:P30083>Piper ebooks</m:P30083>
+      <m:P30083>Piper Edition</m:P30083>
+      <m:P30011>2018</m:P30011>
       <m:P30182>Online-Ressource, 239 Seiten</m:P30182>
       <m:P30001>computermedien</m:P30001>
       <m:P30002>online-ressource</m:P30002>
@@ -13086,6 +13187,10 @@
       <m:P30004>unknown-041915</m:P30004>
       <m:P30156>Geschichten ohne Liebe</m:P30156>
       <m:P30117>Camilo José Cela. Aus dem Span. von Rainer Specht. Mit 32 Farbill. von Pablo Picasso</m:P30117>
+      <m:P30088>Frankfurt am Main</m:P30088>
+      <m:P30088>Berlin</m:P30088>
+      <m:P30083>Propyläen</m:P30083>
+      <m:P30011>1990</m:P30011>
       <m:P30182>150 S.</m:P30182>
       <marc:M30000b>32 Ill.</marc:M30000b>
       <m:P30169>20 cm</m:P30169>
@@ -13100,6 +13205,14 @@
       <m:P30156>Literatur und Film</m:P30156>
       <m:P30142>La colmena von Camilo José Cela</m:P30142>
       <m:P30117>Gisela Palmes</m:P30117>
+      <m:P30088>Frankfurt am Main</m:P30088>
+      <m:P30088>Berlin</m:P30088>
+      <m:P30088>Bern</m:P30088>
+      <m:P30088>New York</m:P30088>
+      <m:P30088>Paris</m:P30088>
+      <m:P30088>Wien</m:P30088>
+      <m:P30083>Lang</m:P30083>
+      <m:P30011>1994</m:P30011>
       <m:P30182>268 S.</m:P30182>
       <m:P30169>21 cm</m:P30169>
       <m:P30001>ohne hilfsmittel zu benutzen</m:P30001>
@@ -13117,6 +13230,11 @@
       <m:P30117>Camilo José Cela. [Nach d. Übers. von George Leisewitz überarb. von Gerda Theile-Bruhns unter Mitw. d. Autors]</m:P30117>
       <m:P30117>Camilo José Cela. [Veröff. nach d. Übers. von George Leisewitz unter Mitarb. d. Autors u. Gerda Theile-Bruhns]</m:P30117>
       <m:P30107>Numerierte Jubiläumsausg., Sonderausg.</m:P30107>
+      <m:P30088>Zürich</m:P30088>
+      <m:P30083>Arche</m:P30083>
+      <m:P30011>1989</m:P30011>
+      <m:P30083>Verlag der Arche</m:P30083>
+      <m:P30011>[1984]</m:P30011>
       <m:P30182>239 S.</m:P30182>
       <m:P30169>20 cm</m:P30169>
       <m:P30169>19 cm</m:P30169>
@@ -13136,6 +13254,8 @@
       <m:P30088>Marburg</m:P30088>
       <m:P30083>Tectum</m:P30083>
       <m:P30011>cop. 2011</m:P30011>
+      <m:P30083>Tectum-Verl</m:P30083>
+      <m:P30011>2011</m:P30011>
       <m:P30182>102 p.</m:P30182>
       <m:P30169>21 cm</m:P30169>
       <m:P30182>102 S.</m:P30182>
@@ -13148,6 +13268,9 @@
       <m:P30004>isbn-388379273</m:P30004>
       <m:P30156>Geschichten ohne Liebe</m:P30156>
       <m:P30117>Camilo José Cela. Aus d. Span. von Rainer Specht. Mit 32 Farbill. von Pablo Picasso</m:P30117>
+      <m:P30088>Dortmund</m:P30088>
+      <m:P30083>Harenberg</m:P30083>
+      <m:P30011>1981</m:P30011>
       <m:P30182>150 S.</m:P30182>
       <marc:M30000b>32 Ill. (farb.)</marc:M30000b>
       <m:P30169>18 cm</m:P30169>
@@ -13549,6 +13672,9 @@
       <m:P30156>La colmena</m:P30156>
       <m:P30117>Camilo José Cela ; edición de Jorge Urrutia</m:P30117>
       <m:P30107>Vigesimoprimera edición.</m:P30107>
+      <m:P30088>Madrid</m:P30088>
+      <m:P30083>Cátedra</m:P30083>
+      <m:P30011>2018</m:P30011>
       <m:P30182>366 pages :</m:P30182>
       <marc:M30000b>illustrations (black and white) ;</marc:M30000b>
       <m:P30169>18 cm.</m:P30169>
@@ -13584,6 +13710,7 @@
       <marc:M30000b>il.</marc:M30000b>
       <m:P30169>23 cm</m:P30169>
       <m:P30001>sin mediación</m:P30001>
+      <m:P30327 rdf:resource="http://example.org/barraluis"/>
    </c:C10007>
    <c:C10007 rdf:about="http://example.org/isbn-9788461221295">
       <marc:M001>a4297772</marc:M001>
@@ -13912,6 +14039,16 @@
       <m:P30004>unknown-041666</m:P30004>
       <m:P30156>Pascual Duartes Familie</m:P30156>
       <m:P30117>Camilo José Cela. [Veröff. nach d. Übers. von George Leisewitz unter Mitarb. d. Autors u. Gerda Theile-Bruhns]</m:P30117>
+      <m:P30088>Gütersloh</m:P30088>
+      <m:P30088>Kornwestheim</m:P30088>
+      <m:P30088>Wien</m:P30088>
+      <m:P30088>Zug/Schweiz</m:P30088>
+      <m:P30083>Bertelsmann-Club</m:P30083>
+      <m:P30083>EBG-Verl.-GmbH</m:P30083>
+      <m:P30083>Dt. Buch-Gemeinschaft</m:P30083>
+      <m:P30083>Buchgemeinschaft Donauland</m:P30083>
+      <m:P30083>Buch- u. Schallplattenfreunde</m:P30083>
+      <m:P30011>[1990]</m:P30011>
       <m:P30182>173 S.</m:P30182>
       <m:P30169>22 cm</m:P30169>
       <marc:M30000e>Fibel (11 S.)</marc:M30000e>
@@ -13925,6 +14062,9 @@
       <m:P30004>unknown-080049</m:P30004>
       <m:P30156>Geschichten ohne Liebe</m:P30156>
       <m:P30117>Camilo José Cela. Aus d. Span. von Rainer Specht. Mit 32 Farbill. von Pablo Picasso</m:P30117>
+      <m:P30088>Berlin</m:P30088>
+      <m:P30083>Propyläen-Verl</m:P30083>
+      <m:P30011>1968</m:P30011>
       <m:P30182>153 S.</m:P30182>
       <m:P30169>4</m:P30169>
       <m:P30001>ohne hilfsmittel zu benutzen</m:P30001>
@@ -13945,5 +14085,6 @@
       <m:P30001>vídeo</m:P30001>
       <m:P30106>Filmoteca Fnacional</m:P30106>
       <m:P30139 rdf:resource="https://www.imdb.com/title/tt0083743//spa/mvoingimage/"/>
+      <m:P30327 rdf:resource="http://example.org/tolentinojavier"/>
    </c:C10007>
 </rdf:RDF>
