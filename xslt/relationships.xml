@@ -325,7 +325,7 @@
         <k>sll</k>
         <k>http://rdaregistry.info/Elements/a/sellerAgentOf.en</k>
         <k>http://rdaregistry.info/Elements/a/distributorAgentOf.en</k>
-        <forward>http://rdaregistry.info/Elements/m/P30080"</forward>
+        <forward>http://rdaregistry.info/Elements/m/P30080</forward>
         <reverse>http://rdaregistry.info/Elements/a/P50199</reverse>
         <domain>Manifestation</domain>
         <range>Person</range>
