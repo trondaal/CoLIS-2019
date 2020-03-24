@@ -2,7 +2,7 @@
 <xsl:stylesheet xmlns:frbrizer="http://idi.ntnu.no/frbrizer/"
                 xmlns:xs="http://www.w3.org/2001/XMLSchema"
                 xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
-                version="3.0">
+                version="2.0">
    <xsl:param name="debug" as="xs:boolean" select="false()"/>
    <xsl:param name="include_MARC001_in_entityrecord"
               as="xs:boolean"
